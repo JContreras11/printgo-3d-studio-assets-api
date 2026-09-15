@@ -1,0 +1,43 @@
+{
+ "id": "2151235",
+ "title": "Phone shelf",
+ "slug": "phone-shelf",
+ "url": "https://makerworld.com/en/models/2151235-phone-shelf",
+ "author": "JEP0405",
+ "category": "bedroom",
+ "source_category": "Household > Decor",
+ "description": "My wife wanted a shelf for her phone next to the bed, where the charger plug doesn't fall down. So here is my version of it :-)\n\nphone shelf phoneshelf Charger Holder bed bed accessory bedshelf",
+ "tags": [
+  "Charger",
+  "Holder",
+  "bed",
+  "bed accessory",
+  "bedshelf",
+  "phone",
+  "phoneshelf",
+  "shelf"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-12-23",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Telefon_hylde.3mf.xz",
+   "size": 858956,
+   "sha256": "79136b987df78de3fa69f1568db414fbf686081065ae46663dbb3d5c5bfe50ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5c770de353fced/design/2025-12-23_ec4a4f4516725.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

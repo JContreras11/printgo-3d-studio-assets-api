@@ -1,0 +1,41 @@
+{
+ "id": "387026",
+ "title": "Reusable Soap Dispenser",
+ "slug": "reusable-soap-dispenser",
+ "url": "https://makerworld.com/en/models/387026-reusable-soap-dispenser",
+ "author": "clydefrog",
+ "category": "bathroom",
+ "source_category": "Household > Other House Models",
+ "description": "**Reusable Soap Dispenser.**\n\nThis is a reusable soap dispenser. It is made for 28-410 pump caps. Find out if you have a 28-410 pump cap at home already with this website: www.paramountglobal.com/knowledge/bottle-neck-thread-finish/\n\nbathroom bathroom accessories bathroom accessory soap dispenser vase threaded contest",
+ "tags": [
+  "bathroom",
+  "bathroom accessories",
+  "bathroom accessory",
+  "contest",
+  "dispenser",
+  "soap",
+  "threaded",
+  "vase"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-03-21",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Reusable_soap_dispenser.3mf.xz",
+   "size": 2736372,
+   "sha256": "d30ff45ef9a7fe84502c66822d53361682165948319ef9c0aadcca2d93226bf9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1754e04a873735/design/2024-03-21_d4976d1e0e6a.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": "2525763",
+ "title": "Modern Ribbed Organizer Tray",
+ "slug": "modern-ribbed-organizer-tray",
+ "url": "https://makerworld.com/en/models/2525763-modern-ribbed-organizer-tray",
+ "author": "Sipowka",
+ "category": "bathroom",
+ "source_category": "Tools > Organizers",
+ "description": "Large minimalist organizer tray with a modern ribbed design.\n\nPerfect for organizing cosmetics, perfumes, skincare products, jewelry or everyday accessories. The large base provides plenty of space while the ribbed walls give the tray a stylish and modern look.\n\nGreat for bathroom shelves, dressing tables, desks or general home organization.\n\n**Size:**\n\n225 × 185 × 65 mm\n\nDesigned to print without supports and compatible with most standard 3D printing materials such as PLA.\n\n**Printing Notes**\n\nBecause of the large flat top surface, printing the top layer can sometimes be challenging. Lower infill densities may cause the top layer to sag or produce uneven lines.\n\nIn my tests, the best results were achieved with **40% Gyroid infill and 5 top layers**. Other infill patterns or lower densities may lead to visible gaps on the top surface.\n\nIf anyone finds a more efficient way to print this model with lower infill or better surface quality, feel free to share your suggestions.\n\norganizers tray ribbed Tool modern 'modern storage desk organizer bathroom organizer cosmetic organizer minimalist home decor",
+ "tags": [
+  "Tool",
+  "bathroom organizer",
+  "cosmetic organizer",
+  "desk organizer",
+  "home decor",
+  "minimalist",
+  "modern",
+  "organizers",
+  "ribbed",
+  "storage",
+  "tray",
+  "%27modern"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-08-27",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Modern_Ribbed_Organizer_Tray.3mf.xz",
+   "size": 1012332,
+   "sha256": "28d248381ac08aa1f27708a29cf9b3e59703be40325cdd6f6a71d7fe966d082a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdd24ec3c086bd7/design/c44cee8ef29c7177.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

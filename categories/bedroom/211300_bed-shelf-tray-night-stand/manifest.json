@@ -1,0 +1,39 @@
+{
+ "id": "211300",
+ "title": "Bed Shelf / Tray / Night stand",
+ "slug": "bed-shelf-tray-night-stand",
+ "url": "https://makerworld.com/en/models/211300-bed-shelf-tray-night-stand",
+ "author": "dyrokk",
+ "category": "bedroom",
+ "source_category": "Household > Other House Models",
+ "description": "I remixed this bed shelf to fit my daughters bed and made it a little smoother by rounding corners and edges. Size is approximately 24 x 16.5 cm with the mounting gap suited for a 2.5 x 5 cm.\n\nThe original had a fairly larger size and the mounting gap was a little bit bigger. I also smoothed out and rounded corners, the mounting gap, hard edges on the top inlet and on the inner support structure and added little teeth in the mounting gap for a better fit and less risk to fall off.\n\nLicense according to original creator\n\nbed shelf night stand tray",
+ "tags": [
+  "bed",
+  "night stand",
+  "shelf",
+  "tray"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-02-28",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Bed_Shelf.3mf.xz",
+   "size": 748636,
+   "sha256": "3e8451cd2b193242f36e7352a25cfea730a3b96eff988cfe42d92f1d0a0240a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5856497f6675a/design/2024-02-28_7b7ad51eeace3.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

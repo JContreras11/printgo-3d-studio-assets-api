@@ -1,0 +1,38 @@
+{
+ "id": "1075571",
+ "title": "Oxygen Atom Model",
+ "slug": "oxygen-atom-model",
+ "url": "https://makerworld.com/en/models/1075571-oxygen-atom-model",
+ "author": "donywang922",
+ "category": "science",
+ "source_category": "Education > Chemistry",
+ "description": "An oxygen atom model, the electron orbitals are a length of filament. 16 core balls, 8 electron balls. Base diameter 3cm.\n\nChemistry Chemical Structure Atom",
+ "tags": [
+  "%E5%8C%96%E5%AD%A6",
+  "%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84",
+  "%E5%8E%9F%E5%AD%90"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-02-05",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/atom_core.3mf.xz",
+   "size": 792564,
+   "sha256": "d98c949cbd96ee60f251ceb785b5f6896318bcea718efa5f3d1a61e1b9c0e546",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6869c6da3ed12/design/2025-02-05_83e5325b6bd87.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

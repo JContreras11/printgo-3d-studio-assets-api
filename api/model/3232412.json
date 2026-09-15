@@ -1,0 +1,45 @@
+{
+ "id": "3232412",
+ "title": "CS TM1638 Dashboard for SimHub",
+ "slug": "cs-tm1638-dashboard-for-simhub",
+ "url": "https://makerworld.com/en/models/3232412-cs-tm1638-dashboard-for-simhub",
+ "author": "naim",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "The simplest TM1638 dashboard build for beginners, hobbyists, and makers.\n\n## Requirements\n\n- A working soldering iron\n- 3mm x 6mm self-tapping screws x4\n- 2mm x 6mm self-tapping screws x4\n- Arduino Nano V3.0 (you can buy 5 for $10 on AliExpress)\n\nIf you want to use mounting inserts:\n\n-  3mm heat-set inserts, OD 3.8mm x2\n-  M3 x 6mm screws x2\n\n## Notes\n\nWhen printing the cover, you have to pause the print as shown in the image below.\n\nWhen the print is paused, place the Nano V3.0 into the model, then resume.\n\nsimhub tm1638 dashboard rally leds 7seg",
+ "tags": [
+  "7seg",
+  "dashboard",
+  "leds",
+  "rally",
+  "simhub",
+  "tm1638"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-03-10",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/TM1638_Dashboard.3mf.xz",
+   "size": 1462228,
+   "sha256": "797cd10bab94f78e8a042c2933c39790ddcfddd0409f1644f70def0b791b6cc1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USde421308bf8adc/design/b72071e7d4ae4043.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

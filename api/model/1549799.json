@@ -1,0 +1,43 @@
+{
+ "id": "1549799",
+ "title": "Bedside Table",
+ "slug": "bedside-table",
+ "url": "https://makerworld.com/en/models/1549799-bedside-table",
+ "author": "Kingdriver",
+ "category": "bedroom",
+ "source_category": "Household > Decor",
+ "description": "Bedside Table:\n\nI have designed a table here that can be assembled to the bed in under a minute, providing a convenient bedside surface. The book shown in the image has 1275 pages and thus considerable weight, yet the table supports it and my iPad without any issues.\n\nThe grey bracket visible in the first image is another one of my models, which you can find on my profile.\n\nbett bed tray desk halter function shelf",
+ "tags": [
+  "ablage",
+  "bett",
+  "bett ablage",
+  "funktion",
+  "halter",
+  "tisch"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-06-25",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Bett_Tisch.3mf.xz",
+   "size": 1070408,
+   "sha256": "bc3bcbd4b383f191e7493fa2cd26a7c802041eb65308f9eca7d1af6541149053",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc82e909d85de73/design/2025-06-25_f4fb28090e3c8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

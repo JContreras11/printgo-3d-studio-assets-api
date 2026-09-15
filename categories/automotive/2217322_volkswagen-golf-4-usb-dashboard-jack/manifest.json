@@ -1,0 +1,39 @@
+{
+ "id": "2217322",
+ "title": "Volkswagen Golf 4 Usb Dashboard Jack",
+ "slug": "volkswagen-golf-4-usb-dashboard-jack",
+ "url": "https://makerworld.com/en/models/2217322-volkswagen-golf-4-usb-dashboard-jack",
+ "author": "user_317880369",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "This piece allows you to use a female usb connector on your Volkswagen Golf 4 dashboard. You will need a female usb cable to your car radio.\n\nVW Volkswagen golf dashboard USB jack usb female",
+ "tags": [
+  "USB",
+  "VW",
+  "dashboard",
+  "golf",
+  "jack",
+  "usb female",
+  "volkswagen"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2026-01-08",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/VW_Usb_jack_dashboard.3mf.xz",
+   "size": 1098228,
+   "sha256": "8642e810d95ae9365c749ae1c77e12709999fc482ea1aae1737530f561b94fbb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa5717f69ac433/design/2026-01-08_225c43ff08878.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

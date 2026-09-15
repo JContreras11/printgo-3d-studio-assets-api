@@ -1,0 +1,36 @@
+{
+ "id": "2087811",
+ "title": "Uchwyt do łóżka, bedside table, szafka nocna",
+ "slug": "uchwyt-do-lozka-bedside-table-szafka-nocna",
+ "url": "https://makerworld.com/en/models/2087811-uchwyt-do-lozka-bedside-table-szafka-nocna",
+ "author": "Szronie",
+ "category": "bedroom",
+ "source_category": "Household > Other House Models",
+ "description": "Holder for phone in bed, bedside table\n\nPhone holder, bedside shelf mounted to the side of the bed\n\nDivided into two parts. The parts should be glued with ordinary glue to ensure they fit well on the given bed. Two brackets can be used for a more stable hold\n\nYou need to glue these two parts. Very easy",
+ "tags": [],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-12-07",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/do_druku_zestaw.3mf.xz",
+   "size": 1410404,
+   "sha256": "97e0ade3ce312df4223b356105d603af8b0f2d8a1a5ce7ca4518402432470c74",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbd08a8acb61268/design/2025-12-07_0984b47fe07188.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

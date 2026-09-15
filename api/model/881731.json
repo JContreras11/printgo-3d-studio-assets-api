@@ -1,0 +1,44 @@
+{
+ "id": "881731",
+ "title": "RAV4 Phone Holder Dash Mount (for Plasticlamp)",
+ "slug": "rav4-phone-holder-dash-mount-for-plasticlamp",
+ "url": "https://makerworld.com/en/models/881731-rav4-phone-holder-dash-mount-for-plasticlamp",
+ "author": "Aptimex",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "**Update Aug 2025:** I've made an improved v2 of this available here: https://makerworld.com/en/models/1709142-rav4-phone-holder-dash-mount-v2-for-plasticlamp\n\nDashboard mount (requiring no glue, adhesives, or car modifications) for 2013-2018 Toyota RAV4 cars, compatible with the popular “Plasticlamp” build-your-own-phone-holder system available here: https://www.printables.com/model/454546-plasticlamp-multi-purpose-clamp-adjustable-phone-h\n\nThis remix of an existing dashboard mount adds two M3 screw holes and hex indentations. This allows any of the Plasticlamp “Socket to Hex” parts to be securely mounted to it, forming the base of your custom phone holder mount. The Plasticlamp model page includes magnetic and mechanical phone holders that you can print, or go any other mount someone else has designed to be compatible with that system.\n\nTo use this you'll have to remove a dashboard panel, drop this on top of it, and then put the panel back to lock the mount into place. Watch the first 45 seconds of this video for instructions on removing the relevant dashboard panel (it's pretty easy):\n\n2013 - 2018 Toyota RAV4 Radio Removal #caraudio #toyota #rav4 - YouTube\n\nTap to unmute\n\n2013 - 2018 Toyota RAV4 Radio Removal #caraudio #toyota #rav4 Khmer Ohio\n\nKhmer Ohio 12.9K subscribers\n\nWatch on\n\nWarning: Don't pull/rotate the mount too far up once installed. It creates a strong lever against the trim piece and you can accidentally break the trim by doing that.\n\nI strongly recommend printing this in PETG or another heat-resistant material. PLA prints will deform and break the first time you leave your car parked in the sun.\n\nA similar mount for the left side is available here: https://makerworld.com/en/models/1087686\n\nrav4 dash dashboard phone holder plasticlamp car mount custom suv",
+ "tags": [
+  "car",
+  "custom",
+  "dash",
+  "dashboard",
+  "holder",
+  "mount",
+  "phone",
+  "plasticlamp",
+  "rav4",
+  "suv"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-12-15",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "files": [
+  {
+   "path": "model/Rav4_dash_mount_PP.3mf.xz",
+   "size": 946968,
+   "sha256": "d9fc0548797b3d7a6933a133c701da7d396f13ad05c445612ced395f41b9e364",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb0c43a944062ca/design/2024-12-15_e9dd0de94481c.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

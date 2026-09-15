@@ -1,0 +1,38 @@
+{
+ "id": "141457",
+ "title": "Bathroom organizer",
+ "slug": "bathroom-organizer",
+ "url": "https://makerworld.com/en/models/141457-bathroom-organizer",
+ "author": "galehrlich",
+ "category": "bathroom",
+ "source_category": "Household > Other House Models",
+ "description": "A modular organizer for a bath room\n\nWelcome to look at my other bathroom organizers designs:\n\nhttps://makerworld.com/en/models/627646#profileId-552279\n\nhttps://makerworld.com/en/models/627638#profileId-552267\n\norganiser bath",
+ "tags": [
+  "bath",
+  "organiser"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-08-10",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/door_hanger-3.3mf.xz",
+   "size": 2949096,
+   "sha256": "42885abf7e6aa866f042feccb259b737da7c9bf778057e7875afa264d2c23554",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdfc48a6895782c/design/2024-08-10_2b2a5b048f2da.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

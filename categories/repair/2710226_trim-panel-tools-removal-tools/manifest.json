@@ -1,0 +1,49 @@
+{
+ "id": "2710226",
+ "title": "Trim Panel Tools/Removal tools",
+ "slug": "trim-panel-tools-removal-tools",
+ "url": "https://makerworld.com/en/models/2710226-trim-panel-tools-removal-tools",
+ "author": "user_785126637",
+ "category": "repair",
+ "source_category": "Tools > Hand Tools",
+ "description": "**Trim Removal Tools Set (3D Printable)**\n\nThis is a set of 3D printable trim removal tools designed for safely removing car interior panels, clips, and trim pieces without damaging surfaces.\n\nThe set includes multiple tool shapes:\n\n- Straight and narrow tools for tight spaces\n- Curved tools for better leverage\n- Fork-style tools for clip removal\n- A wide spatula for gentle panel separation\n\n**Features:**\n\n- Safe for plastic surfaces (especially when printed in PLA or PETG)\n- Lightweight and easy to handle\n- Customizable and easy to reprint\n- Useful not only for cars, but also for electronics and household repairs\n\n**Print Settings:**\n\n- Material: PETG recommended (PLA also works)\n- Infill: 30–50%\n- Walls/Perimeters: 3–4\n- Orientation: print flat for better strength\n\nIf you find this model useful, feel free to leave a like 👍\n\ncars vehicle removal tools Tool service repair garage garage accessories kit aid tool accesory preparation",
+ "tags": [
+  "Tool",
+  "aid",
+  "cars",
+  "garage",
+  "garage accessories",
+  "kit",
+  "preparation",
+  "removal",
+  "repair",
+  "service",
+  "tool accesory",
+  "tools",
+  "vehicle"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-11-10",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Trim_Panel_Tools_Removal_tools.3mf.xz",
+   "size": 943088,
+   "sha256": "3d03d1914f4847f21bad2d1535928e7655734b3028adbc8476e5aff720024bdf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US31bf649832a49/design/a84eb595285d08a7.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

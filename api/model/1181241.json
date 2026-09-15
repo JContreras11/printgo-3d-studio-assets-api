@@ -1,0 +1,59 @@
+{
+ "id": "1181241",
+ "title": "Shaun the Sheep Toilet Roll Holder",
+ "slug": "shaun-the-sheep-toilet-roll-holder",
+ "url": "https://makerworld.com/en/models/1181241-shaun-the-sheep-toilet-roll-holder",
+ "author": "BrickBeat",
+ "category": "bathroom",
+ "source_category": "Household > Decor",
+ "description": "An eye-catcher and emergency helper in one. Behold the sheep as a toilet paper roll holder.\n\nIn this version, the rear end has been shortened, making it easier to disassemble the parts to access the desired roll.\n\nUpdate April 25: I have added a printing plate for rolls with a smaller diameter; there is now a choice between 42mm and 39mm\n\ntoilet shaun the sheep bathroom shelf bathroom soap decor joyful shaun toilettenpapier toilet paper roll toiletpaper toiletpaper holder toilet wc sheep papierrolle halter sheep bad",
+ "tags": [
+  "bad",
+  "bad ablage badezimmer seife",
+  "deko",
+  "halter",
+  "lustig",
+  "papierrolle",
+  "schaf",
+  "shaun",
+  "shaun the sheep",
+  "sheep",
+  "toilet",
+  "toiletpaper",
+  "toiletpaper holder",
+  "toiletten",
+  "toilettenpapier",
+  "toilettenrolle",
+  "wc"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-03-07",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/shaun_das_schaf.3mf.xz",
+   "size": 9138616,
+   "sha256": "d1e91a7308564b05eda907b4ccc4a50d1ad6b6b285742962e903fd2513d0ddc8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/shaun_the_sheep_32_mm_version.3mf.xz",
+   "size": 7258600,
+   "sha256": "08b190091276d8f1959e1e800e0c472b58bb5eade27c387c08f7c6ba1723b0cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3f1a97c8ee5b52/design/2025-03-07_32c9aafd33cae8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

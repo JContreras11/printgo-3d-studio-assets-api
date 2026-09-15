@@ -1,0 +1,43 @@
+{
+ "id": "1890382",
+ "title": "Dashboard Blank 7E0858179 3X1",
+ "slug": "dashboard-blank-7e0858179-3x1",
+ "url": "https://makerworld.com/en/models/1890382-dashboard-blank-7e0858179-3x1",
+ "author": "Zimi0",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "Hi.\n\nThis is a model for dashboard blanks for the VW T5.\n\nI have found several other designs online but sadly they were either too brittle or wouldn't fit properly.\n\nThus I took out a blank and a caliper on my own and have created this model.\n\nEDIT:\n\nSorry. I had Accidentally uploaded an old file with the wrong height. It should be fitting as seen in the photo now.\n\nI printed in PETG. ASA or ABS would be better I guess, but since it's only a blank PETG will do.\n\nVolkswagen VW T5 vw t5 volkswagen t5 transporter transporter t5 transporter vw vw transporter volkswagen transporter",
+ "tags": [
+  "T5",
+  "VW",
+  "transporter",
+  "transporter t5",
+  "transporter vw",
+  "volkswagen",
+  "volkswagen t5",
+  "volkswagen transporter",
+  "vw t5",
+  "vw transporter"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-10-15",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Dashboard_Blank_Blinddeckel_Armaturenbrett_VW_T5_Transporter.3mf.xz",
+   "size": 238440,
+   "sha256": "f045bb3146635ded6097cefea9eaa7c76466992425ad08c4bfdc4821881ddc8c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3a412c2e8e7472/design/2025-10-15_c1f9066924e66.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

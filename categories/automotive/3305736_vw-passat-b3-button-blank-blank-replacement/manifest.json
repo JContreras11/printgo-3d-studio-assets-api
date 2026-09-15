@@ -1,0 +1,48 @@
+{
+ "id": "3305736",
+ "title": "VW Passat B3 Button Blank / Blank Replacement",
+ "slug": "vw-passat-b3-button-blank-blank-replacement",
+ "url": "https://makerworld.com/en/models/3305736-vw-passat-b3-button-blank-blank-replacement",
+ "author": "cosmonut",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "A 3D printable replacement blank button / switch cover for the **Volkswagen Passat B3**.\n\nI created this part as a replacement for a missing or damaged button/blank in the dashboard.\n\nThe model is designed to fit in the original mounting location and can be printed as a replacement part.\n\n**Features:**\n\n• Designed for VW Passat B3\n\n• Replacement button / switch blank\n\n• FDM printable\n\n• No supports required _(если действительно печатается без поддержек)_\n\n• Simple and lightweight design\n\nI printed and tested the part myself.\n\n**Please check the dimensions of your original part before printing**, as vehicle interiors and parts may differ depending on the specific version of the car.\n\nThis is an independent 3D-printable replacement part and is not an official Volkswagen product.\n\nIf you print it, I would really appreciate a photo of your result and any feedback about the fit!\n\nCar button Passat Volkswagen vw passat b3 car parts replacement part switch blank dashboard automotive",
+ "tags": [
+  "Car",
+  "automotive",
+  "button",
+  "car parts",
+  "dashboard",
+  "passat",
+  "passat b3",
+  "replacement part",
+  "switch blank",
+  "volkswagen",
+  "vw"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-05-02",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/passat_ver_2.3mf.xz",
+   "size": 1256492,
+   "sha256": "97bda2c3cac2af8eead28bd3bfa4f14b6907998023559fa4b6384242411dfa6f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2a399c2b0f93a3/design/a99d1af5393be123.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "460211",
+ "title": "03-08 Corolla Lower Dash Switch Plate",
+ "slug": "03-08-corolla-lower-dash-switch-plate",
+ "url": "https://makerworld.com/en/models/460211-03-08-corolla-lower-dash-switch-plate",
+ "author": "Maple",
+ "category": "automotive",
+ "source_category": "Tools > Gadgets",
+ "description": "This plate replaces the stock lower dash storage door that comes in the 03-08 Toyota Corollas\n\nIt has slots for 3 switches on the left hand side, closest to the driver. 1 slot for a switch or a usb interface on the passenger side.\n\nIts made to screw into the sides of the storage bin with 2 screws or rivets.\n\nYou can also mix and match by mirroring the parts in the Bambu app on windows along the x axis. Made on the A1 Mini, will possibly make a version for other printers if requested.\n\ntoyota corolla switch plate cover car accessories",
+ "tags": [
+  "car accessories",
+  "corolla",
+  "cover",
+  "switch plate",
+  "toyota"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-05-10",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/03-08_Corolla_storage_switch_cover_plate.3mf.xz",
+   "size": 802928,
+   "sha256": "06ebf5bd45b27b66324a004d068247f3cbeb4788613b98edd863d4060a314b92",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7cd063276565f3/design/2024-05-10_2b2a3910e39c.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

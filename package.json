@@ -1,0 +1,17 @@
+{
+  "name": "printgo-library-assets",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Legal 3D-library acquisition pipeline for PrintGo (crawl, fetch, organize, validate).",
+  "scripts": {
+    "test": "node --test tests/",
+    "validate": "node scripts/validate.js",
+    "list": "node scripts/list.js",
+    "crawl": "node scripts/crawl.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {}
+}

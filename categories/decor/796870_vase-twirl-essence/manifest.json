@@ -1,0 +1,40 @@
+{
+ "id": "796870",
+ "title": "Vase - Twirl Essence",
+ "slug": "vase-twirl-essence",
+ "url": "https://makerworld.com/en/models/796870-vase-twirl-essence",
+ "author": "Fabian_S1991",
+ "category": "decor",
+ "source_category": "Generative 3D Model > Make My Vase",
+ "description": "This elegant spiral vase, named _Twirl Essence_, is a minimalist yet eye-catching piece designed for 3D printing enthusiasts. Created in the \"Spiral Vase Mode,\" it is both lightweight and time-efficient to print, making it ideal for quick decor upgrades. With its smooth, flowing curves, this vase is perfect for displaying dried flowers or as a standalone art piece. Please note, while visually stunning, the vase may not be fully waterproof and is best suited for non-liquid displays.\n\nPowered by MakerWorld-Make My Vase (https://makerworld.com/makerlab/makeMyVase)\n\nvase spiral vase spiral vase mode decor deco art quick print home decor",
+ "tags": [
+  "deco art",
+  "deko",
+  "home decor",
+  "quick print",
+  "spiral vase",
+  "spiral vase mode",
+  "vase"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-11-17",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "files": [
+  {
+   "path": "model/Spiral_Vase_241117.3mf.xz",
+   "size": 7132156,
+   "sha256": "ef5b49d3888fad86ec1eeaa813f045fa1531514f963f90bf414be0655bc8adc8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb7f1ee4eae4afd/design/2024-11-17_8a2e18795f50b.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": "934114",
+ "title": "Gewürzregal",
+ "slug": "gewurzregal",
+ "url": "https://makerworld.com/en/models/934114-gewurzregal",
+ "author": "DieselKisters",
+ "category": "home-organization",
+ "source_category": "Household > Other House Models",
+ "description": "Spice rack for rectangular and round spice jars for the kitchen. Individual compartments accommodate jars with a cross-sectional area of 40x40mm; there are 16 compartments in total. Simple, stable, and straightforward.\n\nThe screw holes are currently designed for M3x10 screws. If you wish to melt in threaded inserts, you will need to enlarge the holes of each level to prevent filament from entering the threads. Sixteen screws are needed for assembly; they hold very well even without inserts.\n\ngewuerz regal spice spice spicerack spicerackorganizer organizer kitchen kitchen kuechen organizer organize organizing kuechenregal gewuerzdosen halterungen spicebox spice rack kuechen regal\n\n* * *\n\n### Documentation (1)\n\nAssembly Guide (1)\n\nGewürzregal Zeichnung.PNG",
+ "tags": [
+  "gewuerz",
+  "gewuerz regal",
+  "gewuerzdosen halterungen",
+  "kitchen",
+  "kueche",
+  "kuechen organizer",
+  "kuechen regal",
+  "kuechenregal",
+  "organisieren",
+  "organizer",
+  "organizing",
+  "spice",
+  "spice rack",
+  "spicebox",
+  "spicerack",
+  "spicerackorganizer"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-01-02",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.png"
+ ],
+ "files": [
+  {
+   "path": "model/Gewürzregal.3mf.xz",
+   "size": 1268628,
+   "sha256": "0e5b12a1f8ddfd6b03756e32891354c5283379320a94da219dabd35f2228cda4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US37fbbb6c196e73/design/2025-01-02_3eea0c0a704d9.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

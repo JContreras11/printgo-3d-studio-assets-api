@@ -1,0 +1,64 @@
+{
+ "id": "3033118",
+ "title": "Modular Rack",
+ "slug": "modular-rack",
+ "url": "https://makerworld.com/en/models/3033118-modular-rack",
+ "author": "user_860553965",
+ "category": "home-organization",
+ "source_category": "Household > Other House Models",
+ "description": "This modular rack is designed for strength and stability, with minimal moving parts. Its design is informed by FEM analysis and real-world testing.\n\nA tight fit and hexagonal mating joints prevent the rack components from slipping apart. The structure is also designed with material efficiency in mind without compromising overall strength.\n\n> FEM Analysis showing 3mm maximum displacement under 100 kg (980 N) load on both faces.\n\nrack stackable cabinet organizer storage rack shelf strong adjustable sturdy heavy duty utility modular easy print organizer parametric customizable cabinet shelf functional print organization storage stacking shelfs modular storage garage organizer kitchen organizer workshop storage office organizer filament friendly scalable",
+ "tags": [
+  "adjustable",
+  "cabinet organizer",
+  "cabinet shelf",
+  "customizable",
+  "easy print",
+  "filament friendly",
+  "functional print",
+  "garage organizer",
+  "heavy duty",
+  "kitchen organizer",
+  "modular",
+  "modular storage",
+  "office organizer",
+  "organization",
+  "organizer",
+  "parametric",
+  "rack",
+  "scalable",
+  "shelf",
+  "stackable",
+  "stacking shelfs",
+  "storage",
+  "storage rack",
+  "strong",
+  "sturdy",
+  "utility",
+  "workshop storage"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-02-12",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Rack-Body.3mf.xz",
+   "size": 5618016,
+   "sha256": "793a970ef07cacf36439772778e4afb35e9dc73d5987ef90773715542fdda513",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US299035f7097f8a/design/f4f534ef5ed4947f.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

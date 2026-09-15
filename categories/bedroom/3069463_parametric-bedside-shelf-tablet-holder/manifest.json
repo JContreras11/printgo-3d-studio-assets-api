@@ -1,0 +1,47 @@
+{
+ "id": "3069463",
+ "title": "Parametric Bedside Shelf & Tablet Holder",
+ "slug": "parametric-bedside-shelf-tablet-holder",
+ "url": "https://makerworld.com/en/models/3069463-parametric-bedside-shelf-tablet-holder",
+ "author": "user_3207896129",
+ "category": "bedroom",
+ "source_category": "Household > Other House Models",
+ "description": "**Overview**\n\nTired of losing your phone in the sheets or having nowhere safe to rest your tablet while relaxing in bed? This Parametric Bedside Device Shelf is the ultimate customizable solution for any bed frame style.\n\nBecause this model is fully parametric, you don't have to worry about whether it will fit your specific furniture. You can easily adjust the project files to match the exact thickness and depth of your bed rail, as well as dial in the perfect slot width for your specific tablet and case setup.\n\n**Key Features**\n\n- 100% Parametric Customization: Modify the source files in seconds to fit any bed frame thickness or rail depth.\n- Adjustable Tablet Gap: Tweak the front slot width to perfectly cradle your device, whether it's a bare tablet or one wearing a thick, rugged folio case.\n- Dual-Device Layout: Holds your tablet at an optimal viewing angle while providing a flat rear tray for your smartphone, smartwatch, or wireless earbuds.\n- Non-Destructive Mounting: Slides securely onto your bed rail using a gravity-fit design. Perfect for rentals or preserving expensive furniture without drilling holes.\n\n**Print Recommendations**\n\n- Orientation: Print flat on its side for the best overall structural strength along the layer lines, ensuring the mounting bracket won't snap under tension.\n- Supports: REQUIRED. Enabling supports is necessary to handle the overhangs on the mounting channel and device lips. Tree supports (Auto) with a \"Snug\" style work beautifully here for easy removal.\n- Material: PLA works great, but PETG or PLA+ offers excellent structural flexibility for a snug fit.\n- Infill: 15% to 20% (Gyroid recommended).\n- Walls/Perimeters: 3-4 walls to ensure the frame grip is rugged and durable.\n\nbed bed accesory bed tray tray bed table phone tray shelf bed shelf customizable organiser parametric",
+ "tags": [
+  "bed",
+  "bed accesory",
+  "bed shelf",
+  "bed table",
+  "bed tray",
+  "customizable",
+  "organiser",
+  "parametric",
+  "phone tray",
+  "shelf",
+  "tray"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-12-07",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Bed_tray_0.6.3mf.xz",
+   "size": 1055128,
+   "sha256": "eb3616e379c84a23367fd754e2d25d4c61ca6d4008f85f24bb40f482a013bba5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3b71150b36a00c/design/c3d273d9280e8cfc.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

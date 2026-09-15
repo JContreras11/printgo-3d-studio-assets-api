@@ -1,0 +1,36 @@
+{
+ "id": "2899788",
+ "title": "Audi 80 Cabrio Type 89 in purple pearl effect",
+ "slug": "audi-80-cabrio-type-89-in-purple-pearl-effect",
+ "url": "https://makerworld.com/en/models/2899788-audi-80-cabrio-type-89-in-purple-pearl-effect",
+ "author": "user_3267371547",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "Here is one of the popular Audi 80 Cabrio Type 89 models in the rare color L0B 3 purple pearl effect",
+ "tags": [],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-08-06",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Audi80_Cabrio_Neu_3MF.3mf.xz",
+   "size": 9388780,
+   "sha256": "2d03bb22f19a12c8e6db00192418dbaf7bbd443bec9701263e2995a2c7fbbf4d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf6c2321c095ea4/design/806a3b16fec4a79a.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

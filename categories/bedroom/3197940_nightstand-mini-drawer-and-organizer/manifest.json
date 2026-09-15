@@ -1,0 +1,31 @@
+{
+ "id": "3197940",
+ "title": "Nightstand mini drawer and organizer",
+ "slug": "nightstand-mini-drawer-and-organizer",
+ "url": "https://makerworld.com/en/models/3197940-nightstand-mini-drawer-and-organizer",
+ "author": "nogitsune",
+ "category": "bedroom",
+ "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "description": "The mini four-drawer, organizer, and book stand in one.\n\nThe drawer and organizer are separated models so, only organizer without drawer may be also.\n\n**Additional Components Required**\n\n- Four M3 x 4mm Brass hot melt inserts (4mm OD)\n- Four M3 x 10mm socket head cap screws\n- Optional: eight 3 mm (D) x 2 mm (H) magnets as drawer locks\n\n**Additional Tools**\n\n- Heat-Set Insert Installation Tool\n\nWarnings!\n\n- **Do not use countersunk head screws!** Use only screws with a flat head on the bottom.\n\nNotes\n\n- **Brass hot melt inserts must not protrude above the surface.**",
+ "tags": [],
+ "license": "CC BY 4",
+ "release_date": "2025-08-27",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Organizer.3mf.xz",
+   "size": 742060,
+   "sha256": "f3a3cae29354a1e6540c3219a8e00ac74b75def5af72ea9368aeb45966761b84",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US189b46ecb7fd66/design/7c340c0fcec0937b.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

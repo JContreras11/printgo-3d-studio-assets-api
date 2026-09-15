@@ -1,0 +1,47 @@
+{
+ "id": "3073778",
+ "title": "Elegant Scandinavian vase",
+ "slug": "elegant-scandinavian-vase",
+ "url": "https://makerworld.com/en/models/3073778-elegant-scandinavian-vase",
+ "author": "Emde2828",
+ "category": "decor",
+ "source_category": "Household > Decor",
+ "description": "A modern Scandinavian-inspired vase featuring elegant vertical ribbing and a timeless minimalist silhouette. Designed for both fresh and dried flowers, it adds a refined Nordic touch to any home, office, or shelf. Perfect for 3D printing, with a sturdy closed base and clean, contemporary lines.\n\nnodric scandinavian modern vase minimalist flower centerpiece bambu studio BAMBU printable 3d print 3d spiral vase decor designer",
+ "tags": [
+  "3d",
+  "3d print",
+  "BAMBU",
+  "bambu studio",
+  "centerpiece",
+  "decor",
+  "designer",
+  "flower",
+  "minimalist",
+  "modern",
+  "nodric",
+  "printable",
+  "scandinavian",
+  "spiral vase",
+  "vase"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-08-03",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "files": [
+  {
+   "path": "model/nordisk_ribbet_vase_med_bund.3mf.xz",
+   "size": 2188320,
+   "sha256": "20a0426d8cd63675c69e76e1400eee4b2753ea036496649e125239543f5d11c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US406d4c9fe3faab/design/377a34edbac81895.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

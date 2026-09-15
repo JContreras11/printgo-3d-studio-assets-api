@@ -1,0 +1,55 @@
+{
+ "id": "659796",
+ "title": "Egg Storage and Dispenser P/X1 (no supports/hardware/adhesive)",
+ "slug": "egg-storage-and-dispenser-p-x1-no-supports-hardwar",
+ "url": "https://makerworld.com/en/models/659796-egg-storage-and-dispenser-p-x1-no-supports-hardwar",
+ "author": "user_1630380329",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "!!! This model is only recommended for use when space is limited !!! This model can hold up to 22 eggs simultaneously (only 17 supported if the top shelf has no space when placed in the refrigerator) If too many eggs are present, it may cause eggs to jam, and the entire model needs to be manually shaken to relieve the jam\n\nA1 mini users please visit the homepage for a version specifically optimized for the A1 mini\n\n30cm long, 7cm wide, 18.5cm high\n\nSimply insert 1.75mm filament into the 5 channels between the model parts to secure it no supports, no hardware, no adhesive needed Use the opening below to check if the filament is fully inserted\n\n1\\. Insert the filament into the hole\n\n2\\. Use the opening below to confirm if the filament is fully inserted\n\n3\\. Score with a utility knife then snap off\n\n(Note: The bottom horizontal channel is designed with a 2.2mm diameter, theoretically sufficient to account for filament shrinkage and elephant's foot effect during printing However, a small number of users have reported difficulty inserting the filament A chamfer has now been added to the right side when facing the model to further prevent the elephant's foot effect If you cannot insert the filament from the left, try inserting it from the right If it still cannot be inserted, you can try using a tool to further widen the outside of the channel before trying again)\n\nBoost Me (for free)\n\nIf it's useful, give me a boost, please\n\nBoost\n\nStorage kitchen Egg",
+ "tags": [
+  "%E5%8E%A8%E6%88%BF",
+  "%E6%94%B6%E7%BA%B3",
+  "%E9%B8%A1%E8%9B%8B"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-10-07",
+ "preview": "previews/01.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "files": [
+  {
+   "path": "model/Egg_front_plate.3mf.xz",
+   "size": 1257712,
+   "sha256": "28da6ae3b85f4b0d29eaa117077b7c054ed9e8255c58a756c9c7af3d48354098",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/egg_dispenser_v2.3mf.xz",
+   "size": 1580644,
+   "sha256": "0e087b99d58f4271e4a8dde49764ed7f974b8ca80a90efd55e5b039a4115c0ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/鸡蛋架v1.3mf.xz",
+   "size": 1530528,
+   "sha256": "ec8a7552fdc8e5b66ac548896f763b367ec72d3f5727dedd7c85f35dbb5d750e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US793c2b7f8381d2/design/e1f165c5-712a-455a-b7ab-dbce69cd9bca.webp?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

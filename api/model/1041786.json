@@ -1,0 +1,39 @@
+{
+ "id": "1041786",
+ "title": "Ridge Vase",
+ "slug": "ridge-vase",
+ "url": "https://makerworld.com/en/models/1041786-ridge-vase",
+ "author": "dynamico",
+ "category": "decor",
+ "source_category": "Generative 3D Model > Make My Vase",
+ "description": "A simple vase with vertical grooves that looks modern and stylish.\n\nPerfect as a decoration or for small flower arrangements.\n\nTip: Don't scale the model too small, as it might not stand out as much, like it happened to me. I had to scale it down because of time constraints, but I still think it looks pretty cool, even though it might appear a bit incomplete.\n\nPowered by MakerWorld-Make My Vase (https://makerworld.com/makerlab/makeMyVase)\n\nvase flower vase flowervases flowervase",
+ "tags": [
+  "blumenvase",
+  "flowervase",
+  "flowervases",
+  "vase"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-01-26",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "files": [
+  {
+   "path": "model/Ridge_Vase.3mf.xz",
+   "size": 2526532,
+   "sha256": "498aae49b146cf1d3a292fead2298702a47fca8a58f0d0934301dec395a75d6c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa0eb76c71d2629/design/2025-01-26_ec3038c4fe491.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

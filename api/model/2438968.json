@@ -1,0 +1,45 @@
+{
+ "id": "2438968",
+ "title": "BMW",
+ "slug": "bmw",
+ "url": "https://makerworld.com/en/models/2438968-bmw",
+ "author": "Lambrijas",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "BMW SERIES 3 M3 E46 COUPE MODEL\n\nBMW bmw car BMW car maqueta personalizable",
+ "tags": [
+  "BMW",
+  "bmw",
+  "coche",
+  "coche bmw",
+  "maqueta",
+  "personalizable"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-11-27",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/BMW_TOTO.3mf.xz",
+   "size": 16489584,
+   "sha256": "83347c5030cdaac9fcdbd96078d81f62a7fed47bb23a462b46856f1f9198d009",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc2e2d1926a5b6f/design/bc35efa30ee463a4.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

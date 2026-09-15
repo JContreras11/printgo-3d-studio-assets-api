@@ -1,0 +1,35 @@
+{
+ "id": "1470140",
+ "title": "Bedside Mini Shelf with Cable Hole",
+ "slug": "bedside-mini-shelf-with-cable-hole",
+ "url": "https://makerworld.com/en/models/1470140-bedside-mini-shelf-with-cable-hole",
+ "author": "HaniHashemi",
+ "category": "bedroom",
+ "source_category": "Household > Other House Models",
+ "description": "This is a simple, compact shelf designed in Shapr3D to stick next to your bed or any wall surface. It’s perfect for holding small items like your phone, SIM cards, or accessories. The built-in hole allows you to neatly pass through a charging cable or drop small items like SIM cards for safekeeping.\n\nIt’s my first 3D design not perfect, but functional and a great start for anyone looking to customize their space with a personal touch.\n\nIdeal for 3D printing with PLA. You might want to print it flat for better adhesion and strength, or rotate based on your printer’s capabilities.\n\nshelft",
+ "tags": [
+  "shelft"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-05-30",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/small_shelf.3mf.xz",
+   "size": 634424,
+   "sha256": "0540aa73c6f1858ee3c93922aa4eeb3113a409e71d7bd43892c62037b4d59431",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f3c0b9fb51902/design/2025-05-30_4debcd6b35637.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

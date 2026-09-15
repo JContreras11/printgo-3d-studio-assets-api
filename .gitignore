@@ -1,0 +1,11 @@
+.dl_mw.log
+.dl_mw.out
+.scrape_mw.out
+.fetch_previews.out
+.xz_compress.out
+.xz_errors.log
+__pycache__/
+*.pyc
+.tmp/
+raw/
+previews/

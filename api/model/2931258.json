@@ -1,0 +1,64 @@
+{
+ "id": "2931258",
+ "title": "Ladybug Shelf Organizer",
+ "slug": "ladybug-shelf-organizer",
+ "url": "https://makerworld.com/en/models/2931258-ladybug-shelf-organizer",
+ "author": "Niski",
+ "category": "home-organization",
+ "source_category": "Tools > Organizers",
+ "description": "## Ladybug Shelf Organizer\n\nA fun and practical ladybug-themed shelf organizer designed to add charm and functionality to any space. Perfect for storing small items, decorations, toys, craft supplies, or office accessories while bringing a playful touch to your room.\n\n## Features\n\n- Cute ladybug-inspired design\n- Easy to print and assemble\n- Ideal for shelves, desks, and children's rooms\n- Helps keep small items organized\n- Decorative and functional at the same time\n\nladybug organizer shelf storage kids room decoration cute insect insect 3d home 'home home decor toy storage functional cute decoration ladybug organizer shelf storage",
+ "tags": [
+  "cute",
+  "cute decoration",
+  "decoration",
+  "functional",
+  "home",
+  "home decor",
+  "insect",
+  "insect 3d",
+  "kids room",
+  "ladybug",
+  "ladybug organizer",
+  "organizer",
+  "shelf",
+  "shelf storage",
+  "storage",
+  "toy storage",
+  "%27home"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-10-19",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "files": [
+  {
+   "path": "model/ladybird_1_color_for_paint.3mf.xz",
+   "size": 1286080,
+   "sha256": "c1789165e952c5c481983cffe9a8bbc7e3c3bd38d045de7fa8455bbb0b701805",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ladybird_2_color.3mf.xz",
+   "size": 1272508,
+   "sha256": "cf716071b9eead34429c9d72e2a3444b8a1031165e8467e431af9faa52f7e70f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ladybird_color.3mf.xz",
+   "size": 1331860,
+   "sha256": "1966c34363832680b5b9c2849f387f881fb6b1946b515a1244b4ef079bccc471",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4fec75ec065be4/design/eec702c8f4287e6e.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

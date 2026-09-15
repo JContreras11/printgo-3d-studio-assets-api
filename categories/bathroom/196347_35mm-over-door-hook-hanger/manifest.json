@@ -1,0 +1,42 @@
+{
+ "id": "196347",
+ "title": "35mm Over door hook / hanger",
+ "slug": "35mm-over-door-hook-hanger",
+ "url": "https://makerworld.com/en/models/196347-35mm-over-door-hook-hanger",
+ "author": "richriedling",
+ "category": "bathroom",
+ "source_category": "Household > Decor",
+ "description": "ADD BRIM if you are having adhesion issues.\n\n35MM over the door hook / hanger. Printed in Bambu Basic PLA - white.\n\n0.2mm layer, 2 walls, 15% infill\n\nBased on: https://www.printables.com/model/724073-door-hook-for-up-to-35mm\n\ndoor accessory hook hanger hook bathroom",
+ "tags": [
+  "door accessory",
+  "hook bathroom",
+  "hook hanger"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-02-21",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/door_hanger-3.3mf.xz",
+   "size": 2949096,
+   "sha256": "42885abf7e6aa866f042feccb259b737da7c9bf778057e7875afa264d2c23554",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/door_hanger.3mf.xz",
+   "size": 2847836,
+   "sha256": "320aff92af615ecdc9d11ca73b5cf9c3f0535865ebe6ab01a7c27f4df5af358c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9774e352a5902e/design/2024-02-21_df4def6da266e.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

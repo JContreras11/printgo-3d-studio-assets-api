@@ -1,0 +1,44 @@
+{
+ "id": "471905",
+ "title": "PLA Glue Gun Sticks",
+ "slug": "pla-glue-gun-sticks",
+ "url": "https://makerworld.com/en/models/471905-pla-glue-gun-sticks",
+ "author": "harald.bruns",
+ "category": "repair",
+ "source_category": "Tools > Other Tools",
+ "description": "Reupload of existing design from FormFutura on Printables ( https://www.printables.com/model/855880-ribbed-glue-gun-sticks)\n\n### **Description:**\n\nYou have a little bit of filament left so these Ribbed Sticks can be used for fixing and glueing your other projects. To prevent wasting all the small bits and pieces. The ridges make sure your glue gun can grip the stick.\n\nBlog About this design:\n\nhttps://formfutura.com/blog/pla-glue-sticks/\n\n### Instructions:\n\nYou can use the Ribbed Sticks in your average hot glue gun with a diameter of 10mm\n\nTo use the Ribbed Sticks in a smaller glue gun you can also scale it down.\n\nPrint the Ribbed Sticks with 100% infill to make sure you make efficient use of space.\n\nglue gluegun sticks repair tool tools pkp 18 e",
+ "tags": [
+  "glue",
+  "gluegun",
+  "pkp 18 e",
+  "repair",
+  "sticks",
+  "tool",
+  "tools"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-05-22",
+ "preview": "previews/01.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.webp",
+  "previews/05.webp",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Gluestick-A1M.3mf.xz",
+   "size": 1261764,
+   "sha256": "65b06027b2958019b4c85c7fe6053546589ba60048f22a8797c561b1862433be",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc5df96f9c362af/design/2024-05-22_33aeed0c2af0d.webp?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

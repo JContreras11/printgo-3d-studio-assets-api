@@ -1,0 +1,53 @@
+{
+ "id": "855602",
+ "title": "Modular Shower Tray",
+ "slug": "modular-shower-tray",
+ "url": "https://makerworld.com/en/models/855602-modular-shower-tray",
+ "author": "fiftyfifty",
+ "category": "home-organization",
+ "source_category": "Household > Other House Models",
+ "description": "This tray measures 200x80mm, providing a compact yet comfortable space for your daily rituals.\n\nTo expand your shower area, you can easily add one or more additional trays.\n\nYou'll need two modular beams for each extra tray added to your setup. This system supports glass 7mm, 8mm and 10mm thick.\n\nUPDATE 2026-02-15:\n\n\\- Added hook for 30mm\n\nUPDATE 2025-07-19:\n\n\\- Added hook for 10mm\n\nUPDATE 2025-07-02:\n\n\\- Added hook for 8mm\n\n\\- Added non modular tray (bottom)\n\nBoost Me (for free)\n\nIf you like my model, please consider boosting it. Thanks!\n\nBoost\n\nshower shelf shower shelf bathroom toilet easy shower accessory home bath storage organizer",
+ "tags": [
+  "bath",
+  "bathroom",
+  "easy",
+  "home",
+  "organizer",
+  "shelf",
+  "shower",
+  "shower accessory",
+  "shower shelf",
+  "storage",
+  "toilet"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-12-07",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Modular.3mf.xz",
+   "size": 1129440,
+   "sha256": "6022a14e2e6785e7ec8140e069f87ddc17ad4aaa11647b1fa0c8055e7dde7da3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/Modular_Shower_Tray.3mf.xz",
+   "size": 1218268,
+   "sha256": "e25423cbab40167c2265303663e152b7d504c5f6906336108e12a01b9fa61b7c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1602bc6054273/design/2024-12-07_d62fb58df5edf.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

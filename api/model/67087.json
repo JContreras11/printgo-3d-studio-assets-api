@@ -1,0 +1,39 @@
+{
+ "id": "67087",
+ "title": "Nightstand Organizer",
+ "slug": "nightstand-organizer",
+ "url": "https://makerworld.com/en/models/67087-nightstand-organizer",
+ "author": "lov3tl",
+ "category": "bedroom",
+ "source_category": "Household > Decor",
+ "description": "Made this to hold my keys, phone (with charger slot), airpods, wallet, ID badge, ring, watch and misc items. Print the bottom with more infill than the top or add weight so it doesn't topple over.\n\nnightstand organizer phone holder walletholder watch stand",
+ "tags": [
+  "nightstand",
+  "organizer",
+  "phone holder",
+  "walletholder",
+  "watch stand"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2023-11-17",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/67087.3mf.xz",
+   "size": 744604,
+   "sha256": "e379a9a8154aa4ff47f4f332220998ef7c48287402fcde0a40e9ddfa81020d55",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbc8c65d4fe47e3/design/2023-11-17_d23266f93c37d.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

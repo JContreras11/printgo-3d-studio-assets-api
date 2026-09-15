@@ -1,0 +1,41 @@
+{
+ "id": "2713740",
+ "title": "Bedroom Nightstand",
+ "slug": "bedroom-nightstand",
+ "url": "https://makerworld.com/en/models/2713740-bedroom-nightstand",
+ "author": "3dmonios",
+ "category": "bedroom",
+ "source_category": "Toys & Games > Other Toys & Games",
+ "description": "# Summary\n\nInspired by a real antique piece of furniture. This model can be used for models and dollhouse bedrooms.\n\nI made smaller prints, which were functional but lost quality.\n\nThis model does not need any type of support\n\nbedroom dollhouse dollhousefurniture furniture nightstand",
+ "tags": [
+  "bedroom",
+  "dollhouse",
+  "dollhousefurniture",
+  "furniture",
+  "nightstand"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-01-13",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "files": [
+  {
+   "path": "model/nightstand_complete.3mf.xz",
+   "size": 1185832,
+   "sha256": "ec22d1134f9aae6da6b7d2745966fa5ed3bcaa774e690e0b79c18985d90d89b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US93205fb809848c/design/e27e90f985c96145.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

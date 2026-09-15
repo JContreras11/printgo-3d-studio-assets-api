@@ -1,0 +1,39 @@
+{
+ "id": "1929969",
+ "title": "Coffee table",
+ "slug": "coffee-table",
+ "url": "https://makerworld.com/en/models/1929969-coffee-table",
+ "author": "JakouBek_",
+ "category": "bedroom",
+ "source_category": "Household > Other House Models",
+ "description": "Couch table.\n\nBoost Me (for free)\n\nPlease give me a boost so I have the motivation to create more products.\n\nBoost\n\ncoffee table couch sofa drink relax",
+ "tags": [
+  "coffee table",
+  "couch",
+  "drink",
+  "relax",
+  "sofa"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-10-27",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Stolek_gauč_rev3.3mf.xz",
+   "size": 823996,
+   "sha256": "14d59026dd71a44e17e76f52be3c0800fa7e9038f3e8d2335e5a08d497ca901c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc59bfc7f7e0b40/design/2025-10-27_8e672698228078.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

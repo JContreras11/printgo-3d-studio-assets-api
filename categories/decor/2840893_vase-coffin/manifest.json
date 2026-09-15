@@ -1,0 +1,64 @@
+{
+ "id": "2840893",
+ "title": "Vase Coffin",
+ "slug": "vase-coffin",
+ "url": "https://makerworld.com/en/models/2840893-vase-coffin",
+ "author": "the0lli",
+ "category": "decor",
+ "source_category": "Household > Decor",
+ "description": "Boost Me (for free)\n\nBoost\n\nvase gothic coffin skull flower pot goth pencil holder cup metal vampire horror cross church satan lucifer pentagram baphomet free commercial license commercial use",
+ "tags": [
+  "baphomet",
+  "becher",
+  "blumentopf",
+  "church",
+  "coffin",
+  "commercial use",
+  "cross",
+  "free commercial license",
+  "goth",
+  "gothic",
+  "horror",
+  "lucifer",
+  "metal",
+  "pentagram",
+  "satan",
+  "skull",
+  "stiftehalter",
+  "vampire",
+  "vase"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-09-28",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/coffin.3mf.xz",
+   "size": 8941080,
+   "sha256": "a2e08f75eea22bed6e79365b35866f7e94348e3cb32627c01fce23920aeff24f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coffin2.3mf.xz",
+   "size": 22254964,
+   "sha256": "9304f6b8d76f21dc4e1f599a79163c3c251fa26bb039d689c70e7949618e4d94",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d875a93a1a5f2/design/824452f29c9e1901.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

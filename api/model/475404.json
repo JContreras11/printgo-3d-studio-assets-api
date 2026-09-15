@@ -1,0 +1,39 @@
+{
+ "id": "475404",
+ "title": "bedside table for Ikea STORÅ bunk bed",
+ "slug": "bedside-table-for-ikea-stora-bunk-bed",
+ "url": "https://makerworld.com/en/models/475404-bedside-table-for-ikea-stora-bunk-bed",
+ "author": "Rikimanto99",
+ "category": "bedroom",
+ "source_category": "Tools > Organizers",
+ "description": "bedside table for Ikea STORÅ bunk bed printed in PETG 60/70 % infill\n\ntable bedside ikea bunk bed stora",
+ "tags": [
+  "bed",
+  "bedside",
+  "bunk",
+  "ikea",
+  "stora",
+  "table"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-05-26",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "files": [
+  {
+   "path": "model/Comodino.3mf.xz",
+   "size": 422172,
+   "sha256": "89cb45f516933037d4014de72bda9d5701013929837fd9d5294786830666bbd6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000475404/design/2024-05-26_b888e3e26f412.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

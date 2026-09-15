@@ -1,0 +1,49 @@
+{
+ "id": "46589",
+ "title": "Gridfinity to Car Vent Adapter",
+ "slug": "gridfinity-to-car-vent-adapter",
+ "url": "https://makerworld.com/en/models/46589-gridfinity-to-car-vent-adapter",
+ "author": "Makerneer",
+ "category": "automotive",
+ "source_category": "Tools > Organizers",
+ "description": "TLDR - Screw these onto Gridfinity bases that have the 3mm holes in the corners. Use M3x12 low profile fasteners. Clip into your car's air vents. Enjoy boundless organization bliss.\n\nGoes great with my Gridfintiy Dipping Sauce Holder!\n\n**Printing:**\n\nPrints on it's side, no supports needed.\n\nI printed it in PETG. ABS/ASA would also work great. Skip PLA if you can since it's inside the car.\n\n**Installation:**\n\nThe hole in the back of the adapter clip is tapered, so just screw in your M3x12 fastener and you should be good to go as long as you don't over tighten it. ( https://amzn.to/45zDdQB affiliate link to fasteners)\n\nThere is a little bit of side to side rotation on purpose. This will allow you to adjust the clip a little if needed so it doesn't hit the knob or adjuster in the vent.\n\nOne clip will probably work for single bases and small stuff, but two or more clips is recommended.\n\nConfirmed to work with these bases, likely fits many more:\n\nhttps://www.printables.com/model/300603-gridfinity-screw-together-baseplate\n\nhttps://www.printables.com/model/360046-gridfinity-modular-baseplates\n\nhttps://www.printables.com/model/368469-dovetail-gridfinity-base-short-v2\n\n**TMI:**\n\nSo I started this by making a Gridfinity base that incorporated a built in vent clip, but it printed like poo and needed supports and yeah. Next try was making a clip that fit the dovetail style base. That printed better but was too floppy. So I tried to make one that fit the screw together bases but found that not all the screw bases have the holes in the same spot so it would only fit one style of base…\n\nThen I realized a lot of the bases have a 3mm hole for a fastener in the same place. Using this hole to attach the clip to would allow the clip to work with a wider range of bases, allow the clip to be printed in a good orientation and was really easy to install.\n\nLow on time to make the Car Holders contest deadline I tried a couple existing clips instead of designing my own and goTVm's clip worked the best (and it included a step file, thanks!). Did some Fusion 360'ing to adapt it to the Gridfinity base and voila, it works!\n\nAnd like any good procrastination project I'm using to avoid the thing I should be doing instead I decided to increase the project scope and hit the Honeycomb wall organizer too… Check it out here if that's more your flavor of organization https://makerworld.com/en/models/46593#profileId-48403\n\norganizer clip car organization vent vehicle dashboard gridfinity gridfinitybaseplate makerneer ventclip gridfinityonthego",
+ "tags": [
+  "car",
+  "clip",
+  "dashboard",
+  "gridfinity",
+  "gridfinitybaseplate",
+  "gridfinityonthego",
+  "makerneer",
+  "organization",
+  "organizer",
+  "vehicle",
+  "vent",
+  "ventclip"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2023-10-20",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/GFinity_Car_Vent_Adapter.3mf.xz",
+   "size": 1301596,
+   "sha256": "e40f3c0073e0f1369fcfb52ac7e0703d723a8a162bc689d0299460328b369738",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf3844885be33a/design/2023-10-20_tbskg7t3zm03.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "2857767",
+ "title": "DaciaLogan(2006–2008)Air Vent Phone Holder Adapter",
+ "slug": "dacialogan-2006-2008-air-vent-phone-holder-adapter",
+ "url": "https://makerworld.com/en/models/2857767-dacialogan-2006-2008-air-vent-phone-holder-adapter",
+ "author": "colSzalai",
+ "category": "automotive",
+ "source_category": "Hobby & DIY > Vehicles",
+ "description": "## Dacia Logan (2006–2008) Air Vent Phone Holder Adapter\n\nThis is a custom 3D printable phone holder adapter designed for the **Dacia Logan 2006–2008**. The adapter fits directly into the **car’s air vent** and features a **standard 17 mm ball mount** on the end, making it compatible with many **commonly available phone holders** sold in stores.\n\nThe model was designed specifically for this vehicle generation and was **completely remodeled from scratch** to match the year range and compatibility requirements more accurately.\n\n## Compatibility\n\n- **Vehicle:** Dacia Logan\n- **Model years:** 2006–2008\n- **Mounting position:** air vent\n- **Phone holder connection:** standard **17 mm ball**\n\nThe 17 mm ball makes it suitable for many universal phone holder heads that use the common ball-and-socket mounting system.\n\n## Design note\n\nThis model was created based on the idea and general concept of the following example:\n\n**Reference / inspiration:**\n\nhttps://makerworld.com/hu/models/1866363-dacia-carholder-for-mobile-phone-holder?from=search#profileId-2585241\n\nHowever, due to differences in **vehicle year range and compatibility**, I redesigned this model **entirely from scratch** to better suit the **2006–2008 Dacia Logan**.\n\n## Print recommendation\n\nI printed this part from **PETG**, which is a good choice for car interior use because it offers better heat resistance than PLA.\n\nRecommended print setup:\n\n- **Material:** PETG\n- **Support:** required\n- **Brim:** recommended\n- **Print orientation:** as provided in the model / slicer preview\n\nBecause this part needs to withstand insertion force and daily use inside a vehicle, PETG is recommended over PLA.\n\n## Recommended print settings\n\n- Material: PETG\n- Layer height: 0.20 mm\n- Walls: at least 4\n- Infill: 40–60%\n- Support: yes\n- Brim: yes\n\nFor better durability, you may want to increase wall count or infill depending on your printer and usage.\n\n## After printing\n\nAfter printing, test the fit carefully in the air vent before regular use. Depending on printer tolerances and material shrinkage, a small amount of cleanup or minor sanding may be needed.\n\nAlso check that your phone holder socket fits properly on the **17 mm ball** and provides enough clamping force.\n\n## Disclaimer\n\nThis is a custom 3D printed accessory and not an original car part. Please test fitment and strength before everyday use. Use at your own risk, especially in hot vehicle interiors or on rough roads.\n\nDacia Dacia Logan phone holder car mount air vent mount 17mm ball car accesorry mobile holder dashboard mount",
+ "tags": [
+  "17mm ball",
+  "air vent mount",
+  "car accesorry",
+  "car mount",
+  "dacia",
+  "dacia logan",
+  "dashboard mount",
+  "mobile holder",
+  "phone holder"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-09-19",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/dacia_phone_holder.3mf.xz",
+   "size": 1024520,
+   "sha256": "8e9385c53ab9b9b98033d101b17ebb55803993d1ffdb1f3987ce9bb17f6ee90f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScbca0e2f18bef9/design/bb7d9f9ab5d60fe7.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

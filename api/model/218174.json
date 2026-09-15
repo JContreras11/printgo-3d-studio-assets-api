@@ -1,0 +1,41 @@
+{
+ "id": "218174",
+ "title": "Face Vase/Pen cup",
+ "slug": "face-vase-pen-cup",
+ "url": "https://makerworld.com/en/models/218174-face-vase-pen-cup",
+ "author": "Matdanck121",
+ "category": "decor",
+ "source_category": "Household > Office",
+ "description": "A Face and Hands Vase / Pen or pencil holder. If you use the raw file i had scaled it down to 70%\n\nThis is based on a vase i BOUGHT at store.  I modeled it off that just like you did Ruben.\n\noffice office accessories decor vase cup face art",
+ "tags": [
+  "art",
+  "cup",
+  "decor",
+  "face",
+  "office",
+  "office accessories",
+  "vase"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-03-02",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/FaceVaseBambu.3mf.xz",
+   "size": 18634624,
+   "sha256": "00dc71639e2cd8697a3d6cbf2ae47a76e00b285306c66ad93d992031dc67b34a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdc5f31fad71f47/design/2024-03-02_15bb0a7ea3b25.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

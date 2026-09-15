@@ -1,0 +1,59 @@
+{
+ "generated": "2026-09-15",
+ "quota_note": "MakerWorld limite diario alcanzado; reanudar con: python3 scripts/dl_mw.py --all",
+ "downloaded_model_dirs": 98,
+ "downloaded_files": 127,
+ "metadata_complete": 98,
+ "previews_complete": 98,
+ "api_models": 98,
+ "failed": [
+  "132900",
+  "2647365",
+  "3023953",
+  "463062",
+  "627546"
+ ],
+ "in_progress_at_stop": "1081572",
+ "per_category": {
+  "automotive": {
+   "catalog": 20,
+   "downloaded": 19,
+   "files": 21
+  },
+  "bathroom": {
+   "catalog": 20,
+   "downloaded": 17,
+   "files": 25
+  },
+  "bedroom": {
+   "catalog": 20,
+   "downloaded": 20,
+   "files": 22
+  },
+  "decor": {
+   "catalog": 20,
+   "downloaded": 18,
+   "files": 27
+  },
+  "home-organization": {
+   "catalog": 20,
+   "downloaded": 18,
+   "files": 24
+  },
+  "kitchen": {
+   "catalog": 20,
+   "downloaded": 2,
+   "files": 4
+  },
+  "repair": {
+   "catalog": 20,
+   "downloaded": 2,
+   "files": 2
+  },
+  "science": {
+   "catalog": 20,
+   "downloaded": 2,
+   "files": 2
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name": "PrintGo 3D Library",
+ "version": "1.0.0",
+ "generated": "2026-09-15",
+ "total_models": 97,
+ "categories": [
+  "automotive",
+  "bathroom",
+  "bedroom",
+  "decor",
+  "home-organization",
+  "kitchen",
+  "repair",
+  "science"
+ ],
+ "source": "MakerWorld",
+ "license_policy": "Only models whose MakerWorld license allows redistribution (CC0 / CC BY / CC BY-SA).",
+ "storage_note": "Every model file payload is stored as <name>.3mf.xz (transport compression to stay under GitHub 100MB/file). Decompress each file with `xz -d -k <file>` before importing into a slicer. SHA-256 in the manifests is computed over the compressed bytes."
+}

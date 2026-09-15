@@ -1,0 +1,44 @@
+{
+ "id": "27343",
+ "title": "Donut Vase",
+ "slug": "donut-vase",
+ "url": "https://makerworld.com/en/models/27343-donut-vase",
+ "author": "Voornecreations",
+ "category": "decor",
+ "source_category": "Household > Decor",
+ "description": "Boost Me (for free)\n\nBoost\n\nI found a donut vase here on Printables, but I didn't like it very much. There were some flaws in the design, so I made myself a new one.\n\nI printer it with support for the overhang at the top so it looks nicer, but this isn't really needed.\n\ndecor vase donut",
+ "tags": [
+  "decor",
+  "donut",
+  "vase"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2023-09-28",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "files": [
+  {
+   "path": "model/DonutVase.3mf.xz",
+   "size": 2170512,
+   "sha256": "82e7f8fb84002fdf02ee38de084c02230f57fe3cccbaa27519c91690ff03e8e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/DonutVase_A1_mini.3mf.xz",
+   "size": 2184664,
+   "sha256": "54dac5166138b7f977dc02382cadd97bcfc93ab5fe2f5ce9ff1bd5f54e98f9cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4921fac5735da2/design/2023-09-28_0581236364771.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

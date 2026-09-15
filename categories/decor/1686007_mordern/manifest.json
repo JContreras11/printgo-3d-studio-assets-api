@@ -1,0 +1,41 @@
+{
+ "id": "1686007",
+ "title": "Mordern\\_Circular\\_Vase",
+ "slug": "mordern",
+ "url": "https://makerworld.com/en/models/1686007-mordern",
+ "author": "oakliz27",
+ "category": "decor",
+ "source_category": "Household > Decor",
+ "description": "A modern, donut-shaped decorative vase with a smooth, continuous ring body and a large circular opening in the center. The design features a short cylindrical neck at the top for holding flowers, stems, or ornamental grasses. Its minimalist, sculptural form makes it perfect as a statement piece for contemporary interiors. Ideal for 3D printing in a variety of finishes to match your décor style.\n\nplant decor 3D home decor flower vase flower",
+ "tags": [
+  "3D",
+  "decor",
+  "flower",
+  "flower vase",
+  "home decor",
+  "plant"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-08-09",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "files": [
+  {
+   "path": "model/circular_vase.3mf.xz",
+   "size": 556336,
+   "sha256": "53a884cb377747bdbe6de94a20a70f00fcd7bb1e0f07654fda247725fb0a3eba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe85e7de2a7ca74/design/2025-08-09_a6f81540b162f8.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

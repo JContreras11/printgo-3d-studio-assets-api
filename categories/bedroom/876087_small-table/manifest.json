@@ -1,0 +1,36 @@
+{
+ "id": "876087",
+ "title": "Small table",
+ "slug": "small-table",
+ "url": "https://makerworld.com/en/models/876087-small-table",
+ "author": "user_1135695276",
+ "category": "bedroom",
+ "source_category": "Tools > Other Tools",
+ "description": "A small table, designed to elevate objects on a desktop\n\nSmall table",
+ "tags": [
+  "%E5%B0%8F%E6%A1%8C%E5%AD%90"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-02-09",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/desk.3mf.xz",
+   "size": 2286764,
+   "sha256": "fba9c28748220d4d1bf35186a6b5ad4bc09cf57559f979ec38a4d88a5507bcb4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb73a46d1a8acc2/design/2025-02-09_f10b139d05d47.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

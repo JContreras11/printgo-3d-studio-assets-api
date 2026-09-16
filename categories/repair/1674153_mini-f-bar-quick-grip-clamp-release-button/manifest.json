@@ -1,18 +1,23 @@
 {
  "id": "1674153",
- "title": "Mini F-Bar / Quick Grip Clamp Release Button",
+ "title": "Botón de liberación para sargento F-Bar mini (4\")",
  "slug": "mini-f-bar-quick-grip-clamp-release-button",
  "url": "https://makerworld.com/en/models/1674153-mini-f-bar-quick-grip-clamp-release-button",
  "author": "OverZealous",
  "category": "repair",
  "source_category": "Tools > Hand Tools",
- "description": "I recently purchased a bunch of generic mini 4-inch F-bar clamps (a.k.a., quick grip style clamps). One of them was missing the button to release the clamp.\n\nThis is a simple model designed off the original part from another one. It's extremely tiny, so I simply printed it solid (100% infill), and at a 45º angle to improve the strength. The included profile also forces some support, which came away very easily on my X1C.\n\nIt worked great on my first print, just in some generic high-speed PLA. You shouldn't have to open the clamp if you are just replacing this part, just push it in.\n\nrepair tools clamp quickgrip",
- "use_cases": [],
+ "description": "Botón de repuesto para el gatillo de liberación de las sargentos F-Bar (quick grip) de 4 pulgadas: se imprime macizo al 100% y a 45° para ganar resistencia. Se recoloca empujando, sin abrir el sargento.",
+ "use_cases": [
+  "Reparar la prensa que perdió el gatillo",
+  "Pieza diminuta impresa maciza",
+  "Sargento listo de nuevo sin abrir"
+ ],
  "tags": [
-  "clamp",
-  "quickgrip",
-  "repair",
-  "tools"
+  "sargento",
+  "prensa",
+  "reparación",
+  "gatillo",
+  "taller"
  ],
  "license": "CC BY 4",
  "release_date": "2025-08-05",

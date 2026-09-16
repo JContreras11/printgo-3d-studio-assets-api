@@ -1,21 +1,23 @@
 {
  "id": "1864755",
- "title": "Steam Deck Keyboard Case",
+ "title": "Estuche con teclado integrado para Steam Deck",
  "slug": "steam-deck-keyboard-case",
  "url": "https://makerworld.com/en/models/1864755-steam-deck-keyboard-case",
  "author": "glaucon1984",
  "category": "console-cases",
  "source_category": "Hobby & DIY > Other Hobby & DIY",
- "description": "This is a design inspired by the fantastic work of Natter\\_LT. I liked some of his ideas but I needed to design a new case from the ground-up to be able to achieve what I needed:\n\n- The case must be printable on my A1 without having to split parts\n- The case has to support my Keychron K3 keyboard. (NOTE: A user has reported that the V2 version of the Keychron K3 also fits well)\n- There can be no prongs or parts sticking out around the area where I rest my wrists.\n- I shouldn't need to use a screwdriver when the battery of my keyboard runs out.\n\nI understand this is probably a very niche model, not everybody will have this particular keyboard model, but I decided to share it anyway in case it can be useful for somebody.\n\n### Considerations\n\nThis is a complex print, the case for a 311mm keyboard needs to fit a 256mm^2 plate, people with the H2 series printer will have a much easier time printing this case, especially the keyboard side, if they reorient the part. Sadly, I don't have one of those printers. I can create an H2-series profile of that part if somebody asks for it, but I will have to either remove the logo or make it multicolor, flush with the plate. **UPDATE**: I do have an H2D now, so I've uploaded a profile for this printer. It should also work with the H2S.\n\nI didn't have any issue with the part falling while printing any of the prototypes, but there could be serious **warping issues** that will prevent the keyboard from fitting. I've done my best to incorporate mitigations in the profile and in the model:\n\nThe zig-zag shape in that area is not purely aesthetic, and the bottom edge of the part is slanted on purpose to account for some possible warping.\n\nMy best advice, if using PLA, is to use the **SuperTack build plate at 50 C**. I had zero warping in all my prints. An enclosed printer will help as well (my A1 has a DIY enclosure using a carboard box).\n\n### Assembly\n\nPlease check the pictures to see where each part goes. You will need the following:\n\n- 4x M3 16mm\n- 4x M3 20mm countersunk\n- 2x M3 30mm\n- 2x M3 6mm countersunk\n- 2x M3 inserts\n\n(You will need to put 2x M3 inserts in the bottom part of the keyboard side, where the M3 6mm countersunk screws go)\n\nThe second profile for the TPU Stencils is intended for those who want a more gentle surface inside the case, and better grip to keep the Deck in place. Please print int a textured plate, and that textured side is the surface that should face the Deck.\n\n### Warning\n\nThe top lid is essential to keep the Deck in place, make sure it's properly inserted in the keyboard side when closing the case:\n\n**Update (07/10/2025):**\n\n- I've added a part in the TPU Stencils profile to make the keyboard fit tight in place after inserting it. The keyboard is well in place without it, and I didn't want to make the space tighter to facilitate the insertion, but with this padding there should be zero rattling in the case.\n\n**Update (11/10/2025):**\n\n- I've made some improvements to the “Deck Case” profile to increase the strength (3 wall loops, 5 bottom shell layers, change infill direction to 0 degrees). I've reoriented the two big parts to avoid the area used in the P1 and X1 series to cut the filament.\n\n**Update (12/10/2025):**\n\n- I've created a new version of the Deck side and the stand that allows for a Logi Pebble Mouse 2 to be stored in the back of the case. The screws are harder to put in place, in my case I could easily assemble it with a ball-point hex key like the one in the picture.\n\nThis mod should be compatible with mice that have similar dimensions to the Logi Pebble 2 mouse, the main constrain is the height of the mouse, in this case, it must be less than 27.2mm. I've tried to find cheap mice that are thinner, but the one reporting to be 20mm in Amazon turned out to be actually 30mm, if I can get my hands on a thinner mouse I will create a mod for it to minimize the overall thickness of the case.\n\nAlso, never trust the “lay on face” function of Bambu Studio, the big pieces weren't properly parallel to the build plate causing some faces to have two steps.\n\n**Update (12/11/2025):**\n\nI've added a version of the Deck Case profile optimized for the H2D. It should work on the H2S as well but I haven't tested it.\n\nThe main advantage of this profile is that the bed size allows for the keyboard side to lay flat, this minimizes warping and makes printing a coloured logo possible without a massive waste of hours and filament. If you don't like the logo, you can just map the colours of the logo to the same of the case, you can check the picture for an example.\n\nThis part orientation has enabled me to print the model in ABS, which tolerates more heat, has less creeping and is lighter than PLA, if you have an H2D you should consider this material (or ASA, but it's more expensive and there are less colour options available).\n\n**Update (22/11/2025):**\n\nI've added a profile with a new version of the lid that allows charging the Deck while not in use.\n\n**Update (02/12/2025):**\n\nI've uploaded the STEP file for the keyboard side in case somebody wants to adapt the design for a different keyboard. It would be nice if you share your print profile under this model for other users that might have the same keyboard.\n\nSteam Steam Deck Keychron Deck keyboard case cyberdeck",
- "use_cases": [],
+ "description": "Estuche tipo cyberdeck que convierte la Steam Deck en una mini estación con teclado Keychron K3 embutido: imprimible en A1 sin partir piezas, sin salientes cerca de las muñecas y acceso a la batería del teclado sin destornillar nada.",
+ "use_cases": [
+  "Teclear y jugar dictados en la Steam Deck",
+  "Setup de escritorio portátil estilo cyberdeck",
+  "Cambiar la pila del teclado sin destornillador"
+ ],
  "tags": [
-  "Keychron",
-  "Steam",
-  "Steam Deck",
-  "case",
+  "steam deck",
+  "teclado",
   "cyberdeck",
-  "deck",
-  "keyboard"
+  "estuche",
+  "keychron"
  ],
  "license": "",
  "release_date": "2025-10-07",

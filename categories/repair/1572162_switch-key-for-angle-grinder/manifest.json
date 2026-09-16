@@ -1,25 +1,23 @@
 {
  "id": "1572162",
- "title": "Switch key for angle grinder",
+ "title": "Llave de giro para interruptor de amoladora angular",
  "slug": "switch-key-for-angle-grinder",
  "url": "https://makerworld.com/en/models/1572162-switch-key-for-angle-grinder",
  "author": "Crissy98.",
  "category": "repair",
  "source_category": "3D Printer > 3D Printer Parts",
- "description": "I had an old angle grinder that had a broken power switch, so instead of throwing it away, we used this small insert to be able to use it.  It’s a simple print that might help others too.\n\n**Dimensions**\n\n**\\- Square fitting**: 7.5 mm (width) × 7.2 mm (height)\n\n**\\- Circular base diameter**: 15 mm\n\nTo make sure the FlexKey can handle the pressure from regular use, I printed it with:\n\n- **4 wall loops** for extra strength\n- **25% infill**\n- **0.16 mm layer height** for a cleaner look\n\nNote : I printed the FlexKey on diagonal, so the layers aren’t perfectly horizontal. This helps reduce the risk of breaking at weak layer lines when the tool is pressed or twisted during use. Angled layers give it better strength where it matters most.\n\ntool repair angle grinder dyi power switch MakerWorld garage starter key replacement rotation Square",
- "use_cases": [],
+ "description": "Inserto para amoladora angular con el interruptor de encendido roto: encaja en el hueco cuadrado (7,5 mm × 7,2 mm, base circular de 15 mm) y permite usar la herramienta sin comprar otra. Imprime con 4 perímetros y 25% infill.",
+ "use_cases": [
+  "Rescatar una amoladora con la llave rota",
+  "Sustituto impreso que soporta presión",
+  "Reparación de herramienta de bricolaje"
+ ],
  "tags": [
-  "MakerWorld",
-  "Square",
-  "angle grinder",
-  "dyi",
-  "garage",
-  "power switch",
-  "repair",
-  "replacement",
-  "rotation",
-  "starter key",
-  "tool"
+  "amoladora",
+  "reparación",
+  "llave",
+  "herramienta",
+  "taller"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-07-03",

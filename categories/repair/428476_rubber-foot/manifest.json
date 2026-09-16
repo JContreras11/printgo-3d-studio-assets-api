@@ -1,19 +1,23 @@
 {
  "id": "428476",
- "title": "Rubber Foot",
+ "title": "Pata de goma para equipos",
  "slug": "rubber-foot",
  "url": "https://makerworld.com/en/models/428476-rubber-foot",
  "author": "Klave",
  "category": "repair",
  "source_category": "Hobby & DIY > Electronics",
- "description": "My very old function generator needed new feet, the original feet had cracked and fallen apart.\n\nUsing TPU I printed 4 of these and screwed them on with a 3x8mm plastic screw. The holes were drilled with a 2.4mm drill (3/32\")\n\nPrint without support placing the wide side on the buildplate\n\nrubber foot rubber spacer screw on foot spacer instrument repair",
- "use_cases": [],
+ "description": "Pies de goma de repuesto para equipos de instrumentación: se imprimen en TPU y se atornillan con tornillo plástico de 3x8 mm (agujero con broca de 2,4 mm). Sin soportes, boca ancha contra la base.",
+ "use_cases": [
+  "Reponer las patas rotas de un generador de señales",
+  "Aislar y elevar aparatos de mesa",
+  "Recambio exacto a su tornillería"
+ ],
  "tags": [
-  "instrument repair",
-  "rubber foot",
-  "rubber spacer",
-  "screw on foot",
-  "spacer"
+  "pata",
+  "goma",
+  "tpu",
+  "instrumentación",
+  "reparación"
  ],
  "license": "CC BY 4",
  "release_date": "2024-04-14",

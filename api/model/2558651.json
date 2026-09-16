@@ -1,0 +1,55 @@
+{
+ "id": "2558651",
+ "title": "Switch Mario Scene Storage Base",
+ "slug": "switch-mario-scene-storage-base",
+ "url": "https://makerworld.com/en/models/2558651-switch-mario-scene-storage-base",
+ "author": "Foximg",
+ "category": "console-cases",
+ "source_category": "Tools > Organizers",
+ "description": "This is a storage base suitable for the Switch 1st generation OLED version, referencing the Super Mario NES game. In addition to perfectly storing the console, it also has 8 reserved slots for frequently played game cartridges.\n\nBoost Me (for free)\n\nI share, you boost\n\nBoost\n\nColor separation has been done, and the model's assembly parts have a foolproof design, preventing incorrect installation.\n\nFor a more secure connection, it is recommended to reinforce with glue at the end.\n\nSwitch Switch holder Switch Storage Case Switch Game Cartridge Gaming Console nitendo Nintendo Storage Base Storage",
+ "use_cases": [],
+ "tags": [
+  "Switch",
+  "Switch%E5%8D%A1%E5%B8%A6",
+  "Switch%E6%94%AF%E6%9E%B6",
+  "Switch%E6%94%B6%E7%BA%B3",
+  "nitendo",
+  "%E4%BB%BB%E5%A4%A9%E5%A0%82",
+  "%E6%94%B6%E7%BA%B3",
+  "%E6%94%B6%E7%BA%B3%E5%BA%95%E5%BA%A7",
+  "%E6%B8%B8%E6%88%8F%E6%9C%BA"
+ ],
+ "license": "",
+ "release_date": "2025-12-05",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "files": [
+  {
+   "path": "model/switch1马里奥_v11-2.3mf",
+   "size": 2214450,
+   "sha256": "07423acce9c615126c2e26c6f4fa5f7db98b66f829c103277b03ab11bbb601f9",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/switch1马里奥_v11-2.3mf.xz",
+   "size": 2093728,
+   "sha256": "e7f12b603f40c28578b511b15bd18f825c57ee06b1522a74c86a1030a72804ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1a26418bcceda/design/571cf385ebdc5495.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

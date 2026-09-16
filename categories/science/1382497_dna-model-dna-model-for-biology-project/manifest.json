@@ -1,0 +1,61 @@
+{
+ "id": "1382497",
+ "title": "DNA model (dna model for biology project)",
+ "slug": "dna-model-dna-model-for-biology-project",
+ "url": "https://makerworld.com/en/models/1382497-dna-model-dna-model-for-biology-project",
+ "author": "ElijahDPatrick",
+ "category": "science",
+ "source_category": "Education > Other Education Models",
+ "description": "I used this for a bio project and got an A+ hope this idea comes in handy for you. Superglue required. Wire used to string parts on.\n\nDNA dna dna model bio biology biology classroom model biology classroom molecule display school school project detailed 3d model NO AMS no ams fun toy Toy showcase parts shapes",
+ "use_cases": [],
+ "tags": [
+  "DNA",
+  "NO AMS",
+  "Toy",
+  "bio",
+  "biology",
+  "biology classroom",
+  "biology classroom model",
+  "detailed 3d model",
+  "display",
+  "dna",
+  "dna model",
+  "fun",
+  "molecule",
+  "no ams",
+  "parts",
+  "school",
+  "school project",
+  "shapes",
+  "showcase",
+  "toy"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-05-04",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "files": [
+  {
+   "path": "model/DNA_Model_AMS.3mf",
+   "size": 1251566,
+   "sha256": "d2839213b2adcef1915c984e2247398908ac1f44e92dea23a807d3510717fec1",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/DNA_Model_AMS.3mf.xz",
+   "size": 1250672,
+   "sha256": "e014928c9f5678119ef7f6c729b264ab40e6ba83565862e90bac3402c8c5b799",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3735d6e3ecacf9/design/2025-05-04_5d4b384d7f45e8.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

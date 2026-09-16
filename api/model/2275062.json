@@ -1,0 +1,58 @@
+{
+ "id": "2275062",
+ "title": "195 mm Clamp Head Replacement",
+ "slug": "195-mm-clamp-head-replacement",
+ "url": "https://makerworld.com/en/models/2275062-195-mm-clamp-head-replacement",
+ "author": "user_53420366",
+ "category": "repair",
+ "source_category": "Tools > Hand Tools",
+ "description": "This is a **replacement clamp head** based on the original design that came with my clamp.\n\nThe original head broke, while the rest of the clamp was still perfectly usable, so I redesigned the head from scratch using my basic CAD skills.\n\nIn the photos:\n\n- The **rounded head** is the original part (for reference)\n- The **more angular version** is my redesigned model (this upload)\n\nI intentionally **removed the internal cavity** that was present in the original part, as I believe this makes the replacement **stronger and more durable**.\n\nThis model is designed to fit **Parkside clamps and common AliExpress clamps** with a **total clamp length of 195 mm** (measured from the top of the clamp to the bottom).\n\nPrinting notes:\n\n- Print in **PETG or ABS** for better strength\n- Use **high infill** (≥40%)\n- No supports needed\n\nIf someone with more advanced skills wants to **remix or smooth the design**, feel free — I’d love to see improved versions shared back with the community.\n\nHappy printing! 🙂\n\nclamp clamp head parkside ali express replacement part aliexpress tool repair workshop 3d printer replacement parts functional print broken repair tools DIY replacement",
+ "use_cases": [],
+ "tags": [
+  "3d printer replacement parts",
+  "DIY",
+  "ali express",
+  "aliexpress",
+  "broken",
+  "clamp",
+  "clamp head",
+  "functional print",
+  "parkside",
+  "repair",
+  "replacement",
+  "replacement part",
+  "tool repair",
+  "tools",
+  "workshop"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2026-01-20",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/orange_clamp_head.3mf",
+   "size": 588490,
+   "sha256": "f57b46db2a1a2bd306c784cdb226ffd78b16c774dd2afa4c1e56189753aa406c",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/orange_clamp_head.3mf.xz",
+   "size": 557240,
+   "sha256": "bc4108b2ee6e8806506a596a3aea1011de05a6470c88a0fecffd25d0dd196b46",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3e7378fa98d25c/design/2026-01-20_a0ca2927d80f5.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

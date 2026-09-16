@@ -1,0 +1,47 @@
+{
+ "id": "1674153",
+ "title": "Mini F-Bar / Quick Grip Clamp Release Button",
+ "slug": "mini-f-bar-quick-grip-clamp-release-button",
+ "url": "https://makerworld.com/en/models/1674153-mini-f-bar-quick-grip-clamp-release-button",
+ "author": "OverZealous",
+ "category": "repair",
+ "source_category": "Tools > Hand Tools",
+ "description": "I recently purchased a bunch of generic mini 4-inch F-bar clamps (a.k.a., quick grip style clamps). One of them was missing the button to release the clamp.\n\nThis is a simple model designed off the original part from another one. It's extremely tiny, so I simply printed it solid (100% infill), and at a 45º angle to improve the strength. The included profile also forces some support, which came away very easily on my X1C.\n\nIt worked great on my first print, just in some generic high-speed PLA. You shouldn't have to open the clamp if you are just replacing this part, just push it in.\n\nrepair tools clamp quickgrip",
+ "use_cases": [],
+ "tags": [
+  "clamp",
+  "quickgrip",
+  "repair",
+  "tools"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-08-05",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png"
+ ],
+ "files": [
+  {
+   "path": "model/Mini_Grip_Clamp_Release_Button.3mf",
+   "size": 1392597,
+   "sha256": "7c3891fb6ad4a18cca24be6be6fff658d324b5fdad28ca6dac6ae5d86caa1fa5",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Mini_Grip_Clamp_Release_Button.3mf.xz",
+   "size": 1208188,
+   "sha256": "6db89c26add0371696feb81645def82addb5c7c3906c91165342e61926d0af02",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScfbe1e998a01eb/design/2025-08-05_0dc581fe4d4ff8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

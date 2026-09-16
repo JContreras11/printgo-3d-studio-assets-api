@@ -1,0 +1,56 @@
+{
+ "id": "571232",
+ "title": "Voronoi Cover Iphone 13 Pro",
+ "slug": "voronoi-cover-iphone-13-pro",
+ "url": "https://makerworld.com/en/models/571232-voronoi-cover-iphone-13-pro",
+ "author": "Orochi_Nik",
+ "category": "phone-cases",
+ "source_category": "Art > Other Art Models",
+ "description": "Only Iphone 13 Pro\n\nDoes not fit all other iphones\n\nPrint it with a soft material such as TPU\n\nVoronoi Design\n\ncover voronoi iphone 13 pro design iphone phone apple phone accessories 13 pro tpu flexible phone case",
+ "use_cases": [],
+ "tags": [
+  "13 pro",
+  "apple",
+  "cover",
+  "design",
+  "flexible",
+  "iphone",
+  "iphone 13 pro",
+  "phone",
+  "phone accessories",
+  "phone case",
+  "tpu",
+  "voronoi"
+ ],
+ "license": "",
+ "release_date": "2024-08-03",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "files": [
+  {
+   "path": "model/Voronoi_Iphone_13_Pro.3mf",
+   "size": 4293254,
+   "sha256": "750d5bbeb0d2e3e2c324ea0073130ef3a16ba5ab9ab2395efa029d2fa37145c0",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Voronoi_Iphone_13_Pro.3mf.xz",
+   "size": 4128528,
+   "sha256": "861f0df7e273759a5a4d88f5beb1ca1caa9b005cf0cceb95c74373d4bf3e269b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd2d8b26af31a7b/design/2024-08-03_a0ab1fd187432.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

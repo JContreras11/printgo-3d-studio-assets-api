@@ -1,0 +1,52 @@
+{
+ "id": "160052",
+ "title": "Kitchen Packet Organizer / Baking Spice Box",
+ "slug": "kitchen-packet-organizer-baking-spice-box",
+ "url": "https://makerworld.com/en/models/160052-kitchen-packet-organizer-baking-spice-box",
+ "author": "Wastl85",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "A simple kitchen Organizer / Box for baking powder or spices for small or large bags.\n\nLarger Version:  https://makerworld.com/en/models/741396#profileId-673823\n\nkitchen kitchen organizer organizer organizerbox spice baking box baking powder kitchen storage storage powder kitchen accessories",
+ "use_cases": [],
+ "tags": [
+  "baking",
+  "baking powder",
+  "box",
+  "kitchen",
+  "kitchen accessories",
+  "kitchen organizer",
+  "kitchen storage",
+  "organizer",
+  "organizerbox",
+  "powder",
+  "spice",
+  "storage"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-01-28",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/V2backzutatenbox.3mf",
+   "size": 1238949,
+   "sha256": "63c6da22e6e4d2261f3edd2db34828874178ed23348bc9cad97b297018c47583",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/V2backzutatenbox.3mf.xz",
+   "size": 1111944,
+   "sha256": "ee60f4eada2b6a42284ce61e3f7072f4b225bc4d295420c2b50e73833123d5d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf6c96663ea1d/design/2024-01-28_8921e462694a9.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

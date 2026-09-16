@@ -1,0 +1,55 @@
+{
+ "id": "745757",
+ "title": "Parkside PHPA 20-Li hot glue gun repair part",
+ "slug": "parkside-phpa-20-li-hot-glue-gun-repair-part",
+ "url": "https://makerworld.com/en/models/745757-parkside-phpa-20-li-hot-glue-gun-repair-part",
+ "author": "johanik",
+ "category": "repair",
+ "source_category": "Tools > Machine Tools",
+ "description": "## Parkside PHPA 20-Li Hot Glue Gun Repair Part\n\nThis replacement part is designed for the **Parkside PHPA 20-Li cordless hot glue gun**.\n\nThe original plastic part is a common failure point and can break after extended use. Instead of replacing the entire glue gun, you can simply print this part and get your tool working again.\n\nThe model has been tested and fits the original mechanism without any modifications.\n\n## Recommended Print Settings\n\n- **Material:** ASA (recommended) or PETG\n- **Perimeters:** As many as possible (I used **999 perimeters** so the part is completely solid)\n- **Infill:** 100% (or use enough perimeters to make the model solid)\n- No supports required.\n\nASA provides the best heat resistance for this application, but PETG is also a good alternative if ASA is not available.\n\nI hope this model helps you extend the life of your glue gun instead of throwing it away.\n\nIf it saved your tool, I'd really appreciate a 👍, a ⭐ rating, or a 🚀 Boost. Happy printing!\n\nBoost Me (for free)\n\nThanks fo boost my model\n\nBoost\n\nparkside PLA 20-liter 20v parkside tool tool parkside team toolaccesory ph pa ph pa 20-li",
+ "use_cases": [],
+ "tags": [
+  "20v",
+  "parkside",
+  "parkside team",
+  "parkside tool",
+  "ph pa",
+  "ph pa 20-li",
+  "phpa 20-li",
+  "tool",
+  "toolaccesory"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-10-31",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Parkside__PHPA_20-Li.3mf",
+   "size": 4976158,
+   "sha256": "e54abfad1c8a0df780adaa7488d1d8761143c45d12a53176d42d910fbb12cf09",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Parkside__PHPA_20-Li.3mf.xz",
+   "size": 3469052,
+   "sha256": "e319d5b85d37a10e6a2ef41fa43268955d3883b99d4f818cc1096ef7f3498ce1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88e6f7503c2856/design/2024-10-31_2779c851e2dfe.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

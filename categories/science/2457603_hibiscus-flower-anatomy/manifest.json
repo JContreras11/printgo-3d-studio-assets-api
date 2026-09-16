@@ -1,0 +1,47 @@
+{
+ "id": "2457603",
+ "title": "Hibiscus Flower Anatomy",
+ "slug": "hibiscus-flower-anatomy",
+ "url": "https://makerworld.com/en/models/2457603-hibiscus-flower-anatomy",
+ "author": "fablefarm",
+ "category": "science",
+ "source_category": "Education > Biology",
+ "description": "This model is a colourful, 3D-printable hibiscus flower anatomy teaching aid, designed to make primary school biology hands-on, visual, and easy to understand.\n\nCreated as an educational classroom tool, this first release captures the clear proportions and simplified structures of a hibiscus flower, presented in an accessible layered format that helps young learners identify and understand the main parts of a flower.\n\nThe model clearly highlights: PETALS, STAMEN, PISTIL, OVARY, SEPALS\n\nEach structure is colour-separated to support visual learning and classroom explanation.\n\nThis version features fixed anatomical layers, making it ideal as:\n\n- A primary school Natural Sciences teaching aid\n- A classroom demonstration model\n- A homeschool biology resource\n- A science lab display piece\n- A tactile learning tool for younger learners\n\nIt is intended as an educational model — not a botanical-scale scientific specimen — designed for clarity, durability, and repeated classroom handling.\n\n## **Designer Notes**\n\nThis is the initial release of the hibiscus anatomy model and was deliberately designed as a solid, layered educational display rather than a fully detachable or interactive system.\n\nWhy a fixed-layer design?\n\n- Keeps the model strong and classroom-proof\n- Prints reliably on almost any FDM printer\n- No fragile connectors or small parts\n- Minimal post-processing required\n- Optimised for clean multi-colour printing\n\nThe goal of this first version was to:\n\n- Create a model that primary learners can easily understand\n- Emphasise the core anatomical structures clearly\n- Ensure smooth surface quality at 0.12 mm layer height\n- Deliver a print that works beautifully in PLA\n\nPrinted in PLA at 0.12 mm layer height, the petals achieve a smooth finish while preserving crisp internal definition in the ovary and reproductive structures.\n\n## **Future Plans**\n\nA more advanced version is already on the roadmap. This may include:\n\n- Detachable anatomical layers\n- Magnetic or snap-fit components\n- Larger classroom-scale version\n- Labelled base plate option\n\nIf the community finds this useful for schools and educational spaces, expanded editions will follow.\n\nThis design was created to make plant biology tangible and memorable for young learners. Whether it lives in a classroom, a homeschool shelf, or a science display — the goal is simple:\n\nMake learning visible. Make it hands-on. Make it stick. 🌺\n\nflower anatomy flower school model biology classroom model",
+ "use_cases": [],
+ "tags": [
+  "biology classroom model",
+  "flower",
+  "flower anatomy",
+  "school model"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-02-29",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Hibiscus_Flower_Anatomy.3mf",
+   "size": 9855982,
+   "sha256": "36f2daac901cb039abe664460276572fd30d4ba3eaf5e2819548d3042a2795a6",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Hibiscus_Flower_Anatomy.3mf.xz",
+   "size": 9204456,
+   "sha256": "5d6142e53ee435fdf4038d656e7d29fbd6f92ddc2c50356bda25b30bb6d230fe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USec3a63a7c7c2f8/design/eefd778b22d92e1e.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

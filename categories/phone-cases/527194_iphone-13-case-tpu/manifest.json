@@ -1,0 +1,54 @@
+{
+ "id": "527194",
+ "title": "iPhone 13 Case (TPU)",
+ "slug": "iphone-13-case-tpu",
+ "url": "https://makerworld.com/en/models/527194-iphone-13-case-tpu",
+ "author": "3devrn",
+ "category": "phone-cases",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "iPhone 13 Case\n\nYou can also take a look at my iPad case **→** **iPad Air M2 11 Inch Case**\n\n**Instagram**\n\nBoost Me (for free)\n\nThank You\n\nBoost\n\niphone iphone 13 case iphone 13 phone phone case case design tpu tpu95a tpu98a",
+ "use_cases": [],
+ "tags": [
+  "case design",
+  "iphone",
+  "iphone 13",
+  "iphone 13 case",
+  "phone",
+  "phone case",
+  "tpu",
+  "tpu95a",
+  "tpu98a"
+ ],
+ "license": "",
+ "release_date": "2024-12-09",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/iPhone_13_Case-2.3mf",
+   "size": 537653,
+   "sha256": "c71056a830814820bcb0e7d7e0dc65a7592093640a164b5443d5fa945350ed02",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/iPhone_13_Case-2.3mf.xz",
+   "size": 506880,
+   "sha256": "e2765c5fb908d127a601bd3c27eb6bbaac2c9bebd6a8d01433f1371511f4c51c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd4e4f7fb65e1b8/design/2024-12-09_e7d92ae098117.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

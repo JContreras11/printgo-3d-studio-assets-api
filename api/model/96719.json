@@ -1,0 +1,43 @@
+{
+ "id": "96719",
+ "title": "Voroni Cheese Slice Holder",
+ "slug": "voroni-cheese-slice-holder",
+ "url": "https://makerworld.com/en/models/96719-voroni-cheese-slice-holder",
+ "author": "mrhiab",
+ "category": "kitchen",
+ "source_category": "Household > Other House Models",
+ "description": "Cheese slice holder to keep the dam cheese slices in one spot in fridge.\n\nWorks great, used it for years now.\n\ncheese cheese slice holder voroni",
+ "use_cases": [],
+ "tags": [
+  "cheese",
+  "cheese slice holder",
+  "voroni"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2023-12-17",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/voronoi_cheese_slice_holder-2.3mf",
+   "size": 917768,
+   "sha256": "9d57d4704fd6f74a1232a43fc620146e4882799220e8174db90414114c66b35c",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/voronoi_cheese_slice_holder-2.3mf.xz",
+   "size": 914372,
+   "sha256": "a1fa568aa6f8266951fe7a169d2137b3c0dc42bb50188098a91c05c0976f42dc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US172a5d1d4cc819/design/2023-12-17_6373be3a7f4d6.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

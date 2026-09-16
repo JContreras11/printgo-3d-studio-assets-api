@@ -29,8 +29,11 @@ for f in sorted(glob.glob(os.path.join(SRC, "*.3mf"))):
         skipped += 1
         continue
     slug, title, real_cat = info
-    # ensure slug-side is the real category name
     dest_dir = os.path.join(CATEGORIES, real_cat, f"{mid}_{slug}", "model")
+    if os.path.isdir(dest_dir):
+        print(f"  SKIP (ya organizado): {mid}")
+        skipped += 1
+        continue
     os.makedirs(dest_dir, exist_ok=True)
     name = name.replace("+", "_")
     dest = os.path.join(dest_dir, f"{name}")

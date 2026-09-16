@@ -1,0 +1,56 @@
+{
+ "id": "2914878",
+ "title": "Hettich Hinge Repair Part",
+ "slug": "hettich-hinge-repair-part",
+ "url": "https://makerworld.com/en/models/2914878-hettich-hinge-repair-part",
+ "author": "moifort",
+ "category": "repair",
+ "source_category": "Household > Other House Models",
+ "description": "Drop-in fix for a broken Hettich cabinet hinge part.\n\nHettich Hinge cabinet hinge door hinge hinge repair replacement part spare part furniture kitchen cabinet ikea alternative Clip 5 broken hinge repair",
+ "use_cases": [],
+ "tags": [
+  "Clip 5",
+  "broken hinge",
+  "cabinet hinge",
+  "door hinge",
+  "furniture",
+  "hettich",
+  "hinge",
+  "hinge repair",
+  "ikea alternative",
+  "kitchen cabinet",
+  "repair",
+  "replacement part",
+  "spare part"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-03-16",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/hinge-repair-hettich.3mf",
+   "size": 1607418,
+   "sha256": "18b9569061ada70f13ad3b09de3937c4d132cdba8ee79551074af82aca792ffc",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/hinge-repair-hettich.3mf.xz",
+   "size": 1606376,
+   "sha256": "bf097cba13ae9613546258a1803964b02c522bccfc338cf94389694dd464e1c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US78f09883a18ae7/design/daeb3196e15c4b11.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

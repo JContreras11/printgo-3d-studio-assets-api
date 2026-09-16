@@ -1,0 +1,51 @@
+{
+ "id": "229797",
+ "title": "Moon NASA Model",
+ "slug": "moon-nasa-model",
+ "url": "https://makerworld.com/en/models/229797-moon-nasa-model",
+ "author": "SF3DPrints",
+ "category": "science",
+ "source_category": "Education > Physics & Astronomy",
+ "description": "Boost Me (for free)\n\nIf you like this model please consider supporting by dropping a boost! Completely free and helps me greatly. Thank you :)\n\nBoost\n\nMoon modeled using NASA's high resolution displace map.\n\nFor best results print in 2 parts.\n\nFantastic detail and a great decoration piece, or educational model.\n\nHappy printing!\n\nmoon space stars star astronomy science education",
+ "use_cases": [],
+ "tags": [
+  "astronomy",
+  "education",
+  "moon",
+  "science",
+  "space",
+  "star",
+  "stars"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-02-29",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/moon.3mf",
+   "size": 33321007,
+   "sha256": "88657a5c994b5933fb1bdfe7a8dab874f7b1aa429d458933070235376a72d273",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/moon.3mf.xz",
+   "size": 33242040,
+   "sha256": "853baff1b93308a8e8af284ebb524b986ff57709793e3578519b01dc04463a51",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb2289e13d34f37/design/2024-02-29_4b5544e2e8d67.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

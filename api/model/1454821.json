@@ -1,0 +1,51 @@
+{
+ "id": "1454821",
+ "title": "Giant Molecular Model Kit",
+ "slug": "giant-molecular-model-kit",
+ "url": "https://makerworld.com/en/models/1454821-giant-molecular-model-kit",
+ "author": "engineocreation",
+ "category": "science",
+ "source_category": "Education > Chemistry",
+ "description": "This is a giant, demonstration-sized set for models of molecules.\n\nAs a Chemistry teacher, the traditional Molymod kits are great, but far too small for students to see from the back of the lab. This kit lets you print atoms that are much, much bigger, while still resembling the student kits.\n\nFeatures:\n\n- Single bonds represented by short sticks, that allow rotation\n- Double & triple bonds represented by flexible springs, that don't allow rotation\n- Screw on “caps” that provide a strong interface between the bond and the atom\n- Atoms with 1 bonding site, to represent halogens eg chlorine\n- Smaller atoms with 1 bonding site, to represent hydrogen\n- Atoms with 2 bonding sites, to represent eg oxygen\n- Atoms with 3 bonding sites, to represent eg nitrogen\n- Atoms with 4 bonding sites, to represent eg carbon\n- Lone electron pairs, to help teach VSEPR theory\n\nAll parts can be printed in PLA - the flexible bonds will deform, but are still perfectly usable.\n\n\"Giant Molecular Model Kit\" (https://3dprinty.xyz/project/147) is designed by 3D Printy (https://3dprinty.xyz) and shared under a Creative Commons Public Domain (CC 0 1.0) license (https://creativecommons.org/publicdomain/zero/1.0/). (I added the lone electron pair and the super long flexible bond.)\n\nchemistry molymod molecule organic chemistry teaching teaching chemistry science",
+ "use_cases": [],
+ "tags": [
+  "chemistry",
+  "molecule",
+  "molymod",
+  "organic chemistry",
+  "science",
+  "teaching",
+  "teaching chemistry"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-05-26",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Sample_Giant_Molecule_Profile.3mf",
+   "size": 6932450,
+   "sha256": "80735a2498b08f84d82236816334379fc9f922e216f98e11f17cb9aa2e6112a9",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Sample_Giant_Molecule_Profile.3mf.xz",
+   "size": 6015184,
+   "sha256": "22ac70eebb376fee735f8a3e720252c96428979047dba2fb1ec92ca8d6c504b4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8139b984427f4f/design/2025-05-26_33b3e06f303108.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

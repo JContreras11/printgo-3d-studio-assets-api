@@ -1,0 +1,62 @@
+{
+ "id": "2351671",
+ "title": "Articulated Scrub Daddy Sink Holder w/ Drain",
+ "slug": "articulated-scrub-daddy-sink-holder-w-drain",
+ "url": "https://makerworld.com/en/models/2351671-articulated-scrub-daddy-sink-holder-w-drain",
+ "author": "Ahansen2112",
+ "category": "kitchen",
+ "source_category": "Tools > Other Tools",
+ "description": "Print-in-place articulated Scrub Daddy sink holder designed for easy, support-free FDM printing. Prints in about **2.5 hours** and uses roughly **45 grams of filament**. Articulated legs hang over the sink edge, arms support the sponge, and a built-in drain port lets water drip directly back into the sink for faster drying.\n\nPublic Domain. Feel free to use, sell, remix, burn, whatever you want!\n\nscrub daddy dady father holder sponge sink articulated flexi flexible kitchen print useful use easy in place no supports",
+ "use_cases": [],
+ "tags": [
+  "articulated",
+  "dad",
+  "daddy",
+  "dady",
+  "easy",
+  "flexi",
+  "flexible",
+  "holder",
+  "in",
+  "kitchen",
+  "no supports",
+  "place",
+  "print",
+  "scrub",
+  "sink",
+  "sponge",
+  "use",
+  "useful"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-01-04",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "files": [
+  {
+   "path": "model/ScrubDaddyHolderWLegsV2.3mf",
+   "size": 1493442,
+   "sha256": "04cff265040972a7abb50c60468b8c438ab21295cd5b5c7ae702277971aa7d9a",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/ScrubDaddyHolderWLegsV2.3mf.xz",
+   "size": 1492356,
+   "sha256": "a68388a0912f398dcddb04eeef3adcc98b2effc3805d14118812be853f099b70",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002351671/design/27fa96cf131dc43f.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

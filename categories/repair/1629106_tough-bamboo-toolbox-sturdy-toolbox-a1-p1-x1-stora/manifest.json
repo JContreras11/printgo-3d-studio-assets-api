@@ -1,0 +1,42 @@
+{
+ "id": "1629106",
+ "title": "Tough Bamboo Toolbox Sturdy Toolbox A1 P1 X1 Storage Fixing Pins",
+ "slug": "tough-bamboo-toolbox-sturdy-toolbox-a1-p1-x1-stora",
+ "url": "https://makerworld.com/en/models/1629106-tough-bamboo-toolbox-sturdy-toolbox-a1-p1-x1-stora",
+ "author": "dutao53486944",
+ "category": "repair",
+ "source_category": "Tools > Organizers",
+ "description": "Perfectly fits the fixing pins of the following storage boxes, no need to buy screws, directly print with PETG, after multiple tests and prints, the most suitable size has been found, print with default parameters, brim has been manually added, X-axis printing, toughness is completely sufficient\n\nhttps://makerworld.com/en/models/792392\n\nBambu tool box",
+ "use_cases": [],
+ "tags": [
+  "%E6%8B%93%E7%AB%B9%E5%B7%A5%E5%85%B7%E7%AE%B1"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-07-22",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/轴承-6.3mf",
+   "size": 398466,
+   "sha256": "4cb2febaf7f98a3795a185c109529d9903760da19bd5971e44a1df0447ebb15c",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/轴承-6.3mf.xz",
+   "size": 366980,
+   "sha256": "60da1c5689e6c4d594a51fdb7c461639cff81e59cac65078d9f142165a78e29f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001629106/design/2025-07-22_72d900fb25e73.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "id": "2132598",
+ "title": "Magnetic Atomic Radius Periodic Table Puzzle",
+ "slug": "magnetic-atomic-radius-periodic-table-puzzle",
+ "url": "https://makerworld.com/en/models/2132598-magnetic-atomic-radius-periodic-table-puzzle",
+ "author": "ethanmahajan",
+ "category": "science",
+ "source_category": "Education > Chemistry",
+ "description": "Bring the periodic table to life with this modular magnetic model!\n\nThe block of elements snap together using magnets, forming a tactile and interactive periodic table that you can rearrange and expand. The height of each element block represents its van der Waals atomic radius, scaled precisely at 1 millimeter = 4 picometers, giving a true 3D visualization of atomic size trends across the table.\n\nPerfect for STEM classrooms, science displays, or chemistry enthusiasts, this project makes abstract data visible and tangible. Print it in multiple colors to highlight different element groups or use uniform tones for a sleek scientific display.\n\nWhether you're a teacher, student, or maker, this is a great conversation starter and an eye-catching educational tool!\n\nFeatures:\n\n     -Accurate atomic radius scaling (van der Waals)\n\n     -Magnetic snap-fit connections for modular assembly\n\n      -Printable in standard PLA with minimal supports\n\n      -Great for teaching atomic trends (groups & periods)\n\n      -Elements without real atomic radius are set to a fixed height (mostly towards the bottom)\n\nchemistry periodic table periodic table of elements chemistry education education puzzle puzzle 3d atomic trends atomic radius chemistry puzzle magnet magnetic puzzle hydrogen instructive interactive interactive learning science project 3d periodic table magnetic assembly stem STEM stem education desk decor desk decor 3d print scientific visualization modular design modular",
+ "use_cases": [],
+ "tags": [
+  "3d periodic table",
+  "STEM",
+  "atomic radius",
+  "atomic trends",
+  "chemistry",
+  "chemistry education",
+  "chemistry puzzle",
+  "desk decor",
+  "desk decor 3d print",
+  "education",
+  "hydrogen",
+  "instructive",
+  "interactive",
+  "interactive learning",
+  "magnet",
+  "magnetic assembly",
+  "magnetic puzzle",
+  "modular",
+  "modular design",
+  "periodic table",
+  "periodic table of elements",
+  "puzzle",
+  "puzzle 3d",
+  "science project",
+  "scientific visualization",
+  "stem",
+  "stem education"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-12-18",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.png"
+ ],
+ "files": [
+  {
+   "path": "model/Atomic_Radius_Periodic_Table.3mf",
+   "size": 3017521,
+   "sha256": "3141abab79d47b9f4343a7850875beda2e5c773f292aa32fbb0c44e5f35a7547",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Atomic_Radius_Periodic_Table.3mf.xz",
+   "size": 2785676,
+   "sha256": "d733690c97e54c2f9c8ebd436a2a90f26ca1e699efd420856d6b9f82727161bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2c3cce0544a252/design/2025-12-18_1718472ca605a8.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

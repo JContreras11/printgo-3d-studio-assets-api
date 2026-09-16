@@ -1,0 +1,51 @@
+{
+ "id": "476115",
+ "title": "Lazy Susan Turntable 100mm",
+ "slug": "lazy-susan-turntable-100mm",
+ "url": "https://makerworld.com/en/models/476115-lazy-susan-turntable-100mm",
+ "author": "robotcrazy",
+ "category": "kitchen",
+ "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "description": "This is a simple lazy susan turntable that is 100mm in diameter with conical pins. Spins freely and does multiple turns easily.\n\nlazy susan turntable turntables bearing table accessory table art rotate table pivot Roller",
+ "use_cases": [],
+ "tags": [
+  "bearing",
+  "lazy susan",
+  "pivot",
+  "roller",
+  "rotate table",
+  "table accessory",
+  "table art",
+  "turntable",
+  "turntables"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-05-26",
+ "preview": "previews/02.jpg",
+ "images": [
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Lazy_Susan_Turntable_100mm_-_1_plate-2.3mf",
+   "size": 1569269,
+   "sha256": "aba3c8c2c54a23664b8b32def21f684138bf7301920564882f9506d89443c649",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Lazy_Susan_Turntable_100mm_-_1_plate-2.3mf.xz",
+   "size": 1288072,
+   "sha256": "c96bb39e2d31aea6dbdf7916e93f3bd6057c5d7650118f9150f452fda5ea0e69",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe3da41a5dfef2/design/2024-05-26_477372420a7da.gif?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

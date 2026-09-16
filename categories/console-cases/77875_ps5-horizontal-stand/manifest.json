@@ -1,0 +1,45 @@
+{
+ "id": "77875",
+ "title": "PS5 Horizontal Stand",
+ "slug": "ps5-horizontal-stand",
+ "url": "https://makerworld.com/en/models/77875-ps5-horizontal-stand",
+ "author": "ale_elli",
+ "category": "console-cases",
+ "source_category": "Tools > Gadgets",
+ "description": "If you are sick of the standard PS5 stand, this is the model for you! with this stand, your PS5 Standard is more stable and has a better airflow under it. This stand has vertical walls to prevent it from slipping towards the center of the console.\n\n**STAND FOR DIGITAL VERSION:** https://makerworld.com/en/models/205101#profileId-225310\n\nplaystation ps5 playstation5",
+ "use_cases": [],
+ "tags": [
+  "playstation",
+  "playstation5",
+  "ps5"
+ ],
+ "license": "",
+ "release_date": "2023-11-29",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/PS5_Horizontal_Stand_v8.3mf",
+   "size": 4164015,
+   "sha256": "92e6ef0c8fc912d8aa8ec8bc1416c7c96bbc59d904c9838c2854dd8254559fa9",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/PS5_Horizontal_Stand_v8.3mf.xz",
+   "size": 4106224,
+   "sha256": "41651ca752960cab183c9545cb1e69a06b86ac9bee7ffa638b913e61fa37b3f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1c1fe20547e44f/design/2023-11-29_6ix8ep4oz024.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

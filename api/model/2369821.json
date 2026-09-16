@@ -1,0 +1,74 @@
+{
+ "id": "2369821",
+ "title": "All parametric mobile phone case PETG/PLA/TPU/ABS",
+ "slug": "all-parametric-mobile-phone-case-petg-pla-tpu-abs",
+ "url": "https://makerworld.com/en/models/2369821-all-parametric-mobile-phone-case-petg-pla-tpu-abs",
+ "author": "Manufact3D_HH",
+ "category": "phone-cases",
+ "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "description": "**Welcome to my MakerWorld page!**\n\nHere you will find high-quality, cleanly designed, and everyday 3D models – developed with a focus on function, reliability, and straightforward printing.\n\n### 📱 Smartphone Case Master Framework – \"The Final Boss\" Edition\n\n**Everything is customizable! Literally everything!!!**\n\nDesigned for all materials: **PETG, PLA, TPU, ASA, ABS**, and more.\n\nThis OpenSCAD script is the ultimate evolution of precision-fit 3D-printed phone cases. It offers **full control** over every millimeter and every axis. Here is an overview of the features that make this model unbeatable:\n\n🚀 **Start your own Phone Case Business!** With my **Standard/Premium License**, you get more than just a file. You get the full **OpenSCAD Framework** to create custom-fit cases for any smartphone.\n\n- **Sell custom cases** for niche phone models.\n- **Adjust fit & thickness** for your customers.\n- **One license – infinite possibilities.**\n\n#### 1\\. Total XYZ Position Control\n\nEvery single cutout (Buttons, USB, Speaker, AUX, IR) is no longer fixed. You have dedicated sliders for every element:\n\n- **X-Axis:** Lateral shift (e.g., for off-center USB ports).\n- **Y-Axis:** Precise positioning of buttons along the side.\n- **Z-Axis:** Vertical offset. Charging port sitting a bit low? No problem—just slide it down 0.5 mm.\n\n#### 2\\. Dynamic Dimensioning (L x W x H)\n\nWhether it's a small mute switch or a massive volume rocker:\n\n- **Individual Dimensions:** Define length, width, and height for every button slot separately.\n- **Radius Control:** Adjust the rounding of cutouts for a perfect look and a premium feel.\n\n#### 3\\. Smart-Flex-Zone with Port Protection\n\nThe case balances flexibility with structural integrity:\n\n- **Material Preservation:** Critical corners remain solid for maximum drop protection.\n- **Automatic Bridge Protection:** The script detects button and port locations, leaving reinforcing safety bridges to ensure the case doesn't stretch or snap near the flex-cuts.\n\n#### 4\\. High-End Surface Finish\n\n- **Global Scoop Slider:** Control the ergonomic \"well\" for all buttons simultaneously to ensure the perfect tactile feel.\n- **Smooth-Edges:** All inner edges of the cutouts are rounded using spherical algorithms (no sharp edges against your fingers).\n\n#### 5\\. Pro-Level Special Features\n\n- **AUX & IR Master:** Dedicated clearance values protect sensitive sensors at the top from material interference.\n- **Camera Module:** Fully definable cutout with adjustable corner radii for any camera setup.\n- **Minkowski-Finish:** The entire exterior is organically rounded for the best in-hand feel.\n\n**The Verdict:** You no longer adapt to the design—the design adapts to your phone. Enter your device's dimensions once, and in seconds, you’ll have a case that fits better than any mass-produced product.\n\n**Thanks for stopping by!**\n\nIf you like my models, I appreciate every **Like, Download, Make,** or feedback. Together, we improve the MakerWorld community one step at a time.\n\n**– Happy Printing! :)**\n\nDanke fürs Vorbeischauen!\n\nWenn dir meine Modelle gefallen, freue ich mich über **Likes**, **Downloads**, **Makes** oder Feedback.\n\nGemeinsam verbessern wir die MakerWorld‑Community Schritt für Schritt.\n\n– Viel Spaß beim Drucken :)\n\nBoost Me (for free)\n\n„Hat dir das Modell gefallen? Dann drück gerne ‚Boost Me‘ – das motiviert mich riesig für neue Projekte!“\n\nBoost\n\nMembership\n\nGet Your Commercial License! Want to sell physical prints of my designs? Join my Membership Program! Standard: Official commercial license for all models.. Basic: Support my work and get exclusive updates. Click \"Join Membership\" above to get started!\n\nJoin\n\nmobile phone samsung case iphone case s25 s26 s27 iphone 11 iphone 12 protection protect generator parametric version 2 every phone tablet cover protection honor xiaomi redmi mine poco nokia generate full cust custom customize diy project",
+ "use_cases": [],
+ "tags": [
+  "custom",
+  "customize",
+  "diy",
+  "every phone",
+  "full cust",
+  "generate",
+  "generator",
+  "honor",
+  "huelle",
+  "iphone 11",
+  "iphone 12",
+  "iphone case",
+  "mi",
+  "mobile phone",
+  "nokia",
+  "parametric",
+  "poco",
+  "project",
+  "protect",
+  "protection",
+  "redmi",
+  "s25",
+  "s26",
+  "s27",
+  "samsung case",
+  "schutz",
+  "tablet",
+  "version 2",
+  "xiaomi"
+ ],
+ "license": "",
+ "release_date": "2025-10-26",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/PETG_PLA_Ultra_CASE.3mf",
+   "size": 1124402,
+   "sha256": "00a6e455f9f87ed8e43682c33e4a5e844ecbb74909fcde915c1422610ba26381",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/PETG_PLA_Ultra_CASE.3mf.xz",
+   "size": 1050796,
+   "sha256": "22feb80c336d7b31deac27ae3646d9f6a9c3319c96a8bf0c165cf385afee8ea1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4577947750ed04/design/f74f3101905a94f4.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

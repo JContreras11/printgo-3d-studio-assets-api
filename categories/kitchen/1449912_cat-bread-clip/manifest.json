@@ -1,0 +1,47 @@
+{
+ "id": "1449912",
+ "title": "Cat bread clip",
+ "slug": "cat-bread-clip",
+ "url": "https://makerworld.com/en/models/1449912-cat-bread-clip",
+ "author": "Burak19891",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "Cat bread clip\n\nCat cat clip funny KITTY kitty 'kitchen",
+ "use_cases": [],
+ "tags": [
+  "Cat",
+  "KITTY",
+  "cat",
+  "clip",
+  "funny",
+  "kitty",
+  "%27kitchen"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-05-24",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/kot_do_chleba.3mf",
+   "size": 2954965,
+   "sha256": "16c829ea2706b0599cfef3a05b8b77743f22ae5a4b7e36a5c50d35c55411217d",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/kot_do_chleba.3mf.xz",
+   "size": 2813208,
+   "sha256": "2dcb87e365ed9b6fa755c88c58853b08c4fe8a28b74643ac20d4f12ee42e28c2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa6f5528af08a6d/design/2025-05-24_6745544b3970c8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

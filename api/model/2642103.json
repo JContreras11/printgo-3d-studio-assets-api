@@ -1,0 +1,60 @@
+{
+ "id": "2642103",
+ "title": "Parador Baseboard SL 4 External Corner Repair Fix",
+ "slug": "parador-baseboard-sl-4-external-corner-repair-fix",
+ "url": "https://makerworld.com/en/models/2642103-parador-baseboard-sl-4-external-corner-repair-fix",
+ "author": "neustroew",
+ "category": "repair",
+ "source_category": "Household > Decor",
+ "description": "This corner was specially developed for the Parador Baseboard SL 4 model to elegantly conceal damaged areas or untidy miters.\n\n**Why this print?**\n\n**\\- Easy Retrofitting:**\n\nUnlike the original components, which must be installed directly when mounting the baseboards, this version can be fitted at any time afterwards.\n\n**\\- Color Freedom:**\n\nThe originals are only available in silver. With this model, you can print the corner in a matching baseboard color (e.g., white).\n\n**\\- Conceal Damage:**\n\nPerfect for making scuffed MDF edges or gaps at external corners invisible.\n\n**- Installation:**\n\nSimply fix with a dab of hot glue. Fast, clean, and stable!\n\nLodge sl4 parador sl4 skirting board Plinth Clip skirting board protection baseboard holder baseboard cover fuleiste reparatur repair kit repair clip interior finishing corner corner acces tool corner adapter skirting",
+ "use_cases": [],
+ "tags": [
+  "corner",
+  "corner acces tool",
+  "corner adapter",
+  "fuleiste",
+  "innenausbau",
+  "parador",
+  "parador sl4",
+  "reparatur",
+  "reparatur kit",
+  "reparaturclip",
+  "skirting",
+  "sl4",
+  "sockelleiste",
+  "sockelleisten-clip",
+  "sockelleistenabdeckung",
+  "sockelleistenhalter",
+  "sockelleistenschutz"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-07-21",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Ecke.3mf",
+   "size": 708639,
+   "sha256": "99c8722725c6161975289184dc059d5010682504fe120d87bb721768bbdfe06c",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Ecke.3mf.xz",
+   "size": 695356,
+   "sha256": "a1d86271f4969a4d5cc8741715957c314d4191a9ed105d509e863dfad051ccc6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US749c2366215a01/design/a2cd61f5e547df9c.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

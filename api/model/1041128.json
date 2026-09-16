@@ -1,0 +1,47 @@
+{
+ "id": "1041128",
+ "title": "Shark Scale",
+ "slug": "shark-scale",
+ "url": "https://makerworld.com/en/models/1041128-shark-scale",
+ "author": "Tatsy28",
+ "category": "science",
+ "source_category": "Education > Biology",
+ "description": "3d Sculpted Shark Scale - educational purposes\n\nModel shark scale education biology",
+ "use_cases": [],
+ "tags": [
+  "Model",
+  "biology",
+  "education",
+  "scale",
+  "shark"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-01-27",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "files": [
+  {
+   "path": "model/shark_scale.3mf",
+   "size": 5638616,
+   "sha256": "7c1a6cb3040b6a5fa78d7026f5bd2e8e383c558460e068c5467db41979f06b2f",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/shark_scale.3mf.xz",
+   "size": 5576996,
+   "sha256": "5c2704108a7bf68b90a7a1e68c1a3248995f2e156809d4d985553e00f14c6cb3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1492594cd57c6f/design/2025-01-27_7034575115835.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

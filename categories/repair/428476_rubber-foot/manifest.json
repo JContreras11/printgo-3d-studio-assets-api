@@ -1,0 +1,46 @@
+{
+ "id": "428476",
+ "title": "Rubber Foot",
+ "slug": "rubber-foot",
+ "url": "https://makerworld.com/en/models/428476-rubber-foot",
+ "author": "Klave",
+ "category": "repair",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "My very old function generator needed new feet, the original feet had cracked and fallen apart.\n\nUsing TPU I printed 4 of these and screwed them on with a 3x8mm plastic screw. The holes were drilled with a 2.4mm drill (3/32\")\n\nPrint without support placing the wide side on the buildplate\n\nrubber foot rubber spacer screw on foot spacer instrument repair",
+ "use_cases": [],
+ "tags": [
+  "instrument repair",
+  "rubber foot",
+  "rubber spacer",
+  "screw on foot",
+  "spacer"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-04-14",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Rubber_Foot.3mf",
+   "size": 723056,
+   "sha256": "9c66258a5f841b6b4c21d6688d8b77c198d0d901651e9a71c40cb9d308e27fbe",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Rubber_Foot.3mf.xz",
+   "size": 594312,
+   "sha256": "7f7a2c7b82127020381bb56630570dd76e822cfbb0eb5fdd88ef0bd0359acf7e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US480afbc8e5b7c9/design/2024-04-14_4ee017f1090c2.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

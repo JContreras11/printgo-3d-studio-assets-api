@@ -1,0 +1,62 @@
+{
+ "id": "976841",
+ "title": "The Tardigrades - 3 Models",
+ "slug": "the-tardigrades-3-models",
+ "url": "https://makerworld.com/en/models/976841-the-tardigrades-3-models",
+ "author": "TripleGWorkshop",
+ "category": "science",
+ "source_category": "Miniatures > Animals",
+ "description": "Boost Me (for free)\n\nBoost\n\n3D scans of 3 different water bears. The indestructible extremophile that everyone love can even survive in space!\n\nBoost Me (for free)\n\nThink I'm Awesome?? Boost me!\n\nBoost\n\nPowered by Image-to-3D from MakerWorld (https://makerworld.com/makerlab/imageTo3d)\n\nMembership\n\nJoin\n\nwater micro animal educational bear science life moe tardigrade curly larry Microorganisms waterbear organism microscopic extremophile tardigrades thetardigrades",
+ "use_cases": [],
+ "tags": [
+  "animal",
+  "bear",
+  "curly",
+  "educational",
+  "extremophile",
+  "larry",
+  "life",
+  "micro",
+  "microorganismos",
+  "microscopic",
+  "moe",
+  "organism",
+  "science",
+  "tardigrade",
+  "tardigrades",
+  "thetardigrades",
+  "water",
+  "waterbear"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-01-11",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/tardigrades.3mf",
+   "size": 12591987,
+   "sha256": "def606ad1f422d8ac125aa6c4784c777f9de7f372de21ad7a112a047321fe945",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/tardigrades.3mf.xz",
+   "size": 12472480,
+   "sha256": "fc9e54da8c4720191f60d7392788f4e4183d694c655c2618613dc630e6120da6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f31ccf537efa0/design/2025-01-11_609gtbteg3ct.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

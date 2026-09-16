@@ -1,0 +1,54 @@
+{
+ "id": "1560729",
+ "title": "Playstation 2 Classic Mini PC PS2 Case/Shell",
+ "slug": "playstation-2-classic-mini-pc-ps2-case-shell",
+ "url": "https://makerworld.com/en/models/1560729-playstation-2-classic-mini-pc-ps2-case-shell",
+ "author": "JPAlienGaming",
+ "category": "console-cases",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "This has been 2 months of hard work but myself and Jeff have made this amazing PS2 classic powered by a Geekom Mini PC A6 model.\n\nFor the full build and all the links to build one watch the full youtube video here :\n\nSony Never Made A PS2 Classic So I Did And So Can You - YouTube\n\nTap to unmute\n\nSony Never Made A PS2 Classic So I Did And So Can You Alien Gaming\n\nAlien Gaming37.4K subscribers\n\nWatch on\n\nps2 mini pc emulation bazzite ps2 classic alien gaming jp printz",
+ "use_cases": [],
+ "tags": [
+  "alien gaming",
+  "bazzite",
+  "emulation",
+  "jp printz",
+  "mini pc",
+  "ps2",
+  "ps2 classic"
+ ],
+ "license": "",
+ "release_date": "2025-06-26",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/PS2_Classic_v20_power_button.3mf",
+   "size": 1419214,
+   "sha256": "46da3a4a88271a657c269be7c583db5a1366e7ad1f2b35b517ccec8f0d1439e9",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/PS2_Classic_v20_power_button.3mf.xz",
+   "size": 1349908,
+   "sha256": "0fdcb7cda3404aa73199d18d2cbcdde6ab579235a1c05bab3253d793e3b04768",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd200704ae71b47/design/2025-06-26_be1c8314b81d7.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "469853",
+ "title": "Spiderman Controller Stand Playstation 5",
+ "slug": "spiderman-controller-stand-playstation-5",
+ "url": "https://makerworld.com/en/models/469853-spiderman-controller-stand-playstation-5",
+ "author": "Derek3dLab",
+ "category": "console-cases",
+ "source_category": "Miniatures > People",
+ "description": "Bellissimo Modello di supporto controller ps5 di Spiderman\n\nModello completo pronto per essere stampato\n\naspetto i vostri consigli e le vostre esperienze di stampa.\n\nProfilo di stampa:\n\n0,16mm altezza layer\n\nstampa completa di supporti\n\nDensità di riempimento 15%\n\nspiderman controller stand controllerstand ps5 playstation playstation5 support",
+ "use_cases": [],
+ "tags": [
+  "controller",
+  "controllerstand",
+  "playstation",
+  "playstation5",
+  "ps5",
+  "spiderman",
+  "stand",
+  "supporto"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-05-20",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Spiderman_1.3mf",
+   "size": 33327617,
+   "sha256": "6a43f1f623b378e7dfd6ee8c7151f67809b8dfa635ff361a433b24320d82d086",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Spiderman_1.3mf.xz",
+   "size": 33276224,
+   "sha256": "380f3d64f48a777ee37ad408e478ca8cd851f69276b161fd8cb72e5503bca22e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000469853/design/2024-05-20_c02de0aa6405c.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

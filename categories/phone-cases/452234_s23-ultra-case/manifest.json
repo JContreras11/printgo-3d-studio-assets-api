@@ -1,0 +1,44 @@
+{
+ "id": "452234",
+ "title": "S23 ULTRA CASE",
+ "slug": "s23-ultra-case",
+ "url": "https://makerworld.com/en/models/452234-s23-ultra-case",
+ "author": "flo89",
+ "category": "phone-cases",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "Phone case for the S23 Ultra\n\nI used no top/bottom layers and 10% infill honycomb. you can change these for different looks.\n\ns23 ultra phone case Samsung phone",
+ "use_cases": [],
+ "tags": [
+  "phone",
+  "phone case",
+  "s23 ultra",
+  "samsung"
+ ],
+ "license": "",
+ "release_date": "2024-05-03",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/s23_CASE.3mf",
+   "size": 1204716,
+   "sha256": "bcf084239312a3afd1617ae5f55f6abc954a152a208e72af9c5a5de2a1a34d2b",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/s23_CASE.3mf.xz",
+   "size": 911988,
+   "sha256": "8f505c299569a8ab9c19f46fad6736fa0b7f85e6cc7f6e1bd14ae352e89765a7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe3f20380b21848/design/2024-05-03_9c5b115d65213.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

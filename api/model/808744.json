@@ -1,0 +1,48 @@
+{
+ "id": "808744",
+ "title": "Xbox Controller Elite Series Case",
+ "slug": "xbox-controller-elite-series-case",
+ "url": "https://makerworld.com/en/models/808744-xbox-controller-elite-series-case",
+ "author": "Dynarun",
+ "category": "console-cases",
+ "source_category": "Tools > Organizers",
+ "description": "This xbox controller box is based on the popular rugged box from whity.\n\nThe last layer of the tip is not printed so that there is no excessive pressure when the tip presses into the NBR sealing cord.\n\n- Plate 1: Box\n- Plate 2: Box with USB C passthrough\n- Plate 3: Lid single color\n- Plate 4: Lid with “Elite Series” Logo\n- Plate 5: Lever\n\nBoost Me (for free)\n\nBoost\n\nxbox case box elite",
+ "use_cases": [],
+ "tags": [
+  "box",
+  "case",
+  "elite",
+  "xbox"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-11-21",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Xbox_Elite.3mf",
+   "size": 3629033,
+   "sha256": "28920895f0bb9aedac83a68ff43db7afd996805e1ca7262605647bd08144b1aa",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Xbox_Elite.3mf.xz",
+   "size": 3270984,
+   "sha256": "d49b0c324afd62b02868e5475060a2798e2f7e04881a99d1424b3f2541938d63",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7260ea03ec0d7d/design/2024-11-21_d53f4a0dcaff6.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

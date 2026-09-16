@@ -1,0 +1,50 @@
+{
+ "id": "1602138",
+ "title": "Park Tool PCS-9.3 Thumbscrew replacement",
+ "slug": "park-tool-pcs-9-3-thumbscrew-replacement",
+ "url": "https://makerworld.com/en/models/1602138-park-tool-pcs-9-3-thumbscrew-replacement",
+ "author": "raketqueen1911",
+ "category": "repair",
+ "source_category": "Hobby & DIY > Sport & Outdoors",
+ "description": "I created this replacement thumbscrew for the Park Tool PCS 9.3. The thumbscrew to secure the folding legs of the PCS-9.3 is lousy, The threading loose in normal usage. All you need is an M6 35mm hex head bolt and flange nut.\n\nThe filler included is not a requirement, I just created to fill the hole and make it look nice.\n\nPrinted in Bambu Lab PETG-HF filament with the settings below.\n\nNozzle = 0.4mm\n\nLayer height = 0.16mm high quality\n\nQuality:\n\nSeam position = back\n\nIroning type = Top surfaces\n\nStrength:\n\nWall loops = 4\n\nTop surface pattern = Rectilinear\n\nBottom surface pattern = Rectilinear\n\nSparse infill density = 50%\n\nSparse infill pattern = Gyroid\n\nSupport = enabled\n\nInfill gap = 100%\n\npark tool pcs-9 bike stand bike repair stand",
+ "use_cases": [],
+ "tags": [
+  "bike repair stand",
+  "bike stand",
+  "park tool",
+  "pcs-9"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-07-13",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Parktool_6mm_BoltLocker-Filler_PCS-9.3_PrintProfile.3mf",
+   "size": 1006555,
+   "sha256": "51e23458474b9768c86c927ac0e82205e20308e5822407615cd9db9b8a94c936",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Parktool_6mm_BoltLocker-Filler_PCS-9.3_PrintProfile.3mf.xz",
+   "size": 937472,
+   "sha256": "f8ddcba0564139cd4d1aa495c248e857e9afded5cde9f4609f532dcc088af6fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US24e473c9b27c74/design/2025-07-13_a32703a94a4da8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

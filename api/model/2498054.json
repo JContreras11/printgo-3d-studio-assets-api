@@ -1,0 +1,58 @@
+{
+ "id": "2498054",
+ "title": "Plant Cell model Kit Card",
+ "slug": "plant-cell-model-kit-card",
+ "url": "https://makerworld.com/en/models/2498054-plant-cell-model-kit-card",
+ "author": "ocean_printer",
+ "category": "science",
+ "source_category": "Education > Biology",
+ "description": "Plant Cell model Kit Card\n\nBoost Me (for free)\n\nPlease boost me, each boost gives me 12 points ($1 USD) →\n\nBoost\n\n[](https://makerworld.com/en/@ocean_printer)\n\nbiology kit card plant cell cell STEM cell biology educational microbiology learning puzzle learning aid",
+ "use_cases": [],
+ "tags": [
+  "STEM",
+  "biology",
+  "cell",
+  "cell biology",
+  "educational",
+  "kit card",
+  "learning aid",
+  "learning puzzle",
+  "microbiology",
+  "plant cell"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-03-04",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Plant_Cell_model_Kit_Card.3mf",
+   "size": 3364361,
+   "sha256": "f7213c133af6e12a19f8b4804c4b582c6370b20c7b9c896675d86aebfba999d8",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Plant_Cell_model_Kit_Card.3mf.xz",
+   "size": 3265824,
+   "sha256": "fe6092cb2dfc4e3172e28f7664a2c0b546fd484139a8c7a01f1031349f588b0f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US998150ece6086a/design/43e50e7132bafa2c.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

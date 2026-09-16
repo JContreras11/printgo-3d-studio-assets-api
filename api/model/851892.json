@@ -1,0 +1,51 @@
+{
+ "id": "851892",
+ "title": "iPhone 14 Pro Hybrid Bumper Case",
+ "slug": "iphone-14-pro-hybrid-bumper-case",
+ "url": "https://makerworld.com/en/models/851892-iphone-14-pro-hybrid-bumper-case",
+ "author": "Mediocre_Maker",
+ "category": "phone-cases",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "iPhone 14 Pro Bumper Hybrid case with camera protection. The back glass is exposed which both feels nice and leaves it open for most Magsafe accessories. The camera protection and case are separate components to allow for no supports being needed and for colour customization. There are ribbed sections where you grip the phone that give it a unique texture.\n\nPrint the main case out of PETG (I have not tried PLA) and the camera ring out of any material you choose.\n\nI recommend the super-tack build plate to avoid brims, but if you don't have one it will most likely work on a regular PEI sheet.\n\niPhone 14 Pro iphone 14 pro CASE phone case bumper case iphone bumper case magnetic charging",
+ "use_cases": [],
+ "tags": [
+  "CASE",
+  "bumper case",
+  "iPhone 14 Pro",
+  "iphone 14 pro",
+  "iphone bumper case",
+  "magsafe",
+  "phone case"
+ ],
+ "license": "",
+ "release_date": "2024-12-05",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Iphone_14_Pro_Case.3mf",
+   "size": 1752467,
+   "sha256": "68117222dfe440c57f5fb2762ae4fedacebe2734e38ffa6dfff6069753787ce5",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Iphone_14_Pro_Case.3mf.xz",
+   "size": 1558952,
+   "sha256": "344854f18f098680ab93dd96d2c8a44ec7d26fca3c5f94c2275a10c6373a9cba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe2b59d0f668765/design/2024-12-05_24e0e1949888b8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

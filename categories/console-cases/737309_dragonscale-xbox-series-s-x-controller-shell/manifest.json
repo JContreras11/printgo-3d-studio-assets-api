@@ -1,0 +1,49 @@
+{
+ "id": "737309",
+ "title": "Dragonscale Xbox series S/X controller shell",
+ "slug": "dragonscale-xbox-series-s-x-controller-shell",
+ "url": "https://makerworld.com/en/models/737309-dragonscale-xbox-series-s-x-controller-shell",
+ "author": "makersark3d",
+ "category": "console-cases",
+ "source_category": "Toys & Games > Other Toys & Games",
+ "description": "Dragonscale Xbox Series S/X controller shell\n\nPrinted\n\nBambulab A1\n\n0.4 mm nozzle\n\n0.08mm layer hight\n\nXBOX controller shell xbox series x XBOX Series S dragon dragonscale",
+ "use_cases": [],
+ "tags": [
+  "XBOX",
+  "XBOX Series S",
+  "controller",
+  "dragon",
+  "dragonscale",
+  "shell",
+  "xbox series x"
+ ],
+ "license": "",
+ "release_date": "2024-10-28",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/series_x.s_shell.3mf",
+   "size": 54310239,
+   "sha256": "2cd6e62e01f81f9a0587124a5f9a4a06ba8c132d188d77394b6b16575890e1ef",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/series_x.s_shell.3mf.xz",
+   "size": 53836452,
+   "sha256": "b8ca2451d7ade30a83c0c0f0f434482b85d35bc9e55a3de14df23e7a7524027a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US171f389e3416c7/design/2024-10-28_7abfbacdcd0a5.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

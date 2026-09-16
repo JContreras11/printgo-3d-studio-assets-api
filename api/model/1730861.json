@@ -1,0 +1,57 @@
+{
+ "id": "1730861",
+ "title": "Retro TV - Nintendo Switch 2 Case",
+ "slug": "retro-tv-nintendo-switch-2-case",
+ "url": "https://makerworld.com/en/models/1730861-retro-tv-nintendo-switch-2-case",
+ "author": "Josheh_3D",
+ "category": "console-cases",
+ "source_category": "Toys & Games > Other Toys & Games",
+ "description": "Boost Me (for free)\n\nThese models can be a lot of work, so please consider giving a boost to help further the development of models like this, and many more! Also, don't forget to follow me for more work like this too!\n\nBoost\n\n\\[update 09-09-2025\\] I adjusted the buttons for the volume/power to fit a little better, after getting some feedback. I also added a notch on the power button to make it easier to identify\n\n**Introduction**\n\nA Switch 2 version of my Retro TV inspired case! This version brings along with it a couple of improvements, and a slight adjustment to the hardware. The main big improvement, besides being able to accommodate the Switch 2, is a built in compartment with lid for storing accessories. Previously this compartment was just left wide open!\n\nFor the hardware, I adjusted how I handle magnets. Using a magnet on one side and a screw on the other, so you don't have to worry about the polarity of the magnets and matching this up. This does mean that you need to stick with the Bambu Screws. I've tried self taping screws from sources on Amazon, but they weren't the right sort of metals to work with magnets.\n\nFilaments & Hardware\n\n- Bambu PLA Basic Brown\n- Bambu PLA Metal Iridium Gold\n- Bambu PLA Matte Charcoal\n\nHardware:\n\n- 14 x M3x8mm Self Tapping Screws (Designed to specifically fit the Bambu screws)\n- 8 x D6x2mm magnets\n\n**\\[Assembly\\]**\n\nWe’ll start by inserting 8 M3x8mm self tapping screws. These will be the base for the magnet covers to fit to. Next we’ll insert the 3 control buttons for the power and volume. The power button is slightly ever so longer than the volume ones (I've added a notch on the power button to help identify it from the others), so take note as you insert them. Once the buttons are in place, insert the retaining bracket to help keep them there. We'll use 4 M3x8mm Self Tapping Screws to attach the backFor the front panel of the TV, we’ll use 2 M3x8mm Self Tapping Screws to attach the knobs, and we’ll insert 4 D6x2mm round magnets. They should be press fit, but you might want to add a little glue to help keep them secure. For the storage panel we’ll do the same as the front panel, using 4 D6x2mm magnets. They should be press fit, but you might want to consider a little added glue for added security.  Last but not least, we’ll put the panels into place. And that's it!\n\n\\-\\-\\-----\n\nIf you like my work, consider showing your love by Buying me a coffee. Additionally, if you're looking to sell prints of my design, please check out my Patreon page for more information. Additionally, you can follow me on Youtube for videos covering some of my models, and Instagram.\n\nswitch2 nintendo switch game game console console case tv stand retro",
+ "use_cases": [],
+ "tags": [
+  "case",
+  "console",
+  "game",
+  "game console",
+  "nintendo",
+  "retro",
+  "stand",
+  "switch",
+  "switch2",
+  "tv"
+ ],
+ "license": "",
+ "release_date": "2025-08-24",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Switch_Switch2_RetroTV.3mf",
+   "size": 4408787,
+   "sha256": "fc03f536fc1d66997d72a1450d08f3d071c306e4d0917670465fc22863ba4ca8",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Switch_Switch2_RetroTV.3mf.xz",
+   "size": 4267088,
+   "sha256": "92adf92b732227d28e90b586d0e566acbebf867dd352bd92ea262bb4a5d266f5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb96bb69aba24df/design/2025-08-24_7bb46bdb650f28.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

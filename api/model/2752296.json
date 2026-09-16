@@ -1,0 +1,42 @@
+{
+ "id": "2752296",
+ "title": "Base Complementary Pairing Model",
+ "slug": "base-complementary-pairing-model",
+ "url": "https://makerworld.com/en/models/2752296-base-complementary-pairing-model",
+ "author": "user_2031571541",
+ "category": "science",
+ "source_category": "Education > Biology",
+ "description": "Having just learned about genetic engineering, I spontaneously made this for display\n\nThis is my first attempt at modeling, so there may still be many imperfections\n\nbiology Teaching",
+ "use_cases": [],
+ "tags": [
+  "%E6%95%99%E5%AD%A6",
+  "%E7%94%9F%E7%89%A9%E5%AD%A6"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-02-29",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/碱基互补模型.3mf",
+   "size": 879813,
+   "sha256": "8b077a635f78340b2d4fdd92aa835c3486f701dbd39a56174e2f394c29edc5a6",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/碱基互补模型.3mf.xz",
+   "size": 810908,
+   "sha256": "841dde0fa369b9c8a1afa8300dc0db5673ee50b3eacac3850a2b1e0de7aa25eb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002752296/design/bea6f6ed434acb18.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

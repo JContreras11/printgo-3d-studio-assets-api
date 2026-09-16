@@ -1,0 +1,53 @@
+{
+ "id": "2570461",
+ "title": "Animal Cell - Multicolor Educational Model (Remix)",
+ "slug": "animal-cell-multicolor-educational-model-remix",
+ "url": "https://makerworld.com/en/models/2570461-animal-cell-multicolor-educational-model-remix",
+ "author": "antonijuvenikal",
+ "category": "science",
+ "source_category": "Education > Biology",
+ "description": "A detailed, multicolor 3D printed cross-section of an animal cell, designed for educational use. This model was printed for a school biology project and features color-coded organelles for easy identification.\n\n**Organelles represented include:**\n\n- Nucleus (blue) with nucleolus (green)\n- Mitochondria (green)\n- Rough & Smooth Endoplasmic Reticulum (orange/red)\n- Golgi Apparatus (blue)\n- Vacuoles (orange rings)\n- Ribosomes (small orange dots)\n- Cell membrane (red outer shell)\n- Cytoplasm (yellow base)\n\n**Print notes:** This was printed using a multicolor setup with color changes assigned per organelle for clarity. The model splits into two halves, making the interior fully visible.\n\n**Attribution:** This is a remix of an original model on Printables. Original listing: https://www.printables.com/model/1122614-animal-cell-for-biology-class/files. The original listing appears to be unavailable as of March 2026. All credit for the base design goes to the original creator.\n\nBoost Me (for free)\n\nBoost me for more models\n\nBoost\n\nbiology cell animal education chemistry school learning body",
+ "use_cases": [],
+ "tags": [
+  "animal",
+  "biology",
+  "body",
+  "cell",
+  "chemistry",
+  "education",
+  "learning",
+  "school"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-03-04",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Animal_Cell_Remix.3mf",
+   "size": 2148924,
+   "sha256": "5dca311787d7da010c1c90aa3c7fcf5e3fe0721723da53fa029d99b71b66279e",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Animal_Cell_Remix.3mf.xz",
+   "size": 1965784,
+   "sha256": "0a60222154f42456a309e9f57d57346d068b2e3beebe0cdc554c10aa19951df0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US840d618d25309e/design/da478485ea3f8dd7.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

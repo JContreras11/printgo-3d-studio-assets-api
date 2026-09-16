@@ -1,0 +1,49 @@
+{
+ "id": "722358",
+ "title": "Dishwasher magnetic sign CLEAN/DIRTY",
+ "slug": "dishwasher-magnetic-sign-clean-dirty",
+ "url": "https://makerworld.com/en/models/722358-dishwasher-magnetic-sign-clean-dirty",
+ "author": "user_986654475",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "Found this model on my phone and it was all in one colour so i decided to make it printable with three colours for anyone else who wants to print this. It uses 3x8mm magnets with 2mm thickness but in my case required a bit of sanding to fit the magnets in.\n\nkitchen sign clean dirty magnetic dishwasher magnet",
+ "use_cases": [],
+ "tags": [
+  "clean",
+  "dirty",
+  "dishwasher",
+  "kitchen",
+  "magnet",
+  "magnetic",
+  "sign"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-10-22",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Dishwasher_Sign_Clean-Dirty-6mm.3mf",
+   "size": 1598892,
+   "sha256": "a6100f2aae4ec5a4dcb61a08567c32a839176402161fa4f47bab56b6f00f868b",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Dishwasher_Sign_Clean-Dirty-6mm.3mf.xz",
+   "size": 1594292,
+   "sha256": "a23655fde6dd91b5e30f7832be2e7a622106b8ccea89d219c8138c5c52a04b34",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US965ee628fcfb08/design/2024-10-22_1d989408bdc1d.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

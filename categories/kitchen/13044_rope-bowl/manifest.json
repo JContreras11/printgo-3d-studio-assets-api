@@ -1,0 +1,50 @@
+{
+ "id": "13044",
+ "title": "Rope Bowl",
+ "slug": "rope-bowl",
+ "url": "https://makerworld.com/en/models/13044-rope-bowl",
+ "author": "JamesThePrinter",
+ "category": "kitchen",
+ "source_category": "Household > Decor",
+ "description": "A rope spirals around to create a small bowl.\n\nAll of my rope models can be found in collections on MakerWorld and Printables.\n\n**Print Settings**\n\nNo special settings needed\n\nThe following filaments were used in the pictures above:\n\n- Polymaker PolyTerra Sapphire Blue\n- Polymaker PolyTerra Army Red\n- Polymaker PolyTerra Forest Green\n- Polymaker PolyTerra Pastel Banana\n\nBuy Me A Coffee\n\nMembership\n\nAre you looking for a Commercial License for all JamesThePrinter models?\n\nJoin\n\nbowl rope container homedecor dish storage decoration",
+ "use_cases": [],
+ "tags": [
+  "bowl",
+  "container",
+  "decoration",
+  "dish",
+  "homedecor",
+  "rope",
+  "storage"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2023-08-10",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.webp"
+ ],
+ "files": [
+  {
+   "path": "model/Rope_Bowl_-_Fuzzy_Skin.3mf",
+   "size": 8987015,
+   "sha256": "58c439730cc8d7d078f8d9f33c27a3c4813ee46c6b28a23a201ff183f6b6baff",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Rope_Bowl_-_Fuzzy_Skin.3mf.xz",
+   "size": 8283220,
+   "sha256": "a2fc47b2e5ce6065558840f6d4b6cd39f5b45b2f08084ff20c2b867df145288c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfc7e58f6801c70/design/2023-08-10_58bb47e3724ce.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

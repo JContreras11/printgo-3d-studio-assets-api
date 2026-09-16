@@ -1,0 +1,44 @@
+{
+ "id": "945215",
+ "title": "Kitchen Cabinet Hooks for Cups",
+ "slug": "kitchen-cabinet-hooks-for-cups",
+ "url": "https://makerworld.com/en/models/945215-kitchen-cabinet-hooks-for-cups",
+ "author": "Niklas_CGN",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "A hook for attaching to the underside of kitchen cabinets.\n\nOptimize the space in your kitchen with these hooks and create more storage space.\n\n'kitchen Hook cupholder organizer",
+ "use_cases": [],
+ "tags": [
+  "Hook",
+  "cupholder",
+  "organizer",
+  "%27kitchen"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-01-03",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Hook_kitchen_underneath_0.4.3mf",
+   "size": 778382,
+   "sha256": "cb0f1ed8283f4eb876231ff64f02130c4bf4ae1aa56ab86e9b1fe9e433a05d75",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Hook_kitchen_underneath_0.4.3mf.xz",
+   "size": 777616,
+   "sha256": "9555e68b7404bd4acf28f9776402294a27d411754c957928da33675a0457b5b6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US56919292c25dc4/design/2025-01-03_1ef0580d13859.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

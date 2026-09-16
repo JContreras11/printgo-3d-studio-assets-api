@@ -1,0 +1,46 @@
+{
+ "id": "208160",
+ "title": "Voronoi Napkin Holder",
+ "slug": "voronoi-napkin-holder",
+ "url": "https://makerworld.com/en/models/208160-voronoi-napkin-holder",
+ "author": "ICM98",
+ "category": "kitchen",
+ "source_category": "Household > Other House Models",
+ "description": "Voronoi napkin holder\n\nkitchen table napkin napkinholder napkins",
+ "use_cases": [],
+ "tags": [
+  "kitchen",
+  "napkin",
+  "napkinholder",
+  "napkins",
+  "table"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-02-27",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Napkin_holder.3mf",
+   "size": 1197140,
+   "sha256": "562ca874a64a7e1c26b4581edbd0b870ec49786b635e725c1a849d1ae634051a",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Napkin_holder.3mf.xz",
+   "size": 1195756,
+   "sha256": "9d659d7e34696bfdfbbbf3fa4a4346214174e397693a1c7cdaa40d4f40498c26",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000208160/design/2024-02-27_0gotedlrfchw.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

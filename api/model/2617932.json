@@ -1,0 +1,62 @@
+{
+ "id": "2617932",
+ "title": "DECA - DOCOL Register Adapter",
+ "slug": "deca-docol-register-adapter",
+ "url": "https://makerworld.com/en/models/2617932-deca-docol-register-adapter",
+ "author": "marcos.rds",
+ "category": "repair",
+ "source_category": "Household > Other House Models",
+ "description": "**Adapter and extender for register trim, converting Docol stem Ø9.2 mm with 20 splines to DECA standard Ø13 mm with 18 splines**\n\nThis model was created to solve the incompatibility between the register's shaft/stem and the trim, and also functions as an extender, helping in situations where the original stem is too recessed in the wall\n\nThe part was **modeled in FreeCAD**, a **parametric** CAD software, and I am also providing the **.FCStd file**, so that each person can easily change length, number of splines, diameters, and other measurements according to their application's needs\n\nI printed this part in **PLA**, with **100% infill**, to improve strength. Still, I **strongly recommend printing in PETG**, as it offers better mechanical resistance and greater durability for this type of use, since the part operates under torque\n\nIn my case, the application is for a **gate valve register**, which will be **used infrequently**, only for maintenance situations. For this use case, the part **worked and served very well**\n\nThis result was obtained **after some tests and dimensional adjustment attempts**, until a satisfactory fit was achieved. Therefore, it is important to remember that small variations may exist between manufacturers, lines, and even between parts of the same application\n\n**Model Specifications:**\n\n- Female input: **Docol Ø9.2 mm – 20 splines**\n- Male output: **DECA Ø13 mm – 18 splines**\n- Function: **adapter + extender**\n\n**Important:**\n\nBefore printing, check the measurements of your register and trim. Since the parametric **.FCStd** file is included, any adjustments to length, number of splines, and diameters can be easily made to adapt the model to your needs\n\nadaptador deca docol conversor register valvula adaptador gaveta deca docol adapter register trim valve adapter valve stem adapter spline adapter 16 spline 20 spline 20-spline tool plumbing bathroom repair replacement part\n\n* * *\n\n### Documentation (1)\n\nAssembly Guide (1)\n\nCaptura de tela 2026-04-04 154812.png",
+ "use_cases": [],
+ "tags": [
+  "16 spline",
+  "20 spline",
+  "20-spline tool",
+  "acabamento de registro",
+  "adaptador",
+  "adaptador deca docol",
+  "adaptador gaveta",
+  "bathroom repair",
+  "conversor",
+  "deca",
+  "docol",
+  "plumbing",
+  "registro",
+  "replacement part",
+  "spline adapter",
+  "valve adapter",
+  "valve stem adapter",
+  "valvula"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-05-30",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/adaptador_docol-deca.3mf",
+   "size": 1563706,
+   "sha256": "08c05a8802c5d6a85aeecba3f9b13c7c49c2ef3939a44407cbe30f39ca78a29c",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/adaptador_docol-deca.3mf.xz",
+   "size": 1303484,
+   "sha256": "0a4329e8cc95ab2e849b2dc25c98ed0cc767445d101bab4b14fa0fc95ed66ac3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe38fd9443fd8f8/design/1d0d2f48693c1f0e.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

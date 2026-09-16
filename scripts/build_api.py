@@ -21,7 +21,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts", "lib"))
 from parse_meta import load_existing_metadata
 
-CATS = "automotive bathroom bedroom decor home-organization kitchen repair science".split()
+CATS = "phone-cases console-cases automotive bathroom bedroom decor home-organization kitchen repair science".split()
 
 def sha256(p):
     h = hashlib.sha256()
@@ -165,7 +165,7 @@ def main():
     index = {
         "name": "PrintGo 3D Library",
         "version": "1.0.0",
-        "generated": "2026-09-15",
+        "generated": "2026-09-16",
         "total_models": len(records),
         "categories": [c for c in CATS if c in per_cat],
         "source": "MakerWorld",

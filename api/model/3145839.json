@@ -1,0 +1,47 @@
+{
+ "id": "3145839",
+ "title": "Johnson Evinrude 317001 - Coil Locating Ring Tool",
+ "slug": "johnson-evinrude-317001-coil-locating-ring-tool",
+ "url": "https://makerworld.com/en/models/3145839-johnson-evinrude-317001-coil-locating-ring-tool",
+ "author": "Im_Mike_D",
+ "category": "repair",
+ "source_category": "Tools > Machine Tools",
+ "description": "3D printed version of the Johnson Evinrude part number 317001 coil locating ring.\n\nThis part is used on various johnson/evinrude outboard motors from the late 1950's including the sea-horse 7.5hp motor. Model numbers I know for sure it fits are AD-11 and ADL-11.\n\nThe tool is used to align the gap on the armature ignition coils so they don't contact the flywheel.\n\nI printed this up in about 45 minutes and it worked perfectly. I have a nice clean spark on both cylinders.\n\nIt's about the simplest 3D print possible… It's just a ring with a 4.47 inch inner diameter.\n\njohnson evinrude ignition coil outboard motor vintage motor repair",
+ "use_cases": [],
+ "tags": [
+  "evinrude",
+  "ignition coil",
+  "johnson",
+  "outboard motor",
+  "vintage motor repair"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-10-10",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "files": [
+  {
+   "path": "model/Johnson_317001_AD_11_alignment_ring.3mf",
+   "size": 1033602,
+   "sha256": "a2414e8ff40e16cab3a539a992d34f34cad16f0df61508758b09fb5d25f99168",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Johnson_317001_AD_11_alignment_ring.3mf.xz",
+   "size": 1030568,
+   "sha256": "60e5401c0737451d8f455c8c4e6ec4144589abd804b6cee90631d566f5a2d132",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe888b8c6c7042f/design/462f245429cb72d2.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "982400",
+ "title": "Steam Deck Front Cover - 2 Parts - A1 mini",
+ "slug": "steam-deck-front-cover-2-parts-a1-mini",
+ "url": "https://makerworld.com/en/models/982400-steam-deck-front-cover-2-parts-a1-mini",
+ "author": "MorastBlitz",
+ "category": "console-cases",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "I love the Steam Deck Cover, but sadly I have only an A1 mini and the model ist too big.\n\nSo I splitted it in two parts and added the Steam Deck Logo to the middle.\n\nWith that I was able to place two 5x2 mangnets on each side.\n\nIt fits very well and with the magnets it does not even fall off when I carry it in my bag.\n\nBe careful when removing the brim, I removed too much and now theres is a gap between to two parts!\n\nsteamdeck case steamdeck cover Case",
+ "use_cases": [],
+ "tags": [
+  "Case",
+  "cover",
+  "steamdeck",
+  "steamdeck case"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-01-12",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/deck_shield_2parts_bambu.3mf",
+   "size": 6890056,
+   "sha256": "eabb8ae44721902b9c4975b8fe91ed75f3955d256c335d996da185be0d9e2efa",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/deck_shield_2parts_bambu.3mf.xz",
+   "size": 6749292,
+   "sha256": "684ae7d4c206997b4dfce274c63687f77bd816fbcd29519f60fecf3e3e564739",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa668ee3190b40a/design/2025-01-12_fbaa6ae5974b9.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

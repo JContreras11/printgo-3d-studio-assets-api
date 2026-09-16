@@ -1,0 +1,67 @@
+{
+ "id": "153149",
+ "title": "iPhone 15 Pro Max TPU Case with MagSafe",
+ "slug": "iphone-15-pro-max-tpu-case-with-magsafe",
+ "url": "https://makerworld.com/en/models/153149-iphone-15-pro-max-tpu-case-with-magsafe",
+ "author": "grantg",
+ "category": "phone-cases",
+ "source_category": "Tools > Gadgets",
+ "description": "**This is a relatively easy to print phone case for the iPhone 15 Pro Max so you can protect your shiny, new, titanium phone.**\n\nIf you like my work, consider buying me a coffee :)\n\nThe case consists of two pieces: the case and the camera guard. Print the case in TPU or other flexible filament, and the camera piece in any non-flexible filament. I just used PLA. The case features ribbed buttons for tactility and a one piece design that doesn't require any separate button pieces and makes for easy printing.\n\nThe inside of the case features an indent for MagSafe magnets that can be bought on amazon, such as these. Haven't gotten mine in yet, will update the case if they don't work.\n\n### Make sure you change “PERIMETER GENERATOR” to “CLASSIC” before slicing!\n\nOtherwise the button areas will not print correctly. Use the search function in the top bar if you are not sure where this setting is.\n\n### **Slicer setup:**\n\n#### **Case**\n\nI printed with TPU at a 0.2mm layer height. Make sure the case is on its back. The most important thing will be the support setup, as the front of the case needs support.\n\n- Select the case and press “Paint on Supports”\n- Set the settings for the support painter to match this:\n\n- Change the view so that you are looking up through the bed and through the camera hole like this:\n\n- Select the overhang that is highlighted\n- Change the view so that the charge port area is in view, like this:\n\n- Select the overhangs for the charge port and speaker grills\n- Deselect the “paint on supports” tool\n- Change the support setting to “for support enforcers only”\n- Should look like this:\n\n#### **Camera Guard**\n\n- I printed mine at 0.15mm layer height in PLA. There is an overhang that looks like it should be supported, however the gap is too small and prusaslicer does not want to build actual supports in that gap.\n- I was able to print mine just fine without supports, but I am not sure this will work for everyone.\n- Leave the orientation the way it is when imported.\n\nIf you have any questions, let me know.\n\nIf you like the model, please leave a make. I would love to see how others like it!\n\nHappy Printing!\n\ncamera case pixel Samsung tpu phone apple iphone watch 15 pro plus screen google flex ultra 13 bumper magnetic charging max 14 promax",
+ "use_cases": [],
+ "tags": [
+  "13",
+  "14",
+  "15",
+  "apple",
+  "bumper",
+  "camera",
+  "case",
+  "flex",
+  "google",
+  "iphone",
+  "magsafe",
+  "max",
+  "phone",
+  "pixel",
+  "plus",
+  "pro",
+  "promax",
+  "samsung",
+  "screen",
+  "tpu",
+  "ultra",
+  "watch"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2024-01-23",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "files": [
+  {
+   "path": "model/1_plate_AMS.3mf",
+   "size": 4974341,
+   "sha256": "c5fb420392adb69bca19454ca792123d62c1ef21486e954b1bf1baad6c69e1d3",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/1_plate_AMS.3mf.xz",
+   "size": 4154828,
+   "sha256": "94304d50459fcd7702df9ed740b44bbd0c273aaed7810873e831caa20544b240",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4e9a6cd0006f95/design/2024-01-23_zv1w36bg24nm.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

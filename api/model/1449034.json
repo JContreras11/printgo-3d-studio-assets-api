@@ -1,0 +1,50 @@
+{
+ "id": "1449034",
+ "title": "Corgi bread clip",
+ "slug": "corgi-bread-clip",
+ "url": "https://makerworld.com/en/models/1449034-corgi-bread-clip",
+ "author": "Burak19891",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "Corgi bread clip\n\nBoost Me (for free)\n\nBoost\n\ncorgi dog funny 'kitchen clip puppy kitchen Tool",
+ "use_cases": [],
+ "tags": [
+  "Tool",
+  "clip",
+  "corgi",
+  "dog",
+  "funny",
+  "kitchen",
+  "puppy",
+  "%27kitchen"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-05-24",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/corgi.3mf",
+   "size": 1688378,
+   "sha256": "df066ef357f3ba03e076424faf654ec29ba1e38d5bf9ca5a0730980799f50e7a",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/corgi.3mf.xz",
+   "size": 1585280,
+   "sha256": "a60e441aa9bc14d652bd127494852f193a31aa689fe6ac6e05711a8e1461d5f0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5fa0a0fa026491/design/2025-05-24_a7c97f6dcc2af8.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

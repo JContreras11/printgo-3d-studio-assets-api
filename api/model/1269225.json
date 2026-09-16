@@ -1,0 +1,47 @@
+{
+ "id": "1269225",
+ "title": "Jabra Evolve 20 repair kit",
+ "slug": "jabra-evolve-20-repair-kit",
+ "url": "https://makerworld.com/en/models/1269225-jabra-evolve-20-repair-kit",
+ "author": "user_2973466422",
+ "category": "repair",
+ "source_category": "Hobby & DIY > Electronics",
+ "description": "Here is small kit to fix your broken Jabra Evolve 20.\n\nYou need to drill broken hard phone with 4 mm drill bit to enlarge hole.\n\nI also suggest to use super glue to fix stopping ring.\n\nA bit of soldering is also requires to solder back 2 wires.\n\njabra evolve 20 broken headphone repair kit broken",
+ "use_cases": [],
+ "tags": [
+  "broken",
+  "broken headphone",
+  "jabra evolve 20",
+  "repair kit"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-03-31",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Jabra_repair_kit.3mf",
+   "size": 1037039,
+   "sha256": "8af8d8753c91a63993a87b5ca2a52a5930cbdff8c0f09a5f4c44b4bfc1b8c807",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Jabra_repair_kit.3mf.xz",
+   "size": 998140,
+   "sha256": "29983e611642141d1dcc638854335f0c645fdfc82ccd5f7540f32729c0a96fc8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USde63be449d56c4/design/2025-03-31_30521c8f6023f.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": "1572162",
+ "title": "Switch key for angle grinder",
+ "slug": "switch-key-for-angle-grinder",
+ "url": "https://makerworld.com/en/models/1572162-switch-key-for-angle-grinder",
+ "author": "Crissy98.",
+ "category": "repair",
+ "source_category": "3D Printer > 3D Printer Parts",
+ "description": "I had an old angle grinder that had a broken power switch, so instead of throwing it away, we used this small insert to be able to use it.  It’s a simple print that might help others too.\n\n**Dimensions**\n\n**\\- Square fitting**: 7.5 mm (width) × 7.2 mm (height)\n\n**\\- Circular base diameter**: 15 mm\n\nTo make sure the FlexKey can handle the pressure from regular use, I printed it with:\n\n- **4 wall loops** for extra strength\n- **25% infill**\n- **0.16 mm layer height** for a cleaner look\n\nNote : I printed the FlexKey on diagonal, so the layers aren’t perfectly horizontal. This helps reduce the risk of breaking at weak layer lines when the tool is pressed or twisted during use. Angled layers give it better strength where it matters most.\n\ntool repair angle grinder dyi power switch MakerWorld garage starter key replacement rotation Square",
+ "use_cases": [],
+ "tags": [
+  "MakerWorld",
+  "Square",
+  "angle grinder",
+  "dyi",
+  "garage",
+  "power switch",
+  "repair",
+  "replacement",
+  "rotation",
+  "starter key",
+  "tool"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2025-07-03",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Switch_key.3mf",
+   "size": 614201,
+   "sha256": "5e8fcac35d06829d13562f26f63f7f3d14317f9fd5663e3d9ab34e04542e971e",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Switch_key.3mf.xz",
+   "size": 487148,
+   "sha256": "685e9959f4f7c5568c78703974fa20e86302bbed515f9d7e0246a24df56855c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US70b5021b5bd0e6/design/2025-07-03_29db0b412a5d3.png?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": "2535931",
+ "title": "Molecule Model - Cluster",
+ "slug": "molecule-model-cluster",
+ "url": "https://makerworld.com/en/models/2535931-molecule-model-cluster",
+ "author": "TimoSchwab",
+ "category": "science",
+ "source_category": "Art > Other Art Models",
+ "description": "Model of a molecule, specifically a cluster made from 15 atoms in a spherical configuration.\n\n Model eines Moleküls (einem Cluster aus 15 Atomen) in einer sphärischen Konfiguration.\n\ncluster model molecule science spherical chemistry",
+ "use_cases": [],
+ "tags": [
+  "chemistry",
+  "cluster",
+  "model",
+  "molecule",
+  "science",
+  "spherical"
+ ],
+ "license": "Public Domain / CC0",
+ "release_date": "2024-03-04",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Cluster_Sphärisch.3mf",
+   "size": 30727491,
+   "sha256": "2cde00b12fd8d3170fa9385ca968443b1f0e6a5aacd8542f6bc5474c27ec85d5",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Cluster_Sphärisch.3mf.xz",
+   "size": 30051840,
+   "sha256": "22b827d074ee7a05451b7d14083fde113e67bbb70da765b45c93e04db09d99ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US577e023bd07401/design/c02240b67fcc876c.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

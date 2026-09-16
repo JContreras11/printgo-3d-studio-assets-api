@@ -1,0 +1,51 @@
+{
+ "id": "1178234",
+ "title": "Carbon Atom Model (No AMS)",
+ "slug": "carbon-atom-model-no-ams",
+ "url": "https://makerworld.com/en/models/1178234-carbon-atom-model-no-ams",
+ "author": "DaDokk_",
+ "category": "science",
+ "source_category": "Education > Chemistry",
+ "description": "## _**Carbon Atom Model**_ ⚛\n\nModel of a carbon atom with accurate number of electrons, protons and neutrons. The model doesn't support AMS so you have to color it yourself. You can also choose which nucleons will be protons and neutrons. I hope you like it. :)\n\natom carbon carbonatom chemistry model decoration",
+ "use_cases": [],
+ "tags": [
+  "atom",
+  "carbon",
+  "carbonatom",
+  "chemistry",
+  "decoration",
+  "model"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-03-05",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Atom.3mf",
+   "size": 6143457,
+   "sha256": "dbdaf013abb231320cc7eb858456383444df858bc84c94c6b4d73e878ce6af4b",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Atom.3mf.xz",
+   "size": 6058948,
+   "sha256": "3d931c72d5ea1b42b1bb497dfdeb2655cc586f8512305d48690b6dc5463fdb6e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US282af92ee6d839/design/2025-03-05_7151b9e6fc5cc.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

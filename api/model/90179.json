@@ -1,0 +1,56 @@
+{
+ "id": "90179",
+ "title": "Stacking Bottle Holder - Fastest Print!",
+ "slug": "stacking-bottle-holder-fastest-print",
+ "url": "https://makerworld.com/en/models/90179-stacking-bottle-holder-fastest-print",
+ "author": "Ryzwick",
+ "category": "kitchen",
+ "source_category": "Tools > Organizers",
+ "description": "Designed from the ground up to use only as much filament as necessary, this stacking water bottle holder fits most sizes of water bottles. Easily stacks on top of each other with keyed grooves.\n\nkitchen water bottle organizer holder stackable fast optimized waterbottle shelf Organization organize organise",
+ "use_cases": [],
+ "tags": [
+  "bottle",
+  "fast",
+  "holder",
+  "kitchen",
+  "optimized",
+  "organisation",
+  "organise",
+  "organize",
+  "organizer",
+  "shelf",
+  "stackable",
+  "water",
+  "waterbottle"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2023-12-11",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/Stacking_bottleholder_2in1.3mf",
+   "size": 742996,
+   "sha256": "4342eb2365eba163ef9f6bd0eb8b6b3bdf0123b69c399755b3f3f51d544832d2",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/Stacking_bottleholder_2in1.3mf.xz",
+   "size": 741272,
+   "sha256": "e75ca0e7acef7f58193030d6700ac34af0352b2ca68ade5a2fca303233ca3167",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US64b0c829ad3fc4/design/2023-12-11_965cb5ab4625e.jpg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

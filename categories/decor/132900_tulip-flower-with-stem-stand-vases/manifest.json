@@ -1,0 +1,59 @@
+{
+ "id": "132900",
+ "title": "Tulip flower with stem, stand & vases",
+ "slug": "tulip-flower-with-stem-stand-vases",
+ "url": "https://makerworld.com/en/models/132900-tulip-flower-with-stem-stand-vases",
+ "author": "Sziszi",
+ "category": "decor",
+ "source_category": "Household > Decor",
+ "description": "I cerated a stem stand and some vase with a special stem, witch is hold the stem in the center of tha vase.\n\nBoost Me (for free)\n\nBoost\n\ndecoration flower tulip vase valentine valentine 's day valentine 's day decor",
+ "use_cases": [],
+ "tags": [
+  "decoration",
+  "flower",
+  "tulip",
+  "valentine",
+  "valentine %27s day",
+  "valentine %27s day decor",
+  "vase"
+ ],
+ "license": "CC BY 4",
+ "release_date": "2025-02-10",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg"
+ ],
+ "files": [
+  {
+   "path": "model/heart_vase2_project.3mf",
+   "size": 3659292,
+   "sha256": "e904bd5b7827e19b0b573d17dde69cfedea19e91636ef031c2bcceabc4ce54ed",
+   "compressed": false,
+   "decompress": null
+  },
+  {
+   "path": "model/heart_vase2_project.3mf.xz",
+   "size": 3530900,
+   "sha256": "84bee580686999c72e66abcd2e0c2b219c21cbe2e32f816d3f451d15969140d1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa818fd59b02b/design/2025-02-10_5a8d8bec7fbdc.jpeg?x-oss-process=image/resize,w_1000",
+ "storage": {
+  "format": "xz",
+  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+ }
+}

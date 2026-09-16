@@ -30,7 +30,33 @@
    "size": 18634624,
    "sha256": "00dc71639e2cd8697a3d6cbf2ae47a76e00b285306c66ad93d992031dc67b34a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.12mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16277,
+      "weight_g": 101.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdc5f31fad71f47/design/2024-03-02_15bb0a7ea3b25.jpeg?x-oss-process=image/resize,w_1000",

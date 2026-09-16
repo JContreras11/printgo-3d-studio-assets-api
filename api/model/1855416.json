@@ -41,7 +41,19 @@
    "size": 963124,
    "sha256": "c63391b91e861febe7dbe162129ea02aeaeaec66ff417f3e1e989f31fac4cccf",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.28mm layer, 2 walls, 7% infill",
+    "profile_notes": "Schichthöhe: 0,28 mm Stützen: ohne Umrandung: 5 mm Infill: 7 % Infill-Muster: Gitternetz",
+    "creation_date": "2025-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7a722bd860f34f/design/2025-10-08_b483ed9d5dc548.jpeg?x-oss-process=image/resize,w_1000",

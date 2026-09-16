@@ -41,14 +41,37 @@
    "size": 9138616,
    "sha256": "d1e91a7308564b05eda907b4ccc4a50d1ad6b6b285742962e903fd2513d0ddc8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Rolle mit 42mm and 39mm Durchmesser",
+    "creation_date": "2025-04-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   },
   {
    "path": "model/shaun_the_sheep_32_mm_version.3mf.xz",
    "size": 7258600,
    "sha256": "08b190091276d8f1959e1e800e0c472b58bb5eade27c387c08f7c6ba1723b0cb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "I made the tube a little bit smaller to 32mm because the original is to big for the toilet paper I use.",
+    "creation_date": "2025-11-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3f1a97c8ee5b52/design/2025-03-07_32c9aafd33cae8.jpg?x-oss-process=image/resize,w_1000",

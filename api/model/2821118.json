@@ -52,7 +52,19 @@
    "size": 893916,
    "sha256": "6c642291c0d533ddd091bc8d1edd5cbf729525d82b4d080f5e4e0b547f845677",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.16mm layer, 4 walls, 30% infill",
+    "profile_notes": "0.16-0.2 layer height use ABS/ASA/PETG because PLA could melt in summer !!!",
+    "creation_date": "2026-05-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1720058f0bb493/design/2026-05-19_6h9ug1q7cv16?x-oss-process=image/resize,w_1000",

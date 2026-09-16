@@ -28,7 +28,35 @@
    "size": 1087048,
    "sha256": "c3738842e7f12ea06a88e3a4f9f903587454ba306b4beb5c5f2760fbe155c00e",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "150x150 mm",
+    "profile_notes": "Slightly smaller at 150x150 mm, added ironing on top surface to make it easier to keep clean. Printed in PLA.",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8402,
+      "weight_g": 61.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USebf435b1e9569c/design/cd0504b3f91c212e.jpg?x-oss-process=image/resize,w_1000",

@@ -38,14 +38,38 @@
    "size": 24354816,
    "sha256": "ac3a265b988128fa830eafbce4bd8bd4320d2052e1f887e8f174011ba38f084c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "AMS version",
+    "profile_notes": "0.2 mm layer 2 walls 5% infill",
+    "creation_date": "2025-10-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Ghost_Vase_Knitted_NO_AMS.3mf.xz",
    "size": 24505704,
    "sha256": "24175394c5e891dd608439928034a823a3a3ff177f0512773d472b750e4ab01c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "No AMS version",
+    "profile_notes": "0.2 mm layer 2 walls 5% infill",
+    "creation_date": "2025-10-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd07f8f10fd96ca/design/2025-10-23_429a8c4f00d6e8.jpg?x-oss-process=image/resize,w_1000",

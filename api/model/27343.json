@@ -26,19 +26,74 @@
    "size": 2170512,
    "sha256": "82e7f8fb84002fdf02ee38de084c02230f57fe3cccbaa27519c91690ff03e8e8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 25% infill",
+    "profile_notes": "Included supports so the top will print nicer.",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13408,
+      "weight_g": 125.77,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   },
   {
    "path": "model/DonutVase_A1_mini.3mf.xz",
    "size": 2184664,
    "sha256": "54dac5166138b7f977dc02382cadd97bcfc93ab5fe2f5ce9ff1bd5f54e98f9cb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 mini - 0.2mm layer, 3 walls, 25% infill",
+    "profile_notes": "0.2 mm layer; 25% infill for the bade support; tree slim supports for the to overhang.",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15106,
+      "weight_g": 125.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4921fac5735da2/design/2023-09-28_0581236364771.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
   "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- }
+ },
+ "variant_hint": "para A1 mini"
 }

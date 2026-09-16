@@ -32,7 +32,19 @@
    "size": 1070408,
    "sha256": "bc3bcbd4b383f191e7493fa2cd26a7c802041eb65308f9eca7d1af6541149053",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "0,12mm Schichthöhe 2 Wände 15% Füllung PLA Druck",
+    "creation_date": "2025-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc82e909d85de73/design/2025-06-25_f4fb28090e3c8.jpg?x-oss-process=image/resize,w_1000",

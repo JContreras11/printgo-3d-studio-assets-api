@@ -38,7 +38,34 @@
    "size": 1255964,
    "sha256": "9fa41d43dd107c1e93816f342641d748308f4fbc5105ce998877691b2c7c60f4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "You can use additional materials for this project. I recommend TPU because it provides extra protection for your phone. When selecting a material, opt for one that is UV and heat resistant",
+    "creation_date": "2025-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17969,
+      "weight_g": 65.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US16960f9b1ac3a0/design/2024-05-17_74717bbf220ec.png?x-oss-process=image/resize,w_1000",

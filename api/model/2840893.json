@@ -46,14 +46,36 @@
    "size": 8941080,
    "sha256": "a2e08f75eea22bed6e79365b35866f7e94348e3cb32627c01fce23920aeff24f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-05-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/coffin2.3mf.xz",
    "size": 22254964,
    "sha256": "9304f6b8d76f21dc4e1f599a79163c3c251fa26bb039d689c70e7949618e4d94",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "without cross - 0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d875a93a1a5f2/design/824452f29c9e1901.jpg?x-oss-process=image/resize,w_1000",

@@ -36,7 +36,19 @@
    "size": 1064164,
    "sha256": "c76b090b04ee08f89b32ae429a96428c18fbb0f9da4e485b460d9b5e53c597bd",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.2 layer 15 % inill giroid 2 walls support only for the hole textured plate",
+    "creation_date": "2026-01-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US30ba401cd8439/design/2026-01-15_9142c08b2c581.jpg?x-oss-process=image/resize,w_1000",

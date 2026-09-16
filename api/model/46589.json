@@ -38,7 +38,33 @@
    "size": 1301596,
    "sha256": "e40f3c0073e0f1369fcfb52ac7e0703d723a8a162bc689d0299460328b369738",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1178,
+      "weight_g": 5.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf3844885be33a/design/2023-10-20_tbskg7t3zm03.jpg?x-oss-process=image/resize,w_1000",

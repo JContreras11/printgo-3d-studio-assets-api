@@ -42,7 +42,34 @@
    "size": 1050288,
    "sha256": "c5993ff5ab9e6920777167140e1ea7e05bf255dde11fd7e6dcef1afacd191da5",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Bambu PLA Basic Tree Organic Support",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6938,
+      "weight_g": 29.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USccdd263c221933/design/2024-04-07_a6bfd1ee7724.jpg?x-oss-process=image/resize,w_1000",

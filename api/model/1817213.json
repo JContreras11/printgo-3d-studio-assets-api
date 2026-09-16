@@ -80,7 +80,19 @@
    "size": 2401760,
    "sha256": "a47497f4abb2d2c8210323c0a593d97f142056be51d19b75dde023f8de538b4f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Supports only on front columns. 2 Wall 10% Adaptive Cubic infill",
+    "creation_date": "2025-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US139cbf52697002/design/2025-09-22_1db62798894f6.jpeg?x-oss-process=image/resize,w_1000",

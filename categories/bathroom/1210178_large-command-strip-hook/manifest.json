@@ -69,14 +69,67 @@
    "size": 872380,
    "sha256": "456ba166b7a1be1611aa32af8b612261f36ab8258c1703f11ee94aabf97eb123",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3768,
+      "weight_g": 13.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#CACDA0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   },
   {
    "path": "model/command_hook_lite.3mf.xz",
    "size": 918408,
    "sha256": "a4000085cc2756eddf9276a0aeb506eaa84732d10b565c11195f5054930a5931",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Lightweight version. Prints quickly in 30 mins. Strong enough for most uses.",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1862,
+      "weight_g": 11.4,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#CACDA0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6239e796696c66/design/2025-03-14_4aea8c6aef88c.jpeg?x-oss-process=image/resize,w_1000",

@@ -28,7 +28,34 @@
    "size": 802928,
    "sha256": "06ebf5bd45b27b66324a004d068247f3cbeb4788613b98edd863d4060a314b92",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Uses standard 0.20mm preset for A1 Mini Best printed with Bambu Basic PLA",
+    "creation_date": "2025-03-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3706,
+      "weight_g": 27.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7cd063276565f3/design/2024-05-10_2b2a3910e39c.jpg?x-oss-process=image/resize,w_1000",

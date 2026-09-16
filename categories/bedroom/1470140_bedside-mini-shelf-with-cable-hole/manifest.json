@@ -24,7 +24,19 @@
    "size": 634424,
    "sha256": "0540aa73c6f1858ee3c93922aa4eeb3113a409e71d7bd43892c62037b4d59431",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Layer height: 0.20mm (Standard) Wall loops: 3 Top layers: 5 Bottom layers: 3 Infill density: 15% Infill pattern: Gyroid Top/Bottom pattern: Monotonic Internal solid infill: Monotonic Support: Enabled (Tree, auto) with 30° overhang threshold Printed on: Bambu Lab A1 with textured PEI plate Filament: PLA Matte (slot 4) Filament usage: ~138g / 43.5m Cost estimate: €3.45 Designed in Shapr3D",
+    "creation_date": "2025-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f3c0b9fb51902/design/2025-05-30_4debcd6b35637.png?x-oss-process=image/resize,w_1000",

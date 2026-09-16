@@ -35,14 +35,36 @@
    "size": 1129440,
    "sha256": "6022a14e2e6785e7ec8140e069f87ddc17ad4aaa11647b1fa0c8055e7dde7da3",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Modular beams - 0.2mm layer, 4 walls, 15% infill",
+    "creation_date": "2025-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Modular_Shower_Tray.3mf.xz",
    "size": 1218268,
    "sha256": "e25423cbab40167c2265303663e152b7d504c5f6906336108e12a01b9fa61b7c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Tray (7mm) - 0.2mm layer, 2/4 walls, 15% infill",
+    "creation_date": "2025-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1602bc6054273/design/2024-12-07_d62fb58df5edf.jpg?x-oss-process=image/resize,w_1000",

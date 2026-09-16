@@ -74,21 +74,54 @@
    "size": 8980760,
    "sha256": "6d733a0ca1ab2f006d748cf51a2f881d2ff0e3e170c3d4ef8ba6fcbc5bda9977",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 1 walls, 0% infill (240 mm height)",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Aurora_Twist_M.3mf.xz",
    "size": 9019132,
    "sha256": "f4d2bf46c2c707f7288dab7dc952f899856db21e2cf8a7b434e2706c4f63af40",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 1 walls, 0% infill (200 mm height)",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Aurora_Twist_S.3mf.xz",
    "size": 8910708,
    "sha256": "0aff777c5a4ddafbcc665805c0ecb318bb731284a9f32691319eb7c867325adf",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 1 walls, 0% infill (160 mm height)",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USca1568787ecfd9/design/5c4a7a67f0ab0c2c.png?x-oss-process=image/resize,w_1000",

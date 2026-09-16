@@ -70,14 +70,36 @@
    "size": 761816,
    "sha256": "ae2abe96d0c2691bfbfca25f4c0c6f036b4cff2bff7ab11ab165bb55fc6ed47a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   },
   {
    "path": "model/wire_rack_bins_petg.3mf.xz",
    "size": 761816,
    "sha256": "ae2abe96d0c2691bfbfca25f4c0c6f036b4cff2bff7ab11ab165bb55fc6ed47a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US49aebea7ff98e1/design/7dfe50893e28abcf.jpg?x-oss-process=image/resize,w_1000",

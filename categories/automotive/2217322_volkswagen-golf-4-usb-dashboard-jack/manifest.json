@@ -28,7 +28,19 @@
    "size": 1098228,
    "sha256": "8642e810d95ae9365c749ae1c77e12709999fc482ea1aae1737530f561b94fbb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "No support needed You can play with different build plates for a different front finish.",
+    "creation_date": "2026-01-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa5717f69ac433/design/2026-01-08_225c43ff08878.jpeg?x-oss-process=image/resize,w_1000",

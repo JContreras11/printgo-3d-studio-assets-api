@@ -34,7 +34,19 @@
    "size": 1462228,
    "sha256": "797cd10bab94f78e8a042c2933c39790ddcfddd0409f1644f70def0b791b6cc1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "The cover plate needs to be printed with support.",
+    "creation_date": "2026-08-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USde421308bf8adc/design/b72071e7d4ae4043.jpg?x-oss-process=image/resize,w_1000",

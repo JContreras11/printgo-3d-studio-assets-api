@@ -28,7 +28,35 @@
    "size": 748636,
    "sha256": "3e8451cd2b193242f36e7352a25cfea730a3b96eff988cfe42d92f1d0a0240a1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer 2 walls 15% infill Printed without brim auto tree supports for rounded corner",
+    "creation_date": "2025-02-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16468,
+      "weight_g": 238.17,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5856497f6675a/design/2024-02-28_7b7ad51eeace3.jpg?x-oss-process=image/resize,w_1000",

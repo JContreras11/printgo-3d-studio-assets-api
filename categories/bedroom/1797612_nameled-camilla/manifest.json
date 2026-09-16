@@ -32,7 +32,18 @@
    "size": 2463816,
    "sha256": "c884396490008e5c84a5b188ab7495cc5331b3f77fdf4ded92656a64f1ed709a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9472bbb8ea0906/design/2025-09-15_544539ef21c31.jpg?x-oss-process=image/resize,w_1000",

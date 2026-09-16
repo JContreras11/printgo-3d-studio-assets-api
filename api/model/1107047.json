@@ -32,7 +32,60 @@
    "size": 1612600,
    "sha256": "30acae0c936311220c5bb20c6f04a686d2c84344bfcc3e1a74dd8d5aabeeb73f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Sink: .12 layer height with ironing top layers Other parts just print at .2 layer height",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5330,
+      "weight_g": 33.75,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1146,
+      "weight_g": 4.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 830,
+      "weight_g": 0.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65f9dadc426103/design/2025-02-13_67a2fea893ad3.jpg?x-oss-process=image/resize,w_1000",

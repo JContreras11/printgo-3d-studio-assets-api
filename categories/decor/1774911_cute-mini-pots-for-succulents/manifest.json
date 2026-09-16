@@ -34,7 +34,19 @@
    "size": 21408496,
    "sha256": "a208645f811c295d698d2e65ced179fdd699987c3c0de0e9a24af9d9461ca3c6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Altura de camada: 0,2 mm Paredes: 2 Preenchimento (infill): 15% Velocidade de impressão: 90 mm/s (PETG – velocidade geral recomendada)",
+    "creation_date": "2025-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8aa2c5543df29a/design/2025-09-07_da0cebc0acf46.jpg?x-oss-process=image/resize,w_1000",

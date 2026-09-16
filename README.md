@@ -84,6 +84,26 @@ release_date, preview, images[{path}, ...], files[{path,size,sha256}], source_pr
 order, numbered `01`, `02`, …). Licenses are taken from the MakerWorld page itself
 (`#### License` block) and only CC0 / CC BY / CC BY-SA are ever stored.
 
+### Extracted 3MF metadata (honest print facts)
+
+`scripts/extract_3mf_meta.mjs` decompresses each real `.3mf.xz` and reads the
+Bambu/Orca-style parts (`3D/3dmodel.model`, `Metadata/project_settings.config`,
+`Metadata/slice_info.config`, `Metadata/plate_*.png`) to store **only facts that
+actually appear in the file** as `files[].meta`: `printer`, `profile_title`,
+`profile_notes`, `slicer`, `application`, `layer_height`, `infill`,
+`support_type`, and per-plate `prediction_ms`, `weight_g`, `nozzle_diameters` and
+`filaments` (PLA/PETG + hex colours).
+
+It also writes a model-level `variant_hint` (es-CO) into `manifest.json`,
+`api/model/*.json` and every `api/categories/<cat>.json` record, derived **only**
+from filename tokens the creator chose (colored/mono → Multicolor/Monocromo,
+X1/A1/mini/P1S → printer family). No print time, material or printer is invented:
+
+- run order: `python scripts/build_api.py` then `node scripts/extract_3mf_meta.mjs`
+  (the extractor augments the generated API files; keep it after any rebuild).
+- files with no slicer metadata simply keep no `meta` — consumers must then tell
+  the user that Studio calculates time/material after opening the model.
+
 ## Compression & usage
 
 3MF files are stored **xz-compressed** (`.3mf.xz`) to keep GitHub under its 100MB/

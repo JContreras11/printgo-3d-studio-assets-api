@@ -25,7 +25,33 @@
    "size": 2286764,
    "sha256": "fba9c28748220d4d1bf35186a6b5ad4bc09cf57559f979ec38a4d88a5507bcb4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3783,
+      "weight_g": 30.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb73a46d1a8acc2/design/2025-02-09_f10b139d05d47.jpg?x-oss-process=image/resize,w_1000",

@@ -25,7 +25,19 @@
    "size": 1410404,
    "sha256": "97e0ade3ce312df4223b356105d603af8b0f2d8a1a5ce7ca4518402432470c74",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "print without supports. nothing special. Normal setting",
+    "creation_date": "2025-12-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbd08a8acb61268/design/2025-12-07_0984b47fe07188.jpeg?x-oss-process=image/resize,w_1000",

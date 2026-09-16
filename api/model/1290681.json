@@ -37,7 +37,19 @@
    "size": 830076,
    "sha256": "901ec0552157e8a4c48119e880e95aef31f55cabe76ab04653bd8be0072f5b6f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "• Material: PETG recommended • Infill: 15-20% • Layer height: 0.2mm • No supports needed • Bed size: ~210x160mm minimum Customizable: Yes – easily edit the text in your slicer or CAD",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6c06aff3bbe86/design/2025-04-06_5fe4651f6cce9.jpg?x-oss-process=image/resize,w_1000",

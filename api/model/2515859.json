@@ -59,21 +59,56 @@
    "size": 3047356,
    "sha256": "fb68bac7a2cbf787b86e188d2ef86ce974960304257e0d2e7762686b70093fc6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Plattform Fuzzy skin",
+    "profile_notes": "Druckempfehlungen (PLA-only) DE Deutsch • Schichthöhe: 0,08–0,12 mm • Material: PLA • Infill: 10–20 % • Supports: empfohlen unter Armen, Stäben, Schriftrollen & Capes • Ausrichtung: leicht geneigt für saubere Details an Hut, Stab, Buch & Rauch • Geschwindigkeit: 35–50 mm/s • Besonderheiten: Stoff, Rauch, Metall & magische Effekte profitieren stark von Drybrush-Techniken GB English • Layer height: 0.08–0.12 mm • Material: PLA • Infill: 10–20% • Supports: recommended under arms, staffs, scrolls & cloaks • Orientation: slight tilt for clean details on hat, staff, book & smoke • Speed: 35–50 mm/s • Notes: cloth, smoke, metal & magical effects benefit greatly from drybrush techniques",
+    "creation_date": "2026-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Plattform_und_Vase_Fuzzy_skin.3mf.xz",
    "size": 5139856,
    "sha256": "a7e167f4b546ae294944857903941dae6144481ce662660f95827a6ce0cbf9c4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Vase und Plattform Fuzzy skin",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Vase_Fuzzy_skin.3mf.xz",
    "size": 3352716,
    "sha256": "d09c36d9acec6ab90979753800520a38a1a07c482edd30b7952c59715b810632",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Vase Fuzzy skin",
+    "profile_notes": "Druckempfehlungen (PLA-only) DE Deutsch • Schichthöhe: 0,08–0,12 mm • Material: PLA • Infill: 10–20 % • Supports: empfohlen unter Armen, Stäben, Schriftrollen & Capes • Ausrichtung: leicht geneigt für saubere Details an Hut, Stab, Buch & Rauch • Geschwindigkeit: 35–50 mm/s • Besonderheiten: Stoff, Rauch, Metall & magische Effekte profitieren stark von Drybrush-Techniken GB English • Layer height: 0.08–0.12 mm • Material: PLA • Infill: 10–20% • Supports: recommended under arms, staffs, scrolls & cloaks • Orientation: slight tilt for clean details on hat, staff, book & smoke • Speed: 35–50 mm/s • Notes: cloth, smoke, metal & magical effects benefit greatly from drybrush techniques",
+    "creation_date": "2026-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65dd240d6d7853/design/587f319bea01b83a.jpg?x-oss-process=image/resize,w_1000",

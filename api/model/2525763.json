@@ -35,7 +35,19 @@
    "size": 1012332,
    "sha256": "28d248381ac08aa1f27708a29cf9b3e59703be40325cdd6f6a71d7fe966d082a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 40% infill",
+    "profile_notes": "Nozzle: 0.4 mm Layer height: 0.20 mm Infill: 40% Infill type: Gyroid Top layers: 5 Supports: No supports required",
+    "creation_date": "2026-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "40%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdd24ec3c086bd7/design/c44cee8ef29c7177.jpg?x-oss-process=image/resize,w_1000",

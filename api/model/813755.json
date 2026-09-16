@@ -30,7 +30,85 @@
    "size": 905628,
    "sha256": "0da5eb7e27246870e7feaf0d33df1d012cb7d35980dcc37c6153c80f299ae942",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 31650,
+      "weight_g": 247.25,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#BCBCBC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 35722,
+      "weight_g": 254.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#BCBCBC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15030,
+      "weight_g": 109.86,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#BCBCBC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25806,
+      "weight_g": 180.72,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#BCBCBC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15025,
+      "weight_g": 109.86,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#BCBCBC"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US25961a65032d84/design/40199cce-8f0a-487d-ae10-80feb5468429.webp?x-oss-process=image/resize,w_1000",

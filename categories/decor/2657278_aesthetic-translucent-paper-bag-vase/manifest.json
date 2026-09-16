@@ -74,7 +74,19 @@
    "size": 18430040,
    "sha256": "197f2a65d86fcf08d75646e405edae56c1e1bb40fc559a88636fc806cfbd0a68",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Vase Mode • Ultra Smooth • Translucent PETG",
+    "profile_notes": "Optimized for vase mode printing ✨ This profile creates smooth, thin walls with a soft translucent effect — perfect for aesthetic decor pieces. Recommended settings: – Vase mode (spiralize outer contour) – 0.08 mm layer height – 1 wall – 0% infill Best printed with translucent PLA or PETG for a soft light diffusion effect If this profile worked well for you — don’t forget to like it 💖",
+    "creation_date": "2026-04-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeb9cff4c55193b/design/03b950a99f3869e0.png?x-oss-process=image/resize,w_1000",

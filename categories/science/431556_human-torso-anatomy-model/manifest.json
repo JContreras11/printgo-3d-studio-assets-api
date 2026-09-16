@@ -24,7 +24,241 @@
    "size": 82011676,
    "sha256": "dc1f57e76aa2f43509823d0a0f7347b270dcf01ccf132199433cb388c98b3161",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20456,
+      "weight_g": 126.49,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#BB3D43"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20236,
+      "weight_g": 104.3,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#BB3D43"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 30349,
+      "weight_g": 227.75,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7E6DE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28486,
+      "weight_g": 211.45,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7E6DE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4371,
+      "weight_g": 32.77,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8AFCF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2020,
+      "weight_g": 2.67,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E5B03D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12530,
+      "weight_g": 167.04,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7E6DE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6418,
+      "weight_g": 36.41,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22322,
+      "weight_g": 138.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8AFCF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28499,
+      "weight_g": 184.45,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8AFCF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13908,
+      "weight_g": 66.07,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7383,
+      "weight_g": 51.69,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#847D48"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25045,
+      "weight_g": 135.78,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2199,
+      "weight_g": 16.77,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8AFCF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17239,
+      "weight_g": 124.62,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A3D8E1"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6617,
+      "weight_g": 46.89,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#3F8E43"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11365,
+      "weight_g": 109.48,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#39699E"
+       }
+      ]
+     }
+    ],
+    "photos": 17
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000431556/design/2024-04-16_fe0742f92303a8.jpg?x-oss-process=image/resize,w_1000",

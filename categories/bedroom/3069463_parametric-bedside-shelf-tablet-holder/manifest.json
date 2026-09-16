@@ -36,7 +36,19 @@
    "size": 1055128,
    "sha256": "eb3616e379c84a23367fd754e2d25d4c61ca6d4008f85f24bb40f482a013bba5",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "For 27mm bed frames",
+    "profile_notes": "If you don't want to use the parametric tool and just want a quick, pre-sliced file that is ready to print immediately, this profile is configured with the standard dimensions listed below. Pre-Configured Dimensions for This Profile: Bed Frame Rail Width: 27mm Bed Frame Clip Depth: 46mm Tablet Slot Gap: 90mm",
+    "creation_date": "2026-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3b71150b36a00c/design/c3d273d9280e8cfc.jpg?x-oss-process=image/resize,w_1000",

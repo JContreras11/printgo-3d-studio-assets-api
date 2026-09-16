@@ -35,7 +35,19 @@
    "size": 883652,
    "sha256": "02e46cea73ba38c496bc4e94ac304888402e6732f97da4eac19b233a712966dd",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Tested on a Bambu Lab P2S using SANLU PLA+ 2.0 Black. Layer Height: 0.20 mm Infill: 15% No supports required Printed vertically (upright orientation) The vertical print orientation provides a cleaner shelf surface finish and eliminates the need for support material.",
+    "creation_date": "2026-06-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7cb151b777b09/design/e5e41652b9694543.jpeg?x-oss-process=image/resize,w_1000",

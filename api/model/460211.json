@@ -1,18 +1,24 @@
 {
  "id": "460211",
- "title": "03-08 Corolla Lower Dash Switch Plate",
+ "title": "Placa de interruptores para tablero bajo — Corolla 03-08",
  "slug": "03-08-corolla-lower-dash-switch-plate",
  "url": "https://makerworld.com/en/models/460211-03-08-corolla-lower-dash-switch-plate",
  "author": "Maple",
  "category": "automotive",
- "source_category": "Tools > Gadgets",
- "description": "This plate replaces the stock lower dash storage door that comes in the 03-08 Toyota Corollas\n\nIt has slots for 3 switches on the left hand side, closest to the driver. 1 slot for a switch or a usb interface on the passenger side.\n\nIts made to screw into the sides of the storage bin with 2 screws or rivets.\n\nYou can also mix and match by mirroring the parts in the Bambu app on windows along the x axis. Made on the A1 Mini, will possibly make a version for other printers if requested.\n\ntoyota corolla switch plate cover car accessories",
+ "source_category": "Automóviles > Interior",
+ "description": "Reemplaza la tapa del compartimiento inferior del Corolla 2003-2008 por una placa con tres ranuras para interruptores, ubicadas justo donde cae la mano derecha. Ideal para exploradoras, barra LED, compresor o cualquier accesorio que hayas instalado y no sepas dónde controlar.",
+ "use_cases": [
+  "Montar interruptores de exploradoras o barra LED",
+  "Controlar accesorios 4x4 sin perforar el tablero",
+  "Instalación limpia de winch, compresor o luces auxiliares"
+ ],
  "tags": [
-  "car accessories",
+  "toyota",
   "corolla",
-  "cover",
-  "switch plate",
-  "toyota"
+  "interruptores",
+  "tablero",
+  "4x4",
+  "accesorios"
  ],
  "license": "CC BY 4",
  "release_date": "2024-05-10",
@@ -28,34 +34,7 @@
    "size": 802928,
    "sha256": "06ebf5bd45b27b66324a004d068247f3cbeb4788613b98edd863d4060a314b92",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.73",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Uses standard 0.20mm preset for A1 Mini Best printed with Bambu Basic PLA",
-    "creation_date": "2025-03-01",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 3706,
-      "weight_g": 27.85,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00AE42"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7cd063276565f3/design/2024-05-10_2b2a3910e39c.jpg?x-oss-process=image/resize,w_1000",

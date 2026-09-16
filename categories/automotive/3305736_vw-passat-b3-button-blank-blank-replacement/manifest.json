@@ -1,24 +1,24 @@
 {
  "id": "3305736",
- "title": "VW Passat B3 Button Blank / Blank Replacement",
+ "title": "Botón ciego de repuesto — VW Passat B3",
  "slug": "vw-passat-b3-button-blank-blank-replacement",
  "url": "https://makerworld.com/en/models/3305736-vw-passat-b3-button-blank-blank-replacement",
  "author": "cosmonut",
  "category": "automotive",
- "source_category": "Hobby & DIY > Vehicles",
- "description": "A 3D printable replacement blank button / switch cover for the **Volkswagen Passat B3**.\n\nI created this part as a replacement for a missing or damaged button/blank in the dashboard.\n\nThe model is designed to fit in the original mounting location and can be printed as a replacement part.\n\n**Features:**\n\n• Designed for VW Passat B3\n\n• Replacement button / switch blank\n\n• FDM printable\n\n• No supports required _(если действительно печатается без поддержек)_\n\n• Simple and lightweight design\n\nI printed and tested the part myself.\n\n**Please check the dimensions of your original part before printing**, as vehicle interiors and parts may differ depending on the specific version of the car.\n\nThis is an independent 3D-printable replacement part and is not an official Volkswagen product.\n\nIf you print it, I would really appreciate a photo of your result and any feedback about the fit!\n\nCar button Passat Volkswagen vw passat b3 car parts replacement part switch blank dashboard automotive",
+ "source_category": "Automóviles > Repuestos",
+ "description": "Ese hueco negro en la consola del Passat B3 donde falta un botón se nota siempre. Esta tapa ciega entra a presión en el alojamiento original y deja el tablero uniforme. Cinco minutos de impresión y el interior se ve completo otra vez.",
+ "use_cases": [
+  "Tapar el hueco de un interruptor faltante o dañado",
+  "Restauración de interiores de VW clásicos",
+  "Repuesto imposible de conseguir nuevo"
+ ],
  "tags": [
-  "Car",
-  "automotive",
-  "button",
-  "car parts",
-  "dashboard",
-  "passat",
-  "passat b3",
-  "replacement part",
-  "switch blank",
   "volkswagen",
-  "vw"
+  "passat",
+  "b3",
+  "botón ciego",
+  "repuesto",
+  "interior"
  ],
  "license": "CC BY 4",
  "release_date": "2025-05-02",
@@ -37,18 +37,7 @@
    "size": 1256492,
    "sha256": "97bda2c3cac2af8eead28bd3bfa4f14b6907998023559fa4b6384242411dfa6f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "0.12mm layer, 2 walls, 15% infill",
-    "creation_date": "2026-09-13",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.12",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2a399c2b0f93a3/design/a99d1af5393be123.jpg?x-oss-process=image/resize,w_1000",

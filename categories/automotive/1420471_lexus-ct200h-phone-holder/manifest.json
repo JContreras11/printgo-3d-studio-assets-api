@@ -1,28 +1,24 @@
 {
  "id": "1420471",
- "title": "Lexus CT200h Phone Holder",
+ "title": "Soporte de celular para Lexus CT200h",
  "slug": "lexus-ct200h-phone-holder",
  "url": "https://makerworld.com/en/models/1420471-lexus-ct200h-phone-holder",
  "author": "Gombay",
  "category": "automotive",
- "source_category": "Hobby & DIY > Vehicles",
- "description": "Designed for a 2020 Lexus CT200h.\n\nBoost Me (for free)\n\nIf you like this model, please give it a Boost to support my work!\n\nBoost\n\ncar phone holder lexus phone holder phone mount phone stand car mount smartphone holder car accessory dashboard mount air vent mount universal phone holder magnetic phone holder vehivle phone stand easy intall phone holder strong grip mount",
+ "source_category": "Automóviles > Interior",
+ "description": "Diseñado a la medida del Lexus CT200h 2020: se ajusta al hueco exacto del tablero, sin ventosas que se caen ni adhesivos que dejan marca. El celular queda a la altura de la vista para navegar con Waze o Maps sin soltar el timón.",
+ "use_cases": [
+  "Navegar con GPS sin bajar la mirada",
+  "Videollamadas o música en trayectos largos",
+  "Reemplazo de soportes de ventosa que se despegan con el calor"
+ ],
  "tags": [
-  "air vent mount",
-  "car accessory",
-  "car mount",
-  "car phone holder",
-  "dashboard mount",
-  "easy intall phone holder",
   "lexus",
-  "magnetic phone holder",
-  "phone holder",
-  "phone mount",
-  "phone stand",
-  "smartphone holder",
-  "strong grip mount",
-  "universal phone holder",
-  "vehivle phone stand"
+  "ct200h",
+  "soporte celular",
+  "tablero",
+  "gps",
+  "manos libres"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-05-15",
@@ -36,18 +32,7 @@
    "size": 595604,
    "sha256": "cf7c70f40fcbdfafb0b7a80e148276b155112138bb60861bd7b03a8adf7cf977",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.03.54",
-    "profile_title": "0.16mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-05-15",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.16",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8659db87c4b1cc/design/2025-05-15_1a2cba4696a398.jpg?x-oss-process=image/resize,w_1000",

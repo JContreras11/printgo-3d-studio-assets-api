@@ -1,31 +1,24 @@
 {
  "id": "2109129",
- "title": "Corner Shower Shelf (w/ Drainage) – Screw Mounted",
+ "title": "Repisa esquinera de ducha con drenaje — atornillada",
  "slug": "corner-shower-shelf-w-drainage-screw-mounted",
  "url": "https://makerworld.com/en/models/2109129-corner-shower-shelf-w-drainage-screw-mounted",
  "author": "nikos_bs",
  "category": "home-organization",
- "source_category": "Household > Other House Models",
- "description": "Keep your shower essentials off the floor with a clean, minimal corner shelf designed for wet environments. The slotted surface lets water drain quickly, helping soap and bottles dry faster and reducing buildup.\n\n### Features\n\n- Corner-fit design with a curved front edge\n- Drainage slats for fast drying\n- Simple 2-screw wall mounting\n- Easy to print and clean\n\n### Recommended materials (wet area)\n\n- **Best:** PETG / ASA / ABS\n- PLA\n\n### Print recommendations\n\n- Orientation: **print as-is (flat shelf on the bed)**\n- Supports: **Off**\n- Layer height: **0.20 mm**\n- Walls/Perimeters: **4–6** (more = stronger mounts)\n- Infill: **25–40%** (Gyroid recommended)\n\n### Hardware & installation\n\n- **2× M4 screws** \\+ **2× wall plugs/anchors** (choose size appropriate for your wall/tile)\n- Optional: a tiny bead of **neutral-cure silicone** behind the mount contact areas to reduce water ingress (don’t block drainage slots).\n\n### Notes\n\nThis is intended for typical shower items (soap, shampoo, etc.). Use proper anchors and check the shelf periodically for tightness.\n\nbathroom shower storage bathroom shelf shower shelf shampoo sponge corner shelf bathroom corner shelf corner PLA shower gel M4 m4 screw organizer wall mounted drainage tile",
+ "source_category": "Hogar y orden > Baño",
+ "description": "Superficie ranurada para que el agua drene rápido y no se acumule ese fondo baboso que sale en las repisas cerradas. Se atornilla a la pared, así que aguanta botellas grandes sin ceder. Diseñada específicamente para ambientes húmedos.",
+ "use_cases": [
+  "Shampoo y acondicionador grandes sin que se caigan",
+  "Evitar agua estancada y moho en la repisa",
+  "Montaje firme para uso diario de toda la familia"
+ ],
  "tags": [
-  "M4",
-  "PLA",
-  "bathroom",
-  "bathroom corner shelf",
-  "bathroom shelf",
-  "corner",
-  "corner shelf",
-  "drainage",
-  "m4 screw",
-  "organizer",
-  "shampoo",
-  "shower",
-  "shower gel",
-  "shower shelf",
-  "sponge",
-  "storage",
-  "tile",
-  "wall mounted"
+  "ducha",
+  "repisa",
+  "esquinera",
+  "drenaje",
+  "atornillada",
+  "baño"
  ],
  "license": "CC BY 4",
  "release_date": "2025-12-13",
@@ -45,19 +38,7 @@
    "size": 538300,
    "sha256": "fe5f56ea0f3f580bb67746b20fb2629f58bafc68e4f78079539956ca26f0490d",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "0.2mm layer, 6 walls, 25% infill",
-    "creation_date": "2025-12-12",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "25%",
-    "ironing": "top",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb47c1f6356b0c0/design/2025-12-13_2f6b1efb6fd45.jpeg?x-oss-process=image/resize,w_1000",

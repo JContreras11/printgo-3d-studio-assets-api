@@ -1,42 +1,24 @@
 {
  "id": "1045672",
- "title": "TPU Gasket drip irrigation bathroom seal or garden",
+ "title": "Empaques de TPU para riego por goteo, baño y jardín",
  "slug": "tpu-gasket-drip-irrigation-bathroom-seal-or-garden",
  "url": "https://makerworld.com/en/models/1045672-tpu-gasket-drip-irrigation-bathroom-seal-or-garden",
  "author": "smigi13",
  "category": "bathroom",
- "source_category": "Household > Garden",
- "description": "Hello.\n\nThe project will present various sizes and thicknesses of gaskets that can be used wherever needed. I definitely recommend using **TPU**.\n\nthe design on the plate includes a large number and types of seals and perhaps there is the size (or pattern) you need.\n\nOf course, you can change it as you like\n\nEverything is free :)\n\nYou can think about a little support for me like **BOOST**.\n\nI hope they will save me time and money :)\n\nBoost Me (for free)\n\nThank You so much !! :)\n\nBoost\n\nBoost Me (for free)\n\nHey :) !! You like my work?\n\nPlease SUBSCRIBE and BOOST\nI will be very grateful, it doesn't cost anything and it gives me a lot of joy :)\n\nHave a nice day !\n\nBoost\n\ngasket drip seal garden Gasket smigi tpu tap bathroom home repair system box screw rubber cap slot leakage help printer lab irigation durability epoxy inch faucet tube connector adjustable",
+ "source_category": "Baño > Repuestos",
+ "description": "Un juego de empaques en varios diámetros y espesores para tapar esa fuga que lleva meses goteando. Imprímelos en TPU: queda flexible, sella por compresión y aguanta el agua mucho mejor que cualquier empaque genérico de ferretería. Imprime solo la medida que necesitas.",
+ "use_cases": [
+  "Sellar fugas en duchas, llaves y uniones roscadas",
+  "Empaques para sistemas de riego por goteo del jardín",
+  "Reemplazar empaques descontinuados de grifería vieja"
+ ],
  "tags": [
-  "adjustable",
-  "bathroom",
-  "box",
-  "cap",
-  "connector",
-  "drip",
-  "durability",
-  "epoxy",
-  "faucet",
-  "garden",
-  "gasket",
-  "help",
-  "home",
-  "inch",
-  "irigation",
-  "lab",
-  "leakage",
-  "printer",
-  "repair",
-  "rubber",
-  "screw",
-  "seal",
-  "slot",
-  "smigi",
-  "system",
-  "tap",
+  "empaque",
   "tpu",
-  "tube",
-  "uszczelka"
+  "fuga",
+  "riego por goteo",
+  "plomería",
+  "sello"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-01-27",
@@ -60,34 +42,7 @@
    "size": 1634776,
    "sha256": "606fb1557dea3a01ba066cb3ebc8fc683b6d25bffe2e138379fd4245788c6de1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Change the size and appearance as much as you want, everything else is set! Good luck !",
-    "creation_date": "2025-01-28",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 3141,
-      "weight_g": 9.98,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "TPU",
-        "color": "#00AE42"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5330c4b499a703/design/2025-01-27_90026d987b29e.jpg?x-oss-process=image/resize,w_1000",

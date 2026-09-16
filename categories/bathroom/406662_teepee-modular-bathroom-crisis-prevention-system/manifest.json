@@ -1,26 +1,24 @@
 {
  "id": "406662",
- "title": "Teepee: Modular Bathroom Crisis Prevention System",
+ "title": "Teepee: sistema modular anti-crisis de baño",
  "slug": "teepee-modular-bathroom-crisis-prevention-system",
  "url": "https://makerworld.com/en/models/406662-teepee-modular-bathroom-crisis-prevention-system",
  "author": "realphilosopher",
  "category": "bathroom",
- "source_category": "Household > Other House Models",
- "description": "Picture this: you're home by yourself, sitting on your porcelain throne, and you are ready to depart from your bathroom when you instinctively reach to the side. You reach for it again, but to your dismay, nothing is there, and you slowly look over. Could it be? Could you really have ran out of toilet paper? Now what???\n\nTeepee ensures that this will never happen again. with a modular stacking system, the only limit to how many rolls you can store is your ceiling height. You can use teepee in two configurations, with a receptacle at the bottom that will hold the roll, or with a dispenser and rods for each roll that allows you to use it as a regular toilet paper holder which can “eject” the roll automatically when it is empty, allowing the next full one to automatically roll into the dispenser.\n\nThis system should work with 99% of toilet paper rolls, however I have included the f3d file just in case, so the size can be increased. You could also just scale the model up, which should work just as well.\n\nPrinting & Assembly:\n\nPrinting requires a very small amount of supports for the bottom of each straight piece, as well as supports for the curved portion if you choose to not split it.\n\nAs for assembly, any strong glue should suffice, or as an alternative you could spot weld the pieces together. To attach the entire thing to your wall, I would recommend either tape or some sort of adhesive, to prevent making a hole in your wall.\n\nI have also included a test print, as this entire project is filament intensive, it is a good idea to make sure that each piece will fit together properly before printing the whole thing.\n\nNotes:\n\nThe dispenser with the ejection system is still quite hairy, and depends on the toilet paper roll. I am working on a more consistent version, but for now I would suggest printing both the receptacle and the dispenser to see which one works better for you. As always, feel free to modify the model as you need, I can provide any other files.\n\nTo use the ejection system, you must print a rod for each roll you wish to use at any given time, and slide them into the holder. This ensures that each new roll is able to spin freely in the dispenser.\n\n**Did this design change your life???**\n\nConsider buying me a coffee - I'm a student and appreciate anything :)\n\nhttps://www.paypal.com/paypalme/thephilosopher545\n\nbathroom toilet accessories toiletpaper toilet paper restroom bathroom accessories bathroom organizer ams p1s bambu lab fidget gridfinity organizer",
+ "source_category": "Baño > Organización",
+ "description": "Imagina la escena: estás solo en casa, sentado en el trono, listo para salir, y estiras la mano… y no hay papel. Este sistema modular monta un rollo de reserva justo al alcance, sin taladrar y sin ocupar mesón. La crisis no vuelve a pasar.",
+ "use_cases": [
+  "Rollo de reserva al alcance de la mano",
+  "Montaje modular ampliable según el espacio del baño",
+  "Regalo con humor que sí se usa todos los días"
+ ],
  "tags": [
-  "ams",
-  "bambu lab",
-  "bathroom",
-  "bathroom accessories",
-  "bathroom organizer",
-  "fidget",
-  "gridfinity",
-  "organizer",
-  "p1s",
-  "restroom",
-  "toilet accessories",
-  "toilet paper",
-  "toiletpaper"
+  "papel higiénico",
+  "modular",
+  "reserva",
+  "baño",
+  "sin taladrar",
+  "humor"
  ],
  "license": "CC BY 4",
  "release_date": "2024-03-31",
@@ -39,113 +37,19 @@
    "size": 1864076,
    "sha256": "c9d26a813407121c1dd072d83df6ee728b4e9d7d2a9f58da6f21d405ba964af6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 10% infill",
-    "profile_notes": "This is the print profile I used, though I used a 0.6mm nozzle for the main pieces to save time. I also used the fastest print speed, which increased stringing, but saved a lot of time when testing. The third and fourth build plate are dependent on what configuration you want to use, so if you want the dispenser, delete the receptacle. Use as many rods as you print main pieces.",
-    "creation_date": "2025-02-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 45695,
-      "weight_g": 283.06,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00AE42"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 20997,
-      "weight_g": 129.59,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00AE42"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 13412,
-      "weight_g": 79.29,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00AE42"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 6571,
-      "weight_g": 31.97,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00AE42"
-       }
-      ]
-     }
-    ],
-    "photos": 4
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/A1_With_Receptacle_-_base.3mf.xz",
    "size": 1280784,
    "sha256": "a235af551f5ebde6e0a895e73a41a38cc86f1bc257c2c247a1c32020c27ea31c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 10% infill",
-    "profile_notes": "Added real quick a top cover to prevent dust and water projection…",
-    "creation_date": "2025-02-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 2269,
-      "weight_g": 19.84,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#BCBCBC"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91f7a4ecc9dc40/design/2024-03-31_a98c542275dfe.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
   "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- },
- "variant_hint": "para A1"
+ }
 }

@@ -1,13 +1,25 @@
 {
  "id": "2087811",
- "title": "Uchwyt do łóżka, bedside table, szafka nocna",
+ "title": "Soporte lateral de cama con repisa para celular",
  "slug": "uchwyt-do-lozka-bedside-table-szafka-nocna",
  "url": "https://makerworld.com/en/models/2087811-uchwyt-do-lozka-bedside-table-szafka-nocna",
  "author": "Szronie",
  "category": "bedroom",
- "source_category": "Household > Other House Models",
- "description": "Holder for phone in bed, bedside table\n\nPhone holder, bedside shelf mounted to the side of the bed\n\nDivided into two parts. The parts should be glued with ordinary glue to ensure they fit well on the given bed. Two brackets can be used for a more stable hold\n\nYou need to glue these two parts. Very easy",
- "tags": [],
+ "source_category": "Cuarto > Repisas",
+ "description": "Se monta en el costado de la cama y sostiene el celular mientras carga, más una repisita para lo demás. Viene dividido en dos partes que se pegan: así cabe en cualquier placa y queda más rígido que impreso de una sola pieza.",
+ "use_cases": [
+  "Celular cargando al lado de la cama sin mesa de noche",
+  "Camarotes y camas juveniles sin espacio lateral",
+  "Libro, gafas y control a la mano desde acostado"
+ ],
+ "tags": [
+  "repisa",
+  "cama",
+  "celular",
+  "lateral",
+  "cargador",
+  "dos piezas"
+ ],
  "license": "Public Domain / CC0",
  "release_date": "2025-12-07",
  "preview": "previews/01.jpg",
@@ -25,19 +37,7 @@
    "size": 1410404,
    "sha256": "97e0ade3ce312df4223b356105d603af8b0f2d8a1a5ce7ca4518402432470c74",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "print without supports. nothing special. Normal setting",
-    "creation_date": "2025-12-07",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbd08a8acb61268/design/2025-12-07_0984b47fe07188.jpeg?x-oss-process=image/resize,w_1000",

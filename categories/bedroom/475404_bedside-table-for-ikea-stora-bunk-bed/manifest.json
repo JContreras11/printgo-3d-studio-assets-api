@@ -1,19 +1,24 @@
 {
  "id": "475404",
- "title": "bedside table for Ikea STORÅ bunk bed",
+ "title": "Mesa de noche para camarote Ikea STORÅ",
  "slug": "bedside-table-for-ikea-stora-bunk-bed",
  "url": "https://makerworld.com/en/models/475404-bedside-table-for-ikea-stora-bunk-bed",
  "author": "Rikimanto99",
  "category": "bedroom",
- "source_category": "Tools > Organizers",
- "description": "bedside table for Ikea STORÅ bunk bed printed in PETG 60/70 % infill\n\ntable bedside ikea bunk bed stora",
+ "source_category": "Cuarto > Repisas",
+ "description": "En un camarote alto no hay dónde poner nada, y eso se resuelve aquí. Se ajusta al STORÅ de Ikea y aguanta peso real: imprímela en PETG con 60-70 % de relleno como el autor y no se mueve.",
+ "use_cases": [
+  "Superficie de noche en camarotes altos",
+  "Camas de niños donde no cabe un nochero",
+  "Impresión en PETG resistente para uso diario"
+ ],
  "tags": [
-  "bed",
-  "bedside",
-  "bunk",
   "ikea",
   "stora",
-  "table"
+  "camarote",
+  "mesa de noche",
+  "petg",
+  "niños"
  ],
  "license": "CC BY 4",
  "release_date": "2024-05-26",
@@ -28,33 +33,7 @@
    "size": 422172,
    "sha256": "89cb45f516933037d4014de72bda9d5701013929837fd9d5294786830666bbd6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-02-17",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 26332,
-      "weight_g": 401.34,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00AE42"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000475404/design/2024-05-26_b888e3e26f412.jpg?x-oss-process=image/resize,w_1000",

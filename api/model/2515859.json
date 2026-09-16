@@ -1,42 +1,24 @@
 {
  "id": "2515859",
- "title": "Minimalist Decorative Vase",
+ "title": "Jarrón decorativo minimalista",
  "slug": "minimalist-decorative-vase",
  "url": "https://makerworld.com/en/models/2515859-minimalist-decorative-vase",
  "author": "Daniel.stangl",
  "category": "decor",
- "source_category": "Household > Decor",
- "description": "## 🇩🇪 **Product Description (German)**\n\n### 🌾 Minimalist Decorative Vase – 3D Model for Home Printing\n\nThis self-designed **minimalist decorative vase** combines modern home aesthetics with a calm, natural aura. Its organic shape, gently structured surface, and clear silhouette make it an elegant accent for any home.\n\n#### ✨ Design & Character\n\n- Original design with a harmoniously rounded shape\n- Fine texture for a high-quality, matte look\n- Perfectly suited for dried flowers, grasses, or single decorative stems\n- Adds calm, modern accents to living rooms, offices, or bedrooms\n\n#### 📦 Included Files\n\n- High-quality STL file of the vase\n- Scalable for small decorative objects or larger statement vases\n- Optional: Printing recommendations and size notes\n\n#### 💡 Use Cases\n\n- Stylish home decor\n- Perfect for dried flower arrangements such as wheat, pampas grass, or bunny tails\n- An aesthetic single object even without content\n\n### 🌾 Minimalist Decorative Vase – 3D Model for Home Printing\n\nThis original **minimalist decorative vase** blends modern interior design with a calm, natural aesthetic. Its soft, organic shape and subtle surface texture create a clean, elegant look that fits seamlessly into any contemporary home.\n\n#### ✨ Design & Character\n\n- Unique original design with a gently rounded silhouette\n- Fine surface texture for a premium matte appearance\n- Perfect for dried flowers, grasses, or single decorative stems\n- Adds a quiet, modern accent to living rooms, offices, or bedrooms\n\n#### 📦 Included Files\n\n- High‑quality STL file of the vase\n- Fully scalable for small décor pieces or larger statement vases\n- Optional: printing recommendations and size notes\n\n#### 💡 Use Cases\n\n- Stylish home décor\n- Ideal for dried flower arrangements such as wheat, pampas grass, or bunny tails\n- Looks elegant even without any floral insert\n\nDecorative vase minimalist vase dried flower vase Modern Decor home accessory interior design Scandinavian boho decor textured vase 3D printed vase decorative object Flower vase dried flower holder Home Decor living room decoration home decor homedeko design vase organic shape minimalism elegant decor dried flower dried flower vase interior decor textured vase flower vase tabletop decor plattform coaster",
+ "source_category": "Decoración > Jarrones",
+ "description": "Jarrón decorativo minimalista de diseño propio, pensado para imprimirse en casa sin complicaciones. Formas limpias que combinan con cualquier estilo de interior y no pasan de moda. De esos modelos que uno imprime tres veces en colores distintos.",
+ "use_cases": [
+  "Decoración de interior en estilo nórdico o minimalista",
+  "Imprimir varios en distintos colores como conjunto",
+  "Regalo de estreno de casa"
+ ],
  "tags": [
-  "3d druck vase",
-  "Home Decor",
-  "blumen vase",
-  "boho deko",
-  "deko objekt",
-  "deko vase",
-  "design vase",
-  "dried flower",
-  "dried flower vase",
-  "elegante deko",
-  "flower vase",
-  "home decor",
-  "homedeko",
-  "interior decor",
-  "interior design",
-  "minimalismus",
-  "minimalistische vase",
-  "moderne deko",
-  "organische form",
-  "plattform",
-  "skandinavisch",
-  "struktur vase",
-  "tabletop decor",
-  "textured vase",
-  "trockenblumen halter",
-  "trockenblumen vase",
-  "untersetzer",
-  "wohnaccessoire",
-  "wohnzimmer deko"
+  "jarrón",
+  "minimalista",
+  "decoración",
+  "nórdico",
+  "interior",
+  "regalo"
  ],
  "license": "CC BY 4",
  "release_date": "2025-05-30",
@@ -59,56 +41,21 @@
    "size": 3047356,
    "sha256": "fb68bac7a2cbf787b86e188d2ef86ce974960304257e0d2e7762686b70093fc6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "Plattform Fuzzy skin",
-    "profile_notes": "Druckempfehlungen (PLA-only) DE Deutsch • Schichthöhe: 0,08–0,12 mm • Material: PLA • Infill: 10–20 % • Supports: empfohlen unter Armen, Stäben, Schriftrollen & Capes • Ausrichtung: leicht geneigt für saubere Details an Hut, Stab, Buch & Rauch • Geschwindigkeit: 35–50 mm/s • Besonderheiten: Stoff, Rauch, Metall & magische Effekte profitieren stark von Drybrush-Techniken GB English • Layer height: 0.08–0.12 mm • Material: PLA • Infill: 10–20% • Supports: recommended under arms, staffs, scrolls & cloaks • Orientation: slight tilt for clean details on hat, staff, book & smoke • Speed: 35–50 mm/s • Notes: cloth, smoke, metal & magical effects benefit greatly from drybrush techniques",
-    "creation_date": "2026-03-13",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Plattform_und_Vase_Fuzzy_skin.3mf.xz",
    "size": 5139856,
    "sha256": "a7e167f4b546ae294944857903941dae6144481ce662660f95827a6ce0cbf9c4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "Vase und Plattform Fuzzy skin",
-    "creation_date": "2026-03-12",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Vase_Fuzzy_skin.3mf.xz",
    "size": 3352716,
    "sha256": "d09c36d9acec6ab90979753800520a38a1a07c482edd30b7952c59715b810632",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "Vase Fuzzy skin",
-    "profile_notes": "Druckempfehlungen (PLA-only) DE Deutsch • Schichthöhe: 0,08–0,12 mm • Material: PLA • Infill: 10–20 % • Supports: empfohlen unter Armen, Stäben, Schriftrollen & Capes • Ausrichtung: leicht geneigt für saubere Details an Hut, Stab, Buch & Rauch • Geschwindigkeit: 35–50 mm/s • Besonderheiten: Stoff, Rauch, Metall & magische Effekte profitieren stark von Drybrush-Techniken GB English • Layer height: 0.08–0.12 mm • Material: PLA • Infill: 10–20% • Supports: recommended under arms, staffs, scrolls & cloaks • Orientation: slight tilt for clean details on hat, staff, book & smoke • Speed: 35–50 mm/s • Notes: cloth, smoke, metal & magical effects benefit greatly from drybrush techniques",
-    "creation_date": "2026-03-13",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65dd240d6d7853/design/587f319bea01b83a.jpg?x-oss-process=image/resize,w_1000",

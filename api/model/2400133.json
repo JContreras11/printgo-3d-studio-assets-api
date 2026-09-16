@@ -1,18 +1,24 @@
 {
  "id": "2400133",
- "title": "Bedside wall bottle holder",
+ "title": "Portabotella de pared para la cama",
  "slug": "bedside-wall-bottle-holder",
  "url": "https://makerworld.com/en/models/2400133-bedside-wall-bottle-holder",
  "author": "user_1694353554",
  "category": "bedroom",
- "source_category": "Household > Other House Models",
- "description": "Wall bottle holder with a compact and functional design, ideal for keeping your water bottle always within reach next to the bed. It frees up space on the nightstand and reduces the risk of spills during the night.\n\nThe solid and embracing structure ensures stability, while the front opening allows for easy insertion and removal of the bottle, even in the dark. The rounded edges ensure safety and comfort.\n\nbottle holder nightstand bedroom bottle support support",
+ "source_category": "Cuarto > Organización",
+ "description": "Sostiene tu botella de agua en la pared junto a la cama, siempre al alcance y sin robarle espacio al nochero. Diseño compacto que también sirve en el gimnasio de la casa, el escritorio o al lado del sofá.",
+ "use_cases": [
+  "Botella de agua al alcance durante la noche",
+  "Liberar la superficie del nochero",
+  "Escritorio, gimnasio en casa o taller"
+ ],
  "tags": [
-  "camera da letto",
-  "comodino",
-  "porta bottiglia",
-  "supporto",
-  "supporto bottiglia"
+  "botella",
+  "soporte",
+  "pared",
+  "cama",
+  "agua",
+  "compacto"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-05-14",
@@ -28,18 +34,7 @@
    "size": 871720,
    "sha256": "c050f70b30cde431586145028e44c20c95be00fdbee0808b68383995621c3f56",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.01.00.59",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2026-02-04",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US63ebbbbfc16ea5/design/f92b6684eccc1c2a.jpeg?x-oss-process=image/resize,w_1000",

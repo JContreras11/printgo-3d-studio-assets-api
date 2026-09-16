@@ -1,18 +1,23 @@
 {
  "id": "2438968",
- "title": "BMW",
+ "title": "BMW Serie 3 M3 E46 Coupé — maqueta personalizable",
  "slug": "bmw",
  "url": "https://makerworld.com/en/models/2438968-bmw",
  "author": "Lambrijas",
  "category": "automotive",
- "source_category": "Hobby & DIY > Vehicles",
- "description": "BMW SERIES 3 M3 E46 COUPE MODEL\n\nBMW bmw car BMW car maqueta personalizable",
+ "source_category": "Automóviles > Coleccionables",
+ "description": "Maqueta del M3 E46 Coupé lista para personalizar: escálala al tamaño que quieras e imprímela en el color de tu carro. Sirve igual como adorno de escritorio, llavero grande o pieza central de una repisa de coleccionista.",
+ "use_cases": [
+  "Adorno de escritorio o repisa",
+  "Regalo personalizado en el color del carro del dueño",
+  "Pieza de práctica para pintura y acabados"
+ ],
  "tags": [
-  "BMW",
   "bmw",
-  "coche",
-  "coche bmw",
+  "m3",
+  "e46",
   "maqueta",
+  "coleccionable",
   "personalizable"
  ],
  "license": "CC BY 4",
@@ -34,20 +39,7 @@
    "size": 16489584,
    "sha256": "83347c5030cdaac9fcdbd96078d81f62a7fed47bb23a462b46856f1f9198d009",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "MODELO DE BMW SERIE 3 M3 E46 ,MATRICULA PERSONALIZABLE LE PUEDES CAMBIAR EL NOMBRE DE AMBAS ,ESPERO QUE OS GUSTE ES MI SEGUNDO MODELO QUE HAGO Y QUE SUBO A LA APP.SI TE GUSTA APOYAME AUNQUE SEA CON UN ME GUSTA SE AGRADECE.",
-    "creation_date": "2026-02-21",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "ironing": "solid",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc2e2d1926a5b6f/design/bc35efa30ee463a4.jpeg?x-oss-process=image/resize,w_1000",

@@ -1,25 +1,24 @@
 {
  "id": "2525763",
- "title": "Modern Ribbed Organizer Tray",
+ "title": "Bandeja organizadora moderna con estrías",
  "slug": "modern-ribbed-organizer-tray",
  "url": "https://makerworld.com/en/models/2525763-modern-ribbed-organizer-tray",
  "author": "Sipowka",
  "category": "bathroom",
- "source_category": "Tools > Organizers",
- "description": "Large minimalist organizer tray with a modern ribbed design.\n\nPerfect for organizing cosmetics, perfumes, skincare products, jewelry or everyday accessories. The large base provides plenty of space while the ribbed walls give the tray a stylish and modern look.\n\nGreat for bathroom shelves, dressing tables, desks or general home organization.\n\n**Size:**\n\n225 × 185 × 65 mm\n\nDesigned to print without supports and compatible with most standard 3D printing materials such as PLA.\n\n**Printing Notes**\n\nBecause of the large flat top surface, printing the top layer can sometimes be challenging. Lower infill densities may cause the top layer to sag or produce uneven lines.\n\nIn my tests, the best results were achieved with **40% Gyroid infill and 5 top layers**. Other infill patterns or lower densities may lead to visible gaps on the top surface.\n\nIf anyone finds a more efficient way to print this model with lower infill or better surface quality, feel free to share your suggestions.\n\norganizers tray ribbed Tool modern 'modern storage desk organizer bathroom organizer cosmetic organizer minimalist home decor",
+ "source_category": "Baño > Organización",
+ "description": "Bandeja amplia de estilo minimalista con textura estriada que atrapa la luz y se ve mucho más cara de lo que cuesta imprimirla. Perfecta para cosméticos, perfumes, skincare, joyería o el desorden diario de llaves y gafas.",
+ "use_cases": [
+  "Ordenar skincare y perfumes en el tocador",
+  "Bandeja atrapa-todo para llaves, gafas y reloj",
+  "Exhibir joyería o accesorios con buen acabado"
+ ],
  "tags": [
-  "Tool",
-  "bathroom organizer",
-  "cosmetic organizer",
-  "desk organizer",
-  "home decor",
-  "minimalist",
-  "modern",
-  "organizers",
-  "ribbed",
-  "storage",
-  "tray",
-  "%27modern"
+  "bandeja",
+  "organizador",
+  "minimalista",
+  "estrías",
+  "cosméticos",
+  "tocador"
  ],
  "license": "CC BY 4",
  "release_date": "2025-08-27",
@@ -35,19 +34,7 @@
    "size": 1012332,
    "sha256": "28d248381ac08aa1f27708a29cf9b3e59703be40325cdd6f6a71d7fe966d082a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 2 walls, 40% infill",
-    "profile_notes": "Nozzle: 0.4 mm Layer height: 0.20 mm Infill: 40% Infill type: Gyroid Top layers: 5 Supports: No supports required",
-    "creation_date": "2026-03-15",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "40%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdd24ec3c086bd7/design/c44cee8ef29c7177.jpg?x-oss-process=image/resize,w_1000",

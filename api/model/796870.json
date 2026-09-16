@@ -1,20 +1,24 @@
 {
  "id": "796870",
- "title": "Vase - Twirl Essence",
+ "title": "Jarrón Twirl Essence",
  "slug": "vase-twirl-essence",
  "url": "https://makerworld.com/en/models/796870-vase-twirl-essence",
  "author": "Fabian_S1991",
  "category": "decor",
- "source_category": "Generative 3D Model > Make My Vase",
- "description": "This elegant spiral vase, named _Twirl Essence_, is a minimalist yet eye-catching piece designed for 3D printing enthusiasts. Created in the \"Spiral Vase Mode,\" it is both lightweight and time-efficient to print, making it ideal for quick decor upgrades. With its smooth, flowing curves, this vase is perfect for displaying dried flowers or as a standalone art piece. Please note, while visually stunning, the vase may not be fully waterproof and is best suited for non-liquid displays.\n\nPowered by MakerWorld-Make My Vase (https://makerworld.com/makerlab/makeMyVase)\n\nvase spiral vase spiral vase mode decor deco art quick print home decor",
+ "source_category": "Decoración > Jarrones",
+ "description": "Espiral elegante creada en modo jarrón: una sola pared continua, rápido de imprimir y con poquísimo material. Minimalista pero imposible de ignorar. De los modelos que convierten medio carrete en una pieza que parece de galería.",
+ "use_cases": [
+  "Impresión rápida y barata en modo espiral",
+  "Decoración de sala, entrada o recepción",
+  "Flores secas o pampas"
+ ],
  "tags": [
-  "deco art",
-  "deko",
-  "home decor",
-  "quick print",
-  "spiral vase",
-  "spiral vase mode",
-  "vase"
+  "jarrón",
+  "espiral",
+  "modo jarrón",
+  "minimalista",
+  "rápido",
+  "decoración"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2024-11-17",
@@ -29,33 +33,7 @@
    "size": 7132156,
    "sha256": "ef5b49d3888fad86ec1eeaa813f045fa1531514f963f90bf414be0655bc8adc8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 1 walls, 0% infill",
-    "creation_date": "2025-02-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "0%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 5870,
-      "weight_g": 31.73,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#F7F3F0"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb7f1ee4eae4afd/design/2024-11-17_8a2e18795f50b.jpg?x-oss-process=image/resize,w_1000",

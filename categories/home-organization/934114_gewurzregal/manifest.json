@@ -1,29 +1,24 @@
 {
  "id": "934114",
- "title": "Gewürzregal",
+ "title": "Especiero para frascos cuadrados y redondos",
  "slug": "gewurzregal",
  "url": "https://makerworld.com/en/models/934114-gewurzregal",
  "author": "DieselKisters",
  "category": "home-organization",
- "source_category": "Household > Other House Models",
- "description": "Spice rack for rectangular and round spice jars for the kitchen. Individual compartments accommodate jars with a cross-sectional area of 40x40mm; there are 16 compartments in total. Simple, stable, and straightforward.\n\nThe screw holes are currently designed for M3x10 screws. If you wish to melt in threaded inserts, you will need to enlarge the holes of each level to prevent filament from entering the threads. Sixteen screws are needed for assembly; they hold very well even without inserts.\n\ngewuerz regal spice spice spicerack spicerackorganizer organizer kitchen kitchen kuechen organizer organize organizing kuechenregal gewuerzdosen halterungen spicebox spice rack kuechen regal\n\n* * *\n\n### Documentation (1)\n\nAssembly Guide (1)\n\nGewürzregal Zeichnung.PNG",
+ "source_category": "Hogar y orden > Cocina",
+ "description": "Especiero con compartimientos individuales dimensionados para frascos de 40 × 40 mm de sección, y también acepta los redondos. Cada frasco tiene su lugar: nada se cae, nada se pierde detrás, y el gabinete deja de ser una lotería.",
+ "use_cases": [
+  "Frascos cuadrados y redondos en el mismo organizador",
+  "Compartimiento fijo por especia, siempre en su sitio",
+  "Dentro del gabinete o sobre el mesón"
+ ],
  "tags": [
-  "gewuerz",
-  "gewuerz regal",
-  "gewuerzdosen halterungen",
-  "kitchen",
-  "kueche",
-  "kuechen organizer",
-  "kuechen regal",
-  "kuechenregal",
-  "organisieren",
-  "organizer",
-  "organizing",
-  "spice",
-  "spice rack",
-  "spicebox",
-  "spicerack",
-  "spicerackorganizer"
+  "especiero",
+  "cocina",
+  "frascos",
+  "compartimientos",
+  "organizador",
+  "40mm"
  ],
  "license": "CC BY 4",
  "release_date": "2025-01-02",
@@ -42,47 +37,7 @@
    "size": 1268628,
    "sha256": "0e5b12a1f8ddfd6b03756e32891354c5283379320a94da219dabd35f2228cda4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.73",
-    "profile_title": "0.2mm layer, 3 walls, 25% infill",
-    "profile_notes": "Empehle min 3 Wandlinien",
-    "creation_date": "2025-03-01",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "25%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 13307,
-      "weight_g": 89.45,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#161616"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 8716,
-      "weight_g": 62.75,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#161616"
-       }
-      ]
-     }
-    ],
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US37fbbb6c196e73/design/2025-01-02_3eea0c0a704d9.jpg?x-oss-process=image/resize,w_1000",

@@ -1,21 +1,24 @@
 {
  "id": "387026",
- "title": "Reusable Soap Dispenser",
+ "title": "Dispensador de jabón reutilizable",
  "slug": "reusable-soap-dispenser",
  "url": "https://makerworld.com/en/models/387026-reusable-soap-dispenser",
  "author": "clydefrog",
  "category": "bathroom",
- "source_category": "Household > Other House Models",
- "description": "**Reusable Soap Dispenser.**\n\nThis is a reusable soap dispenser. It is made for 28-410 pump caps. Find out if you have a 28-410 pump cap at home already with this website: www.paramountglobal.com/knowledge/bottle-neck-thread-finish/\n\nbathroom bathroom accessories bathroom accessory soap dispenser vase threaded contest",
+ "source_category": "Baño > Accesorios",
+ "description": "Usa la bomba de 28-410 que ya tienes en casa —es la rosca más común en dispensadores de supermercado— y deja de comprar el envase plástico una y otra vez. Rellenas, no botas. Imprímelo del color que combine con tu baño y olvídate.",
+ "use_cases": [
+  "Rellenar jabón líquido en vez de comprar envase nuevo",
+  "Reducir plástico de un solo uso en el baño",
+  "Dispensador a juego con la decoración del lavamanos"
+ ],
  "tags": [
-  "bathroom",
-  "bathroom accessories",
-  "bathroom accessory",
-  "contest",
-  "dispenser",
-  "soap",
-  "threaded",
-  "vase"
+  "jabón",
+  "dispensador",
+  "reutilizable",
+  "28-410",
+  "ecológico",
+  "baño"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2024-03-21",
@@ -30,33 +33,7 @@
    "size": 2736372,
    "sha256": "d30ff45ef9a7fe84502c66822d53361682165948319ef9c0aadcca2d93226bf9",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-01-26",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 16677,
-      "weight_g": 96.31,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#61C680"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1754e04a873735/design/2024-03-21_d4976d1e0e6a.jpeg?x-oss-process=image/resize,w_1000",

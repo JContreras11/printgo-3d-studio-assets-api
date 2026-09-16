@@ -1,29 +1,24 @@
 {
  "id": "408908",
- "title": "Filament Purge / Poop Decorative Flower Vase Set",
+ "title": "Set de jarrones para purga de filamento",
  "slug": "filament-purge-poop-decorative-flower-vase-set",
  "url": "https://makerworld.com/en/models/408908-filament-purge-poop-decorative-flower-vase-set",
  "author": "Kopp3D",
  "category": "decor",
- "source_category": "Generative 3D Model > Make My Vase",
- "description": "A set of vases with interchangeable toppers to show off the color combinations of your filament purge (aka poop). No glue, no supports, just print and fill! There are 5 vase sizes and 5 different topper styles and a funnel for easy fill. Each fills about this amount:\n\nXS: 25g\n\nSmall: 40g\n\nMedium: 60g\n\nBottle: 65g\n\nLarge: 70g\n\nYou can check the amount of waste of your print in Bambu Studio and plan accordingly!\n\nI would recommend cleaning up the stray hairs so they don't stick out of the vase, but you can also just fill the vase and then use something to clip off anything sticking out.\n\n**Edit: All the vases have been updated to be stronger!**\n\nDon't toss your poop - reuse it!\n\nBoost Me (for free)\n\nGive this a boost if you want us to continue making new designs!\n\nBoost\n\nDesigner: Anna\n\nvase filament waste filament poop container flower bottle vase with topper leaves home decor interchangeable decorative funnel purge poop waste bud",
+ "source_category": "Decoración > Jarrones",
+ "description": "Convierte la purga de la AMS —esa montaña de 'popó' de filamento que uno bota— en decoración. Un juego de jarrones con tapas intercambiables que exhiben la mezcla de colores de tu purga. Sin pegante, sin soportes: imprime y arma.",
+ "use_cases": [
+  "Darle uso a la purga de filamento de la AMS",
+  "Exhibir combinaciones de color imposibles de planear",
+  "Proyecto sin pegante ni soportes"
+ ],
  "tags": [
-  "bottle",
-  "bud",
-  "container",
-  "decorative",
-  "filament poop",
-  "filament waste",
-  "flower",
-  "funnel",
-  "home decor",
-  "interchangeable",
-  "leaves",
-  "poop",
-  "purge",
-  "vase",
-  "vase with topper",
-  "waste"
+  "purga",
+  "ams",
+  "jarrón",
+  "multicolor",
+  "reciclaje",
+  "sin soportes"
  ],
  "license": "CC BY 4",
  "release_date": "2024-04-01",
@@ -42,164 +37,7 @@
    "size": 54309140,
    "sha256": "9d8068063997f26161b3f7514822b76a95c35998c6bb72afc7184cdbc35c4e2c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "All vases and toppers COLOR - 0.2mm, 2 walls, 15% infill",
-    "profile_notes": "All vases and toppers on separate plates so you can choose your colors! No supports required. The only brim is on the funnel. Update: All vases have been updated to fix strength issue!",
-    "creation_date": "2025-01-24",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 4760,
-      "weight_g": 12.62,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#161616"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 4346,
-      "weight_g": 15.98,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 7291,
-      "weight_g": 30.75,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFF144"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 7532,
-      "weight_g": 22.25,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#A3D8E1"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 9408,
-      "weight_g": 34.01,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#0ACC38"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 5119,
-      "weight_g": 24.12,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FF6A13"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 2537,
-      "weight_g": 12.2,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 2110,
-      "weight_g": 8.91,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#F72323"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 1749,
-      "weight_g": 5.76,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FF8080"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 1591,
-      "weight_g": 3.86,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#0ACC38"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 1701,
-      "weight_g": 9.86,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#A3D8E1"
-       }
-      ]
-     }
-    ],
-    "photos": 11
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa7828a45e9de64/design/2024-04-01_27b5b4c371905.png?x-oss-process=image/resize,w_1000",

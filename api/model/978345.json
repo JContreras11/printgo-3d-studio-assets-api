@@ -1,36 +1,24 @@
 {
  "id": "978345",
- "title": "桌面收纳盒",
+ "title": "Caja organizadora modular de escritorio",
  "slug": "zhuo-mian-shou-na-he",
  "url": "https://makerworld.com/en/models/978345-zhuo-mian-shou-na-he",
  "author": "CKchen",
  "category": "home-organization",
- "source_category": "Generative 3D Model > Make My Desk Organizer",
- "description": "Modular desktop organizer for stationery, tools, USB drives, batteries, sticky notes, and other frequently used items. Use in conjunction with the stackable battery organizer for optimal results.\n\nDesktop Storage Pen holder 笔筒 pen container Pen Holder/Pen Stand Pen holder/Pen container Tools Tools Storage Box Storage Case Store 3D Accessories Desktop Organizer Creative desktop organizer Desktop organizer Desktop Storage Shelf 桌面收纳盒 Module Modular Modular desktop organizer Modular storage Modular Storage Box Dormitory Storage rack",
+ "source_category": "Hogar y orden > Escritorio",
+ "description": "Organizador modular para papelería, herramientas, memorias USB, baterías y notas adhesivas: todo lo que uno usa cada día y nunca encuentra. Se combina con los demás módulos del sistema para armar exactamente el escritorio que necesitas.",
+ "use_cases": [
+  "Papelería, USB y baterías cada una en su compartimiento",
+  "Combinar módulos hasta armar tu escritorio ideal",
+  "Escritorio de oficina, estudio o taller de electrónica"
+ ],
  "tags": [
-  "%E5%AE%BF%E8%88%8D",
-  "%E5%B7%A5%E5%85%B7",
-  "%E5%B7%A5%E5%85%B7 tool",
-  "%E6%94%B6%E7%BA%B3",
-  "%E6%94%B6%E7%BA%B3%E4%BB%93",
-  "%E6%94%B6%E7%BA%B3%E7%9B%92",
-  "%E6%94%B6%E7%BA%B33D%E9%85%8D%E4%BB%B6",
-  "%E6%A1%8C%E9%9D%A2",
-  "%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3",
-  "%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E5%88%9B%E6%84%8F",
-  "%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E5%99%A8",
-  "%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E6%9E%B6",
-  "%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E7%9B%92",
-  "%E6%A8%A1%E5%9D%97",
-  "%E6%A8%A1%E5%9D%97%E5%8C%96",
-  "%E6%A8%A1%E5%9D%97%E5%8C%96%E6%94%B6%E7%BA%B3",
-  "%E6%A8%A1%E5%9D%97%E5%8C%96%E6%94%B6%E7%BA%B3%E7%9B%92",
-  "%E6%A8%A1%E5%9D%97%E5%8C%96%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E7%9B%92",
-  "%E7%AC%94%E7%AD%92",
-  "%E7%AC%94%E7%AD%92 pen container",
-  "%E7%AC%94%E7%AD%92/%E7%AC%94%E5%BA%A7",
-  "%E7%AC%94%E7%AD%92/%E7%AC%94%E7%AD%92",
-  "%E7%BD%AE%E7%89%A9%E6%9E%B6"
+  "escritorio",
+  "organizador",
+  "modular",
+  "papelería",
+  "usb",
+  "baterías"
  ],
  "license": "CC BY 4",
  "release_date": "2025-07-17",
@@ -47,33 +35,7 @@
    "size": 7132156,
    "sha256": "ef5b49d3888fad86ec1eeaa813f045fa1531514f963f90bf414be0655bc8adc8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 1 walls, 0% infill",
-    "creation_date": "2025-02-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "0%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 5870,
-      "weight_g": 31.73,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#F7F3F0"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000978345/design/6599a3fd-1810-477e-ac74-e6cd23d848a1.webp?x-oss-process=image/resize,w_1000",

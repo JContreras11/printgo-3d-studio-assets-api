@@ -4,17 +4,25 @@
  "models": [
   {
    "id": "1075571",
-   "title": "Oxygen Atom Model",
+   "title": "Modelo del átomo de oxígeno",
    "slug": "oxygen-atom-model",
    "category": "science",
    "author": "donywang922",
    "license": "CC BY 4",
    "release_date": "2025-02-05",
-   "description": "An oxygen atom model, the electron orbitals are a length of filament. 16 core balls, 8 electron balls. Base diameter 3cm.\n\nChemistry Chemical Structure Atom",
+   "description": "Modelo del átomo de oxígeno con 16 esferas de núcleo y 8 de electrones, y los orbitales hechos con un tramo de filamento. Base de 3 cm. La química abstracta se vuelve concreta cuando el estudiante pue",
+   "use_cases": [
+    "Clase de química: estructura atómica en físico",
+    "Proyecto escolar o feria de ciencias",
+    "Decoración para laboratorio o aula"
+   ],
    "tags": [
-    "%E5%8C%96%E5%AD%A6",
-    "%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84",
-    "%E5%8E%9F%E5%AD%90"
+    "átomo",
+    "oxígeno",
+    "química",
+    "educación",
+    "modelo",
+    "ciencia"
    ],
    "file_count": 1,
    "total_size": 792564,
@@ -29,17 +37,25 @@
   },
   {
    "id": "431556",
-   "title": "Human Torso Anatomy Model",
+   "title": "Modelo anatómico de torso humano",
    "slug": "human-torso-anatomy-model",
    "category": "science",
    "author": "jabbaTheHuds",
    "license": "Public Domain / CC0",
    "release_date": "2024-04-16",
-   "description": "i give my full credit to paullaster i did not make this model i am just publishing this for others to see.\n\nhis summary\n\nExplore and learn about the human body with this life-like human anatomy model.",
+   "description": "Torso anatómico desarmable para explorar y aprender la ubicación real de los órganos. Crédito completo al autor original, paullaster. Herramienta de estudio para medicina, enfermería o biología que cu",
+   "use_cases": [
+    "Estudiar anatomía y ubicación de órganos en físico",
+    "Clase de biología, medicina o enfermería",
+    "Modelo de consultorio para explicarle al paciente"
+   ],
    "tags": [
-    "atomically",
-    "correct",
-    "science"
+    "anatomía",
+    "torso",
+    "órganos",
+    "medicina",
+    "educación",
+    "biología"
    ],
    "file_count": 1,
    "total_size": 82011676,

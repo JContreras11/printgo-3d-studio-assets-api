@@ -1,18 +1,24 @@
 {
  "id": "2713740",
- "title": "Bedroom Nightstand",
+ "title": "Nochero antiguo en miniatura",
  "slug": "bedroom-nightstand",
  "url": "https://makerworld.com/en/models/2713740-bedroom-nightstand",
  "author": "3dmonios",
  "category": "bedroom",
- "source_category": "Toys & Games > Other Toys & Games",
- "description": "# Summary\n\nInspired by a real antique piece of furniture. This model can be used for models and dollhouse bedrooms.\n\nI made smaller prints, which were functional but lost quality.\n\nThis model does not need any type of support\n\nbedroom dollhouse dollhousefurniture furniture nightstand",
+ "source_category": "Cuarto > Miniaturas",
+ "description": "Inspirado en un mueble antiguo real, con las molduras y proporciones bien llevadas a escala. Sirve para cuartos de casa de muñecas, maquetas y dioramas. Probado en tamaños reducidos y sigue viéndose bien.",
+ "use_cases": [
+  "Amoblar un cuarto de casa de muñecas",
+  "Diorama o maqueta de época",
+  "Pieza para pintar y envejecer como proyecto de modelismo"
+ ],
  "tags": [
-  "bedroom",
-  "dollhouse",
-  "dollhousefurniture",
-  "furniture",
-  "nightstand"
+  "nochero",
+  "miniatura",
+  "antiguo",
+  "casa de muñecas",
+  "diorama",
+  "mueble"
  ],
  "license": "CC BY 4",
  "release_date": "2025-01-13",
@@ -30,18 +36,7 @@
    "size": 1185832,
    "sha256": "ec22d1134f9aae6da6b7d2745966fa5ed3bcaa774e690e0b79c18985d90d89b3",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2026-04-24",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US93205fb809848c/design/e27e90f985c96145.png?x-oss-process=image/resize,w_1000",

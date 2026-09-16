@@ -1,21 +1,24 @@
 {
  "id": "2151235",
- "title": "Phone shelf",
+ "title": "Repisa para celular junto a la cama",
  "slug": "phone-shelf",
  "url": "https://makerworld.com/en/models/2151235-phone-shelf",
  "author": "JEP0405",
  "category": "bedroom",
- "source_category": "Household > Decor",
- "description": "My wife wanted a shelf for her phone next to the bed, where the charger plug doesn't fall down. So here is my version of it :-)\n\nphone shelf phoneshelf Charger Holder bed bed accessory bedshelf",
+ "source_category": "Cuarto > Repisas",
+ "description": "Nació de un pedido muy concreto: una repisa donde el celular cargue y el enchufe no se caiga al piso. Eso es exactamente lo que hace. Pequeña, discreta y resuelve la molestia diaria de buscar el cable colgando entre la cama y la pared.",
+ "use_cases": [
+  "Que el cargador no se caiga detrás de la cama",
+  "Celular a la mano sin mesa de noche",
+  "Repisa mínima para cuartos pequeños"
+ ],
  "tags": [
-  "Charger",
-  "Holder",
-  "bed",
-  "bed accessory",
-  "bedshelf",
-  "phone",
-  "phoneshelf",
-  "shelf"
+  "repisa",
+  "celular",
+  "cargador",
+  "cama",
+  "pared",
+  "compacta"
  ],
  "license": "CC BY 4",
  "release_date": "2025-12-23",
@@ -32,18 +35,7 @@
    "size": 858956,
    "sha256": "79136b987df78de3fa69f1568db414fbf686081065ae46663dbb3d5c5bfe50ff",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "0.2mm layer, 2 walls, 10% infill",
-    "creation_date": "2025-12-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5c770de353fced/design/2025-12-23_ec4a4f4516725.jpg?x-oss-process=image/resize,w_1000",

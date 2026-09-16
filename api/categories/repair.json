@@ -4,27 +4,25 @@
  "models": [
   {
    "id": "2710226",
-   "title": "Trim Panel Tools/Removal tools",
+   "title": "Juego de espátulas para desarmar tapicería",
    "slug": "trim-panel-tools-removal-tools",
    "category": "repair",
    "author": "user_785126637",
    "license": "Public Domain / CC0",
    "release_date": "2025-11-10",
-   "description": "**Trim Removal Tools Set (3D Printable)**\n\nThis is a set of 3D printable trim removal tools designed for safely removing car interior panels, clips, and trim pieces without damaging surfaces.\n\nThe set",
+   "description": "Juego de palancas plásticas para sacar paneles, tapicería y clips del interior del carro sin rayar ni romper nada. Las de metal dejan marca, las de tienda cuestan una fortuna: estas se imprimen en una",
+   "use_cases": [
+    "Sacar paneles del carro sin rayar el plástico",
+    "Instalar radio, parlantes o luces LED",
+    "Herramienta de taller que se reimprime cuando se desgaste"
+   ],
    "tags": [
-    "Tool",
-    "aid",
-    "cars",
-    "garage",
-    "garage accessories",
-    "kit",
-    "preparation",
-    "removal",
-    "repair",
-    "service",
-    "tool accesory",
-    "tools",
-    "vehicle"
+    "herramienta",
+    "tapicería",
+    "paneles",
+    "carro",
+    "petg",
+    "desarmar"
    ],
    "file_count": 1,
    "total_size": 943088,
@@ -40,21 +38,25 @@
   },
   {
    "id": "471905",
-   "title": "PLA Glue Gun Sticks",
+   "title": "Barras de pega en PLA para pistola de silicona",
    "slug": "pla-glue-gun-sticks",
    "category": "repair",
    "author": "harald.bruns",
    "license": "Public Domain / CC0",
    "release_date": "2024-05-22",
-   "description": "Reupload of existing design from FormFutura on Printables ( https://www.printables.com/model/855880-ribbed-glue-gun-sticks)\n\n### **Description:**\n\nYou have a little bit of filament left so these Ribbe",
+   "description": "Convierte tu pistola de silicona en una herramienta de soldadura de PLA: imprime barras estriadas de PLA y úsalas para unir, rellenar y reparar piezas impresas con el mismo material. Una forma brillan",
+   "use_cases": [
+    "Soldar y reparar piezas impresas con el mismo material",
+    "Rellenar huecos y unir partes grandes sin pegante",
+    "Gastar los últimos metros de carretes viejos"
+   ],
    "tags": [
-    "glue",
-    "gluegun",
-    "pkp 18 e",
-    "repair",
-    "sticks",
-    "tool",
-    "tools"
+    "pla",
+    "pistola de silicona",
+    "soldadura",
+    "reparación",
+    "barras",
+    "reciclaje"
    ],
    "file_count": 1,
    "total_size": 1261764,

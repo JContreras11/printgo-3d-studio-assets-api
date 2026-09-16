@@ -1,18 +1,24 @@
 {
  "id": "1929969",
- "title": "Coffee table",
+ "title": "Mesa de centro en miniatura",
  "slug": "coffee-table",
  "url": "https://makerworld.com/en/models/1929969-coffee-table",
  "author": "JakouBek_",
  "category": "bedroom",
- "source_category": "Household > Other House Models",
- "description": "Couch table.\n\nBoost Me (for free)\n\nPlease give me a boost so I have the motivation to create more products.\n\nBoost\n\ncoffee table couch sofa drink relax",
+ "source_category": "Cuarto > Miniaturas",
+ "description": "Mesa de centro de líneas limpias para sala en miniatura o casa de muñecas. Se imprime sin soportes y queda estable. Combínala con el resto de muebles en miniatura de la biblioteca para montar una sala completa.",
+ "use_cases": [
+  "Amoblar una casa de muñecas o diorama",
+  "Escenografía para fotografía de producto en miniatura",
+  "Maqueta de arquitectura o diseño de interiores"
+ ],
  "tags": [
-  "coffee table",
-  "couch",
-  "drink",
-  "relax",
-  "sofa"
+  "mesa de centro",
+  "miniatura",
+  "casa de muñecas",
+  "mueble",
+  "diorama",
+  "sin soportes"
  ],
  "license": "CC BY 4",
  "release_date": "2025-10-27",
@@ -28,18 +34,7 @@
    "size": 823996,
    "sha256": "14d59026dd71a44e17e76f52be3c0800fa7e9038f3e8d2335e5a08d497ca901c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.03.00.70",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-10-26",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc59bfc7f7e0b40/design/2025-10-27_8e672698228078.jpeg?x-oss-process=image/resize,w_1000",

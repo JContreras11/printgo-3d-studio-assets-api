@@ -1,38 +1,24 @@
 {
  "id": "402196",
- "title": "Stacking Triangle Corner Shelf",
+ "title": "Repisa esquinera triangular apilable",
  "slug": "stacking-triangle-corner-shelf",
  "url": "https://makerworld.com/en/models/402196-stacking-triangle-corner-shelf",
  "author": "TripleGWorkshop",
  "category": "home-organization",
- "source_category": "Household > Decor",
- "description": "Boost Me (for free)\n\nBoost\n\nChunky feet help keep it from moving. No supports. Unlimited stacking potential. Strong design with minimal materials.\n\nMembership\n\nJoin\n\nshelf organizer wall desk triangle book tower storage feet interlocking multipart parts corner vertical shelves stacking stack nosupport strong multiple expansion expandable high pins capacity",
+ "source_category": "Hogar y orden > Pared",
+ "description": "Apilamiento sin límite: empieza con una y sigue creciendo hacia arriba. Las patas gruesas evitan que se mueva, no necesita soportes y usa muy poco material para lo resistente que queda. Diseño sencillo con la mejor relación fuerza/filamento de la biblioteca.",
+ "use_cases": [
+  "Torre de repisas en una esquina, apilables sin límite",
+  "Sin soportes y con poco filamento",
+  "Exhibir plantas, figuras o especias en varios niveles"
+ ],
  "tags": [
-  "book",
-  "capacity",
-  "corner",
-  "desk",
-  "expandable",
-  "expansion",
-  "feet",
-  "high",
-  "interlocking",
-  "multipart",
-  "multiple",
-  "nosupport",
-  "organizer",
-  "parts",
-  "pins",
-  "shelf",
-  "shelves",
-  "stack",
-  "stacking",
-  "storage",
-  "strong",
-  "tower",
-  "triangle",
-  "vertical",
-  "wall"
+  "repisa",
+  "esquinera",
+  "apilable",
+  "triangular",
+  "sin soportes",
+  "resistente"
  ],
  "license": "CC BY 4",
  "release_date": "2024-03-30",
@@ -50,46 +36,7 @@
    "size": 1145636,
    "sha256": "60a3c31fbf17f3fd2282891d5983219954ab5d665612bbd34ab211c3d3044007",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "All Models 0.24mm layer, 2 walls, 20% infill",
-    "creation_date": "2025-01-31",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.24",
-    "infill": "20%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "BL-P001",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 31270,
-      "weight_g": 249.81,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#9CDBD9"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "BL-P001",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 30417,
-      "weight_g": 245.53,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#9CDBD9"
-       }
-      ]
-     }
-    ],
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8ac99f975cddf4/design/2024-03-30_2jxnzsd7qwti.jpg?x-oss-process=image/resize,w_1000",

@@ -1,21 +1,24 @@
 {
  "id": "1107047",
- "title": "Dollhouse Scale 1:12 Bathroom Sink Cabinet",
+ "title": "Mueble de lavamanos escala 1:12 para casa de muñecas",
  "slug": "dollhouse-scale-1-12-bathroom-sink-cabinet",
  "url": "https://makerworld.com/en/models/1107047-dollhouse-scale-1-12-bathroom-sink-cabinet",
  "author": "mini.maker",
  "category": "bathroom",
- "source_category": "Miniatures > Other Miniatures",
- "description": "Dollhouse scale 1:12 Bathroom sink cabinet inspired by Ikea. Print with tree supports and they are easy to remove.   I print the sink separate from the base and drawer as I printed the sink at a .12 layer height and added ironing top layers for a smoother look.  I also added a variation of the knobs so on the “flat” version you don' t have to add supports.\n\nEnjoy!\n\ndollhouse dollhouse furniture dollhouse bathroom furniture hemnes IKEA dollhouse sink bathroom furniture",
+ "source_category": "Baño > Miniaturas",
+ "description": "Mueble de lavamanos escala 1:12 con aire escandinavo, inspirado en Ikea. Imprime con soportes tipo árbol —salen fácil— y el lavamanos por separado para que quede limpio. Un mueble de casa de muñecas que no parece impreso: parece comprado.",
+ "use_cases": [
+  "Amoblar un baño de casa de muñecas escala 1:12",
+  "Escenografía para fotografía o stop motion en miniatura",
+  "Regalo para coleccionistas de miniaturas"
+ ],
  "tags": [
-  "IKEA",
-  "bathroom",
-  "dollhouse",
-  "dollhouse bathroom furniture",
-  "dollhouse furniture",
-  "dollhouse sink",
-  "furniture",
-  "hemnes"
+  "casa de muñecas",
+  "miniatura",
+  "1:12",
+  "lavamanos",
+  "mueble",
+  "escandinavo"
  ],
  "license": "CC BY 4",
  "release_date": "2025-02-13",
@@ -32,60 +35,7 @@
    "size": 1612600,
    "sha256": "30acae0c936311220c5bb20c6f04a686d2c84344bfcc3e1a74dd8d5aabeeb73f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Sink: .12 layer height with ironing top layers Other parts just print at .2 layer height",
-    "creation_date": "2025-02-14",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 5330,
-      "weight_g": 33.75,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 1146,
-      "weight_g": 4.86,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 830,
-      "weight_g": 0.5,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 3
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65f9dadc426103/design/2025-02-13_67a2fea893ad3.jpg?x-oss-process=image/resize,w_1000",

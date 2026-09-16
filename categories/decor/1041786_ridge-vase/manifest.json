@@ -1,17 +1,24 @@
 {
  "id": "1041786",
- "title": "Ridge Vase",
+ "title": "Jarrón Ridge de estrías verticales",
  "slug": "ridge-vase",
  "url": "https://makerworld.com/en/models/1041786-ridge-vase",
  "author": "dynamico",
  "category": "decor",
- "source_category": "Generative 3D Model > Make My Vase",
- "description": "A simple vase with vertical grooves that looks modern and stylish.\n\nPerfect as a decoration or for small flower arrangements.\n\nTip: Don't scale the model too small, as it might not stand out as much, like it happened to me. I had to scale it down because of time constraints, but I still think it looks pretty cool, even though it might appear a bit incomplete.\n\nPowered by MakerWorld-Make My Vase (https://makerworld.com/makerlab/makeMyVase)\n\nvase flower vase flowervases flowervase",
+ "source_category": "Decoración > Jarrones",
+ "description": "Jarrón sencillo con estrías verticales que atrapan la luz y le dan un aire moderno sin adornos de más. Perfecto para arreglos pequeños o solo como pieza decorativa. Consejo del autor: no lo escales, las proporciones están calculadas.",
+ "use_cases": [
+  "Arreglos florales pequeños en mesa de centro",
+  "Pieza decorativa sola en una repisa",
+  "Regalo elegante que se imprime en una noche"
+ ],
  "tags": [
-  "blumenvase",
-  "flowervase",
-  "flowervases",
-  "vase"
+  "jarrón",
+  "estrías",
+  "moderno",
+  "decoración",
+  "flores",
+  "minimalista"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-01-26",
@@ -28,33 +35,7 @@
    "size": 2526532,
    "sha256": "498aae49b146cf1d3a292fead2298702a47fca8a58f0d0934301dec395a75d6c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-01-26",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "BL-P001",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 31495,
-      "weight_g": 240.42,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#F7F3F0"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa0eb76c71d2629/design/2025-01-26_ec3038c4fe491.png?x-oss-process=image/resize,w_1000",

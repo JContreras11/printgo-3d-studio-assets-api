@@ -1,23 +1,24 @@
 {
  "id": "1797612",
- "title": "Nameled Camilla",
+ "title": "Lámpara con nombre — Camilla",
  "slug": "nameled-camilla",
  "url": "https://makerworld.com/en/models/1797612-nameled-camilla",
  "author": "Pesterox",
  "category": "bedroom",
- "source_category": "Art > Other Art Models",
- "description": "Boost Me (for free)\n\nTHANK YOU\n\nBoost\n\nA unique and original lamp featuring the name **Camilla** in a fun 3D design.\n\nPerfect as a personalized gift, decoration for a bedroom, office, or any space that deserves a creative and luminous touch.\n\n🔹 Modern and playful design\n\n🔹 Bold 3D-style letters\n\n🔹 Great gift idea for birthdays, special occasions, or simply to make your space truly unique\n\nThis lamp is not just a decorative piece – it’s a bright way to bring a name to life!\n\n💡 **Important note:**\n\nNo holes have been made for the LED strip cable. This way, everyone has the freedom to decide how to light up the inside of the lamp and where to route the cable, fully customizing it to their needs.\n\nname light Name light Lamp lamp nightstand bedroom regalo gift",
+ "source_category": "Cuarto > Iluminación",
+ "description": "Lámpara con el nombre CAMILLA en letras 3D que se iluminan desde adentro. Es de esos regalos que la gente guarda para siempre porque lleva su nombre. Luz cálida para el nochero, la repisa o el cuarto de un bebé.",
+ "use_cases": [
+  "Regalo personalizado de cumpleaños o baby shower",
+  "Luz nocturna suave en el cuarto de un niño",
+  "Decoración con nombre para repisa o nochero"
+ ],
  "tags": [
-  "Lamp",
-  "bedroom",
-  "comodino",
-  "gift",
-  "lampada",
-  "light",
-  "luce",
-  "name",
-  "nome",
-  "regalo"
+  "lámpara",
+  "nombre",
+  "personalizado",
+  "regalo",
+  "luz nocturna",
+  "decoración"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-09-15",
@@ -32,18 +33,7 @@
    "size": 2463816,
    "sha256": "c884396490008e5c84a5b188ab7495cc5331b3f77fdf4ded92656a64f1ed709a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.02.01.60",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-09-08",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 5
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9472bbb8ea0906/design/2025-09-15_544539ef21c31.jpg?x-oss-process=image/resize,w_1000",

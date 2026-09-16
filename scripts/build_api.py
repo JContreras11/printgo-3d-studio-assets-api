@@ -37,6 +37,10 @@ def main():
         for m in items:
             by_id[m["id"]] = m
     meta = load_existing_metadata()
+    # Spanish copy overlay: hand-written titles/descriptions/use cases per model id.
+    # Kept outside parse_meta so a re-scrape of MakerWorld never clobbers it.
+    copy_es_path = os.path.join(ROOT, "copy_es.json")
+    copy_es = json.load(open(copy_es_path)) if os.path.exists(copy_es_path) else {}
 
     api_dir = os.path.join(ROOT, "api")
     api_cat = os.path.join(api_dir, "categories")
@@ -92,16 +96,18 @@ def main():
             })
 
         # manifest
+        es = copy_es.get(mid, {})
         manifest = {
             "id": mid,
-            "title": m.get("title") or info.get("title") or "",
+            "title": es.get("title") or m.get("title") or info.get("title") or "",
             "slug": info.get("slug") or "",
             "url": info.get("url") or "",
             "author": m.get("author") or "",
             "category": cat,
-            "source_category": m.get("category") or "",
-            "description": m.get("description") or "",
-            "tags": m.get("tags") or [],
+            "source_category": es.get("source_category") or m.get("category") or "",
+            "description": es.get("description") or m.get("description") or "",
+            "use_cases": es.get("use_cases") or [],
+            "tags": es.get("tags") or m.get("tags") or [],
             "license": m.get("license") or "",
             "release_date": m.get("release_date") or "",
             "preview": f"previews/{copied[0]}" if copied else None,
@@ -127,6 +133,7 @@ def main():
             "license": manifest["license"],
             "release_date": manifest["release_date"],
             "description": (manifest["description"] or "")[:200],
+            "use_cases": manifest["use_cases"],
             "tags": manifest["tags"],
             "file_count": len(model_files),
             "total_size": sum(x["size"] for x in files_detail),

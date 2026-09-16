@@ -1,16 +1,24 @@
 {
  "id": "1075571",
- "title": "Oxygen Atom Model",
+ "title": "Modelo del átomo de oxígeno",
  "slug": "oxygen-atom-model",
  "url": "https://makerworld.com/en/models/1075571-oxygen-atom-model",
  "author": "donywang922",
  "category": "science",
- "source_category": "Education > Chemistry",
- "description": "An oxygen atom model, the electron orbitals are a length of filament. 16 core balls, 8 electron balls. Base diameter 3cm.\n\nChemistry Chemical Structure Atom",
+ "source_category": "Ciencia > Educación",
+ "description": "Modelo del átomo de oxígeno con 16 esferas de núcleo y 8 de electrones, y los orbitales hechos con un tramo de filamento. Base de 3 cm. La química abstracta se vuelve concreta cuando el estudiante puede tener el átomo en la mano.",
+ "use_cases": [
+  "Clase de química: estructura atómica en físico",
+  "Proyecto escolar o feria de ciencias",
+  "Decoración para laboratorio o aula"
+ ],
  "tags": [
-  "%E5%8C%96%E5%AD%A6",
-  "%E5%8C%96%E5%AD%A6%E7%BB%93%E6%9E%84",
-  "%E5%8E%9F%E5%AD%90"
+  "átomo",
+  "oxígeno",
+  "química",
+  "educación",
+  "modelo",
+  "ciencia"
  ],
  "license": "CC BY 4",
  "release_date": "2025-02-05",
@@ -27,33 +35,7 @@
    "size": 792564,
    "sha256": "d98c949cbd96ee60f251ceb785b5f6896318bcea718efa5f3d1a61e1b9c0e546",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-02-05",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 6329,
-      "weight_g": 47.27,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6869c6da3ed12/design/2025-02-05_83e5325b6bd87.jpg?x-oss-process=image/resize,w_1000",

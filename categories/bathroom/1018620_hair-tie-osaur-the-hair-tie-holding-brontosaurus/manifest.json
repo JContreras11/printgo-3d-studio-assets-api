@@ -1,16 +1,24 @@
 {
  "id": "1018620",
- "title": "Hair tie osaur - the hair tie holding brontosaurus",
+ "title": "Porta-moñas Brontosaurio",
  "slug": "hair-tie-osaur-the-hair-tie-holding-brontosaurus",
  "url": "https://makerworld.com/en/models/1018620-hair-tie-osaur-the-hair-tie-holding-brontosaurus",
  "author": "kimengineers",
  "category": "bathroom",
- "source_category": "Tools > Organizers",
- "description": "Only a brontosaurus has a long enough neck to hold all the hair ties I need in life. This one is hollow, with an optional container underneath for extra storage. Optional separate eyes can be glued in.\n\ndinosaur bathroom containers",
+ "source_category": "Baño > Organización",
+ "description": "Solo un brontosaurio tiene el cuello lo bastante largo para aguantar todas las moñas que uno necesita en la vida. Es hueco y trae un compartimiento opcional en la base para guardar ganchos, pinzas o caucheras de repuesto. Deja de perseguir moñas por toda la casa.",
+ "use_cases": [
+  "Guardar moñas y caucheras en el baño o el tocador",
+  "Compartimiento inferior para ganchos y pinzas",
+  "Regalo divertido para niñas y adolescentes"
+ ],
  "tags": [
-  "bathroom",
-  "containers",
-  "dinosaur"
+  "moñas",
+  "dinosaurio",
+  "organizador",
+  "baño",
+  "tocador",
+  "regalo"
  ],
  "license": "CC BY 4",
  "release_date": "2025-01-20",
@@ -26,90 +34,26 @@
    "size": 4211168,
    "sha256": "d1784aeaaca08459d0f8cfe505532332250429dbfffc1219ed795ed6d0d2cef6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "A1 mini - 0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Objects rearranged and rotated to fit A1 mini",
-    "creation_date": "2025-12-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/hair_tie_osaur_-_dinosaur_and_container.3mf.xz",
    "size": 4144864,
    "sha256": "619a799c51fb0aeb07241cd2f1d8f622faecd17493c2c29d4c11841a3e5f3a52",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Use support to print this model.",
-    "creation_date": "2025-02-12",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 6874,
-      "weight_g": 44.15,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#0078BF"
-       },
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 5846,
-      "weight_g": 33.42,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#0078BF"
-       }
-      ]
-     }
-    ],
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/hair_tie_osaur_-_dinosaur_and_container_p1s.3mf.xz",
    "size": 4270232,
    "sha256": "fec3d999ac3191035f5aea9ea45876335a675583b31db59226edf40d4e121bfd",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8a7fcdb8d9c2c9/design/2025-01-20_2b45eb54fb2cb.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
   "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- },
- "variant_hint": "para P1S"
+ }
 }

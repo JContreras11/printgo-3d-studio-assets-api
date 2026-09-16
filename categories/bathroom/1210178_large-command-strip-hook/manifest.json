@@ -1,55 +1,24 @@
 {
  "id": "1210178",
- "title": "Large Command Strip Hook",
+ "title": "Gancho grande para tiras Command",
  "slug": "large-command-strip-hook",
  "url": "https://makerworld.com/en/models/1210178-large-command-strip-hook",
  "author": "Nad_Dude",
  "category": "bathroom",
- "source_category": "Household > Other House Models",
- "description": "Hook sized to work with large command strips. Pull tab hides nicely under the hook but you can access easily with pliers when it's time to remove.\n\n2 print profiles. One is stronger and has finer resolution. Looks great and can be displayed in a bathroom. Second print profile is lighter weight and prints faster, in 30 mins. A little more flexible but strong enough for most uses.\n\ncommand hook command strip large command strip large hook tape hook towel hook heavy duty heavy hook heavy heavy duty hook strong strong hook big hook bag hook jacket hook towel hooks dish towel door hook clothes hook wall hook wall mounted hook hang hanging hook command adhesive command strips command hook command hooks large wall hook jacket hanger jacket holder bathroom hook bedroom hook closet hook modern hook modern decorative hooks decorative hook Hook hanging door hook for clothes door hooks",
+ "source_category": "Baño > Organización",
+ "description": "Gancho dimensionado exactamente para las tiras Command grandes: sin taladrar, sin dejar huecos y aguanta peso de verdad. La lengüeta de la tira queda escondida bajo el gancho pero accesible con una pinza cuando lo quieras quitar. Vienen dos piezas.",
+ "use_cases": [
+  "Colgar toallas o batas sin perforar la pared",
+  "Apartamento arrendado donde no se puede taladrar",
+  "Ganchos para bicicleta, cables o herramientas ligeras"
+ ],
  "tags": [
-  "Hook",
-  "bag hook",
-  "bathroom hook",
-  "bedroom hook",
-  "big hook",
-  "closet hook",
-  "clothes hook",
+  "gancho",
   "command",
-  "command adhesive",
-  "command hook",
-  "command hooks",
-  "command strip",
-  "command strips",
-  "decorative hook",
-  "decorative hooks",
-  "dish towel",
-  "door hook",
-  "door hook for clothes",
-  "door hooks",
-  "hang",
-  "hanging",
-  "hanging hook",
-  "heavy",
-  "heavy duty",
-  "heavy duty hook",
-  "heavy hook",
-  "hook",
-  "jacket hanger",
-  "jacket holder",
-  "jacket hook",
-  "large command strip",
-  "large hook",
-  "large wall hook",
-  "modern",
-  "modern hook",
-  "strong",
-  "strong hook",
-  "tape hook",
-  "towel hook",
-  "towel hooks",
-  "wall hook",
-  "wall mounted hook"
+  "sin taladrar",
+  "toalla",
+  "pared",
+  "arriendo"
  ],
  "license": "CC BY 4",
  "release_date": "2025-03-14",
@@ -69,67 +38,14 @@
    "size": 872380,
    "sha256": "456ba166b7a1be1611aa32af8b612261f36ab8258c1703f11ee94aabf97eb123",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.12mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-03-14",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.12",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 3768,
-      "weight_g": 13.99,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#CACDA0"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/command_hook_lite.3mf.xz",
    "size": 918408,
    "sha256": "a4000085cc2756eddf9276a0aeb506eaa84732d10b565c11195f5054930a5931",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 5% infill",
-    "profile_notes": "Lightweight version. Prints quickly in 30 mins. Strong enough for most uses.",
-    "creation_date": "2025-03-14",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "5%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 1862,
-      "weight_g": 11.4,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#CACDA0"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6239e796696c66/design/2025-03-14_4aea8c6aef88c.jpeg?x-oss-process=image/resize,w_1000",

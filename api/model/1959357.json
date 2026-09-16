@@ -1,16 +1,24 @@
 {
  "id": "1959357",
- "title": "Bathroom toothbrush and toothpaste organiser",
+ "title": "Organizador de cepillos y crema dental",
  "slug": "bathroom-toothbrush-and-toothpaste-organiser",
  "url": "https://makerworld.com/en/models/1959357-bathroom-toothbrush-and-toothpaste-organiser",
  "author": "sebastianm",
  "category": "bathroom",
- "source_category": "Tools > Organizers",
- "description": "This bathroom organizer is printed on Bambu A1, designed for everyday use and made up of two parts – the outer body and an insert, which can be printed in different colors to better match the bathroom decor. The base of the organizer is covered with holes to make it easier for water from toothbrushes to drain away, helping to keep the inside dry and more hygienic. Its practical construction allows for convenient storage of toothbrushes, toothpaste, and other small items, keeping the area around the sink tidy.\n\nIf you like my design or you have any objective, please leave a comment, I would like to see your opinion.\n\nbathroom organiser toothpaste and toothbrush holder",
+ "source_category": "Baño > Organización",
+ "description": "Dos piezas: cuerpo exterior e inserto interior, que puedes imprimir en colores distintos para un contraste limpio. El inserto se saca para lavarlo, que es justo lo que ningún portacepillos comprado permite. Probado a diario en una Bambu A1.",
+ "use_cases": [
+  "Cepillos y crema dental ordenados en el lavamanos",
+  "Inserto desmontable para lavar la baba acumulada",
+  "Combinación de dos colores para que combine con el baño"
+ ],
  "tags": [
-  "bathroom",
-  "organiser",
-  "toothpaste and toothbrush holder"
+  "cepillo de dientes",
+  "organizador",
+  "baño",
+  "dos colores",
+  "lavable",
+  "bambu a1"
  ],
  "license": "CC BY 4",
  "release_date": "2025-11-04",
@@ -27,19 +35,7 @@
    "size": 623436,
    "sha256": "1185d9a7a7a6288506833e882c227cb5a8cbae2aa6045b4012cc1c0162e0aede",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.01.01.52",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "nozzle 0.4, 2 walls, 15% infeel",
-    "creation_date": "2025-11-03",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc25a170aff2934/design/2025-11-04_d58ff0b0ec3a4.jpg?x-oss-process=image/resize,w_1000",

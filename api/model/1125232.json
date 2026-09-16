@@ -1,19 +1,24 @@
 {
  "id": "1125232",
- "title": "desk organizer shelf",
+ "title": "Repisa organizadora de escritorio",
  "slug": "desk-organizer-shelf",
  "url": "https://makerworld.com/en/models/1125232-desk-organizer-shelf",
  "author": "The_Cre8er",
  "category": "home-organization",
- "source_category": "Tools > Organizers",
- "description": "this model will fit on two build plates and can be printed in less than 10 hours which's much faster than most organizers its size\n\nBoost Me (for free)\n\nmaking my way to an A1 mini one boost at a time\n\nBoost\n\nshelf orgainazer organizer desk storage drawer",
+ "source_category": "Hogar y orden > Escritorio",
+ "description": "Cabe en dos placas y se imprime en menos de 10 horas: mucho más rápido que cualquier organizador de su tamaño. Levanta el monitor, ordena lo que queda debajo y recupera la mitad del escritorio sin comprar mueble nuevo.",
+ "use_cases": [
+  "Elevar el monitor y ganar espacio debajo",
+  "Ordenar papelería, cables y libretas del escritorio",
+  "Proyecto de un día: menos de 10 h de impresión"
+ ],
  "tags": [
-  "desk",
-  "drawer",
-  "orgainazer",
-  "organizer",
-  "shelf",
-  "storage"
+  "escritorio",
+  "repisa",
+  "organizador",
+  "monitor",
+  "rápido",
+  "oficina"
  ],
  "license": "CC BY 4",
  "release_date": "2025-02-18",
@@ -34,47 +39,7 @@
    "size": 966080,
    "sha256": "c9df1d5bac2857f0e976a2bff258cb0a0ffba9bd0d191263f10528a146656e49",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.28mm layer, 2 walls, 15% infill",
-    "profile_notes": "dont go too fast",
-    "creation_date": "2025-02-19",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.28",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 25114,
-      "weight_g": 475.03,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#808080"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 10630,
-      "weight_g": 172.73,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#808080"
-       }
-      ]
-     }
-    ],
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa11839963fc421/design/2025-02-18_6d8007df4399c.jpg?x-oss-process=image/resize,w_1000",

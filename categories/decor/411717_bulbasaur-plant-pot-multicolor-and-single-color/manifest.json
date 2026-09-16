@@ -1,48 +1,24 @@
 {
  "id": "411717",
- "title": "Bulbasaur Plant Pot - Multicolor and Single Color",
+ "title": "Matera Bulbasaur — multicolor y color único",
  "slug": "bulbasaur-plant-pot-multicolor-and-single-color",
  "url": "https://makerworld.com/en/models/411717-bulbasaur-plant-pot-multicolor-and-single-color",
  "author": "Eddie",
  "category": "decor",
- "source_category": "Household > Decor",
- "description": "Boost Me (for free)\n\nLike the design? Please consider giving a BOOST! It's greatly appreciated :)\n\nBoost\n\nHope you enjoy!\n\nI'll be making updates very soon, so stay tuned for more!\n\npokemon bulbasaur plant pot plant pot vase art contest fun animated decoration decor garden spring vegetation smart summer flower planter planter box planter pot office office decor pokemon decor succulent geeky geeky gifts geek decor gift multicolor multicolor animal animal plant accessories 3d printed 3D",
+ "source_category": "Decoración > Materas",
+ "description": "El Pokémon que literalmente carga una planta en la espalda, convertido en matera. Vienen dos versiones: multicolor para AMS y de color único si imprimes con una sola boquilla. Suculentas, cactus o plantas pequeñas de interior.",
+ "use_cases": [
+  "Suculentas y cactus pequeños en escritorio o ventana",
+  "Versión multicolor si tienes AMS, mono si no",
+  "Regalo seguro para cualquier fan de Pokémon"
+ ],
  "tags": [
-  "3D",
-  "3d printed",
-  "animal",
-  "animated",
-  "art",
   "bulbasaur",
-  "contest",
-  "decor",
-  "decoration",
-  "flower",
-  "fun",
-  "garden",
-  "geek decor",
-  "geeky",
-  "geeky gifts",
-  "gift",
+  "pokémon",
+  "matera",
+  "suculenta",
   "multicolor",
-  "multicolor animal",
-  "office",
-  "office decor",
-  "plant",
-  "plant accessories",
-  "plant pot",
-  "planter",
-  "planter box",
-  "planter pot",
-  "pokemon",
-  "pokemon decor",
-  "pot",
-  "smart",
-  "spring",
-  "succulent",
-  "summer",
-  "vase",
-  "vegetation"
+  "ams"
  ],
  "license": "CC BY 4",
  "release_date": "2025-09-07",
@@ -65,120 +41,26 @@
    "size": 3460168,
    "sha256": "a4157a17f1b912be602f5055367b3eb2129ec3e227261adf848dc5621ef3127c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "Multicolor - Full Size",
-    "profile_notes": "Full sized and fully colored! Features: 0.2mm Layer Height No supports 15% infill",
-    "creation_date": "2025-01-24",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "BL-P002",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 129316,
-      "weight_g": 720.6,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#00FFFF"
-       },
-       {
-        "type": "PLA",
-        "color": "#0080C0"
-       },
-       {
-        "type": "PLA",
-        "color": "#FF0000"
-       },
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Bulbasaur_Flower_Pot_-_Mono_Mini.3mf.xz",
    "size": 3431028,
    "sha256": "86093713eec483f3525a27d76bcf6df1f297205d6e97c77568c58aaef53bc7e8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.08.04.51",
-    "profile_title": "Single Color - Scaled 99% For Mini",
-    "profile_notes": "Single color and sized to 99% for the A1 Mini! Features: 0.2mm Layer Height No supports 15% infill",
-    "creation_date": "2024-04-03",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 33541,
-      "weight_g": 333.51,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Bulbasaur_Flower_Pot_-_Mono_X1.3mf.xz",
    "size": 3392736,
    "sha256": "b2690281d34ced23a952f0409429c11c41b0dfae3886841331c7c6c2f7df6d3c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.73",
-    "profile_title": "Single Color - Full Size",
-    "profile_notes": "Full sized and single color! Features: 0.2mm Layer Height No supports 15% infill",
-    "creation_date": "2025-03-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "BL-P002",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 32336,
-      "weight_g": 345.72,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US614ea0e744e72f/design/2025-09-07_b7198a2efbdc5.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
   "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- },
- "variant_hint": "Multicolor y monocromo · para X1 y A1 mini"
+ }
 }

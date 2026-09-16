@@ -1,13 +1,25 @@
 {
  "id": "2899788",
- "title": "Audi 80 Cabrio Type 89 in purple pearl effect",
+ "title": "Audi 80 Cabrio Tipo 89 — acabado perla púrpura",
  "slug": "audi-80-cabrio-type-89-in-purple-pearl-effect",
  "url": "https://makerworld.com/en/models/2899788-audi-80-cabrio-type-89-in-purple-pearl-effect",
  "author": "user_3267371547",
  "category": "automotive",
- "source_category": "Hobby & DIY > Vehicles",
- "description": "Here is one of the popular Audi 80 Cabrio Type 89 models in the rare color L0B 3 purple pearl effect",
- "tags": [],
+ "source_category": "Automóviles > Coleccionables",
+ "description": "El Audi 80 Cabrio Tipo 89 en el raro color L0B3 perla púrpura, uno de los acabados más buscados del modelo. Listo para imprimir a varios colores o en uno solo y pintarlo después. Un clásico alemán que se ve muy bien en la repisa.",
+ "use_cases": [
+  "Coleccionismo de clásicos alemanes",
+  "Regalo para el dueño de un Audi 80 real",
+  "Práctica de impresión multicolor con acabado perlado"
+ ],
+ "tags": [
+  "audi",
+  "cabrio",
+  "clásico",
+  "maqueta",
+  "coleccionable",
+  "multicolor"
+ ],
  "license": "Public Domain / CC0",
  "release_date": "2025-08-06",
  "preview": "previews/01.jpg",
@@ -25,18 +37,7 @@
    "size": 9388780,
    "sha256": "2d03bb22f19a12c8e6db00192418dbaf7bbd443bec9701263e2995a2c7fbbf4d",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2026-06-03",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf6c2321c095ea4/design/806a3b16fec4a79a.jpg?x-oss-process=image/resize,w_1000",

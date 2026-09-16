@@ -1,29 +1,24 @@
 {
  "id": "466585",
- "title": "Phone Cup Holder",
+ "title": "Soporte de celular para portavasos",
  "slug": "phone-cup-holder",
  "url": "https://makerworld.com/en/models/466585-phone-cup-holder",
  "author": "fabian.strohmei",
  "category": "automotive",
- "source_category": "3D Printer > 3D Printer Accessories",
- "description": "Tired of obstructed views from windshield mounts? Look no further! My 3D printed cup holder car mount keeps your phone accessible without compromising visibility. Simply slide it into your cup holder, and you’re ready to navigate hands-free. Say goodbye to windshield clutter!\n\niPhone 12 Pro Plus\n\nphone car holder car phone mount mobile car holder phone mount for car car phone holder smartphone car mount car phone cradle car phone bracket universal car phone holder dashboard phone holder car mount for smartphone cell phone car holder hands-free car phone mount phone holder for car car phone clip vehicle phone holder",
+ "source_category": "Automóviles > Interior",
+ "description": "Los soportes de parabrisas tapan la vía y los de rejilla vibran. Este se apoya en el portavasos, queda firme y deja el celular a una altura cómoda sin obstruir nada. Ajustable para vasos de distinto diámetro y sin tornillos ni adhesivos.",
+ "use_cases": [
+  "Navegar con GPS sin tapar el parabrisas",
+  "Conductores de apps que necesitan el celular visible todo el día",
+  "Cambiar de carro sin volver a instalar nada"
+ ],
  "tags": [
-  "car mount for smartphone",
-  "car phone bracket",
-  "car phone clip",
-  "car phone cradle",
-  "car phone holder",
-  "car phone mount",
-  "cell phone car holder",
-  "dashboard phone holder",
-  "hands-free car phone mount",
-  "mobile car holder",
-  "phone car holder",
-  "phone holder for car",
-  "phone mount for car",
-  "smartphone car mount",
-  "universal car phone holder",
-  "vehicle phone holder"
+  "soporte celular",
+  "portavasos",
+  "gps",
+  "sin adhesivos",
+  "universal",
+  "carro"
  ],
  "license": "CC BY 4",
  "release_date": "2024-05-17",
@@ -38,34 +33,7 @@
    "size": 1255964,
    "sha256": "9fa41d43dd107c1e93816f342641d748308f4fbc5105ce998877691b2c7c60f4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "You can use additional materials for this project. I recommend TPU because it provides extra protection for your phone. When selecting a material, opt for one that is UV and heat resistant",
-    "creation_date": "2025-02-10",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 17969,
-      "weight_g": 65.98,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "TPU",
-        "color": "#00AE42"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US16960f9b1ac3a0/design/2024-05-17_74717bbf220ec.png?x-oss-process=image/resize,w_1000",

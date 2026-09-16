@@ -1,23 +1,24 @@
 {
  "id": "1890382",
- "title": "Dashboard Blank 7E0858179 3X1",
+ "title": "Tapa ciega de tablero 7E0858179 (pack de 3) — VW T5",
  "slug": "dashboard-blank-7e0858179-3x1",
  "url": "https://makerworld.com/en/models/1890382-dashboard-blank-7e0858179-3x1",
  "author": "Zimi0",
  "category": "automotive",
- "source_category": "Hobby & DIY > Vehicles",
- "description": "Hi.\n\nThis is a model for dashboard blanks for the VW T5.\n\nI have found several other designs online but sadly they were either too brittle or wouldn't fit properly.\n\nThus I took out a blank and a caliper on my own and have created this model.\n\nEDIT:\n\nSorry. I had Accidentally uploaded an old file with the wrong height. It should be fitting as seen in the photo now.\n\nI printed in PETG. ASA or ABS would be better I guess, but since it's only a blank PETG will do.\n\nVolkswagen VW T5 vw t5 volkswagen t5 transporter transporter t5 transporter vw vw transporter volkswagen transporter",
+ "source_category": "Automóviles > Repuestos",
+ "description": "Las tapas ciegas del tablero de la VW T5 se vuelven quebradizas y terminan en el piso. Esta versión corrige lo que fallaba en otros diseños: las pestañas tienen el grosor correcto para entrar a presión y quedarse ahí. Vienen tres en la misma placa.",
+ "use_cases": [
+  "Tapar huecos de interruptores no usados en la T5",
+  "Reemplazar tapas rotas sin pedir repuesto original",
+  "Dejar el tablero uniforme antes de vender el vehículo"
+ ],
  "tags": [
-  "T5",
-  "VW",
-  "transporter",
-  "transporter t5",
-  "transporter vw",
   "volkswagen",
-  "volkswagen t5",
-  "volkswagen transporter",
-  "vw t5",
-  "vw transporter"
+  "t5",
+  "tablero",
+  "tapa ciega",
+  "repuesto",
+  "interruptor"
  ],
  "license": "CC BY 4",
  "release_date": "2025-10-15",
@@ -32,19 +33,7 @@
    "size": 238440,
    "sha256": "f045bb3146635ded6097cefea9eaa7c76466992425ad08c4bfdc4821881ddc8c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.09.03.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "0.2 or 0.1 mm layer height no supports",
-    "creation_date": "2025-10-15",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3a412c2e8e7472/design/2025-10-15_c1f9066924e66.jpg?x-oss-process=image/resize,w_1000",

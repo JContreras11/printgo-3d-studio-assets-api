@@ -1,29 +1,24 @@
 {
  "id": "417069",
- "title": "EasySqueeze Toothpaste Squeezer & Holder",
+ "title": "EasySqueeze: exprimidor y soporte de crema dental",
  "slug": "easysqueeze-toothpaste-squeezer-holder",
  "url": "https://makerworld.com/en/models/417069-easysqueeze-toothpaste-squeezer-holder",
  "author": "codrey",
  "category": "bathroom",
- "source_category": "Household > Other House Models",
- "description": "Hi everyone!\n\n**Model**\n\nThis innovative Toothpaste Squeezer not only ensures you squeeze out every last drop of toothpaste but also provides tidy storage. With its built-in position lock and threaded cap, it effectively prevents any wasteful unraveling of your toothpaste, giving you both efficiency and organization in one sleek design.\n\n**Assembly**\n\nAssembling your Toothpaste Squeezer is effortless. Start by inserting the end of the Key into the hexagonal divot in the Turner. No need for glue; the tolerance is finely adjusted for a seamless click-in fit. Then, position the Turner and Key into the Tube. Align the slot in the key with the corresponding slot in the tube and smoothly push in your toothpaste. Finally, secure everything in place by threading on the cap over the top of the key.\n\nUpgrade your oral care routine with this Toothpaste Squeezer - the perfect companion for squeezing out every bit of freshness from your toothpaste while keeping your bathroom clutter-free. Make the switch and never struggle with toothpaste tubes again!\n\nI'd love to see your completed builds. Don't forget to ❤️ Like and ⭐️ Rate!\n\nEnjoy!\n\ntooth toothpaste squeeze squeezer toothpaste squeezer ratcheted tube position lock helpful tool bathroom gadget accesory bathroom accesories universal cool",
+ "source_category": "Baño > Accesorios",
+ "description": "No solo saca hasta la última gota del tubo: también lo sostiene parado, así que la crema dental deja de rodar por el mesón. Dos problemas resueltos en una pieza que se imprime rápido y sin soportes.",
+ "use_cases": [
+  "Exprimir el tubo hasta el final sin aplastarlo",
+  "Mantener la crema dental parada y ordenada",
+  "Ahorro real en un producto que uno siempre bota a medias"
+ ],
  "tags": [
-  "accesory",
-  "bathroom",
-  "bathroom accesories",
-  "cool",
-  "gadget",
-  "helpful",
-  "position lock",
-  "ratcheted",
-  "squeeze",
-  "squeezer",
-  "tool",
-  "tooth",
-  "toothpaste",
-  "toothpaste squeezer",
-  "tube",
-  "universal"
+  "crema dental",
+  "exprimidor",
+  "soporte",
+  "baño",
+  "ahorro",
+  "sin soportes"
  ],
  "license": "CC BY 4",
  "release_date": "2024-04-07",
@@ -42,34 +37,7 @@
    "size": 1050288,
    "sha256": "c5993ff5ab9e6920777167140e1ea7e05bf255dde11fd7e6dcef1afacd191da5",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Bambu PLA Basic Tree Organic Support",
-    "creation_date": "2025-02-21",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 6938,
-      "weight_g": 29.29,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USccdd263c221933/design/2024-04-07_a6bfd1ee7724.jpg?x-oss-process=image/resize,w_1000",

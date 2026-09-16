@@ -1,21 +1,24 @@
 {
  "id": "813755",
- "title": "Kitchen condiment organizer",
+ "title": "Organizador de condimentos para cocina",
  "slug": "kitchen-condiment-organizer",
  "url": "https://makerworld.com/en/models/813755-kitchen-condiment-organizer",
  "author": "daibiq",
  "category": "home-organization",
- "source_category": "Tools > Organizers",
- "description": "Designed to conserve kitchen space, enhance countertop organization and aesthetics, and ensure convenient condiment access\n\nApproximate dimensions: 57cm\\*30cm\\*17cm\n\nModular design allows for flexible configurations, with only the exposed dovetail joints requiring minimal support\n\nNote the front and back distinction; the beveled edge indicates the front\n\nThe third tier may exhibit slight wobble; consider securing it to the wall with adhesive for enhanced stability and durability\n\nkitchen Storage Storage rack 瓶子 Stand shelf Tools Furniture",
+ "source_category": "Hogar y orden > Cocina",
+ "description": "Pensado para recuperar mesón: agrupa los condimentos de uso diario en un solo bloque ordenado y accesible mientras cocinas. Aproximadamente 57 cm, así que planea la placa antes de imprimir. Cocina más ordenada y más rápida.",
+ "use_cases": [
+  "Condimentos de uso diario al alcance mientras cocinas",
+  "Recuperar espacio de mesón ocupado por frascos sueltos",
+  "Mesón con aspecto ordenado y uniforme"
+ ],
  "tags": [
-  "%E5%8E%A8%E6%88%BF",
-  "%E5%AE%B6%E5%85%B7",
-  "%E5%B7%A5%E5%85%B7",
-  "%E6%94%AF%E6%9E%B6",
-  "%E6%94%B6%E7%BA%B3",
-  "%E6%94%B6%E7%BA%B3%E6%9E%B6",
-  "%E6%9E%B6%E5%AD%90",
-  "%E7%93%B6%E5%AD%90"
+  "condimentos",
+  "cocina",
+  "organizador",
+  "mesón",
+  "especias",
+  "orden"
  ],
  "license": "CC BY 4",
  "release_date": "2025-10-29",
@@ -30,85 +33,7 @@
    "size": 905628,
    "sha256": "0da5eb7e27246870e7feaf0d33df1d012cb7d35980dcc37c6153c80f299ae942",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.73",
-    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
-    "creation_date": "2025-03-19",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(manual)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 31650,
-      "weight_g": 247.25,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PETG",
-        "color": "#BCBCBC"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 35722,
-      "weight_g": 254.29,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PETG",
-        "color": "#BCBCBC"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 15030,
-      "weight_g": 109.86,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PETG",
-        "color": "#BCBCBC"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 25806,
-      "weight_g": 180.72,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PETG",
-        "color": "#BCBCBC"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 15025,
-      "weight_g": 109.86,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PETG",
-        "color": "#BCBCBC"
-       }
-      ]
-     }
-    ],
-    "photos": 5
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US25961a65032d84/design/40199cce-8f0a-487d-ae10-80feb5468429.webp?x-oss-process=image/resize,w_1000",

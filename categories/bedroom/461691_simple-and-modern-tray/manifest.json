@@ -1,17 +1,24 @@
 {
  "id": "461691",
- "title": "Simple and modern tray",
+ "title": "Bandeja sencilla y moderna",
  "slug": "simple-and-modern-tray",
  "url": "https://makerworld.com/en/models/461691-simple-and-modern-tray",
  "author": "tux3105",
  "category": "bedroom",
- "source_category": "Household > Decor",
- "description": "Membership\n\nCommercial use of all models for only 5 dollars a month.\n\nJoin\n\nBoost Me (for free)\n\nBoost\n\nNothing earth-shattering and nothing out of the ordinary...\n\nSimply a small, stylish storage option for the bathroom or for the whole house. The shape makes it easy to put several of the small bowls together.\n\n> _I recommend a matt PLA for this._\n\n> _Models were **roughly** generated via AI, photos were edited, adjusted, and post-processed._\n>\n> _Subsequently, a 3D model was created for each using AI and also post-processed to provide you with appropriate quality_\n>\n> _Partially also by: Powered by Image-to-3D from MakerWorld (https://makerworld.com/makerlab/imageTo3d)_\n\norganizer tray simple bathroom",
+ "source_category": "Cuarto > Organización",
+ "description": "Nada revolucionario y justamente por eso funciona: una bandeja de líneas limpias que se ve bien en cualquier parte de la casa. Llaves en la entrada, jabones en el baño, especias en la cocina o velas en la sala.",
+ "use_cases": [
+  "Bandeja atrapa-todo en la entrada",
+  "Servir o agrupar objetos en la mesa de centro",
+  "Organizar cosméticos o velas con acabado limpio"
+ ],
  "tags": [
-  "bathroom",
-  "organizer",
-  "simple",
-  "tray"
+  "bandeja",
+  "minimalista",
+  "moderna",
+  "organizador",
+  "versátil",
+  "decoración"
  ],
  "license": "CC BY 4",
  "release_date": "2024-05-12",
@@ -28,33 +35,7 @@
    "size": 1096264,
    "sha256": "749f34a313fa6eb89d1051f2805d4dad523e7b2847cd84e68cd7f3efce52171d",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 10% infill",
-    "creation_date": "2025-01-31",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N1",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 8670,
-      "weight_g": 58.35,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdb70aac5d4bcbb/design/2024-05-12_1011c3ca27282.jpeg?x-oss-process=image/resize,w_1000",

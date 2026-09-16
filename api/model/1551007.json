@@ -1,26 +1,24 @@
 {
  "id": "1551007",
- "title": "Toothless Toothpaste Squeezer",
+ "title": "Exprimidor de crema dental Chimuelo",
  "slug": "toothless-toothpaste-squeezer",
  "url": "https://makerworld.com/en/models/1551007-toothless-toothpaste-squeezer",
  "author": "wonderpuddle",
  "category": "bathroom",
- "source_category": "Household > Other House Models",
- "description": "Avoid becoming toothless by using this Toothless toothpaste squeezer.\n\nSimply insert your toothpaste tube into Toothless' mouth and squeeze the toothpaste forward.\n\nOnly takes about an hour to create this 2-color print with only one color change.  Works with AMS or without (simply pause the print after layer 24 and switch from black to white filament).\n\nPowered by MakerWorld-Image to Keychain (https://makerworld.com/makerlab/imageToKeychain)\n\ntoothpaste toothpaste tube squeezer toothpaste squeezer toothpaste squeeze dental mouth tooth bathroom toothless dragon toothless Dragon dragon how to train your dragon",
+ "source_category": "Baño > Accesorios",
+ "description": "Mete el tubo en la boca de Chimuelo y jala: sale hasta la última gota de crema dental, sin aplastar el tubo con los dedos ni pelear con él la última semana. Los niños se lavan los dientes solo por usarlo.",
+ "use_cases": [
+  "Aprovechar la crema dental hasta el final",
+  "Que los niños se animen a cepillarse solos",
+  "Regalo pequeño para fans de Cómo Entrenar a tu Dragón"
+ ],
  "tags": [
-  "Dragon",
-  "bathroom",
-  "dental",
-  "dragon",
-  "how to train your dragon",
-  "mouth",
-  "tooth",
-  "toothless",
-  "toothless dragon",
-  "toothpaste",
-  "toothpaste squeeze",
-  "toothpaste squeezer",
-  "toothpaste tube squeezer"
+  "crema dental",
+  "exprimidor",
+  "dragón",
+  "baño",
+  "infantil",
+  "ahorro"
  ],
  "license": "CC BY 4",
  "release_date": "2025-06-25",
@@ -39,20 +37,7 @@
    "size": 1684248,
    "sha256": "08e9427c4ba65cbe1ea2e13f8451795726122abe7733dab50c2549dcd00cd030",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.01.01.52",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Prints in two colors with AMS. To print in two colors without AMS, simply pause at layer 24 and switch filament from black to white.",
-    "creation_date": "2025-06-25",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "ironing": "top",
-    "support_type": "normal(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa58c672b70bcfe/design/2025-06-25_3d12e3927713d.jpeg?x-oss-process=image/resize,w_1000",

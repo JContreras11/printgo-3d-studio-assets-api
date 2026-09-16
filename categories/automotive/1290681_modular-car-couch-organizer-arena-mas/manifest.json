@@ -1,25 +1,24 @@
 {
  "id": "1290681",
- "title": "Modular Car & Couch Organizer – “ARENA MAS”",
+ "title": "Organizador modular para carro y sofá — ARENA MAS",
  "slug": "modular-car-couch-organizer-arena-mas",
  "url": "https://makerworld.com/en/models/1290681-modular-car-couch-organizer-arena-mas",
  "author": "rafaloukas",
  "category": "automotive",
- "source_category": "Tools > Organizers",
- "description": "This is a multi-purpose 3D-printed organizer designed for car dashboards, couches, desks, or anywhere you need extra organization.\n\nIt features:\n\n• 3 circular compartments for drinks, cables, keys, or other gear\n\n• Central flat area for phones, wallets, or tools\n\n• Custom front branding – this one says “ARENA MAS” (editable in the design)\n\n• Great for airsoft arenas, drivers, and home use\n\n• Sturdy design, prints without supports Perfect for anyone who needs a bit more order in their vehicle or chill zone.\n\nBoost Me (for free)\n\nBoost\n\norgainazer tray Car couch table dashboard storage multifunctional Holder modular no suport no support",
+ "source_category": "Automóviles > Interior",
+ "description": "Un solo organizador que resuelve el desorden del carro, del sofá y del escritorio. Trae tres compartimientos circulares, espacio para el control, el celular y las llaves, y una base que no se resbala. Modular: imprime las piezas que necesites y combínalas según el espacio que tengas.",
+ "use_cases": [
+  "Ordenar tablero y consola del carro en viajes largos",
+  "Brazo de sofá: control remoto, celular y gafas a la mano",
+  "Escritorio o mesa de noche como bandeja atrapa-todo"
+ ],
  "tags": [
-  "Car",
-  "Holder",
-  "couch",
-  "dashboard",
+  "organizador",
   "modular",
-  "multifuncional",
-  "no suport",
-  "no support",
-  "orgainazer",
-  "storage",
-  "table",
-  "tray"
+  "carro",
+  "sofá",
+  "escritorio",
+  "control remoto"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-04-06",
@@ -37,19 +36,7 @@
    "size": 830076,
    "sha256": "901ec0552157e8a4c48119e880e95aef31f55cabe76ab04653bd8be0072f5b6f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.76",
-    "profile_title": "0.2mm layer, 2 walls, 10% infill",
-    "profile_notes": "• Material: PETG recommended • Infill: 15-20% • Layer height: 0.2mm • No supports needed • Bed size: ~210x160mm minimum Customizable: Yes – easily edit the text in your slicer or CAD",
-    "creation_date": "2025-03-29",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6c06aff3bbe86/design/2025-04-06_5fe4651f6cce9.jpg?x-oss-process=image/resize,w_1000",

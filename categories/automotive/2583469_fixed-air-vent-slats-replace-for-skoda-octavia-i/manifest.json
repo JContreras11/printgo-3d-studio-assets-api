@@ -1,34 +1,24 @@
 {
  "id": "2583469",
- "title": "Fixed Air Vent Slats – Replace for Škoda Octavia I",
+ "title": "Rejillas de ventilación de repuesto — Škoda Octavia I",
  "slug": "fixed-air-vent-slats-replace-for-skoda-octavia-i",
  "url": "https://makerworld.com/en/models/2583469-fixed-air-vent-slats-replace-for-skoda-octavia-i",
  "author": "Cyboraaa",
  "category": "automotive",
- "source_category": "Tools > Gadgets",
- "description": "_**EN**_\n\nGot broken or loose air vent slats?\n\nThis is a very common issue in Škoda Octavia I interiors.\n\nThis model is designed as a **durable replacement**, solving the weakness of the original OEM parts.\n\nIt was created from scratch and tested to **fit the original vent housing**.\n\n👉 Fix loose or snapped slats\n\n👉 Save money – no need to replace the whole vent\n\n**It is recommended to use a filament with increased heat resistance due to the high temperatures inside a car interior.**\n\n**⚠️ ATTENTION:**\n\nThis is an unofficial replacement part and is not affiliated with Škoda.\n\nMinor adjustments may be needed depending on wear.\n\n_**POL**_\n\nMasz połamane lub wypadające żaluzje nawiewu?\n\nTo jeden z najczęstszych problemów w Škoda Octavia I.\n\nZaprojektowałem ten model jako **trwały zamiennik**, który rozwiązuje problem słabych, fabrycznych elementów.\n\nCzęść została odtworzona od podstaw i dopasowana tak, aby **pasowała do oryginalnej kratki nawiewu**.\n\n👉 Koniec z luźnymi lub urwanymi łopatkami\n\n👉 Szybka i tania naprawa bez wymiany całego nawiewu\n\n**Zaleca się użycie filamentu o podwyższonej odporności na wysokie temperatury, ze względu na warunki panujące we wnętrzu samochodu.**\n\n**⚠️ UWAGA:**\n\nTo nieoficjalna część zamienna i nie jest powiązana z marką Škoda.\n\nModel może wymagać minimalnego dopasowania w zależności od zużycia elementów.\n\noctavia octavia1 octaviamk1 skoda airvent vent ventslats louver dashboard interior fix repair 'replacement replace broken automotive Car 3dprint funcational VW Volkswagen",
+ "source_category": "Automóviles > Repuestos",
+ "description": "Las aletas de las rejillas de la Octavia I se parten o se quedan flojas: es la falla más común de ese interior. Este repuesto es más grueso que el original justo donde se rompe. Imprímelo en PETG o ABS para que aguante el aire caliente de la calefacción.",
+ "use_cases": [
+  "Reemplazar aletas rotas o caídas del aireador",
+  "Recuperar el control del flujo de aire del A/C",
+  "Dejar el tablero presentable antes de una venta"
+ ],
  "tags": [
-  "3dprint",
-  "Car",
-  "VW",
-  "Volkswagen",
-  "airvent",
-  "automotive",
-  "broken",
-  "dashboard",
-  "fix",
-  "funcational",
-  "interior",
-  "louver",
-  "octavia",
-  "octavia1",
-  "octaviamk1",
-  "repair",
-  "replace",
   "skoda",
-  "vent",
-  "ventslats",
-  "%27replacement"
+  "octavia",
+  "rejilla",
+  "aireador",
+  "repuesto",
+  "petg"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-12-02",
@@ -44,18 +34,7 @@
    "size": 852172,
    "sha256": "ae606a0c22dbc7c2091012941cdf13930cc205531217b4b26ee0741d227a2163",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.03.01.51",
-    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 15% infill",
-    "creation_date": "2026-03-28",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.1",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa04bf80ee46c53/design/f2990ac6f54715f1.jpg?x-oss-process=image/resize,w_1000",

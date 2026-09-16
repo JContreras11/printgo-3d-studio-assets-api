@@ -1,32 +1,24 @@
 {
  "id": "2508452",
- "title": "Bedside shelf insertable for 20mm bed frame-",
+ "title": "Repisa de cama clipsable para marcos de 20 mm",
  "slug": "bedside-shelf-insertable-for-20mm-bed-frame",
  "url": "https://makerworld.com/en/models/2508452-bedside-shelf-insertable-for-20mm-bed-frame",
  "author": "LeekiLeek2410",
  "category": "bedroom",
- "source_category": "Household > Other House Models",
- "description": "Storage table for 20mm wooden bed frames to clip on. Surface dimensions 250mm x 200 mm with 3mm frame, designed for 20mm thick boards.\n\nbett bed tray bedside table 20mm shelf desk schlafzimmer schlafen handy remote control brett platte holder table bed bedaccessories bedtable bedtray tray",
+ "source_category": "Cuarto > Repisas",
+ "description": "Se clipsa directamente en marcos de cama de madera de 20 mm: nada de tornillos, nada de perforar el mueble. Superficie de 250 × 200 mm con borde de 3 mm para que las cosas no se rueden al piso.",
+ "use_cases": [
+  "Convertir el marco de la cama en mesa de noche",
+  "Montaje sin tornillos ni daño al mueble",
+  "Camas de madera de 20 mm de espesor"
+ ],
  "tags": [
+  "repisa",
+  "cama",
+  "clip",
   "20mm",
-  "ablage",
-  "bed",
-  "bedaccessories",
-  "bedtable",
-  "bedtray",
-  "bett",
-  "bett ablage",
-  "betttisch",
-  "brett",
-  "fernbedienung",
-  "handy",
-  "holder",
-  "platte",
-  "schlafen",
-  "schlafzimmer",
-  "table",
-  "tisch",
-  "tray"
+  "sin tornillos",
+  "madera"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-02-22",
@@ -41,36 +33,14 @@
    "size": 581800,
    "sha256": "62ea44999f8a09391f6a46962f6129b37cbaef6cadc8f3cfc52ee1513e5e63c9",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 3 walls, 10% infill",
-    "creation_date": "2026-03-11",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Betttisch_35mm.3mf.xz",
    "size": 637644,
    "sha256": "ec101bd89389d25261076389631771a3796690e5c9dcaf85da956f41262d5612",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.01.55",
-    "profile_title": "Für 35mm Bettrahmen",
-    "creation_date": "2026-05-18",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US72d71a325248f5/design/0b5db1b30b484b05.jpg?x-oss-process=image/resize,w_1000",

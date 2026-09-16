@@ -1,18 +1,24 @@
 {
  "id": "67087",
- "title": "Nightstand Organizer",
+ "title": "Organizador de nochero todo en uno",
  "slug": "nightstand-organizer",
  "url": "https://makerworld.com/en/models/67087-nightstand-organizer",
  "author": "lov3tl",
  "category": "bedroom",
- "source_category": "Household > Decor",
- "description": "Made this to hold my keys, phone (with charger slot), airpods, wallet, ID badge, ring, watch and misc items. Print the bottom with more infill than the top or add weight so it doesn't topple over.\n\nnightstand organizer phone holder walletholder watch stand",
+ "source_category": "Cuarto > Organización",
+ "description": "Hecho para sostener exactamente lo que uno vacía de los bolsillos: llaves, celular con ranura para el cargador, audífonos, billetera, carné, anillo y reloj. Imprime la base con más relleno que el resto para que quede firme y no se ruede.",
+ "use_cases": [
+  "Un solo sitio para llaves, reloj, anillo y carné",
+  "Celular cargando con el cable guiado por su ranura",
+  "Rutina de salida rápida: todo queda en el mismo lugar"
+ ],
  "tags": [
-  "nightstand",
-  "organizer",
-  "phone holder",
-  "walletholder",
-  "watch stand"
+  "organizador",
+  "nochero",
+  "edc",
+  "llaves",
+  "cargador",
+  "billetera"
  ],
  "license": "CC BY 4",
  "release_date": "2023-11-17",
@@ -28,46 +34,7 @@
    "size": 744604,
    "sha256": "e379a9a8154aa4ff47f4f332220998ef7c48287402fcde0a40e9ddfa81020d55",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-02-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 8631,
-      "weight_g": 126.44,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#808080"
-       }
-      ]
-     },
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 7323,
-      "weight_g": 98.97,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#808080"
-       }
-      ]
-     }
-    ],
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbc8c65d4fe47e3/design/2023-11-17_d23266f93c37d.jpg?x-oss-process=image/resize,w_1000",

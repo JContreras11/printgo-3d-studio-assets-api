@@ -1,20 +1,24 @@
 {
  "id": "218174",
- "title": "Face Vase/Pen cup",
+ "title": "Jarrón cara y manos / portalápices",
  "slug": "face-vase-pen-cup",
  "url": "https://makerworld.com/en/models/218174-face-vase-pen-cup",
  "author": "Matdanck121",
  "category": "decor",
- "source_category": "Household > Office",
- "description": "A Face and Hands Vase / Pen or pencil holder. If you use the raw file i had scaled it down to 70%\n\nThis is based on a vase i BOUGHT at store.  I modeled it off that just like you did Ruben.\n\noffice office accessories decor vase cup face art",
+ "source_category": "Decoración > Jarrones",
+ "description": "Un jarrón con cara y manos, modelado a partir de una pieza real de tienda. El archivo original viene al 70 % de escala, así que ajústalo si lo quieres más grande. Funciona igual como florero o como portalápices con actitud.",
+ "use_cases": [
+  "Jarrón escultórico de estilo escandinavo",
+  "Portalápices o portabrochas en el escritorio",
+  "Pieza de conversación en la repisa"
+ ],
  "tags": [
-  "art",
-  "cup",
-  "decor",
-  "face",
-  "office",
-  "office accessories",
-  "vase"
+  "jarrón",
+  "cara",
+  "escultura",
+  "portalápices",
+  "escandinavo",
+  "decoración"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2024-03-02",
@@ -30,33 +34,7 @@
    "size": 18634624,
    "sha256": "00dc71639e2cd8697a3d6cbf2ae47a76e00b285306c66ad93d992031dc67b34a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.12mm layer, 2 walls, 10% infill",
-    "creation_date": "2025-01-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.12",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 16277,
-      "weight_g": 101.65,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdc5f31fad71f47/design/2024-03-02_15bb0a7ea3b25.jpeg?x-oss-process=image/resize,w_1000",

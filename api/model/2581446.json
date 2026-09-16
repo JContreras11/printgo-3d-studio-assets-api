@@ -1,25 +1,24 @@
 {
  "id": "2581446",
- "title": "Shower Rod Telescopic Basket",
+ "title": "Canasta para barra telescópica de ducha",
  "slug": "shower-rod-telescopic-basket",
  "url": "https://makerworld.com/en/models/2581446-shower-rod-telescopic-basket",
  "author": "McBart2201",
  "category": "home-organization",
- "source_category": "Household > Other House Models",
- "description": "## **Shower Rod Shelf,  Shower Corner Shelf**\n\nNo more wobbly shower shelves! This project transforms unstable telescopic corner shelves into a rock-solid storage solution.\n\nThe highlight is the **modular rod system with integrated threads**. It allows you to precisely adjust the height of the shelf to your shower without relying on unstable clamping mechanisms. In addition, the **specialy designed suction cup holders** provide extreme lateral support without you having to drill holes in the tiles.\n\n### **Features:**\n\n- **Modular & Adaptable:** The rod consists of several segments that are easily screwed together with **robust threads**. This way you can achieve any desired overall height.\n- **Drill-Free Installation:** The sturdy holders use standard suction cups to securely fix the rod in the corner.\n- **Wobble-Free:** Thanks to the screw connections and the suction cup fixation, the shelf is significantly more stable than conventional clamp shelves.\n- **Hygienic:** The grid design of the shelf bases allows water to drain perfectly.\n\n### **Required Hardware (BOM):**\n\n- Standard suction cups with threads or hooks (quantity depends on the number of holders you want to use; **at least 2 pieces per holder** recommended).\n- _Tip:_ Suction cups with a diameter of approx. 40-50mm usually fit well.\n- https://www.amazon.de/dp/B0DDXM4SSP?ref=ppx\\_yo2ov\\_dt\\_b\\_fed\\_asin\\_title\n\n### **Print Settings (IMPORTANT):**\n\n**For the Rod Segments & Threads:**\n\n- **Material:** **PETG** (highly recommended!). PLA is not waterproof and will soften in a humid shower. ABS/ASA is possible, but PETG is easier to print and flexible enough for the threads.\n- **Layer height:** **0.16mm** or **0.20mm**. A finer layer height ensures cleaner, smoother threads.\n- **Infill:** **30-50% (Gyroid)**. The threaded areas require stability.\n- **Walls:** At least **3-4 wall lines**.\n- **Orientation:** Print the rods standing upright.\n\n**For the Suction Cup Holders:**\n\n- **Material:** **PETG** (due to moisture).\n- **Infill:** 20-30%.\n- **Walls:** 6 wall lines.\n- **Support:** Depending on printer orientation, a little support may be needed for the suction cup mounts (tree support recommended).\n\n### **Assembly Instructions:**\n\n1. Print the required number of rod segments to achieve the desired total height. Screw them firmly together.\n2. Slide the shelf bases and suction cup holders onto the rod in the desired order.\n3. Attach the suction cups to the holders.\n4. Thoroughly clean and dry the tiles in the shower.\n5. Position the shelf in the corner and press the suction cups firmly.\n\nshower Basket shower stange teleskop shower organizer bathroom shelf storage regal shower rod duschregal shower gel",
+ "source_category": "Hogar y orden > Baño",
+ "description": "Se acabaron las repisas de ducha que se bambolean. Este proyecto convierte esas esquineras telescópicas inestables en un sistema firme que no se mueve ni con botellas llenas. La solución al problema más común de los organizadores de ducha baratos.",
+ "use_cases": [
+  "Estabilizar una esquinera telescópica que se bambolea",
+  "Aguantar botellas grandes sin que se venza",
+  "Aprovechar la barra telescópica que ya tienes"
+ ],
  "tags": [
-  "aufbewahrung",
-  "bathroom shelf",
-  "dusche",
-  "duschgel",
-  "duschregal",
-  "duschstange",
-  "korb",
-  "regal",
-  "shower",
-  "shower organizer",
-  "stange",
-  "teleskop"
+  "ducha",
+  "barra telescópica",
+  "canasta",
+  "estable",
+  "baño",
+  "organizador"
  ],
  "license": "CC BY 4",
  "release_date": "2025-02-15",
@@ -46,57 +45,21 @@
    "size": 19149732,
    "sha256": "e5d5927f9e1c77d2dcce281c2cff76e1db65ebbd2b3130202edb997c5d6e61c8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 5 walls, 40% infill",
-    "profile_notes": "Einmal alle Stangen/UnterTeil/ Verstellschraube extra eingefügt.",
-    "creation_date": "2026-03-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "40%",
-    "support_type": "tree(auto)",
-    "photos": 7
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Duschstangen_Sachen_Komplett.3mf.xz",
    "size": 32474544,
    "sha256": "f41a95cd3f437d7daa94be4cbbbfda25dea3e1e892c7c2172e967375ee4248b7",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "Alles zusammen aber nicht mit Detalierten Druckprofilen",
-    "profile_notes": "Habe alles auf mehrern Platten verteilt",
-    "creation_date": "2026-03-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "35%",
-    "support_type": "tree(auto)",
-    "photos": 10
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Korb_25x25___20x20.3mf.xz",
    "size": 3860924,
    "sha256": "c692b38bd1c8e8ad0226356ef51b8162929f917481c8fcd6df3c22fb454df052",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 4 walls, 15% infill",
-    "profile_notes": "Beide Körbe",
-    "creation_date": "2026-03-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa683b728b9fc57/design/17b1d30865c2a33f.jpg?x-oss-process=image/resize,w_1000",

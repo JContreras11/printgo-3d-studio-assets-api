@@ -1,24 +1,24 @@
 {
  "id": "3300337",
- "title": "Corner shelf storage 230mm x 230mm x 110mm",
+ "title": "Caja esquinera 230 × 230 × 110 mm",
  "slug": "corner-shelf-storage-230mm-x-230mm-x-110mm",
  "url": "https://makerworld.com/en/models/3300337-corner-shelf-storage-230mm-x-230mm-x-110mm",
  "author": "user_2988874812",
  "category": "home-organization",
- "source_category": "Tools > Organizers",
- "description": "Precision-fit storage box in quarter-circle design (90° corner shape) for corner shelves. Perfect for storing small items cosmetics or bathroom accessories neatly and space-savingly\n\n- **Dimensions:** 230mm x 230mm x 110mm\n- **Shape:** Quarter circle (90° angle)\n- **Print tip:** No support required Can be printed ideally on its flat underside\n\nstorage box box corner shelf organizer eckregal quarter circle storage box bathroom organizer bad organizer storage bin",
+ "source_category": "Hogar y orden > Almacenamiento",
+ "description": "Caja de cuarto de círculo hecha a la medida de repisas esquineras: aprovecha exactamente ese rincón que siempre queda desperdiciado. Ideal para cosméticos, accesorios de baño o cosas pequeñas que se pierden en el fondo de la esquina.",
+ "use_cases": [
+  "Aprovechar el rincón muerto de una repisa esquinera",
+  "Guardar cosméticos o accesorios de baño agrupados",
+  "Cajas que se sacan completas en vez de hurgar en el fondo"
+ ],
  "tags": [
-  "aufbwahrung",
-  "bad organizer",
-  "bathroom organizer",
-  "box",
-  "corner shelf",
-  "eckregal",
-  "kiste",
-  "organizer",
-  "quarter circle",
-  "storage bin",
-  "storage box"
+  "caja",
+  "esquinera",
+  "almacenamiento",
+  "cosméticos",
+  "baño",
+  "90 grados"
  ],
  "license": "CC BY 4",
  "release_date": "2025-01-19",
@@ -34,18 +34,7 @@
    "size": 591108,
    "sha256": "7f9f7b3ccb5024beb9cb208ec0f4c7dcea377b4d96f3bd26cf3e92072f0a54c6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2026-09-13",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USce1d406c4105df/design/895bad4f99ee27d3.jpeg?x-oss-process=image/resize,w_1000",

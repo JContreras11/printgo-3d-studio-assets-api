@@ -1,28 +1,24 @@
 {
  "id": "2495379",
- "title": "Elegant, small vase for one flower commercial",
+ "title": "Jarrón pequeño para una sola flor",
  "slug": "elegant-small-vase-for-one-flower-commercial",
  "url": "https://makerworld.com/en/models/2495379-elegant-small-vase-for-one-flower-commercial",
  "author": "Kerlcraft",
  "category": "decor",
- "source_category": "Generative 3D Model > Make My Vase",
- "description": "My wife wanted a small vase that fits only one flower\n\nI then created this model using “make my vase”\n\nIt is easy to print and watertight\n\nYou are welcome to use it commercially, perhaps it is worth a boost to you\n\nBoost Me (for free)\n\nYour boost helps me, thank you!\n\nBoost\n\nPowered by MakerWorld-Make My Vase (https://makerworld.com/makerlab/makeMyVase)\n\nvase blume eine single decor Floral decoration table decor flower vase elegant small tulpe rose simple Beautiful tiny",
+ "source_category": "Decoración > Jarrones",
+ "description": "Nació de un pedido simple: un jarrón que sostenga una sola flor. Hecho con Make My Vase, fácil de imprimir y estanco al agua, así que puedes usarlo con agua real sin miedo a filtraciones. Uso comercial permitido.",
+ "use_cases": [
+  "Una sola flor fresca con agua, sin filtraciones",
+  "Detalle de mesa en restaurante o evento",
+  "Producción para venta: el autor permite uso comercial"
+ ],
  "tags": [
-  "blume",
-  "blumendeko",
-  "blumenvase",
-  "deko",
-  "eine",
-  "einfach",
-  "elegant",
-  "huebsch",
-  "klein",
-  "rose",
-  "single",
-  "tiny",
-  "tischdeko",
-  "tulpe",
-  "vase"
+  "jarrón",
+  "una flor",
+  "estanco",
+  "uso comercial",
+  "pequeño",
+  "make my vase"
  ],
  "license": "CC BY 4",
  "release_date": "2025-04-23",
@@ -38,19 +34,7 @@
    "size": 3466428,
    "sha256": "c8ecedb97d9c6901bef777556d5cd6623872b86493b3a487b5b1813880b804ac",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Standard Druckprofil, keine Supports nötig",
-    "creation_date": "2026-03-05",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US101966b3f7175d/design/b5e71b348a15b305.jpg?x-oss-process=image/resize,w_1000",

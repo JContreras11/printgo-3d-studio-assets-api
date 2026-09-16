@@ -1,25 +1,24 @@
 {
  "id": "2247769",
- "title": "Random Shelf",
+ "title": "Repisa de pared compacta",
  "slug": "random-shelf",
  "url": "https://makerworld.com/en/models/2247769-random-shelf",
  "author": "Thank_You",
  "category": "home-organization",
- "source_category": "Household > Decor",
- "description": "This compact 3D-printed shelf is designed for quick and practical wall-mounted storage. It features a flat base with raised edges on three sides to keep items secure, and two mounting holes for easy installation. The front edge includes an embossed “Shelf” label for a clean, minimal look.\n\nPerfect for organizing small tools, accessories, or decor in your workshop, kitchen, or office. Prints easily without supports and fits most FDM printers.\n\n- No supports needed\n- Mounting holes: 2 × 6mm\n- Material: PLA recommended\n\nshelf storage organizer wall shelf dispay shelf furnuiture rack Desk organizer clean design compact toy shelf spice rack",
+ "source_category": "Hogar y orden > Pared",
+ "description": "Repisa pequeña con bordes levantados en tres lados para que nada se ruede al piso. Rápida de imprimir y fácil de montar: la solución cuando necesitas un sitio para dejar algo y no quieres montar un mueble entero.",
+ "use_cases": [
+  "Repisa rápida junto a la puerta o el interruptor",
+  "Router, parlante o planta pequeña en la pared",
+  "Bordes levantados para que nada se caiga"
+ ],
  "tags": [
-  "clean design",
-  "compact",
-  "desk orgainzer",
-  "dispay shelf",
-  "furnuiture",
-  "organizer",
-  "rack",
-  "shelf",
-  "spice rack",
-  "storage",
-  "toy shelf",
-  "wall shelf"
+  "repisa",
+  "pared",
+  "compacta",
+  "rápida",
+  "bordes",
+  "organización"
  ],
  "license": "CC BY 4",
  "release_date": "2026-01-15",
@@ -36,19 +35,7 @@
    "size": 1064164,
    "sha256": "c76b090b04ee08f89b32ae429a96428c18fbb0f9da4e485b460d9b5e53c597bd",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "0.2mm layer, 3 walls, 15% infill",
-    "profile_notes": "0.2 layer 15 % inill giroid 2 walls support only for the hole textured plate",
-    "creation_date": "2026-01-15",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US30ba401cd8439/design/2026-01-15_9142c08b2c581.jpg?x-oss-process=image/resize,w_1000",

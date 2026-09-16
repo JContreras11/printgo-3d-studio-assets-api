@@ -1,14 +1,24 @@
 {
  "id": "876087",
- "title": "Small table",
+ "title": "Mesita elevadora de escritorio",
  "slug": "small-table",
  "url": "https://makerworld.com/en/models/876087-small-table",
  "author": "user_1135695276",
  "category": "bedroom",
- "source_category": "Tools > Other Tools",
- "description": "A small table, designed to elevate objects on a desktop\n\nSmall table",
+ "source_category": "Cuarto > Organización",
+ "description": "Mesita pequeña para levantar objetos sobre el escritorio y ganar el espacio de abajo. Sirve para elevar el monitor, la impresora o el parlante, y de paso ordena los cables que quedan debajo.",
+ "use_cases": [
+  "Elevar monitor o portátil a la altura correcta",
+  "Ganar espacio debajo para teclado o cuadernos",
+  "Exhibir una figura o planta a distinta altura"
+ ],
  "tags": [
-  "%E5%B0%8F%E6%A1%8C%E5%AD%90"
+  "escritorio",
+  "elevador",
+  "mesita",
+  "organización",
+  "monitor",
+  "ergonomía"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-02-09",
@@ -25,33 +35,7 @@
    "size": 2286764,
    "sha256": "fba9c28748220d4d1bf35186a6b5ad4bc09cf57559f979ec38a4d88a5507bcb4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
-    "creation_date": "2025-02-21",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 3783,
-      "weight_g": 30.59,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb73a46d1a8acc2/design/2025-02-09_f10b139d05d47.jpg?x-oss-process=image/resize,w_1000",

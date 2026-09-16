@@ -1,19 +1,24 @@
 {
  "id": "3295000",
- "title": "Ikea Hemnes bedside shelf",
+ "title": "Repisa de cama para Ikea Hemnes",
  "slug": "ikea-hemnes-bedside-shelf",
  "url": "https://makerworld.com/en/models/3295000-ikea-hemnes-bedside-shelf",
  "author": "AaronDesigns",
  "category": "bedroom",
- "source_category": "Household > Other House Models",
- "description": "I wanted a bedside shelf because stuff kept falling of the ledge of the bed. But i didn't feel like using just a flat piece of wood. So i created this shelf with a raised edge so stuff wouldn't roll or slide off it. There's also a little slit for a charger cable to always hang in place so it can't slip off. The indent is for mugs so they won't slide all over, but you could also put a liner in there as a sort of coaster.\n\nThe brackets i used are _**not**_ created by me. They are created by Bushman. Below is a link to his brackets.\n\nhttps://makerworld.com/en/models/2240556-hemnes-side-shelf-no-drilling-into-the-bed#profileId-2438797\n\nI had some fitment issues, so i also created a few spacers you can glue on if you have the same issue.\n\nI've used it daily for a few weeks now and can't believe i waited this long to make this. In those weeks i've put large cola bottles on there and even mugs with hot tea, it doesn't even flinch.\n\nIKEA hemnes bed bed accesory bedside shelf",
+ "source_category": "Cuarto > Repisas",
+ "description": "Nació de un problema real: en la cama Hemnes todo se rueda por el borde. En vez de poner una tabla suelta, este diseño se ajusta a la geometría de la Hemnes y queda como si viniera de fábrica.",
+ "use_cases": [
+  "Que el celular deje de rodarse por el borde de la Hemnes",
+  "Nochero adicional sin ocupar piso",
+  "Hack de Ikea que se ve integrado al mueble"
+ ],
  "tags": [
-  "IKEA",
-  "bed",
-  "bed accesory",
-  "bedside",
+  "ikea",
   "hemnes",
-  "shelf"
+  "repisa",
+  "cama",
+  "hack",
+  "nochero"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-01-23",
@@ -31,38 +36,14 @@
    "size": 1605292,
    "sha256": "06c552f2e34bb63ee8e7a92e08bedc7b4fea98f4dd25a7257d35d544360fc603",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.60",
-    "profile_title": "Hemnes shelf 0.2mm layer, 3 walls, 15% infill",
-    "profile_notes": "Prints in 2 pieces on 2 seperate plates",
-    "creation_date": "2026-08-29",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Bedplank.3mf.xz",
    "size": 1605292,
    "sha256": "06c552f2e34bb63ee8e7a92e08bedc7b4fea98f4dd25a7257d35d544360fc603",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.60",
-    "profile_title": "Hemnes shelf 0.2mm layer, 3 walls, 15% infill",
-    "profile_notes": "Prints in 2 pieces on 2 seperate plates",
-    "creation_date": "2026-08-29",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US712961ba18d303/design/f163a62198c842e5.jpg?x-oss-process=image/resize,w_1000",

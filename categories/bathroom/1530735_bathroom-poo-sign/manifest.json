@@ -1,16 +1,24 @@
 {
  "id": "1530735",
- "title": "Bathroom Poo Sign",
+ "title": "Aviso de baño ocupado",
  "slug": "bathroom-poo-sign",
  "url": "https://makerworld.com/en/models/1530735-bathroom-poo-sign",
  "author": "PrintedLayers",
  "category": "bathroom",
- "source_category": "Household > Decor",
- "description": "Caution Poo Bathroom Door Hanger\n\nCouple years ago I saw a small a frame sign online and had always thought it would make a great bathroom door hanger sign.\n\nI modeled it with both signs. Can print one or the other. Or both. I personally glued both of them together back to back. When the bathroom is occupied one side faces out and upon leaving the bathroom flip the sign over.\n\nHope everyone enjoys this fun sign. And if you like it enough, please give it a boost if you can.\n\nbathroom door sign poo",
+ "source_category": "Baño > Decoración",
+ "description": "El aviso que toda casa necesita y nadie se atreve a comprar. Se cuelga en la manija de la puerta y avisa, con humor, que hay que esperar un rato. Se imprime en una hora, sale perfecto en dos colores y siempre gana una risa.",
+ "use_cases": [
+  "Aviso de baño ocupado en casa u oficina",
+  "Regalo de amigo secreto o estrena-casa",
+  "Broma decorativa para el baño de visitas"
+ ],
  "tags": [
-  "bathroom",
-  "door sign",
-  "poo"
+  "aviso",
+  "baño",
+  "puerta",
+  "humor",
+  "decoración",
+  "regalo"
  ],
  "license": "CC BY 4",
  "release_date": "2025-06-18",
@@ -25,54 +33,21 @@
    "size": 1227764,
    "sha256": "8a6617c53be634b812871826486efc1694b695d0a531c35673e90a13361941b1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "10 Minutes Sign",
-    "creation_date": "2025-12-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Updated_Poo_Door_Sign_15.3mf.xz",
    "size": 1222344,
    "sha256": "5e4ed96ab8f289c91dd82e994e5a061164ac3f4f1dba75c0c99072300a9f52ef",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "15 Minute Sign",
-    "creation_date": "2025-12-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/Updated_Poo_Door_Sign_30.3mf.xz",
    "size": 1240388,
    "sha256": "a6b36369b97e0d9554b65d6895e474bd076162340ce3334b2b5f0fd5bbd246dd",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "30 Minute Sign",
-    "creation_date": "2025-12-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7e25688f757de1/design/2025-06-18_739bbad0e1bcf.jpg?x-oss-process=image/resize,w_1000",

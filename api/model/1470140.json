@@ -1,14 +1,24 @@
 {
  "id": "1470140",
- "title": "Bedside Mini Shelf with Cable Hole",
+ "title": "Mini repisa de noche con paso de cable",
  "slug": "bedside-mini-shelf-with-cable-hole",
  "url": "https://makerworld.com/en/models/1470140-bedside-mini-shelf-with-cable-hole",
  "author": "HaniHashemi",
  "category": "bedroom",
- "source_category": "Household > Other House Models",
- "description": "This is a simple, compact shelf designed in Shapr3D to stick next to your bed or any wall surface. It’s perfect for holding small items like your phone, SIM cards, or accessories. The built-in hole allows you to neatly pass through a charging cable or drop small items like SIM cards for safekeeping.\n\nIt’s my first 3D design not perfect, but functional and a great start for anyone looking to customize their space with a personal touch.\n\nIdeal for 3D printing with PLA. You might want to print it flat for better adhesion and strength, or rotate based on your printer’s capabilities.\n\nshelft",
+ "source_category": "Cuarto > Repisas",
+ "description": "Repisa compacta que se pega a la pared junto a la cama y trae un agujero pensado para el cargador: el cable entra por detrás y el celular nunca se cae al piso a media noche. Simple, discreta y se imprime en una sola pieza.",
+ "use_cases": [
+  "Celular cargando junto a la cama sin mesa de noche",
+  "Camas altas o camarotes donde no cabe un nochero",
+  "Gafas, reloj y audífonos a la mano al despertar"
+ ],
  "tags": [
-  "shelft"
+  "repisa",
+  "cama",
+  "cargador",
+  "celular",
+  "pared",
+  "compacta"
  ],
  "license": "CC BY 4",
  "release_date": "2025-05-30",
@@ -24,19 +34,7 @@
    "size": 634424,
    "sha256": "0540aa73c6f1858ee3c93922aa4eeb3113a409e71d7bd43892c62037b4d59431",
    "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.03.54",
-    "profile_title": "0.2mm layer, 3 walls, 15% infill",
-    "profile_notes": "Layer height: 0.20mm (Standard) Wall loops: 3 Top layers: 5 Bottom layers: 3 Infill density: 15% Infill pattern: Gyroid Top/Bottom pattern: Monotonic Internal solid infill: Monotonic Support: Enabled (Tree, auto) with 30° overhang threshold Printed on: Bambu Lab A1 with textured PEI plate Filament: PLA Matte (slot 4) Filament usage: ~138g / 43.5m Cost estimate: €3.45 Designed in Shapr3D",
-    "creation_date": "2025-05-30",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f3c0b9fb51902/design/2025-05-30_4debcd6b35637.png?x-oss-process=image/resize,w_1000",

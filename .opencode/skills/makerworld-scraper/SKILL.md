@@ -10,12 +10,12 @@ El Studio lee `api/` por raw.githubusercontent: lo que se empuja a `main` queda 
 
 ## 1. Arrancar Chrome (segundo plano, nunca Brave)
 ```bash
-scripts/chrome.sh start     # headless, puerto 9333, copia del perfil "Profile 4" en ~/.printgo-scraper/chrome
+scripts/chrome.sh start     # ventana visible (MW_HEADLESS=1 = sin ventana), puerto 9333, copia del perfil "Profile 4" en ~/.printgo-scraper/chrome
 scripts/chrome.sh status
 scripts/chrome.sh resync    # si la sesión caducó: el dueño se loguea en su Chrome normal y se vuelve a copiar
 scripts/chrome.sh stop      # al terminar
 ```
-Si Cloudflare bloquea headless: `scripts/chrome.sh stop && MW_HEADFUL=1 scripts/chrome.sh start` (ventana fuera de pantalla).
+Captcha (418 "not a robot"): el scraper notifica, abre la pestaña del modelo y reintenta cada 15 s hasta 30 min (`MW_CAPTCHA_WAIT_MIN`); el dueño lo resuelve en la ventana. La cuota diaria real sí para limpio.
 
 ## 2. Lanzar el scraper
 ```bash
@@ -48,4 +48,4 @@ Saneo global del texto ya publicado: `npm run sanitize`.
   (`scripts/lib/text_es.mjs`: Google gtx + glosario); si queda inglés el campo no se publica.
 - No repetir: dedupe por modelId + instanceId; lo ya bajado nunca se vuelve a pedir.
 - Modelos gratis valen aunque la licencia no sea libre; los de pago se saltan.
-- Nada de clics en UI ni `orca computer`: todo por APIs internas desde la pestaña headless.
+- Nada de clics en UI ni `orca computer`: todo por APIs internas desde la pestaña del Chrome del scraper.

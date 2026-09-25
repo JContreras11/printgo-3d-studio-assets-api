@@ -5,13 +5,13 @@ API estática en GitHub. Fuente: modelos gratuitos de MakerWorld; cada modelo co
 
 ## Cómo usar el scraper
 
-Scraper de MakerWorld rápido y configurable: Chrome **headless en segundo plano** (copia del perfil logueado,
+Scraper de MakerWorld rápido y configurable: Chrome **visible** (el dueño resuelve el captcha en la ventana) (copia del perfil logueado,
 no toca Brave ni el Chrome del dueño) controlado por CDP con `WebSocket` nativo de Node 22. No hace clics:
 lee las APIs internas de MakerWorld (`design-service/design/<id>`, `search-service/select/design2`,
 `design-service/instance/<id>/f3mf`) desde la pestaña y baja los archivos firmados con `fetch` en paralelo.
 
 ```bash
-scripts/chrome.sh start                     # Chrome headless :9333 (resync si la sesión caduca)
+scripts/chrome.sh start                     # Chrome visible :9333 (MW_HEADLESS=1 = segundo plano) (resync si la sesión caduca)
 node scripts/mw.mjs "https://makerworld.com/en/search/models?keyword=gta+6"   # toda la búsqueda
 node scripts/mw.mjs "https://makerworld.com/en/models/951493-..."             # un modelo
 node scripts/mw.mjs "gta 6" --only-new      # tópico: variantes del término, filtra relevancia y clasifica
@@ -19,11 +19,11 @@ node scripts/mw.mjs "lego" --category lego --label "Lego y bloques"           # 
 node scripts/mw.mjs "gta 6" --dry-run       # solo lista y clasifica
 node scripts/mw.mjs --refresh-variants [ids...]   # completa perfiles que faltan en modelos existentes
 node scripts/mw.mjs --resume                # sigue la cola (tras cuota/captcha)
-scripts/chrome.sh captcha                   # ventana visible para resolver el captcha de MakerWorld
+scripts/chrome.sh captcha                   # alias de start
 ```
 
 Opciones: `--limit N`, `--concurrency N` (3), `--batch N` (publica cada N modelos, 25), `--no-push`,
-`MW_DL_GAP=ms` (pausa entre descargas, 3000), `MW_HEADFUL=1` (ventana fuera de pantalla si Cloudflare bloquea).
+`MW_DL_GAP=ms` (pausa entre descargas, 3000), `MW_HEADLESS=1` (sin ventana), `MW_CAPTCHA_WAIT_MIN` (espera máx. al captcha, 30). Ante captcha el scraper avisa (notificación + consola), trae al frente la pestaña del modelo y reintenta cada 15 s.
 
 - **Todas las variantes**: cada perfil de impresión (`instances[]`) es un `files[]` con `instance_id`, `name`
   (español), `thumbnail`, `print_time_h`, `plates`, `rating`, `rating_count`, `by_designer`, `printers`, `default`.
@@ -51,7 +51,7 @@ library-assets/
   queue.json                                cola del scraper (pending/done/failed/skipped)
   categories_es.json                        etiquetas ES de categorías nuevas (opcional)
   scripts/
-    chrome.sh            Chrome headless con perfil copiado (start|stop|status|resync|captcha)
+    chrome.sh            Chrome visible con perfil copiado (start|stop|status|resync|captcha)
     mw.mjs               CLI del scraper
     build_api.mjs        api/ + image_sizes + meta 3MF + label_es
     validate.js          hashes, imágenes, api == manifest, texto saneado en español

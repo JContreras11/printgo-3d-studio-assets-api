@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Super scraper MakerWorld: Chrome headless (scripts/chrome.sh) + APIs internas, sin clics.
+// Super scraper MakerWorld: Chrome visible (scripts/chrome.sh) + APIs internas, sin clics.
 // Uso: node scripts/mw.mjs <url-búsqueda|url-modelo|"tópico"> [--category slug --label "Etiqueta"]
 //        [--limit N] [--dry-run] [--concurrency N] [--only-new] [--refresh-variants] [--no-push]
 //      node scripts/mw.mjs --refresh-variants [ids...]     re-audita perfiles de modelos existentes
@@ -55,7 +55,7 @@ async function session() {
   await page.goto("https://makerworld.com/en");
   for (let i = 0; i < 20 && /moment/i.test(await page.eval("document.title")); i++) await sleep(1000);
   const title = await page.eval("document.title");
-  if (/moment/i.test(title)) throw new Error("Cloudflare bloquea Chrome headless. Prueba: MW_HEADFUL=1 scripts/chrome.sh stop && MW_HEADFUL=1 scripts/chrome.sh start");
+  if (/moment/i.test(title)) throw new Error("Cloudflare bloquea Chrome. Resuelve la verificación en la ventana o prueba: scripts/chrome.sh stop && scripts/chrome.sh start (sin MW_HEADLESS)");
   return page;
 }
 async function api(url) {
@@ -136,16 +136,41 @@ let quotaHit = null;
 const DL_GAP = +(process.env.MW_DL_GAP ?? 3000);
 let dlTurn = Promise.resolve();
 const dlSlot = () => (dlTurn = dlTurn.then(() => sleep(DL_GAP)));
+// Captcha: el dueño lo resuelve en la ventana visible; aquí solo se avisa y se reintenta.
+const CAPTCHA_WAIT = +(process.env.MW_CAPTCHA_WAIT_MIN ?? 30) * 60000;
+const CAPTCHA_RETRY = 15000;
+let captchaTab = null, captchaSince = 0; // compartido: un solo aviso aunque haya varios workers
+async function captchaPrompt(modelId) {
+  if (captchaSince) return;
+  captchaSince = Date.now();
+  log(`>>> CAPTCHA de MakerWorld: resuélvelo en la ventana de Chrome (modelo ${modelId}, pulsa "Download 3MF"). Reintento cada ${CAPTCHA_RETRY / 1000} s, máx. ${CAPTCHA_WAIT / 60000} min.`);
+  spawnSync("osascript", ["-e", 'display notification "Resuelve el captcha en Chrome" with title "PrintGo scraper" sound name "Glass"']);
+  try {
+    captchaTab ??= await browser.newPage();
+    captchaTab.send("Page.navigate", { url: `https://makerworld.com/en/models/${modelId}` }).catch(() => {});
+    await captchaTab.send("Page.bringToFront");
+  } catch (e) { log(`no pude abrir la pestaña del captcha: ${e.message}`); }
+}
 // Pide la URL firmada del 3MF de un perfil (misma API que el botón "Download 3MF").
-async function signed3mf(instanceId) {
-  await dlSlot();
-  const r = await api(`/api/v1/design-service/instance/${instanceId}/f3mf?type=download`);
-  if (r.json?.url) return r.json;
-  const msg = `${r.status} ${r.body.slice(0, 300)}`;
-  if (r.status === 401) throw new QuotaError(`sesión caducada (${msg}); ejecuta scripts/chrome.sh resync`);
-  if (r.status === 418 || /not a robot|captcha/i.test(r.body)) throw new QuotaError(`captcha de MakerWorld (${msg.slice(0, 80)}); resuélvelo con scripts/chrome.sh captcha`);
-  if (r.status === 429 || /limit|quota|exceed|too many|verif/i.test(r.body)) throw new QuotaError(msg);
-  return { error: msg };
+async function signed3mf(instanceId, modelId) {
+  for (;;) {
+    await dlSlot();
+    const r = await api(`/api/v1/design-service/instance/${instanceId}/f3mf?type=download`);
+    if (r.json?.url) {
+      if (captchaSince) { log("captcha resuelto, sigo con la cola"); captchaSince = 0; }
+      return r.json;
+    }
+    const msg = `${r.status} ${r.body.slice(0, 300)}`;
+    if (r.status === 401) throw new QuotaError(`sesión caducada (${msg}); ejecuta scripts/chrome.sh resync`);
+    if (r.status === 418 || /not a robot|captcha/i.test(r.body)) {
+      await captchaPrompt(modelId);
+      if (Date.now() - captchaSince > CAPTCHA_WAIT) throw new QuotaError(`captcha sin resolver tras ${CAPTCHA_WAIT / 60000} min (${msg.slice(0, 80)})`);
+      await sleep(CAPTCHA_RETRY);
+      continue;
+    }
+    if (r.status === 429 || /limit|quota|exceed|too many|verif/i.test(r.body)) throw new QuotaError(msg);
+    return { error: msg };
+  }
 }
 
 async function processModel(item, lib) {
@@ -211,7 +236,7 @@ async function processModel(item, lib) {
     }
     let signed = null;
     if (!file) {
-      try { signed = await signed3mf(p.instance_id); } catch (e) { if (e instanceof QuotaError) { quota = e; break; } throw e; }
+      try { signed = await signed3mf(p.instance_id, item.id); } catch (e) { if (e instanceof QuotaError) { quota = e; break; } throw e; }
       if (signed.error) { errors.push(`${p.instance_id}: ${signed.error}`); continue; }
       const base = signed.name.replace(/\.3mf$/i, "");
       file = m.files.find((f) => !f.instance_id && path.basename(f.path).replace(/\.3mf(\.xz)?$/i, "") === base);

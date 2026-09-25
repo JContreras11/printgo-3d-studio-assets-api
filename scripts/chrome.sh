@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Chrome headless con copia del perfil logueado de MakerWorld (no toca el Chrome/Brave del dueño).
+# Chrome VISIBLE con copia del perfil logueado de MakerWorld (no toca el Chrome/Brave del dueño).
 # Uso: scripts/chrome.sh start|stop|status|resync|captcha [url]
 set -euo pipefail
 SRC="$HOME/Library/Application Support/Google/Chrome"
@@ -8,10 +8,10 @@ DIR="$HOME/.printgo-scraper/chrome"
 PORT="${MW_CDP_PORT:-9333}"
 BIN="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 PIDF="$HOME/.printgo-scraper/chrome.pid"
-# ponytail: headless por defecto; MW_HEADFUL=1 usa ventana fuera de pantalla si Cloudflare bloquea headless.
+# Visible por defecto (el dueño ve el navegador y resuelve el captcha); MW_HEADLESS=1 para segundo plano.
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
-MODE=(--headless=new)
-[ "${MW_HEADFUL:-0}" = 1 ] && MODE=(--window-position=-2400,0 --window-size=1280,900)
+MODE=(--window-position=80,40 --window-size=1280,900)
+[ "${MW_HEADLESS:-0}" = 1 ] && MODE=(--headless=new)
 
 running() { curl -s -m 2 "http://127.0.0.1:$PORT/json/version" >/dev/null; }
 
@@ -35,19 +35,17 @@ start() {
 }
 
 stop() {
-  [ -f "$PIDF" ] && kill "$(cat "$PIDF")" 2>/dev/null && echo "Chrome detenido" || echo "no había Chrome del scraper"
+  local pid; pid="$(cat "$PIDF" 2>/dev/null || true)"
+  if [ -n "$pid" ] && kill "$pid" 2>/dev/null; then
+    # espera a que suelte puerto y perfil: stop; start seguidos no deben chocar
+    for _ in $(seq 40); do kill -0 "$pid" 2>/dev/null || break; sleep 0.25; done
+    echo "Chrome detenido"
+  else echo "no había Chrome del scraper"; fi
   rm -f "$PIDF"
 }
 
-# Ventana VISIBLE con el perfil del scraper para que el dueño resuelva el captcha de MakerWorld
-# (pulsa "Download 3MF" en el modelo y completa la verificación). Luego: stop && start.
-captcha() {
-  stop >/dev/null 2>&1 || true
-  "$BIN" --remote-debugging-port="$PORT" --user-data-dir="$DIR" --profile-directory="$PROFILE" --no-first-run \
-    "${2:-https://makerworld.com/en/models/951493}" >/dev/null 2>&1 &
-  echo $! > "$PIDF"
-  echo "Resuelve el captcha en la ventana abierta (botón Download 3MF). Después: $0 stop && $0 start"
-}
+# ponytail: alias histórico; start ya abre ventana visible.
+captcha() { start; }
 
 status() { running && curl -s "http://127.0.0.1:$PORT/json/version" | grep -E 'Browser|webSocket' || echo "detenido"; }
 

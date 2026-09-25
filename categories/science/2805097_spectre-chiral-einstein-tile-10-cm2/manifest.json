@@ -15,7 +15,7 @@
  "tags": [
   "spectre",
   "einstein",
-  "tesela",
+  "tesla",
   "matemáticas",
   "aperiódico"
  ],
@@ -30,23 +30,45 @@
  ],
  "files": [
   {
-   "path": "model/Spectre_-_Chiral_Einstein_Tile.3mf",
-   "size": 1069343,
-   "sha256": "0a70ded487e6ad4a912d251bee20d1ff96a35ba33e7022079106a4340e1a768c",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Spectre_-_Chiral_Einstein_Tile.3mf.xz",
    "size": 885784,
    "sha256": "d3a729430d6f84a040a66a6a57a7b7e8638de86dbb8c63340302534e3a93dd99",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5c8931f64c0106/design/0ddcfa8e352c0349.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1920,
+   1440
+  ],
+  "previews/02.png": [
+   1654,
+   1438
+  ],
+  "previews/03.png": [
+   1564,
+   1044
+  ],
+  "previews/04.png": [
+   2124,
+   1593
+  ]
  }
 }

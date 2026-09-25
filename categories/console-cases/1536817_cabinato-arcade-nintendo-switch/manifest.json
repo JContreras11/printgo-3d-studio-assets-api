@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1536817-cabinato-arcade-nintendo-switch",
  "author": "user_2682398714",
  "category": "console-cases",
- "source_category": "Toys & Games > Other Toys & Games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
  "description": "Un arcade de sobremesa para la Nintendo Switch al estilo de las máquinas recreativas: carcasa, controles y montaje con pasadores, con perfil preparado incluso para A1 mini (piezas grandes divididas en dos mitades con pines de unión).",
  "use_cases": [
   "Montar tu mini máquina arcade casera",
@@ -33,23 +33,57 @@
  ],
  "files": [
   {
-   "path": "model/Cabinato_switch (1).3mf",
-   "size": 2021223,
-   "sha256": "e47b884ce117dba89352e9fcae299482a53acdbdfb487b8f7d700244d83d3798",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Cabinato_switch (1).3mf.xz",
    "size": 1931412,
    "sha256": "292643edf7fc10fa6d152e43f3e5f190abfa810619e190f1157bba98697eb934",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2025-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf3ed1ea53cf2f1/design/52208307860b3bca.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1022,
+   767
+  ],
+  "previews/02.png": [
+   876,
+   923
+  ],
+  "previews/06.jpg": [
+   1200,
+   1600
+  ],
+  "previews/07.jpg": [
+   1200,
+   1600
+  ],
+  "previews/08.jpg": [
+   1200,
+   1600
+  ],
+  "previews/09.jpg": [
+   1200,
+   1600
+  ],
+  "previews/10.jpg": [
+   1200,
+   1600
+  ]
  }
 }

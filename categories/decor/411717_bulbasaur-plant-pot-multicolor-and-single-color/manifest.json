@@ -41,26 +41,162 @@
    "size": 3460168,
    "sha256": "a4157a17f1b912be602f5055367b3eb2129ec3e227261adf848dc5621ef3127c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Multicolor - Full Size",
+    "profile_notes": "¡De tamaño completo y completamente coloreado! Características: Altura de capa de 0,2 mm Sin soportes Relleno del 15%",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P002",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 129316,
+      "weight_g": 720.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080C0"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   },
   {
    "path": "model/Bulbasaur_Flower_Pot_-_Mono_Mini.3mf.xz",
    "size": 3431028,
    "sha256": "86093713eec483f3525a27d76bcf6df1f297205d6e97c77568c58aaef53bc7e8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.08.04.51",
+    "profile_title": "Un solo color: escalado al 99% para Mini",
+    "profile_notes": "¡Un solo color y tamaño al 99% para el A1 mini! Características: Altura de capa de 0,2 mm Sin soportes Relleno del 15%",
+    "creation_date": "2024-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 33541,
+      "weight_g": 333.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   },
   {
    "path": "model/Bulbasaur_Flower_Pot_-_Mono_X1.3mf.xz",
    "size": 3392736,
    "sha256": "b2690281d34ced23a952f0409429c11c41b0dfae3886841331c7c6c2f7df6d3c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Un solo color - Tamaño completo",
+    "profile_notes": "¡De tamaño completo y de un solo color! Características: Altura de capa de 0,2 mm Sin soportes Relleno del 15%",
+    "creation_date": "2025-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P002",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32336,
+      "weight_g": 345.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US614ea0e744e72f/design/2025-09-07_b7198a2efbdc5.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- }
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   900
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ],
+  "previews/04.jpg": [
+   1200,
+   900
+  ],
+  "previews/05.jpg": [
+   1200,
+   900
+  ],
+  "previews/06.jpg": [
+   1200,
+   1040
+  ],
+  "previews/07.jpg": [
+   1200,
+   900
+  ],
+  "previews/08.jpg": [
+   1200,
+   900
+  ],
+  "previews/09.jpg": [
+   1200,
+   900
+  ],
+  "previews/10.jpg": [
+   1200,
+   900
+  ]
+ },
+ "variant_hint": "Multicolor y monocromo · para X1 y A1 mini"
 }

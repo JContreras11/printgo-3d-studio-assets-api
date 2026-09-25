@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Legal 3D-library acquisition pipeline for PrintGo (crawl, fetch, organize, validate).",
+  "description": "Biblioteca 3D de PrintGo: scraper MakerWorld (Chrome headless + CDP), API estática y validación.",
   "scripts": {
     "test": "node --test tests/",
     "validate": "node scripts/validate.js",
-    "list": "node scripts/list.js",
-    "crawl": "node scripts/crawl.js"
+    "build": "node scripts/build_api.mjs",
+    "mw": "node scripts/mw.mjs",
+    "sanitize": "node scripts/sanitize_all.mjs"
   },
   "engines": {
     "node": ">=22"

@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2369821-all-parametric-mobile-phone-case-petg-pla-tpu-abs",
  "author": "Manufact3D_HH",
  "category": "phone-cases",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Framework OpenSCAD que da control total sobre cada milímetro y eje: compatible con PETG, PLA, TPU, ASA y ABS. Diseñado para quienes quieren una funda perfecta para cualquier teléfono o montar su propio negocio de fundas.",
  "use_cases": [
   "Funda a medida para marcas sin catálogo",
@@ -33,23 +33,54 @@
  ],
  "files": [
   {
-   "path": "model/PETG_PLA_Ultra_CASE.3mf",
-   "size": 1124402,
-   "sha256": "00a6e455f9f87ed8e43682c33e4a5e844ecbb74909fcde915c1422610ba26381",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/PETG_PLA_Ultra_CASE.3mf.xz",
    "size": 1050796,
    "sha256": "22feb80c336d7b31deac27ae3646d9f6a9c3319c96a8bf0c165cf385afee8ea1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "¡Personaliza todo, todo!",
+    "profile_notes": "Cada material se puede imprimir, cada dimensión se puede cambiar. La funda del teléfono crece contigo",
+    "creation_date": "2026-02-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4577947750ed04/design/f74f3101905a94f4.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   960,
+   720
+  ],
+  "previews/02.png": [
+   960,
+   941
+  ],
+  "previews/03.png": [
+   1297,
+   615
+  ],
+  "previews/04.png": [
+   928,
+   980
+  ],
+  "previews/05.png": [
+   1088,
+   805
+  ],
+  "previews/06.jpg": [
+   1080,
+   2400
+  ]
  }
 }

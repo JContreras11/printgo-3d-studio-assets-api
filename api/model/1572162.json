@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1572162-switch-key-for-angle-grinder",
  "author": "Crissy98.",
  "category": "repair",
- "source_category": "3D Printer > 3D Printer Parts",
+ "source_category": "Impresora 3D > Piezas de impresora 3D",
  "description": "Inserto para amoladora angular con el interruptor de encendido roto: encaja en el hueco cuadrado (7,5 mm × 7,2 mm, base circular de 15 mm) y permite usar la herramienta sin comprar otra. Imprime con 4 perímetros y 25% infill.",
  "use_cases": [
   "Rescatar una amoladora con la llave rota",
@@ -29,23 +29,41 @@
  ],
  "files": [
   {
-   "path": "model/Switch_key.3mf",
-   "size": 614201,
-   "sha256": "5e8fcac35d06829d13562f26f63f7f3d14317f9fd5663e3d9ab34e04542e971e",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Switch_key.3mf.xz",
    "size": 487148,
    "sha256": "685e9959f4f7c5568c78703974fa20e86302bbed515f9d7e0246a24df56855c7",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Capa de 0,16 mm, 3 paredes, 25 % de relleno",
+    "creation_date": "2025-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US70b5021b5bd0e6/design/2025-07-03_29db0b412a5d3.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   512,
+   384
+  ],
+  "previews/02.jpg": [
+   3024,
+   4032
+  ],
+  "previews/04.jpg": [
+   3024,
+   4032
+  ]
  }
 }

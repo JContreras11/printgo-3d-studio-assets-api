@@ -6,15 +6,15 @@
  "author": "ARE_ngineering",
  "category": "bedroom",
  "source_category": "Cuarto > Iluminación",
- "description": "La BARLAST es barata y demasiado simple. Este rediseño impreso la convierte en una lámpara con carácter, combinando la pieza impresa con una vara de madera. Es el tipo de hack de Ikea que la gente pregunta dónde lo compraste.",
+ "description": "La BARLAST es barata y demasiado simple. Este rediseño impreso la convierte en una lámpara con carácter, combinando la pieza impresa con una vara de madera. Es el tipo de hack de IKEA que la gente pregunta dónde lo compraste.",
  "use_cases": [
-  "Convertir una lámpara Ikea barata en pieza de diseño",
+  "Convertir una lámpara IKEA barata en pieza de diseño",
   "Decoración de cuarto o sala con mezcla madera + impresión 3D",
   "Proyecto de fin de semana con resultado visible"
  ],
  "tags": [
   "ikea",
-  "barlast",
+  "lastre",
   "lámpara",
   "hack",
   "madera",
@@ -38,12 +38,53 @@
    "size": 2264296,
    "sha256": "4a2dc3a56d477c81209c119f90f9b92fcb455f7f5d9ee5ba71739beead50bf2c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2026-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US96631226f00c6e/design/8dba375eeb7c28d2.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   900
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ],
+  "previews/04.jpg": [
+   1200,
+   900
+  ],
+  "previews/05.jpg": [
+   1200,
+   900
+  ],
+  "previews/06.jpg": [
+   1200,
+   900
+  ],
+  "previews/07.jpg": [
+   1200,
+   900
+  ]
  }
 }

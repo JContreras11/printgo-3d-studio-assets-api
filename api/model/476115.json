@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/476115-lazy-susan-turntable-100mm",
  "author": "robotcrazy",
  "category": "kitchen",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Lazy Susan de 100 mm de diámetro con pines cónicos: gira libremente y da muchas vueltas con facilidad. Perfecta para especias en la cocina o piezas en el taller.",
  "use_cases": [
   "Especias de cocina accesibles de un giro",
@@ -28,23 +28,57 @@
  ],
  "files": [
   {
-   "path": "model/Lazy_Susan_Turntable_100mm_-_1_plate-2.3mf",
-   "size": 1569269,
-   "sha256": "aba3c8c2c54a23664b8b32def21f684138bf7301920564882f9506d89443c649",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Lazy_Susan_Turntable_100mm_-_1_plate-2.3mf.xz",
    "size": 1288072,
    "sha256": "c96bb39e2d31aea6dbdf7916e93f3bd6057c5d7650118f9150f452fda5ea0e69",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "1 placa de capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Todas las piezas en un solo plato.",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6132,
+      "weight_g": 53.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe3da41a5dfef2/design/2024-05-26_477372420a7da.gif?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/02.jpg": [
+   1920,
+   1440
+  ],
+  "previews/03.jpg": [
+   1920,
+   1440
+  ],
+  "previews/04.jpg": [
+   1920,
+   1440
+  ]
  }
 }

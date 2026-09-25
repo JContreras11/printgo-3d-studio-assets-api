@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2211567-nintendo-game-cube-case-1-1",
  "author": "jobil",
  "category": "console-cases",
- "source_category": "Toys & Games > Other Toys & Games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
  "description": "Carcasa a escala 1:1 del Nintendo GameCube para reemplazar la tapa (elige el color que quieras) o repararla. Consigue una tapa con rejilla fija o una pieza separada en otro color.",
  "use_cases": [
   "Recolorear tu GameCube por completo",
@@ -38,23 +38,81 @@
  ],
  "files": [
   {
-   "path": "model/GameCube_Gehäuse_(fein_0,2).3mf",
-   "size": 5368704,
-   "sha256": "73d95b718cdc128bc1fa7f5af33ab0da89a413cab632e685354cad8255f7a2c3",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/GameCube_Gehäuse_(fein_0,2).3mf.xz",
    "size": 5209148,
    "sha256": "3836581ea2373c05614445760ea364b677d02c29ebd94a88078361a99d136306",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Calidad (altura de capa de 0,10 mm - boquilla de 0,2 mm)",
+    "creation_date": "2026-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb40a1942bd62ae/design/2026-01-11_bcea2162dcfb58.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1440,
+   1080
+  ],
+  "previews/02.jpg": [
+   4000,
+   2252
+  ],
+  "previews/03.jpg": [
+   4000,
+   2252
+  ],
+  "previews/04.jpg": [
+   4000,
+   2252
+  ],
+  "previews/05.jpg": [
+   4000,
+   2252
+  ],
+  "previews/06.jpg": [
+   4000,
+   2252
+  ],
+  "previews/07.jpg": [
+   4000,
+   2252
+  ],
+  "previews/08.jpg": [
+   4000,
+   2252
+  ],
+  "previews/09.jpg": [
+   4000,
+   2252
+  ],
+  "previews/10.jpg": [
+   4000,
+   2252
+  ],
+  "previews/11.jpg": [
+   4000,
+   2252
+  ],
+  "previews/12.jpg": [
+   4000,
+   2252
+  ],
+  "previews/13.jpg": [
+   4000,
+   2252
+  ]
  }
 }

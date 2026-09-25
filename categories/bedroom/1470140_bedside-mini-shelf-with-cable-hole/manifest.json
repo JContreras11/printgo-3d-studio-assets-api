@@ -34,12 +34,38 @@
    "size": 634424,
    "sha256": "0540aa73c6f1858ee3c93922aa4eeb3113a409e71d7bd43892c62037b4d59431",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 15% de relleno",
+    "profile_notes": "Altura de capa: 0,20 mm (estándar) Bucles de pared: 3 Capas superiores: 5 Capas inferiores: 3 Densidad de relleno: 15% Patrón de relleno: Giroide Patrón superior/inferior: Monótono Relleno sólido interno: Monótono Soporte: Habilitado (árbol, automático) con umbral de voladizo de 30° Impreso en: Bambu Lab A1 con placa PEI texturizada Filamento: PLA mate (ranura 4) Uso del filamento: ~138g / 43,5m Coste estimado: 3,45€ Diseñado en Shapr3D",
+    "creation_date": "2025-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f3c0b9fb51902/design/2025-05-30_4debcd6b35637.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1200,
+   899
+  ],
+  "previews/02.jpg": [
+   1200,
+   851
+  ],
+  "previews/03.jpg": [
+   1200,
+   968
+  ]
  }
 }

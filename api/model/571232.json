@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/571232-voronoi-cover-iphone-13-pro",
  "author": "Orochi_Nik",
  "category": "phone-cases",
- "source_category": "Art > Other Art Models",
+ "source_category": "Arte > Otros modelos de arte",
  "description": "Funda de diseño voronoi para iPhone 13 Pro con patrón orgánico y flexible: se imprime en TPU para que se adapte bien al teléfono.",
  "use_cases": [
   "Look orgánico tipo voronoi que destaca",
@@ -30,23 +30,78 @@
  ],
  "files": [
   {
-   "path": "model/Voronoi_Iphone_13_Pro.3mf",
-   "size": 4293254,
-   "sha256": "750d5bbeb0d2e3e2c324ea0073130ef3a16ba5ab9ab2395efa029d2fa37145c0",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Voronoi_Iphone_13_Pro.3mf.xz",
    "size": 4128528,
    "sha256": "861f0df7e273759a5a4d88f5beb1ca1caa9b005cf0cceb95c74373d4bf3e269b",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4958,
+      "weight_g": 13.54,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 625,
+      "weight_g": 0.83,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd2d8b26af31a7b/design/2024-08-03_a0ab1fd187432.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   765,
+   1136
+  ],
+  "previews/02.jpg": [
+   925,
+   1233
+  ],
+  "previews/03.png": [
+   548,
+   704
+  ],
+  "previews/04.png": [
+   1099,
+   691
+  ],
+  "previews/05.png": [
+   1092,
+   702
+  ]
  }
 }

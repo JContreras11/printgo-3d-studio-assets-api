@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2914878-hettich-hinge-repair-part",
  "author": "moifort",
  "category": "repair",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Repuesto directo para la pieza rota de la bisagra Hettich Clip 5 de armarios: alternativa de bajo coste a cambiar la bisagra entera, estilo IKEA.",
  "use_cases": [
   "Arreglar la bisagra de armario rota",
@@ -30,23 +30,46 @@
  ],
  "files": [
   {
-   "path": "model/hinge-repair-hettich.3mf",
-   "size": 1607418,
-   "sha256": "18b9569061ada70f13ad3b09de3937c4d132cdba8ee79551074af82aca792ffc",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/hinge-repair-hettich.3mf.xz",
    "size": 1606376,
    "sha256": "bf097cba13ae9613546258a1803964b02c522bccfc338cf94389694dd464e1c4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 12% de relleno",
+    "profile_notes": "Resumen Llevo mucho tiempo buscando una placa de reparación de bisagras para nuestro armario IKEA PAX. La bisagra inferior de MDF se soltó de los dos tornillos que normalmente sujetan la bisagra en su lugar y, si era posible, quería evitar comprar una puerta de reemplazo. Muchos modelos se acercaron, pero este encajaba perfectamente debido a su capacidad para adaptarse a la superficie de la bisagra de cierre suave “KOMPLEMENT” de IKEA que tenemos en el armario PAX. Lo imprimí usando 3 paredes y un 20% de relleno en PLA y ¡funcionó muy bien! Diseñado por @JohnWayne_287636 como placas de bisagras genéricas de reemplazo de muebles para gabinetes. De su descripción: La bisagra del cuerpo requiere ampliar el orificio a 10 mm. Bisagra de puerta de 8mm. La distancia entre tornillos en la placa de la puerta es de 45 mm y el desplazamiento con respecto al eje de la caja es de 9 mm. La distancia entre tornillos en la placa del cuerpo es de 32 mm. El espesor de las baldosas es de 2,5 mm. Se adapta a la bisagra GTV. Para usar con tornillos de bisagra originales. Utilice tornillos de 3x16 mm para fijar la placa. Imprime 100% de relleno.",
+    "creation_date": "2026-06-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US78f09883a18ae7/design/daeb3196e15c4b11.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   4032,
+   3024
+  ],
+  "previews/03.jpg": [
+   4032,
+   3024
+  ],
+  "previews/04.jpg": [
+   4032,
+   3024
+  ]
  }
 }

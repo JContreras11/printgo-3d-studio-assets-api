@@ -14,7 +14,7 @@
  ],
  "tags": [
   "3ds xl",
-  "pokebola",
+  "meter la bola",
   "pokemon",
   "carcasa"
  ],
@@ -34,23 +34,66 @@
  ],
  "files": [
   {
-   "path": "model/3DS_Pokeball.3mf",
-   "size": 5118627,
-   "sha256": "e42d056af0f0d39365ad4e441320bf31c0a6c65f8f8ae794055fbd454b6ada57",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/3DS_Pokeball.3mf.xz",
    "size": 4022892,
    "sha256": "3a24ab71101c341a964f5703d646d43dd4fd88f7c449278764ec0600523ccab1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,18 mm, 3 paredes, 5% de relleno",
+    "profile_notes": "Hice todo lo posible para optimizar el perfil para imprimir en todas las gamas de impresoras. Reducir la altura de la capa mejorará la calidad alrededor de las curvas si su impresora es capaz. Este perfil específico no cabe en un A1 mini debido a la torre principal, pero puedes mover la mitad de la caja a una placa nueva sin problemas. La placa 2 es opcional. Si lo deseas, te permite pegarlo a la pieza superior para una apariencia más realista.",
+    "creation_date": "2026-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.18",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5e09dccc1cf105/design/948243b78ea7743c.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1440,
+   1080
+  ],
+  "previews/02.jpg": [
+   2016,
+   1512
+  ],
+  "previews/03.jpg": [
+   1876,
+   1408
+  ],
+  "previews/04.jpg": [
+   1830,
+   1372
+  ],
+  "previews/05.jpg": [
+   2016,
+   1512
+  ],
+  "previews/06.jpg": [
+   1500,
+   2000
+  ],
+  "previews/07.png": [
+   2754,
+   2066
+  ],
+  "previews/08.png": [
+   2715,
+   2036
+  ],
+  "previews/09.png": [
+   2724,
+   2043
+  ]
  }
 }

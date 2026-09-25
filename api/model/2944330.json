@@ -34,23 +34,65 @@
  ],
  "files": [
   {
-   "path": "model/Box_Switch_2_sans_vis_-_Pikachu.3mf",
-   "size": 5071297,
-   "sha256": "7dbca5f55cff44732d9cb7905d5f709dfdb33c82fb315809ed6a8e9fad535d71",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Box_Switch_2_sans_vis_-_Pikachu.3mf.xz",
    "size": 5043464,
    "sha256": "e89fe07a16065b89fddceab898403710379fd0189eeb2febe5d70cca8b73d5a9",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Pikachu",
+    "creation_date": "2026-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd9745fde958114/design/b90fc95d8c8911be.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   3000,
+   4000
+  ],
+  "previews/03.jpg": [
+   4000,
+   3000
+  ],
+  "previews/04.jpg": [
+   3964,
+   2974
+  ],
+  "previews/05.jpg": [
+   3930,
+   2948
+  ],
+  "previews/06.jpg": [
+   3928,
+   2946
+  ],
+  "previews/07.jpg": [
+   4000,
+   3000
+  ],
+  "previews/08.jpg": [
+   4000,
+   3000
+  ],
+  "previews/09.jpg": [
+   4000,
+   3000
+  ]
  }
 }

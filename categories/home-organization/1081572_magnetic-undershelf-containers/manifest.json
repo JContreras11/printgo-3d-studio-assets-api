@@ -32,23 +32,107 @@
  ],
  "files": [
   {
-   "path": "model/Magnetic_Under_Shelf_Containers_-Black (1).3mf",
-   "size": 81811492,
-   "sha256": "01c0d2542c580456aaa050ac43ba487a74a50a52ac9d7fd494df7830fceb1f4b",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Magnetic_Under_Shelf_Containers_-Black (1).3mf.xz",
    "size": 80456900,
    "sha256": "fe6d0c89226a044d9aa713b51d6300d230d0dd8ab26a1126727fafc66cb77aa6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,16 mm, 2 paredes, 5 % de relleno",
+    "creation_date": "2025-02-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3760,
+      "weight_g": 21.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3076,
+      "weight_g": 17.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 31748,
+      "weight_g": 179.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 33640,
+      "weight_g": 199.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdd5a7df0408ca1/design/2025-02-06_412a984ca61a8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   810
+  ],
+  "previews/02.jpg": [
+   1080,
+   1440
+  ],
+  "previews/03.jpg": [
+   1080,
+   1440
+  ],
+  "previews/04.jpg": [
+   1080,
+   1440
+  ],
+  "previews/05.jpg": [
+   1080,
+   1440
+  ],
+  "previews/06.jpg": [
+   1080,
+   1440
+  ]
  }
 }

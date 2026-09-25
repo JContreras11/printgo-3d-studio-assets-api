@@ -36,12 +36,45 @@
    "size": 1185832,
    "sha256": "ec22d1134f9aae6da6b7d2745966fa5ed3bcaa774e690e0b79c18985d90d89b3",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2026-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US93205fb809848c/design/e27e90f985c96145.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1200,
+   900
+  ],
+  "previews/02.png": [
+   1200,
+   900
+  ],
+  "previews/03.png": [
+   1200,
+   1200
+  ],
+  "previews/04.png": [
+   1200,
+   1200
+  ],
+  "previews/05.png": [
+   1200,
+   1200
+  ]
  }
 }

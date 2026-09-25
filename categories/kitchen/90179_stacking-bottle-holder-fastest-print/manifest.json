@@ -29,23 +29,61 @@
  ],
  "files": [
   {
-   "path": "model/Stacking_bottleholder_2in1.3mf",
-   "size": 742996,
-   "sha256": "4342eb2365eba163ef9f6bd0eb8b6b3bdf0123b69c399755b3f3f51d544832d2",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Stacking_bottleholder_2in1.3mf.xz",
    "size": 741272,
    "sha256": "e75ca0e7acef7f58193030d6700ac34af0352b2ca68ade5a2fca303233ca3167",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.02.55",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 25% de relleno",
+    "profile_notes": "2 soportes en 1 plato. más fácil de imprimir",
+    "creation_date": "2024-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16108,
+      "weight_g": 116.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US64b0c829ad3fc4/design/2023-12-11_965cb5ab4625e.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1197,
+   898
+  ],
+  "previews/02.jpg": [
+   512,
+   384
+  ],
+  "previews/03.jpg": [
+   512,
+   384
+  ],
+  "previews/04.jpg": [
+   1197,
+   898
+  ]
  }
 }

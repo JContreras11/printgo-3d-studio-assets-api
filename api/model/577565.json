@@ -33,23 +33,77 @@
  ],
  "files": [
   {
-   "path": "model/Playstation_Crystal.3mf",
-   "size": 2188472,
-   "sha256": "37a4aba53d431df6f6216333f766b6b18a67959e041a5a6846d17e6b7927cb53",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Playstation_Crystal.3mf.xz",
    "size": 2180568,
    "sha256": "f8711c296fc1785c25103f7adf0645bc581b5307c4fb5b1f8026b7d7acf3c11e",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+    "profile_notes": "Primera capa ralentizada para una mejor adherencia. Como puedes ver, también se adapta al controlador Xbox.",
+    "creation_date": "2024-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6687,
+      "weight_g": 59.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2f46eae84aed38/design/2024-08-10_670347b3d96ca.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   981,
+   736
+  ],
+  "previews/02.png": [
+   1024,
+   768
+  ],
+  "previews/03.png": [
+   1024,
+   768
+  ],
+  "previews/04.png": [
+   1024,
+   768
+  ],
+  "previews/05.png": [
+   1024,
+   768
+  ],
+  "previews/06.png": [
+   1024,
+   768
+  ],
+  "previews/07.png": [
+   1024,
+   768
+  ],
+  "previews/08.png": [
+   1024,
+   768
+  ]
  }
 }

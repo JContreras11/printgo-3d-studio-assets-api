@@ -27,23 +27,37 @@
  ],
  "files": [
   {
-   "path": "model/PS5_Horizontal_Stand_v8.3mf",
-   "size": 4164015,
-   "sha256": "92e6ef0c8fc912d8aa8ec8bc1416c7c96bbc59d904c9838c2854dd8254559fa9",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/PS5_Horizontal_Stand_v8.3mf.xz",
    "size": 4106224,
    "sha256": "41651ca752960cab183c9545cb1e69a06b86ac9bee7ffa638b913e61fa37b3f7",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1c1fe20547e44f/design/2023-11-29_6ix8ep4oz024.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   4032,
+   3024
+  ],
+  "previews/02.jpg": [
+   4032,
+   3024
+  ],
+  "previews/03.jpg": [
+   4032,
+   3024
+  ]
  }
 }

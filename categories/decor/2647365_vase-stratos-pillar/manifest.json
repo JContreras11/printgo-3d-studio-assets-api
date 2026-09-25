@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2647365-vase-stratos-pillar",
  "author": "MaxMans96",
  "category": "decor",
- "source_category": "Generative 3D Model > Make My Vase",
+ "source_category": "Modelo generativo 3D > Hacer mi jarrón",
  "description": "Jarrón retorcido para darle un empujón a tu interior: dimensiones S (160x125 mm), M (200x156 mm) y L (240x185 mm). Si quieres que aguante agua, imprímelo en PETG con 4-5 paredes.",
  "use_cases": [
   "Decoración de mesa o estantería de impacto",
@@ -28,23 +28,41 @@
  ],
  "files": [
   {
-   "path": "model/Stratos_Pillar_L.3mf",
-   "size": 3585943,
-   "sha256": "e6bcfa858dc541f40da92f7d1a2ad759514a0a732453eb1492dbf1cc5b233571",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Stratos_Pillar_L.3mf.xz",
    "size": 2923048,
    "sha256": "e88942bd16c8a2bc773f98903820a1e62484053f08dba06d6b9d84fc0dfe323c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,2 mm, 1 paredes, 0% de relleno (240 mm de altura)",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1b641a17bed823/design/9cd360bb6619bee2.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   896,
+   672
+  ],
+  "previews/02.png": [
+   703,
+   1068
+  ],
+  "previews/03.png": [
+   2298,
+   1856
+  ]
  }
 }

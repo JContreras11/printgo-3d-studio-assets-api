@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1602138-park-tool-pcs-9-3-thumbscrew-replacement",
  "author": "raketqueen1911",
  "category": "repair",
- "source_category": "Hobby & DIY > Sport & Outdoors",
+ "source_category": "Hobby y bricolaje > Deporte y aire libre",
  "description": "Mariposa de repuesto para el soporte de reparación de bicis Park Tool PCS 9.3: la original pierde rosca con el uso. Necesitas un tornillo M6 de 35 mm y tuerca de brida. Impreso en PETG-HF.",
  "use_cases": [
   "Arreglar el cierre de patas del PCS-9.3",
@@ -33,23 +33,58 @@
  ],
  "files": [
   {
-   "path": "model/Parktool_6mm_BoltLocker-Filler_PCS-9.3_PrintProfile.3mf",
-   "size": 1006555,
-   "sha256": "51e23458474b9768c86c927ac0e82205e20308e5822407615cd9db9b8a94c936",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Parktool_6mm_BoltLocker-Filler_PCS-9.3_PrintProfile.3mf.xz",
    "size": 937472,
    "sha256": "f8ddcba0564139cd4d1aa495c248e857e9afded5cde9f4609f532dcc088af6fb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Relleno de agujeros: capa de 0,16 mm, 2 paredes, 20 % de relleno",
+    "creation_date": "2025-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "20%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US24e473c9b27c74/design/2025-07-13_a32703a94a4da8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   810
+  ],
+  "previews/02.jpg": [
+   1536,
+   2048
+  ],
+  "previews/03.jpg": [
+   1536,
+   2048
+  ],
+  "previews/04.jpg": [
+   1536,
+   2048
+  ],
+  "previews/05.jpg": [
+   1536,
+   2048
+  ],
+  "previews/06.jpg": [
+   1536,
+   2048
+  ],
+  "previews/07.jpg": [
+   1152,
+   2048
+  ]
  }
 }

@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2001441-trigger-replacement-insert-for-spray-bottles",
  "author": "adiadi",
  "category": "repair",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Inserto que sustituye el gatillo roto o incómodo de pulverizadores estándar (tipo Windex): encaja en la cavidad del disparador y recupera el accionamiento con pocas piezas. Escala en Bambu Studio (2%) para otras marcas.",
  "use_cases": [
   "Arreglar el pulverizador que no dispara",
@@ -30,23 +30,45 @@
  ],
  "files": [
   {
-   "path": "model/Windex_Trigger_Replacement_file.3mf",
-   "size": 259141,
-   "sha256": "5d7d26e1558f1f896f34d3f3f105ae38fe7228b233e1df5849f2480a41de8e9d",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Windex_Trigger_Replacement_file.3mf.xz",
    "size": 236032,
    "sha256": "24466e007322cfb621a64f8da5e9a528436ba801963cd44d7860a145733371a8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Capa de 0,2 mm, 4 paredes, 15% de relleno",
+    "creation_date": "2025-11-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe88f8653e929ba/design/2025-11-15_41aa6ad74ccae.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   435,
+   326
+  ],
+  "previews/02.png": [
+   435,
+   590
+  ],
+  "previews/03.png": [
+   432,
+   583
+  ],
+  "previews/04.png": [
+   438,
+   590
+  ]
  }
 }

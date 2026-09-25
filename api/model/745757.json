@@ -32,23 +32,73 @@
  ],
  "files": [
   {
-   "path": "model/Parkside__PHPA_20-Li.3mf",
-   "size": 4976158,
-   "sha256": "e54abfad1c8a0df780adaa7488d1d8761143c45d12a53176d42d910fbb12cf09",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Parkside__PHPA_20-Li.3mf.xz",
    "size": 3469052,
    "sha256": "e319d5b85d37a10e6a2ef41fa43268955d3883b99d4f818cc1096ef7f3498ce1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Capa de 0,2 mm, 999 paredes, 15 % de relleno",
+    "profile_notes": "Impresión sin soportes Material: ASA Perímetros: 999",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 699,
+      "weight_g": 1.63,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88e6f7503c2856/design/2024-10-31_2779c851e2dfe.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1440,
+   1080
+  ],
+  "previews/02.jpg": [
+   1920,
+   1080
+  ],
+  "previews/03.jpg": [
+   1920,
+   1080
+  ],
+  "previews/04.jpg": [
+   1920,
+   1080
+  ],
+  "previews/05.jpg": [
+   1920,
+   1080
+  ],
+  "previews/06.jpg": [
+   1920,
+   1080
+  ],
+  "previews/07.jpg": [
+   1920,
+   1080
+  ]
  }
 }

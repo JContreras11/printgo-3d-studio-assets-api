@@ -38,26 +38,133 @@
    "size": 1257712,
    "sha256": "28da6ae3b85f4b0d29eaa117077b7c054ed9e8255c58a756c9c7af3d48354098",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Placa frontal Boquilla de 0,4 mm, capa de 0,2 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "Simplemente agrega un par de gotas de superpegamento y listo.",
+    "creation_date": "2026-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.3",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/egg_dispenser_v2.3mf.xz",
    "size": 1580644,
    "sha256": "0e087b99d58f4271e4a8dde49764ed7f974b8ca80a90efd55e5b039a4115c0ff",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Ahorre filamento, capas de 0,24 mm, paredes exteriores y superficie más lentas",
+    "profile_notes": "Diseñado para brindar eficiencia, este perfil prioriza tiempos de impresión ligeramente más rápidos sin comprometer la integridad estructural o la consistencia estética. Ofrece piezas confiables y funcionales al mismo tiempo que mantiene el aspecto característico de las líneas de capas visibles de alta calidad. Capa de 0,24 mm, 2 paredes, 10 % de relleno giroide, patrón de superficie de líneas monótonas cambiado para mejorar la eficiencia. Reduzca la velocidad de las paredes exteriores y la superficie superior para lograr un acabado más limpio.",
+    "creation_date": "2026-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   },
   {
    "path": "model/鸡蛋架v1.3mf.xz",
    "size": 1530528,
    "sha256": "ec8a7552fdc8e5b66ac548896f763b367ec72d3f5727dedd7c85f35dbb5d750e",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Altura del suelo de 0,2 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "Sin soporte",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2775,
+      "weight_g": 21.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11127,
+      "weight_g": 141.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11149,
+      "weight_g": 141.97,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US793c2b7f8381d2/design/e1f165c5-712a-455a-b7ab-dbce69cd9bca.webp?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.webp": [
+   1152,
+   864
+  ],
+  "previews/02.webp": [
+   1920,
+   864
+  ],
+  "previews/03.png": [
+   1200,
+   756
+  ],
+  "previews/04.png": [
+   1200,
+   763
+  ],
+  "previews/05.png": [
+   1200,
+   761
+  ],
+  "previews/06.png": [
+   1200,
+   634
+  ],
+  "previews/07.png": [
+   1200,
+   715
+  ]
  }
 }

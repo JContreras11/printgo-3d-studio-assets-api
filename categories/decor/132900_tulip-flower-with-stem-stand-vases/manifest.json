@@ -39,23 +39,109 @@
  ],
  "files": [
   {
-   "path": "model/heart_vase2_project.3mf",
-   "size": 3659292,
-   "sha256": "e904bd5b7827e19b0b573d17dde69cfedea19e91636ef031c2bcceabc4ce54ed",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/heart_vase2_project.3mf.xz",
    "size": 3530900,
    "sha256": "84bee580686999c72e66abcd2e0c2b219c21cbe2e32f816d3f451d15969140d1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15 % de relleno - jarrón con patrón de corazón grande",
+    "creation_date": "2025-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6384,
+      "weight_g": 46.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3369,
+      "weight_g": 11.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa818fd59b02b/design/2025-02-10_5a8d8bec7fbdc.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1918,
+   1439
+  ],
+  "previews/02.jpg": [
+   1920,
+   1410
+  ],
+  "previews/03.jpg": [
+   1920,
+   1440
+  ],
+  "previews/04.jpg": [
+   1080,
+   1440
+  ],
+  "previews/05.jpg": [
+   1080,
+   1440
+  ],
+  "previews/06.jpg": [
+   1920,
+   1440
+  ],
+  "previews/07.jpg": [
+   1920,
+   1440
+  ],
+  "previews/08.jpg": [
+   1920,
+   1440
+  ],
+  "previews/09.jpg": [
+   1920,
+   1440
+  ],
+  "previews/10.jpg": [
+   1920,
+   1440
+  ],
+  "previews/11.jpg": [
+   1920,
+   1440
+  ],
+  "previews/12.jpg": [
+   1920,
+   1440
+  ],
+  "previews/13.jpg": [
+   1920,
+   1440
+  ]
  }
 }

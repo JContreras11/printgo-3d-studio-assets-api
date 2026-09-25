@@ -29,23 +29,42 @@
  ],
  "files": [
   {
-   "path": "model/ultraSlimiPhoneCase_V1-2.3mf",
-   "size": 2306812,
-   "sha256": "91c6c593f88a4dcfa35ec020cf5c9985887a63402ba719f30624eef51716c4e3",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/ultraSlimiPhoneCase_V1-2.3mf.xz",
    "size": 2253616,
    "sha256": "640a617ecf39e64c4d42d4f61b003a55676f8526db5f5476669783f847ee22ac",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,12 mm, 3 paredes, 15 % de relleno, TPU, ajuste más ajustado",
+    "profile_notes": "Ajusté un poco el perfil para que el estuche quedara más ajustado cuando se imprimiera en TPU. Se ve bien, así que aquí tienes.",
+    "creation_date": "2026-04-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3af27c6984c94f/design/2025-05-05_25abd5be946a.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   4900,
+   3676
+  ],
+  "previews/03.jpg": [
+   4673,
+   3505
+  ]
  }
 }

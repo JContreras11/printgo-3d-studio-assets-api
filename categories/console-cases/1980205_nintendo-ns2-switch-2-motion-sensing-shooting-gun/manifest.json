@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1980205-nintendo-ns2-switch-2-motion-sensing-shooting-gun",
  "author": "windko2025",
  "category": "console-cases",
- "source_category": "Toys & Games > Other Toys & Games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
  "description": "Accesorio de puntería con sensor de movimiento compatible con los Joy-Con de Switch 2: mejora la inmersión en juegos de disparos, con agarre cómodo y respuesta ágil. Inspirado en Splatoon.",
  "use_cases": [
   "Jugar shooters de Switch 2 con puntería física",
@@ -32,23 +32,49 @@
  ],
  "files": [
   {
-   "path": "model/02.3mf",
-   "size": 810195,
-   "sha256": "abad6d8a5bb80c4f94656fefd48a4a1229d0328521fd3f1bed77a3d88845ff10",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/02.3mf.xz",
    "size": 800860,
    "sha256": "564477a17477b93e2d2a4ed6e75f138185dce0f64f17fee21e4dc6ba82081234",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Altura de capa de 0,2 mm (la textura de la superficie es más delicada)",
+    "creation_date": "2025-11-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa1e5122bf9237f/design/2025-11-10_118c6dc87548d.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   800,
+   600
+  ],
+  "previews/02.jpg": [
+   800,
+   600
+  ],
+  "previews/04.jpg": [
+   800,
+   600
+  ],
+  "previews/05.jpg": [
+   800,
+   600
+  ],
+  "previews/06.jpg": [
+   800,
+   600
+  ]
  }
 }

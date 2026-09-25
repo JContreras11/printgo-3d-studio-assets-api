@@ -6,7 +6,7 @@
  "author": "itsErik",
  "category": "home-organization",
  "source_category": "Hogar y orden > Pared",
- "description": "Se clipsa en el panel SKÅDIS de Ikea y suma dos niveles de repisa donde antes solo cabía un gancho. Duplica el almacenamiento vertical del panel sin tornillos ni accesorios extra. Imprime varios y arma el muro completo.",
+ "description": "Se clipsa en el panel SKÅDIS de IKEA y suma dos niveles de repisa donde antes solo cabía un gancho. Duplica el almacenamiento vertical del panel sin tornillos ni accesorios extra. Imprime varios y arma el muro completo.",
  "use_cases": [
   "Duplicar el almacenamiento de un panel SKÅDIS",
   "Taller, escritorio o pared de manualidades",
@@ -34,12 +34,38 @@
    "size": 956948,
    "sha256": "dc9af31aa8f793890aaedf5deed3255cb86dfb8bc5ee9f390bb20cb49c9e24f2",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Altura de capa de 0,2 mm, 2 paredes, 15 % de relleno de rejilla",
+    "profile_notes": "Altura de capa de 0,2 mm Boquilla de 0,4 mm PLA 2 paredes Soportes de árboles personalizados",
+    "creation_date": "2025-04-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USadf572453f13c3/design/2025-04-23_617d1ac78d52a8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   900
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ]
  }
 }

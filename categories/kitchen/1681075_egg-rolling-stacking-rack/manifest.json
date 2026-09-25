@@ -29,23 +29,42 @@
  ],
  "files": [
   {
-   "path": "model/鸡蛋滚动架-2.3mf",
-   "size": 1394771,
-   "sha256": "baceed1e983c5906916cd2053b8f3d44df3ea7310c33f5828afccd3b9c10b860",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/鸡蛋滚动架-2.3mf.xz",
    "size": 1325068,
    "sha256": "76067e2013542699326f46325862153b05bd50611fd2dbcc6089f87ecd203dbb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Configuración de impresión recomendada: Filamento: PLA / PETG / PC Altura de capa: 0,2 mm Relleno: 20%–30%",
+    "creation_date": "2025-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US86c558f33c4529/design/2025-08-08_2e0ff44eb3103.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   2000,
+   1500
+  ],
+  "previews/03.jpg": [
+   2000,
+   1500
+  ]
  }
 }

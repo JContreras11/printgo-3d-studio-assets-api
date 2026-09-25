@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1864755-steam-deck-keyboard-case",
  "author": "glaucon1984",
  "category": "console-cases",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Estuche tipo cyberdeck que convierte la Steam Deck en una mini estación con teclado Keychron K3 embutido: imprimible en A1 sin partir piezas, sin salientes cerca de las muñecas y acceso a la batería del teclado sin destornillar nada.",
  "use_cases": [
   "Teclear y jugar dictados en la Steam Deck",
@@ -15,7 +15,7 @@
  "tags": [
   "steam deck",
   "teclado",
-  "cyberdeck",
+  "cibercubierta",
   "estuche",
   "keychron"
  ],
@@ -34,23 +34,62 @@
  ],
  "files": [
   {
-   "path": "model/Deck_Case_v3.3mf",
-   "size": 4566871,
-   "sha256": "4ec7dd77d78825dab4422801307dcd4e9060b0f43977c5c894cefb72f3274f64",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Deck_Case_v3.3mf.xz",
    "size": 4266168,
    "sha256": "4709d70e061471720d53a59d6a3c3f1e861ea6d29de2ea4faa3eb8674581ce62",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Estuche de cubierta",
+    "profile_notes": "Sólo lo he probado con un Bambu Lab A1. Para la serie X1/P1, es posible que deba reorientar la pieza, ya que creo que una parte de la placa de construcción se usa para medir el flujo.",
+    "creation_date": "2025-10-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa0fd8e79643096/design/2025-10-07_f50cae22510ba8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   4000,
+   3000
+  ],
+  "previews/03.jpg": [
+   4000,
+   3000
+  ],
+  "previews/04.jpg": [
+   4000,
+   3000
+  ],
+  "previews/05.jpg": [
+   4000,
+   3000
+  ],
+  "previews/06.jpg": [
+   4000,
+   3000
+  ],
+  "previews/07.jpg": [
+   4000,
+   3000
+  ],
+  "previews/08.jpg": [
+   4000,
+   3000
+  ]
  }
 }

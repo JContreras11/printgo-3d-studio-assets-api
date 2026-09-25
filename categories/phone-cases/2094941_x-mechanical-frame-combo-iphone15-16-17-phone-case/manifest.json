@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2094941-x-mechanical-frame-combo-iphone15-16-17-phone-case",
  "author": "canmaxfire",
  "category": "phone-cases",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Funda combinada con un marco mecánico en forma de X y soporte integrado para el teléfono, compatible con iPhone 15, 16 y 17 (incluye temas Air y Pro Max). El soporte se bloquea y fija cuando no se usa para que no se afloje.",
  "use_cases": [
   "Funda + soporte integrado para ver vídeos sin manos",
@@ -36,23 +36,70 @@
  ],
  "files": [
   {
-   "path": "model/X_Mechanical_Frame_Combo_iPhone_15_Pro_Phone_Case-Basic_Accessorie-2.3mf",
-   "size": 4075038,
-   "sha256": "744f318cf2a1806f1b096d4255f66fd4281f3e2951053d715c2e15d09b4c608e",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/X_Mechanical_Frame_Combo_iPhone_15_Pro_Phone_Case-Basic_Accessorie-2.3mf.xz",
    "size": 3463624,
    "sha256": "d19c13256cb755c2c73721cb0acf2c6d9d9f20763f7b0ad38ec3ff520513e1b0",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "iPhone 15 Pro (sin expansión)",
+    "profile_notes": "Versión estándar simplificada, sin archivos de expansión. PETG Altura de capa de 0,12 mm Requiere impresión de soporte dual o materiales de soporte específicos de Bambu Colores: negro, gris oscuro, rojo (personalizable) Para mejorar la resistencia: 2 líneas de pared, 25 % de densidad de relleno",
+    "creation_date": "2025-11-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1af23c3c7e5d46/design/2025-12-09_9452c7aaae93e8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1440,
+   1080
+  ],
+  "previews/02.jpg": [
+   1980,
+   1114
+  ],
+  "previews/03.jpg": [
+   1980,
+   1114
+  ],
+  "previews/04.jpg": [
+   1980,
+   1114
+  ],
+  "previews/05.jpg": [
+   1980,
+   1114
+  ],
+  "previews/06.jpg": [
+   1980,
+   1114
+  ],
+  "previews/07.jpg": [
+   1980,
+   1114
+  ],
+  "previews/08.jpg": [
+   1980,
+   1114
+  ],
+  "previews/09.jpg": [
+   1980,
+   1114
+  ],
+  "previews/10.jpg": [
+   1980,
+   1114
+  ]
  }
 }

@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2917935-strawberry-huller-stem-remover-picciolo-fragole",
  "author": "Caporale",
  "category": "kitchen",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Gadget de cocina ergonómico que 'abraza' el tallo de la fresa con sus dientecitos y lo saca con un giro, dejando la fruta entera. Ligero, compacto y muy fácil de imprimir. Adiós al cuchillo y a desperdiciar media fresa.",
  "use_cases": [
   "Pelar fresas sin desperdiciar pulpa",
@@ -30,23 +30,45 @@
  ],
  "files": [
   {
-   "path": "model/strawberry_stem_remover_vert.3mf",
-   "size": 1069412,
-   "sha256": "5d0f6a8fe80aba420f2f1ddd27764dba7c514f2c5adde8a061901a3b4ef1c910",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/strawberry_stem_remover_vert.3mf.xz",
    "size": 977948,
    "sha256": "23b75e7f8f1c9b61595bd30a7da1c1d1f4fb480e8b6dd7164b9ab816a4d5e125",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 30% de relleno",
+    "creation_date": "2026-06-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScf8463f1cb1fc/design/716731ef5b917b78.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1130,
+   848
+  ],
+  "previews/02.png": [
+   1230,
+   848
+  ],
+  "previews/03.jpg": [
+   3000,
+   4000
+  ],
+  "previews/04.png": [
+   896,
+   1195
+  ]
  }
 }

@@ -29,23 +29,46 @@
  ],
  "files": [
   {
-   "path": "model/BEIDOUMOXING.3.3mf",
-   "size": 1030665,
-   "sha256": "26d61b83372b052d9435c72bbc2c11d56709d01838a67005a00c785cbf453847",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/BEIDOUMOXING.3.3mf.xz",
    "size": 943784,
    "sha256": "c4a376b0fc5cc58f605e13e7422d0a4ba96d2e70a1735b1f15abe98fbdba3882",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Altura del suelo de 0,28 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "Impresión con plancha dividida, adecuada para planchas de impresión de 256 mm",
+    "creation_date": "2026-04-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3dcda79936c7b1/design/2936ec32deaea5f5.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   4284,
+   5712
+  ],
+  "previews/03.jpg": [
+   5712,
+   4284
+  ],
+  "previews/04.jpg": [
+   5712,
+   4284
+  ]
  }
 }

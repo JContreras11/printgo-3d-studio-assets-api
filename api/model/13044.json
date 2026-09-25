@@ -29,23 +29,59 @@
  ],
  "files": [
   {
-   "path": "model/Rope_Bowl_-_Fuzzy_Skin.3mf",
-   "size": 8987015,
-   "sha256": "58c439730cc8d7d078f8d9f33c27a3c4813ee46c6b28a23a201ff183f6b6baff",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Rope_Bowl_-_Fuzzy_Skin.3mf.xz",
    "size": 8283220,
    "sha256": "a2fc47b2e5ce6065558840f6d4b6cd39f5b45b2f08084ff20c2b867df145288c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.07.07.81",
+    "profile_title": "Bowl - Fuzzy Skin",
+    "profile_notes": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+    "creation_date": "2023-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "prediction_ms": 26331,
+      "weight_g": 109.22,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfc7e58f6801c70/design/2023-08-10_58bb47e3724ce.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1920,
+   1439
+  ],
+  "previews/02.webp": [
+   1920,
+   1439
+  ],
+  "previews/03.webp": [
+   1920,
+   1438
+  ],
+  "previews/04.webp": [
+   320,
+   240
+  ]
  }
 }

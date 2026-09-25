@@ -33,26 +33,69 @@
    "size": 1286080,
    "sha256": "c1789165e952c5c481983cffe9a8bbc7e3c3bd38d045de7fa8455bbb0b701805",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Mariquita 1 color para pintura.",
+    "creation_date": "2026-06-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/ladybird_2_color.3mf.xz",
    "size": 1272508,
    "sha256": "cf716071b9eead34429c9d72e2a3444b8a1031165e8467e431af9faa52f7e70f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "mariquita 2 colores",
+    "creation_date": "2026-06-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   },
   {
    "path": "model/ladybird_color.3mf.xz",
    "size": 1331860,
    "sha256": "1966c34363832680b5b9c2849f387f881fb6b1946b515a1244b4ef079bccc471",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "ladybird full color",
+    "creation_date": "2026-06-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4fec75ec065be4/design/eec702c8f4287e6e.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1200,
+   900
+  ],
+  "previews/02.png": [
+   1200,
+   800
+  ]
  }
 }

@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/885852-cover-collection-hexagon-iphone-12-13-14-15-16",
  "author": "SakkezGames",
  "category": "phone-cases",
- "source_category": "Fashion > Other Fashion Models",
+ "source_category": "Moda > Otros modelos de moda",
  "description": "Colección de fundas con patrón hexagonal que cubre iPhone 12 Pro Max hasta 16 Pro. Se imprimen en TPU o PETG.",
  "use_cases": [
   "Darle un look geométrico único a tu iPhone",
@@ -27,23 +27,137 @@
  ],
  "files": [
   {
-   "path": "model/IPHONE_SERIES_12_13_14_15_16_A1.3mf",
-   "size": 5546465,
-   "sha256": "49eca02eaecfc34708a60506b46402cb7b13d54a9e9bf302959ac96bc977cba7",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/IPHONE_SERIES_12_13_14_15_16_A1.3mf.xz",
    "size": 5416224,
    "sha256": "7f93b5b4213e5a484f7d421871fb4768e00457007f5e4e867a2e70784436ebcd",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "A1: capa de 0,16 mm, 3 paredes, 15 % de relleno",
+    "profile_notes": "Capa de 0,16 mm 3 paredes 15 % de relleno Sin borde",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5405,
+      "weight_g": 20.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7156,
+      "weight_g": 33.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4881,
+      "weight_g": 19.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5448,
+      "weight_g": 23.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3877,
+      "weight_g": 14.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4759,
+      "weight_g": 20.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4159,
+      "weight_g": 14.74,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 7
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f9e1506b672cc/design/2024-12-16_b0588ac23c8d8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- }
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1860,
+   1395
+  ],
+  "previews/02.jpg": [
+   1920,
+   1342
+  ],
+  "previews/03.jpg": [
+   1920,
+   1572
+  ]
+ },
+ "variant_hint": "para A1"
 }

@@ -16,7 +16,7 @@
   "anillo",
   "sci-fi",
   "joyería",
-  "print in place"
+  "imprimir en el lugar"
  ],
  "license": "Public Domain / CC0",
  "release_date": "2025-10-19",
@@ -31,23 +31,49 @@
  ],
  "files": [
   {
-   "path": "model/面具戒指.3mf",
-   "size": 3574301,
-   "sha256": "7a42df678b24812c36b79d1dbb6ecfcd6a36b5afb5c3f0a48480e2922bcdef1f",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/面具戒指.3mf.xz",
    "size": 3514800,
    "sha256": "977ef3d3b6e6ea7a0e686a716d65fdcd73834043e47c942f5c10b29f148963b3",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.15",
+    "infill": "50%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001902048/design/2025-10-19_3cd8bdec1d9b3.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1705,
+   1279
+  ],
+  "previews/02.jpg": [
+   4096,
+   3072
+  ],
+  "previews/03.jpg": [
+   4096,
+   3072
+  ],
+  "previews/04.jpg": [
+   4096,
+   3072
+  ],
+  "previews/05.jpg": [
+   4032,
+   3024
+  ],
+  "previews/06.jpg": [
+   4032,
+   3024
+  ]
  }
 }

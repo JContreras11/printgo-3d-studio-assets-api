@@ -30,23 +30,46 @@
  ],
  "files": [
   {
-   "path": "model/Dispensador_de_huevos_para_10_huevos.3mf",
-   "size": 2209331,
-   "sha256": "3a32cf92bdb4f8deaf5d4a15797cd4c38cbbe7b0984f5c662632347db62af402",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Dispensador_de_huevos_para_10_huevos.3mf.xz",
    "size": 2197232,
    "sha256": "ec6647a981a81d81e089db08bbde5f1500069066288629ddca3b661b5db6b338",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Altura de capa 0.20mm Impresión con soportes arbol densidad de relleno 15% ampliado 7% sobre archivo original",
+    "creation_date": "2025-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US149e111c76cfd1/design/2025-05-26_9d9832ffd85ca.webp?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.webp": [
+   1280,
+   960
+  ],
+  "previews/03.webp": [
+   1024,
+   576
+  ],
+  "previews/04.webp": [
+   1243,
+   700
+  ],
+  "previews/05.webp": [
+   771,
+   771
+  ]
  }
 }

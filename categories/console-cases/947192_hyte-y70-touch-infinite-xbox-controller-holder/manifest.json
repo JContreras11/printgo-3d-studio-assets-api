@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/947192-hyte-y70-touch-infinite-xbox-controller-holder",
  "author": "rickey527",
  "category": "console-cases",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Soporte para el mando que encaja en las ranuras superiores de la caja Hyte Y70 Touch Infinite: tócalo y queda a la vista cuando no juegas. Si no aguanta por tolerancias, usa cinta de doble cara.",
  "use_cases": [
   "Dejar el mando colgado a la vista en tu caja PC",
@@ -34,23 +34,88 @@
  ],
  "files": [
   {
-   "path": "model/Controller_Stand.3mf",
-   "size": 1000565,
-   "sha256": "6d3ad8a635d0239055a9414946137e972b5d340558c7bb8a5980f0b1ce6306b7",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Controller_Stand.3mf.xz",
    "size": 977192,
    "sha256": "85ff2ee7a6ce080b300c4af21d7dda1ebf878986a62737bc6c561886f375e1ca",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0,2 mm, 2 paredes, 15 % Aproximadamente 4 horas para imprimir en dos colores",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15693,
+      "weight_g": 64.2,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#46A8F9"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa03db995b74c2a/design/2025-01-03_8f65a51bc00d6.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   809,
+   606
+  ],
+  "previews/02.png": [
+   1418,
+   1022
+  ],
+  "previews/03.jpg": [
+   1920,
+   1080
+  ],
+  "previews/04.jpg": [
+   1920,
+   1080
+  ],
+  "previews/05.jpg": [
+   788,
+   1400
+  ],
+  "previews/06.jpg": [
+   810,
+   1440
+  ],
+  "previews/07.jpg": [
+   1106,
+   1440
+  ],
+  "previews/08.jpg": [
+   810,
+   1440
+  ],
+  "previews/09.jpg": [
+   856,
+   1040
+  ],
+  "previews/10.jpg": [
+   832,
+   1137
+  ]
  }
 }

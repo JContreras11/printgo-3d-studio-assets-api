@@ -41,26 +41,103 @@
    "size": 3047356,
    "sha256": "fb68bac7a2cbf787b86e188d2ef86ce974960304257e0d2e7762686b70093fc6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Plataforma Piel difusa",
+    "profile_notes": "Recomendaciones de impresión (solo PLA) DE Alemán Altura de capa: 0,08-0,12 mm Material: PLA Relleno: 10-20% Soportes: recomendado debajo de los brazos, bastones, pergaminos y capas Orientación: ligeramente inclinado para detalles limpios en sombreros, bastones, libros y humo Velocidad: 35-50 mm/s Características especiales: Tela, humo, metal y efectos mágicos se benefician enormemente de las técnicas de pincel seco GB Inglés Altura de capa: 0,08-0,12 mm Material: Relleno de PLA: 10–20% Soportes: recomendado debajo de los brazos, bastones, pergaminos y capas Orientación: ligera inclinación para detalles limpios en el sombrero, el bastón, el libro y el humo Velocidad: 35–50 mm/s Notas: los efectos de tela, humo, metal y magia se benefician enormemente de las técnicas de pincel seco",
+    "creation_date": "2026-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Plattform_und_Vase_Fuzzy_skin.3mf.xz",
    "size": 5139856,
    "sha256": "a7e167f4b546ae294944857903941dae6144481ce662660f95827a6ce0cbf9c4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Florero y plataforma Piel difusa",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/Vase_Fuzzy_skin.3mf.xz",
    "size": 3352716,
    "sha256": "d09c36d9acec6ab90979753800520a38a1a07c482edd30b7952c59715b810632",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Vase Fuzzy skin",
+    "profile_notes": "Recomendaciones de impresión (solo PLA) DE Alemán Altura de capa: 0,08-0,12 mm Material: PLA Relleno: 10-20% Soportes: recomendado debajo de los brazos, bastones, pergaminos y capas Orientación: ligeramente inclinado para detalles limpios en sombreros, bastones, libros y humo Velocidad: 35-50 mm/s Características especiales: Tela, humo, metal y efectos mágicos se benefician enormemente de las técnicas de pincel seco GB Inglés Altura de capa: 0,08-0,12 mm Material: Relleno de PLA: 10–20% Soportes: recomendado debajo de los brazos, bastones, pergaminos y capas Orientación: ligera inclinación para detalles limpios en el sombrero, el bastón, el libro y el humo Velocidad: 35–50 mm/s Notas: los efectos de tela, humo, metal y magia se benefician enormemente de las técnicas de pincel seco",
+    "creation_date": "2026-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65dd240d6d7853/design/587f319bea01b83a.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   900,
+   1200
+  ],
+  "previews/03.jpg": [
+   900,
+   1200
+  ],
+  "previews/04.jpg": [
+   900,
+   1200
+  ],
+  "previews/05.jpg": [
+   900,
+   1200
+  ],
+  "previews/06.jpg": [
+   900,
+   1200
+  ],
+  "previews/07.jpg": [
+   900,
+   1200
+  ],
+  "previews/08.jpg": [
+   900,
+   1200
+  ],
+  "previews/09.jpg": [
+   900,
+   1200
+  ],
+  "previews/10.jpg": [
+   900,
+   1200
+  ]
  }
 }

@@ -36,12 +36,46 @@
    "size": 830076,
    "sha256": "901ec0552157e8a4c48119e880e95aef31f55cabe76ab04653bd8be0072f5b6f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+    "profile_notes": "Material: Se recomienda PETG Relleno: 15-20 % Altura de la capa: 0,2 mm No se necesitan soportes Tamaño de la base: ~210x160 mm mínimo Personalizable: Sí, edite fácilmente el texto en su cortadora o CAD",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6c06aff3bbe86/design/2025-04-06_5fe4651f6cce9.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   899
+  ],
+  "previews/02.jpg": [
+   901,
+   1200
+  ],
+  "previews/03.jpg": [
+   901,
+   1200
+  ],
+  "previews/04.jpg": [
+   901,
+   1200
+  ],
+  "previews/05.jpg": [
+   554,
+   1200
+  ]
  }
 }

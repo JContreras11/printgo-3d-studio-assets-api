@@ -26,23 +26,34 @@
  ],
  "files": [
   {
-   "path": "model/碱基互补模型.3mf",
-   "size": 879813,
-   "sha256": "8b077a635f78340b2d4fdd92aa835c3486f701dbd39a56174e2f394c29edc5a6",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/碱基互补模型.3mf.xz",
    "size": 810908,
    "sha256": "841dde0fa369b9c8a1afa8300dc0db5673ee50b3eacac3850a2b1e0de7aa25eb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Altura del suelo de 0,2 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "número de color es opcional.",
+    "creation_date": "2026-05-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002752296/design/bea6f6ed434acb18.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1608,
+   1206
+  ]
  }
 }

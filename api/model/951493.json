@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/951493-iphone-16-pro-max-skeleton-case",
  "author": "layers_lab",
  "category": "phone-cases",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Funda estilo esqueleto para el iPhone 16 Pro Max: deja ver el diseño del móvil y a la vez protege marcos y esquinas.",
  "use_cases": [
   "Mostrar el diseño del móvil mientras lo proteges",
@@ -30,23 +30,53 @@
  ],
  "files": [
   {
-   "path": "model/iPhone_14_Pro_Max.3mf",
-   "size": 2805152,
-   "sha256": "530b38abb4b25a6761851880ff695a7cd096cd626477508b5ea36b94f26ecaee",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/iPhone_14_Pro_Max.3mf.xz",
    "size": 2757796,
    "sha256": "b3bb1c2a34b992213cdfe92db3b8dc0ac0d9c26784009568fa0296327c091359",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "iPhone 14 Pro Max",
+    "creation_date": "2025-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2eb484034e6727/design/2025-01-13_77d8ca39d9c078.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   660,
+   495
+  ],
+  "previews/02.jpg": [
+   660,
+   880
+  ],
+  "previews/03.webp": [
+   1920,
+   2560
+  ],
+  "previews/04.webp": [
+   300,
+   400
+  ],
+  "previews/05.webp": [
+   1920,
+   2560
+  ],
+  "previews/06.webp": [
+   1080,
+   1440
+  ]
  }
 }

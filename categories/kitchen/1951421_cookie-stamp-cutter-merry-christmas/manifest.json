@@ -29,23 +29,42 @@
  ],
  "files": [
   {
-   "path": "model/stempel_keksstecher2.3mf",
-   "size": 1671470,
-   "sha256": "d2b7a8357a0cef4c21794c1bef4f73ac76cebdd1209bf045c9be1e52ef0bc657",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/stempel_keksstecher2.3mf.xz",
    "size": 1634752,
    "sha256": "e26eb0d2dd3fe9dbb4d6e6f54d08d311bfa1e8d861fbe541625df846a2562612",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "tamaño mínimo para tener todos los detalles_ambas partes",
+    "profile_notes": "todos los detalles",
+    "creation_date": "2025-11-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001951421/design/2025-11-02_732eec4bba7288.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1600,
+   1200
+  ],
+  "previews/02.jpg": [
+   1200,
+   1600
+  ],
+  "previews/03.jpg": [
+   1600,
+   1200
+  ]
  }
 }

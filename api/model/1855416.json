@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1855416-stepped-spice-rack-compact-kitchen-organizer",
  "author": "kobe81",
  "category": "home-organization",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Pieza modular de organización para sumar a tu sistema.",
  "use_cases": [
   "Ampliar tu sistema de organización modular",
@@ -30,12 +30,38 @@
    "size": 963124,
    "sha256": "c63391b91e861febe7dbe162129ea02aeaeaec66ff417f3e1e989f31fac4cccf",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Capa de 0,28 mm, 2 paredes, 7% de relleno",
+    "profile_notes": "Alto de capa: 0,28 mm Soportes: sin borde: 5 mm Relleno: 7% Patrón de relleno: cuadrícula",
+    "creation_date": "2025-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7a722bd860f34f/design/2025-10-08_b483ed9d5dc548.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.png": [
+   1200,
+   929
+  ],
+  "previews/04.jpg": [
+   900,
+   1200
+  ]
  }
 }

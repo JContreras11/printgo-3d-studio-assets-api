@@ -36,12 +36,46 @@
    "size": 1055128,
    "sha256": "eb3616e379c84a23367fd754e2d25d4c61ca6d4008f85f24bb40f482a013bba5",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Para marcos de cama de 27 mm",
+    "profile_notes": "Si no desea utilizar la herramienta paramétrica y solo desea un archivo rápido, precortado y listo para imprimir de inmediato, este perfil está configurado con las dimensiones estándar que se enumeran a continuación. Dimensiones preconfiguradas para este perfil: Ancho del riel del marco de la cama: 27 mm Profundidad del clip del marco de la cama: 46 mm Separación de la ranura para tableta: 90 mm",
+    "creation_date": "2026-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3b71150b36a00c/design/c3d273d9280e8cfc.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   900
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ],
+  "previews/04.jpg": [
+   1200,
+   900
+  ],
+  "previews/05.jpg": [
+   1200,
+   900
+  ]
  }
 }

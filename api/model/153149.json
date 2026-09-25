@@ -32,23 +32,73 @@
  ],
  "files": [
   {
-   "path": "model/1_plate_AMS.3mf",
-   "size": 4974341,
-   "sha256": "c5fb420392adb69bca19454ca792123d62c1ef21486e954b1bf1baad6c69e1d3",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/1_plate_AMS.3mf.xz",
    "size": 4154828,
    "sha256": "94304d50459fcd7702df9ed740b44bbd0c273aaed7810873e831caa20544b240",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "1 plato con AMS. por favor deja comentarios.",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11861,
+      "weight_g": 46.55,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0ACC38"
+       },
+       {
+        "type": "TPU",
+        "color": "#1D1C1E"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4e9a6cd0006f95/design/2024-01-23_zv1w36bg24nm.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   2586,
+   1944
+  ],
+  "previews/02.png": [
+   2442,
+   1950
+  ],
+  "previews/03.png": [
+   2732,
+   2048
+  ],
+  "previews/04.png": [
+   2732,
+   2048
+  ],
+  "previews/05.png": [
+   2732,
+   2048
+  ],
+  "previews/06.png": [
+   2312,
+   1948
+  ]
  }
 }

@@ -39,12 +39,86 @@
    "size": 966080,
    "sha256": "c9df1d5bac2857f0e976a2bff258cb0a0ffba9bd0d191263f10528a146656e49",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,28 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "no vayas demasiado rápido",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25114,
+      "weight_g": 475.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10630,
+      "weight_g": 172.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa11839963fc421/design/2025-02-18_6d8007df4399c.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   900,
+   1200
+  ],
+  "previews/03.jpg": [
+   900,
+   1200
+  ],
+  "previews/04.jpg": [
+   900,
+   1200
+  ],
+  "previews/05.jpg": [
+   900,
+   1200
+  ],
+  "previews/06.jpg": [
+   900,
+   1200
+  ],
+  "previews/07.jpg": [
+   900,
+   1200
+  ],
+  "previews/08.jpg": [
+   900,
+   1200
+  ]
  }
 }

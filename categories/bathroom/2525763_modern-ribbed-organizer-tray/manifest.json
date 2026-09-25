@@ -34,12 +34,38 @@
    "size": 1012332,
    "sha256": "28d248381ac08aa1f27708a29cf9b3e59703be40325cdd6f6a71d7fe966d082a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 40% de relleno",
+    "profile_notes": "Boquilla: 0,4 mm Altura de capa: 0,20 mm Relleno: 40% Tipo de relleno: Gyroid Capas superiores: 5 Soportes: No se requieren soportes",
+    "creation_date": "2026-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "40%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdd24ec3c086bd7/design/c44cee8ef29c7177.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   675,
+   1200
+  ],
+  "previews/03.jpg": [
+   1200,
+   675
+  ]
  }
 }

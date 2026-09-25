@@ -35,19 +35,60 @@
    "size": 9138616,
    "sha256": "d1e91a7308564b05eda907b4ccc4a50d1ad6b6b285742962e903fd2513d0ddc8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Rollo de 42mm y 39mm de diámetro.",
+    "creation_date": "2025-04-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   },
   {
    "path": "model/shaun_the_sheep_32_mm_version.3mf.xz",
    "size": 7258600,
    "sha256": "08b190091276d8f1959e1e800e0c472b58bb5eade27c387c08f7c6ba1723b0cb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Hice el tubo un poco más pequeño, de 32 mm, porque el original es demasiado grande para el papel higiénico que uso.",
+    "creation_date": "2025-11-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3f1a97c8ee5b52/design/2025-03-07_32c9aafd33cae8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   900,
+   1200
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ],
+  "previews/04.jpg": [
+   1200,
+   900
+  ]
  }
 }

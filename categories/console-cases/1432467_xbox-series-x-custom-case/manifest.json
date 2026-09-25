@@ -35,23 +35,65 @@
  ],
  "files": [
   {
-   "path": "model/Xbox_Case_V2.3mf",
-   "size": 2584996,
-   "sha256": "88c936c8b7ada84666e64cef73be30b9bd9ea884a85a480c7468521e3fe1853a",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Xbox_Case_V2.3mf.xz",
    "size": 2497684,
    "sha256": "0fca1e8b678c42c079dbf5241c14a96aad7994f6d964f518649d587fac93f820",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-05-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8a0ff8832fddce/design/2025-05-17_cf22a14a5d1218.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1716,
+   1287
+  ],
+  "previews/02.jpg": [
+   3024,
+   4032
+  ],
+  "previews/03.jpg": [
+   3380,
+   2968
+  ],
+  "previews/04.jpg": [
+   3387,
+   2960
+  ],
+  "previews/05.jpg": [
+   3386,
+   2960
+  ],
+  "previews/06.jpg": [
+   3387,
+   2962
+  ],
+  "previews/07.jpg": [
+   3422,
+   2968
+  ],
+  "previews/08.jpg": [
+   3407,
+   2964
+  ],
+  "previews/09.jpg": [
+   3392,
+   2964
+  ]
  }
 }

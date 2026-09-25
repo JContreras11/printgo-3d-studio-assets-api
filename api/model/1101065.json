@@ -33,23 +33,94 @@
  ],
  "files": [
   {
-   "path": "model/14系列手机壳 (1).3mf",
-   "size": 6119969,
-   "sha256": "a6dd4b288be1c7a67211adf0ad94d37055ed021e49660bb328329c65520256e5",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/14系列手机壳 (1).3mf.xz",
    "size": 5875016,
    "sha256": "d6391ccc540679537ae45f8006adeb843e72e01140a047f53946fe736e0364c4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Serie iPhone14 0,2 mm de altura del piso, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-03-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8567,
+      "weight_g": 32.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7725,
+      "weight_g": 31.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9063,
+      "weight_g": 33.36,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb0bb46f3d2e46d/design/140881b7-0041-4f0d-b242-321d41d33da5.gif?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/02.webp": [
+   810,
+   1440
+  ],
+  "previews/03.webp": [
+   810,
+   1440
+  ],
+  "previews/04.webp": [
+   810,
+   1440
+  ],
+  "previews/05.webp": [
+   810,
+   1440
+  ],
+  "previews/06.webp": [
+   810,
+   1440
+  ],
+  "previews/07.webp": [
+   810,
+   1440
+  ]
  }
 }

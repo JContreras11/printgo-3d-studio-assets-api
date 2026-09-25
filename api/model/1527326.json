@@ -38,23 +38,74 @@
  ],
  "files": [
   {
-   "path": "model/16pro_PLA-2.3mf",
-   "size": 2838997,
-   "sha256": "f56c0b715db8dc092c82b0d12ba7c400812aa8e76d47e0f3cc72c08f6f4deb13",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/16pro_PLA-2.3mf.xz",
    "size": 2836912,
    "sha256": "5aa5cd9bee674a35a227a6f728db7c81da05523f53c8ddfa77823beedf2fb5a0",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "16 pro-PLA/PETG",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf76a4fdc6d0750/design/2025-08-02_12e5a0ad641ae8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1919,
+   1439
+  ],
+  "previews/02.jpg": [
+   3024,
+   4032
+  ],
+  "previews/03.jpg": [
+   2269,
+   4032
+  ],
+  "previews/04.jpg": [
+   3024,
+   4032
+  ],
+  "previews/05.jpg": [
+   3024,
+   4032
+  ],
+  "previews/06.jpg": [
+   3024,
+   4032
+  ],
+  "previews/07.jpg": [
+   3024,
+   4032
+  ],
+  "previews/08.jpg": [
+   2268,
+   1701
+  ],
+  "previews/09.jpg": [
+   3024,
+   4032
+  ],
+  "previews/10.jpg": [
+   3024,
+   4032
+  ],
+  "previews/11.jpg": [
+   3024,
+   4032
+  ]
  }
 }

@@ -34,23 +34,62 @@
  ],
  "files": [
   {
-   "path": "model/Steam_Deck_Hard_Case_Clipon_Travel_Cover.3mf",
-   "size": 3323629,
-   "sha256": "1562aa548a89c4830e0638d795fc8c7dde984783fa1c79931c7a21536e5e200d",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Steam_Deck_Hard_Case_Clipon_Travel_Cover.3mf.xz",
    "size": 3087024,
    "sha256": "2c6c986495467cab987d90c6468b5555583ea1b4b2f26253ec3001b54b205033",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "PETG, 2 paredes, 15% de relleno",
+    "profile_notes": "Posición de la costura en la parte posterior para una apariencia más limpia. Patrón concéntrico de la superficie superior para un mejor acabado en la parte superior de los protectores del pulgar.",
+    "creation_date": "2025-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb0c1aea3765a29/design/e6b58cf5656e12c3.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1440,
+   1080
+  ],
+  "previews/02.png": [
+   1920,
+   1080
+  ],
+  "previews/03.png": [
+   1920,
+   1080
+  ],
+  "previews/04.png": [
+   1920,
+   1080
+  ],
+  "previews/05.png": [
+   2711,
+   1525
+  ],
+  "previews/06.png": [
+   1920,
+   1080
+  ],
+  "previews/07.png": [
+   1920,
+   1080
+  ],
+  "previews/08.png": [
+   2703,
+   1521
+  ]
  }
 }

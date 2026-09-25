@@ -26,23 +26,65 @@
  ],
  "files": [
   {
-   "path": "model/deck_shield_2parts_bambu.3mf",
-   "size": 6890056,
-   "sha256": "eabb8ae44721902b9c4975b8fe91ed75f3955d256c335d996da185be0d9e2efa",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/deck_shield_2parts_bambu.3mf.xz",
    "size": 6749292,
    "sha256": "684ae7d4c206997b4dfce274c63687f77bd816fbcd29519f60fecf3e3e564739",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9091,
+      "weight_g": 41.12,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9306,
+      "weight_g": 42.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa668ee3190b40a/design/2025-01-12_fbaa6ae5974b9.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1919,
+   1076
+  ],
+  "previews/02.jpg": [
+   1920,
+   1073
+  ]
  }
 }

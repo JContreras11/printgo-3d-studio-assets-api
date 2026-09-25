@@ -33,23 +33,57 @@
  ],
  "files": [
   {
-   "path": "model/S25_CASE.3mf",
-   "size": 8102446,
-   "sha256": "1dd3f9506ce99a68abdde99be16d888b88a8ccf1dd7e5665a194427bd08f8c56",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/S25_CASE.3mf.xz",
    "size": 8092284,
    "sha256": "1db8b73b216d80d69f1330d4cba70b455b5cd21efa01da93a8e4b5aa2b1a3ec4",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Funda Galaxy S25",
+    "creation_date": "2025-12-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f2b7824a1ec67/design/2025-07-14_95497577d56c48.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   4080,
+   3072
+  ],
+  "previews/03.jpg": [
+   2400,
+   1800
+  ],
+  "previews/04.jpg": [
+   2500,
+   2500
+  ],
+  "previews/05.jpg": [
+   4080,
+   3072
+  ],
+  "previews/06.jpg": [
+   4080,
+   3072
+  ],
+  "previews/07.jpg": [
+   4080,
+   3072
+  ]
  }
 }

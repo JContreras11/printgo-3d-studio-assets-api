@@ -40,26 +40,101 @@
    "size": 2264432,
    "sha256": "3c566080a7a437fbce5ebb9ba10706c25e44699df25b9181adea7fa1471c4f87",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 25% de relleno",
+    "profile_notes": "Impresión de 0,4 capas aproximadamente 32 min PETG o PLA color universal",
+    "creation_date": "2025-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 4
+   }
   },
   {
    "path": "model/mooneygo (1).3mf.xz",
    "size": 2328512,
    "sha256": "1c399653a95bd38c683af0a70e770d45dc3ac13bded601d90808cee33d577fce",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "todos los perfiles",
+    "profile_notes": "¡Pide en el coche, ahora también para MooneyGo! Descubra nuestro popular clip de soporte impreso en 3D: la solución perfecta para multas de estacionamiento, tarjetas y documentos de identidad en el parasol o el parabrisas. NUEVO: ¡Ahora existe un modelo especial, optimizado para su uso con MooneyGo, para adjuntar tickets y autorizaciones de manera aún más fácil y visible! Apto para casi todos los vehículos (p. ej. FORD, VW). ¡Descúbrelo ahora y evita el caos! Organización de automóviles, ¡ahora también para MooneyGo! Echa un vistazo a nuestro popular clip de soporte impreso en 3D: la solución perfecta para multas de estacionamiento, tarjetas y permisos en tu parasol o parabrisas. NUEVO: Disponible ahora, un modelo especial optimizado para usar con MooneyGo, ¡lo que hace aún más fácil y visible adjuntar tickets y autorizaciones! Se adapta a casi todos los vehículos (por ejemplo, FORD, VW). ¡Descúbrelo ahora y evita el caos!",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
   },
   {
    "path": "model/mooneygo.3mf.xz",
    "size": 2328512,
    "sha256": "1c399653a95bd38c683af0a70e770d45dc3ac13bded601d90808cee33d577fce",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "todos los perfiles",
+    "profile_notes": "¡Pide en el coche, ahora también para MooneyGo! Descubra nuestro popular clip de soporte impreso en 3D: la solución perfecta para multas de estacionamiento, tarjetas y documentos de identidad en el parasol o el parabrisas. NUEVO: ¡Ahora existe un modelo especial, optimizado para su uso con MooneyGo, para adjuntar tickets y autorizaciones de manera aún más fácil y visible! Apto para casi todos los vehículos (p. ej. FORD, VW). ¡Descúbrelo ahora y evita el caos! Organización de automóviles, ¡ahora también para MooneyGo! Echa un vistazo a nuestro popular clip de soporte impreso en 3D: la solución perfecta para multas de estacionamiento, tarjetas y permisos en tu parasol o parabrisas. NUEVO: Disponible ahora, un modelo especial optimizado para usar con MooneyGo, ¡lo que hace aún más fácil y visible adjuntar tickets y autorizaciones! Se adapta a casi todos los vehículos (por ejemplo, FORD, VW). ¡Descúbrelo ahora y evita el caos!",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd5869138ee9e9c/design/2025-07-14_6c5a6cb842ea1.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   899
+  ],
+  "previews/02.jpg": [
+   1200,
+   675
+  ],
+  "previews/03.jpg": [
+   853,
+   1200
+  ],
+  "previews/04.jpg": [
+   590,
+   1200
+  ],
+  "previews/05.jpg": [
+   675,
+   1200
+  ],
+  "previews/06.jpg": [
+   675,
+   1200
+  ],
+  "previews/07.png": [
+   1200,
+   560
+  ],
+  "previews/08.jpg": [
+   1169,
+   1200
+  ],
+  "previews/09.jpg": [
+   1200,
+   675
+  ]
  }
 }

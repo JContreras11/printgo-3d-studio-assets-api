@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1382497-dna-model-dna-model-for-biology-project",
  "author": "ElijahDPatrick",
  "category": "science",
- "source_category": "Education > Other Education Models",
+ "source_category": "Educación > Otros Modelos Educativos",
  "description": "Modelo de ADN para tu proyecto de ciencias: se ensambla con hilo para unir las piezas y pegamento instantáneo. Aprobado por el autor en su propio trabajo escolar.",
  "use_cases": [
   "Proyecto escolar de biología",
@@ -28,23 +28,38 @@
  ],
  "files": [
   {
-   "path": "model/DNA_Model_AMS.3mf",
-   "size": 1251566,
-   "sha256": "d2839213b2adcef1915c984e2247398908ac1f44e92dea23a807d3510717fec1",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/DNA_Model_AMS.3mf.xz",
    "size": 1250672,
    "sha256": "e014928c9f5678119ef7f6c729b264ab40e6ba83565862e90bac3402c8c5b799",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Sin versión AMS. Hecho para ser pintado y puesto sobre un alambre o varilla a modo de expositor. También se recomienda el superpegamento.",
+    "creation_date": "2025-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3735d6e3ecacf9/design/2025-05-04_5d4b384d7f45e8.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   964,
+   723
+  ],
+  "previews/02.png": [
+   986,
+   1368
+  ]
  }
 }

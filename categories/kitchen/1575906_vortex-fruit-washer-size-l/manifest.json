@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1575906-vortex-fruit-washer-size-l",
  "author": "perinski",
  "category": "kitchen",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Lavador vortex para frutas y bayas: el flujo circular del agua limpia la fruta suelta sin esfuerzo. Un clásico del bricolaje rediseñado con mejoras propias; a la vez librillo y bandeja escurridora.",
  "use_cases": [
   "Limpiar fresas y arándanos sin perder la mitad de la fruta",
@@ -35,23 +35,66 @@
  ],
  "files": [
   {
-   "path": "model/Vortex_Fruit_Washer_Cap.3mf",
-   "size": 4939430,
-   "sha256": "e0cca8bb0b26b6dcd483b0187e2bfabf8beaa0b0afe8b16b5fc80105893d187c",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Vortex_Fruit_Washer_Cap.3mf.xz",
    "size": 4837972,
    "sha256": "0315cd4acf6935e4f812ec647ae33315d49513628925195d93068440ea659926",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Tapa para el Vortex Fruit Washing S",
+    "profile_notes": "Capa de 0,16 mm, 2 paredes, 65% de relleno Tapa para el lavador de frutas Vortex Cuando diseñé estos tazones, tanto la versión grande como la pequeña, todo fue calculado para que la abertura central se llevara los desechos finos: partículas de tierra, pieles, arena. Y así es exactamente como funcionó. Pero entonces un suscriptor me envió un vídeo que mostraba un problema inesperado: las bayas claras, como los arándanos, no se hunden. Se arremolinan maravillosamente en el vórtice, pero en lugar de permanecer en el recipiente, son absorbidos directamente por el desagüe central. Perfecto, ¿verdad? Todo según lo planeado… excepto esto. Entonces creé la gorra verde. Se encaja en la parte superior del tubo de drenaje y mantiene las bayas en su lugar. Los restos finos todavía fluyen por el fondo. El exceso de agua sale por las rejillas de ventilación laterales. ¿Pero las bayas? Se quedan donde pertenecen. No se escapa ni uno solo. ¿Funciona? Ah, funciona. Y mientras los que odian resoplan como una tetera sobrecalentada (se ahogan con la bilis, amigos), todo gira, se lava y se filtra exactamente como se esperaba:). Una pequeña parte, solucionando un gran problema.",
+    "creation_date": "2025-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "65%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9c965f88b89bdc/design/2025-07-04_1798d15d2e5978.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1280,
+   960
+  ],
+  "previews/02.jpg": [
+   800,
+   450
+  ],
+  "previews/03.jpg": [
+   800,
+   450
+  ],
+  "previews/04.jpg": [
+   800,
+   450
+  ],
+  "previews/05.jpg": [
+   800,
+   450
+  ],
+  "previews/06.jpg": [
+   800,
+   450
+  ],
+  "previews/07.jpg": [
+   800,
+   450
+  ],
+  "previews/08.jpg": [
+   800,
+   450
+  ],
+  "previews/09.jpg": [
+   800,
+   450
+  ]
  }
 }

@@ -36,23 +36,73 @@
  ],
  "files": [
   {
-   "path": "model/Atomic_Radius_Periodic_Table.3mf",
-   "size": 3017521,
-   "sha256": "3141abab79d47b9f4343a7850875beda2e5c773f292aa32fbb0c44e5f35a7547",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Atomic_Radius_Periodic_Table.3mf.xz",
    "size": 2785676,
    "sha256": "d733690c97e54c2f9c8ebd436a2a90f26ca1e699efd420856d6b9f82727161bb",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-12-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2c3cce0544a252/design/2025-12-18_1718472ca605a8.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1920,
+   1440
+  ],
+  "previews/02.png": [
+   3024,
+   4032
+  ],
+  "previews/03.png": [
+   3024,
+   4032
+  ],
+  "previews/04.png": [
+   3024,
+   4032
+  ],
+  "previews/05.png": [
+   3024,
+   4032
+  ],
+  "previews/06.png": [
+   3024,
+   4032
+  ],
+  "previews/07.png": [
+   4284,
+   5712
+  ],
+  "previews/08.png": [
+   4284,
+   5712
+  ],
+  "previews/09.png": [
+   4284,
+   5712
+  ],
+  "previews/10.png": [
+   4284,
+   5712
+  ],
+  "previews/11.png": [
+   1394,
+   5712
+  ]
  }
 }

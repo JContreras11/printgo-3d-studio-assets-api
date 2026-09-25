@@ -26,23 +26,48 @@
  ],
  "files": [
   {
-   "path": "model/Hook_kitchen_underneath_0.4.3mf",
-   "size": 778382,
-   "sha256": "cb0f1ed8283f4eb876231ff64f02130c4bf4ae1aa56ab86e9b1fe9e433a05d75",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Hook_kitchen_underneath_0.4.3mf.xz",
    "size": 777616,
    "sha256": "9555e68b7404bd4acf28f9776402294a27d411754c957928da33675a0457b5b6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Boquilla de 0,4 mm, capa de 0,3 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1428,
+      "weight_g": 8.24,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US56919292c25dc4/design/2025-01-03_1ef0580d13859.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   810
+  ]
  }
 }

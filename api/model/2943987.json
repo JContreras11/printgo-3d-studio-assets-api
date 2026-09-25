@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2943987-retro-case-game-boy-advance-sp-style",
  "author": "Hk3ToN",
  "category": "console-cases",
- "source_category": "Toys & Games > Other Toys & Games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
  "description": "Estuche protector con el icónico diseño del Game Boy Advance SP, impreso en una sola pieza (print-in-place), con botones A/B, logo y franjas laterales en relieve. Nostalgia de los 2000 para tu colección o escritorio.",
  "use_cases": [
   "Proteger tu consola retro con estilo vintage",
@@ -13,7 +13,7 @@
   "Directo a tu colección o estantería"
  ],
  "tags": [
-  "game boy advance sp",
+  "game boy avance sp",
   "retro",
   "estuche",
   "nostalgia"
@@ -30,23 +30,49 @@
  ],
  "files": [
   {
-   "path": "model/Gameboy_Advance_SP_-_Box_- (1).3mf",
-   "size": 694957,
-   "sha256": "083cc7912f04ef46f1db82fa99d30b12efca9b5aa523ce2302176e5014523907",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Gameboy_Advance_SP_-_Box_- (1).3mf.xz",
    "size": 689804,
    "sha256": "f95834af280de5f21f46c78d989bdb4bcf12a168ab600d8ced058deac2956352",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Caja",
+    "creation_date": "2026-07-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScc292c58622f85/design/9c4f18fb9c9264f5.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1024,
+   768
+  ],
+  "previews/02.jpg": [
+   1024,
+   768
+  ],
+  "previews/03.jpg": [
+   1024,
+   768
+  ],
+  "previews/04.jpg": [
+   1024,
+   768
+  ],
+  "previews/05.jpg": [
+   1024,
+   768
+  ]
  }
 }

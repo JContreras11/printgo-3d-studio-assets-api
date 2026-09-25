@@ -43,23 +43,97 @@
  ],
  "files": [
   {
-   "path": "model/galaxy_s24_.3mf",
-   "size": 7555429,
-   "sha256": "11148cd1a0d2da677f926e1c63a28e09e2e326d67084bc33699909424bab5b41",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/galaxy_s24_.3mf.xz",
    "size": 7542048,
    "sha256": "46d8cf3fd9455e7fd46a7071dcceca46c5f3a96c76fb171294feac0850ab8497",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Galaxy s24+",
+    "creation_date": "2025-08-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9b45d8ac534d4b/design/2025-05-30_5a2df57333fe98.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1422,
+   1067
+  ],
+  "previews/02.jpg": [
+   1600,
+   1067
+  ],
+  "previews/03.jpg": [
+   1600,
+   1067
+  ],
+  "previews/04.jpg": [
+   1600,
+   1067
+  ],
+  "previews/05.jpg": [
+   1600,
+   1067
+  ],
+  "previews/06.jpg": [
+   1600,
+   1067
+  ],
+  "previews/07.jpg": [
+   1600,
+   1067
+  ],
+  "previews/08.jpg": [
+   1600,
+   1067
+  ],
+  "previews/09.jpg": [
+   1600,
+   1067
+  ],
+  "previews/10.jpg": [
+   1600,
+   1067
+  ],
+  "previews/11.jpg": [
+   1600,
+   1067
+  ],
+  "previews/12.jpg": [
+   1600,
+   1067
+  ],
+  "previews/13.jpg": [
+   1600,
+   1067
+  ],
+  "previews/14.jpg": [
+   1600,
+   1067
+  ],
+  "previews/15.jpg": [
+   1600,
+   1067
+  ],
+  "previews/16.jpg": [
+   1600,
+   1067
+  ],
+  "previews/17.jpg": [
+   1600,
+   2400
+  ]
  }
 }

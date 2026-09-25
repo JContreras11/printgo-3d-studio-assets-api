@@ -26,23 +26,49 @@
  ],
  "files": [
   {
-   "path": "model/s23_CASE.3mf",
-   "size": 1204716,
-   "sha256": "bcf084239312a3afd1617ae5f55f6abc954a152a208e72af9c5a5de2a1a34d2b",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/s23_CASE.3mf.xz",
    "size": 911988,
    "sha256": "8f505c299569a8ab9c19f46fad6736fa0b7f85e6cc7f6e1bd14ae352e89765a7",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 7 paredes, 10% de relleno",
+    "profile_notes": "Altura de capa de 0,2 mm sin soporte 10 % de relleno en forma de panal sin capas superiores/inferiores",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3207,
+      "weight_g": 25.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe3f20380b21848/design/2024-05-03_9c5b115d65213.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ]
  }
 }

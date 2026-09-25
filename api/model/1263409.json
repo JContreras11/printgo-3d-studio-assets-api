@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1263409-90-degree-clamp-angle-drilling-guide",
  "author": "KoliBrix",
  "category": "repair",
- "source_category": "Hobby & DIY > Other Hobby & DIY",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
  "description": "Escuadra perfecta de 90° para el taller: se fija con gatos y te guía para taladrar, encolar o alinear tableros con precisión. Simple, robusta e indispensable para trabajo fino en madera.",
  "use_cases": [
   "Taladrar perpendicular siempre",
@@ -30,23 +30,60 @@
  ],
  "files": [
   {
-   "path": "model/winkel_für_leimzwingen_neu.3mf",
-   "size": 1500930,
-   "sha256": "2ce90fb073fefba0400f879db4de970ad0f9ad82b6cc2ed49c7b9c8b507f6ae5",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/winkel_für_leimzwingen_neu.3mf.xz",
    "size": 1498340,
    "sha256": "a0e635dfccb771ff7550289679a9ed464e429091bbe0d39738bc891075230612",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Capa de 0,24 mm, 3 paredes, 15 % de relleno",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3370,
+      "weight_g": 21.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US31483239b41c11/design/2025-09-24_687908aec10bb.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1440,
+   1080
+  ],
+  "previews/02.png": [
+   2294,
+   1725
+  ],
+  "previews/03.jpg": [
+   2048,
+   1536
+  ],
+  "previews/04.jpg": [
+   2048,
+   1536
+  ]
  }
 }

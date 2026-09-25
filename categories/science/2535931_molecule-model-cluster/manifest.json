@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2535931-molecule-model-cluster",
  "author": "TimoSchwab",
  "category": "science",
- "source_category": "Art > Other Art Models",
+ "source_category": "Arte > Otros modelos de arte",
  "description": "Modelo de una molécula en configuración de cúmulo: 15 átomos en distribución esférica. Representación didáctica y elegante de química.",
  "use_cases": [
   "Visualizar una estructura molecular esférica",
@@ -30,23 +30,50 @@
  ],
  "files": [
   {
-   "path": "model/Cluster_Sphärisch.3mf",
-   "size": 30727491,
-   "sha256": "2cde00b12fd8d3170fa9385ca968443b1f0e6a5aacd8542f6bc5474c27ec85d5",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Cluster_Sphärisch.3mf.xz",
    "size": 30051840,
    "sha256": "22b827d074ee7a05451b7d14083fde113e67bbb70da765b45c93e04db09d99ce",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "-Altura de capa de 0,16mm -Se habilitan estructuras de soporte",
+    "creation_date": "2026-03-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US577e023bd07401/design/c02240b67fcc876c.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   810
+  ],
+  "previews/02.jpg": [
+   1600,
+   1200
+  ],
+  "previews/03.jpg": [
+   1600,
+   1200
+  ],
+  "previews/04.jpg": [
+   1600,
+   1200
+  ],
+  "previews/05.jpg": [
+   1200,
+   1600
+  ]
  }
 }

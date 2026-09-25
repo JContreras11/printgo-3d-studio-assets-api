@@ -32,23 +32,94 @@
  ],
  "files": [
   {
-   "path": "model/Atom.3mf",
-   "size": 6143457,
-   "sha256": "dbdaf013abb231320cc7eb858456383444df858bc84c94c6b4d73e878ce6af4b",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Atom.3mf.xz",
    "size": 6058948,
    "sha256": "3d931c72d5ea1b42b1bb497dfdeb2655cc586f8512305d48690b6dc5463fdb6e",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "(Sin AMS) Capa de 0,2 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3698,
+      "weight_g": 13.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2627,
+      "weight_g": 12.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1270,
+      "weight_g": 7.44,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US282af92ee6d839/design/2025-03-05_7151b9e6fc5cc.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1084,
+   813
+  ],
+  "previews/02.jpg": [
+   1084,
+   1440
+  ],
+  "previews/03.jpg": [
+   1084,
+   1440
+  ],
+  "previews/04.jpg": [
+   1920,
+   1446
+  ],
+  "previews/05.jpg": [
+   1084,
+   1440
+  ],
+  "previews/06.jpg": [
+   1084,
+   1440
+  ]
  }
 }

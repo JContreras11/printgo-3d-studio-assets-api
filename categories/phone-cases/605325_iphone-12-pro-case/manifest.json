@@ -27,23 +27,42 @@
  ],
  "files": [
   {
-   "path": "model/Iphone_12.3mf",
-   "size": 830936,
-   "sha256": "2e9257b64dfb8de14d43cdce70ff5f7b29526357ebcf10efc975f8f7d9702452",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Iphone_12.3mf.xz",
    "size": 825536,
    "sha256": "3ed15a535297aa3594bc80fb4f661d30a0f27dfdcec3b6fd4a2de688a418abe9",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Capa de 0,12 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "Escalado al 99,75% para un ajuste más ajustado con PLA.",
+    "creation_date": "2025-11-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US969bb61e61ea2/design/0df37c40a2648da8.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   3072,
+   4096
+  ],
+  "previews/03.jpg": [
+   3072,
+   4096
+  ]
  }
 }

@@ -30,23 +30,78 @@
  ],
  "files": [
   {
-   "path": "model/Spiderman_1.3mf",
-   "size": 33327617,
-   "sha256": "6a43f1f623b378e7dfd6ee8c7151f67809b8dfa635ff361a433b24320d82d086",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Spiderman_1.3mf.xz",
    "size": 33276224,
    "sha256": "380f3d64f48a777ee37ad408e478ca8cd851f69276b161fd8cb72e5503bca22e",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,24 mm, 2 paredes, 5 % de relleno",
+    "profile_notes": "0,24 para el cuerpo y 0,16 para las manos es la mejor forma de ahorrar tiempo sin perder calidad de impresión. Algunos pequeños consejos como (reducir la velocidad de la primera capa o agregar balsa) para resolver cualquier problema de deformación Soportes orgánicos, 2 paredes y 5% está bien",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19353,
+      "weight_g": 99.93,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2922,
+      "weight_g": 5.25,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000469853/design/2024-05-20_c02de0aa6405c.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   810,
+   843
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/03.jpg": [
+   1080,
+   1440
+  ],
+  "previews/04.jpg": [
+   1080,
+   1440
+  ],
+  "previews/05.jpg": [
+   1080,
+   1440
+  ]
  }
 }

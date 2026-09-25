@@ -35,23 +35,58 @@
  ],
  "files": [
   {
-   "path": "model/ParametricModelMaker_260131140455_DJRM.3mf",
-   "size": 1208176,
-   "sha256": "f28b05aff474e19a19c557d393c4423fc8cba8c0d281cfe6350263e25368db38",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/ParametricModelMaker_260131140455_DJRM.3mf.xz",
    "size": 1187532,
    "sha256": "b171dfbd6073993f05f38dabdbedf62579414ccad916be1b9b6b93954ab34a79",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Smartphone Case Generator",
+    "profile_notes": "Universalmente adaptable a través de Openscad Makerlab o directamente Openscad mide tu smartphone",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc201cc5f324987/design/7d1c781b4e395eb7.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1102,
+   827
+  ],
+  "previews/02.png": [
+   1724,
+   592
+  ],
+  "previews/03.png": [
+   1241,
+   681
+  ],
+  "previews/04.png": [
+   1088,
+   878
+  ],
+  "previews/05.png": [
+   1088,
+   872
+  ],
+  "previews/06.png": [
+   1088,
+   883
+  ],
+  "previews/07.png": [
+   1088,
+   885
+  ]
  }
 }

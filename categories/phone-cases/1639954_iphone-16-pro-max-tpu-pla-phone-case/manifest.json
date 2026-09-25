@@ -14,7 +14,7 @@
  ],
  "tags": [
   "iphone 16",
-  "funda tpu",
+  "fondo de tpu",
   "híbrida",
   "kumiko"
  ],
@@ -38,23 +38,81 @@
  ],
  "files": [
   {
-   "path": "model/I16Pro_MAX_CASE.3mf",
-   "size": 7675979,
-   "sha256": "ea6cb5248b0980a98a9d6702d9076a46430e4aee122e3b4aca05bf5ef6c8f946",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/I16Pro_MAX_CASE.3mf.xz",
    "size": 7613556,
    "sha256": "1c7d16d937f86b5560767941973fe1e850163315e6881c06d41ad89a740b4321",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Funda iPhone 16 Pro Max",
+    "creation_date": "2025-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5826d25307842/design/58ce8e97451b071c.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1912,
+   1434
+  ],
+  "previews/02.jpg": [
+   4080,
+   3072
+  ],
+  "previews/03.jpg": [
+   4080,
+   3072
+  ],
+  "previews/04.jpg": [
+   3603,
+   2713
+  ],
+  "previews/05.jpg": [
+   4080,
+   3072
+  ],
+  "previews/06.jpg": [
+   4080,
+   3072
+  ],
+  "previews/07.jpg": [
+   4080,
+   3072
+  ],
+  "previews/08.jpg": [
+   4080,
+   3072
+  ],
+  "previews/09.jpg": [
+   4080,
+   3072
+  ],
+  "previews/10.jpg": [
+   4080,
+   3072
+  ],
+  "previews/11.jpg": [
+   4080,
+   3072
+  ],
+  "previews/12.jpg": [
+   3862,
+   2908
+  ],
+  "previews/13.jpg": [
+   4080,
+   3072
+  ]
  }
 }

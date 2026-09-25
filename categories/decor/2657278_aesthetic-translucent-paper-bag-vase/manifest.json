@@ -35,12 +35,42 @@
    "size": 18430040,
    "sha256": "197f2a65d86fcf08d75646e405edae56c1e1bb40fc559a88636fc806cfbd0a68",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Modo jarrón PETG translúcido ultrasuave",
+    "profile_notes": "Optimizado para impresión en modo jarrón. Este perfil crea paredes lisas y delgadas con un suave efecto translúcido, perfecto para piezas de decoración estética. Configuraciones recomendadas: – Modo jarrón (contorno exterior en espiral) – Altura de capa de 0,08 mm – 1 pared – 0% de relleno Se imprime mejor con PLA o PETG translúcido para un efecto de difusión de luz suave Si este perfil funcionó bien para usted, no olvide darle me gusta",
+    "creation_date": "2026-04-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeb9cff4c55193b/design/03b950a99f3869e0.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   900
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ],
+  "previews/04.jpg": [
+   1200,
+   900
+  ]
  }
 }

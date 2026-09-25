@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/993936-lipgloss-phone-case",
  "author": "Emilio_31415",
  "category": "phone-cases",
- "source_category": "Fashion > Other Fashion Models",
+ "source_category": "Moda > Otros modelos de moda",
  "description": "Funda para iPhone 14 Pro Max inspirada en el modelo con soporte de brillo labial de Rhode: lleva un hueco para un gloss de 15 mm de diámetro (p. ej. Clarins Lip Perfector).",
  "use_cases": [
   "Llevar el brillo labial siempre encima",
@@ -27,23 +27,56 @@
  ],
  "files": [
   {
-   "path": "model/Lip_case.3mf",
-   "size": 3297394,
-   "sha256": "cefbadd4533534e2373a98273b2c998be99887e4c0c80bf17406f377a75fe59d",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Lip_case.3mf.xz",
    "size": 2784100,
    "sha256": "70b3cb5d770d0d5a3429d7f140b3954b4134aad35fbf5bf5a32a3cab3e98b709",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Capa de 0,12 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-03-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8101,
+      "weight_g": 43.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E9AFCF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb233ae0e76e9ec/design/2025-01-14_440c6e1d93ab6.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1919,
+   1439
+  ],
+  "previews/02.jpg": [
+   1920,
+   1440
+  ],
+  "previews/03.jpg": [
+   1920,
+   1440
+  ]
  }
 }

@@ -1,12 +1,12 @@
 {
  "id": "475404",
- "title": "Mesa de noche para camarote Ikea STORÅ",
+ "title": "Mesa de noche para camarote IKEA STORÅ",
  "slug": "bedside-table-for-ikea-stora-bunk-bed",
  "url": "https://makerworld.com/en/models/475404-bedside-table-for-ikea-stora-bunk-bed",
  "author": "Rikimanto99",
  "category": "bedroom",
  "source_category": "Cuarto > Repisas",
- "description": "En un camarote alto no hay dónde poner nada, y eso se resuelve aquí. Se ajusta al STORÅ de Ikea y aguanta peso real: imprímela en PETG con 60-70 % de relleno como el autor y no se mueve.",
+ "description": "En un camarote alto no hay dónde poner nada, y eso se resuelve aquí. Se ajusta al STORÅ de IKEA y aguanta peso real: imprímela en PETG con 60-70 % de relleno como el autor y no se mueve.",
  "use_cases": [
   "Superficie de noche en camarotes altos",
   "Camas de niños donde no cabe un nochero",
@@ -14,7 +14,7 @@
  ],
  "tags": [
   "ikea",
-  "stora",
+  "grande",
   "camarote",
   "mesa de noche",
   "petg",
@@ -33,12 +33,48 @@
    "size": 422172,
    "sha256": "89cb45f516933037d4014de72bda9d5701013929837fd9d5294786830666bbd6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "creation_date": "2025-02-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 26332,
+      "weight_g": 401.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000475404/design/2024-05-26_b888e3e26f412.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   1020
+  ],
+  "previews/02.png": [
+   1200,
+   837
+  ]
  }
 }

@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1835046-iphone-17-pro-max-modular-customizable-case",
  "author": "Mr_byrm",
  "category": "phone-cases",
- "source_category": "Art > Other Art Models",
+ "source_category": "Arte > Otros modelos de arte",
  "description": "Diseño modular con protección de cámara y textura trasera totalmente personalizable, ajustado a las medidas del iPhone 17 Pro y 17 Pro Max. La versión V2 mejora el ajuste sobre el primer modelo.",
  "use_cases": [
   "Proteger cámara y bordes de tu iPhone 17 Pro",
@@ -35,23 +35,66 @@
  ],
  "files": [
   {
-   "path": "model/iPhone_17_Pro_Max_Version_5_FINAL_case_3MF_Ultimate_v3.3mf",
-   "size": 2231958,
-   "sha256": "74823240ff9a8e4b985dceebdca79006cd5fd63414adfa4b6e9584bab20de864",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/iPhone_17_Pro_Max_Version_5_FINAL_case_3MF_Ultimate_v3.3mf.xz",
    "size": 2131796,
    "sha256": "126a7d9f2f7ebce6ee5190c5f702eaacaef4a25f08c146a2be2d964510c650ae",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "17 Pro Max con opciones de personalización en el siguiente paso",
+    "profile_notes": "¡Elige el plato que mejor se adapte a ti!",
+    "creation_date": "2025-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d77a9b475e833/design/2025-09-28_632526e040b558.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1440,
+   1080
+  ],
+  "previews/02.jpg": [
+   1600,
+   1200
+  ],
+  "previews/03.jpg": [
+   1600,
+   1200
+  ],
+  "previews/04.jpg": [
+   1294,
+   970
+  ],
+  "previews/05.jpg": [
+   1600,
+   1200
+  ],
+  "previews/06.jpg": [
+   1600,
+   1200
+  ],
+  "previews/07.jpg": [
+   1600,
+   1200
+  ],
+  "previews/08.jpg": [
+   1600,
+   1200
+  ],
+  "previews/09.jpg": [
+   1555,
+   1071
+  ]
  }
 }

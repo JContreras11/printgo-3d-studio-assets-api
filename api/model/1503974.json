@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1503974-slim-case-for-nintendo-switch-2",
  "author": "oliver93ruoff",
  "category": "console-cases",
- "source_category": "Toys & Games > Other Toys & Games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
  "description": "Estuche slim de viaje para la Switch 2, con versiones de un solo color o multicolor, con opción de espacio extra para almacenamiento o huecos para 4 Joy-Con. Fácil de imprimir y listo para usar.",
  "use_cases": [
   "Transportar la Switch 2 sin volumen",
@@ -33,23 +33,58 @@
  ],
  "files": [
   {
-   "path": "model/Single_Color (1).3mf",
-   "size": 1297915,
-   "sha256": "7f331e43b2d40b7cf768306f34a833fa4bfa66f2107495a8337e06c2106e80cc",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Single_Color (1).3mf.xz",
    "size": 1294168,
    "sha256": "f96e66095d8b1f9ce0b1b76842594c6455a0f82716a303033a7828162e0eb1f8",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "un solo color",
+    "creation_date": "2025-08-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US705dd042f7a4fc/design/2025-08-04_5a078bac137fe8.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- }
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   960,
+   720
+  ],
+  "previews/02.png": [
+   2268,
+   4032
+  ],
+  "previews/03.png": [
+   1024,
+   1536
+  ],
+  "previews/04.jpg": [
+   2268,
+   4032
+  ],
+  "previews/05.jpg": [
+   2268,
+   4032
+  ],
+  "previews/06.png": [
+   4032,
+   2268
+  ],
+  "previews/07.png": [
+   1520,
+   722
+  ]
+ },
+ "variant_hint": "Monocromo"
 }

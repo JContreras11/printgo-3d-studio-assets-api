@@ -30,23 +30,68 @@
  ],
  "files": [
   {
-   "path": "model/iPhone16Pro_hülle_Clean_Final-2.3mf",
-   "size": 1699284,
-   "sha256": "e001ef263924b0efa23e3546c7feea86be94e97929b008735f1a6b7e716f71b2",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/iPhone16Pro_hülle_Clean_Final-2.3mf.xz",
    "size": 1693496,
    "sha256": "00c7e4c3979d49169083437ed1ac9f633a0a1c5dbd0df32c18b472617a372002",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15 % de relleno / Funda para iPhone",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2066,
+      "weight_g": 24.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7E7E7E"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf90a87ebcdb54/design/2024-09-20_42808b31dace68.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   1223
+  ],
+  "previews/02.jpg": [
+   1080,
+   1440
+  ],
+  "previews/03.jpg": [
+   1080,
+   1440
+  ],
+  "previews/04.jpg": [
+   1080,
+   1440
+  ],
+  "previews/05.jpg": [
+   1080,
+   1440
+  ],
+  "previews/06.jpg": [
+   1080,
+   1440
+  ]
  }
 }

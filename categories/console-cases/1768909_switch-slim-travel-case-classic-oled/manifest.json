@@ -29,23 +29,41 @@
  ],
  "files": [
   {
-   "path": "model/Box_switch_classic_-_Logo_switch-2.3mf",
-   "size": 1668183,
-   "sha256": "78949758b40e026e96d96bda3ceee3a400a878b628b8034191d569d577a6d861",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Box_switch_classic_-_Logo_switch-2.3mf.xz",
    "size": 1662884,
    "sha256": "31d6c06254bfceb65b4a6c81541f1c6627811357aec298a8ef02ae252a56f813",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Logo Switch",
+    "creation_date": "2025-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9019eb27cd1913/design/7eaa269ca28d72ac.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1920,
+   1440
+  ],
+  "previews/02.jpg": [
+   4000,
+   3000
+  ],
+  "previews/03.jpg": [
+   2880,
+   2880
+  ]
  }
 }

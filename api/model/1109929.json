@@ -37,23 +37,69 @@
  ],
  "files": [
   {
-   "path": "model/iPhone17.3mf",
-   "size": 3124110,
-   "sha256": "cbfd8364581ca5d4e91e951ee939e287a809451fa902ceb63ab2d12878b9e750",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/iPhone17.3mf.xz",
    "size": 3109032,
    "sha256": "6bbf62ece16e9851f2e3a6060574ffa9ad6f90e9c31ee716ac23ca7c633f8b6d",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "iPhone17",
+    "creation_date": "2025-12-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d94796f67d71e/design/51f91878-f006-4c34-bf8e-cb48b01be83d.webp?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.webp": [
+   1706,
+   1280
+  ],
+  "previews/02.webp": [
+   1920,
+   1280
+  ],
+  "previews/03.webp": [
+   1920,
+   1280
+  ],
+  "previews/04.webp": [
+   1920,
+   1280
+  ],
+  "previews/05.webp": [
+   1920,
+   1280
+  ],
+  "previews/06.jpg": [
+   1920,
+   1280
+  ],
+  "previews/07.webp": [
+   960,
+   1440
+  ],
+  "previews/08.webp": [
+   1920,
+   1280
+  ],
+  "previews/09.webp": [
+   1920,
+   1280
+  ],
+  "previews/10.png": [
+   2247,
+   1262
+  ]
  }
 }

@@ -31,23 +31,78 @@
  ],
  "files": [
   {
-   "path": "model/moon.3mf",
-   "size": 33321007,
-   "sha256": "88657a5c994b5933fb1bdfe7a8dab874f7b1aa429d458933070235376a72d273",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/moon.3mf.xz",
    "size": 33242040,
    "sha256": "853baff1b93308a8e8af284ebb524b986ff57709793e3578519b01dc04463a51",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 5% de relleno",
+    "profile_notes": "No creo que sea una buena idea bajar del 100% de escala. Lo hice al 100% y se ve bien, pero no creo que los detalles se muestren por debajo del 100%.",
+    "creation_date": "2025-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 30405,
+      "weight_g": 117.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1937,
+      "weight_g": 20.1,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb2289e13d34f37/design/2024-02-29_4b5544e2e8d67.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   910,
+   1440
+  ],
+  "previews/02.jpg": [
+   1193,
+   1419
+  ],
+  "previews/03.jpg": [
+   912,
+   926
+  ],
+  "previews/04.jpg": [
+   1158,
+   1323
+  ],
+  "previews/05.jpg": [
+   815,
+   638
+  ]
  }
 }

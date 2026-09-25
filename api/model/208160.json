@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/208160-voronoi-napkin-holder",
  "author": "ICM98",
  "category": "kitchen",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Servilletero con patrón voronoi para la mesa: estructura ligera y elegante que aguanta las servilletas de papel a mano.",
  "use_cases": [
   "Mesa puesta con un servilletero vistoso",
@@ -27,23 +27,52 @@
  ],
  "files": [
   {
-   "path": "model/Napkin_holder.3mf",
-   "size": 1197140,
-   "sha256": "562ca874a64a7e1c26b4581edbd0b870ec49786b635e725c1a849d1ae634051a",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Napkin_holder.3mf.xz",
    "size": 1195756,
    "sha256": "9d659d7e34696bfdfbbbf3fa4a4346214174e397693a1c7cdaa40d4f40498c26",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4874,
+      "weight_g": 24.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000208160/design/2024-02-27_0gotedlrfchw.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1600,
+   1200
+  ],
+  "previews/02.jpg": [
+   1600,
+   1200
+  ]
  }
 }

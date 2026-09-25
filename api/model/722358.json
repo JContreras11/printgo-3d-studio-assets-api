@@ -28,23 +28,42 @@
  ],
  "files": [
   {
-   "path": "model/Dishwasher_Sign_Clean-Dirty-6mm.3mf",
-   "size": 1598892,
-   "sha256": "a6100f2aae4ec5a4dcb61a08567c32a839176402161fa4f47bab56b6f00f868b",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Dishwasher_Sign_Clean-Dirty-6mm.3mf.xz",
    "size": 1594292,
    "sha256": "a23655fde6dd91b5e30f7832be2e7a622106b8ccea89d219c8138c5c52a04b34",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Se agregaron 4 orificios magnéticos de 6x3 mm, capa de 0,2 mm, 2 paredes, 10 % de relleno",
+    "profile_notes": "Solo incluye el modelo con imán de 6mm. Lo importé a Onshape y agregué 4 orificios adicionales en la parte posterior para imanes de 6x3 mm. Ahora se sujeta mucho más fuerte al lavavajillas.",
+    "creation_date": "2025-07-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US965ee628fcfb08/design/2024-10-22_1d989408bdc1d.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   810
+  ],
+  "previews/02.jpg": [
+   1080,
+   1440
+  ],
+  "previews/03.jpg": [
+   1080,
+   1440
+  ]
  }
 }

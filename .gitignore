@@ -1,11 +1,12 @@
+__pycache__/
+.agent/scraper-agent.jsonl
 .dl_mw.log
 .dl_mw.out
-.scrape_mw.out
 .fetch_previews.out
+.scrape_mw.out
+.tmp/
 .xz_compress.out
 .xz_errors.log
-__pycache__/
 *.pyc
-.tmp/
-raw/
 /previews/
+raw/

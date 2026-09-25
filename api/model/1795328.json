@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/1795328-iphone-17-pro-max-hexagon-case-camera-bump",
  "author": "h2d_X2d_girl",
  "category": "phone-cases",
- "source_category": "Art > Other Art Models",
+ "source_category": "Arte > Otros modelos de arte",
  "description": "Funda con patrón hexagonal para el iPhone 17 Pro Max, adaptada a las nuevas dimensiones del modelo. Perfil de impresión para la protección de cámara añadido en el diseño.",
  "use_cases": [
   "Proteger tu iPhone 17 Pro Max con estilo geométrico",
@@ -30,23 +30,50 @@
  ],
  "files": [
   {
-   "path": "model/iPhone17_Pro_max_Magsafe (1).3mf",
-   "size": 2603828,
-   "sha256": "47ec153ea68dba105112aad1be0586f8d3ab27e122f826f77a34ef51226dbacd",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/iPhone17_Pro_max_Magsafe (1).3mf.xz",
    "size": 2596112,
    "sha256": "7ef843bf3426291fc19e9f7cc4b36bbe867ea52561fd38f8cc3e31877e00eb31",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "TPU para AMS con MagSafe: capa de 0,16 mm, 2 paredes, 15 % de relleno",
+    "profile_notes": "He reelaborado el ya increíble original para incluir ahora este anillo MagSafe de Amazon. Pasé de PLA a TPU, se adapta perfectamente a mi teléfono con este perfil de impresión, además de MagSafe... muy bueno.",
+    "creation_date": "2025-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc191020e5d1b33/design/2025-09-14_e20bcd5aaa696.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1073,
+   804
+  ],
+  "previews/02.jpg": [
+   4032,
+   3024
+  ],
+  "previews/03.jpg": [
+   4032,
+   3024
+  ],
+  "previews/04.jpg": [
+   5712,
+   4284
+  ],
+  "previews/05.jpg": [
+   5712,
+   4284
+  ]
  }
 }

@@ -30,23 +30,46 @@
  ],
  "files": [
   {
-   "path": "model/Mini_Grip_Clamp_Release_Button.3mf",
-   "size": 1392597,
-   "sha256": "7c3891fb6ad4a18cca24be6be6fff658d324b5fdad28ca6dac6ae5d86caa1fa5",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Mini_Grip_Clamp_Release_Button.3mf.xz",
    "size": 1208188,
    "sha256": "6db89c26add0371696feb81645def82addb5c7c3906c91165342e61926d0af02",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Capa de 0,12 mm, 3 paredes, 100% de relleno",
+    "profile_notes": "Impreso en un ángulo de 45º (con la ranura vertical para evitar salientes adicionales), con 100% de relleno ya que es pequeño y la resistencia y el peso adicionales ayudan a que la pieza se sienta más sólida. El soporte pintado debería soltarse fácilmente si su impresora está bien ajustada.",
+    "creation_date": "2025-08-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScfbe1e998a01eb/design/2025-08-05_0dc581fe4d4ff8.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1919,
+   1439
+  ],
+  "previews/02.jpg": [
+   960,
+   720
+  ],
+  "previews/03.jpg": [
+   1971,
+   1478
+  ],
+  "previews/04.png": [
+   1644,
+   1228
+  ]
  }
 }

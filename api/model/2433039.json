@@ -34,23 +34,58 @@
  ],
  "files": [
   {
-   "path": "model/PETG_PLA_CASE_Ultracode_englisch.3mf",
-   "size": 1682727,
-   "sha256": "2a97bac9d57de5d229dedb4d123289c6113376590c11825dfc05957a355b97f7",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/PETG_PLA_CASE_Ultracode_englisch.3mf.xz",
    "size": 1358308,
    "sha256": "4528637b1e223a899ff20d6a00fc7554a1b806999a67c68458a866385a571b7f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Funda para smartphone con funda",
+    "profile_notes": "Funda para móvil totalmente paramétrica como las demás de mi portfolio.",
+    "creation_date": "2026-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US340f4901e3150c/design/40333226a234d9df.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1024,
+   768
+  ],
+  "previews/02.png": [
+   1912,
+   828
+  ],
+  "previews/03.png": [
+   1912,
+   899
+  ],
+  "previews/04.png": [
+   1024,
+   1024
+  ],
+  "previews/05.png": [
+   1304,
+   779
+  ],
+  "previews/06.png": [
+   1912,
+   828
+  ],
+  "previews/07.jpg": [
+   4000,
+   3000
+  ]
  }
 }

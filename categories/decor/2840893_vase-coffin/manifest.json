@@ -38,19 +38,71 @@
    "size": 8941080,
    "sha256": "a2e08f75eea22bed6e79365b35866f7e94348e3cb32627c01fce23920aeff24f",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 10% de relleno",
+    "creation_date": "2026-05-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   },
   {
    "path": "model/coffin2.3mf.xz",
    "size": 22254964,
    "sha256": "9304f6b8d76f21dc4e1f599a79163c3c251fa26bb039d689c70e7949618e4d94",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "sin cruz - capa de 0,2 mm, 3 paredes, 10% de relleno",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d875a93a1a5f2/design/824452f29c9e1901.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   900
+  ],
+  "previews/03.jpg": [
+   1200,
+   900
+  ],
+  "previews/04.jpg": [
+   1200,
+   900
+  ],
+  "previews/05.jpg": [
+   1200,
+   900
+  ],
+  "previews/06.jpg": [
+   1200,
+   900
+  ],
+  "previews/07.jpg": [
+   1200,
+   900
+  ]
  }
 }

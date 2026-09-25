@@ -32,23 +32,58 @@
  ],
  "files": [
   {
-   "path": "model/PS2_Pi_Case_v2_-_BS (1).3mf",
-   "size": 1730377,
-   "sha256": "518d46257fd27a8b6352d9c3839f12388a6b90f02b69e8c581e9acdf8c98f0ef",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/PS2_Pi_Case_v2_-_BS (1).3mf.xz",
    "size": 1387004,
    "sha256": "fa0f5d93457a3188e4eb957a172c363296110f8b80e6d4ed8247904b7d88bab6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.03.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Sólo necesita soportes de árbol para la parte superior de la caja.",
+    "creation_date": "2025-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 20
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe872bd58b51ad0/design/2024-12-26_805668c65fed18.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1856,
+   1440
+  ],
+  "previews/02.jpg": [
+   1920,
+   1440
+  ],
+  "previews/03.jpg": [
+   1920,
+   1440
+  ],
+  "previews/04.jpg": [
+   1920,
+   1440
+  ],
+  "previews/05.jpg": [
+   1920,
+   1440
+  ],
+  "previews/06.png": [
+   932,
+   685
+  ],
+  "previews/07.png": [
+   865,
+   661
+  ]
  }
 }

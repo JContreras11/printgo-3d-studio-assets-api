@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2617932-deca-docol-register-adapter",
  "author": "marcos.rds",
  "category": "repair",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Adaptador y extensor que convierte el vástago DOCOL de Ø9,2 mm / 20 estrías al estándar DECA de Ø13 mm / 18 estrías, y además alarga cuando el vástago queda muy rehundido en la pared. Incluye archivo FreeCAD editable.",
  "use_cases": [
   "Empalmar la maneta de ducha equivocada",
@@ -31,23 +31,50 @@
  ],
  "files": [
   {
-   "path": "model/adaptador_docol-deca.3mf",
-   "size": 1563706,
-   "sha256": "08c05a8802c5d6a85aeecba3f9b13c7c49c2ef3939a44407cbe30f39ca78a29c",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/adaptador_docol-deca.3mf.xz",
    "size": 1303484,
    "sha256": "0a4329e8cc95ab2e849b2dc25c98ed0cc767445d101bab4b14fa0fc95ed66ac3",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,16 mm, 6 paredes, 100% de relleno",
+    "profile_notes": "Material: PLA Boquilla: 0,4 mm Altura de capa: 0,16 mm Primera capa: 0,20 mm Bucles de pared: 6 Capas superiores: 6 Capas inferiores: 6 Relleno: 100 % Velocidad de la pared exterior: 40 mm/s Velocidad de la pared interior: 70 mm/s Velocidad de la primera capa: 20 mm/s",
+    "creation_date": "2026-04-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe38fd9443fd8f8/design/1d0d2f48693c1f0e.png?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.png": [
+   1024,
+   768
+  ],
+  "previews/02.png": [
+   1063,
+   642
+  ],
+  "previews/03.jpg": [
+   4000,
+   2252
+  ],
+  "previews/04.jpg": [
+   4000,
+   2252
+  ],
+  "previews/05.jpg": [
+   4000,
+   2252
+  ]
  }
 }

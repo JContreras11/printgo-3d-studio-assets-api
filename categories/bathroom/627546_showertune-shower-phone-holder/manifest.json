@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/627546-showertune-shower-phone-holder",
  "author": "amobile.info",
  "category": "bathroom",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Soporte de smartphone hecho para la ducha, compatible con móviles IP68: escúchalo en el agua sonando música o vídeos mientras te duchas. Diseño universal adaptable a distintos perfiles de ducha.",
  "use_cases": [
   "Música y vídeos en la ducha sin riesgo",
@@ -13,7 +13,7 @@
   "Ganchos traseros con árbol de soportes"
  ],
  "tags": [
-  "ducha",
+  "espíritu",
   "smartphone",
   "soporte",
   "baño"
@@ -31,23 +31,69 @@
  ],
  "files": [
   {
-   "path": "model/PETG-No-Support-Shower_Phone_Holder_v3_Pieno.3mf",
-   "size": 1416344,
-   "sha256": "198bf4891db5b7097dbbe4f7af2dc614e466242b161131848c95ce176be86582",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/PETG-No-Support-Shower_Phone_Holder_v3_Pieno.3mf.xz",
    "size": 1411936,
    "sha256": "6ecab31195908f111dd3baac121e741cd36feeb155f24a5858f2e189bf634049",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Sin soporte, sin ala, PETG, capa de 0,2 mm, 3 paredes, 20 % de relleno",
+    "profile_notes": "Después de intentar imprimir esto con un soporte de árbol que se rompió (ver la última imagen), pensé por qué necesito soporte para empezar, así que hice este perfil que no necesita soporte en absoluto. Si estás contento con este perfil, estaré feliz por 5 estrellas. Usé PETG en una capa lisa de 0,2 mm, 3 paredes para hacerlo más resistente y duradero, 20 % de relleno, funcionó muy bien en el A1 mini.",
+    "creation_date": "2025-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11691,
+      "weight_g": 77.41,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc0ff0d8ab3e2f1/design/2024-09-07_5b84ab7720edb.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1912,
+   1434
+  ],
+  "previews/02.jpg": [
+   1920,
+   1446
+  ],
+  "previews/03.jpg": [
+   1920,
+   1446
+  ],
+  "previews/04.jpg": [
+   1920,
+   1446
+  ],
+  "previews/05.jpg": [
+   1920,
+   1446
+  ],
+  "previews/06.jpg": [
+   1920,
+   1446
+  ]
  }
 }

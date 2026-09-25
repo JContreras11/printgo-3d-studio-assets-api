@@ -37,19 +37,139 @@
    "size": 1864076,
    "sha256": "c9d26a813407121c1dd072d83df6ee728b4e9d7d2a9f58da6f21d405ba964af6",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+    "profile_notes": "Este es el perfil de impresión que utilicé, aunque utilicé una boquilla de 0,6 mm para las piezas principales para ahorrar tiempo. También utilicé la velocidad de impresión más rápida, lo que aumentó el encordado, pero ahorró mucho tiempo durante las pruebas. La tercera y cuarta placa de construcción dependen de la configuración que desee utilizar, por lo que si desea el dispensador, elimine el receptáculo. Utilice tantas varillas como imprima piezas principales.",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 45695,
+      "weight_g": 283.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20997,
+      "weight_g": 129.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13412,
+      "weight_g": 79.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6571,
+      "weight_g": 31.97,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   }
   },
   {
    "path": "model/A1_With_Receptacle_-_base.3mf.xz",
    "size": 1280784,
    "sha256": "a235af551f5ebde6e0a895e73a41a38cc86f1bc257c2c247a1c32020c27ea31c",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+    "profile_notes": "Se agregó muy rápidamente una cubierta superior para evitar la proyección de polvo y agua...",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2269,
+      "weight_g": 19.84,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#BCBCBC"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91f7a4ecc9dc40/design/2024-03-31_a98c542275dfe.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
- }
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   1200
+  ],
+  "previews/02.jpg": [
+   1200,
+   1200
+  ],
+  "previews/03.jpg": [
+   1200,
+   1200
+  ],
+  "previews/04.jpg": [
+   1200,
+   1200
+  ],
+  "previews/05.jpg": [
+   1200,
+   1200
+  ],
+  "previews/06.jpg": [
+   1200,
+   1200
+  ]
+ },
+ "variant_hint": "para A1"
 }

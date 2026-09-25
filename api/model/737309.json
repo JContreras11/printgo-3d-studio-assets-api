@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/737309-dragonscale-xbox-series-s-x-controller-shell",
  "author": "makersark3d",
  "category": "console-cases",
- "source_category": "Toys & Games > Other Toys & Games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
  "description": "Carcasa con textura de escamas de dragón para el mando de Xbox Series S/X: se imprime en la A1 con boquilla 0.4 y capa fina 0.08 para un detalle soberbio.",
  "use_cases": [
   "Convertir tu mando de Xbox en una pieza épica",
@@ -28,23 +28,56 @@
  ],
  "files": [
   {
-   "path": "model/series_x.s_shell.3mf",
-   "size": 54310239,
-   "sha256": "2cd6e62e01f81f9a0587124a5f9a4a06ba8c132d188d77394b6b16575890e1ef",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/series_x.s_shell.3mf.xz",
    "size": 53836452,
    "sha256": "b8ca2451d7ade30a83c0c0f0f434482b85d35bc9e55a3de14df23e7a7524027a",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,08 mm, 2 paredes, 15 % de relleno",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 39294,
+      "weight_g": 76.81,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US171f389e3416c7/design/2024-10-28_7abfbacdcd0a5.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1290,
+   967
+  ],
+  "previews/02.jpg": [
+   1050,
+   1083
+  ],
+  "previews/03.jpg": [
+   1290,
+   1241
+  ]
  }
 }

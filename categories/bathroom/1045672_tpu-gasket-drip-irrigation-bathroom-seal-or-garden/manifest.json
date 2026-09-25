@@ -42,12 +42,85 @@
    "size": 1634776,
    "sha256": "606fb1557dea3a01ba066cb3ebc8fc683b6d25bffe2e138379fd4245788c6de1",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Cambia el tamaño y la apariencia tanto como quieras, ¡todo lo demás está configurado! ¡Buena suerte!",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3141,
+      "weight_g": 9.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5330c4b499a703/design/2025-01-27_90026d987b29e.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1200,
+   900
+  ],
+  "previews/02.jpg": [
+   1200,
+   675
+  ],
+  "previews/03.jpg": [
+   1200,
+   675
+  ],
+  "previews/04.jpg": [
+   1200,
+   675
+  ],
+  "previews/05.jpg": [
+   1200,
+   675
+  ],
+  "previews/06.jpg": [
+   1200,
+   675
+  ],
+  "previews/07.jpg": [
+   1200,
+   675
+  ],
+  "previews/08.jpg": [
+   1200,
+   675
+  ],
+  "previews/09.jpg": [
+   1200,
+   675
+  ],
+  "previews/10.jpg": [
+   1200,
+   675
+  ],
+  "previews/11.jpg": [
+   1200,
+   675
+  ]
  }
 }

@@ -37,12 +37,64 @@
    "size": 1261764,
    "sha256": "65b06027b2958019b4c85c7fe6053546589ba60048f22a8797c561b1862433be",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,28 mm, 2 paredes, 100 % relleno",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3601,
+      "weight_g": 10.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc5df96f9c362af/design/2024-05-22_33aeed0c2af0d.webp?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.webp": [
+   1863,
+   1280
+  ],
+  "previews/02.webp": [
+   1920,
+   1280
+  ],
+  "previews/03.webp": [
+   1920,
+   1280
+  ],
+  "previews/04.webp": [
+   1920,
+   1280
+  ],
+  "previews/05.webp": [
+   1920,
+   1280
+  ],
+  "previews/06.jpg": [
+   1200,
+   900
+  ]
  }
 }

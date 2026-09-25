@@ -5,7 +5,7 @@
  "url": "https://makerworld.com/en/models/2374046-heavy-duty-silicone-spatula-handle",
  "author": "user_275896182",
  "category": "repair",
- "source_category": "Household > Other House Models",
+ "source_category": "Hogar > Otros Modelos de Casas",
  "description": "Núcleo de repuesto para espátulas de repostería cuyo mango de plástico original se rompe: geometría reforzada, mucho más fuerte que el original. En PETG transparente queda genial.",
  "use_cases": [
   "Arreglar la espátula favorita en vez de comprar otra",
@@ -32,23 +32,54 @@
  ],
  "files": [
   {
-   "path": "model/patyk_złam.3mf",
-   "size": 1205325,
-   "sha256": "e2f4c100f7582c92608fb629f9677925c1a3fd7ea9a81fc39026879cf47386e4",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/patyk_złam.3mf.xz",
    "size": 1111272,
    "sha256": "ff7a2c0b5b0969ac73ca9448b19ea9510cc9eee60f21b9a8781aa9bc63ad0898",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+    "profile_notes": "Servicio pesado - PETG - 5 paredes - 5 paredes fuertes y 50% de relleno Gyroid para evitar que se rompa. No se necesitan soportes. Impreso y probado con PETG transparente.",
+    "creation_date": "2026-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USee62996e58b14e/design/8635b25e61f839a6.jpg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   1084,
+   813
+  ],
+  "previews/02.jpg": [
+   3072,
+   4080
+  ],
+  "previews/03.jpg": [
+   3072,
+   4080
+  ],
+  "previews/04.jpg": [
+   4080,
+   3072
+  ],
+  "previews/05.jpg": [
+   4080,
+   3072
+  ],
+  "previews/06.jpg": [
+   4080,
+   3072
+  ]
  }
 }

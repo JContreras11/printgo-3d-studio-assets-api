@@ -30,23 +30,64 @@
  ],
  "files": [
   {
-   "path": "model/Utensil_Divider_1x3.3mf",
-   "size": 952178,
-   "sha256": "afd59bf00a908f0a182d6f8862698689a8303a62c26200d9054753060d76028a",
-   "compressed": false,
-   "decompress": null
-  },
-  {
    "path": "model/Utensil_Divider_1x3.3mf.xz",
    "size": 918400,
    "sha256": "372730371d2b3dcaf7d7255a1798701bf243c10f1a717a8799267031441c8c72",
    "compressed": true,
-   "decompress": "xz -d -k <filename>"
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "1x3 Base",
+    "creation_date": "2025-01-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20302,
+      "weight_g": 108.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US70464a6a9f34f5/design/2025-01-05_2a69e482de182.jpeg?x-oss-process=image/resize,w_1000",
  "storage": {
   "format": "xz",
-  "note": "3MF files are stored as .3mf.xz to stay under GitHub's 100MB limit. Decompress with `xz -d -k <file>` before use; SHA-256 is computed on the compressed file."
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ },
+ "image_sizes": {
+  "previews/01.jpg": [
+   755,
+   1428
+  ],
+  "previews/02.png": [
+   1428,
+   1011
+  ],
+  "previews/03.png": [
+   1581,
+   1091
+  ],
+  "previews/04.png": [
+   1546,
+   1099
+  ],
+  "previews/05.png": [
+   1673,
+   1096
+  ]
  }
 }

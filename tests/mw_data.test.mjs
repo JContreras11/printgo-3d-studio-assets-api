@@ -37,3 +37,12 @@ test("imageSize lee cabecera PNG", () => {
   fs.writeFileSync(f, Buffer.concat([png, Buffer.alloc(64)]));
   assert.deepEqual(imageSize(f), [1000, 750]);
 });
+
+test("relevancia de tópico", async () => {
+  const { relevant } = await import("../scripts/lib/mw_data.mjs");
+  const v = ["gta 6", "gta vi", "grand theft auto 6"];
+  assert.equal(relevant({ title: "GTA VI Keychain" }, v), true);
+  assert.equal(relevant({ title: "Llavero", tags: ["gta"] }, v), true);
+  assert.equal(relevant({ title: "BMW X6" }, v), false);
+  assert.equal(relevant({ title: "Forza Horizon 6 logo" }, v), false);
+});

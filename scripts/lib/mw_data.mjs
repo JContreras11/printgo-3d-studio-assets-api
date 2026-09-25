@@ -42,6 +42,12 @@ export function classify({ title = "", titleTranslated = "", tags = [], categori
   return "decor";
 }
 
+// Tópico libre: un resultado es relevante si contiene todas las palabras (≥3 letras) de alguna variante del término.
+export function relevant(hit, variants) {
+  const text = [hit.title, hit.titleTranslated, ...(hit.tags || [])].join(" ").toLowerCase();
+  return variants.some((v) => v.toLowerCase().split(/\s+/).filter((w) => w.length >= 3).every((w) => text.includes(w)));
+}
+
 // instances[] del diseño -> metadatos de perfil para files[] (contrato con la UI).
 export function parseProfiles(design) {
   const owner = design?.designCreator?.uid;

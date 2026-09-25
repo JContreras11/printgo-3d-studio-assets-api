@@ -10,7 +10,7 @@ import { execFileSync, spawnSync } from "node:child_process";
 import { parseArgs } from "node:util";
 import { connect } from "./lib/cdp.mjs";
 import { toEs, sanitize, saveCache } from "./lib/text_es.mjs";
-import { classify, parseProfiles } from "./lib/mw_data.mjs";
+import { classify, parseProfiles, relevant } from "./lib/mw_data.mjs";
 import { slugify } from "./lib/misc.js";
 import { build, labels, ROOT } from "./build_api.mjs";
 
@@ -93,7 +93,8 @@ async function discover(target) {
     return found;
   }
   let keywords;
-  if (/^https?:/i.test(target)) {
+  const isUrl = /^https?:/i.test(target);
+  if (isUrl) {
     const kw = new URL(target).searchParams.get("keyword");
     if (!kw) throw new Error(`URL no soportada: ${target}`);
     keywords = [kw];
@@ -104,8 +105,10 @@ async function discover(target) {
   const max = opt.limit ? +opt.limit : Infinity;
   for (const kw of keywords) {
     const hits = await search(kw, max);
-    log(`búsqueda "${kw}": ${hits.length} resultados`);
-    for (const h of hits) add(h, `search:${kw}`);
+    // URL de búsqueda: todo lo que devuelve MakerWorld. Tópico: solo lo relevante al término.
+    const keep = isUrl ? hits : hits.filter((h) => relevant(h, keywords));
+    log(`búsqueda "${kw}": ${hits.length} resultados${isUrl ? "" : `, ${keep.length} relevantes`}`);
+    for (const h of keep) add(h, isUrl ? `search:${kw}` : `topic:${target}`);
   }
   const seen = new Set();
   return found.filter((x) => !seen.has(x.id) && seen.add(x.id));
@@ -218,6 +221,8 @@ async function processModel(item, lib) {
       const tmp = path.join(ROOT, ".tmp", "dl", `${item.id}-${p.instance_id}.3mf`);
       if (!(await download(signed.url, tmp))) { errors.push(`${p.instance_id}: descarga falló`); continue; }
       execFileSync("xz", ["-9", "-T0", "-f", tmp]);
+      // GitHub rechaza archivos >100 MB: se omite ese perfil (queda anotado en la cola).
+      if (fs.statSync(`${tmp}.xz`).size > 95 * 1024 * 1024) { fs.rmSync(`${tmp}.xz`); errors.push(`${p.instance_id}: >95 MB comprimido`); continue; }
       fs.mkdirSync(path.join(folder, "model"), { recursive: true });
       fs.renameSync(`${tmp}.xz`, path.join(folder, `${rel}.xz`));
       file = { path: `${rel}.xz` };
@@ -348,7 +353,9 @@ async function main() {
   fs.mkdirSync(path.join(ROOT, ".tmp"), { recursive: true });
   fs.appendFileSync(path.join(ROOT, ".tmp", "mw-runs.jsonl"), JSON.stringify({ at: new Date().toISOString(), target: target || "(refresh/resume)", ...summary }) + "\n");
   if (quotaHit) log(`CUOTA/SESIÓN: ${quotaHit}. Cola guardada en queue.json; reanuda con: node scripts/mw.mjs --resume`);
-  await publish(`library: +${stats.newModels} modelos, +${stats.newFiles} perfiles (${target || "refresh-variants"})`);
+  await publish(stats.newModels || stats.newFiles
+    ? `library: +${stats.newModels} modelos, +${stats.newFiles} perfiles (${target || "refresh-variants"})`
+    : `queue: ${summary.pending} pendientes (${target || "refresh/resume"})${quotaHit ? " · parado por cuota/captcha" : ""}`);
   browser?.close();
 }
 

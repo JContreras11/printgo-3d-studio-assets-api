@@ -30,6 +30,167 @@
  ],
  "files": [
   {
+   "path": "model/0-2mm-layer-2-walls-15-infill-945812.3mf.xz",
+   "instance_id": "945812",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/945812.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 168,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": true,
+   "size": 1119756,
+   "sha256": "c2b2c729db280408c0f5562a729087750caff3ce85075bc612e67c779e387bac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2285,
+      "weight_g": 14.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-12mm-layer-screen-protector-version-1151244.3mf.xz",
+   "instance_id": "1151244",
+   "name": "Capa de 0,12 mm. Versión del protector de pantalla",
+   "thumbnail": "previews/profiles/1151244.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 61,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "X1",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L",
+    "P2S",
+    "X1E",
+    "A1 mini",
+    "X1 Carbon",
+    "H2S"
+   ],
+   "default": false,
+   "size": 1164712,
+   "sha256": "04d3f6d5c1f7d6b4d67f6836667d43f6f097a88eb71939c1b5d0fbd7e2a81331",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.12mm layer. Screen protector version",
+    "profile_notes": "This is the version scaled for a screen protector.",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2958,
+      "weight_g": 16.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AAB1BF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2551542.3mf.xz",
+   "instance_id": "2551542",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2551542.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2C",
+    "A1",
+    "X2D",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "A2L",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 1102428,
+   "sha256": "6cce9d8ba125c5a5a25b851c76cb979a55e4c72eb675d1aa2ffb217d0b33f3a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Ich habe es mit TPU für AMS gedruckt das es das beste für diesen anwendungszweck ist doch andere TPUs sollte auch kein Problem sein.",
+    "creation_date": "2026-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
    "path": "model/iPhone_14_Pro_Max.3mf.xz",
    "size": 2757796,
    "sha256": "b3bb1c2a34b992213cdfe92db3b8dc0ac0d9c26784009568fa0296327c091359",
@@ -45,7 +206,32 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "instance_id": "1929044",
+   "name": "iPhone 14 Pro Max",
+   "thumbnail": "previews/profiles/1929044.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1P",
+    "H2D",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2eb484034e6727/design/2025-01-13_77d8ca39d9c078.jpeg?x-oss-process=image/resize,w_1000",
@@ -77,6 +263,22 @@
   "previews/06.webp": [
    1080,
    1440
+  ],
+  "previews/profiles/945812.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1151244.jpg": [
+   600,
+   436
+  ],
+  "previews/profiles/2551542.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1929044.jpg": [
+   600,
+   905
   ]
  }
 }

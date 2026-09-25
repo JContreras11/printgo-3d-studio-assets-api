@@ -1,0 +1,124 @@
+{
+ "files": [
+  {
+   "path": "model/default-model-currency-3675809.3mf.xz",
+   "instance_id": "3675809",
+   "name": "Moneda del modelo predeterminado",
+   "thumbnail": "previews/profiles/3675809.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 48,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "size": 15422980,
+   "sha256": "43da91f798f118bfa6b52736469def1d0770aaa058f9543698f8a6d665772049",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Padrão Modelo Moeda",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3244057",
+ "title": "Mini micrófono – Soporte para micrófono Hollyland",
+ "slug": "mini-microphone-hollyland-microphone-holder",
+ "url": "https://makerworld.com/en/models/3244057-mini-microphone-hollyland-microphone-holder",
+ "author": "GROGO3D",
+ "category": "decor",
+ "source_category": "Hobby y bricolaje > Música",
+ "description": "Mini micrófono – Soporte para micrófono Hollyland\nActualice su configuración con este mini micrófono decorativo, especialmente diseñado para adaptarse al micrófono Hollyland, dándole a su equipo un aspecto moderno y divertido.\nEl modelo está diseñado para ser compacto, funcional y fácil de imprimir, lo que lo convierte en una excelente opción para personalizar la mesa de trabajo de su estudio de configuración o su espacio de grabación.\nDimensiones del modelo\nAltura: 134 mm\nAncho: 63mm\nFormato: Mini micrófono\nCompatibilidad: Micrófono Hollyland\nRecomendación de impresión\nTecnología: FDM\nBoquilla: 0,4 mm\nAltura de capa sugerida: 0,20 mm\nMaterial recomendado: PLA\nSoportes: según la configuración de su impresora\nConsejo: Puedes imprimir el cuerpo en un color y usar otro color para detalles y personalización para que el mini micrófono sea aún más llamativo.\nSi imprimes este modelo, ¡comparte una foto de tu resultado! Esto ayuda mucho a promover el proyecto e inspira a otros creadores.\n¡Disfruta y feliz impresión!\nDiseñador/Creador: GROGO 3D – Mário César",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "hollyland",
+  "audio",
+  "teléfono",
+  "costura",
+  "reina",
+  "música",
+  "tirar a la basura",
+  "vaquera",
+  "barretos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6582b2b3a73dba/design/5504151e9e408dd4.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/02.jpg": [
+   960,
+   1280
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/04.jpg": [
+   960,
+   1280
+  ],
+  "previews/05.jpg": [
+   960,
+   1280
+  ],
+  "previews/06.jpg": [
+   960,
+   1280
+  ],
+  "previews/07.jpg": [
+   960,
+   1280
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3675809.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

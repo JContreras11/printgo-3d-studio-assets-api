@@ -122,7 +122,7 @@ async function gtx(text, fetchFn) {
     const url = useGtx
       ? `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q=${q}`
       : `https://translate.googleapis.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl=es&q=${q}`;
-    const r = await fetchFn(url).catch(() => null);
+    const r = await fetchFn(url, { signal: AbortSignal.timeout(15000) }).catch(() => null);
     if (r?.ok) {
       const j = await r.json();
       if (useGtx) return { text: (j[0] || []).map((s) => s[0]).join(""), lang: j[2] };

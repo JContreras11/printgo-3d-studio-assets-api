@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Chrome headless con copia del perfil logueado de MakerWorld (no toca el Chrome/Brave del dueño).
-# Uso: scripts/chrome.sh start|stop|status|resync
+# Uso: scripts/chrome.sh start|stop|status|resync|captcha [url]
 set -euo pipefail
 SRC="$HOME/Library/Application Support/Google/Chrome"
 PROFILE="${MW_PROFILE:-Profile 4}"
@@ -39,6 +39,16 @@ stop() {
   rm -f "$PIDF"
 }
 
+# Ventana VISIBLE con el perfil del scraper para que el dueño resuelva el captcha de MakerWorld
+# (pulsa "Download 3MF" en el modelo y completa la verificación). Luego: stop && start.
+captcha() {
+  stop >/dev/null 2>&1 || true
+  "$BIN" --remote-debugging-port="$PORT" --user-data-dir="$DIR" --profile-directory="$PROFILE" --no-first-run \
+    "${2:-https://makerworld.com/en/models/951493}" >/dev/null 2>&1 &
+  echo $! > "$PIDF"
+  echo "Resuelve el captcha en la ventana abierta (botón Download 3MF). Después: $0 stop && $0 start"
+}
+
 status() { running && curl -s "http://127.0.0.1:$PORT/json/version" | grep -E 'Browser|webSocket' || echo "detenido"; }
 
-case "${1:-status}" in start|stop|status|resync) "$1" ;; *) echo "uso: $0 start|stop|status|resync" >&2; exit 2 ;; esac
+case "${1:-status}" in start|stop|status|resync|captcha) "$1" "$@" ;; *) echo "uso: $0 start|stop|status|resync|captcha [url]" >&2; exit 2 ;; esac

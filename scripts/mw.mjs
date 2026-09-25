@@ -61,7 +61,7 @@ async function session() {
 async function api(url) {
   const p = await session();
   for (let attempt = 0; ; attempt++) {
-    const r = await p.eval(`fetch(${JSON.stringify(url)}, {credentials: "include"}).then(async r => ({ status: r.status, body: await r.text() }))`);
+    const r = await p.eval(`fetch(${JSON.stringify(url)}, {credentials: "include", signal: AbortSignal.timeout(30000)}).then(async r => ({ status: r.status, body: await r.text() }))`);
     if ((r.status === 429 || r.status >= 500) && attempt < 5) { await sleep(2000 * 2 ** attempt); continue; }
     let json = null;
     try { json = JSON.parse(r.body); } catch { /* texto */ }
@@ -114,7 +114,7 @@ async function discover(target) {
 // ---------- descarga ----------
 async function download(url, dest) {
   for (let attempt = 0; attempt < 4; attempt++) {
-    const r = await fetch(url).catch(() => null);
+    const r = await fetch(url, { signal: AbortSignal.timeout(180000) }).catch(() => null);
     if (r?.ok) {
       fs.mkdirSync(path.dirname(dest), { recursive: true });
       fs.writeFileSync(`${dest}.part`, Buffer.from(await r.arrayBuffer()));
@@ -129,13 +129,19 @@ async function download(url, dest) {
 const extOf = (url, def = "jpg") => (url.split("?")[0].match(/\.(jpe?g|png|webp|gif)$/i)?.[1] || def).toLowerCase().replace("jpeg", "jpg");
 
 let quotaHit = null;
+// Pausa mínima entre peticiones de descarga (ms). Perilla de calibración: MakerWorld pide captcha si se va muy rápido.
+const DL_GAP = +(process.env.MW_DL_GAP ?? 3000);
+let dlTurn = Promise.resolve();
+const dlSlot = () => (dlTurn = dlTurn.then(() => sleep(DL_GAP)));
 // Pide la URL firmada del 3MF de un perfil (misma API que el botón "Download 3MF").
 async function signed3mf(instanceId) {
+  await dlSlot();
   const r = await api(`/api/v1/design-service/instance/${instanceId}/f3mf?type=download`);
   if (r.json?.url) return r.json;
   const msg = `${r.status} ${r.body.slice(0, 300)}`;
   if (r.status === 401) throw new QuotaError(`sesión caducada (${msg}); ejecuta scripts/chrome.sh resync`);
-  if (r.status === 418 || r.status === 429 || /limit|quota|exceed|too many|captcha|verif/i.test(r.body)) throw new QuotaError(msg);
+  if (r.status === 418 || /not a robot|captcha/i.test(r.body)) throw new QuotaError(`captcha de MakerWorld (${msg.slice(0, 80)}); resuélvelo con scripts/chrome.sh captcha`);
+  if (r.status === 429 || /limit|quota|exceed|too many|verif/i.test(r.body)) throw new QuotaError(msg);
   return { error: msg };
 }
 

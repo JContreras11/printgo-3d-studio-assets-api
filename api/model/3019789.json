@@ -1,0 +1,258 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-8-infill-3392657.3mf.xz",
+   "instance_id": "3392657",
+   "name": "Capa de 0,2 mm, 2 paredes, 8% de relleno",
+   "thumbnail": "previews/profiles/3392657.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 42,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1501820,
+   "sha256": "f6857e360ab82e7a2f03b10ea4f7f1dbb2deedb1e2814a7eae5c0e199a2bf1b7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/all-printers-3424305.3mf.xz",
+   "instance_id": "3424305",
+   "name": "Todas las impresoras",
+   "thumbnail": "previews/profiles/3424305.jpg",
+   "print_time_h": 2.4,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 141,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2C",
+    "P1P",
+    "X1 Carbon",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "X1",
+    "X1E",
+    "P1S",
+    "A1 mini",
+    "H2S"
+   ],
+   "default": false,
+   "size": 1589048,
+   "sha256": "aca8e521c9528633c67d601c12c4c19fd044dd53b18c2b169c18315200125e02",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Todas as impressoras",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-printing-increasing-print-3712909.3mf.xz",
+   "instance_id": "3712909",
+   "name": "Impresión multicolor en una sola plancha, aumentando la velocidad de impresión",
+   "thumbnail": "previews/profiles/3712909.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1500768,
+   "sha256": "e70941e7149f6304c75c50fcade61b09593cf9ce5ed86198cf5530603c628f6e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "多色一盘打印，提高打印速度",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-printing-increasing-print-3808257.3mf.xz",
+   "instance_id": "3808257",
+   "name": "Impresión multicolor en una sola plancha, aumentando la velocidad de impresión",
+   "thumbnail": "previews/profiles/3808257.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1500764,
+   "sha256": "eadc8d2c8adacb982c5e1e31fccfb14535c0760f9b5e11ca33a12fcb6ce920ab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "多色一盘打印，提高打印速度",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/petg-most-resistant-3777036.3mf.xz",
+   "instance_id": "3777036",
+   "name": "PETG - MÁS RESISTENTE -",
+   "thumbnail": "previews/profiles/3777036.jpg",
+   "print_time_h": 2.7,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "size": 1586348,
+   "sha256": "8cc273e8078d738a1b153859f54f9f99c5f90d601ee3da35b578c4d0ae0a9953",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "PETG - MAS RESISTENTE -",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  }
+ ],
+ "id": "3019789",
+ "title": "Soporte para controlador PS5 - GTA VI (no se requiere AMS)",
+ "slug": "ps5-controller-stand-gta-vi-no-ams-required",
+ "url": "https://makerworld.com/en/models/3019789-ps5-controller-stand-gta-vi-no-ams-required",
+ "author": "GROGO3D",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡NUEVO MODELO!\n\nSoporte de controlador premium – Edición especial GTA VI\n¡Trae la atmósfera de Vice City directamente a tu configuración! Este exclusivo stand está diseñado para quienes desean organizar su entorno de juego con el máximo estilo, resaltando el mando de su consola con una estética inspirada en el juego más esperado de la década.\nProductos destacados\nDiseño temático exclusivo: logotipo estilizado con el icónico \"VI\" en tonos rosa neón y azul pastel, que aporta el auténtico ambiente de onda sintética de GTA 6.\nLetras destacadas: inscripción \"Grand Theft Auto\" en blanco clásico con un llamativo contorno negro, que garantiza un excelente contraste y fidelidad visual.\nCompatibilidad perfecta: Diseñado a medida para adaptarse perfectamente al controlador PS5 (DualSense), manteniéndolo firme, seguro y listo para la acción.\nAcabado de alta calidad: Estructura negra robusta, ideal para complementar cualquier escritorio, estante o configuración de transmisión para juegos.\nEspecificaciones\nCompatibilidad: Controlador PS5 (DualSense)\nColor base: negro mate\nColores del logotipo: rosa, azul, negro y blanco\nCategoría: Accesorios para juegos / Organización de configuración\nConsejo de jugador: perfecto para regalar a ese amigo coleccionista o para darle a su propio escritorio la mejor mejora visual.",
+ "use_cases": [],
+ "tags": [
+  "ps5",
+  "xbox",
+  "gta 6",
+  "gta",
+  "grand theft auto",
+  "apoyo",
+  "control",
+  "playstation",
+  "sony",
+  "no ams",
+  "noams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb0546b76c4e440/design/877c38b2cec5ebad.png",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3392657.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3424305.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3712909.jpg": [
+   600,
+   586
+  ],
+  "previews/profiles/3808257.jpg": [
+   600,
+   586
+  ],
+  "previews/profiles/3777036.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

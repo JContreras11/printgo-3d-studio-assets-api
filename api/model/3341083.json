@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-3795794.3mf.xz",
+   "instance_id": "3795794",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/3795794.jpg",
+   "print_time_h": 6.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "A1",
+    "X1",
+    "P2S",
+    "H2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "size": 2263328,
+   "sha256": "2cc10d2587376fbf5390559df2766abd34d46b1fb4d986a2fd5a05464a41ac0d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Support under left arm 0.2mm layer 2 walls 10% infill",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3341083",
+ "title": "Decoración de Halloween fantasma de 10\" Fácil impresión en 3D",
+ "slug": "10-ghost-halloween-decoration-easy-3d-print",
+ "url": "https://makerworld.com/en/models/3341083-10-ghost-halloween-decoration-easy-3d-print",
+ "author": "inventorscape",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Fantasma drapeado clásico de 10 \"- Decoración de Halloween\n¡Agrega un toque espeluznante clásico a tu exhibición de Halloween con esta decoración de fantasmas drapeada de 10 pulgadas!\nEste fantasma presenta un diseño fluido inspirado en telas con pliegues profundos y \"brazos\" elevados que le dan la apariencia de un fantasma de sábana tradicional. La cara simple y el drapeado detallado crean un equilibrio divertido entre lo lindo y lo espeluznante, lo que lo convierte en una adición fácil a casi cualquier configuración de Halloween.\nCon aproximadamente 10 pulgadas de alto, es una pieza de exhibición sustancial para una repisa, una estantería, una entrada, una mesa o un centro de mesa de Halloween.\nGenial para:\nDecoración de Halloween y otoño.\nRepisas y estanterías\nExpositores de mesa\nDecoraciones de entrada\nCentros de mesa de temporada espeluznante\nReducir la escala para crear toda una familia de fantasmas\nEl modelo luce genial impreso en el clásico blanco, pero prueba con gris, negro, colores que brillan en la oscuridad u otros colores de Halloween para lograr un estilo diferente.\n\n¡Feliz impresión y feliz embrujo!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "fantasma",
+  "2026",
+  "decoración de halloween 2026",
+  "decoración",
+  "escalofriante",
+  "espeluznante decoración 3d",
+  "otoño 2026",
+  "caer",
+  "guarida",
+  "feliz halloween 2026",
+  "santifica víspera"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USec4640cc296aa9/design/05541229a711b11d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/3795794.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

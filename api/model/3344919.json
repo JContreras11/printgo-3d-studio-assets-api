@@ -1,0 +1,182 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-3800776.3mf.xz",
+   "instance_id": "3800776",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3800776.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "A1",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "size": 1364268,
+   "sha256": "fe24bd4c6f6a3fb45f5a3dfb86f9f1e5d280d3701d77274536a0315feb51eee6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "🖨️ Print Settings Layer Height: 0.16 mm Wall Loops: 2 Infill: 15% Supports: Not required Color: 3-color multicolor print",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/30-mini-pumpkins-16mm-layer-2-walls-15-infill-3801274.3mf.xz",
+   "instance_id": "3801274",
+   "name": "30 mini calabazas (capa de 0,16 mm, 2 paredes, 15 % de relleno)",
+   "thumbnail": "previews/profiles/3801274.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1966216,
+   "sha256": "06072b7afbf1351650a26e1dcc8ddac53bf9af7362df14279c6a004dde3171c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "30個のミニカボチャ(.16mm layer, 2 walls, 15% infill)",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3344919",
+ "title": "Mini calabaza de Halloween",
+ "slug": "mini-halloween-pumpkin",
+ "url": "https://makerworld.com/en/models/3344919-mini-halloween-pumpkin",
+ "author": "panda_love",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Mini calabaza de Halloween\nUna pequeña y linda decoración de calabaza de Halloween para tu escritorio, estante o exhibición de Halloween.\nSu tamaño compacto facilita su impresión y colocación en casi cualquier lugar. Imprime varias calabazas de diferentes colores para crear tu propia escena de Halloween.\nTamaño\nDimensiones: 15,93 × 16,36 × 11,55 mm\nGenial para\ndecoraciones de halloween\nExpositores de escritorio y estanterías.\nDecoraciones de fiesta\nexhibiciones estacionales\nEscenas en miniatura\n¡Diviértete creando tu propia colección de calabazas de Halloween!\n\n・Estuche de calabazas de Halloween: caja Jack-o'-Lantern\n[\n\n・Cubo de dulces de calabaza para Halloween\n[\n\n・Panda rodante: linda figura de panda\n[",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2026",
+  "calabaza de halloween",
+  "jack o lantern",
+  "mini calabaza",
+  "calabaza en miniatura",
+  "decoración de halloween",
+  "decoracion de halloween",
+  "decoración de halloween 2026",
+  "decoración de temporada",
+  "decoración de otoño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US89b2f89c3cbe0f/design/1f160cf51b4f4f22.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.jpg",
+  "previews/09.png",
+  "previews/10.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   1333
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.png": [
+   1000,
+   750
+  ],
+  "previews/10.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3800776.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3801274.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/4-pieces-0-2mm-layer-2-walls-15-infill-3618911.3mf.xz",
+   "instance_id": "3618911",
+   "name": "4 piezas de capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3618911.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 76,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 28499352,
+   "sha256": "9d993ecf95cb72d11ef701feb1c8bfba3eae31f1bb3d64eca468a03fd71f097b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "4 pieces 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "4 pieces 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3198176",
+ "title": "Mini Calabazas – Decoración de Mesa de Otoño de 3 cm",
+ "slug": "mini-pumpkins-3-cm-decor-fall-table-decoration",
+ "url": "https://makerworld.com/en/models/3198176-mini-pumpkins-3-cm-decor-fall-table-decoration",
+ "author": "NowCraft3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Un conjunto de 4 calabazas en miniatura diseñadas para decoraciones acogedoras de otoño y otoño.\nCada calabaza mide aproximadamente 3 cm, lo que las hace perfectas para crear pequeños arreglos de temporada, decoraciones de mesa, decoración de bandejas y exhibiciones de otoño.\nSu tamaño compacto también los hace ideales como:\ndecoraciones de mesa\nadiciones a los centros de mesa de otoño\ndecoración de estantes y bandejas\nexhibiciones estacionales en miniatura\nDecoraciones de acción de gracias\npequeños regalos o accesorios decorativos\nLas calabazas se ven especialmente hermosas impresas en naranja con un tallo marrón o chocolate, pero puedes crear fácilmente tus propias combinaciones usando beige, marfil, terracota, verde u otros colores otoñales.\nPara una apariencia aún más natural, intenta imprimir el cuerpo de la calabaza con Fuzzy Skin en Bambu Studio.\nEl juego incluye 4 mini calabazas, cada una de aproximadamente 30 mm / 3 cm.",
+ "use_cases": [],
+ "tags": [
+  "decoración",
+  "decoración",
+  "arte",
+  "mini",
+  "calabaza",
+  "cifra",
+  "futuro",
+  "difuso",
+  "otoño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe5371456bd7fb1/design/8a8b1a12dfaab656.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3618911.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

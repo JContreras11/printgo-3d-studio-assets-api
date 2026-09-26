@@ -145,7 +145,9 @@ export async function toEs(text, { fetchFn = fetch, curated = false } = {}) {
   if (!clean || !/\p{L}/u.test(clean)) return clean;
   const c = fetchFn === fetch ? loadCache() : {}; // tests con fetch simulado no tocan la caché real
   const key = curated ? `c:${clean}` : clean;
-  if (c[key] !== undefined) return c[key];
+  // La caché se autolimpia: si el valor guardado quedó sin sanear o en inglés (versiones viejas la escribieron así), se ignora y se reintenta traducir.
+  const hit = c[key] === undefined ? "" : sanitize(c[key]);
+  if (hit && !(clean !== hit && looksEnglish(hit))) return hit;
   let result = "";
   // gtx acepta ~5000 caracteres por petición; se trocea por párrafos.
   const chunks = clean.slice(0, 4800).split(/\n\n/);

@@ -1,0 +1,113 @@
+{
+ "files": [
+  {
+   "path": "model/0-08mm-layer-4-walls-15-infill-3790997.3mf.xz",
+   "instance_id": "3790997",
+   "name": "Capa de 0,08 mm, 4 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3790997.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "size": 11033312,
+   "sha256": "849097fbe9495d53d97f2e3b1c0ec4a883704fe77edbbf20e0806f65d56e6b70",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3337459",
+ "title": "Mini juego de ejército de calabazas.",
+ "slug": "mini-pumpkin-army-game",
+ "url": "https://makerworld.com/en/models/3337459-mini-pumpkin-army-game",
+ "author": "mj.tom",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Mini lindo ejército de calabazas\nUn pequeño ejército de adorables calabazas listas para invadir tu escritorio, teclado, estante... ¡o el bolsillo de tu amigo!\n¡Imprime uno, imprime diez o convoca a todo un ejército de calabazas!\nJuego: Caza De Calabazas\nPiensa en la búsqueda de huevos de Pascua... ¡pero en Halloween!\nImprime un montón de mini calabazas y escóndelas en la casa, en el trabajo, en una fiesta o incluso en algún lugar de la ciudad para que la gente las descubra. ¡Deja una pequeña calabaza y mira quién la encuentra!\nUna pequeña sorpresa de Halloween, muchas caras confundidas y, con suerte, muchas sonrisas.\n\nSon geniales como:\nCompañeros de escritorio de Halloween\nPequeñas decoraciones espeluznantes\nPequeños obsequios y obsequios para fiestas.\nFichas para juegos de mesa\nEscondido alrededor de la casa para que la gente lo descubra.\nCaza de calabazas de Halloween\nUna divertida prueba de impresora\n\nNota de impresión: debido al pequeño tamaño del tallo en la parte superior de la calabaza, existe la posibilidad de que después de la impresión haya algunos cordones entre una calabaza y otra, si eso sucede, ¡simplemente retíralo y disfruta de tu ejército!\n\nEl modelo está diseñado para imprimir fácilmente sin soportes y es apto para principiantes.\n¡Llena tu placa de construcción, comienza a imprimir y construye tu propio Mini Cute Pumpkin Army!\nSi disfrutas este modelo, te agradecería mucho un Boost.\n¡Feliz impresión y feliz caza de calabazas!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 1978",
+  "halloween 2",
+  "juego",
+  "game boy",
+  "juguete",
+  "figurilla"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88f87e77aea47c/design/e1f1a8a5d6d2ebcb.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3790997.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

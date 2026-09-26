@@ -1,0 +1,217 @@
+{
+ "files": [
+  {
+   "path": "model/2-parts-0-20mm-layer-2-walls-15-infill-3619107.3mf.xz",
+   "instance_id": "3619107",
+   "name": "2 partes de capa de 0,20 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3619107.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 74,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "X1E",
+    "X2D",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X1",
+    "A1 mini"
+   ],
+   "default": true,
+   "size": 13728168,
+   "sha256": "001fbf24fb7486df55459a0f2fa3e30608227617ff9faa32893a3ac701bd292a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "2 parts 0.20mm layer, 2 walls, 15% infill",
+    "profile_notes": "2 parts 0.20mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-16-nozzle-two-color-single-plate-split-parts-fas-3806277.3mf.xz",
+   "instance_id": "3806277",
+   "name": "Impresión rápida de piezas divididas de placa única bicolor de 0,16 boquillas",
+   "thumbnail": "previews/profiles/3806277.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 13681804,
+   "sha256": "6e3af4f2aa36345feda823d0e2f439da80adb729dee8e63496b58aef24e42562",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16喷嘴，双色一盘分件快速打印",
+    "profile_notes": "2 parts 0.20mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/faster-and-optimized-best-print-profile-color-spli-3724382.3mf.xz",
+   "instance_id": "3724382",
+   "name": "Más rápido y optimizado: mejor división de color del perfil de impresión, sin AMS",
+   "thumbnail": "previews/profiles/3724382.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 28,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "size": 13817280,
+   "sha256": "2fa1ac507ba1ea37cc50bee698efff18c86edb67bee467d823086d3b1acc558b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Faster and Optimized - Best Print Profile Color Split No AMS",
+    "profile_notes": "0.2mm layer, 2 walls, 8% infill Optimization for faster printing and high quality.",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/optimization-for-faster-printing-3645636.3mf.xz",
+   "instance_id": "3645636",
+   "name": "Optimización para una impresión más rápida",
+   "thumbnail": "previews/profiles/3645636.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 55,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "X2D",
+    "H2S",
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "size": 13953624,
+   "sha256": "efa556fc4a81032e6a7f2fc125df2831a3d0caa3dc886720d4634051d40211ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3198342",
+ "title": "Conjunto de decoración de calabaza Halloween Otoño Otoño Decoración del hogar",
+ "slug": "pumpkin-decor-set-halloween-fall-autumn-home-decor",
+ "url": "https://makerworld.com/en/models/3198342-pumpkin-decor-set-halloween-fall-autumn-home-decor",
+ "author": "NowCraft3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Un conjunto de calabazas decorativas para la decoración del hogar en otoño y otoño.\nEl juego incluye tres calabazas a juego que funcionan perfectamente como decoración de temporada para mesas, estantes, bandejas y acogedores arreglos otoñales.\nDiseñadas con una forma acanalada limpia, estas mini calabazas encajan maravillosamente en interiores modernos, minimalistas, japoneses y neutros.\nPerfecto para:\ndecoración de otoño\nDecoraciones de otoño\nexhibiciones de calabaza\nEstilo de mesa y estantería\nDecoración del hogar de temporada\nArreglos de acción de gracias\nDecoraciones interiores acogedoras\nImprímelos en los clásicos naranja calabaza, blanco y beige, o crea tu propia combinación de colores.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "'decoración",
+  "decoración",
+  "arte",
+  "calabaza",
+  "colocar",
+  "caer",
+  "otoño",
+  "'hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3aa759ad4e2768/design/85ad6208e2b99415.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3619107.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3806277.jpg": [
+   321,
+   326
+  ],
+  "previews/profiles/3724382.jpg": [
+   600,
+   453
+  ],
+  "previews/profiles/3645636.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

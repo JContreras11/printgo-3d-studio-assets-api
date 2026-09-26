@@ -1,0 +1,323 @@
+{
+ "files": [
+  {
+   "path": "model/full-kit-3693987.3mf.xz",
+   "instance_id": "3693987",
+   "name": "Equipo completo",
+   "thumbnail": "previews/profiles/3693987.jpg",
+   "print_time_h": 3.9,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 2435440,
+   "sha256": "560207a9266c630eadc8d84f7854399bf54158912d66aa7c1c02e60e950d91c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Full Kit",
+    "profile_notes": "Only print 1 of the 3 styles. Gyroid is recommended and the one shown in the picture. Honeycomb will give you a stronger feel. Triangles is a good inbetween, but it's much harder to get right.",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/a1-mini-full-kit-3727563.3mf.xz",
+   "instance_id": "3727563",
+   "name": "A1 mini - Kit completo",
+   "thumbnail": "previews/profiles/3727563.jpg",
+   "print_time_h": 4.3,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1",
+    "P1S",
+    "H2D",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "size": 2466764,
+   "sha256": "fba3eebb4ebd2b21eebd85e55d27275624bcf7974ff83e7927e59346804d9eec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1 Mini - Full Kit",
+    "profile_notes": "No need to print all 3 pumpkins. These are 3 styles of infill that give it a different feel. The gyroid is more squishy, honeycomb stronger and triangles a good middle ground. If you don't have much experience, go with Honeycomb",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/optimization-for-faster-printing-3716164.3mf.xz",
+   "instance_id": "3716164",
+   "name": "Optimización para una impresión más rápida",
+   "thumbnail": "previews/profiles/3716164.jpg",
+   "print_time_h": 3.6,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 3407920,
+   "sha256": "d654314bc35f538718047126aa56c259bb55482af5c567a7d13725213258f880",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Optimization for faster printing",
+    "profile_notes": "0.2mm layer, 2 walls, 8% infill Optimization for faster printing and high quality.",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/with-face-a1-mini-requires-ams-3727589.3mf.xz",
+   "instance_id": "3727589",
+   "name": "Con cara: A1 mini (requiere AMS)",
+   "thumbnail": "previews/profiles/3727589.jpg",
+   "print_time_h": 4.9,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "A2L",
+    "P1S",
+    "A1",
+    "X1",
+    "X2D",
+    "P1P"
+   ],
+   "default": false,
+   "size": 2401560,
+   "sha256": "ff86dab2b35d5b8756ceba1030460b9e9f35dbcd6f71676c82710573d38ae2ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "With Face - A1 mini (Requires AMS)",
+    "profile_notes": "No need to print all 3 pumpkins. These are 3 styles of infill that give it a different feel. The gyroid is more squishy, honeycomb stronger and triangles a good middle ground. If you don't have much experience, go with Honeycomb",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/with-face-require-ams-3719795.3mf.xz",
+   "instance_id": "3719795",
+   "name": "Con Cara (Requiere AMS)",
+   "thumbnail": "previews/profiles/3719795.jpg",
+   "print_time_h": 4.4,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "size": 2364332,
+   "sha256": "0fb4674f9e87a4efc172f9ca6cf3f230b90a2ff576c41749481d102de41e4fb8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "With Face (Require AMS)",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  }
+ ],
+ "id": "3258748",
+ "title": "Porta dulces de Halloween de calabaza termoformado",
+ "slug": "thermoformed-pumpkin-halloween-candy-holder",
+ "url": "https://makerworld.com/en/models/3258748-thermoformed-pumpkin-halloween-candy-holder",
+ "author": "3L3Ddesigns",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "¡Una pequeña calabaza para tu configuración de Halloween!\nEsta calabaza termoformada tiene un estampado sencillo y divertido diseñado para aportar vibraciones espeluznantes de temporada a tu espacio. Funciona muy bien como decoración de Halloween, soporte para dulces o obsequio de fiesta.\n\nDiseño impreso en 3D\nConstrucción termoformada\nIdeal para decoraciones de Halloween\nPerfecto para pequeños obsequios y golosinas\nFácil de personalizar con diferentes colores.\n\nYa sea que estés decorando para Halloween, organizando una fiesta espeluznante o simplemente quieras una linda calabaza en tu escritorio, ¡esta está lista para imprimir!\nSi haces uno, ¡me encantaría verlo!\n\n¡No olvides publicar tu perfil impreso/fotos y darle me gusta si te gusta el modelo!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "termoformado",
+  "decoracion de halloween",
+  "recipiente",
+  "almacenamiento",
+  "favor de fiesta",
+  "escalofriante",
+  "otoño",
+  "caer",
+  "porta dulces",
+  "decoración de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7722ba2b09b475/design/c4fc72cac69eb329.jpg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   746
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/06.jpg": [
+   899,
+   1599
+  ],
+  "previews/07.jpg": [
+   1000,
+   562
+  ],
+  "previews/08.jpg": [
+   1000,
+   562
+  ],
+  "previews/09.jpg": [
+   899,
+   1599
+  ],
+  "previews/profiles/3693987.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3727563.jpg": [
+   600,
+   448
+  ],
+  "previews/profiles/3716164.jpg": [
+   600,
+   524
+  ],
+  "previews/profiles/3727589.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3719795.jpg": [
+   600,
+   337
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

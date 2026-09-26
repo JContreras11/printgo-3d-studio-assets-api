@@ -1,0 +1,124 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-3-infill-3800045.3mf.xz",
+   "instance_id": "3800045",
+   "name": "Capa de 0,16 mm, 2 paredes, 3% de relleno",
+   "thumbnail": "previews/profiles/3800045.jpg",
+   "print_time_h": 4.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 33426072,
+   "sha256": "518b425154d41b5de1c6a09e24e688f5909aa64af70e40f8549831dda0ea1483",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 3% infill",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  }
+ ],
+ "id": "3344315",
+ "title": "Columpio fantasma magnético: ¡accesorio para impresora de Halloween!",
+ "slug": "magnetic-ghost-swing-halloween-printer-accessory",
+ "url": "https://makerworld.com/en/models/3344315-magnetic-ghost-swing-halloween-printer-accessory",
+ "author": "AEMravan",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡Columpio magnético de fantasmas de Halloween!\n¡En el refrigerador, en la impresora, en la pared de tu Office Cube, cualquier lugar donde tengas una superficie metálica ahora puede ser un lugar increíble para entregar tu Ghost Swing!\nNo se requiere AMS, todas las piezas se imprimen por separado. La rama del árbol tiene 2 variantes, la primera está dividida en dos partes y requiere pegamento para su montaje; sin embargo, esta ofrece una captura de balanceo completamente capturada (y un poco más fuerte). La desventaja es que necesitas un poco de pegamento y predeterminar en qué dirección quieres que se balancee el fantasma.\n\n¿No te preocupa que el fantasma se caiga de vez en cuando? Luego simplemente imprima una rama de una sola pieza en la Placa 4, ¡tiene ganchos para permitir colgar el columpio!\n\nAsamblea\nEl montaje es bastante sencillo, recomiendo usar una gota de pegamento en las piezas que unes para evitar que se deshagan con el tiempo.\nColoque el Ghost en la base del columpio asegurándose de alinear los orificios de los brazos.\n\nLuego, instale los 2 varillajes de giro superiores asegurándose de que las aberturas de los anillos queden hacia usted como se muestra aquí:\n\nSi usa la rama de árbol dividida, coloque los imanes de 10x3 mm en una sección y pegue las clavijas de alineación:\n\nLuego, cuelga el columpio en la dirección en la que deseas que se balancee en la mitad de la rama del árbol:\n\nAplica un poco de pegamento y cierra el conjunto con la segunda mitad de la rama del árbol, ¡y listo!\n\nSi utiliza la rama de árbol de una sola pieza de la placa n.° 4, tenga en cuenta que hay una capa de PAUSA para permitir la inserción de los imanes de 10x3 mm. Asegúrese de que los imanes no tengan un grosor superior a 10,08 mm o correrá el riesgo de estrellar el cabezal de impresión* Esta rama de árbol permite enganchar fácilmente el columpio sin predeterminar la dirección del giro:",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2026",
+  "víspera de todos los santos 2026",
+  "imán",
+  "imán de 10 mm x 3 mm",
+  "magnético",
+  "refrigerador",
+  "3d",
+  "impresión 3d",
+  "cifra"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US236355ab9bce30/design/76f63e9dfd0f39e1.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3800045.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,151 @@
+{
+ "files": [
+  {
+   "path": "model/no-ams-seperated-parts-3793386.3mf.xz",
+   "instance_id": "3793386",
+   "name": "SIN AMS (PARTES SEPARADAS)",
+   "thumbnail": "previews/profiles/3793386.jpg",
+   "print_time_h": 10.5,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "size": 8680416,
+   "sha256": "f4005b41b60b22bd8feac3b0ff63d5f6c50f599bec1f6216f407b4f90f02c1a4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "NO AMS (SEPERATED PARTS)",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/a1-mini-no-ams-seperated-parts-3793405.3mf.xz",
+   "instance_id": "3793405",
+   "name": "A1 mini NO AMS (PIEZAS SEPARADAS)",
+   "thumbnail": "previews/profiles/3793405.jpg",
+   "print_time_h": 11.8,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8843376,
+   "sha256": "c25a2cb0d294eb4a82a8f09ebffa74cbfc190258a22747c40d175e8baf2eae68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1 MINI NO AMS (SEPERATED PARTS)",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  }
+ ],
+ "id": "3339289",
+ "title": "Bulbasaur de Calabaza – Figura de Halloween (Sin AMS)",
+ "slug": "pumpkin-bulbasaur-halloween-figurine-no-ams",
+ "url": "https://makerworld.com/en/models/3339289-pumpkin-bulbasaur-halloween-figurine-no-ams",
+ "author": "Keylor2.0",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Impulsame Apoya la serie Si disfrutas este modelo, un impulso me ayudará mucho a seguir lanzando nuevos diseños. Calabaza Bulbasaur – Figura de Halloween (No AMS) - Altura 16 cm\nBulbasaur se transforma en Halloween con su bombilla clásica reemplazada por una calabaza espeluznante.\nEl modelo combina la reconocible forma y expresión de Bulbasaur con una gran calabaza con detalles y colores inspirados en Halloween, creando una versión de temporada única del personaje.\nDiseñados específicamente para la impresión No AMS, los diferentes colores se separan en partes individuales que se pueden imprimir por separado y ensamblar después.\nPerfecto para fanáticos de Pokémon, colecciones de Halloween y exhibiciones de juegos espeluznantes.",
+ "use_cases": [],
+ "tags": [
+  "bulbasaur",
+  "víspera de todos los santos",
+  "pokémon",
+  "pokemon",
+  "pokémon tcg",
+  "calabaza",
+  "calabaza 2026",
+  "noams",
+  "sin ams",
+  "no ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2ebe6cefc7433e/design/b8aef85c7df3def0.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3793386.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3793405.jpg": [
+   600,
+   448
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

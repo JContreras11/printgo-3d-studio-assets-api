@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/high-quality-print-3803115.3mf.xz",
+   "instance_id": "3803115",
+   "name": "Impresión de alta calidad",
+   "thumbnail": "previews/profiles/3803115.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "size": 11333672,
+   "sha256": "3c3b2d67e994eaf9a00b74b4e2a5818fb0bcc5e752cb2a5ec373decd37c50fb5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "High quality print",
+    "profile_notes": "Print note: Slicer generated supports for the teeth. They werent connected on my print and came out perfect. I left the supports on in the print profile; Id rather a little wasted filament than risk anything happening.",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3346772",
+ "title": "Murciélago y luna - Decoración de Halloween japonesa",
+ "slug": "bat-moon-japandi-halloween-decor",
+ "url": "https://makerworld.com/en/models/3346772-bat-moon-japandi-halloween-decor",
+ "author": "lynj",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Quería que este pareciera Halloween sin convertirse en las habituales calabazas, calaveras y fantasmas que gritan.\nEstilo japonés, el murciélago más adorable que jamás haya existido. Sus diminutos dientes son simplemente adorables.\n\nSe ve especialmente bien impreso en dos colores como se muestra en la imagen, pero también funcionaría muy bien como escultura de un solo color. Lindo, un poco espeluznante y lo suficientemente sutil como para que realmente lo dejaría fuera mucho más allá de Halloween.\n\nUna pieza de decoración de Halloween realmente simple que aún se siente muy especial.",
+ "use_cases": [],
+ "tags": [
+  "murciélago",
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "decoración de halloween 2026",
+  "japonés"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9b279d31a65acb/design/fac865139cdee795.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3803115.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

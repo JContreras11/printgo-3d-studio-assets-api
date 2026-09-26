@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/mini-ghost-sitting-on-monitor-or-shelf-3810714.3mf.xz",
+   "instance_id": "3810714",
+   "name": "Mini fantasma: sentado en un monitor o estante",
+   "thumbnail": "previews/profiles/3810714.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "size": 1396620,
+   "sha256": "0ec8ef9912945e9316a2493f0306d9fa877e84df56d4b24107006bbc0542a897",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Mini Ghost – Sitting on Monitor or Shelf",
+    "profile_notes": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3352694",
+ "title": "Mini fantasma de Halloween: sentado en un monitor o estante",
+ "slug": "mini-ghost-halloween-sitting-on-monitor-or-shelf",
+ "url": "https://makerworld.com/en/models/3352694-mini-ghost-halloween-sitting-on-monitor-or-shelf",
+ "author": "3d_mass",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Criaturas",
+ "description": "Halloween 2026\n¡ABUCHEO! ¿Me viste?\n¡Dale una huella a este pequeño fantasma antes de Halloween y escóndela en algún lugar inesperado!\nColóquelo en su monitor, estante, escritorio o en cualquier lugar donde sus amigos no esperen encontrar un pequeño fantasma acechando.\nImprime uno... o todo un pequeño ejército de fantasmas.\n¿Quién lo detectará primero?",
+ "use_cases": [],
+ "tags": [
+  "mini",
+  "fantasma",
+  "víspera de todos los santos",
+  "víspera de todos los santos 2026",
+  "monitor",
+  "estante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa48c0841c5861b/design/12d78c59ee839315.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1362
+  ],
+  "previews/profiles/3810714.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

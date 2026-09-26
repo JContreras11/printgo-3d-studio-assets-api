@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3809765.3mf.xz",
+   "instance_id": "3809765",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3809765.jpg",
+   "print_time_h": 6.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "A1",
+    "X2D",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "size": 24677208,
+   "sha256": "b205d3428dd6ac734363ecd020c4bd95ca8a255ae389ef6051266860974c14ae",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3351967",
+ "title": "Jinete sin cabeza – Decoración de Halloween",
+ "slug": "headless-horseman-halloween-decoration",
+ "url": "https://makerworld.com/en/models/3351967-headless-horseman-halloween-decoration",
+ "author": "katogab10",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Jinete sin cabeza – Decoración de Halloween\nUn detallado jinete sin cabeza cabalgando a través de un cementerio espeluznante mientras sostiene su cabeza de calabaza tallada.\nBoost MeUn pequeño impulso tuyo = ¡un gran empujón para mi próximo proyecto!\n¡ADVERTENCIA! ¡¡¡Retire los soportes con cuidado y con paciencia!!!\nAviso de uso comercial\nSi desea vender impresiones de mis modelos, suscríbase a la licencia de soporte comercial en mi Patreon.\nEnlace de Patreon en mi biografía.\n¡Gracias por apoyar mi trabajo!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2026",
+  "víspera de todos los santos 2026",
+  "calabaza",
+  "jack o",
+  "jack o lantern",
+  "escalofriante",
+  "horror",
+  "decoración de halloween",
+  "decoracion de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaa3d11e4c50fc4/design/1e0ac4327ccfdff5.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   666,
+   1000
+  ],
+  "previews/02.jpg": [
+   666,
+   1000
+  ],
+  "previews/03.jpg": [
+   666,
+   1000
+  ],
+  "previews/04.jpg": [
+   666,
+   1000
+  ],
+  "previews/profiles/3809765.jpg": [
+   400,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

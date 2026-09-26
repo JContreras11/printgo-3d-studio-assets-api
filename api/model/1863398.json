@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/0-24mm-layer-3-walls-10-infill-1993336.3mf.xz",
+   "instance_id": "1993336",
+   "name": "Capa de 0,24 mm, 3 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/1993336.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 297,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2792280,
+   "sha256": "a492ba7ad466cfe44463e234d5820f9c7f1d86bb6a873c184a9a12fe45416e24",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1863398",
+ "title": "Calabaza de Halloween Fidget",
+ "slug": "halloween-pumpkin-fidget",
+ "url": "https://makerworld.com/en/models/1863398-halloween-pumpkin-fidget",
+ "author": "user_2175937239",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Aquí está mi diseño sobre un juguete de calabaza de Halloween. Esto es parte de mi colección de inquietos de Halloween. Mi diseño GHOST Fidget está vinculado aquí. Tengo otros diseños que estaré subiendo un poco más tarde. Por favor, déjame saber qué te parece y publica algunas fotos de tus impresiones. Esta impresión está optimizada para imprimirse con las configuraciones disponibles. ¡¡Cambie la configuración BAJO SU PROPIO RIESGO!!\n\nFeliz impresión.\nMembresíaSi quieres vender este diseño, únete a mi membresía comercial, o si te gustan mis diseños, ¡déjame un consejo! Impúlsame Si te gusta el diseño, por favor dame un impulso, realmente me ayuda a crear más diseños.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "inquietarse 12",
+  "juguete",
+  "sensorio",
+  "inquietud sensorial",
+  "divertido",
+  "divertido 2025",
+  "víspera de todos los santos",
+  "rápido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5b79ade9d74556/design/2025-10-06_0534894bbce3f8.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   864,
+   1184
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/04.jpg": [
+   1000,
+   1328
+  ],
+  "previews/05.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/1993336.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

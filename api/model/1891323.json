@@ -1,0 +1,142 @@
+{
+ "files": [
+  {
+   "path": "model/skeletons-0-16mm-layer-2-walls-15-infill-2026082.3mf.xz",
+   "instance_id": "2026082",
+   "name": "Esqueletos: capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/2026082.jpg",
+   "print_time_h": 6.9,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 117,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 4070456,
+   "sha256": "f0b5848d814c3b88154c807438cae0b2b3cb373b642c1073c4d281f24a0de5a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Skeletons - 0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/coffins-ams-0-16mm-layer-2-walls-15-infill-2026088.3mf.xz",
+   "instance_id": "2026088",
+   "name": "Ataúdes - AMS, capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/2026088.jpg",
+   "print_time_h": 12,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2343668,
+   "sha256": "ad23b464d0ac7524eed33bba8796c7a9e363475819646c0ffecde095616c87c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Coffins - AMS, 0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "1891323",
+ "title": "Pequeños esqueletos de Halloween",
+ "slug": "little-halloween-skeletons",
+ "url": "https://makerworld.com/en/models/1891323-little-halloween-skeletons",
+ "author": "jdormer9",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Criaturas",
+ "description": "¡Pequeñas figuras espeluznantes listas para salir de las sombras y llegar a tu escritorio, estante o impresora 3D!\nPerfecto para combinar con tus pequeñas mascotas de Halloween o tus pequeños fantasmas de Halloween: juntos crean la miniescena embrujada definitiva.\n\nIncluye\nEsqueletos – 4 variantes\nAtaúdes – 3 diseños\nCaracterísticas\nTamaño mini: hasta 25 mm de altura\nMezcla y combina: crea tu propia configuración espeluznante\nColeccionable: imprímelos todos y amplía tu equipo de Halloween\nNo se necesitan soportes: impresión limpia y sencilla\nImprimir instrucciones\nAltura de capa: 0,16 mm\nSin soportes\nNo se necesita ala\n\nOtros modelos",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 2025",
+  "víspera de todos los santos 2026",
+  "concurso de halloween",
+  "aterrador",
+  "escalofriante",
+  "esqueleto",
+  "esqueleto 2025",
+  "esqueletos",
+  "ataúd",
+  "ataúdes"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb19e186d9836c1/design/2025-10-15_0798e9edf67bb.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2026082.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2026088.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

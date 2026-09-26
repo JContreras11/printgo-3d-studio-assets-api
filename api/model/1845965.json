@@ -1,0 +1,315 @@
+{
+ "files": [
+  {
+   "path": "model/m-1972762.3mf.xz",
+   "instance_id": "1972762",
+   "name": "METRO",
+   "thumbnail": "previews/profiles/1972762.jpg",
+   "print_time_h": 10.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 104,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2S",
+    "X1E",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 20549100,
+   "sha256": "5f50c0e29342e8127ac179f2a41e0f4b3577d0e44e8194ebcf134b8224a2deca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "M",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/faster-print-m-0-28mm-layer-2-walls-15-infill-2079864.3mf.xz",
+   "instance_id": "2079864",
+   "name": "Impresión más rápida - M - capa de 0,28 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/2079864.jpg",
+   "print_time_h": 8.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "A1",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 20744908,
+   "sha256": "b02fbd6e734abbdb51c9bb2bea87c0b31e41f169a8d0c1ba84e97a875f50b7c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/l-2004148.3mf.xz",
+   "instance_id": "2004148",
+   "name": "l",
+   "thumbnail": "previews/profiles/2004148.jpg",
+   "print_time_h": 12.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 60,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 20552980,
+   "sha256": "baefc0f76dd3270138e4bfa5828e74a970d5118ffc2d8a23d3abfe5b8c578707",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "L",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/l-optimized-painted-teeth-2-on-1-plate-3637621.3mf.xz",
+   "instance_id": "3637621",
+   "name": "L Optimizado - Dientes pintados - Placa 2 en 1",
+   "thumbnail": "previews/profiles/3637621.jpg",
+   "print_time_h": 23.9,
+   "plates": 1,
+   "rating": 2,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "A2L",
+    "H2S",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "size": 21411868,
+   "sha256": "fa73fd59385f3dab1f2f9e23e31a48115ca6726bf34f2811bd11ad87a6643329",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "L Optimized - Painted Teeth - 2 on 1 plate",
+    "profile_notes": "2 on 1 plate mask mesh - https://makerworld.com/en/models/1299117-mask-mesh-for-cosplay-eyes-hidden-vision-screen?from=search#profileId-1331084",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/l-optimized-painted-teeth-3627584.3mf.xz",
+   "instance_id": "3627584",
+   "name": "L optimizado (dientes pintados)",
+   "thumbnail": "previews/profiles/3627584.jpg",
+   "print_time_h": 12.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "A2L",
+    "H2S",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "H2C",
+    "P2S"
+   ],
+   "default": false,
+   "size": 21422956,
+   "sha256": "e60b34a9c8cf750cdb315ae7490ab4278e387e804e52a7254262b8e6aef15770",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "L Optimized (Painted Teeth)",
+    "profile_notes": "Modified the L profile (even though the designer called it XL in the file name, so I just left it) a little bit to use better support settings (and remove the unnecessary supports around the strap hole) & painted the teeth. Printed some glow mesh as well and added some threaded heat inserts. https://makerworld.com/en/models/1299117-mask-mesh-for-cosplay-eyes-hidden-vision-screen#profileId-1331084",
+    "creation_date": "2026-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/s-2004159.3mf.xz",
+   "instance_id": "2004159",
+   "name": "S",
+   "thumbnail": "previews/profiles/2004159.jpg",
+   "print_time_h": 8.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2S",
+    "X1E",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 20545092,
+   "sha256": "37f637bb68b3943fed7f42a6de99d6b7fc5e13312a27e9f6bac7b9686c56bfa8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "S",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1845965",
+ "title": "Máscara de calabaza malvada",
+ "slug": "evil-pumpkin-mask",
+ "url": "https://makerworld.com/en/models/1845965-evil-pumpkin-mask",
+ "author": "YankeePrints",
+ "category": "halloween-2026",
+ "source_category": "Atrezzo y cosplay > Máscaras y cascos",
+ "description": "¡Una mascarilla divertida para una época divertida del año!\n\nPintar es sencillo, si usas PETG el hilo queda fantástico cuando lo dejas en los dientes.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "mascarilla",
+  "truco o trato",
+  "espeluznante",
+  "aterrador",
+  "concurso",
+  "calabaza",
+  "cosplay",
+  "traje",
+  "decoración",
+  "escalofriante",
+  "noche"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc64ce27c39777c/design/2025-10-01_673c51bc405de.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   562,
+   1000
+  ],
+  "previews/02.jpg": [
+   563,
+   1000
+  ],
+  "previews/03.jpg": [
+   563,
+   1000
+  ],
+  "previews/profiles/1972762.jpg": [
+   524,
+   393
+  ],
+  "previews/profiles/2079864.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/2004148.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/3637621.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3627584.jpg": [
+   277,
+   600
+  ],
+  "previews/profiles/2004159.jpg": [
+   337,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

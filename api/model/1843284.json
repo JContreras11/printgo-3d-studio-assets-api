@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-1969540.3mf.xz",
+   "instance_id": "1969540",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/1969540.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 277,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2C",
+    "P1S",
+    "X2D",
+    "A2L",
+    "H2D Pro",
+    "A1 mini",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": true,
+   "size": 14699124,
+   "sha256": "18f3ba7ec857dab71cfeb9c8afd11f8b50ed27769e6db9d9be9036a8cefc2591",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/variable-layer-smooth-aesthetic-optimization-2088520.3mf.xz",
+   "instance_id": "2088520",
+   "name": "Capa variable, optimización estética suave",
+   "thumbnail": "previews/profiles/2088520.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 152,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2S",
+    "H2D",
+    "P1S",
+    "A1",
+    "X1E",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "X2D"
+   ],
+   "default": false,
+   "size": 14841464,
+   "sha256": "71dbe33538b2c1bf43158d322044cf0bb1d4bbf5de72181624319428b18bbbec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1843284",
+ "title": "Pequeño fantasma de Halloween (compatible con candelitas LED)",
+ "slug": "little-halloween-ghost-led-tealight-compatible",
+ "url": "https://makerworld.com/en/models/1843284-little-halloween-ghost-led-tealight-compatible",
+ "author": "deltaprints_de",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Estamos iniciando la temporada de Halloween de este año con un lindo fantasma. El modelo es sencillo de imprimir, no requiere soportes y es compatible con una candelita LED o una pequeña fuente de luz que se puede colocar fácilmente en el interior.\n\nEl modelo tiene unas dimensiones estándar de 100 mm x 86 mm x 80 mm y tarda poco más de dos horas en imprimirse.\n\nImpreso con la siguiente configuración:\nAltura de capa: 0,16\nParedes: 2\nRelleno: 15% Cuadrícula\nVender impresiones: no está permitido, pero con la licencia adecuada, ¡puede estarlo!\nÚnase a mi Patreon y desbloquee más de 580 modelos 3D premium de Deltaprints, con nuevos diseños cada semana para impulsar su tienda o proyecto.\n\nComo miembro, obtendrás:\n\nLicencia comercial para vender legalmente sus impresiones.\nArchivos STL + Fusion 360 para una personalización completa\nPerfiles de impresión optimizados para Anycubic y Bambu Lab\nConjuntos de imágenes de productos profesionales para mostrar sus impresiones\nChats comunitarios exclusivos para comentarios e intercambio de ideas.\nSoporte técnico personal cuando lo necesite\n\nImprima y comience a crear hoy: patreon.com/deltaprints/membership\n\nUtilizo este filamento de alta calidad para todas mis impresiones. Compruébalo aquí: [Enlace]\n\nBoost Me¿Te gusta el modelo? Si lo deseas, apóyame y ayúdame a crear más modelos geniales.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "decoración",
+  "decorativo",
+  "decoraciones",
+  "decoración de halloween",
+  "decoraciones de halloween",
+  "fantasma"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2025-09-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa9af48fc2a1b3/design/2025-09-30_493c3c5c21cd3.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1969540.jpg": [
+   600,
+   900
+  ],
+  "previews/profiles/2088520.jpg": [
+   353,
+   430
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

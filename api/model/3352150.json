@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3810029.3mf.xz",
+   "instance_id": "3810029",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3810029.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "A1",
+    "X2D",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "X1",
+    "X1E",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "size": 22584372,
+   "sha256": "b41b0ad9195769a9ef65a25eb9a7709971da1017bdf66ce0cc730e73ef24a3b7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3352150",
+ "title": "Decoración De Halloween De Murciélago",
+ "slug": "bat-halloween-decor",
+ "url": "https://makerworld.com/en/models/3352150-bat-halloween-decor",
+ "author": "Hesic",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Animales",
+ "description": "Decoración De Halloween De Murciélago\nImpúlsame. Muchas gracias por tu apoyo.",
+ "use_cases": [],
+ "tags": [
+  "murciélago",
+  "murciélago de halloween",
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "animal",
+  "animales 2026",
+  "animales",
+  "animales 3d",
+  "animales 3d imprimir",
+  "3d",
+  "arte 3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1564aff86e593e/design/825d6b901841c187.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/05.jpg": [
+   1000,
+   1777
+  ],
+  "previews/06.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3810029.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

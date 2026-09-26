@@ -1,0 +1,119 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-7-infill-3793219.3mf.xz",
+   "instance_id": "3793219",
+   "name": "Capa de 0,2 mm, 2 paredes, 7% de relleno",
+   "thumbnail": "previews/profiles/3793219.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "size": 5570800,
+   "sha256": "a36e86571a7e486e1089866cd66acd56cfaf8c8ed029a4d1bbf6a4df7ab809c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3339166",
+ "title": "Tótem de bruja de calabaza triple",
+ "slug": "triple-pumpkin-witch-totem",
+ "url": "https://makerworld.com/en/models/3339166-triple-pumpkin-witch-totem",
+ "author": "bertazoltan0106",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Descripción del modelo (inglés)\nTótem de bruja de calabaza triple\n¡Dale un toque de elegancia espeluznante y vibraciones otoñales a tu configuración de Halloween con este adorable Tótem de Bruja Triple Calabaza! Con tres Jack-o'-lanterns tallados y apilados rematados con un clásico sombrero de bruja, este modelo está diseñado para ser un estampado divertido, sencillo y llamativo para la temporada espeluznante.\nCaracterísticas:\nDiseño detallado: caras nítidas y expresivas de Jack-o'-lantern apiladas en un estilo tótem.\nAcento de sombrero de bruja: incluye un sombrero de bruja detallado con detalle de hebilla para el mejor look de Halloween.\nApto para varios colores: ¡Perfecto para impresión multimaterial (AMS / MMU) o intercambios de filamentos manuales sencillos!\nDecoración versátil: ideal como figura de escritorio, adorno de estantería o regalo festivo de Halloween.\nTotalmente escalable: ¿Necesita una pieza central más grande? Este modelo se amplía sorprendentemente bien: cuanto más grande lo imprimas, ¡más impresionantes y hermosos se vuelven los detalles!\nConfiguración de impresión recomendada:\nAltura de capa: 0,16 mm – 0,20 mm (para detalles nítidos en las caras y el sombrero)\nRelleno: 10% – 15% (se recomienda Gyroid o Grid)\nSoportes: Mínimo / Opcional dependiendo de la configuración del puente de su impresora (se recomiendan soportes para árboles debajo del ala del sombrero si es necesario).\nColores utilizados: naranja brillante (calabazas), negro (ojos, bocas y sombrero), dorado/amarillo (hebilla de sombrero).\nComparta sus marcas y soporte:\n¡Me encantaría ver cómo quedaron tus impresiones! ¡No dudes en compartir fotos de tus modelos terminados en la sección de marcas/comentarios a continuación!\nSi te gusta este modelo:\nDeja un Me gusta: ¡realmente ayuda a otros a encontrar este diseño!\n¡Los aumentos se agradecen mucho! ¡Su apoyo mantiene fluyendo la creatividad y me ayuda a traer más diseños divertidos a la comunidad!\n¡Feliz impresión 3D y que tengas un Halloween espeluznante!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "calabaza 2026",
+  "jackolantern",
+  "sombrero de bruja",
+  "escalofriante",
+  "decoración de halloween",
+  "tótem",
+  "ams",
+  "ams - lite"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2159338aa3a2e5/design/13296006e332a1e5.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   768,
+   1024
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   558
+  ],
+  "previews/05.jpg": [
+   768,
+   1024
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3793219.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

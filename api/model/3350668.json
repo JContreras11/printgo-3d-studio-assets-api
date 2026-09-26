@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-3808098.3mf.xz",
+   "instance_id": "3808098",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3808098.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "P1P",
+    "H2C"
+   ],
+   "default": true,
+   "size": 10673608,
+   "sha256": "f2bbc881e239cfe3dc1c2897279ba364a7c60b67058f5588ddd91fe28f8e8400",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3350668",
+ "title": "murciélago sosteniendo dulces",
+ "slug": "bat-holding-candy",
+ "url": "https://makerworld.com/en/models/3350668-bat-holding-candy",
+ "author": "Yura_",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Impulsame\nConceptos de diseño\nEste encantador \"Candy Hunter Bat\" presenta un diseño divertido, atractivo tanto para niños como para coleccionistas de juguetes. El murciélago sostiene un caramelo, enfatizando su carácter caprichoso.\nuso\nIdeal como pieza decorativa durante Halloween o como juguete para juegos imaginativos, este modelo seguramente traerá alegría y diversión a cualquier colección.\nSugerencias de impresión\nUtilice una configuración de capa fina para capturar los detalles de las características del murciélago. Se recomienda el filamento negro para el murciélago, mientras que seleccionar un color brillante para el caramelo acentúa su atractivo.\nInstrucciones de montaje\nEste modelo es un diseño listo para imprimir que no requiere ensamblaje adicional, lo que lo hace fácil de usar para todos los entusiastas de la impresión 3D.",
+ "use_cases": [],
+ "tags": [
+  "murciélago",
+  "dulce",
+  "tenencia",
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 1978",
+  "halloween 2",
+  "halloween2026",
+  "decoración",
+  "decoración 2026",
+  "decoración 2025"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2426a1f782a559/design/41f6f7e7c00f0e5d.jfif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.webp",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   2400,
+   1792
+  ],
+  "previews/02.jpg": [
+   2400,
+   1792
+  ],
+  "previews/03.jpg": [
+   2400,
+   1792
+  ],
+  "previews/04.webp": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1024,
+   1024
+  ],
+  "previews/profiles/3808098.jpg": [
+   1024,
+   768
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

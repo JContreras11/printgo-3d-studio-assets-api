@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3810920.3mf.xz",
+   "instance_id": "3810920",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3810920.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "size": 31082844,
+   "sha256": "bdbdf52f1f0513fd6cb2eefbc5dd84604249b123bc8c7a56998adb49abbc8708",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3352865",
+ "title": "Calavera de Skullz",
+ "slug": "skull-of-skullz",
+ "url": "https://makerworld.com/en/models/3352865-skull-of-skullz",
+ "author": "Alpha2009",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Calavera de Skullz\nUn cráneo humano realista, lo suficientemente detallado como para funcionar como una genuina y espeluznante decoración de Halloween en lugar de un accesorio caricaturesco: cuencas de ojos huecas, detalles de dientes completos, el tipo de pieza que parece inquietantemente convincente en un estante, repisa o mesa de exhibición espeluznante.\nNo hay mucho que embellecer aquí: es una escultura de cráneo sencilla y bien ejecutada que hace exactamente lo que dice. A veces, los clásicos son clásicos por una razón, y una calavera anatómica sólida es un elemento básico de la decoración de Halloween que nunca pasa de moda.\nPor qué funciona este diseño:\nDetalles realistas: las proporciones anatómicas adecuadas y los detalles de los dientes/alvéolos le dan un factor de fluencia genuino sobre una calavera estilizada de dibujos animados.\nUso decorativo versátil: funciona como accesorio independiente, base para otras escenas de Halloween o pieza de práctica de pintura.\nImpresión compacta y eficiente: solo 1,5 horas y 19 g de PLA, fácil de imprimir por lotes\nTema clásico y siempre en demanda: las calaveras son un favorito eterno para la decoración de Halloween, gótica y memento mori por igual.\nGenial para:\nDecoración de repisa, mesa y estante de Halloween\nDecoración del hogar estilo gótico o memento mori\nUn proyecto de pintura rápido: excelente pieza de práctica para lograr efectos de envejecimiento y sombreado de color blanco hueso\nAccesorios para fiestas o creación de escenas espeluznantes\nConsejos de impresión: Atención: el perfil de impresión cargado actualmente está marcado como incompleto y no se cortará tal como está. Descargue el archivo del modelo sin formato y córtelo usted mismo en el cortador de su elección (capa de 0,2 mm, 2 paredes, 15 % de relleno funcionó según la configuración prevista) en lugar de confiar en el perfil proporcionado. Una vez cortado correctamente, es una impresión sencilla y ligera. Para el acabado, un degradado de blanco hueso a marfil envejecido con marrón oscuro o negro aplicado en las cuencas de los ojos y en los huecos de los dientes le da verdadera profundidad y realismo.\nSi imprime esto, una foto de mal humor y con poca luz se adapta mejor al sujeto: las calaveras se ven mucho más espeluznantes con sombras y contraste que bajo una iluminación plana y brillante.",
+ "use_cases": [],
+ "tags": [
+  "decoración de halloween",
+  "víspera de todos los santos 2026",
+  "calavera de halloween",
+  "cráneo",
+  "cráneo 3d",
+  "cráneo humano",
+  "espeluznante",
+  "víspera de todos los santos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2fabf3d5a5af77/design/fbdd15062a8f90ca.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1047
+  ],
+  "previews/02.jpg": [
+   1000,
+   1047
+  ],
+  "previews/03.jpg": [
+   1000,
+   1047
+  ],
+  "previews/04.jpg": [
+   1000,
+   1047
+  ],
+  "previews/profiles/3810920.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

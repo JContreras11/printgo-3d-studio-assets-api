@@ -1,0 +1,242 @@
+{
+ "files": [
+  {
+   "path": "model/small-10-cm-1908429.3mf.xz",
+   "instance_id": "1908429",
+   "name": "Pequeño (Ø 10 cm)",
+   "thumbnail": "previews/profiles/1908429.jpg",
+   "print_time_h": 4.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 294,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "size": 5710324,
+   "sha256": "4de14223acb43c6c94cd8806fcd3e01c0d825344acee6109cfceac5ab32091a6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Small (Ø 10 cm)",
+    "profile_notes": "Small size with recommended settings",
+    "creation_date": "2025-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2019293.3mf.xz",
+   "instance_id": "2019293",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2019293.jpg",
+   "print_time_h": 5.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 5741336,
+   "sha256": "947d2e1ddd3ff403c39d34a85456c0aae990701329480fc9a29f5d428857e27d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/large-18-cm-1912577.3mf.xz",
+   "instance_id": "1912577",
+   "name": "Grande (Ø 18 cm)",
+   "thumbnail": "previews/profiles/1912577.jpg",
+   "print_time_h": 12.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 53,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 6809080,
+   "sha256": "7abcaf3c8305b85ea9741b0d44169162ac3aa0991de5c4efb516a59de6cb1972",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Large (Ø 18 cm)",
+    "profile_notes": "Largest size with recommended settings",
+    "creation_date": "2025-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/normal-13-5-cm-1908437.3mf.xz",
+   "instance_id": "1908437",
+   "name": "Normal (diámetro 13,5 cm)",
+   "thumbnail": "previews/profiles/1908437.jpg",
+   "print_time_h": 7.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 132,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "size": 5968256,
+   "sha256": "a29a912dfc918ae9783d9abe4efd6ddd2892226b7a06dafcbd3324e84a8acfa5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Normal (Ø 13.5 cm)",
+    "profile_notes": "Normal size with recommended settings",
+    "creation_date": "2025-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "1790758",
+ "title": "Luz de té de calabaza moderna",
+ "slug": "modern-pumpkin-tea-light",
+ "url": "https://makerworld.com/en/models/1790758-modern-pumpkin-tea-light",
+ "author": "Maxx_Design",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Actualización: hubo un pequeño problema con los perfiles publicados, lo que provocó que algunos puentes no se representaran correctamente. Esto podría haber provocado algunos salientes hundidos en el interior. El problema debería solucionarse ahora.\n\nEste acogedor diseño de lámpara de calabaza aporta un brillo cálido y festivo a cualquier espacio, perfecto para las noches de otoño y decoraciones de Halloween.\n\nPuede imprimir esto en tres tamaños nativos. La calabaza y el tallo están en dos placas de construcción separadas, por lo que puedes imprimirlas sin AMS ni desperdicio de filamentos. Puedes asegurarlo con una gota de pegamento.\n\nDescargo de responsabilidad: ¡Este diseño SÓLO se puede utilizar con velas de té eléctricas!\n\nImpresión\nRecomiendo utilizar los perfiles proporcionados. La geometría interna de esta calabaza se optimizó en gran medida para la impresión FDM, pero se requiere un pequeño soporte manual en el centro.\n\nLa estructura autoportante en el centro solo funciona de manera confiable con un número de paredes de 2. Si desea imprimir con un número de paredes mayor, es posible que necesite agregar más soportes.\n\nSi te gusta este diseño, ¡mira mi colección de Halloween!\n¡Licencia comercial disponible en MakerWorld y Patreon!",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "linterna",
+  "luz de té",
+  "candelita",
+  "té",
+  "luz",
+  "titular",
+  "víspera de todos los santos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1d278fa02eb79e/design/2025-09-13_9cc93c9f9d2f98.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1908429.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2019293.jpg": [
+   418,
+   416
+  ],
+  "previews/profiles/1912577.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1908437.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

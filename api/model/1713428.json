@@ -1,0 +1,406 @@
+{
+ "files": [
+  {
+   "path": "model/regular-1818374.3mf.xz",
+   "instance_id": "1818374",
+   "name": "Regular",
+   "thumbnail": "previews/profiles/1818374.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 366,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "A1 mini"
+   ],
+   "default": true,
+   "size": 2739156,
+   "sha256": "762e7dd72155c34ba95aa2979a0dde74b10324b272a7fa3ec437ed86e59c217c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2065745.3mf.xz",
+   "instance_id": "2065745",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2065745.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "P2S",
+    "H2S",
+    "X1",
+    "A1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2908360,
+   "sha256": "64750cfb46e12bd6c289d2d527cd8a58dea04e539ecfc0c755f6adfcf2467bcd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0,2 layer 15% infil 2 loop Diminuito un po la velocita per una miglior qualità",
+    "creation_date": "2025-10-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2080888.3mf.xz",
+   "instance_id": "2080888",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2080888.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 3.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2S",
+    "P2S",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2766316,
+   "sha256": "52da7ffd9202f042c95ee4a62fb264f1b340e5c2a03ba0ae525f6c07859de361",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print 5 pieces of pumpkin with AMS 3 colors: Layer Height: 0.2mm Walls: 2 Infill: 15% grid Supports: No Brim: No",
+    "creation_date": "2025-10-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/25-pumpkins-1952425.3mf.xz",
+   "instance_id": "1952425",
+   "name": "25 calabazas",
+   "thumbnail": "previews/profiles/1952425.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 240,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2830396,
+   "sha256": "b961e49024a827b9e70ae956473d999fe3d7611df511053b1f1cbc74bf8aa257",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "25 Pumpkins",
+    "profile_notes": "A batch of 25 small pumpkins. Made for those using the Bambu Handy App that are limited to making up to 10 copies.",
+    "creation_date": "2025-09-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/big-pumpkins-1832535.3mf.xz",
+   "instance_id": "1832535",
+   "name": "calabazas grandes",
+   "thumbnail": "previews/profiles/1832535.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 33,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2735180,
+   "sha256": "676733b9159ae9ca22760e51566f901111cfc7d8207e3710cfe98c349fdd11bc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "big Pumpkins",
+    "creation_date": "2025-08-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimized-parameter-detail-version-five-per-plate--3784183.3mf.xz",
+   "instance_id": "3784183",
+   "name": "Versión de detalle de parámetros optimizada cinco por placa para el A1/A1 mini",
+   "thumbnail": "previews/profiles/3784183.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 2787888,
+   "sha256": "c2987b6d5226da92676b63484d885dbe0003238a3c2599e532e1a181a53e2516",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "参数细节优化版，一盘五个，适配A1/A1mini",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/single-color-0-2mm-layer-2-walls-15-infill-3366311.3mf.xz",
+   "instance_id": "3366311",
+   "name": "capa de 0,2 mm de un solo color, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3366311.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "P1P",
+    "A2L",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 3170652,
+   "sha256": "a24af025bbad281b7f48686c38eb35bd4a2a5f740bfc4171523eaa1f248bfd04",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/single-color-x9-0-2mm-layer-2-walls-15-infill-3366321.3mf.xz",
+   "instance_id": "3366321",
+   "name": "un solo color x9 capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3366321.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "H2S",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": false,
+   "size": 19149708,
+   "sha256": "621aebc97125a17ec263b3e53a953db7457d82444dfe0fcd89384579f502d15b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1713428",
+ "title": "Calabazas pequeñas",
+ "slug": "lil-pumpkins",
+ "url": "https://makerworld.com/en/models/1713428-lil-pumpkins",
+ "author": "3dPrintInPlace",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Criaturas",
+ "description": "Mini calabaza de Halloween\n¡Una calabaza pequeña y espeluznante perfecta para las vibraciones de Halloween! Este mini modelo es una divertida decoración de temporada para su escritorio, estante o exhibición. Con detalles limpios y redondeados y sin necesidad de soportes, es rápido y fácil de imprimir. Puedes dejarlo simple para obtener una linda calabaza minimalista o pintarlo para darle una personalidad de calabaza.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "mini",
+  "lindo",
+  "halloween 2025",
+  "naranja",
+  "linterna jacko"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9dc063f019f40b/design/2025-08-19_84155cda8c1f78.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   854,
+   640
+  ],
+  "previews/02.jpg": [
+   1000,
+   755
+  ],
+  "previews/profiles/1818374.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2065745.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2080888.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1952425.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1832535.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3784183.jpg": [
+   340,
+   264
+  ],
+  "previews/profiles/3366311.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3366321.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

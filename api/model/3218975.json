@@ -1,0 +1,180 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-3644604.3mf.xz",
+   "instance_id": "3644604",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/3644604.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 42,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2D",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 3620716,
+   "sha256": "15980ac187debddba1b51007b118c2c05df03bc52feaa1cbf51ba430da505e79",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Für einen farblichen Druck mit AMS einfach die jeweiligen Farben ändern.",
+    "creation_date": "2026-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/a1-mini-0-2mm-layer-2-walls-10-infill-3799686.3mf.xz",
+   "instance_id": "3799686",
+   "name": "A1 mini: capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3799686.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 3794436,
+   "sha256": "d11d38a566ff833c74399041b0c5ff90c8c9100855ecdb20c8011e816313b52b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1 mini - 0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Largest object moved to separate plate to fit A1 mini. 0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/model-optimized-face-count-reduced-printing-effici-3811775.3mf.xz",
+   "instance_id": "3811775",
+   "name": "Modelo optimizado, número de caras reducido, eficiencia de impresión mejorada",
+   "thumbnail": "previews/profiles/3811775.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "size": 989080,
+   "sha256": "42b1478da461b31f121137c74edb0a42400fe5bb7e75c4238a79f616dca8b2bf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "模型优化，减少面数，提高打印效率",
+    "profile_notes": "Für einen farblichen Druck mit AMS einfach die jeweiligen Farben ändern.",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3218975",
+ "title": "Conjunto de decoración de calabaza",
+ "slug": "pumpkin-decoration-set",
+ "url": "https://makerworld.com/en/models/3218975-pumpkin-decoration-set",
+ "author": "user_4118111642",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Juego de calabaza de 3 piezas\n\n3 calabazas de diferentes tamaños para colocarlas en posición vertical\n\nLas calabazas se ven realmente hermosas en un conjunto de 3.\n\nNo sólo una gran decoración para la temporada de otoño.\n\nMe encantaría recibir una reseña con imágenes de sus variaciones de color.\n\nPuedes encontrar más bonitas decoraciones sobre el tema del otoño y Halloween en mi colección:\n\nImpulsar la membresía",
+ "use_cases": [],
+ "tags": [
+  "otoño",
+  "decoración de otoño",
+  "otoñal",
+  "calabaza",
+  "decoración de calabaza",
+  "decoracion de calabaza",
+  "colección kuerbis"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2b0d1c499f3241/design/49a3ec8781fc1ad9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   917
+  ],
+  "previews/02.jpg": [
+   1000,
+   917
+  ],
+  "previews/03.jpg": [
+   1000,
+   918
+  ],
+  "previews/profiles/3644604.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3799686.jpg": [
+   600,
+   447
+  ],
+  "previews/profiles/3811775.jpg": [
+   600,
+   596
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

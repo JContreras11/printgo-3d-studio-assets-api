@@ -1,0 +1,258 @@
+{
+ "files": [
+  {
+   "path": "model/2-ams-full-color-3799269.3mf.xz",
+   "instance_id": "3799269",
+   "name": "2 AMS - A todo color",
+   "thumbnail": "previews/profiles/3799269.jpg",
+   "print_time_h": 21.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": true,
+   "size": 5185600,
+   "sha256": "f0decad0e829a18b24bd9e2c60aeed4460a75be6890afa81a795696fc9c729f6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 AMS - Full Color",
+    "profile_notes": "Intended for H2C or a minimum dual nozzle printer. Check out some of the other print profiles.",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/1-ams-split-parts-low-purge-3801494.3mf.xz",
+   "instance_id": "3801494",
+   "name": "1 AMS - Partes divididas (PURGA BAJA)",
+   "thumbnail": "previews/profiles/3801494.jpg",
+   "print_time_h": 25,
+   "plates": 9,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "size": 8978908,
+   "sha256": "e61aeae9ab0ad1c39436363139a5b7d7148045765f72b268560ff74af5f51eeb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "1 AMS - Split Parts (LOW PURGE)",
+    "profile_notes": "I've never worked harder on splitting a print so its friendly to those on a single nozzle printer. The only part that requires an AMS are the faces, the banner and the broom. I have worked extensively to reduce purging on this model. Its at just about 100g's for the whole print on a single nozzle printer, way less on a dual nozzle printer!",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   }
+  },
+  {
+   "path": "model/2-ams-full-color-thinner-3799387.3mf.xz",
+   "instance_id": "3799387",
+   "name": "2 AMS - A todo color (MÁS DELGADO)",
+   "thumbnail": "previews/profiles/3799387.jpg",
+   "print_time_h": 13.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "size": 5168728,
+   "sha256": "51bc8684c0713379cc6a81cf73a5222718b8d67ebd260b3db75f6b24addefaed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 AMS - Full Color (THINNER)",
+    "profile_notes": "Reduced material usage. Less purge, although it will still be alot if you're using anything besides an H2C.",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/no-ams-one-color-3799361.3mf.xz",
+   "instance_id": "3799361",
+   "name": "SIN AMS - Un color",
+   "thumbnail": "previews/profiles/3799361.jpg",
+   "print_time_h": 10.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "P2S",
+    "A1",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 21472872,
+   "sha256": "90ebc540276c925c0f6ed05dbb909cf00ce091e2ac0d20eb31caa6299a57f399",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "NO AMS - One Color",
+    "profile_notes": "Single nozzle friendly version with minimal assembly.",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/no-ams-one-color-thinner-3799388.3mf.xz",
+   "instance_id": "3799388",
+   "name": "NO AMS - Un color (MÁS DELGADO)",
+   "thumbnail": "previews/profiles/3799388.jpg",
+   "print_time_h": 7.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "P2S",
+    "H2D",
+    "X2D",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "size": 5221712,
+   "sha256": "f495891ae8af574c201537c6eab3b632d789448a14333baa6a307cbd725bed59",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "NO AMS - One Color (THINNER)",
+    "profile_notes": "Reduced material usage. 50% thinner.",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3343724",
+ "title": "Corona de Halloween de las hermanas Chibi Sanderson",
+ "slug": "chibi-sanderson-sisters-halloween-wreath",
+ "url": "https://makerworld.com/en/models/3343724-chibi-sanderson-sisters-halloween-wreath",
+ "author": "Wyofalcon",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Hola, esto tomó una eternidad para hacer, espero que te guste. Hay algunos pequeños soportes que requieren el uso de pinzas para sacarlos al final, no es difícil, ¡pero requiere un poco de limpieza! ¡Vale la pena el esfuerzo!\nBoost Me. ¡Esto tomó una eternidad para hacer, espero que les guste!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "chibi",
+  "hermanas sanderson",
+  "sanderson",
+  "trucos",
+  "emborrachar",
+  "pocus",
+  "víspera de todos los santos 2026",
+  "lindo",
+  "guirnalda",
+  "decoración"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb53e143ab86bc9/design/e7e9f80254b3f54a.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3799269.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3801494.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3799387.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3799361.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3799388.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

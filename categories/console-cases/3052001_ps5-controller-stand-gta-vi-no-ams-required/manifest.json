@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-3433507.3mf.xz",
+   "instance_id": "3433507",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/3433507.jpg",
+   "print_time_h": 3.2,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "size": 3818800,
+   "sha256": "170ae9841b713f451f894b556ccbc72d27009448f03f3b70ea1fe99605ab2d2a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  }
+ ],
+ "id": "3052001",
+ "title": "Soporte para controlador PS5 - GTA VI (no se requiere AMS)",
+ "slug": "ps5-controller-stand-gta-vi-no-ams-required",
+ "url": "https://makerworld.com/en/models/3052001-ps5-controller-stand-gta-vi-no-ams-required",
+ "author": "GROGO3D",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Soporte de controlador premium – GTA VI Edición especial para PS5\nLleva la atmósfera vibrante, los neones nostálgicos y la adrenalina de Vice City directamente a tu configuración. Este soporte temático fue diseñado especialmente para fanáticos que apenas pueden esperar por el lanzamiento más esperado de la década.\nCon un diseño robusto y un acabado impecable, no es solo un organizador sino una auténtica pieza de colección que resalta tu mando de PS5 con máxima personalidad.\nCaracterísticas del producto\nDiseño temático exclusivo: presenta el icónico logotipo de Grand Theft Auto VI con detalles en relieve y palmeras clásicas en tonos neón azul y rosa.\nParte delantera del Muscle Car clásico: en la base del soporte, una réplica detallada de la parrilla delantera de un Muscle Car clásico en azul turquesa metálico añade la estética automovilística perfecta de la franquicia.\nAjuste personalizado para PS5: moldeado específicamente para acomodar el controlador PlayStation 5 DualSense con total estabilidad, evitando caídas y rayones.\nVice City Aesthetic: Perfecto para configuraciones con iluminación RGB, resaltando los colores cálidos del atardecer y los tonos vibrantes de las noches de Miami.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "ps5",
+  "control",
+  "sony",
+  "robo de auto graduado",
+  "no ams",
+  "noams",
+  "apoyo",
+  "juguetes",
+  "gta 6",
+  "gta vi",
+  "juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd5c4adba3e6525/design/3b074257dab72a80.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/02.jpg": [
+   960,
+   1280
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/04.jpg": [
+   960,
+   1280
+  ],
+  "previews/05.jpg": [
+   960,
+   1280
+  ],
+  "previews/06.jpg": [
+   960,
+   1280
+  ],
+  "previews/07.jpg": [
+   960,
+   1280
+  ],
+  "previews/profiles/3433507.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

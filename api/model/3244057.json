@@ -42,6 +42,430 @@
     "support_type": "tree(auto)",
     "photos": 2
    }
+  },
+  {
+   "path": "model/ams-glue-free-assembly-single-table-3812845.3mf.xz",
+   "instance_id": "3812845",
+   "name": "Mesa individual de montaje sin cola AMS",
+   "thumbnail": "previews/profiles/3812845.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 17474744,
+   "sha256": "d1c5439f5a47fefa246a91eb1e6022c75c8d6e4e2f805cde00bb42c0176397b5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "AMS glue-free assembly single table",
+    "profile_notes": "The advantages of this model include simple, glue-free assembly, a print time of under two hours, and the ability to change the text simply by editing the label; you can also use multiple labels with a single microphone (I didn't place the label on a separate stand, but you can easily do that yourself).",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/ams-rapid-3699151.3mf.xz",
+   "instance_id": "3699151",
+   "name": "AMS rápido",
+   "thumbnail": "previews/profiles/3699151.jpg",
+   "print_time_h": 3.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 14478320,
+   "sha256": "91763d88dc9653eceeca530c03bc3be87c1e7124a5492585141aa088007248e9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/dji-mic-2-3728426.3mf.xz",
+   "instance_id": "3728426",
+   "name": "Micrófono DJi 2",
+   "thumbnail": "previews/profiles/3728426.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "size": 15012816,
+   "sha256": "879b5b2147d0cba6802fe549381f522075ba00c924403df8bd853de4e9e31144",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "DJi Mic 2",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/dji-mic-mini-2-3692544.3mf.xz",
+   "instance_id": "3692544",
+   "name": "Micrófono Dji Mini 2",
+   "thumbnail": "previews/profiles/3692544.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 14961004,
+   "sha256": "83586d8e5491615e362c1b702ba486f295186d4805577ff0655e768e2524e016",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Dji Mic Mini 2",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/flor-coin-model-3811444.3mf.xz",
+   "instance_id": "3811444",
+   "name": "Flor (Modelo de moneda)",
+   "thumbnail": "previews/profiles/3811444.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 18313520,
+   "sha256": "086447627a8ac3dfca461a51e15dc8578ec0878433e380dc40a012b963a7bb34",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Flor (Modelo moeda)",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/heart-coin-shaped-microphone-3749898.3mf.xz",
+   "instance_id": "3749898",
+   "name": "Corazón (micrófono en forma de moneda)",
+   "thumbnail": "previews/profiles/3749898.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 17621092,
+   "sha256": "9ad17961b96bcdf811c8bafd33ae33c8b02b903265ddae5e48b4f3fee8d1b3ba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Coração ( Microfone modelo moeda)",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/mini-round-microphone-3699185.3mf.xz",
+   "instance_id": "3699185",
+   "name": "Mini micrófono redondo",
+   "thumbnail": "previews/profiles/3699185.jpg",
+   "print_time_h": 2,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 14738716,
+   "sha256": "ed85a17fad72e192591d082f341931ee79ede48336c06be4f1348e9454525bfe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Mini Microfone Redondo",
+    "creation_date": "2026-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-fast-printing-reduce-laye-3767826.3mf.xz",
+   "instance_id": "3767826",
+   "name": "La impresión rápida de una sola placa multicolor reduce las líneas de capa y mejora la calidad de impresión",
+   "thumbnail": "previews/profiles/3767826.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 14811220,
+   "sha256": "e70f9b02ee6b040544ced618e2e6b62957647801a8afe4b8584ee3260b883f94",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "多色一盘快速打印，降低层纹提高打印质量",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-printing-optimize-model-r-3698924.3mf.xz",
+   "instance_id": "3698924",
+   "name": "Impresión multicolor en una sola plancha, optimización del modelo, reducción del número de polígonos y mejora de la eficiencia",
+   "thumbnail": "previews/profiles/3698924.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8690076,
+   "sha256": "924ecef40c78e79518fef3b5255ed69ca3a1a1950de03680b8cc68d1dfbfd66b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高效率",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/separate-small-nameplate-3675828.3mf.xz",
+   "instance_id": "3675828",
+   "name": "Pequeña placa de identificación separada",
+   "thumbnail": "previews/profiles/3675828.jpg",
+   "print_time_h": 2.3,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "size": 15221136,
+   "sha256": "9e766ddcf0800c444aecfcff4b4a16421eb56d6fdc5dc21ba274fa287997a54f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Plaquinha separada",
+    "profile_notes": "Perfil para impressão rápida",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/star-coin-microphone-model-3750002.3mf.xz",
+   "instance_id": "3750002",
+   "name": "Estrella (modelo de micrófono Coin)",
+   "thumbnail": "previews/profiles/3750002.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 15701072,
+   "sha256": "c3398a8884221ac2d91260e55619f0f6cc4236bc6184d2300b1cf80bc779b35b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Estrela (Modelo de microfone moeda)",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
   }
  ],
  "id": "3244057",
@@ -115,10 +539,55 @@
   "previews/profiles/3675809.jpg": [
    600,
    450
+  ],
+  "previews/profiles/3812845.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3699151.jpg": [
+   600,
+   362
+  ],
+  "previews/profiles/3728426.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3692544.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3811444.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3749898.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3699185.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3767826.jpg": [
+   354,
+   239
+  ],
+  "previews/profiles/3698924.jpg": [
+   600,
+   567
+  ],
+  "previews/profiles/3675828.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3750002.jpg": [
+   600,
+   600
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Monocromo"
 }

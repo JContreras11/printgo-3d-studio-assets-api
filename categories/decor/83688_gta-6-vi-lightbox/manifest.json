@@ -1,0 +1,424 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi-6-lightbox-front-89406.3mf.xz",
+   "instance_id": "89406",
+   "name": "GTA VI (6) Caja de luz frontal",
+   "thumbnail": "previews/profiles/89406.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 906500,
+   "sha256": "93b529c491057ee987277c27e73614d0624af7d9ee6b4a47c99ae29d42097ef4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.08.01.53",
+    "profile_title": "GTA VI (6) Lightbox Front",
+    "profile_notes": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2023-12-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9587,
+      "weight_g": 96.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF00FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-12-infill-using-petg-3373831.3mf.xz",
+   "instance_id": "3373831",
+   "name": "Capa de 0,2 mm, 2 paredes, 12 % de relleno con PETG",
+   "thumbnail": "previews/profiles/3373831.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "A2L",
+    "X1"
+   ],
+   "default": false,
+   "size": 836148,
+   "sha256": "ae7c39d7353c338ac3444243502a34131e6c67e7dcb362022b00fb36ccb21eba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 12% infill Using PETG",
+    "profile_notes": "Print profile added so it can use PETG and also be printable from the Bambu Handy app.",
+    "creation_date": "2026-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/gta-vi-6-easy-lightbox-w-palmtree-decals-90332.3mf.xz",
+   "instance_id": "90332",
+   "name": "GTA VI (6) Lightbox fácil con calcomanías de palmeras",
+   "thumbnail": "previews/profiles/90332.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 91,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 998332,
+   "sha256": "04ec15f04ca395dfb283720da23a42d902680ee9caae2f01840e8aa2a9712c1c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "GTA VI (6) easy Lightbox w/ Palmtree decals",
+    "profile_notes": "(BE SURE TO HAVE GOOD BED ADHESION BECAUSE THE PALM TREE LINES CAN BE AS THIN AS A SINGLE LAYER SO YOU WILL NEED IT TO STICK PROPERLY) 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9098,
+      "weight_g": 74.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF00FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/gta-vi-6-lightbox-backplate-89408.3mf.xz",
+   "instance_id": "89408",
+   "name": "Placa posterior de la caja de luz de GTA VI (6)",
+   "thumbnail": "previews/profiles/89408.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 57,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 787828,
+   "sha256": "f9e988d7b41bace39aa3d203982cd021469c42249fa1c716fef2a431152faa68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "GTA VI (6) Lightbox Backplate",
+    "profile_notes": "If you really want to the lowest time possible for the back plate then make it all one color black but if you want the best light refraction within the box keep the top layer white however if it is black im sure it would still loook like a very decent light box afterwards. 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "12%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4882,
+      "weight_g": 57.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/larger-gta-vi-front-back-w-palmtrees-3304902.3mf.xz",
+   "instance_id": "3304902",
+   "name": "GTA VI más grande (delantero y trasero) con palmeras",
+   "thumbnail": "previews/profiles/3304902.jpg",
+   "print_time_h": 5.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "X1",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "X2D"
+   ],
+   "default": false,
+   "size": 1399256,
+   "sha256": "d35ed4ec21975e10fc5c8aa21ff7d0b6307bc1757793d7fd3466dc898af06cfc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.00.89",
+    "profile_title": "Larger GTA VI (Front & Back) w/ Palmtrees",
+    "profile_notes": "Ensure you have proper bed adhesion as the palm tree details are thin so tune your filaments for printing. 0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2025-01-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/petg-optimized-2973782.3mf.xz",
+   "instance_id": "2973782",
+   "name": "PETG optimizado",
+   "thumbnail": "previews/profiles/2973782.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2S",
+    "X1E",
+    "X1",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1143624,
+   "sha256": "2cfb6d5cf084b64354f7040687ab06da6dcbea2a83fd965c6d7200be73e5c652",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "PETG optimiert",
+    "profile_notes": "optimiert für petg",
+    "creation_date": "2026-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "83688",
+ "title": "¡Caja de luz de GTA 6 (VI)!",
+ "slug": "gta-6-vi-lightbox",
+ "url": "https://makerworld.com/en/models/83688-gta-6-vi-lightbox",
+ "author": "Cjwelcome",
+ "category": "decor",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Esta es la primera caja de luz de GrandTheftAuto VI (6)! Presentamos la caja de luz AMS Easy de 4 colores, la primera en su clase, para todos los fanáticos de GTA6 que están ansiosos por el lanzamiento del juego. Tendremos que esperar hasta 2025 para el juego, ¡pero tú no tienes que esperar para crear tu propia caja de luz de GTA VI para disfrutar y mantenerte entusiasmado con el lanzamiento del juego mientras tanto! EDITAR: ¡Nueva caja de luz con contorno de palmera incluida para una decoración luminosa aún mejor! ¡No olvides dar me gusta y seguir mi página de MakerWorld para obtener actualizaciones y más modelos interesantes!",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "gta",
+  "grand theft auto",
+  "gran robo de autos",
+  "video",
+  "juegos",
+  "ps5",
+  "xbox",
+  "caja de luz",
+  "gta6",
+  "juego de azar",
+  "luz led"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2023-12-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65b31558b904c4/design/2023-12-14_10bb2e2e64337.jpg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   756
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   856,
+   661
+  ],
+  "previews/05.jpg": [
+   871,
+   651
+  ],
+  "previews/06.jpg": [
+   923,
+   683
+  ],
+  "previews/profiles/89406.jpg": [
+   600,
+   443
+  ],
+  "previews/profiles/3373831.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/90332.jpg": [
+   600,
+   448
+  ],
+  "previews/profiles/89408.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/3304902.jpg": [
+   600,
+   898
+  ],
+  "previews/profiles/2973782.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

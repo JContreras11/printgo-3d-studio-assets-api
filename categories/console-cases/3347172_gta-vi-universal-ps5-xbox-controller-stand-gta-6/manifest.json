@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/easy-print-no-ams-required-fast-print-3803637.3mf.xz",
+   "instance_id": "3803637",
+   "name": "Impresión fácil No se requiere AMS Impresión rápida",
+   "thumbnail": "previews/profiles/3803637.jpg",
+   "print_time_h": 15.4,
+   "plates": 8,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "size": 6501436,
+   "sha256": "33eb765903817b1330a2be6bff66390827c17a15cbe3390d0e987341303ecb04",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Easy Print | No AMS Required| Fast Print",
+    "profile_notes": "Easy print profile for GTA VI Controller Stand. - Designed for multicolor printing - PLA recommended - 0.18 mm layer height - 2 walls for good strength - 15% infill - Optimized for Bambu Lab printers",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   }
+  }
+ ],
+ "id": "3347172",
+ "title": "GTA VI Soporte universal para mando de PS5 y Xbox GTA 6",
+ "slug": "gta-vi-universal-ps5-xbox-controller-stand-gta-6",
+ "url": "https://makerworld.com/en/models/3347172-gta-vi-universal-ps5-xbox-controller-stand-gta-6",
+ "author": "Progress3DPrint",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Soporte del controlador Vice City inspirado en GTA VI\nLleve la atmósfera de Vice City a su configuración de juego con este elegante soporte para pantalla del controlador.\nDiseñado para jugadores y fanáticos de GTA, este soporte mantiene su controlador PS5 DualSense expuesto de forma segura y al mismo tiempo agrega un toque único a su escritorio, estante o área de consola.\nCaracterísticas:\n* Diseñado para controladores PS5 DualSense\n* Diseño de Vice City inspirado en GTA VI\n* Detalles de palmeras para una apariencia única.\n* Estable y fácil de imprimir\n* Perfecto para configuraciones y colecciones de juegos\nUna forma sencilla de convertir tu controlador en una pieza de exhibición.\nDiseño hecho por fans inspirado en GTA VI. No afiliado a Rockstar Games.\nImpulsameSi te gusta ¡Impulsame! ¡¡Gracias!!",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "gta 6",
+  "gta",
+  "titular",
+  "titular del controlador",
+  "playstation",
+  "xbox",
+  "pararse",
+  "gta6 tiene",
+  "titular de gta 6",
+  "grand theft auto",
+  "juego de azar"
+ ],
+ "license": "BY-SA",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US395e9c2f61692c/design/fa44d3e51c3800dc.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3803637.jpg": [
+   600,
+   541
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

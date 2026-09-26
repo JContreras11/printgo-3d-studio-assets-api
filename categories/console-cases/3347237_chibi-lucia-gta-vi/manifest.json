@@ -1,0 +1,127 @@
+{
+ "files": [
+  {
+   "path": "model/lucia-multicolor-print-3803723.3mf.xz",
+   "instance_id": "3803723",
+   "name": "Lucía - Estampado multicolor",
+   "thumbnail": "previews/profiles/3803723.jpg",
+   "print_time_h": 13.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": true,
+   "size": 20864168,
+   "sha256": "94d57a232e96cd85cfc17dc1fb93e9d68978212fae23d71879f0a117686ec766",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "Lucia - Multicolor print",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3347237",
+ "title": "Chibi Lucía GTA VI",
+ "slug": "chibi-lucia-gta-vi",
+ "url": "https://makerworld.com/en/models/3347237-chibi-lucia-gta-vi",
+ "author": "OrangeSs",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Chibi Lucía\nPersonaje estilo Chibi Lucia - impresión multicolor (mejor para H2C, H2D y otras impresoras con múltiples boquillas/cabezales de herramientas)\nSi te gusta esto, mira mis otros modelos y, si puedes, por favor impulsame, ¡gracias!\nBoost Me¿Quieres vender mis modelos? Puedes unirte a mi membresía comercial a continuación:\n\nAfiliación",
+ "use_cases": [],
+ "tags": [
+  "lucía",
+  "camino",
+  "caminos",
+  "gta",
+  "vi",
+  "gta vi",
+  "magnífico",
+  "robo",
+  "auto",
+  "6",
+  "seis",
+  "grand theft auto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe9680e48974769/design/b832ccc6161729d8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3803723.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

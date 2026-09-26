@@ -64,7 +64,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/1224840.jpg",
+   "instance_id": "1224840"
   },
   {
    "path": "model/command_hook_lite.3mf.xz",
@@ -98,7 +100,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/1224985.jpg",
+   "instance_id": "1224985"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6239e796696c66/design/2025-03-14_4aea8c6aef88c.jpeg?x-oss-process=image/resize,w_1000",
@@ -134,6 +138,14 @@
   "previews/07.jpg": [
    900,
    1200
+  ],
+  "previews/profiles/1224840.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1224985.jpg": [
+   600,
+   548
   ]
  }
 }

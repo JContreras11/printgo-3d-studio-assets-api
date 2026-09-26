@@ -1,0 +1,285 @@
+{
+ "files": [
+  {
+   "path": "model/official-designer-profile-v1-7-updated-04-09-2026-3361511.3mf.xz",
+   "instance_id": "3361511",
+   "name": "PERFIL OFICIAL DEL DISEÑADOR — v1.7 — Actualizado el 09/04/2026",
+   "thumbnail": "previews/profiles/3361511.jpg",
+   "print_time_h": 29.5,
+   "plates": 22,
+   "rating": 5,
+   "rating_count": 107,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": true,
+   "size": 24028800,
+   "sha256": "c3cf35521c8176724c69be1883c8503f43247b6d6dc6e7c26d896628397f3d0e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "OFFICIAL DESIGNER PROFILE — v1.7 — Updated 04/09/2026",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 22
+   }
+  },
+  {
+   "path": "model/ams-official-designer-profile-v1-8-updated-21-09-2-3789870.3mf.xz",
+   "instance_id": "3789870",
+   "name": "PERFIL OFICIAL DEL DISEÑADOR DE AMS — v1.8 — Actualizado el 21-09-2026",
+   "thumbnail": "previews/profiles/3789870.jpg",
+   "print_time_h": 18,
+   "plates": 11,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 12827564,
+   "sha256": "ff43952e276c9b8c53298c6a06a89d01bd438245cdb9ac40371c3753be978276",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "AMS OFFICIAL DESIGNER PROFILE — v1.8 — Updated 21-09-2026",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 11
+   }
+  },
+  {
+   "path": "model/lightbox-add-on-for-gta-vi-stand-3508091.3mf.xz",
+   "instance_id": "3508091",
+   "name": "Complemento Lightbox para el soporte GTA VI.",
+   "thumbnail": "previews/profiles/3508091.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": false,
+   "size": 3462432,
+   "sha256": "1fdd74e85ec1444aa8debe38e77fddcc82d0801277243d9c309d5ada880dd711",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Lightbox Add-On for GTA VI Stand.",
+    "creation_date": "2026-07-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/nur-ams-0-2mm-layer-2-walls-15-infill-3785436.3mf.xz",
+   "instance_id": "3785436",
+   "name": "Nur AMS capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3785436.jpg",
+   "print_time_h": 20,
+   "plates": 10,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A2L",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "H2D"
+   ],
+   "default": false,
+   "size": 13623124,
+   "sha256": "233da8591cad29d9d3585018cc6157df8a25a1f2444be72c42976c031addaa34",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Nur AMS 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A2L",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 10
+   }
+  }
+ ],
+ "id": "2994663",
+ "title": "Soporte universal para mando de PS5 y Xbox de GTA VI",
+ "slug": "gta-vi-universal-ps5-xbox-controller-stand",
+ "url": "https://makerworld.com/en/models/2994663-gta-vi-universal-ps5-xbox-controller-stand",
+ "author": "HeatingDragon82",
+ "category": "console-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "ACTUALIZACIÓN – 6 ESTRELLAS YA DISPONIBLES\nEl proyecto se ha actualizado de 5 a 6 estrellas, de acuerdo con el nuevo nivel de búsqueda de 6 estrellas. Todos los proyectos relacionados con GTA VI y las placas de identificación compatibles se han actualizado en consecuencia.\n\nACTUALIZACIÓN – 6 ESTRELLAS YA DISPONIBLES\nEl plano se ha actualizado de 5 a 6 estrellas, de acuerdo con el nuevo nivel de búsqueda de 6 estrellas. Todos los planos de GTA VI relacionados y las placas de identificación compatibles se han actualizado en consecuencia.\nPLACA DE IDENTIFICACIÓN DE SE BUSCA PERSONALIZABLE DISPONIBLE\nAhora puede crear su propia placa de identificación personalizada de SE BUSCA con su nombre/tag de jugador, estrellas, fuente, tamaño y colores personalizados utilizando la herramienta de personalización MakerWorld.\n\nSE BUSCA PLACA DE IDENTIFICACIÓN PERSONALIZABLE DISPONIBLE\nAhora puede crear su propia placa de identificación personalizada de SE BUSCA con nombre/etiqueta de jugador, número de estrellas, fuente, tamaño y colores directamente a través de la herramienta de personalización de MakerWorld.\n\n¡NUEVA V2 DISPONIBLE!\nYa está disponible un soporte para controlador universal V2 de GTA VI completamente revisado y mejorado.\nEl V2 presenta un nuevo sistema modular, que incluye:\nConfiguración de controlador único\nConfiguración de controlador dual\nComplemento de soporte para auriculares extraíble\nConexiones y montaje mejorados.\nGestión de color AMS optimizada\nSoporte universal para mando GTA VI V2\n\n¡NUEVA V2 DISPONIBLE!\nYa está disponible una versión completamente revisada y mejorada del proyecto: GTA VI Universal Controller Stand V2.\nV2 presenta un nuevo sistema modular, que incluye:\nConfiguración de controlador único\nConfiguración de controlador dual\nComplemento de soporte para auriculares extraíble\nAcoplamientos y montaje mejorados.\nGestión de color AMS optimizada\nSoporte universal para mando GTA VI V2\n\n¡NUEVO! Complemento de caja de luz opcional\nEl proyecto ahora incluye un nuevo complemento Lightbox, disponible como un perfil de impresión independiente.\nTransforma el soporte de tu controlador GTA VI en una pantalla iluminada reemplazando el logotipo trasero estándar con una versión completamente retroiluminada, creando una apariencia aún más impresionante inspirada en Vice City.\nCompatible con dos opciones de iluminación:\nLuz de disco LED de 60 mm\nTira LED flexible de 50 cm\nLa Lightbox también se puede exhibir como una pieza decorativa independiente usando la base de exhibición incluida, lo que la hace perfecta incluso sin el soporte del controlador.\nEl complemento Lightbox es completamente opcional y está disponible como un perfil de impresión independiente.\n¡NOVITÁ! Opcional de caja de luz complementaria\nEl proyecto incluye o un nuevo Add-On Lightbox, disponible como perfil de sello separado.\nTransforma el soporte del controlador GTA VI reemplazando el logotipo posterior estándar con una versión completamente retroiluminada, para obtener un efecto ancora más escenográfico inspirado en Vice City.\nCompatibilidad con el sistema de iluminación:\nLED redondo de 60 mm\nStriscia LED flexible de 50 cm\nLa Lightbox también se puede utilizar como elemento decorativo independiente, gracias a la base dedicada que incluye el perfil del sello.\nEl Add-On Lightbox es completamente opcional y está disponible como perfil de sello separado.\nACTUALIZACIÓN V5\nSe ha agregado una nueva actualización V5 al proyecto.\nTenga en cuenta que todos los archivos y mejoras de V4 ya están incluidos en la versión V5, por lo que no es necesario descargar ni utilizar V4 por separado.\nEl logotipo de Grand Theft Auto ahora también se incluye en dos partes separadas, lo que permite imprimir los diferentes colores individualmente y ensamblarlos manualmente, incluso sin usar AMS.\nEl soporte del controlador también se ha dividido en tres partes separadas, lo que proporciona una opción de impresión adicional diseñada para usuarios sin un sistema multicolor.\nEsta actualización hace que el proyecto sea aún más accesible y flexible, permitiéndole lograr un resultado multicolor limpio utilizando un flujo de trabajo de ensamblaje e impresión manual simple.\nACTUALIZACIÓN V5\nEstá aquí y ahora se ha agregado un nuevo cambio V5 al proyecto.\nTodos los archivos y las mejoras del V4 incluyen todos los internos de la versión V5, por lo que no es necesario descargar o utilizar por separado el V4.\nEl logotipo de Grand Theft Auto también está separado, lo que permite estampar individualmente y en diversos colores y ensamblar manualmente, sin utilizar AMS.\nAdemás, el soporte del controlador está dividido en tres componentes separados, lo que ofrece una opción posterior de impresión pensada para que no disponga de un sistema multicolor.\nEsta actualización hace que el proyecto sea más accesible y versátil, aceptando obtener un resultado multicolor pulito a través de un simple flujo de sello y ensamblaje manual.\nACTUALIZACIÓN V3\nSe ha agregado una nueva actualización V3 al proyecto.\nEl proyecto ahora incluye nuevas fundas decorativas para columnas en espiral diseñadas para deslizarse directamente sobre las columnas de soporte originales.\nSimplemente imprima las tres cubiertas e inserte las columnas existentes en su interior antes de completar el montaje.\nEsta actualización le da a la estructura trasera una apariencia retorcida más detallada y llamativa, mientras mantiene",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta vi",
+  "gta 6",
+  "grand theft auto",
+  "gta6",
+  "controlador",
+  "soporte del controlador",
+  "titular del controlador",
+  "juego de azar",
+  "controlador de juego",
+  "soporte para controlador de juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5e97b1232ca447/design/6b43546b44e32078.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   1333
+  ],
+  "previews/05.png": [
+   1000,
+   1333
+  ],
+  "previews/06.png": [
+   1000,
+   1333
+  ],
+  "previews/07.png": [
+   1000,
+   751
+  ],
+  "previews/08.jpg": [
+   1000,
+   1401
+  ],
+  "previews/09.jpg": [
+   1000,
+   1351
+  ],
+  "previews/10.jpg": [
+   1000,
+   1286
+  ],
+  "previews/11.jpg": [
+   1000,
+   1445
+  ],
+  "previews/12.jpg": [
+   1000,
+   1319
+  ],
+  "previews/13.jpg": [
+   1000,
+   1306
+  ],
+  "previews/profiles/3361511.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3789870.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3508091.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3785436.jpg": [
+   600,
+   810
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

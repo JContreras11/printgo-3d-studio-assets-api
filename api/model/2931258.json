@@ -44,7 +44,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/3281525.jpg",
+   "instance_id": "3281525"
   },
   {
    "path": "model/ladybird_2_color.3mf.xz",
@@ -62,7 +64,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/3281504.jpg",
+   "instance_id": "3281504"
   },
   {
    "path": "model/ladybird_color.3mf.xz",
@@ -80,7 +84,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
+   },
+   "instance_id": "3281496",
+   "thumbnail": "previews/profiles/3281496.jpg"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4fec75ec065be4/design/eec702c8f4287e6e.png?x-oss-process=image/resize,w_1000",
@@ -96,6 +102,18 @@
   "previews/02.png": [
    1200,
    800
+  ],
+  "previews/profiles/3281525.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3281504.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3281496.jpg": [
+   600,
+   450
   ]
  }
 }

@@ -61,7 +61,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/370451.jpg",
+   "instance_id": "370451"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdb70aac5d4bcbb/design/2024-05-12_1011c3ca27282.jpeg?x-oss-process=image/resize,w_1000",
@@ -85,6 +87,10 @@
   "previews/04.jpg": [
    1200,
    900
+  ],
+  "previews/profiles/370451.jpg": [
+   600,
+   814
   ]
  }
 }

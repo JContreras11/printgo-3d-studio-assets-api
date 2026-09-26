@@ -59,7 +59,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/216967.jpg",
+   "instance_id": "216967"
   },
   {
    "path": "model/door_hanger.3mf.xz",
@@ -92,7 +94,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/216967.jpg",
+   "instance_id": "216967"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9774e352a5902e/design/2024-02-21_df4def6da266e.jpg?x-oss-process=image/resize,w_1000",
@@ -104,6 +108,10 @@
   "previews/01.jpg": [
    900,
    1200
+  ],
+  "previews/profiles/216967.jpg": [
+   600,
+   800
   ]
  }
 }

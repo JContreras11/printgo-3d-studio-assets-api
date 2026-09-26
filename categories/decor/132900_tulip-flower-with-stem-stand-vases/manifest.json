@@ -82,7 +82,9 @@
      }
     ],
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/1089475.jpg",
+   "instance_id": "1089475"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa818fd59b02b/design/2025-02-10_5a8d8bec7fbdc.jpeg?x-oss-process=image/resize,w_1000",
@@ -142,6 +144,10 @@
   "previews/13.jpg": [
    1920,
    1440
+  ],
+  "previews/profiles/1089475.jpg": [
+   600,
+   450
   ]
  }
 }

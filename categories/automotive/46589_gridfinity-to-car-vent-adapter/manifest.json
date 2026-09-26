@@ -63,7 +63,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/48400.jpg",
+   "instance_id": "48400"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf3844885be33a/design/2023-10-20_tbskg7t3zm03.jpg?x-oss-process=image/resize,w_1000",
@@ -95,6 +97,10 @@
   "previews/06.jpg": [
    900,
    1200
+  ],
+  "previews/profiles/48400.jpg": [
+   600,
+   800
   ]
  }
 }

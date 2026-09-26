@@ -73,7 +73,9 @@
      }
     ],
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/84744.jpg",
+   "instance_id": "84744"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbc8c65d4fe47e3/design/2023-11-17_d23266f93c37d.jpg?x-oss-process=image/resize,w_1000",
@@ -93,6 +95,10 @@
   "previews/03.jpg": [
    561,
    1200
+  ],
+  "previews/profiles/84744.jpg": [
+   600,
+   800
   ]
  }
 }

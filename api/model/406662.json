@@ -103,7 +103,9 @@
      }
     ],
     "photos": 4
-   }
+   },
+   "thumbnail": "previews/profiles/309746.jpg",
+   "instance_id": "309746"
   },
   {
    "path": "model/A1_With_Receptacle_-_base.3mf.xz",
@@ -137,7 +139,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/309746.jpg",
+   "instance_id": "309746"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91f7a4ecc9dc40/design/2024-03-31_a98c542275dfe.jpg?x-oss-process=image/resize,w_1000",
@@ -169,6 +173,10 @@
   "previews/06.jpg": [
    1200,
    1200
+  ],
+  "previews/profiles/309746.jpg": [
+   600,
+   600
   ]
  },
  "variant_hint": "para A1"

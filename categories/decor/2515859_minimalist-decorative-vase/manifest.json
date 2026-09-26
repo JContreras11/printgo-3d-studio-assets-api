@@ -53,7 +53,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2767339.jpg",
+   "instance_id": "2767339"
   },
   {
    "path": "model/Plattform_und_Vase_Fuzzy_skin.3mf.xz",
@@ -71,7 +73,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2767223.jpg",
+   "instance_id": "2767223"
   },
   {
    "path": "model/Vase_Fuzzy_skin.3mf.xz",
@@ -90,7 +94,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "instance_id": "2767333",
+   "thumbnail": "previews/profiles/2767333.jpg"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65dd240d6d7853/design/587f319bea01b83a.jpg?x-oss-process=image/resize,w_1000",
@@ -138,6 +144,18 @@
   "previews/10.jpg": [
    900,
    1200
+  ],
+  "previews/profiles/2767339.jpg": [
+   207,
+   228
+  ],
+  "previews/profiles/2767223.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2767333.jpg": [
+   164,
+   266
   ]
  }
 }

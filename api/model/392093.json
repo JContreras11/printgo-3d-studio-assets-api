@@ -58,7 +58,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/293152.jpg",
+   "instance_id": "293152"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USea2900dad152b4/design/2024-03-24_76a042e847431.jpg?x-oss-process=image/resize,w_1000",
@@ -70,6 +72,10 @@
   "previews/01.jpg": [
    1200,
    900
+  ],
+  "previews/profiles/293152.jpg": [
+   600,
+   450
   ]
  }
 }

@@ -55,7 +55,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2643174.jpg",
+   "instance_id": "2643174"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8006931cc3762b/design/9774be3d3882fde7.jpeg?x-oss-process=image/resize,w_1000",
@@ -115,6 +117,10 @@
   "previews/13.jpg": [
    640,
    480
+  ],
+  "previews/profiles/2643174.jpg": [
+   450,
+   600
   ]
  },
  "variant_hint": "para X1"

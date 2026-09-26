@@ -46,7 +46,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/806387.jpg",
+   "instance_id": "806387"
   },
   {
    "path": "model/Modular_Shower_Tray.3mf.xz",
@@ -64,7 +66,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/804830.jpg",
+   "instance_id": "804830"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1602bc6054273/design/2024-12-07_d62fb58df5edf.jpg?x-oss-process=image/resize,w_1000",
@@ -88,6 +92,14 @@
   "previews/04.jpg": [
    1200,
    903
+  ],
+  "previews/profiles/806387.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/804830.jpg": [
+   600,
+   451
   ]
  }
 }

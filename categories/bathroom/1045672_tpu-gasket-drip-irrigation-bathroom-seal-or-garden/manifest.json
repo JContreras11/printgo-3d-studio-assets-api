@@ -69,7 +69,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/1031455.jpg",
+   "instance_id": "1031455"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5330c4b499a703/design/2025-01-27_90026d987b29e.jpg?x-oss-process=image/resize,w_1000",
@@ -121,6 +123,10 @@
   "previews/11.jpg": [
    1200,
    675
+  ],
+  "previews/profiles/1031455.jpg": [
+   600,
+   337
   ]
  }
 }

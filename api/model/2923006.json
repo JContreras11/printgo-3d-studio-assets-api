@@ -1,0 +1,301 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3271084.3mf.xz",
+   "instance_id": "3271084",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3271084.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 1385180,
+   "sha256": "5399cb85eec2656828e9444c452c0eb6cf8f833e77719913e82a0c51f2db6f85",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "altezza layer 0.2 infill 15%",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/gta-vi-logo-4-color-3373639.3mf.xz",
+   "instance_id": "3373639",
+   "name": "LOGOTIPO GTA VI 4 colores",
+   "thumbnail": "previews/profiles/3373639.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 44,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 1363696,
+   "sha256": "2413d665529ed8af111640a8e150edba9b09519e1df4f5d82d5ef752919188f6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "GTA VI LOGO 4 color",
+    "creation_date": "2026-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/no-ams-6-color-changes-3428618.3mf.xz",
+   "instance_id": "3428618",
+   "name": "NO AMS 6 CAMBIOS DE COLOR",
+   "thumbnail": "previews/profiles/3428618.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "size": 1162948,
+   "sha256": "8470815c981446fec58363dacb90aa3f282664fef9001b1459cc7aa032fa25db",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "NO AMS 6 COLOR CHANGES",
+    "profile_notes": "La stampante mettera in pausa la stampa ogni volta che dovrai cambiare colore,dovrai cambiare manualmente tu il pla, con questo ordine: 1 nero 2 viola 3 azzurro 4 nero 5 bianco 6 nero 7 bianco",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/stand-v2-vertical-3373628.3mf.xz",
+   "instance_id": "3373628",
+   "name": "SOPORTE V2 VERTICAL",
+   "thumbnail": "previews/profiles/3373628.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "H2C"
+   ],
+   "default": false,
+   "size": 1092040,
+   "sha256": "1771dc07aad366fd9d48a351866c43f893f9f8a598734be329c97c485272baf3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "STAND V2 VERTICAL",
+    "creation_date": "2026-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/vertical-stand-slim-interlocking-3342618.3mf.xz",
+   "instance_id": "3342618",
+   "name": "soporte vertical delgado, entrelazado",
+   "thumbnail": "previews/profiles/3342618.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 1040112,
+   "sha256": "c637fad40ab3376a2575969cdf0bcc339f2fb1d79714855bf13c2d8b6309ea60",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "vertical stand slim , interlocking",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2923006",
+ "title": "Logotipo de GTA VI con AMS y SIN AMS",
+ "slug": "gta-vi-logo-with-ams-and-no-ams",
+ "url": "https://makerworld.com/en/models/2923006-gta-vi-logo-with-ams-and-no-ams",
+ "author": "NEED577",
+ "category": "decor",
+ "source_category": "Hogar > Oficina",
+ "description": "Archivo gratuito para uso personal; la venta está prohibida.\n\nLleva el ambiente de Vice City a tu escritorio con este logotipo en 3D inspirado en Grand Theft Auto VI. Diseñado para impresión multicolor, funciona perfectamente como pieza decorativa para estaciones de juegos, colecciones de videojuegos o configuraciones RGB.\nFácil de imprimir\nDiseño multicolor de alto impacto.\nIdeal para jugadores y fanáticos de la franquicia GTA.\nPerfecto para escritorios, estanterías y salas de juegos.\nImpulsameSi te gustan mis proyectos, ¡impulsame!;)SIN AMS:\nLa impresora pausará la impresión cada vez que necesite cambiar de color; deberá cambiar manualmente el PLA en el siguiente orden:\ncomience con negro (primer color) y luego:\n2 morado---3 azul claro---4 negro---5 blanco---6 negro---7 blanco\n¡Si te gusta el modelo, deja un me gusta y sígueme para más proyectos de juegos!",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "gta vi",
+  "grand theft auto",
+  "grand theft auto 6",
+  "grand theft auto vi",
+  "juego de azar",
+  "logo"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-06-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa4498a253af499/design/002a916e98ea7775.jpeg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   800
+  ],
+  "previews/02.jpg": [
+   900,
+   1600
+  ],
+  "previews/03.jpg": [
+   900,
+   1600
+  ],
+  "previews/04.png": [
+   1000,
+   564
+  ],
+  "previews/05.jpg": [
+   900,
+   1600
+  ],
+  "previews/06.jpg": [
+   900,
+   1600
+  ],
+  "previews/profiles/3271084.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3373639.jpg": [
+   600,
+   480
+  ],
+  "previews/profiles/3428618.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3373628.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3342618.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

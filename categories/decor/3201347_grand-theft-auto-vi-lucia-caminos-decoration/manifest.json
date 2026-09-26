@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/0-13mm-layer-2-walls-15-infill-3622759.3mf.xz",
+   "instance_id": "3622759",
+   "name": "Capa de 0,13 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3622759.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "P1S",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 1446772,
+   "sha256": "d092afd25b6cdc269d62c80dc10afc3f89ba0b9ae6a81ca66ea72ac62e425df2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "0.13mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.13",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3201347",
+ "title": "Grand Theft Auto VI - Decoración de Lucía Caminos",
+ "slug": "grand-theft-auto-vi-lucia-caminos-decoration",
+ "url": "https://makerworld.com/en/models/3201347-grand-theft-auto-vi-lucia-caminos-decoration",
+ "author": "nnorbi",
+ "category": "decor",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Grand Theft Auto VI - Decoración de Escritorio Lucia Caminos\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "grand theft auto",
+  "grand theft auto vi",
+  "lucia caminos",
+  "decoración de escritorio",
+  "estrella de rock",
+  "vice city",
+  "ciudad libertad",
+  "divertido",
+  "videojuego",
+  "playstation",
+  "juego de azar",
+  "jugador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc9c7c21485fc15/design/dce8f5cf1c655907.png",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1427
+  ],
+  "previews/profiles/3622759.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

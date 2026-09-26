@@ -88,7 +88,9 @@
      }
     ],
     "photos": 3
-   }
+   },
+   "thumbnail": "previews/profiles/1102952.jpg",
+   "instance_id": "1102952"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65f9dadc426103/design/2025-02-13_67a2fea893ad3.jpg?x-oss-process=image/resize,w_1000",
@@ -112,6 +114,10 @@
   "previews/04.jpg": [
    1200,
    884
+  ],
+  "previews/profiles/1102952.jpg": [
+   600,
+   450
   ]
  }
 }

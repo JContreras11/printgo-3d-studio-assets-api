@@ -46,7 +46,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/2251325.jpg",
+   "instance_id": "2251325"
   },
   {
    "path": "model/hair_tie_osaur_-_dinosaur_and_container.3mf.xz",
@@ -97,7 +99,9 @@
      }
     ],
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/999445.jpg",
+   "instance_id": "999445"
   },
   {
    "path": "model/hair_tie_osaur_-_dinosaur_and_container_p1s.3mf.xz",
@@ -111,7 +115,8 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/01.jpg"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8a7fcdb8d9c2c9/design/2025-01-20_2b45eb54fb2cb.jpg?x-oss-process=image/resize,w_1000",
@@ -131,6 +136,14 @@
   "previews/03.jpg": [
    1200,
    960
+  ],
+  "previews/profiles/2251325.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/999445.jpg": [
+   600,
+   450
   ]
  },
  "variant_hint": "para P1S"

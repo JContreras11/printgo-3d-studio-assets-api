@@ -47,7 +47,8 @@ function main() {
         if (!fs.existsSync(p)) { err(where, `falta ${f.path}`); continue; }
         if (fs.statSync(p).size !== f.size) err(where, `tamaño distinto ${f.path}`);
         else if (sha256File(p) !== f.sha256) err(where, `sha256 distinto ${f.path}`);
-        if (f.thumbnail && !fs.existsSync(path.join(dir, f.thumbnail))) err(where, `falta ${f.thumbnail}`);
+        if (!f.thumbnail) err(where, `falta miniatura de ${f.path}`);
+        else if (!fs.existsSync(path.join(dir, f.thumbnail))) err(where, `falta ${f.thumbnail}`);
       }
       for (const img of m.images || []) {
         if (!fs.existsSync(path.join(dir, img))) err(where, `falta ${img}`);

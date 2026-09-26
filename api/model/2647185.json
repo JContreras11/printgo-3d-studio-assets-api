@@ -46,7 +46,9 @@
     "infill": "0%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2926044.jpg",
+   "instance_id": "2926044"
   },
   {
    "path": "model/Aurora_Twist_M.3mf.xz",
@@ -64,7 +66,9 @@
     "infill": "0%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2926096.jpg",
+   "instance_id": "2926096"
   },
   {
    "path": "model/Aurora_Twist_S.3mf.xz",
@@ -82,7 +86,9 @@
     "infill": "0%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2926103.jpg",
+   "instance_id": "2926103"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USca1568787ecfd9/design/5c4a7a67f0ab0c2c.png?x-oss-process=image/resize,w_1000",
@@ -106,6 +112,18 @@
   "previews/04.png": [
    1200,
    895
+  ],
+  "previews/profiles/2926044.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2926096.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/2926103.jpg": [
+   600,
+   400
   ]
  }
 }

@@ -18,6 +18,7 @@ node scripts/mw.mjs "gta 6" --only-new      # tópico: variantes del término, f
 node scripts/mw.mjs "lego" --category lego --label "Lego y bloques"           # categoría nueva
 node scripts/mw.mjs "gta 6" --dry-run       # solo lista y clasifica
 node scripts/mw.mjs --refresh-variants [ids...]   # completa perfiles que faltan en modelos existentes
+node scripts/mw.mjs --backfill-thumbnails         # recupera miniaturas de perfiles ya publicados, sin bajar 3MF
 node scripts/mw.mjs --resume                # sigue la cola (tras cuota/captcha)
 scripts/chrome.sh captcha                   # alias de start
 ```
@@ -117,4 +118,3 @@ xz -d -k <file>.3mf.xz        # produces <file>.3mf
 - The one model whose 3MF exceeded 100MB even after compression (`Soap_Duck_Single.3mf`,
   115MB → 108MB) is **excluded** from the repo for now; its metadata lives in
   `excluded/duck-soap-dish-413656/` and the binary in the local Downloads staging area.
-

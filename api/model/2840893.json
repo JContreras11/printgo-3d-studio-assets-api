@@ -49,7 +49,9 @@
     "infill": "10%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/3167041.jpg",
+   "instance_id": "3167041"
   },
   {
    "path": "model/coffin2.3mf.xz",
@@ -67,7 +69,9 @@
     "infill": "10%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/3345070.jpg",
+   "instance_id": "3345070"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d875a93a1a5f2/design/824452f29c9e1901.jpg?x-oss-process=image/resize,w_1000",
@@ -103,6 +107,14 @@
   "previews/07.jpg": [
    1200,
    900
+  ],
+  "previews/profiles/3167041.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3345070.jpg": [
+   600,
+   800
   ]
  }
 }

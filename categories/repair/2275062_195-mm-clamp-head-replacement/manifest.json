@@ -45,7 +45,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2480443.jpg",
+   "instance_id": "2480443"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3e7378fa98d25c/design/2026-01-20_a0ca2927d80f5.jpg?x-oss-process=image/resize,w_1000",
@@ -69,6 +71,10 @@
   "previews/04.jpg": [
    4000,
    3000
+  ],
+  "previews/profiles/2480443.jpg": [
+   600,
+   450
   ]
  }
 }

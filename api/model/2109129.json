@@ -50,7 +50,9 @@
     "ironing": "top",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2281637.jpg",
+   "instance_id": "2281637"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb47c1f6356b0c0/design/2025-12-13_2f6b1efb6fd45.jpeg?x-oss-process=image/resize,w_1000",
@@ -86,6 +88,10 @@
   "previews/07.jpg": [
    675,
    1200
+  ],
+  "previews/profiles/2281637.jpg": [
+   600,
+   449
   ]
  }
 }

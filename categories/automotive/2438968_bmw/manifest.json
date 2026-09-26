@@ -52,7 +52,9 @@
     "ironing": "solid",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2676231.jpg",
+   "instance_id": "2676231"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc2e2d1926a5b6f/design/bc35efa30ee463a4.jpeg?x-oss-process=image/resize,w_1000",
@@ -92,6 +94,10 @@
   "previews/08.jpg": [
    675,
    1200
+  ],
+  "previews/profiles/2676231.jpg": [
+   600,
+   450
   ]
  }
 }

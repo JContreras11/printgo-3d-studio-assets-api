@@ -67,3 +67,15 @@ Borrados: scripts del intento GTA (`*gta6*`, `probe_*`, `audit_*`, `check_*`, `c
 `lib/archives.js`). El diff sin commitear de `catalog.json`/api era daño del intento GTA (slug/url vacíos en
 659796 y 855602): revertido. `catalog.json`, `copy_es.json`, `full-catalog.json`, `subset.json`, `filtered/`
 quedan como histórico (ya no los lee nada; se pueden borrar).
+
+## Miniaturas
+- `mw.mjs` ahora guarda la portada de cada perfil en `previews/profiles/<instanceId>.jpg`. Si MakerWorld no
+  entrega una portada propia, publica la portada local del modelo; nunca deja una ruta inexistente.
+- Backfill real con Chrome/CDP: **226** perfiles sin miniatura de **197** modelos. Se descargaron **207**
+  portadas de instancia y los **19** perfiles restantes usan su portada de modelo porque su 3MF heredado no
+  se pudo asociar de forma fiable a una instancia actual. No se descargó ningún 3MF durante el backfill.
+- Nuevo comando: `node scripts/mw.mjs --backfill-thumbnails`. `validate.js` ahora falla si un perfil no tiene
+  `thumbnail` o si la imagen no existe. Resultado final: 206 modelos, 253 perfiles, 0 miniaturas ausentes o
+  rotas.
+- La tanda pausada se publicó junto con el arreglo: **+6 modelos y +17 perfiles**. También se corrigió la
+  etiqueta de los commits de `--resume` para que diga `(resume)` y no `(refresh-variants)`.

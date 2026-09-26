@@ -80,7 +80,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "instance_id": "313656",
+   "thumbnail": "previews/profiles/313656.jpg"
   },
   {
    "path": "model/Bulbasaur_Flower_Pot_-_Mono_Mini.3mf.xz",
@@ -114,7 +116,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/313673.jpg",
+   "instance_id": "313673"
   },
   {
    "path": "model/Bulbasaur_Flower_Pot_-_Mono_X1.3mf.xz",
@@ -148,7 +152,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/313671.jpg",
+   "instance_id": "313671"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US614ea0e744e72f/design/2025-09-07_b7198a2efbdc5.jpg?x-oss-process=image/resize,w_1000",
@@ -196,6 +202,18 @@
   "previews/10.jpg": [
    1200,
    900
+  ],
+  "previews/profiles/313656.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/313673.jpg": [
+   600,
+   520
+  ],
+  "previews/profiles/313671.jpg": [
+   600,
+   520
   ]
  },
  "variant_hint": "Multicolor y monocromo · para X1 y A1 mini"

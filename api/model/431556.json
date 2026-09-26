@@ -266,7 +266,9 @@
      }
     ],
     "photos": 17
-   }
+   },
+   "thumbnail": "previews/profiles/758473.jpg",
+   "instance_id": "758473"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000431556/design/2024-04-16_fe0742f92303a8.jpg?x-oss-process=image/resize,w_1000",
@@ -278,6 +280,10 @@
   "previews/01.jpg": [
    1200,
    902
+  ],
+  "previews/profiles/758473.jpg": [
+   600,
+   451
   ]
  }
 }

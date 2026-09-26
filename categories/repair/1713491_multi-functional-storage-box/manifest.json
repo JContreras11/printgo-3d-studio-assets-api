@@ -42,7 +42,9 @@
     "infill": "15%",
     "support_type": "normal(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/1818425.jpg",
+   "instance_id": "1818425"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US69a004c125ddb6/design/2025-08-19_558a083cce557.jpg?x-oss-process=image/resize,w_1000",
@@ -54,6 +56,10 @@
   "previews/01.jpg": [
    1079,
    809
+  ],
+  "previews/profiles/1818425.jpg": [
+   600,
+   449
   ]
  }
 }

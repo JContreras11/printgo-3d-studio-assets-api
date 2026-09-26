@@ -50,7 +50,9 @@
     "infill": "15%",
     "support_type": "normal(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2652936.jpg",
+   "instance_id": "2652936"
   },
   {
    "path": "model/egg_dispenser_v2.3mf.xz",
@@ -69,7 +71,9 @@
     "infill": "10%",
     "support_type": "tree(auto)",
     "photos": 3
-   }
+   },
+   "thumbnail": "previews/profiles/3445516.jpg",
+   "instance_id": "3445516"
   },
   {
    "path": "model/鸡蛋架v1.3mf.xz",
@@ -129,7 +133,8 @@
      }
     ],
     "photos": 3
-   }
+   },
+   "thumbnail": "previews/01.webp"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US793c2b7f8381d2/design/e1f165c5-712a-455a-b7ab-dbce69cd9bca.webp?x-oss-process=image/resize,w_1000",
@@ -165,6 +170,14 @@
   "previews/07.png": [
    1200,
    715
+  ],
+  "previews/profiles/2652936.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3445516.jpg": [
+   600,
+   450
   ]
  }
 }

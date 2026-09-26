@@ -44,7 +44,9 @@
     "infill": "10%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2758312.jpg",
+   "instance_id": "2758312"
   },
   {
    "path": "model/Betttisch_35mm.3mf.xz",
@@ -62,7 +64,8 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/01.jpg"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US72d71a325248f5/design/0b5db1b30b484b05.jpg?x-oss-process=image/resize,w_1000",
@@ -78,6 +81,10 @@
   "previews/02.jpg": [
    1200,
    865
+  ],
+  "previews/profiles/2758312.jpg": [
+   600,
+   450
   ]
  }
 }

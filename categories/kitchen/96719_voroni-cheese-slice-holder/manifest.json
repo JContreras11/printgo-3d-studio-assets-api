@@ -56,7 +56,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/103140.jpg",
+   "instance_id": "103140"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US172a5d1d4cc819/design/2023-12-17_6373be3a7f4d6.jpg?x-oss-process=image/resize,w_1000",
@@ -68,6 +70,10 @@
   "previews/01.jpg": [
    628,
    472
+  ],
+  "previews/profiles/103140.jpg": [
+   600,
+   450
   ]
  }
 }

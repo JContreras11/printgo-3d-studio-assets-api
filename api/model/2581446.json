@@ -57,7 +57,9 @@
     "infill": "40%",
     "support_type": "tree(auto)",
     "photos": 7
-   }
+   },
+   "thumbnail": "previews/profiles/2847216.jpg",
+   "instance_id": "2847216"
   },
   {
    "path": "model/Duschstangen_Sachen_Komplett.3mf.xz",
@@ -76,7 +78,9 @@
     "infill": "35%",
     "support_type": "tree(auto)",
     "photos": 10
-   }
+   },
+   "thumbnail": "previews/profiles/2847151.jpg",
+   "instance_id": "2847151"
   },
   {
    "path": "model/Korb_25x25___20x20.3mf.xz",
@@ -95,7 +99,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/2847255.jpg",
+   "instance_id": "2847255"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa683b728b9fc57/design/17b1d30865c2a33f.jpg?x-oss-process=image/resize,w_1000",
@@ -159,6 +165,18 @@
   "previews/14.jpg": [
    1200,
    554
+  ],
+  "previews/profiles/2847216.jpg": [
+   600,
+   389
+  ],
+  "previews/profiles/2847151.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2847255.jpg": [
+   600,
+   345
   ]
  }
 }

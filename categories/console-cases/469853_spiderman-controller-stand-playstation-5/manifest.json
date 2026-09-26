@@ -74,7 +74,9 @@
      }
     ],
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/382037.jpg",
+   "instance_id": "382037"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000469853/design/2024-05-20_c02de0aa6405c.jpg?x-oss-process=image/resize,w_1000",
@@ -102,6 +104,10 @@
   "previews/05.jpg": [
    1080,
    1440
+  ],
+  "previews/profiles/382037.jpg": [
+   600,
+   800
   ]
  }
 }

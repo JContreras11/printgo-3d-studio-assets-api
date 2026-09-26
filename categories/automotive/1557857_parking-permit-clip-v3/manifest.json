@@ -52,7 +52,9 @@
     "ironing": "top",
     "support_type": "normal(auto)",
     "photos": 3
-   }
+   },
+   "thumbnail": "previews/profiles/1636984.jpg",
+   "instance_id": "1636984"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf491aef0ad53ea/design/2025-06-28_15316e4e86ef9.jpg?x-oss-process=image/resize,w_1000",
@@ -96,6 +98,10 @@
   "previews/09.jpg": [
    1200,
    675
+  ],
+  "previews/profiles/1636984.jpg": [
+   600,
+   450
   ]
  }
 }

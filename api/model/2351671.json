@@ -47,7 +47,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2580477.jpg",
+   "instance_id": "2580477"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002351671/design/27fa96cf131dc43f.png?x-oss-process=image/resize,w_1000",
@@ -75,6 +77,10 @@
   "previews/05.png": [
    2000,
    1500
+  ],
+  "previews/profiles/2580477.jpg": [
+   600,
+   684
   ]
  }
 }

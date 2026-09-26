@@ -59,7 +59,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/389690.jpg",
+   "instance_id": "389690"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000475404/design/2024-05-26_b888e3e26f412.jpg?x-oss-process=image/resize,w_1000",
@@ -75,6 +77,10 @@
   "previews/02.png": [
    1200,
    837
+  ],
+  "previews/profiles/389690.jpg": [
+   512,
+   512
   ]
  }
 }

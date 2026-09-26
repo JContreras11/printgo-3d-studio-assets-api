@@ -53,7 +53,9 @@
     "ironing": "top",
     "support_type": "normal(auto)",
     "photos": 4
-   }
+   },
+   "thumbnail": "previews/profiles/1693776.jpg",
+   "instance_id": "1693776"
   },
   {
    "path": "model/mooneygo (1).3mf.xz",
@@ -72,7 +74,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 4
-   }
+   },
+   "thumbnail": "previews/profiles/3198326.jpg",
+   "instance_id": "3198326"
   },
   {
    "path": "model/mooneygo.3mf.xz",
@@ -91,7 +95,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 4
-   }
+   },
+   "thumbnail": "previews/profiles/3198326.jpg",
+   "instance_id": "3198326"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd5869138ee9e9c/design/2025-07-14_6c5a6cb842ea1.jpg?x-oss-process=image/resize,w_1000",
@@ -135,6 +141,14 @@
   "previews/09.jpg": [
    1200,
    675
+  ],
+  "previews/profiles/1693776.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3198326.jpg": [
+   600,
+   975
   ]
  }
 }

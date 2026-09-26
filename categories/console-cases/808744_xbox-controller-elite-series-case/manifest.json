@@ -115,7 +115,9 @@
      }
     ],
     "photos": 5
-   }
+   },
+   "thumbnail": "previews/profiles/749652.jpg",
+   "instance_id": "749652"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7260ea03ec0d7d/design/2024-11-21_d53f4a0dcaff6.jpg?x-oss-process=image/resize,w_1000",
@@ -143,6 +145,10 @@
   "previews/05.jpg": [
    1920,
    1440
+  ],
+  "previews/profiles/749652.jpg": [
+   600,
+   423
   ]
  }
 }

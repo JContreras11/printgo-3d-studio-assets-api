@@ -57,7 +57,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/367146.jpg",
+   "instance_id": "367146"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000208160/design/2024-02-27_0gotedlrfchw.jpg?x-oss-process=image/resize,w_1000",
@@ -73,6 +75,10 @@
   "previews/02.jpg": [
    1600,
    1200
+  ],
+  "previews/profiles/367146.jpg": [
+   600,
+   480
   ]
  }
 }

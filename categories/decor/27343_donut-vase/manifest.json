@@ -61,7 +61,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/23749.jpg",
+   "instance_id": "23749"
   },
   {
    "path": "model/DonutVase_A1_mini.3mf.xz",
@@ -95,7 +97,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/328497.jpg",
+   "instance_id": "328497"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4921fac5735da2/design/2023-09-28_0581236364771.jpeg?x-oss-process=image/resize,w_1000",
@@ -115,6 +119,14 @@
   "previews/03.png": [
    925,
    1200
+  ],
+  "previews/profiles/23749.jpg": [
+   600,
+   484
+  ],
+  "previews/profiles/328497.jpg": [
+   600,
+   800
   ]
  },
  "variant_hint": "para A1 mini"

@@ -46,7 +46,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 3
-   }
+   },
+   "thumbnail": "previews/profiles/1325310.jpg",
+   "instance_id": "1325310"
   },
   {
    "path": "model/shaun_the_sheep_32_mm_version.3mf.xz",
@@ -65,7 +67,9 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/1191517.jpg",
+   "instance_id": "1191517"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3f1a97c8ee5b52/design/2025-03-07_32c9aafd33cae8.jpg?x-oss-process=image/resize,w_1000",
@@ -89,6 +93,14 @@
   "previews/04.jpg": [
    1200,
    900
+  ],
+  "previews/profiles/1325310.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1191517.jpg": [
+   600,
+   450
   ]
  }
 }

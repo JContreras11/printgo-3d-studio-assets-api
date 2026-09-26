@@ -75,7 +75,9 @@
      }
     ],
     "photos": 2
-   }
+   },
+   "thumbnail": "previews/profiles/990800.jpg",
+   "instance_id": "990800"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb2289e13d34f37/design/2024-02-29_4b5544e2e8d67.jpeg?x-oss-process=image/resize,w_1000",
@@ -103,6 +105,10 @@
   "previews/05.jpg": [
    815,
    638
+  ],
+  "previews/profiles/990800.jpg": [
+   600,
+   1066
   ]
  }
 }

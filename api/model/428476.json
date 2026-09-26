@@ -58,7 +58,9 @@
      }
     ],
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/332632.jpg",
+   "instance_id": "332632"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US480afbc8e5b7c9/design/2024-04-14_4ee017f1090c2.jpg?x-oss-process=image/resize,w_1000",
@@ -74,6 +76,10 @@
   "previews/02.jpg": [
    1920,
    1536
+  ],
+  "previews/profiles/332632.jpg": [
+   600,
+   402
   ]
  }
 }

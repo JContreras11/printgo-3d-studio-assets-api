@@ -42,7 +42,9 @@
     "infill": "5%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2056049.jpg",
+   "instance_id": "2056049"
   },
   {
    "path": "model/Ghost_Vase_Knitted_NO_AMS.3mf.xz",
@@ -61,7 +63,9 @@
     "infill": "5%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
+   },
+   "thumbnail": "previews/profiles/2056033.jpg",
+   "instance_id": "2056033"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd07f8f10fd96ca/design/2025-10-23_429a8c4f00d6e8.jpg?x-oss-process=image/resize,w_1000",
@@ -89,6 +93,14 @@
   "previews/05.jpg": [
    900,
    1200
+  ],
+  "previews/profiles/2056049.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2056033.jpg": [
+   600,
+   800
   ]
  }
 }

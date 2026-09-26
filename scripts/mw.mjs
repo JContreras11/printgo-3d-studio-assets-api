@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Super scraper MakerWorld: Chrome visible (scripts/chrome.sh) + APIs internas, sin clics.
 // Uso: node scripts/mw.mjs <url-búsqueda|url-modelo|"tópico"> [--category slug --label "Etiqueta"]
-//        [--limit N] [--dry-run] [--concurrency N] [--only-new] [--refresh-variants] [--no-push]
+//        [--limit N] [--dry-run] [--concurrency N] [--only-new] [--refresh-variants] [--backfill-thumbnails] [--no-push]
 //      node scripts/mw.mjs --refresh-variants [ids...]     re-audita perfiles de modelos existentes
 //      node scripts/mw.mjs --resume                         procesa lo pendiente de queue.json
 import fs from "node:fs";
@@ -19,7 +19,7 @@ const { values: opt, positionals } = parseArgs({
   options: {
     category: { type: "string" }, label: { type: "string" }, limit: { type: "string" },
     "dry-run": { type: "boolean" }, concurrency: { type: "string", default: "3" }, "only-new": { type: "boolean" },
-    "refresh-variants": { type: "boolean" }, "no-push": { type: "boolean" }, resume: { type: "boolean" },
+    "refresh-variants": { type: "boolean" }, "backfill-thumbnails": { type: "boolean" }, "no-push": { type: "boolean" }, resume: { type: "boolean" },
     "batch": { type: "string", default: "25" },
   },
 });
@@ -130,6 +130,69 @@ async function download(url, dest) {
   return false;
 }
 const extOf = (url, def = "jpg") => (url.split("?")[0].match(/\.(jpe?g|png|webp|gif)$/i)?.[1] || def).toLowerCase().replace("jpeg", "jpg");
+
+function localModelCover(folder, m) {
+  return [m.preview, ...(m.images || [])].find((rel) => rel && fs.existsSync(path.join(folder, rel))) || null;
+}
+
+async function profileThumbnail(folder, m, profile) {
+  const own = `previews/profiles/${profile.instance_id}.jpg`;
+  if (profile.cover && !fs.existsSync(path.join(folder, own))) {
+    await download(`${profile.cover}?x-oss-process=image/resize,w_600/format,jpg`, path.join(folder, own));
+  }
+  // El contrato de la UI es una imagen real: si MakerWorld no da portada del perfil,
+  // se usa la portada ya descargada del modelo, nunca una ruta rota.
+  return fs.existsSync(path.join(folder, own)) ? own : localModelCover(folder, m);
+}
+
+async function matchingProfile(file, profiles) {
+  if (file.instance_id) return profiles.find((p) => p.instance_id === String(file.instance_id)) || null;
+  const same = (value) => String(value || "").toLowerCase().replace(/[^a-z0-9]+/g, "");
+  const names = new Set([file.name, file.meta?.profile_title].map(same).filter(Boolean));
+  for (const profile of profiles) {
+    const variants = [profile.title, await toEs(profile.title), await toEs(profile.title, { curated: true })];
+    if (variants.some((name) => names.has(same(name)))) return profile;
+  }
+  return null;
+}
+
+async function backfillThumbnails(lib) {
+  const folders = [...lib.values()].filter((folder) => {
+    const m = JSON.parse(fs.readFileSync(path.join(folder, "manifest.json"), "utf8"));
+    const fallback = localModelCover(folder, m);
+    return (m.files || []).some((file) => !file.thumbnail
+      || !fs.existsSync(path.join(folder, file.thumbnail))
+      || (!file.instance_id && fallback && file.thumbnail === fallback));
+  });
+  let files = 0;
+  for (let i = 0; i < folders.length; i++) {
+    const folder = folders[i];
+    const mf = path.join(folder, "manifest.json");
+    const m = JSON.parse(fs.readFileSync(mf, "utf8"));
+    const d = (await api(`/api/v1/design-service/design/${m.id}`)).json;
+    const profiles = d?.id ? parseProfiles(d) : [];
+    let changed = false;
+    for (const file of m.files || []) {
+      const fallback = localModelCover(folder, m);
+      const needsOwnCover = !file.instance_id && fallback && file.thumbnail === fallback;
+      if (file.thumbnail && fs.existsSync(path.join(folder, file.thumbnail)) && !needsOwnCover) continue;
+      const profile = await matchingProfile(file, profiles);
+      if (profile) {
+        const thumbnail = await profileThumbnail(folder, m, profile);
+        file.instance_id ??= profile.instance_id;
+        if (thumbnail) { file.thumbnail = thumbnail; changed = true; files++; }
+      }
+      // Un perfil antiguo sin id/título compatible conserva una portada de modelo válida.
+      if (!file.thumbnail || !fs.existsSync(path.join(folder, file.thumbnail))) {
+        const fallback = localModelCover(folder, m);
+        if (fallback) { file.thumbnail = fallback; changed = true; files++; }
+      }
+    }
+    if (changed) fs.writeFileSync(mf, JSON.stringify(m, null, 1) + "\n");
+    log(`miniaturas [${i + 1}/${folders.length}] ${m.id}${changed ? " actualizado" : " sin cambio"}`);
+  }
+  return { models: folders.length, files };
+}
 
 let quotaHit = null;
 // Pausa mínima entre peticiones de descarga (ms). Perilla de calibración: MakerWorld pide captcha si se va muy rápido.
@@ -255,12 +318,11 @@ async function processModel(item, lib) {
       added++;
     }
     // Miniatura del perfil y metadatos (contrato UI).
-    const thumb = `previews/profiles/${p.instance_id}.jpg`;
-    if (p.cover && !fs.existsSync(path.join(folder, thumb))) await download(`${p.cover}?x-oss-process=image/resize,w_600/format,jpg`, path.join(folder, thumb));
+    const thumbnail = await profileThumbnail(folder, m, p);
     Object.assign(file, {
       instance_id: p.instance_id,
       name: (await toEs(p.title)) || sanitize(p.title),
-      thumbnail: fs.existsSync(path.join(folder, thumb)) ? thumb : null,
+      thumbnail,
       print_time_h: p.print_time_h, plates: p.plates, rating: p.rating, rating_count: p.rating_count,
       by_designer: p.by_designer, printers: p.printers, default: p.default,
     });
@@ -305,6 +367,13 @@ async function main() {
     if (labels()[opt.category] !== opt.label) fs.writeFileSync(f, JSON.stringify({ ...cur, [opt.category]: opt.label }, null, 1) + "\n");
   }
   const lib = library();
+  if (opt["backfill-thumbnails"]) {
+    const result = await backfillThumbnails(lib);
+    await publish(`library: miniaturas reparadas (${result.files} perfiles)`);
+    log(`miniaturas: ${result.files} perfiles en ${result.models} modelos`);
+    browser?.close();
+    return;
+  }
   const q = readQueue();
   const inQueue = new Map(q.items.map((x) => [x.id, x]));
 
@@ -378,9 +447,10 @@ async function main() {
   fs.mkdirSync(path.join(ROOT, ".tmp"), { recursive: true });
   fs.appendFileSync(path.join(ROOT, ".tmp", "mw-runs.jsonl"), JSON.stringify({ at: new Date().toISOString(), target: target || "(refresh/resume)", ...summary }) + "\n");
   if (quotaHit) log(`CUOTA/SESIÓN: ${quotaHit}. Cola guardada en queue.json; reanuda con: node scripts/mw.mjs --resume`);
+  const source = target || (opt.resume ? "resume" : "refresh-variants");
   await publish(stats.newModels || stats.newFiles
-    ? `library: +${stats.newModels} modelos, +${stats.newFiles} perfiles (${target || "refresh-variants"})`
-    : `queue: ${summary.pending} pendientes (${target || "refresh/resume"})${quotaHit ? " · parado por cuota/captcha" : ""}`);
+    ? `library: +${stats.newModels} modelos, +${stats.newFiles} perfiles (${source})`
+    : `queue: ${summary.pending} pendientes (${source})${quotaHit ? " · parado por cuota/captcha" : ""}`);
   browser?.close();
 }
 

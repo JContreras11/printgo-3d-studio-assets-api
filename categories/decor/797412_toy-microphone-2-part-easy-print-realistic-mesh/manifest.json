@@ -1,0 +1,225 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-736779.3mf.xz",
+   "instance_id": "736779",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/736779.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 166,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "size": 3426980,
+   "sha256": "30e78b5bdcd339ff3b4ebb7d52a5a94dcdc4e46aa98f87480672853c81b47bc8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "No special settings needed. Some support on the mesh, the handle I did with a brim just in case.",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6776,
+      "weight_g": 36.93,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A0A0A0"
+       },
+       {
+        "type": "PLA",
+        "color": "#181818"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-1402198.3mf.xz",
+   "instance_id": "1402198",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1402198.jpg",
+   "print_time_h": 3.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 64,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "X1",
+    "A1",
+    "P1P",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3478560,
+   "sha256": "4fcc232cf2072ff0aac3cb822fdeaaa2c39f69815fad930b1662119ba129a17f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "A1 mini profile without AMS lite.",
+    "creation_date": "2025-04-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/125-scaling-petg-2089426.3mf.xz",
+   "instance_id": "2089426",
+   "name": "125% de escalado y PETG",
+   "thumbnail": "previews/profiles/2089426.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "size": 3545860,
+   "sha256": "1a6c06cdc4bce087f1ac3eef720837e2f236df0f71f9530ec8ee0a711ce03d10",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "125 % Skalierung & PETG",
+    "profile_notes": "Nach meinen Bedürfnissen angepasst: Skalierung auf 125 % Verwendetes Material PETG (enge Passform beim Gewinde)",
+    "creation_date": "2025-10-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/colorfull-version-stable-2205591.3mf.xz",
+   "instance_id": "2205591",
+   "name": "Versión colorida estable",
+   "thumbnail": "previews/profiles/2205591.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "size": 3509584,
+   "sha256": "596a5feebc6abc4c8123d5df520ec27a774a4285bba613f9f8b66fbfbf62a746",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Colorfull Version Stable",
+    "profile_notes": "Print With Supports and keep the brim. Don't change anything in print profile you can change colors in the AMS section",
+    "creation_date": "2025-11-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "797412",
+ "title": "Micrófono de juguete - Impresión fácil en 2 partes - Malla realista",
+ "slug": "toy-microphone-2-part-easy-print-realistic-mesh",
+ "url": "https://makerworld.com/en/models/797412-toy-microphone-2-part-easy-print-realistic-mesh",
+ "author": "user_1414138748",
+ "category": "decor",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "Versión mejorada con unión de clip más fuerte aquí:\n\nMicrófono de utilería sencillo, a escala para niños. Imprime en dos partes, la malla y el mango se atornillan, no necesita pegamento.\n\nIntenté que la malla fuera lo más realista posible, se ve muy bien en Bambu Silver PLA. Utilicé PLA Bambu Matte Black para el mango.\n\nCreado porque mis hijos tienen un día de disfraces con temática de estrellas de rock en la escuela esta semana.",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "juguete",
+  "apuntalar",
+  "estrella de rock",
+  "estrella del pop",
+  "cantante",
+  "fácil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US40660c28e9d95e/design/2024-11-17_60e73ec0d3147.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/736779.jpg": [
+   600,
+   726
+  ],
+  "previews/profiles/1402198.jpg": [
+   600,
+   1007
+  ],
+  "previews/profiles/2089426.jpg": [
+   600,
+   797
+  ],
+  "previews/profiles/2205591.jpg": [
+   600,
+   797
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2637443.3mf.xz",
+   "instance_id": "2637443",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2637443.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 359500,
+   "sha256": "ed0bf6c238120588301dba1167594e9acd2516821c5ba016522552d467daf94b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2405960",
+ "title": "Figura de acción WWE micrófono escala 1/12",
+ "slug": "wwe-action-figure-1-12-scale-microphone",
+ "url": "https://makerworld.com/en/models/2405960-wwe-action-figure-1-12-scale-microphone",
+ "author": "aisandr",
+ "category": "decor",
+ "source_category": "Miniaturas > Otras Miniaturas",
+ "description": "Modelo de micrófono a escala 1:12 muy sencillo para figuras de acción de la WWE o cualquier figura de acción de 16/17cm.",
+ "use_cases": [],
+ "tags": [
+  "wwe",
+  "accesorios wwe",
+  "figuras de acción de la wwe",
+  "micrófono",
+  "accesorios",
+  "maravilla",
+  "lucha",
+  "aew",
+  "tna",
+  "matel",
+  "jakks"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USde6fe23ef1d278/design/0646427ec6ea4c3e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   433,
+   577
+  ],
+  "previews/profiles/2637443.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

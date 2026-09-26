@@ -1,0 +1,93 @@
+{
+ "files": [
+  {
+   "path": "model/2-tone-whistle-2531353.3mf.xz",
+   "instance_id": "2531353",
+   "name": "Silbato de 2 tonos",
+   "thumbnail": "previews/profiles/2531353.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 209,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "P1S",
+    "A1",
+    "H2D",
+    "P1P",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 547888,
+   "sha256": "01609dc6b6cb21e28d5586833396d2765c0f012f1b13eb11c2ef3fa856915801",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "2-Tone Whistle",
+    "profile_notes": "Clean/glue your build plate before printing!",
+    "creation_date": "2026-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2318088",
+ "title": "Microsilbato de 2 tonos",
+ "slug": "2-tone-micro-whistle",
+ "url": "https://makerworld.com/en/models/2318088-2-tone-micro-whistle",
+ "author": "Pi_Guy",
+ "category": "decor",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Este es el silbido de dos tonos más pequeño de MakerWorld (al menos hasta donde yo sé). Puede alcanzar más de 100 decibeles, lo que lo hace perfecto para emergencias, uso en exteriores o simplemente para probar cuánto sonido puede provenir de algo tan pequeño.\n\nLas pruebas de volumen se realizaron al aire libre utilizando un iPhone 12, con el silbato colocado a 1 metro del micrófono. Si bien los resultados pueden variar según la configuración de impresión y el flujo de aire, la salida de sonido es sorprendentemente potente para su tamaño.\n\nEl diseño incluye un orificio para llavero incorporado, por lo que es fácil de colocar en llaves, mochilas, tiradores de cremallera o kits de emergencia, siempre ahí cuando lo necesite.\n\nADVERTENCIA: Este silbato no es un juguete. Produce un sonido extremadamente fuerte y puede causar daños auditivos graves si se usa incorrectamente. Evite el uso cerca de niños o mascotas.",
+ "use_cases": [],
+ "tags": [
+  "silbar",
+  "mini",
+  "micro",
+  "mínimo",
+  "minimalista",
+  "whist",
+  "ayuda",
+  "llamada de socorro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US19d928c515abf/design/e31c020f592e21ec.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2531353.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

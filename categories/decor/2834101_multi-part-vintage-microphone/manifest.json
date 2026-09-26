@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3170808.3mf.xz",
+   "instance_id": "3170808",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3170808.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "X2D",
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "X1",
+    "H2S",
+    "H2C",
+    "H2D"
+   ],
+   "default": true,
+   "size": 5725316,
+   "sha256": "0279e24ea5b79900db4772cce9991e58195cf4bf52b92ffbf1dfbfee9e8a0dfb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2834101",
+ "title": "micrófono vintage de varias partes",
+ "slug": "multi-part-vintage-microphone",
+ "url": "https://makerworld.com/en/models/2834101-multi-part-vintage-microphone",
+ "author": "heian1978",
+ "category": "decor",
+ "source_category": "Miniaturas > Otras Miniaturas",
+ "description": "Micrófono de escritorio vintage (modelo de varias piezas sin desperdicio)\n¡Agregue un toque retro a su escritorio con este micrófono estilo vintage/podcast! El modelo fue diseñado íntegramente desde cero dividiendo los componentes en partes separadas.\n¿Por qué este diseño es especial?\nSin desperdicio: no necesita una impresora multicolor (AMS/MMU) para personalizarlo. Puedes imprimir cada pieza individualmente con el color de filamento que prefieras\nImpresión Fácil y Limpia: Dividirlo en partes minimiza el uso de soportes, asegurando superficies lisas y ajustes precisos.\nMontaje sencillo: las piezas se unen y se conectan fácilmente utilizando los pasadores laterales del soporte.\nComponentes incluidos en el proyecto:\nRejilla superior (amarilla): optimizada para mostrar la cápsula interna\nParte inferior del cuerpo (Magenta): la base del micrófono.\nCápsula interna (negra): un detalle estético interno para agregar profundidad a la parrilla\nSoporte en forma de U (horquilla): El soporte que sostiene el micrófono y permite ajustar la inclinación.\nBase de soporte (Blanca): Sólida y estable para el escritorio\nPasadores/perillas laterales: para bloquear el micrófono en la horquilla\nConsejos de impresión (configuraciones de impresión):\nMaterial: PLA (perfecto para los detalles y colores vibrantes de este modelo)\nAltura de capa: 0,16 mm o 0,20 mm. Para la rejilla superior y la base abovedada, una altura de capa más baja (o capas adaptables) hará que las curvas superiores sean muy suaves.\nParedes: 2 bucles de pared son suficientes\nSoportes: No es imprescindible, pero para estar más seguro y mejorar el resultado, puede que sólo sea necesaria una cantidad mínima de soporte \"Árbol\"",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "antiguo",
+  "escritorio",
+  "retro",
+  "multiparte",
+  "decoración",
+  "sin ams",
+  "impresión fácil"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-05-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2df55f98028894/design/1dbf52e71c15add3.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3170808.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

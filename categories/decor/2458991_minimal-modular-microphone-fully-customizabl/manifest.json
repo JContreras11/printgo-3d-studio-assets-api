@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2699912.3mf.xz",
+   "instance_id": "2699912",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2699912.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 14797468,
+   "sha256": "7fba7f71393e9080e7efa418d6be73431e45b4696c7eb0ec833b4645a1b400f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "2458991",
+ "title": "Micrófono modular mínimo: totalmente personalizable",
+ "slug": "minimal-modular-microphone-fully-customizabl",
+ "url": "https://makerworld.com/en/models/2458991-minimal-modular-microphone-fully-customizabl",
+ "author": "3daleforma",
+ "category": "decor",
+ "source_category": "Arte > Esculturas",
+ "description": "Este modelo de micrófono limpio y simple está diseñado como una base en blanco para personalización.\n\nPerfecto para:\n\nTrofeos de musica\nLlaveros\nImanes de nevera\nPremios del concurso de canto\ndecoración de podcasts\nEventos de karaoke\nPremios del concurso de talentos\n\nEl modelo puede ser:\nEscalado fácilmente\nCortar por la mitad para impresión plana\nModificado para agregar texto o logotipos.\nImpreso en multicolor (compatible con AMS)\nUtilizado como base para proyectos personales o comerciales.\n\nDiseñado de forma limpia para que puedas hacerlo tuyo\nBoost MeDALEEEEE GASOLINAAA PREMIUM",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "música",
+  "accesorios musicales",
+  "trofeo",
+  "otorgar",
+  "llavero",
+  "imán",
+  "cantante",
+  "karaoke",
+  "dj",
+  "podcast",
+  "banda"
+ ],
+ "license": "BY",
+ "release_date": "2026-02-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3885e352cf63e6/design/5c26775c305de1bf.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   597
+  ],
+  "previews/profiles/2699912.jpg": [
+   600,
+   358
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

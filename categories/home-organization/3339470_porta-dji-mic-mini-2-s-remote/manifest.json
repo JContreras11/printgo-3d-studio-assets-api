@@ -1,0 +1,114 @@
+{
+ "files": [
+  {
+   "path": "model/0-12mm-layer-6-walls-65-infill-3793632.3mf.xz",
+   "instance_id": "3793632",
+   "name": "Capa de 0,12 mm, 6 paredes, 65 % de relleno",
+   "thumbnail": "previews/profiles/3793632.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1306864,
+   "sha256": "b1fa930e9e153642958d9cd96e2d25c08dbae07a23c4382d98f9cda3b778e6c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.12mm layer, 6 walls, 65% infill",
+    "profile_notes": "Current profile field-tested for solidity and durability.",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "65%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3339470",
+ "title": "Porta DJI Mic Mini 2 S + Mando",
+ "slug": "porta-dji-mic-mini-2-s-remote",
+ "url": "https://makerworld.com/en/models/3339470-porta-dji-mic-mini-2-s-remote",
+ "author": "Broddoi3D",
+ "category": "home-organization",
+ "source_category": "Hobby y bricolaje > Deporte y aire libre",
+ "description": "Soporte de micrófono DJI para moto. DJI Micrófono Mini 2S\n¡Aquí está el soporte de micrófono actualizado para el DJI Mic Mini 2S! Este último modelo presenta diferentes formas y dimensiones.\nHe revisado y perfeccionado el diseño anterior. Fabricado en ABS, es casi perfecto.\nASA es una opción aún mejor si se usa con frecuencia bajo la luz solar directa o en condiciones climáticas adversas.\nEstá diseñado para manillares de 28,6 mm de diámetro, pero se puede instalar fácilmente en diámetros más pequeños utilizando adaptadores fácilmente disponibles.\nAl igual que la versión anterior, incluye un soporte para el mando a distancia Insta360 Ace Pro 1 y 2.",
+ "use_cases": [],
+ "tags": [
+  "dji",
+  "micrófono mini 2s",
+  "micrófono dji mini 2s",
+  "soporte para micrófono",
+  "remoto",
+  "control remoto dji",
+  "instalación remota",
+  "insta360",
+  "as para"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8563a41d7d0f7d/design/a6e216c18a934a21.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   922,
+   2048
+  ],
+  "previews/02.jpg": [
+   922,
+   2048
+  ],
+  "previews/03.jpg": [
+   1000,
+   451
+  ],
+  "previews/04.jpg": [
+   1000,
+   449
+  ],
+  "previews/05.jpg": [
+   1000,
+   449
+  ],
+  "previews/06.jpg": [
+   1000,
+   449
+  ],
+  "previews/profiles/3793632.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

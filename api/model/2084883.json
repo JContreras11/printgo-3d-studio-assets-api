@@ -1,0 +1,82 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2253258.3mf.xz",
+   "instance_id": "2253258",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2253258.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P2S",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 452864,
+   "sha256": "8fd814ff92885f32cafb904a0332428ec4039d529e0bbf2792a92a1b2845e1d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-12-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2084883",
+ "title": "Shure Beta 58 A Soporte Para Micrófono",
+ "slug": "shure-beta-58-a-microphone-holder",
+ "url": "https://makerworld.com/en/models/2084883-shure-beta-58-a-microphone-holder",
+ "author": "mickarchery",
+ "category": "home-organization",
+ "source_category": "Hobby y bricolaje > Música",
+ "description": "Soporte de micrófono para soporte de suelo de 16 mm de diámetro con articulación",
+ "use_cases": [],
+ "tags": [
+  "soporte para micrófono",
+  "shure beta 58a",
+  "micrófono cónico"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-12-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US82bdc3c4a27ea1/design/2025-12-06_fde84d2b9615e.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2253258.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-429627.3mf.xz",
+   "instance_id": "429627",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/429627.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2C",
+    "H2S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2658964,
+   "sha256": "685e1836aba822dd65433118cbefc3bbda3db82dc245c4e0b43f358e1dec50ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8086,
+      "weight_g": 40.45,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-629286.3mf.xz",
+   "instance_id": "629286",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/629286.jpg",
+   "print_time_h": 17,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "P2S",
+    "X1",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2674692,
+   "sha256": "6e1d5789c75912a0cd7797ec041e9f644b4991a8faad067869219495c8ac71f5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 66560,
+      "weight_g": 293.87,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  }
+ ],
+ "id": "389421",
+ "title": "micrófono retro",
+ "slug": "retro-microphone",
+ "url": "https://makerworld.com/en/models/389421-retro-microphone",
+ "author": "user_3541075547",
+ "category": "decor",
+ "source_category": "Hogar > Decoración",
+ "description": "Modelado con RHINO, primera vez que uso esto. Si tiene alguna pregunta, hágamelo saber.",
+ "use_cases": [],
+ "tags": [
+  "retro",
+  "micrófono",
+  "lindo",
+  "modelo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-03-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8bef80ad794964/design/2024-03-23_3ccc2de2d9fee.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   1477
+  ],
+  "previews/03.jpg": [
+   1000,
+   1332
+  ],
+  "previews/profiles/429627.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/629286.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

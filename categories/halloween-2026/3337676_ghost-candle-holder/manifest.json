@@ -1,0 +1,185 @@
+{
+ "files": [
+  {
+   "path": "model/no-ams-3791286.3mf.xz",
+   "instance_id": "3791286",
+   "name": "SIN AMS",
+   "thumbnail": "previews/profiles/3791286.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "P2S",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "size": 3382052,
+   "sha256": "290ecb80bcd4d99fb843030f06cb302f9fa31b2f3c9f3e1a3346dc2dbb33347e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "NO AMS",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/ams-version-3794435.3mf.xz",
+   "instance_id": "3794435",
+   "name": "Versión AMS",
+   "thumbnail": "previews/profiles/3794435.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 3548152,
+   "sha256": "fc7cb4f327c6f522054b12b5df9311004ec8ef481c84075d6676d452023ea332",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "AMS version",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimized-parameters-fast-and-material-saving-for--3806567.3mf.xz",
+   "instance_id": "3806567",
+   "name": "Parámetros optimizados, rápidos y que ahorran material, para las series A1 y P",
+   "thumbnail": "previews/profiles/3806567.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "size": 3567440,
+   "sha256": "04a1a799937fc010504a35d011d3d20f800d9174a992ab708a2a024f695afac5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "参数优化，快速省料，适配A1和P系列",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3337676",
+ "title": "Portavelas fantasma",
+ "slug": "ghost-candle-holder",
+ "url": "https://makerworld.com/en/models/3337676-ghost-candle-holder",
+ "author": "Dommivat",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Dale un toque espeluznante a tus decoraciones de Halloween con este lindo candelabro fantasma, diseñado en torno a una idea simple pero divertida: un pequeño fantasma que lucha por sostener una bandeja para velas de gran tamaño.\nEl fantasma presenta una boca profundamente hundida y expresivos ojos cerrados, lo que le da un divertido \"¡esto es demasiado pesado!\" expresión mientras sostiene la gran bandeja negra sobre su cabeza.\nEl modelo está diseñado con una geometría limpia y robusta y detalles llamativos, lo que lo hace adecuado para la impresión FDM y al mismo tiempo mantiene el personaje reconocible y divertido.\nLa bandeja circular grande está diseñada para contener un pequeño candelabro o una vela LED, lo que convierte al modelo en una pieza decorativa de Halloween y una decoración funcional de temporada.\nPerfecto para exhibiciones de Halloween, estantes, escritorios y decoración espeluznante del hogar.",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "fantasma 2025",
+  "modelo 3d fantasma",
+  "vela",
+  "candelabro",
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 2",
+  "halloween2026",
+  "decoracion de halloween",
+  "decoración de halloween 2025",
+  "decoración de halloween 2026"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US69d287e4320f4c/design/4aa1162c21a59de7.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   861,
+   944
+  ],
+  "previews/profiles/3791286.jpg": [
+   600,
+   657
+  ],
+  "previews/profiles/3794435.jpg": [
+   600,
+   657
+  ],
+  "previews/profiles/3806567.jpg": [
+   600,
+   565
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

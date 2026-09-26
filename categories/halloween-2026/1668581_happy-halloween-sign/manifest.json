@@ -1,0 +1,141 @@
+{
+ "files": [
+  {
+   "path": "model/happy-halloween-sign-x1-a1-1766262.3mf.xz",
+   "instance_id": "1766262",
+   "name": "Feliz Halloween Signo X1 A1",
+   "thumbnail": "previews/profiles/1766262.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 163,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2945576,
+   "sha256": "e504ce9b111ba38da614ecfcf17057f9d00b7369aa76d4a8c49b4ca997b1a7fd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Happy Halloween Sign X1 A1",
+    "creation_date": "2025-08-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/happy-halloween-a1-mini-1766273.3mf.xz",
+   "instance_id": "1766273",
+   "name": "Feliz Halloween A1 mini",
+   "thumbnail": "previews/profiles/1766273.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "X1",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3081412,
+   "sha256": "21846601425810a08790cd54e0a0f9e7f68e89224e745d8ce0512bf75f95a6f3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Happy Halloween A1 Mini",
+    "creation_date": "2025-08-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1668581",
+ "title": "Feliz signo de Halloween",
+ "slug": "happy-halloween-sign",
+ "url": "https://makerworld.com/en/models/1668581-happy-halloween-sign",
+ "author": "TheArkaneNook",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "¡Impulsame! ¡Impulsa este modelo para mostrar tu apoyo y ayudarme a hacer impresiones más impresionantes! Membresía ¿Quieres vender impresiones de este modelo? ¡Puede! Únase a mi Membresía de licencia comercial para obtener permiso oficial para vender impresiones de cualquier modelo de mi catálogo. Celebre Halloween con esta impresión de Feliz Halloween, que presenta un fondo negro mate y letras en naranja mate. Perfecto para una decoración festiva. Con un tamaño que cabe perfectamente en el alféizar de una ventana o en un estante, es una excelente manera de mostrar su espíritu de Halloween. Fácil de imprimir con varios colores, este modelo es un complemento divertido y llamativo para tus decoraciones de Halloween.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2025",
+  "firmar",
+  "feliz halloween",
+  "decoración de halloween",
+  "signo de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4864b5ff4e8352/design/2025-08-04_beb61181c6d8b8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/02.png": [
+   1000,
+   461
+  ],
+  "previews/03.png": [
+   1000,
+   984
+  ],
+  "previews/profiles/1766262.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1766273.jpg": [
+   600,
+   400
+  ]
+ },
+ "variant_hint": "para X1 y A1 y A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

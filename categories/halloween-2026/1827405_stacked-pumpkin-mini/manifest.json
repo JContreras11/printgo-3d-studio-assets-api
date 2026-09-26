@@ -1,0 +1,151 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2027757.3mf.xz",
+   "instance_id": "2027757",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2027757.jpg",
+   "print_time_h": 5.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 40,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "H2D",
+    "A1",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 5249432,
+   "sha256": "8d95002b0db7b8ff4f705f34cb141512aa6a34dcb7722ae9d49f5ccd1cc49bf0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/pumpkin-with-connectors-0-2mm-layer-2-walls-15-inf-3811342.3mf.xz",
+   "instance_id": "3811342",
+   "name": "Calabaza con conectores: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3811342.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1E",
+    "X1",
+    "X2D",
+    "P1S",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 5419560,
+   "sha256": "60837c9f631f9d1679f113fcfb6676eb46d01bbd38fde78e8359b92c1497ee17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Pumpkin with connectors - 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1827405",
+ "title": "Mini calabaza apilada",
+ "slug": "stacked-pumpkin-mini",
+ "url": "https://makerworld.com/en/models/1827405-stacked-pumpkin-mini",
+ "author": "wikydtron",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Otras Miniaturas",
+ "description": "Esta es una mini calabaza apilada diseñada para exhibiciones de Halloween y otoño. El modelo mide 60 mm de alto y presenta tres calabazas apiladas una encima de la otra, cada una con una expresión única: tonta con la lengua fuera, enojada y tonta con una sonrisa con dientes.\nPerfecto para decoraciones de Halloween, dioramas de temporada o simplemente como un divertido proyecto de impresión 3D. Diseñado con detalles claros que se imprimen bien en impresoras FDM y de resina, y queda muy bien si se deja en filamento crudo, se pinta para darle más carácter o simplemente se usa un AMS.",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "víspera de todos los santos",
+  "jack-o-lantern",
+  "caer",
+  "otoño",
+  "decoración",
+  "escalofriante",
+  "mini",
+  "pila",
+  "lindo",
+  "tallado"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US45f6ff2ea3cc00/design/2025-11-14_cb165b3c77d758.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   612,
+   864
+  ],
+  "previews/02.png": [
+   1000,
+   1500
+  ],
+  "previews/03.png": [
+   598,
+   1156
+  ],
+  "previews/04.png": [
+   627,
+   1098
+  ],
+  "previews/profiles/2027757.jpg": [
+   600,
+   847
+  ],
+  "previews/profiles/3811342.jpg": [
+   600,
+   847
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

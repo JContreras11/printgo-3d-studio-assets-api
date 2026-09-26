@@ -1,0 +1,123 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-3809494.3mf.xz",
+   "instance_id": "3809494",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/3809494.jpg",
+   "print_time_h": 2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "size": 2166132,
+   "sha256": "085d769ac2bfa1101f81196af36f68ff2f5ed779d314be62fa17e1688056ac68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-09-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "3351787",
+ "title": "Jack o' Lantern for Halloween Decoration NO AMS",
+ "slug": "jack-o-lantern-for-halloween-decoration-no-ams",
+ "url": "https://makerworld.com/en/models/3351787-jack-o-lantern-for-halloween-decoration-no-ams",
+ "author": "KeenanC",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "NO SE NECESITA AMS PARA ESTE MODELO\nTodas las piezas del modelo están diseñadas para encajar en su lugar.\nEs posible que necesites limpiar el área de la boca debido a los soportes.\n¡Mira mi modelo de calabaza normal!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2026",
+  "decoración",
+  "'decoración",
+  "decoración 2026",
+  "otoño",
+  "calabaza",
+  "calabaza 2026",
+  "caer"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USae0951266259c7/design/88d7ea9ba044cbf2.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   749
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3809494.jpg": [
+   598,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

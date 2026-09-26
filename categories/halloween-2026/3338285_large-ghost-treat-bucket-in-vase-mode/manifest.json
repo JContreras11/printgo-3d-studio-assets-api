@@ -1,0 +1,204 @@
+{
+ "files": [
+  {
+   "path": "model/ghost-treat-bucket-3792045.3mf.xz",
+   "instance_id": "3792045",
+   "name": "Cubo de golosinas fantasma",
+   "thumbnail": "previews/profiles/3792045.jpg",
+   "print_time_h": 4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": true,
+   "size": 4840816,
+   "sha256": "6c09f92b90c17f794f3b2ccc08a6dc753fc415f5ef35ca95a3b276c58e351c29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Ghost treat bucket",
+    "profile_notes": "Ghost bucket with handle attachment guides, treat bucket handle and optional face shapes. Treat bucket Vase mode: 1 wall, 0.96mm thick, 0% infill 0.2mm layer height Handle Standard printing: 4 walls, 0.5mm thick 0.2mm layer height, 15% gyroid infill Face shapes Standard printing: 2 walls, 0.5mm thick 0.2mm layer height, 15% infill",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/ghost-treat-bucket-a1-mini-3795670.3mf.xz",
+   "instance_id": "3795670",
+   "name": "Cubo de golosinas fantasma - A1 mini",
+   "thumbnail": "previews/profiles/3795670.jpg",
+   "print_time_h": 2.8,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 4853844,
+   "sha256": "32b31ac144555f9e6827000df8245d1fbef3b9d60ed75425a94379d5e512e8a8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Ghost treat bucket - a1 mini",
+    "profile_notes": "Treat bucket Vase mode: 1 wall, 0.96mm thick, 0% infill 0.2mm layer height Handle Standard printing: 4 walls, 0.5mm thick 0.2mm layer height, 15% gyroid infill Face shapes Standard printing: 2 walls, 0.5mm thick 0.2mm layer height, 15% infill",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/petg-optimized-vase-mode-fast-0-2mm-layer-1-walls--3818538.3mf.xz",
+   "instance_id": "3818538",
+   "name": "PETG Modo florero optimizado RÁPIDO Capa de 0,2 mm, 1 pared, 0 % de inf.",
+   "thumbnail": "previews/profiles/3818538.jpg",
+   "print_time_h": 5,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "size": 4689472,
+   "sha256": "7a99b933047daece5d4b2da9e15928230c05353c64b5ff1eaeb8a8930b0fb601",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "PETG Optimized Vase Mode FAST 0.2mm layer, 1 walls, 0% inf",
+    "profile_notes": "Ghost bucket with handle attachment guides, treat bucket handle and optional face shapes. Treat bucket Vase mode: 1 wall, 0.96mm thick, 0% infill 0.2mm layer height Handle Standard printing: 4 walls, 0.5mm thick 0.2mm layer height, 15% gyroid infill Face shapes Standard printing: 2 walls, 0.5mm thick 0.2mm layer height, 15% infill",
+    "creation_date": "2026-09-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "3338285",
+ "title": "Cubo grande de golosinas fantasma en modo jarrón",
+ "slug": "large-ghost-treat-bucket-in-vase-mode",
+ "url": "https://makerworld.com/en/models/3338285-large-ghost-treat-bucket-in-vase-mode",
+ "author": "makermatt3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Este impresionante cubo de golosinas para fantasmas es una versión moderna del icónico fantasma de Halloween. Imprime en modo jarrón para obtener una impresión liviana que tiene una calidad de superficie increíble y es sorprendentemente duradera. ¡Es perfecto como un cubo de dulces extra divertido para pedir dulces, un tazón/expositor de dulces o un accesorio espeluznante para tu configuración de Halloween!\n\nParte de la colección de cubos de golosinas de Halloween.\n\nLo más destacado\nVuélvete a lo grande este Halloween con un cubo fantasma impresionantemente grande de 220 mm (8,7 pulgadas) de diámetro. La versión A1 mini sigue siendo bastante grande con 170 mm (6,7 pulgadas) de diámetro.\n\nDiseño de mango con ajuste a presión para un montaje más fácil y un transporte seguro.\nEl Modo Florero produce una impresión que es liviana, flexible y sorprendentemente duradera con una fracción del filamento y el tiempo de la impresión estándar. El tamaño completo pesa solo ~160 g e imprime en aproximadamente 4 horas, es decir, aproximadamente un 50 % menos de filamento y un 75 % más rápido que diseños similares.\n\nNo se requiere AMS ya que las formas de cara opcionales se imprimen por separado en menos de una hora.\nAcabado de alta calidad gracias a una pared exterior sin costuras de 0,96 mm. Esta impresión tiene un aspecto increíble y está diseñada para durar. ¡Sabrás que está impreso en 3D, pero la gente que lo vea no te creerá!\n\nImpulso Me¿Disfrutas de esta impresión?\nDar me gusta ayuda a otros a descubrir este modelo\nImpulsar es la mejor manera de apoyar mi trabajo\n¡Síguenos para ver más impresiones funcionales próximamente! Imprimir notas\nImprime muy bien en PLA o PETG HF. Para obtener mejores resultados, asegúrese de que el filamento esté seco antes de \"enviarlo\".\nEl ancho de la pared se establece en 0,96 mm basándose en una boquilla de 0,4 mm. Podrías ampliarlo con una boquilla más grande si lo deseas.\nGuía de montaje\nConsulte la guía adjunta para obtener detalles sobre la instalación de elementos frontales y el ASA del cubo de tratamiento.\n\nModelos relacionados\n\nMembresía¿Quieres vender esta impresión? Regístrese aquí para obtener una licencia comercial para vender impresiones 3D de todos mis diseños originales en ferias locales, en línea, escaparates o en cualquier lugar donde desee vender.",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "fantasma 2026",
+  "cubo fantasma",
+  "cuenco de caramelo fantasma",
+  "tazón de dulces",
+  "víspera de todos los santos",
+  "víspera de todos los santos 2026",
+  "tazón de dulces de halloween",
+  "cubo de dulces de halloween",
+  "tratar el cubo",
+  "cubo de tratamiento",
+  "cubo de dulces"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US75ae3278b976c4/design/e1c9d923be89d0dd.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   749
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/3792045.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3795670.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3818538.jpg": [
+   600,
+   640
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

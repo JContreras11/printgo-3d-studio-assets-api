@@ -1,0 +1,116 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-3799011.3mf.xz",
+   "instance_id": "3799011",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/3799011.jpg",
+   "print_time_h": 27.2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": true,
+   "size": 2125304,
+   "sha256": "5438238267eeb3f06b6b2c362719d45365ab6ae91e4fe9b26f2f3448fa6b7ff4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.03.66",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "* Layer Height: 0.2 mm * Infill Density: 5% * Infill Pattern: Gyroid * Outer Wall Speed: 89 mm/s * Inner Wall Speed: 123 mm/s * Supports: Enabled * Support Overhang Threshold: 49° * Top Z Distance: 0.29 mm * Bottom Z Distance: 0.29mm",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3343498",
+ "title": "Gnomo guardián de calabaza",
+ "slug": "pumpkin-keeper-gnome",
+ "url": "https://makerworld.com/en/models/3343498-pumpkin-keeper-gnome",
+ "author": "marcii6655",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Gnomo guardián de calabaza\nUn lindo y espeluznante gnomo de Halloween que sostiene una calabaza tallada en sus manos. Con su sombrero alto con temática de calabaza, su barba esponjosa y su clásica combinación de colores negro y naranja, es una excelente decoración para Halloween o la temporada de otoño.\nEl modelo queda genial en un estante, escritorio, mesa o como parte de una exhibición de Halloween más grande.\nDetalles de impresión:\nSoportes requeridos\nAdecuado para impresión multicolor\nTambién se incluye una versión blanca de un solo color, que se puede pintar después para crear su propia combinación de colores personalizada.\nRecomendado para uso decorativo.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "gnomo",
+  "gnomo de halloween",
+  "escalofriante",
+  "lindo",
+  "decoración",
+  "lindo gnomo",
+  "decoracion de halloween",
+  "regalo",
+  "regalo 2026",
+  "calabaza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US33df899be95b37/design/2783755a1b7db189.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3799011.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

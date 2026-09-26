@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-3560681.3mf.xz",
+   "instance_id": "3560681",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3560681.jpg",
+   "print_time_h": 8.8,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 85,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 5578496,
+   "sha256": "c7e41959c44fae7333d7867053ab8b6fa0b20ea0abf688026980afbdd29be563",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  }
+ ],
+ "id": "3152031",
+ "title": "Jack Skellington - Rey Calabaza",
+ "slug": "jack-skellington-pumpkin-king",
+ "url": "https://makerworld.com/en/models/3152031-jack-skellington-pumpkin-king",
+ "author": "Millsy3D",
+ "category": "halloween-2026",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Jack Skellington, Rey Calabaza\n\nA petición de un usuario y divertido de modelar, el mismísimo Rey Calabaza, Jack Skellington, con calabazas y el perro Zero como compañía. La figura puede sostenerse por sí sola sin base, pero hice una base para unirlo, cero y algunas calabazas. Sosteniendo en alto una calabaza con una sonrisa en el rostro asombrado por la espeluznante temporada.\n\nPerfecto para los amantes de Pesadilla antes de Navidad, o como decoración general para la temporada espeluznante, ¡o durante todo el año! SIN AMS, impreso en partes y ensamblado, todo lo que se necesita es algo de tiempo y un poco de pegamento para mantener todo junto permanentemente. La figura principal mide 22 cm de alto y con base y calabaza en mano mide alrededor de 24 cm de alto.\n\nEl montaje es sencillo e intuitivo. Tuve que pintar sobre una cantidad decente de soportes para las manos y la base del abrigo, ya que son bastante delgados y delicados y fallan fácilmente si no se les da suficiente soporte. Logré imprimirlos varias veces y quitar el soporte es bastante fácil ya que las manos simplemente se separarán de los soportes en la mayoría de los casos. Solo tenga cuidado y use algunos cortadores laterales para hacer palanca con cuidado en cualquier cosa que esté demasiado atascada.\n\nConfiguración de impresión recomendada:\nMaterial: PLA\nAltura de capa: 0,16 mm\nRelleno: 15%\nBoquilla: 0,4 mm\nsoportes donde sea necesario: he intentado que todos tengan una superficie en contacto con la placa; sin embargo, debido al detalle y la complejidad del modelado, a veces requieren mucho soporte, así que tenga cuidado al retirar el soporte. Utilice una llama abierta suavemente y durante intervalos cortos para limpiar las superficies después de retirarlas.\n\nEnsamblaje: método recomendado en modelos multiparte\nAjuste en seco: Ensamble todas las piezas sin pegamento para verificar la alineación y el ajuste.\nLimpieza: Retire ligeramente las rebabas de los bordes y las clavijas cuando sea necesario con una lima/herramienta de modelado para garantizar un contacto uniforme. Todas las piezas se prueban y encajan.\nSolución opcional: utilice pegamento para el montaje permanente.",
+ "use_cases": [],
+ "tags": [
+  "jack skelington",
+  "jack scalington",
+  "esqueleto de gato",
+  "esqueleto",
+  "esqueleto 2026",
+  "esqueleto 2025",
+  "esqueleto 2024",
+  "jack skellington",
+  "jack skellington solo",
+  "jack skellington y sally",
+  "arte de jack skellington",
+  "perro cero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US216e29221dc784/design/0980e13c5a3fbf96.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   749,
+   1000
+  ],
+  "previews/04.jpg": [
+   749,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3560681.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3795068.3mf.xz",
+   "instance_id": "3795068",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3795068.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "size": 8875532,
+   "sha256": "51fa3f0703672e88a0f7fa9d7ec3d465514b9a4d391ebc7df702d3830270ae68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3340515",
+ "title": "Feliz corona de Halloween",
+ "slug": "happy-halloween-wreath",
+ "url": "https://makerworld.com/en/models/3340515-happy-halloween-wreath",
+ "author": "northernwoods",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Feliz corona de Halloween\n¡Agrega un encanto espeluznante y lindo a tu decoración de Halloween con esta corona de Feliz Halloween! Con dos fantasmas amigables, una calabaza clásica, murciélagos y un atrevido lazo naranja, este diseño es una divertida decoración de temporada para su hogar.\nLas letras en relieve \"FELIZ HALLOWEEN\" destacan sobre la corona oscura y le dan a la pieza un fantástico aspecto 3D en capas.",
+ "use_cases": [],
+ "tags": [
+  "feliz",
+  "víspera de todos los santos",
+  "truco",
+  "tratar",
+  "truco o trato",
+  "26",
+  "2026",
+  "3 colores",
+  "detalle",
+  "lindo",
+  "festividades",
+  "fantasma"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2563fcc36108c9/design/783f37984530422b.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   729,
+   972
+  ],
+  "previews/02.jpg": [
+   844,
+   972
+  ],
+  "previews/03.jpg": [
+   606,
+   972
+  ],
+  "previews/profiles/3795068.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

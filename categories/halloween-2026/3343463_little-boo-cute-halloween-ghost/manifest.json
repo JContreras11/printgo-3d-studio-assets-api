@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-3798967.3mf.xz",
+   "instance_id": "3798967",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/3798967.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "A1",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "size": 2514544,
+   "sha256": "ec8947d9d8a30263fd758fb836efcc9ea3f9a16c422d1aacdd2c06be20df3a24",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3343463",
+ "title": "Little Boo, lindo fantasma de Halloween",
+ "slug": "little-boo-cute-halloween-ghost",
+ "url": "https://makerworld.com/en/models/3343463-little-boo-cute-halloween-ghost",
+ "author": "Alpha91",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Boost Me. Estaría muy feliz por eso:)\nEste pequeño fantasma es una figura decorativa sencilla y tierna para Halloween o simplemente para cualquiera a quien le gusten las figuras pequeñas impresas en 3D.\nCon unas dimensiones de 86 × 81 × 90 mm, es compacto y aun así luce muy bien presentado en un escritorio, en un estante o entre otras decoraciones de Halloween.\nLo mejor de todo es que realmente es ligero como debería serlo un fantasma.\nSolo se requieren alrededor de 39 g de filamento para la impresión completa y estará terminada después de aproximadamente 1 hora de impresión.\nGracias a su forma sencilla, el modelo es fácil de imprimir, lo que lo hace perfecto como impresión intermedia rápida.\nDetalles del modelo: Tamaño 86 × 81 × 90 mm · Uso de material aproximadamente 39 g · Tiempo de impresión aproximadamente 1 hora\n¡Diviértete imprimiendo!",
+ "use_cases": [],
+ "tags": [
+  "hola",
+  "hola 2026",
+  "fantasma",
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 2",
+  "de halloween",
+  "decoración de halloween",
+  "decoracion de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe921cc9d57e1a9/design/e18eeaa356400099.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1105
+  ],
+  "previews/02.jpg": [
+   1000,
+   1183
+  ],
+  "previews/03.jpg": [
+   1000,
+   1070
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3798967.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

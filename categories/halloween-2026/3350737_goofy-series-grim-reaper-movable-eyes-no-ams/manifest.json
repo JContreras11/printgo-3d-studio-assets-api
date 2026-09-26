@@ -1,0 +1,218 @@
+{
+ "files": [
+  {
+   "path": "model/parts-no-ams-4plate-4-color-0-2mm-layer-2-walls-10-3808189.3mf.xz",
+   "instance_id": "3808189",
+   "name": "Piezas NO AMS 4 placas, 4 colores, capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3808189.jpg",
+   "print_time_h": 3.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 4645784,
+   "sha256": "230f923d043b6cfbec4f0101eaadc34c15ccfc9c4e2f7ba15b968be4e920aae4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/parts-ams-2plate-4-color-0-2mm-layer-2-walls-10-in-3808203.3mf.xz",
+   "instance_id": "3808203",
+   "name": "Piezas AMS 2 placas, 4 colores, capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3808203.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 4602800,
+   "sha256": "ceb85de1f2c2c1c48eb6aa7efa5afd28e765b3f23bc9c43b55cac3a8369acef3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/single-color-version-1-plate-3811644.3mf.xz",
+   "instance_id": "3811644",
+   "name": "Versión de un solo color (1 placa)",
+   "thumbnail": "previews/profiles/3811644.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "size": 4664380,
+   "sha256": "4a72fe884185cc1b4458c1f9e6a98f51fd11312e16033bb79c568a8d357ab610",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3350737",
+ "title": "Serie Goofy – Ojos móviles GRIM REAPER NO AMS",
+ "slug": "goofy-series-grim-reaper-movable-eyes-no-ams",
+ "url": "https://makerworld.com/en/models/3350737-goofy-series-grim-reaper-movable-eyes-no-ams",
+ "author": "Adamuss",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Criaturas",
+ "description": "SERIE GOOFY – OJOS MÓVILES GRIM REAPER SIN AMS\n¡Y aquí está!\nUn clásico que simplemente tenía que formar parte de la Colección Halloween.\n¡La Parca ha llegado a la serie Goofy!\nTodas las series de Goofy:\n\nOJOS MOVILES\nLos ojos utilizan el mismo tamaño estándar que el resto de la serie Goofy.\nMONTAJE\nLimpie todos los orificios y puntos de conexión antes del montaje.\nSiga atentamente las instrucciones de montaje y asegúrese de utilizar el orden correcto al montar las piezas.\nImprimí y probé el modelo tanto en Bambu Lab P1S como en P2S.\nYo monté el mío sin usar pegamento.\nPor supuesto, el ajuste final depende de las tolerancias de su impresora y del filamento, por lo que sus resultados pueden variar ligeramente.\nIMPRESIÓN\nEl modelo terminado mide aproximadamente 12 cm de altura.\nDiferentes partes pueden usar diferentes alturas de capa para optimizar la calidad y el tiempo de impresión. Si desea acelerar las cosas, puede utilizar una altura de capa de 0,2 mm para todas las piezas.\n¡Disfruta de tu nueva Grim Reaper!\nCreo que Halloween se volvió un poco más espeluznante...\nTambién te invito a visitar mi Patreon:\n\nPENSIÓN COMPLETA:\n\nAGo3D\nMembresía ¿Quieres vender a este amiguito tonto?\n¡Consigue una licencia comercial y ayúdame a crear la siguiente! Impulsame ¿Te hizo sonreír? ¡Envía un impulso gratis y ayuda a otro animal Goofy a escapar al mundo!",
+ "use_cases": [],
+ "tags": [
+  "criaturas",
+  "colección de criaturas",
+  "parca",
+  "arte de la parca",
+  "segador",
+  "arte de la segadora",
+  "mentecato",
+  "serie",
+  "movible",
+  "ojo",
+  "víspera de todos los santos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USca0a3d998be1b1/design/812528c8de850518.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.gif",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.gif": [
+   480,
+   640
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/11.jpg": [
+   750,
+   1000
+  ],
+  "previews/12.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3808189.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3808203.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3811644.jpg": [
+   600,
+   535
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

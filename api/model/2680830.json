@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2968978.3mf.xz",
+   "instance_id": "2968978",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2968978.jpg",
+   "print_time_h": 13.6,
+   "plates": 6,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "P1P",
+    "H2C",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "A1 mini",
+    "H2S",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1154220,
+   "sha256": "97535a9f828923f36c1f64de9b4187e4dde0ae91cbca5559c57717739fa82359",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   }
+  }
+ ],
+ "id": "2680830",
+ "title": "Accesorio de micrófono de reportero con bandera de micrófono extraíble",
+ "slug": "reporter-microphone-prop-with-removable-mic-flag",
+ "url": "https://makerworld.com/en/models/2680830-reporter-microphone-prop-with-removable-mic-flag",
+ "author": "melquinobre",
+ "category": "decor",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Accesorio de micrófono de reportero con bandera de micrófono extraíble\n\nUn micrófono de reportero modular diseñado para entrevistas, creación de contenido y videos de redes sociales. Este modelo cuenta con una bandera de micrófono (cubo) con placas intercambiables, lo que permite una fácil personalización con logotipos y marcas.\n\nIdeal para creadores que desean una apariencia profesional sin utilizar equipos de audio reales.\n\n---\n\nCaracterísticas\nDiseño modular con bandera de micrófono extraíble\nPlacas con logotipos intercambiables\nConjunto de ajuste a presión/ajuste a presión (no se requiere pegamento)\nLimpio y fácil de imprimir\nDiseñado para personalización\n\n---\n\nImpresión\nSin soportes\nOptimizado para PLA\nCompatible con AMS (perfecto para impresiones multicolores)\nTolerancias limpias para piezas de ajuste suave\n\nConfiguraciones recomendadas:\nAltura de la capa: 0,2 mm\nRelleno: 10–15%\nMuros: 2-3 perímetros\n\n---\n\nPersonalización\nAñade tu propio logo a las placas.\nUsa diferentes colores con AMS\nEscale según sea necesario\n\n---\n\nAsamblea\nTodas las piezas están diseñadas para un ajuste perfecto.\nLas placas se pueden quitar y reemplazar fácilmente.\n\n---\n\nCasos de uso\nAccesorios para entrevistas\nContenido de YouTube/TikTok/Instagram\nEventos y marca\nFotografía y producción de vídeo.\n\n---\n\nSi te gusta este modelo, ¡considera dejar un me gusta y compartir tu impresión!",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "accesorios de micrófono",
+  "adaptador de micrófono",
+  "alondra hollyland",
+  "alondra m2",
+  "alondra hollyland 150",
+  "hollyland",
+  "funda hollyland"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-04-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US351e67c57ca868/design/1b5249cbd162b374.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   900,
+   1600
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2968978.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

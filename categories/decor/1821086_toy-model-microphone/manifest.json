@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-1943854.3mf.xz",
+   "instance_id": "1943854",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1943854.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 22702876,
+   "sha256": "9d6e3df401af6a6364a305808ef14e51dc7792c9f6c038349cb8aa49857a3aab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Se puede aumentar en alguna pared más para darle un poco más de resistencia.",
+    "creation_date": "2025-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "1821086",
+ "title": "Micrófono de juguete/modelo",
+ "slug": "toy-model-microphone",
+ "url": "https://makerworld.com/en/models/1821086-toy-model-microphone",
+ "author": "Fem3D",
+ "category": "decor",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Diseñé este micrófono para mis hijos y, sinceramente, todo lo que tuve que hacer fue pegar las dos partes o pintarlo con la herramienta Bambu Studio para imprimirlo en diferentes colores, y listo.\n\nEspero que a alguien más le resulte útil como lo fue para mí. La verdad es que están muy contentos jugando con él.",
+ "use_cases": [],
+ "tags": [
+  "micro",
+  "micrófono",
+  "cosplay",
+  "cantar",
+  "3d",
+  "impresion",
+  "impresión 3d",
+  "coleccionable",
+  "pasión",
+  "artista",
+  "diseño",
+  "fácil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb321d93dd2743c/design/2025-09-23_ebc67efa74d94.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.png": [
+   1000,
+   1500
+  ],
+  "previews/profiles/1943854.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

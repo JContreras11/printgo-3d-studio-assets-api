@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/0-25mm-layer-2-walls-3-infill-1860254.3mf.xz",
+   "instance_id": "1860254",
+   "name": "Capa de 0,25 mm, 2 paredes, 3% de relleno",
+   "thumbnail": "previews/profiles/1860254.jpg",
+   "print_time_h": 4.1,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1320224,
+   "sha256": "d0ef5de47bf00e5b9fd23cdc9fb55314963ddd8a835579a781b31b98266aaa46",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.25mm layer, 2 walls, 3% infill",
+    "creation_date": "2025-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.25",
+    "infill": "3%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "1749895",
+ "title": "caja de propaganda micrófono sistema de bandera",
+ "slug": "propaganda-box-microphone-flag-system",
+ "url": "https://makerworld.com/en/models/1749895-propaganda-box-microphone-flag-system",
+ "author": "imprmiparacreer",
+ "category": "home-organization",
+ "source_category": "Hobby y bricolaje > Música",
+ "description": "Tres tipos diferentes de cajas para agregar tu marca a un micrófono.\n\nLos hice para micrófonos de 40mm de diámetro, algunos que compré en Aliexpress\n\nPuedes agregar una goma elástica en la parte inferior como muestro en las imágenes para que la caja no se resbale.\n\nTambién puedes agregar paradas para cambiar los colores como muestro en las imágenes.\nBoost Me muchas gracias",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "cantante",
+  "propaganda",
+  "llavero",
+  "bandera"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US817cc778ac7e4b/design/2025-08-31_674641912e82b8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   1093
+  ],
+  "previews/03.jpg": [
+   1000,
+   688
+  ],
+  "previews/04.jpg": [
+   1000,
+   639
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/06.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/1860254.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

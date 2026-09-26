@@ -1,0 +1,113 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-1122808.3mf.xz",
+   "instance_id": "1122808",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1122808.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 2305,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1107500,
+   "sha256": "05a8d1c5371dee68920cfb1a12b1f85a23f1d9ae02a01e0cb33b2af612253369",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Versione colorata, necessita di AMS",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1016,
+      "weight_g": 3.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1123805",
+ "title": "Micro Whistle: el silbato 3D más pequeño",
+ "slug": "micro-whistle-the-smallest-3d-whistle",
+ "url": "https://makerworld.com/en/models/1123805-micro-whistle-the-smallest-3d-whistle",
+ "author": "ACstudio",
+ "category": "decor",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Boost MePara el silbato imprimible en 3D más pequeño ¡¡¡42MM DE PURA POTENCIA!!!\n¡Pequeño en tamaño, gigante en efectividad!\nUn minúsculo silbato, el más pequeño jamás diseñado para impresión 3D, de sólo 42 mm de largo e increíblemente potente teniendo en cuenta su tamaño\n\nNo se necesitan precauciones de impresión ni soportes, simplemente descárguelo e imprima\n\nSi realmente disfrutaste este silbato, dale me gusta a este nuevo modelo que he publicado para ayudarlo a crecer, te lo agradecería mucho (desde una PC haz clic en la imagen para ver el enlace, desde un Smartphone visita mi perfil)",
+ "use_cases": [],
+ "tags": [
+  "silbar",
+  "micro",
+  "microsilbato",
+  "silbato más pequeño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb93a27e58f7839/design/2025-02-18_389bbc323cefa.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   688
+  ],
+  "previews/02.png": [
+   1000,
+   652
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1122808.jpg": [
+   600,
+   401
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

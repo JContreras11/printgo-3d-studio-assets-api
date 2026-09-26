@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3051081.3mf.xz",
+   "instance_id": "3051081",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3051081.jpg",
+   "print_time_h": 24.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 26230948,
+   "sha256": "b21da525aa7958c7d2d4c1fc9e5ea280b3610fe2982591ff7dd1bec6cf15fa49",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "altezza del layer 0,20 mm supporti ad albero slim riempimento a nido d'ape",
+    "creation_date": "2026-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2750130",
+ "title": "MICRÓFONO DE LOS AÑOS 50",
+ "slug": "1950s-microphone",
+ "url": "https://makerworld.com/en/models/2750130-1950s-microphone",
+ "author": "Pulcix",
+ "category": "decor",
+ "source_category": "Hobby y bricolaje > Música",
+ "description": "Apóyame (gratis)\n¡Apóyame, es gratis! ¡Gracias por su apoyo!\n\nAumentar\n\n¿Aprecias mi trabajo?\nUn Boost o un Me gusta significan mucho: es la mejor manera de apoyar el proyecto y hacerme saber que voy por el camino correcto.\n¡Gracias por su apoyo!\nmicrófono vintage de los años 50",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "música",
+  "antiguo",
+  "50",
+  "retro",
+  "objetos",
+  "arte",
+  "oro",
+  "plata",
+  "premios",
+  "trofeo",
+  "3d"
+ ],
+ "license": "BY-ND",
+ "release_date": "2026-05-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb54153aa9fb9d5/design/67b64779a3467478.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   920,
+   1992
+  ],
+  "previews/02.jpg": [
+   1000,
+   461
+  ],
+  "previews/profiles/3051081.jpg": [
+   500,
+   375
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

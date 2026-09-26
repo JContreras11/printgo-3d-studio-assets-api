@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-3810514.3mf.xz",
+   "instance_id": "3810514",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3810514.jpg",
+   "print_time_h": 16.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "size": 11823300,
+   "sha256": "4ae2a3225af8d0e10a340bd9adeb2f067d4a0e4671925ef8730ce118c49ee066",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "stampa con supporti stampato il PLA MATTE NERO e PLA ARGENTO",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3352532",
+ "title": "Micrófono de escritorio retro vintage",
+ "slug": "vintage-retro-desktop-microphone",
+ "url": "https://makerworld.com/en/models/3352532-vintage-retro-desktop-microphone",
+ "author": "Luca3590",
+ "category": "decor",
+ "source_category": "Hogar > Decoración",
+ "description": "El modelo está diseñado como elemento decorativo para un escritorio, una configuración de PC, un estudio, una sala de grabación o simplemente para cualquiera que ame el estilo de los micrófonos antiguos.\nEl diseño se inspira en las formas de los micrófonos clásicos de época con rejillas delanteras y traseras, aberturas laterales, soportes ajustables, brazo y base circular.\nPara esta construcción utilicé una combinación de plateado y negro para lograr un efecto similar al metal de los micrófonos antiguos.",
+ "use_cases": [],
+ "tags": [
+  "micrófono",
+  "micrófono antiguo",
+  "muebles",
+  "decoraciones",
+  "decoración",
+  "antiguo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb3aa8da293b438/design/5d0dc8d4e5be6941.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3810514.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

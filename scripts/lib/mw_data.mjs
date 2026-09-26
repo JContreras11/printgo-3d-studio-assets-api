@@ -13,6 +13,7 @@ export const BASE_LABELS = {
   kitchen: "Cocina",
   repair: "Reparación y herramientas",
   science: "Ciencia y educación",
+  "gta-vi": "Accesorios GTA VI",
 };
 
 // Reglas en orden de prioridad; la primera que coincide gana. Lo demás cae en "decor".
@@ -31,10 +32,12 @@ const RULES = [
 
 // Nombres propios que engañan a las reglas ("Grand Theft Auto" no es automotriz).
 const NOISE = /gran[d]? theft auto|\bgta\s*(vi|v|6|5)?\b|vice city|los santos/gi;
+const GTA_VI = /\b(gta\s*(vi|6)|grand theft auto\s*(vi|6)|vice city|los santos)\b/i;
 
 // Clasifica por título primero, luego etiquetas y por último la categoría de MakerWorld.
 export function classify({ title = "", titleTranslated = "", tags = [], categories = [] } = {}) {
   const layers = [[title, titleTranslated], tags || [], (categories || []).map((c) => c?.name ?? c)];
+  if (layers.flat().some((value) => GTA_VI.test(String(value)))) return "gta-vi";
   for (const layer of layers) {
     const text = layer.join(" ").replace(NOISE, " ");
     for (const [slug, re] of RULES) if (re.test(text)) return slug;

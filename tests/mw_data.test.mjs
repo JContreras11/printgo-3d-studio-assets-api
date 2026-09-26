@@ -6,10 +6,12 @@ import path from "node:path";
 import { classify, parseProfiles, imageSize } from "../scripts/lib/mw_data.mjs";
 
 test("clasificador de tópico", () => {
-  assert.equal(classify({ title: "gta 6 iphone 16 case" }), "phone-cases");
-  assert.equal(classify({ title: "GTA VI Universal PS5 & Xbox Controller Stand" }), "console-cases");
-  assert.equal(classify({ title: "Grand Theft Auto VI Logo Keychain" }), "decor"); // "Auto" no es automotriz
-  assert.equal(classify({ title: "GTA 6 Headphone Stand" }), "bedroom");
+  assert.equal(classify({ title: "gta 6 iphone 16 case" }), "gta-vi"); // el tópico manda aunque sea una funda
+  assert.equal(classify({ title: "GTA VI Universal PS5 & Xbox Controller Stand" }), "gta-vi");
+  assert.equal(classify({ title: "Grand Theft Auto VI Logo Keychain" }), "gta-vi"); // "Auto" no es automotriz
+  assert.equal(classify({ title: "GTA 6 Headphone Stand" }), "gta-vi");
+  assert.equal(classify({ title: "GTA 6 Vice City Desk Sign" }), "gta-vi");
+  assert.equal(classify({ title: "GTA V PS5 Controller Stand" }), "console-cases"); // solo el VI/6 es la categoría
   assert.equal(classify({ title: "Cosa rara", tags: ["spice rack"] }), "kitchen");
   assert.equal(classify({ title: "Nada" }), "decor");
 });

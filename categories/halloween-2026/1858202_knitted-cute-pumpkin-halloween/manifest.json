@@ -1,0 +1,222 @@
+{
+ "files": [
+  {
+   "path": "model/separate-parts-0-12mm-layer-2-walls-9-infill-1987118.3mf.xz",
+   "instance_id": "1987118",
+   "name": "Piezas separadas, capa de 0,12 mm, 2 paredes, 9 % de relleno",
+   "thumbnail": "previews/profiles/1987118.jpg",
+   "print_time_h": 2.1,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 142,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "P2S",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 18712736,
+   "sha256": "aeca37c22f4ccc326a82e8c3dd39a46cb322a87d0aeb5809604854cdcc22aba8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Separate Parts, 0.12mm layer, 2 walls, 9% infill",
+    "profile_notes": "No AMS needed! Parts need to be glued in.",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "9%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/all-on-one-plate-2-color-changes-variable-layer-he-1998568.3mf.xz",
+   "instance_id": "1998568",
+   "name": "todo en una placa, 2 cambios de color, altura de capa variable",
+   "thumbnail": "previews/profiles/1998568.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "size": 18636072,
+   "sha256": "639c5f7ea0074d41a242a80adecdaf62134135e1aeb3013aa88a6e1819128022",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "all on one plate, 2 color changes, variable layer heigth",
+    "profile_notes": "No AMS needed! Parts need to be glued in.",
+    "creation_date": "2025-10-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/ams-0-16mm-layer-2-walls-10-infill-1987125.3mf.xz",
+   "instance_id": "1987125",
+   "name": "AMS, capa de 0,16 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/1987125.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 66,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "P2S",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 15184068,
+   "sha256": "e6ce35e036a0c3372d4f4293901eb22c673a8177a354e9948425b120711e67e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "AMS, 0.16mm layer, 2 walls, 10% infill",
+    "profile_notes": "Assembled model",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/h2-4-pumpkins-one-plate-print-by-object-no-extra-p-3692187.3mf.xz",
+   "instance_id": "3692187",
+   "name": "H2, 4 calabazas, un plato, imprimir por objeto, sin caca adicional",
+   "thumbnail": "previews/profiles/3692187.jpg",
+   "print_time_h": 7.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "size": 19238140,
+   "sha256": "c3b5026093c7cc4f895c335c8a7b2c740cae336b8880d7f359a5a016b4f3fd1e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "H2, 4 pumpkins, one plate, print by object, no extra poop",
+    "profile_notes": "Why print one pumpkin with three plates when you can print four pumpkins on one plate? Each color group prints individually, and only switches colors between each color group, so you printer only has to switch filaments twice. I also slowed down the wall speed for higher quality.",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1858202",
+ "title": "Calabaza linda tejida - Halloween",
+ "slug": "knitted-cute-pumpkin-halloween",
+ "url": "https://makerworld.com/en/models/1858202-knitted-cute-pumpkin-halloween",
+ "author": "Smoggy3D",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Otras Miniaturas",
+ "description": "Calabaza linda tejida\n\n¡No se necesita AMS! Simplemente pegue las piezas.",
+ "use_cases": [],
+ "tags": [
+  "de punto",
+  "tejer",
+  "calabaza",
+  "jack o lantern",
+  "calabazas",
+  "víspera de todos los santos",
+  "aterrador",
+  "decoración",
+  "lindo",
+  "no ams",
+  "sin ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb0435bfcc81130/design/2026-01-07_a18cd420213968.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1987118.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1998568.jpg": [
+   600,
+   399
+  ],
+  "previews/profiles/1987125.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/3692187.jpg": [
+   600,
+   505
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

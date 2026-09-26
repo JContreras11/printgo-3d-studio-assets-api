@@ -1,0 +1,281 @@
+{
+ "files": [
+  {
+   "path": "model/separate-parts-0-12mm-layer-2-walls-10-infill-3719324.3mf.xz",
+   "instance_id": "3719324",
+   "name": "Piezas separadas, capa de 0,12 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3719324.jpg",
+   "print_time_h": 3.2,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 46,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "A1",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "size": 15212460,
+   "sha256": "d6b311243cf51c93c8632d79c58c2ce2338426109c27f911db3e56f46a66558e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Separate Parts, 0.12mm layer, 2 walls, 10% infill",
+    "profile_notes": "No AMS needed! Parts need to be glued in. Pumpkin should snap into place.",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/0-24mm-layer-2-walls-15-infill-3745321.3mf.xz",
+   "instance_id": "3745321",
+   "name": "Capa de 0,24 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3745321.jpg",
+   "print_time_h": 1.9,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2S",
+    "X1",
+    "X2D",
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "size": 15228876,
+   "sha256": "906b6cc74f25fcc9b1d8fbfb291d6deb4ac7ffa4743a6fcd94118c42b65e322e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.24mm layer, 2 walls, 15% infill",
+    "profile_notes": "No AMS needed! Parts need to be glued in. Pumpkin should snap into place.",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/all-parts-on-one-plate-print-by-object-ams-require-3719409.3mf.xz",
+   "instance_id": "3719409",
+   "name": "Todas las piezas en una sola placa (impresión por objeto: se requiere AMS)",
+   "thumbnail": "previews/profiles/3719409.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "size": 15135100,
+   "sha256": "e799c78a49c9f0a9120d1b8165904c9664139bfdfd7765d5bb0f31304b086780",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "All Parts on One Plate (Print by Object — AMS required)",
+    "profile_notes": "Identical to the original with separate parts, but everything is on a single plate for both speed and convenience . NOTE: The layout is already perfect for everything from the A1 Mini on up. Unfortunately, MakerWorld handles “print by object” profiles exceptionally poorly and only shows compatibility for the printer from which a profile is saved. If the Handy app doesn’t show it as compatible for yours due to this, open the 3MF in Bambu Studio instead, select your printer, and it should be ready to go. Use Auto Arrange to further optimize for your exact setup. Should go without saying, but an AMS is required — unless you add pauses and manually swap filament between objects. Be sure the print sequence remains “Print by Object” or you'll unnecessarily go through a lot of filament and waste a lot of time, completely defeating the purpose of this profile. If you like this profile, please remember to rate it , boost the designer and explore their other models. If you really like this profile, feel free to check out my models as well and boost one (or more) of them if you have boosts to spare. 😊",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/ams-0-16mm-layer-2-walls-13-infill-3719333.3mf.xz",
+   "instance_id": "3719333",
+   "name": "AMS, capa de 0,16 mm, 2 paredes, 13 % de relleno",
+   "thumbnail": "previews/profiles/3719333.jpg",
+   "print_time_h": 8.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 17675636,
+   "sha256": "eeeba55ff0fc2b31cc0221f2f974c28a06a113cf8fc5675c97be90ed52134444",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "AMS, 0.16mm layer, 2 walls, 13% infill",
+    "profile_notes": "AMS version",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "13%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-single-color-version-0-12mm-layer-2-walls-13--3744959.3mf.xz",
+   "instance_id": "3744959",
+   "name": "Versión mini de un solo color: capa de 0,12 mm, 2 paredes, 13 % de relleno",
+   "thumbnail": "previews/profiles/3744959.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "P1S",
+    "X2D",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "A1",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "size": 17647308,
+   "sha256": "e8057f0db9f55107509653e66e04bc56dd7749f228c09e46bc4d20a746225448",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Mini single color version -0.12mm layer, 2 walls, 13% infill",
+    "profile_notes": "AMS version",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.12",
+    "infill": "13%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3279224",
+ "title": "Fantasma de calabaza de punto - Halloween",
+ "slug": "knitted-pumpkin-ghost-halloween",
+ "url": "https://makerworld.com/en/models/3279224-knitted-pumpkin-ghost-halloween",
+ "author": "Smoggy3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Fantasma de calabaza de punto\n\n¡No se necesita AMS! Es necesario pegar las piezas.\nLa calabaza debe encajar en su lugar.",
+ "use_cases": [],
+ "tags": [
+  "de punto",
+  "tejer",
+  "fantasma",
+  "fantasmas",
+  "calabaza",
+  "calabazas",
+  "fantasma sosteniendo una calabaza",
+  "víspera de todos los santos",
+  "halloween",
+  "aterrador",
+  "espíritu",
+  "no ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa57936f9fcad7b/design/e50fa04e0a639b2b.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3719324.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3745321.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3719409.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3719333.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/3744959.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Monocromo · para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

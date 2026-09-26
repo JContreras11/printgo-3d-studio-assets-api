@@ -1,0 +1,529 @@
+{
+ "files": [
+  {
+   "path": "model/3pumpkin-4plate-no-ams-0-2mm-layer-2-walls-7-infil-3687886.3mf.xz",
+   "instance_id": "3687886",
+   "name": "3calabaza 4placa NO AMS Capa de 0,2 mm, 2 paredes, 7% de relleno",
+   "thumbnail": "previews/profiles/3687886.jpg",
+   "print_time_h": 7.2,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 123,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "X2D",
+    "H2S",
+    "A2L",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1"
+   ],
+   "default": true,
+   "size": 8124292,
+   "sha256": "a695c9b6056edeb8c77984d5b6181c6cb3207e2d3f45830046f21d79d6f4ebfa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/1-pumpkin-tall-no-ams-0-2mm-layer-2-walls-7-infill-3687916.3mf.xz",
+   "instance_id": "3687916",
+   "name": "1 calabaza Alta NO AMS Capa de 0,2 mm, 2 paredes, 7% de relleno",
+   "thumbnail": "previews/profiles/3687916.jpg",
+   "print_time_h": 2.3,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 4932648,
+   "sha256": "5327b02dd9d6767f3d90dc514f912fbba2a443bb5b3c5e205cae9d3aea78d45a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/1pumpkin-low-parts-1plate-ams-0-2mm-layer-2-walls--3688057.3mf.xz",
+   "instance_id": "3688057",
+   "name": "1partes bajas de calabaza 1placa AMS capa de 0,2 mm, 2 paredes, 7% de relleno",
+   "thumbnail": "previews/profiles/3688057.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 3061484,
+   "sha256": "e74ba66f2f912a7e43059cb6104cd27cdd6f2b8c6ffee25ad0ab944545ef0efa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/1pumpkin-low-parts-4plate-no-ams-0-2mm-layer-2-wal-3688041.3mf.xz",
+   "instance_id": "3688041",
+   "name": "1partes bajas de calabaza 4placa NO AMS capa de 0,2 mm, 2 paredes, 7%",
+   "thumbnail": "previews/profiles/3688041.jpg",
+   "print_time_h": 2.5,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 3203332,
+   "sha256": "b411704fe0717bb06a53f0bda4761770498bdcdf98e7236df980bda29651f51b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/1pumpkin-medium-4plates-parts-noams-0-2mm-2walls-7-3687965.3mf.xz",
+   "instance_id": "3687965",
+   "name": "1 calabaza mediana 4 platos partes NOAMS 0,2 mm, 2 paredes, 7 % de relleno",
+   "thumbnail": "previews/profiles/3687965.jpg",
+   "print_time_h": 2.6,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": false,
+   "size": 3244512,
+   "sha256": "9b7cb7c4327ca7caa37088c220251228f66a4727f5c569b1faf536e7e91c4014",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/1pumpkin-medium-parts-1plate-ams-0-2mm-layer-2-wal-3688025.3mf.xz",
+   "instance_id": "3688025",
+   "name": "1piezas medianas de calabaza 1placa AMS capa de 0,2 mm, 2 paredes, 7%",
+   "thumbnail": "previews/profiles/3688025.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 3126888,
+   "sha256": "72bfb2372d2999f66bc57286e25fc2de7a07de866482a7108a1cf56eb4f96825",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/1pumpkin-tall-1plate-parts-ams-0-2mmlayer-2walls-7-3687930.3mf.xz",
+   "instance_id": "3687930",
+   "name": "1 calabaza alta 1 pieza de placa AMS capa de 0,2 mm, 2 paredes, 7 % de relleno",
+   "thumbnail": "previews/profiles/3687930.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 4809468,
+   "sha256": "4222f5ebc53403424e7b67edcdb94ab319f61317eaa96b9b8e439101dbca1407",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/2-hour-print-one-plate-3816459.3mf.xz",
+   "instance_id": "3816459",
+   "name": "Impresión de un plato en 2 horas",
+   "thumbnail": "previews/profiles/3816459.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3009812,
+   "sha256": "5a00f201cf73754c159a1c29719fc07a66cd7190c18fc9489409c7b0c2b92da1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 Hour Print One Plate",
+    "profile_notes": "3pumpkin 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/3pumpkin-2plate-parts-ams-0-2mm-layer-2-walls-7-in-3687901.3mf.xz",
+   "instance_id": "3687901",
+   "name": "3calabaza 2partes de placa AMS Capa de 0,2 mm, 2 paredes, 7% de relleno",
+   "thumbnail": "previews/profiles/3687901.jpg",
+   "print_time_h": 7.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 38,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 8056312,
+   "sha256": "acbbaebafd8e76d39d7c42cfa8c6a2444e11b716f4577278ee61c58bc1cc4efe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/multi-color-printing-on-one-plate-improving-printi-3710420.3mf.xz",
+   "instance_id": "3710420",
+   "name": "Impresión multicolor en una sola plancha, mejorando la eficiencia de impresión",
+   "thumbnail": "previews/profiles/3710420.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 3026412,
+   "sha256": "0645d0c8092f822f12206a53517c00a713159a94c6019418854b72a2d2157848",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，提高打印效率",
+    "profile_notes": "1pumpkin medium 4plates parts NOAMS 0.2mm, 2walls, 7%infill",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimized-3pumpkin-4plate-no-ams-3696630.3mf.xz",
+   "instance_id": "3696630",
+   "name": "Optimizado 3calabaza 4plato NO AMS",
+   "thumbnail": "previews/profiles/3696630.jpg",
+   "print_time_h": 4.4,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": false,
+   "size": 8132308,
+   "sha256": "c8a3012b21f94c247b930adb0e71c5c2097b5472f47430978bc5bf626a278ae1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Optimized | 3pumpkin 4plate NO AMS",
+    "profile_notes": "3pumpkin 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/single-plate-separate-part-printing-no-spool-chang-3711292.3mf.xz",
+   "instance_id": "3711292",
+   "name": "Impresión de piezas separadas en una sola placa. No se requiere cambio de carrete. Un tipo de calabaza por placa.",
+   "thumbnail": "previews/profiles/3711292.jpg",
+   "print_time_h": 4.1,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 7971916,
+   "sha256": "014a4254de51f8d596f557c1c2a62dbafc7b834d729d43d1aaa43c265ac8e999",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "一盘分件打印免换盘（一盘一种南瓜）",
+    "profile_notes": "1pumpkin low parts 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "3253910",
+ "title": "Serie Goofy– Ojos Móviles PUMPKIN NOAMS HALLOWEEN",
+ "slug": "goofy-series-pumpkin-movable-eyes-noams-halloween",
+ "url": "https://makerworld.com/en/models/3253910-goofy-series-pumpkin-movable-eyes-noams-halloween",
+ "author": "Adamuss",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "CALABAZAS GOOFY – COLECCIÓN HALLOWEEN\nSe acerca Halloween… ¡así que, por supuesto, la serie Goofy tenía que unirse a la fiesta!\nConoce tres calabazas completamente ridículas, cada una con su propia personalidad, expresión y forma. Uno parece confundido, otro está aterrorizado y el tercero… honestamente no tiene idea de lo que está pasando.\n¿La mejor parte? ¡OJOS MÓVILES!\n¡Muévelas y dale a cada calabaza una expresión completamente diferente!\nEstas calabazas son parte de la serie Goofy: sencillas, divertidas y diseñadas para aportar un poco de caos a tus decoraciones de Halloween.\nTodas las series de Goofy:\n\n¿QUÉ INCLUYE?\n3 calabazas tontas diferentes\nOjos movibles\nDiferentes formas y expresiones tontas.\nFácil montaje\nDiseñado para impresión 3D FDM\nINFORMACIÓN DE IMPRESIÓN\n4 colores\n¿Sin AMS? ¡Ningún problema!\nLos modelos están diseñados para que no requieran AMS.\n¡No se requiere pegamento!\nSimplemente imprima las piezas y ensamblelas.\nIMPORTANTE:\nAntes de insertar los ojos, asegúrese de limpiar cuidadosamente todas las cuencas/agujeros de los ojos para eliminar cualquier filamento sobrante. Esto asegurará que los ojos encajen correctamente y puedan moverse sin problemas.\naltura de la capa\nRecomiendo mantener la configuración de capa optimizada para obtener una impresión más atractiva.\n¿Quieres una impresión más rápida?\nPuede acelerar las cosas utilizando una altura de capa de 0,2 mm para el modelo. Tenga en cuenta que esto puede reducir ligeramente la calidad de la superficie.\n¡MUEVE LOS OJOS!\n¡Aquí es donde comienza la diversión!\nCOLECCIÓN HALLOWEEN × SERIE GOOFY\nEsto es sólo el comienzo de la locura de Halloween...\n¡Es posible que pronto lleguen más criaturas tontas!\nSi te gusta el modelo, considera dejar un me gusta, descargarlo y crearlo; realmente me ayuda a continuar creando nuevos modelos para la serie Goofy.\n¡Diviértete imprimiendo!\nAGo3D\nBoost Me¿Te hizo sonreír? ¡Envía un impulso gratis y ayuda a otro animal tonto a escapar al mundo! Membresía ¿Quieres vender a este amiguito tonto?\n¡Consigue una licencia comercial y ayúdame a crear la siguiente!",
+ "use_cases": [],
+ "tags": [
+  "halloween",
+  "halloween 2026",
+  "calabaza",
+  "calabaza 2026",
+  "calabazas",
+  "calabazas de halloween",
+  "mentecato",
+  "serie",
+  "movible",
+  "ojo",
+  "figurilla"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7651f2d70de07f/design/6400e15be67ef463.png",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3687886.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3687916.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3688057.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3688041.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3687965.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3688025.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3687930.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3816459.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3687901.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3710420.jpg": [
+   600,
+   609
+  ],
+  "previews/profiles/3696630.jpg": [
+   600,
+   448
+  ],
+  "previews/profiles/3711292.jpg": [
+   281,
+   226
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

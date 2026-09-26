@@ -1,0 +1,142 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3813484.3mf.xz",
+   "instance_id": "3813484",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3813484.jpg",
+   "print_time_h": 9.1,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": true,
+   "size": 52391868,
+   "sha256": "a5d6e32a28a39af5473f3469814cde948087de877bec79f5a1338e81c1804601",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   }
+  },
+  {
+   "path": "model/a1-mini-0-2mm-layer-2-walls-15-infill-3813509.3mf.xz",
+   "instance_id": "3813509",
+   "name": "A1 mini (capa de 0,2 mm, 2 paredes, 15 % de relleno)",
+   "thumbnail": "previews/profiles/3813509.jpg",
+   "print_time_h": 10.3,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 52511632,
+   "sha256": "c38f98c4bc6e2f03c3a694bf5f960b3dd30195e69cb2f887987c7d135242f008",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1 MINI (0.2mm layer, 2 walls, 15% infill)",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   }
+  }
+ ],
+ "id": "3354781",
+ "title": "¡Gatito de Halloween! / SIN AMS",
+ "slug": "halloween-kitty-no-ams",
+ "url": "https://makerworld.com/en/models/3354781-halloween-kitty-no-ams",
+ "author": "ModelLover",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡Gatito de Halloween! / SIN AMS\n\n17 cm de altura\n\nVarias piezas, NO se necesita AMS, se requiere pegamento\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 1978",
+  "halloween 2",
+  "bote",
+  "gatito 2026",
+  "impresión 3d del gatito",
+  "gato 40",
+  "gato"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US77a0b1fa3dbeef/design/5be14bb9053ed30b.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3813484.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3813509.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3787503.3mf.xz",
+   "instance_id": "3787503",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3787503.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X2D",
+    "X1E",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "H2D"
+   ],
+   "default": true,
+   "size": 23558480,
+   "sha256": "51fcd8ea48558bdda3b65752f264f98099126918422b250882b6fd5e07662a17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3334537",
+ "title": "Chica sexy fantasma de Halloween",
+ "slug": "sexy-halloween-ghost-girl",
+ "url": "https://makerworld.com/en/models/3334537-sexy-halloween-ghost-girl",
+ "author": "Hesic",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Chica sexy fantasma de Halloween\nImpúlsame. Muchas gracias por tu apoyo.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "decoración de halloween 3d",
+  "decoracion de halloween",
+  "chica de halloween",
+  "chica sexy",
+  "sexy",
+  "chica",
+  "'decoración",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8e5816e47241d6/design/f8eeb9973307278e.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3787503.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

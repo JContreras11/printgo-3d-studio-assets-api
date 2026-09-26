@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/0-12mm-layer-2-walls-15-infill-3790442.3mf.xz",
+   "instance_id": "3790442",
+   "name": "Capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3790442.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2C",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "size": 17730292,
+   "sha256": "5ff9134dfe063871d7c67c1a0b6ad7f84f4a155fc838a36c4caf6b1781479a84",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3337045",
+ "title": "Ilumina la calabaza de Halloween",
+ "slug": "light-up-halloween-pumpkin",
+ "url": "https://makerworld.com/en/models/3337045-light-up-halloween-pumpkin",
+ "author": "TechXD",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Ilumina la calabaza de Halloween – Luz de té lista\n¡Agrega una atmósfera cálida y espeluznante a tu decoración de Halloween con esta calabaza Jack-o'-Lantern imprimible en 3D!\nEl modelo está diseñado para adaptarse a una vela LED tipo té, lo que permite que los ojos, la nariz y la sonrisa de la calabaza se iluminen para lograr un efecto sorprendente en la oscuridad.\nLa tapa extraíble con vástago permite un fácil acceso al interior para instalar o quitar la luz.\nCaracterísticas\nDiseño especial de Jack-o'-Lantern de Halloween\nCompatible con velas LED pequeñas\nGran difusión de la luz por el rostro.\nTapa extraíble\nFácil y rápido de imprimir en 3D\nPerfecto en naranja con tallo verde pero totalmente personalizable.\nIdeal para un escritorio con estante de mesa o decoración de Halloween.\nImportante: utilice únicamente una vela LED. No utilices una vela o llama real dentro de una pieza impresa en 3D.\n\n¡Imprímelo, agrega tu pequeña luz LED y tu Jack-o'-Lantern estará listo para Halloween!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 1978",
+  "halloween 2",
+  "calabaza",
+  "calabaza 2024",
+  "calabaza 2025",
+  "calabaza 2026",
+  "calabaza 2027",
+  "luz"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US334c47006dd73c/design/57d23ee1213d9237.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1333
+  ],
+  "previews/02.webp": [
+   1000,
+   750
+  ],
+  "previews/profiles/3790442.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

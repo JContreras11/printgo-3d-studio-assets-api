@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3793955.3mf.xz",
+   "instance_id": "3793955",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3793955.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1E",
+    "H2C",
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2S",
+    "A1 mini"
+   ],
+   "default": true,
+   "size": 23409496,
+   "sha256": "e4f3e514bae794b288142732740ae9b1311b9889e040120aa83109792296bdee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "🖨️ Druckempfehlung Material: PLA / PLA Matte Düse: 0,4 mm Schichthöhe: 0,20 mm Infill: ca. 10–15 % Wände: 2–3 Support: je nach Ausführung nicht bzw. kaum erforderlich Farben: frei wählbar – besonders schön in herbstlichen Farbtönen",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3339724",
+ "title": "Calabaza decorativa – Decoración de otoño y Halloween",
+ "slug": "decorative-pumpkin-autumn-halloween-decor",
+ "url": "https://makerworld.com/en/models/3339724-decorative-pumpkin-autumn-halloween-decor",
+ "author": "wergo",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Calabaza decorativa – Decoración de otoño y Halloween\n\nEsta calabaza imprimible en 3D es una decoración hermosa y versátil para el otoño, Halloween y la acogedora temporada.\nEl modelo tiene una forma clásica de calabaza redondeada con segmentos distintos y un tallo separado o de color contrastante. La calabaza se ve particularmente hermosa en varios colores, por ejemplo, naranja, verde oscuro, blanco, beige o marrón. Un tallo negro crea una apariencia moderna y de alta calidad.\nVarias calabazas de diferentes colores y tamaños se pueden combinar perfectamente en una pequeña escena otoñal.\nRecomendaciones de impresión\nMaterial: PLA/PLA mate\n\nBoquilla: 0,4 mm\n\nAltura de capa: 0,20 mm\n\nRelleno: aproximadamente 10–15 %\n\nParedes: 2–3\n\nSoporte: nulo o apenas necesario según el diseño\n\nColores: looks de libre elección, especialmente bonitos en tonos otoñales\n\nEl modelo se puede escalar fácilmente a diferentes tamaños.\n\nPerfectamente adecuado como\ndecoración de otoño\n\ndecoración de halloween\n\ndecoracion de mesa\n\ndecoración de alféizar o estantería\n\ndecoración de acción de gracias\n\nidea de regalo\n\ndecoración para tienda agrícola o granja\n\nconjunto de decoración multicolor\n\nImprime varias calabazas de diferentes tamaños y colores de inmediato y arma tu propio conjunto de otoño.\nSi te gusta el modelo, me encantaría recibir un Like Boost y, por supuesto, fotos de tus impresiones terminadas.\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2026",
+  "krbis",
+  "otoño",
+  "otoño 2026",
+  "otoño impresión 3d",
+  "víspera de todos los santos",
+  "decoración de otoño",
+  "caer",
+  "decoraciones"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3c5e4c8e25ccf/design/3620288783bde923.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   832
+  ],
+  "previews/02.png": [
+   1000,
+   833
+  ],
+  "previews/03.png": [
+   1000,
+   833
+  ],
+  "previews/04.png": [
+   1000,
+   833
+  ],
+  "previews/profiles/3793955.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

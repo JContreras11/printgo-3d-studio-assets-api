@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3793198.3mf.xz",
+   "instance_id": "3793198",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3793198.jpg",
+   "print_time_h": 5.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "A1",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 17221656,
+   "sha256": "5b382caa0e0091e4c2bef77ae1b29f1888314c5805d89e92abbbf658c456aff0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer, 2 walls, 1 5% infill, support: yes",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3339148",
+ "title": "Fantasma asustado y sombra espeluznante – Decoración de Halloween",
+ "slug": "scared-ghost-spooky-shadow-halloween-decor",
+ "url": "https://makerworld.com/en/models/3339148-scared-ghost-spooky-shadow-halloween-decor",
+ "author": "mr_mkaay",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "¡A veces el monstruo más aterrador es tu propia sombra!\n\nEste pequeño fantasma parece haber descubierto algo aterrador detrás de él: una sombra enorme y espeluznante con dientes afilados y una sonrisa malvada.\nUna divertida decoración de Halloween que combina un simpático fantasma asustado con una espeluznante escena de sombras. El contraste entre el pequeño fantasma blanco y la gran silueta negra hace que el modelo destaque manteniendo el diseño simple y fácil de imprimir.\nMiedo a su propia sombra: linda decoración de fantasmas de Halloween\n\n¿Impulsar el impulso de Mespooky? Perfecto como:\ndecoración del hogar de halloween\nDecoración de escritorio o estantería\nCentro de mesa espeluznante\nLindo regalo de Halloween\nDecoración de temporada para tu colección de impresión 3D\nLas diferentes partes se pueden imprimir por separado, lo que facilita el uso de diferentes colores. El blanco, el negro y el gris oscuro funcionan especialmente bien, pero siéntete libre de crear tu propia combinación de colores de Halloween.\nEl modelo también se puede ampliar o reducir en su cortadora dependiendo de dónde desee mostrarlo.\nSi lo imprimes, me encantaría ver tu versión. ¡Comparte tu marca!\n\nAfiliación",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "fantasma",
+  "escalofriante",
+  "decoración de halloween",
+  "decoracion de halloween",
+  "lindo fantasma",
+  "fantasma aterrador",
+  "sombra",
+  "decoración del hogar",
+  "decoración de escritorio",
+  "decoración de otoño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc834c2cd637dea/design/55a955f159719546.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3793198.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

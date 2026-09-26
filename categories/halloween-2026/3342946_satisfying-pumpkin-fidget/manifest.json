@@ -1,0 +1,193 @@
+{
+ "files": [
+  {
+   "path": "model/3-colors-3798336.3mf.xz",
+   "instance_id": "3798336",
+   "name": "3 colores",
+   "thumbnail": "previews/profiles/3798336.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "size": 8041092,
+   "sha256": "3a76993f6b800d4c3590896ec8418c923e6fa408e8f7b7c0a1f738882e1b0d83",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "3 colors",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/1-color-3798424.3mf.xz",
+   "instance_id": "3798424",
+   "name": "un solo color",
+   "thumbnail": "previews/profiles/3798424.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": false,
+   "size": 7666072,
+   "sha256": "09b8e87eb863ab56a99166dc5f0e8c502c9f804ab396c6c74bd84fca5d3867e1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "1 color",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/2-colors-3798414.3mf.xz",
+   "instance_id": "3798414",
+   "name": "2 colores",
+   "thumbnail": "previews/profiles/3798414.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "size": 7691600,
+   "sha256": "1d87c70767d5f3be11dd5c73fbe187958d14a8f36409cd7f4191a88b384c5ebe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 colors",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3342946",
+ "title": "Fidget de calabaza satisfactorio",
+ "slug": "satisfying-pumpkin-fidget",
+ "url": "https://makerworld.com/en/models/3342946-satisfying-pumpkin-fidget",
+ "author": "markiel3d",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Una calabaza inquietante satisfactoria con un fascinante diseño en capas.\n\nJuega con las capas en movimiento y transforma la calabaza en diferentes patrones fluidos. La geometría en capas crea un efecto óptico satisfactorio, especialmente cuando se imprime con colores contrastantes.\n\nPerfecto como juguete de escritorio de Halloween, juguete inquietante, decoración o pequeño regalo.",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2026",
+  "agitarse",
+  "inquietud de calabaza",
+  "víspera de todos los santos",
+  "decoración",
+  "decoración 2026",
+  "satisfactorio",
+  "espejismo",
+  "en capas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6c125bcb275e47/design/019d3568e471eb0c.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3798336.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3798424.jpg": [
+   600,
+   405
+  ],
+  "previews/profiles/3798414.jpg": [
+   600,
+   416
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

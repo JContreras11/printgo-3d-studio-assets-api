@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-5-infill-3808725.3mf.xz",
+   "instance_id": "3808725",
+   "name": "Capa de 0,16 mm, 2 paredes, 5 % de relleno",
+   "thumbnail": "previews/profiles/3808725.jpg",
+   "print_time_h": 8.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "A2L",
+    "P2S",
+    "A1"
+   ],
+   "default": true,
+   "size": 21136624,
+   "sha256": "7e95db6c039a8a098732bd07a9ab6b9453ad5e9fa1e05c7af7c2650ec518eebb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3351162",
+ "title": "Personalidades de calabaza",
+ "slug": "pumpkin-personalities",
+ "url": "https://makerworld.com/en/models/3351162-pumpkin-personalities",
+ "author": "Henriettesmagi",
+ "category": "halloween-2026",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "¡Aporta un poco de personalidad a tus decoraciones de Halloween!\nPumpkin Personalities es una colección de calabazas imprimibles en 3D, cada una con una expresión facial única. Desde malhumorado y poco impresionado hasta somnoliento, preocupado y francamente miserable: ¡hay una calabaza para cada estado de ánimo!\nLas calabazas están diseñadas como piezas decorativas y quedan muy bien expuestas individualmente o juntas como una pequeña familia de calabazas.\nCaracterísticas\nMúltiples expresiones faciales únicas.\nTemática de Halloween y otoño.\nDiseñado para una fácil impresión 3D FDM\nNo requiere ensamblaje\nIdeal para pintar y personalizar.\nPerfecto para estanterías, escritorios, exhibidores de Halloween y decoraciones de temporada.\n¡Imprime varias expresiones diferentes y crea tu propia línea de personalidades de calabaza!",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "víspera de todos los santos",
+  "decoracion de halloween",
+  "decoracion de calabaza",
+  "decoración de calabaza",
+  "decoración de halloween",
+  "escalofriante",
+  "otoño",
+  "decoración de otoño",
+  "impresión 3d",
+  "decoración del hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd60dca14ed5bae/design/36c3bde69fd4717b.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   737
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   737
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3808725.jpg": [
+   600,
+   442
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

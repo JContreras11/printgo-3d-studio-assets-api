@@ -1,0 +1,121 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-1-walls-0-infill-3799688.3mf.xz",
+   "instance_id": "3799688",
+   "name": "Capa de 0,16 mm, 1 paredes, 0% de relleno",
+   "thumbnail": "previews/profiles/3799688.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1P",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "H2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": true,
+   "size": 22703012,
+   "sha256": "6388584b02e325fdace21a565839b5a64f068405518282d3ce36c43a87ba6092",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.16mm layer, 1 walls, 0% infill",
+    "profile_notes": "🛠️ Print Instructions A pause is included in the print at the perfect point to add the infill. When the print pauses, simply fill the skull with your desired candy, sweets or small surprises , then continue the print. 💀🍬 This allows you to completely enclose the contents inside the breakable skull.",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3344044",
+ "title": "Cráneo esqueleto rompible: caramelo sorpresa de Halloween",
+ "slug": "breakable-skeleton-skull-halloween-candy-surprise",
+ "url": "https://makerworld.com/en/models/3344044-breakable-skeleton-skull-halloween-candy-surprise",
+ "author": "Cr3ativeX3",
+ "category": "halloween-2026",
+ "source_category": "Arte > Esculturas",
+ "description": "Impulsame Si te gusta este modelo, ¡considera darle un impulso!\nCada impulso ayuda a respaldar mi trabajo y me motiva a crear diseños más divertidos y únicos.\n\nMe gusta Descargar Hacer Boost\n¡Gracias por su apoyo! ¡Una calavera esquelética con una sorpresa espeluznante!\nEsta calavera esquelética rompible está diseñada para llenarse con dulces, pequeñas sorpresas u otras delicias de Halloween.\nLa calavera se puede imprimir como una divertida decoración de Halloween y luego abrirla para revelar lo que se esconde en su interior: perfecta para fiestas de Halloween, para pedir dulces o como un regalo espeluznante.\nCaracterísticas:\nDiseño de calavera rompible.\nInterior hueco para dulces y pequeñas sorpresas.\nAspecto detallado de esqueleto/zombi\nGran decoración de Halloween\nAlternativa divertida al tradicional embalaje de dulces\nPerfecto para fiestas y regalos de Halloween.\n¡Imprímelo, rellénalo y deja que alguien rompa la calavera para descubrir la sorpresa!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 2",
+  "cráneo",
+  "calavera 2026",
+  "cráneo arte 2d",
+  "cráneo 3d",
+  "cráneo 2d",
+  "esqueleto",
+  "quebradizo",
+  "cráneo rompible",
+  "decoracion de halloween"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US529eedddfc6185/design/147ea9698b559259.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   462,
+   1000
+  ],
+  "previews/02.jpg": [
+   462,
+   1000
+  ],
+  "previews/03.jpg": [
+   462,
+   1000
+  ],
+  "previews/04.jpg": [
+   462,
+   1000
+  ],
+  "previews/05.jpg": [
+   462,
+   1000
+  ],
+  "previews/06.jpg": [
+   462,
+   1000
+  ],
+  "previews/07.jpg": [
+   462,
+   1000
+  ],
+  "previews/profiles/3799688.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

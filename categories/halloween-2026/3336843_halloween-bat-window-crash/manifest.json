@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/0-12mm-layer-2-walls-15-infill-3790162.3mf.xz",
+   "instance_id": "3790162",
+   "name": "Capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3790162.jpg",
+   "print_time_h": 30.4,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": true,
+   "size": 36653376,
+   "sha256": "e31de2f1a17f66778d6a2e01164ed6bf282f447afdbfd43118d5c65c24f550e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  }
+ ],
+ "id": "3336843",
+ "title": "Choque de ventana de murciélago de Halloween",
+ "slug": "halloween-bat-window-crash",
+ "url": "https://makerworld.com/en/models/3336843-halloween-bat-window-crash",
+ "author": "mugen79",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Animales",
+ "description": "Este lindo Halloween Bat Window Crash es una divertida decoración de ventana multicolor de 2 piezas que parece un pequeño murciélago volando directamente hacia la ventana y queda atrapado en una telaraña.\n\nCon sus ojos grandes, colmillos diminutos y expresión tonta, es más lindo que aterrador: perfecto para decoraciones de Halloween familiares.\nPuedes usar el murciélago solo o combinarlo con un letrero colgante opcional como “¡¡Boo!!” o “Feliz Halloween” para hacerlo aún más llamativo.\nCaracterísticas\ndiseño de 2 piezas\nEstampado multicolor\nLindo y divertido look de Halloween.\nLlamativa decoración de ventanas\nLetrero colgante opcional: “¡¡Boo!!” o “Feliz Halloween”\nPara el montaje, necesitará Powerstrips o cinta adhesiva fuerte de doble cara para fijar las dos partes de forma segura a la ventana o superficie de vidrio.\nEsta es una pequeña decoración divertida para ventanas, puertas de vidrio, fiestas de Halloween o regalos de temporada.\nSoporte\nBoost MeCrear, probar y mejorar modelos como este requiere mucho tiempo y pasión.\nSi te gusta este diseño, te agradecería mucho un clic y especialmente un impulso.\nTu apoyo me ayuda a continuar con este hobby y me motiva a crear y compartir más modelos divertidos.\n\nGracias por su apoyo y ¡feliz Halloween!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "murciélago",
+  "ventana",
+  "chocar",
+  "feliz halloween 2026",
+  "abucheo",
+  "feliz halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf8bb1f4fbf9172/design/243eeceea81e4621.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3790162.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

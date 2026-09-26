@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-7-infill-3792848.3mf.xz",
+   "instance_id": "3792848",
+   "name": "Capa de 0,16 mm, 2 paredes, 7% de relleno",
+   "thumbnail": "previews/profiles/3792848.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "size": 15845296,
+   "sha256": "1790d9f0df077b19d429f2adf087f91e03286ef7d9557dd352233f7aed639a06",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3338892",
+ "title": "Casa embrujada de calabaza de Halloween",
+ "slug": "halloween-pumpkin-haunted-house",
+ "url": "https://makerworld.com/en/models/3338892-halloween-pumpkin-haunted-house",
+ "author": "lucascaribee",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Casa embrujada de calabaza de Halloween",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2025",
+  "calabaza 2026",
+  "calabaza 2027",
+  "obsesionado",
+  "modelo 3d embrujado",
+  "casa embrujada",
+  "casa",
+  "víspera de todos los santos",
+  "halloweendeco",
+  "decoración de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa9ea254b5fccfb/design/bbcff23c70904dc4.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1159
+  ],
+  "previews/02.png": [
+   1000,
+   1087
+  ],
+  "previews/03.png": [
+   1000,
+   1076
+  ],
+  "previews/04.png": [
+   1000,
+   1054
+  ],
+  "previews/profiles/3792848.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

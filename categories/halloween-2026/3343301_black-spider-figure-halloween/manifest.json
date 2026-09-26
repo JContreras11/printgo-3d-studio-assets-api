@@ -1,0 +1,116 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3798767.3mf.xz",
+   "instance_id": "3798767",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3798767.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 1,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "size": 24180284,
+   "sha256": "cf11a8c577f73c9c94c9c4222dc585e6b872d59de8a7a35784d27ee00c1885f3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3343301",
+ "title": "Figura Araña Negra Halloween",
+ "slug": "black-spider-figure-halloween",
+ "url": "https://makerworld.com/en/models/3343301-black-spider-figure-halloween",
+ "author": "FigureMaker",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Boost Me<3 ¡Ayúdame a crear más modelos!\n¡ME GUSTA Y SIGUE para obtener más diseños de Halloween imprimibles en 3D espeluznantes y de alta calidad!\nLleva una espeluznante criatura de ocho patas a tu colección con esta figura de Black Spider. Con un cuerpo grande y redondeado, ocho patas detalladas, una superficie texturizada y una apariencia oscura, este modelo captura el aspecto clásico de una araña de Halloween realista.\nLas piernas detalladas y la textura del cuerpo crean una pieza de exhibición llamativa que funciona perfectamente para decoraciones de Halloween, escenas espeluznantes o colecciones con temas de terror.\nConsejos de impresión\nMaterial: PLA (se recomienda negro)\nAltura de capa: 0,12 mm\nRelleno: 15-20%\nSoportes: Mínimo requerido",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 1978",
+  "halloween 2",
+  "araña negra",
+  "hombre araña negro",
+  "cifra",
+  "figura 16",
+  "figura 2026",
+  "figura 3d",
+  "figuras articuladas 3d"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US58048b7d6ba286/design/180c900b5163a049.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   747
+  ],
+  "previews/02.jpg": [
+   1000,
+   747
+  ],
+  "previews/03.jpg": [
+   1000,
+   747
+  ],
+  "previews/04.jpg": [
+   1000,
+   747
+  ],
+  "previews/05.jpg": [
+   1000,
+   747
+  ],
+  "previews/06.jpg": [
+   1000,
+   747
+  ],
+  "previews/07.jpg": [
+   1000,
+   747
+  ],
+  "previews/profiles/3798767.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

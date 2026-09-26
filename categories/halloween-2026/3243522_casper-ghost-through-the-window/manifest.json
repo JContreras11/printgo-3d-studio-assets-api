@@ -1,0 +1,297 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-8-infill-3675211.3mf.xz",
+   "instance_id": "3675211",
+   "name": "Capa de 0,2 mm, 2 paredes, 8% de relleno",
+   "thumbnail": "previews/profiles/3675211.jpg",
+   "print_time_h": 6.4,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 206,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": true,
+   "size": 74465380,
+   "sha256": "23ce0b9c550959bb8babd24df83720179f4e324c5ce452a49de7e24cb956825b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/0-16mm-layer-2-walls-7-infil-gyroid-better-positio-3688364.3mf.xz",
+   "instance_id": "3688364",
+   "name": "Capa de 0,16 mm, 2 paredes, 7% de infiltración giroide, mejor posicionamiento",
+   "thumbnail": "previews/profiles/3688364.jpg",
+   "print_time_h": 5.9,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 68,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "size": 52451540,
+   "sha256": "8e517de24a83f86d0180ed89b7b9ae1bd4971ee28e18c864d3389ef582d3d934",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/blue-eyes-200-scale-0-12mm-layer-2-walls-8-infill-3775425.3mf.xz",
+   "instance_id": "3775425",
+   "name": "ojos azules a 200% de escala, capa de 0,12 mm, 2 paredes, 8% de relleno",
+   "thumbnail": "previews/profiles/3775425.jpg",
+   "print_time_h": 44.7,
+   "plates": 4,
+   "rating": 4,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2S",
+    "A1"
+   ],
+   "default": false,
+   "size": 51463948,
+   "sha256": "5fd0f2f05c4d292fddd98c9d11491258618cf989ef36b103c5076223e52b1141",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "blue eyes @200% scale 0.12mm layer, 2 walls, 8% infill",
+    "profile_notes": "Print file for blue eyes that has been requested in the reviews. Scaled at 200%, adjust for your print size. Thanks again to creator @Stag3D (https://makerworld.com/en/@Stag3D). Print profile shows long print time but all parts are separated and can be printed individually.",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/less-filament-variable-layer-height-3811001.3mf.xz",
+   "instance_id": "3811001",
+   "name": "Menos filamento + altura de capa variable",
+   "thumbnail": "previews/profiles/3811001.jpg",
+   "print_time_h": 6.1,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 51616068,
+   "sha256": "a62182cc5258c2e793138a9626afd21fd0fef17de0c3e277ba7ad7f7c4a2268a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Less Filament + Variable Layer Height",
+    "profile_notes": "Less Filament Variable Layer Height Ironing on all top surfaces",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-print-optimize-model-redu-3816795.3mf.xz",
+   "instance_id": "3816795",
+   "name": "Impresión de una sola plancha multicolor, optimice el modelo, reduzca el número de caras y mejore la eficiencia de la impresión",
+   "thumbnail": "previews/profiles/3816795.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4808108,
+   "sha256": "22fc7285bce4afe8946450d06f03ad5b4c34f4e4164a47a426f17057bdba1c4a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高打印效率",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-printing-no-plate-swappin-3816469.3mf.xz",
+   "instance_id": "3816469",
+   "name": "Impresión multicolor de una sola plancha, no es necesario cambiar las planchas, una plancha corresponde a una versión",
+   "thumbnail": "previews/profiles/3816469.jpg",
+   "print_time_h": 4.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "size": 51076732,
+   "sha256": "988a806f1d815a648278473614073d016b4201012ab5fa710a171f517689a3d1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "多色一盘打印，免换盘（一盘对应一个版本）",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3243522",
+ "title": "Casper – Fantasma a través de la ventana",
+ "slug": "casper-ghost-through-the-window",
+ "url": "https://makerworld.com/en/models/3243522-casper-ghost-through-the-window",
+ "author": "Stag3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "¡Dale vida a Casper este Halloween con esta divertida ilusión fantasmal con el tema de Casper, diseñada para que parezca como si Casper estuviera volando directamente a través de tu ventana!\n\nEl modelo está dividido en dos mitades separadas. La mitad delantera está situada en el exterior de la ventana, mientras que la mitad trasera se sitúa en el interior, creando la ilusión de que Casper está atravesando el cristal.\n\nFunciona particularmente bien cuando se ve desde afuera, lo que lo convierte en una excelente decoración de Halloween, escaparate o colección de fanáticos de Casper.\nDos opciones de montaje\nEl modelo se puede montar utilizando cualquiera de estos métodos:\n\nMontaje magnético\nUtiliza imanes de 4 × 10 mm × 3 mm\nLos imanes permiten que las dos mitades se mantengan juntas a través del vidrio.\nFácil de quitar y reposicionar\nMontaje adhesivo transparente\nImprima la versión en blanco y utilice adhesivo transparente de doble cara.\nRecomendado para ventanas de doble acristalamiento o más gruesas, donde los imanes pueden no tener la fuerza suficiente para mantener juntas las dos mitades.\nProporciona una instalación sencilla y discreta.\nImpresión\nNo se requiere AMS\nLos ojos y la lengua se imprimen como partes separadas y simplemente se pegan en su posición.\nDiseñado para ser fácil de imprimir y ensamblar\nEl diseño de dos partes facilita la colocación de cualquiera de los lados del vidrio\nMejores resultados\nPara lograr una ilusión más convincente, este modelo funciona mejor en una ventana de un solo acristalamiento, ya que las secciones delantera y trasera están más juntas.\nEl doble acristalamiento y el vidrio más grueso pueden aumentar la distancia entre las dos mitades, por lo que se recomienda la versión adhesiva en blanco en estas situaciones.\nPerfecto para\ndecoraciones de halloween\nescaparates\nFanáticos de Casper\nDecoración de temporada espeluznante\nEntusiastas de la impresión 3D\nProyectos familiares divertidos de Halloween\n¡Coloca a Casper en tu ventana, sal y observa cómo parece volar a través del cristal!",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "víspera de todos los santos",
+  "víspera de todos los santos 2026",
+  "casper",
+  "fantasma amigable",
+  "escalofriante",
+  "decoración de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2ce03c62a6dc6f/design/952ee5cf7effbea1.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3675211.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3688364.jpg": [
+   600,
+   714
+  ],
+  "previews/profiles/3775425.jpg": [
+   600,
+   525
+  ],
+  "previews/profiles/3811001.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3816795.jpg": [
+   600,
+   591
+  ],
+  "previews/profiles/3816469.jpg": [
+   382,
+   425
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

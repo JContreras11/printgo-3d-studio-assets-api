@@ -1,0 +1,319 @@
+{
+ "files": [
+  {
+   "path": "model/v1-teeth-3326282.3mf.xz",
+   "instance_id": "3326282",
+   "name": "V1 - Dientes",
+   "thumbnail": "previews/profiles/3326282.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "H2C",
+    "H2D",
+    "P1S",
+    "X1E",
+    "P2S",
+    "X1"
+   ],
+   "default": true,
+   "size": 3244056,
+   "sha256": "6bc076b5c4193fe5e8d8b004b27b72de2faf8efea17b373261daa9fed45311bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V1 - Teeth",
+    "creation_date": "2026-06-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimized-parameters-adjusted-supports-improved-pr-3484140.3mf.xz",
+   "instance_id": "3484140",
+   "name": "Parámetros optimizados, soportes ajustados, eficiencia de impresión mejorada, compatible con las series A1 y P",
+   "thumbnail": "previews/profiles/3484140.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1S",
+    "A1 mini",
+    "A2L",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X1",
+    "P1P",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 3292320,
+   "sha256": "00bd8d174b9e1ed87bbc7b8f6a69067292da1e7bfd1cbf15f7f0922cb2d0b760",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "参数优化，调整支撑，提高打印效率，适配A1和P系列",
+    "creation_date": "2026-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/v2-tongue-3326287.3mf.xz",
+   "instance_id": "3326287",
+   "name": "V2 - lengua",
+   "thumbnail": "previews/profiles/3326287.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 70,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "H2C",
+    "X1E",
+    "A2L",
+    "P2S",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": false,
+   "size": 3298940,
+   "sha256": "13f2d53a2934a2770a912ded3e52f230605c1430c4f938c077d133a9913f3881",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V2 - tongue",
+    "creation_date": "2026-06-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/v3-mouth-open-3326291.3mf.xz",
+   "instance_id": "3326291",
+   "name": "V3 - boca abierta",
+   "thumbnail": "previews/profiles/3326291.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 60,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "P1S",
+    "H2C",
+    "P2S",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 3439352,
+   "sha256": "dfc41d1c5794678adfdd4e9f978f115f7162e0f02bee23f5f5d319ca47f15935",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V3 - mouth open",
+    "creation_date": "2026-06-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/v4-kiss-3326317.3mf.xz",
+   "instance_id": "3326317",
+   "name": "V4 - Beso",
+   "thumbnail": "previews/profiles/3326317.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "P1S",
+    "H2C",
+    "P2S",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 3175880,
+   "sha256": "fca015321b22b36765252aaed7b85347a2369ad8b3f6680ec9c28734c7120ce9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V4 - Kiss",
+    "creation_date": "2026-06-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2966562",
+ "title": "The Moody Meow Bowl – Alimentación para gatos con actitud",
+ "slug": "the-moody-meow-bowl-cat-feeding-with-attitude",
+ "url": "https://makerworld.com/en/models/2966562-the-moody-meow-bowl-cat-feeding-with-attitude",
+ "author": "Ligurio",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¿Quién dijo que un comedero para mascotas tiene que ser aburrido?\nConozca nuestra colección de cuencos Funny Cat Face: cuatro cuencos de alimentación únicos inspirados en divertidas expresiones felinas. Cada diseño captura la personalidad inconfundible que todo dueño de gato conoce tan bien.\nCaracterísticas\nCuatro expresiones faciales únicas\nForma ancha y adaptada a los bigotes para comer cómodamente\nPerfecto como cuenco funcional para mascotas o pieza decorativa de conversación.\nUn regalo divertido para amantes de los gatos, veterinarios, criadores y entusiastas de las mascotas.\nDesde tonterías juguetonas hasta pequeños colmillos de vampiro y dramáticas caras de mal humor, estos cuencos añaden personalidad a cada hora de comer.\n\nPorque seamos honestos… tu gato te iba a juzgar de todos modos.\n\nAhora pueden hacerlo con estilo.\n\nmás cuencos con emociones:\n\nTazas de humor – Tazas de cara expresiva\nTazas de humor - Tazas faciales expresivas V2\nThe Moody Meow Bowl – Alimentación para gatos con actitud\nEmotion Bowls: una cara para cada estado de ánimo",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "perro",
+  "bol",
+  "regalo",
+  "presente",
+  "gato gracioso",
+  "divertido",
+  "rostro",
+  "bote",
+  "alimento",
+  "alimentador",
+  "gruñón"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US276019c79116cf/design/6a6f04c2d78a6574.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3326282.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3484140.jpg": [
+   600,
+   555
+  ],
+  "previews/profiles/3326287.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3326291.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3326317.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

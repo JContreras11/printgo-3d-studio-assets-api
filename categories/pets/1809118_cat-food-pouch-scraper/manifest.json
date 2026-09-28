@@ -1,0 +1,334 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-1929761.3mf.xz",
+   "instance_id": "1929761",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/1929761.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 1026,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1692036,
+   "sha256": "538c3603eb10a26085ea06bb21b2d0e3efd470cb53f1075bbd8e1ce0660842fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Das Teil ist sehr einfach zu drucken. Wenn du mit PLA druckst, darfst du das Teil nicht in den Geschirrspüler geben.",
+    "creation_date": "2025-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-6-walls-15-infill-3696552.3mf.xz",
+   "instance_id": "3696552",
+   "name": "Capa de 0,2 mm, 6 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3696552.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 1748916,
+   "sha256": "4ef322264b862674c6399a019aa95a7de17532a4a622ae770b42a1d4680ddbd8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 6 walls, 15% infill",
+    "profile_notes": "Breite Version mit Schlitzen von 15 cm Breite.",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/cat-food-scraper-bambu-pla-optimized-1986775.3mf.xz",
+   "instance_id": "1986775",
+   "name": "Rascador de comida para gatos – Bambu PLA optimizado",
+   "thumbnail": "previews/profiles/1986775.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 448,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "X1",
+    "X1E",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1927152,
+   "sha256": "5a067a0a95d5f3a55d810401c98f8c30c0521fb8d3ee13de53ad7deb6fca5473",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Cat Food Scraper – Bambu PLA Optimized",
+    "profile_notes": "Description: This print profile is optimized for the Cat Food Pouch Scraper , fine-tuned for smooth, reliable, and efficient printing on Bambu printers. Adjusted infill pattern and density – balanced for strength, flexibility, and reduced print time. Refined print speeds and retractions – improved flow control and minimized stringing for cleaner surfaces. Modified top and bottom layers – adjusted for better surface quality and consistent layer bonding. Three perimeter walls – added for enhanced durability and stiffness. Overall tuning for easy printing – stable and efficient setup suitable for everyday PLA use. These adjustments result in a clean, strong print with excellent surface finish and reliable adhesion. Thanks to the original designer for sharing this practical model!",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/cat-head-descriptive-version-with-hole-optimized-3471888.3mf.xz",
+   "instance_id": "3471888",
+   "name": "CABEZA DE GATO - Versión descriptiva con agujero OPTIMIZADO",
+   "thumbnail": "previews/profiles/3471888.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2C",
+    "A2L",
+    "A1",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "X2D"
+   ],
+   "default": false,
+   "size": 2026480,
+   "sha256": "bbf93e32aa38e3f097e7556d7c03813349b84921aa232b9d575370a881f41f40",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "CAT HEAD - Descriptive version with hole OPTIMIZED",
+    "profile_notes": "NOW WITH CUTE CATS I took the sturdy Bambu PLA Optimized Print Profile as a basis but – added two cute cats and “Food Pouch Scraper” descriptive text – added a hole in the shape of a cat for hanging the scraper",
+    "creation_date": "2026-07-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/faster-and-stronger-print-3437392.3mf.xz",
+   "instance_id": "3437392",
+   "name": "Impresión más rápida y fuerte",
+   "thumbnail": "previews/profiles/3437392.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 32,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "P2S",
+    "P1P",
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "size": 1752648,
+   "sha256": "fdb119998df629f281d56266782297c302225aab769b699f8bc87fc3f1b302af",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Faster and stronger print",
+    "profile_notes": "Das Teil ist sehr einfach zu drucken. Wenn du mit PLA druckst, darfst du das Teil nicht in den Geschirrspüler geben.",
+    "creation_date": "2026-07-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/reinforced-version-3420309.3mf.xz",
+   "instance_id": "3420309",
+   "name": "versión reforzada",
+   "thumbnail": "previews/profiles/3420309.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2S",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 2366476,
+   "sha256": "60d9b58f8d349eeb661c4ac61b3bff8de20722d82600adc0dc4da0d7297b075c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "reinforced version",
+    "profile_notes": "I applied modifiers on the sides changing the fill to 50%. Number of outlines: 4.",
+    "creation_date": "2026-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1809118",
+ "title": "Raspador de bolsa de comida para gatos",
+ "slug": "cat-food-pouch-scraper",
+ "url": "https://makerworld.com/en/models/1809118-cat-food-pouch-scraper",
+ "author": "Brandero",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Este exprimidor de comida para gatos es una práctica herramienta especialmente diseñada para extraer eficazmente la comida para gatos de las bolsas. Con su diseño ergonómico y sus tres prácticas ranuras de diferentes espesores, que exprimen de forma óptima los restos de comida, garantiza que no se desperdicie nada. Ideal para dueños de gatos que valoran un manejo limpio y sin esfuerzo al alimentarlos. El exprimidor es especialmente adecuado para bolsas de comida y es fácil de limpiar para permanecer siempre higiénico.\nEs muy fácil y rápido de imprimir y no requiere soportes.\n\nSi no puedes imprimir el exprimidor tú mismo, estaré encantado de hacerlo por ti. Aquí está el enlace:\n\nImpulsameSi me das un impulso, obtengo puntos y con ellos puedo crear más proyectos. El impulso no te cuesta nada y sólo puedes dárselo a otros. ¡Así que adelante y muchas gracias!\nImpúlsamePor favor, dame un impulso. ¡Es gratis para ti!\n¡GRACIAS!",
+ "use_cases": [],
+ "tags": [
+  "comida para gatos",
+  "limpiaparabrisas",
+  "gato",
+  "alimentar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4def5a2db435b8/design/2025-09-19_bcdc7d31ce4248.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1929761.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3696552.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1986775.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3471888.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3437392.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3420309.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

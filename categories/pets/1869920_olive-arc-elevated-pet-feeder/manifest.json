@@ -1,0 +1,219 @@
+{
+ "files": [
+  {
+   "path": "model/177x120-0-2mm-layer-3-walls-15-infill-2001361.3mf.xz",
+   "instance_id": "2001361",
+   "name": "177x120 Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2001361.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 73,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "X1",
+    "H2C",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "X1E"
+   ],
+   "default": true,
+   "size": 4149028,
+   "sha256": "b1cdc17a746b677fc664a6b92c9c010fe3a399f358be43c2bf3122a1a93c87ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "177x120 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-10-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-3-walls-25-infill-2827074.3mf.xz",
+   "instance_id": "2827074",
+   "name": "Capa de 0,2 mm, 3 paredes, 25% de relleno",
+   "thumbnail": "previews/profiles/2827074.jpg",
+   "print_time_h": 5.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "A2L",
+    "X1",
+    "X2D",
+    "A1",
+    "P1P",
+    "X1E"
+   ],
+   "default": false,
+   "size": 4205504,
+   "sha256": "911442401a05584c7f07d29cb2c18b7a31e3d68fd53b8116f9a52b548f6aa82e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 25% infill",
+    "profile_notes": "Suporte para Tigelas Pet Duplo – Versão Otimizada para A1 Mini 🐾 Modelo remodelado e ajustado especialmente para impressão na Bambu Lab A1 Mini , mantendo resistência, estabilidade e excelente acabamento. Diferenciais desta versão: Compatível com duas tigelas (ração + água) Redimensionado para caber perfeitamente na A1 Mini Estrutura reforçada e estável Design aberto que facilita limpeza Detalhes de patinhas 🐾 para um visual mais bonito Dimensões: 173,18 x 173,18 x 51,44 mm Escala aplicada: 85,73% Consumo de material: ~101g de filamento Aproximadamente 33m Tempo de impressão: ~5 horas (dividido em 2 placas) Configurações recomendadas: Material: PLA ou PETG Altura de camada: 0.2 mm Infill: 15–20% Suportes: não necessários Brim recomendado Perfeito para quem quer organizar o espaço do pet com um suporte duplo , permitindo colocar ração e água ao mesmo tempo , melhorando a ergonomia e deixando tudo mais alinhado e bonito.",
+    "creation_date": "2026-03-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/taller-w-fuzzy-skin-0-2mm-layer-3-walls-15-infill-3035632.3mf.xz",
+   "instance_id": "3035632",
+   "name": "Taller con capa Fuzzy Skin de 0,2 mm, 3 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3035632.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 7193752,
+   "sha256": "14ee665b668096a47032efca0172d9e529451d8886d506b524a7e23880ced875",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Taller w Fuzzy Skin 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Diameter but taller with ridged multifractal fuzzy skin .2 variable layers 3 walls 15% gyroid infill",
+    "creation_date": "2026-04-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "1869920",
+ "title": "Comedero elevado para mascotas Olive Arc",
+ "slug": "olive-arc-elevated-pet-feeder",
+ "url": "https://makerworld.com/en/models/1869920-olive-arc-elevated-pet-feeder",
+ "author": "GridIronG33k",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "ImpulsameSi te gusta, ¿por qué no? ¡Gratis para ti, útil para mí! ACTUALIZAR\nNoté que algunos cambiaban el tamaño del diseño para adaptarlo a sus necesidades, así que lo hice paramétrico. No estaba seguro de poder convertir esta publicación a paramétrica, así que comencé una nueva... Si necesitas un tamaño personalizado, toma tu cinta métrica y dirígete aquí:\n\nDescripción general\nComedero elevado limpio y moderno diseñado para brindar comodidad y estabilidad.\nTamaño específico para tazones de acero inoxidable estándar de 175 a 177 mm (compatible con Dollar Tree)\nDiseño funcional comprobado: mostrado en uso en el mundo real con una carga completa del recipiente\nIdeal para gatos grandes y perros medianos y superiores.\nEstructura ligera pero rígida para uso diario.\nCaracterísticas\nAjuste perfecto: la abertura interior de 177 mm proporciona un ajuste seguro con una ligera tolerancia para una fácil colocación y extracción.\nImpresión sin soporte: diseñada para una impresión FDM eficiente sin necesidad de soportes\nGeometría fuerte: las nervaduras estructurales curvadas proporcionan una resistencia excelente sin exceso de material\nAntideslizante: pies de goma integrados de 10 mm para mayor estabilidad en superficies lisas\nAltura apta para mascotas: Promueve una mejor postura de alimentación y comodidad.\nEstética limpia: diseño minimalista en tonos oliva con detalles sutiles en las patas\nUsuario verificado: impreso y probado con éxito con mascotas reales (gatos y perros)\nDescripción\nEl comedero elevado Olive Arc combina forma y función en una pieza que parece más una decoración moderna que un accesorio típico para mascotas. Curvas suaves y fluidas envuelven la estructura, creando un marco liviano pero duradero que parece esculpido en lugar de impreso.\n\nDiseñado pensando en mascotas reales, probado con gatos grandes y perros pequeños medianos (cockapoo de 20 lb y bulldog inglés de 75 lb), este soporte ofrece comodidad y confiabilidad. La altura elevada reduce la tensión durante la alimentación, mientras que la arquitectura abierta mantiene el diseño visualmente ligero y fácil de limpiar.\n\nLos sutiles detalles de las huellas de las patas añaden personalidad sin abrumar el aspecto minimalista. Combinado con un recipiente de acero inoxidable, el resultado es una configuración de alimentación limpia y premium que se adapta perfectamente a cualquier hogar.\n\nCada aspecto de este modelo es intencional: desde la tolerancia perfecta del recipiente hasta la geometría sin soporte, lo que hace que su impresión sea tan eficiente como satisfactoria de usar.\nGuía de montaje\nImprima el soporte del alimentador usando la configuración recomendada y móntelo (tolerancias estrictas, pegamento opcional)\nInserte pies de goma de 10 mm en las inserciones inferiores (ajuste a presión o pegamento ligero si es necesario)\nColoque un recipiente de acero inoxidable de 175 a 177 mm en la abertura superior.\nColóquelo sobre una superficie plana y garantice la estabilidad.\nListo para usar\nLista de materiales (BOM)\n4 pies de goma de 10 mm (opcionales pero recomendados)\nRecipiente de acero inoxidable (175–177 mm de diámetro, Dollar Tree en la foto ($1,50))\nConfiguración técnica de impresión\nPerfil recomendado (probado):\nAltura de la capa: 0,2 mm\nBucles de pared: 3 paredes\nRelleno: 15% (tramado cruzado)\nSoportes: No se requiere ninguno\nAdhesión: Ala opcional según superficie.\nImprimir estadísticas:\nMaterial: ~141 g de filamento\nTiempo: ~4 horas",
+ "use_cases": [],
+ "tags": [
+  "mascotas",
+  "gatos",
+  "gato",
+  "perros",
+  "perro",
+  "moderno",
+  "hogar",
+  "casa",
+  "robusto",
+  "fuerte",
+  "moderno 2025"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US365e18ce15859c/design/2025-10-08_3aee9201e77388.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1500
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2001361.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2827074.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3035632.jpg": [
+   600,
+   389
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

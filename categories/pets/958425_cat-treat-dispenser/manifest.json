@@ -1,0 +1,606 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-927856.3mf.xz",
+   "instance_id": "927856",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/927856.jpg",
+   "print_time_h": 6.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 571,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "A1",
+    "P1P",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1212440,
+   "sha256": "d46df32c65f7bdbbc9a0b76bbd0a5d41bce268bcd15f338b001a7aa5965cde3f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6853,
+      "weight_g": 62.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14658,
+      "weight_g": 143.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#68724D"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/15mm-holes-suitable-for-larger-freeze-dried-snacks-1308119.3mf.xz",
+   "instance_id": "1308119",
+   "name": "Orificios de 15 mm, adecuados para snacks liofilizados más grandes",
+   "thumbnail": "previews/profiles/1308119.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 25,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1120344,
+   "sha256": "1a32e7cfaab83946657b5c1cbc65fad0a00c9ee91c88061467a62de896a8a025",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "15mm大小的孔洞，适合比较大的冻干之类零食",
+    "profile_notes": "15mm大小的孔洞，适合比较大的冻干之类零食",
+    "creation_date": "2025-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5201,
+      "weight_g": 32.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF80"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/15mm-holes-suitable-for-larger-freeze-dried-snacks-1331057.3mf.xz",
+   "instance_id": "1331057",
+   "name": "Orificios de 15 mm, adecuados para snacks liofilizados más grandes",
+   "thumbnail": "previews/profiles/1331057.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "H2D",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1119080,
+   "sha256": "04dcca324d80f05d6444c2d500423c1a4ef2dfedfaf25553dc3d44ca1febec43",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "15mm大小的孔洞，适合比较大的冻干之类零食",
+    "profile_notes": "15mm大小的孔洞，适合比较大的冻干之类零食",
+    "creation_date": "2025-04-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/90-size-sliced-for-a1-mini-pla-or-petg-2588809.3mf.xz",
+   "instance_id": "2588809",
+   "name": "Tamaño del 90%, en rodajas para A1 mini, PLA o PETG",
+   "thumbnail": "previews/profiles/2588809.jpg",
+   "print_time_h": 4.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1651772,
+   "sha256": "4f7668dcd4d5d9dc6e483754b65911eb96f4ac2dbf112a0c3424bd4dc9c14da1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "90% Size, Sliced for A1 Mini, PLA or PETG",
+    "profile_notes": "Sliced for A1 Mini, Scaled to 90% to fit bed Sliced for PETG or PLA, tested in PETG",
+    "creation_date": "2026-02-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/base-part-flattened-0-2mm-layer-3-walls-15-infill-1068448.3mf.xz",
+   "instance_id": "1068448",
+   "name": "Parte base aplanada capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1068448.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 647384,
+   "sha256": "734c6453e167c08a3c7f1d900087b449dabf50aec508e613bf5dde3bf1602e58",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Base part flattened 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Alternate the bottom base plate that is flat, good for training your cat!",
+    "creation_date": "2025-02-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6866,
+      "weight_g": 94.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/bigger-holes-1-1mm-2482489.3mf.xz",
+   "instance_id": "2482489",
+   "name": "agujeros más grandes 1,1 mm",
+   "thumbnail": "previews/profiles/2482489.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 773604,
+   "sha256": "cfb232bf50866e4b095817de7ca8639841d9546c311796976545aa4ba7782572",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "bigger holes 1.1mm",
+    "profile_notes": "adjustmend to the holes made it 1.1mm perfect for a cat candy",
+    "creation_date": "2026-01-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dispenser-different-sizes-0-2mm-layer-2-walls-10-i-953930.3mf.xz",
+   "instance_id": "953930",
+   "name": "Dispensador diferentes tamaños capa 0,2mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/953930.jpg",
+   "print_time_h": 6.9,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 70,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "X1",
+    "P1P",
+    "P2S",
+    "X1E",
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1347808,
+   "sha256": "2f4cf3f1ffd39567828a8ba85c5949e359f97c11c76defec1f874eb988343cd8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Dispenser different sizes 0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4786,
+      "weight_g": 35.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4769,
+      "weight_g": 35.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4770,
+      "weight_g": 35.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4755,
+      "weight_g": 35.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4735,
+      "weight_g": 35.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/taller-dispenser-2689448.3mf.xz",
+   "instance_id": "2689448",
+   "name": "Dispensador más alto",
+   "thumbnail": "previews/profiles/2689448.jpg",
+   "print_time_h": 6.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P2S",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1314668,
+   "sha256": "ea69227966dec72ec054be939757f7169ba2daa4f4b5fdc4e2b4cfdf80f9820e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Taller Dispenser",
+    "profile_notes": "I extended the attachment so that it would be taller, as my cat was unable to fit his head under the dispenser to eat the treats in the original model.",
+    "creation_date": "2026-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/tpu-ring-feet-perfect-fit-no-glue-needed-1412199.3mf.xz",
+   "instance_id": "1412199",
+   "name": "Pies de anillo de TPU: ajuste perfecto, no se necesita pegamento",
+   "thumbnail": "previews/profiles/1412199.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 667148,
+   "sha256": "8f2b087a436008fe2cb71884cb2f83fe4cf78a5e338648d057a49c53ab9e48c6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "TPU ring feet - perfect fit no glue needed",
+    "profile_notes": "Print in TPU to help with base slippage. Printed with TPU 95A. Snaps right on. No need for glue.",
+    "creation_date": "2025-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "958425",
+ "title": "Dispensador de golosinas para gatos",
+ "slug": "cat-treat-dispenser",
+ "url": "https://makerworld.com/en/models/958425-cat-treat-dispenser",
+ "author": "KienDesigns",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "ImpulsameDejar un impulso me ayuda a crear más diseños para que disfrutes. ¡Gracias por el apoyo!:)\nDispensador de golosinas para gatos\n\nHe creado un dispensador de golosinas para gatos atractivo y elegante que es divertido para tu gato y agradable de exhibir en tu hogar. Cuenta con una parte giratoria que añade un desafío adicional, haciendo que la hora del premio sea interactiva y estimulante para tu gato.\nEl diseño es simple y moderno, y se combina para ayudarlo a integrarse en su hogar.\n\nPráctico, divertido y estéticamente agradable.\n\nAsamblea:\nPegue los dos soportes laterales en la base (ajuste perfecto).\nAtornille la tapa al dispensador.\nIntroducir la varilla a través del soporte con un agujero, SÓLO A LA MITAD.\nAñade el dosificador a través de la varilla entre los soportes.\nEmpuje la varilla hasta el fondo.\nAtornille el perno.\nPuedes añadir golosinas para gatos a través de los agujeros o desmontar el dispensador para añadir las golosinas.\nTenga en cuenta que debe tapar los agujeros con un dedo o las golosinas probablemente se caerán a medida que los llene:)\n\nAgregué agujeros en la parte inferior para agregar pies de goma.\n\n¡Vea nuestros otros productos relacionados con gatos!\nJuguete interactivo para gatos\n\nSoporte para gafas - Gato\n\nCuchara para comida para mascotas - Diseño de patas",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "tratar",
+  "juguete",
+  "golosina para gatos",
+  "juguete para gatos",
+  "animal",
+  "dispensador de golosinas para gatos",
+  "alimentador lento",
+  "comedero lento para gatos",
+  "dispensador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f35ad1dcd462e/design/2025-01-06_cc342dc9ebfd1.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/927856.jpg": [
+   600,
+   599
+  ],
+  "previews/profiles/1308119.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1331057.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2588809.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1068448.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2482489.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/953930.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2689448.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1412199.jpg": [
+   600,
+   796
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

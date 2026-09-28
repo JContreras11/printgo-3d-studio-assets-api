@@ -1,0 +1,196 @@
+{
+ "files": [
+  {
+   "path": "model/scraper-2702911.3mf.xz",
+   "instance_id": "2702911",
+   "name": "Raspador",
+   "thumbnail": "previews/profiles/2702911.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 83,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1798524,
+   "sha256": "b0e96df7449c4086c9580f0cfe55c7249460b96db6153f225970ed131bd6bf1e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Scraper",
+    "profile_notes": "Mine was printed with standard bambu lab PLA. The 3mf file is already pre-configured with supports and everything needed. You simply just need to press slice, and print :)",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/handle-2708872.3mf.xz",
+   "instance_id": "2708872",
+   "name": "Manejar",
+   "thumbnail": "previews/profiles/2708872.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 69,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1304452,
+   "sha256": "a218d4219d3942233fad9334f6bf1e1d512a27831ddcd698a8427af6bac25327",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Handle",
+    "profile_notes": "Everything is already pre-configured, Simply hit slice and print!",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/one-plate-0-2mm-layer-2-walls-35-infill-3553253.3mf.xz",
+   "instance_id": "3553253",
+   "name": "Una placa: capa de 0,2 mm, 2 paredes, 35 % de relleno",
+   "thumbnail": "previews/profiles/3553253.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "A1 mini",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 1905392,
+   "sha256": "4c84bebff7eb2c1c8edafc2ff23a27390aac654c1e40736eeea27dffdd320bd5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "One Plate - 0.2mm layer, 2 walls, 35% infill",
+    "profile_notes": "+ Both handle and scrapper on one plate + Increase infill to 35% + Added support to handle for easier printing",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2461984",
+ "title": "Levantador de piel de alfombra profunda",
+ "slug": "deep-carpet-fur-lifter",
+ "url": "https://makerworld.com/en/models/2461984-deep-carpet-fur-lifter",
+ "author": "KennieDD",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Impulsame\n¿Estás cansado del pelo de las mascotas que tu aspiradora no puede alcanzar?\nDeep Carpet Fur Lifter es una solución liviana y de bajo filamento diseñada para eliminar el pelo, el pelo y el polvo rebeldes de las mascotas atrapados profundamente en las fibras de la alfombra.\nCómo funciona\nA diferencia de los cepillos estándar, esta herramienta cuenta con docenas de pilares en ángulos de precisión diseñados para desplazarse entre las fibras de la alfombra. Estos \"púas\" se agarran al cabello y a los residuos que están \"bloqueados\" en lo más profundo, cosas que la aspiradora normalmente pasa por alto.\nNota sobre el pelo superficial: Después de usar esta herramienta, es posible que vea algo de pelo suelto sobre la alfombra. ¡Esto es normal! La herramienta ha \"desbloqueado\" con éxito el pelaje de las fibras profundas, lo que facilita su extracción con una rápida pasada de vacío.\nUso y montaje\nMontaje: Simplemente coloque el mango en la base y ¡listo!\nTécnica: Deslice la herramienta por la alfombra siguiendo la dirección del pelo.\nConsejo profesional: no necesitas una fuerte presión hacia abajo; deja que los pilares en ángulo hagan el trabajo por ti.\nMire el video a continuación para ver la primera versión en acción (el de este video es un modelo anterior, desde entonces lo he perfeccionado, haciéndolo mucho más duradero y, en general, mejor)",
+ "use_cases": [],
+ "tags": [
+  "pelo de mascota",
+  "limpiador de alfombras",
+  "raspador de alfombras",
+  "removedor de pelo",
+  "detallando",
+  "herramienta de limpieza",
+  "pelo de perro",
+  "pelo de gato",
+  "limpieza profunda",
+  "herramienta impresa en 3d"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-03-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US96d47908424dd4/design/e90ea6532e01e3c0.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   800,
+   450
+  ],
+  "previews/02.jpg": [
+   1000,
+   449
+  ],
+  "previews/03.jpg": [
+   1000,
+   449
+  ],
+  "previews/profiles/2702911.jpg": [
+   600,
+   269
+  ],
+  "previews/profiles/2708872.jpg": [
+   600,
+   269
+  ],
+  "previews/profiles/3553253.jpg": [
+   600,
+   461
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

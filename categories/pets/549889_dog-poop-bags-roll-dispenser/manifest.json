@@ -1,0 +1,278 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-468230.3mf.xz",
+   "instance_id": "468230",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/468230.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 242,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 606928,
+   "sha256": "4075076fe2e0741744d22850e9e181ddee9323cfeb225676d090f395f3c7d4da",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "There are 3 sacrificial supports that need to be removed after printing, they'll come right off.",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11596,
+      "weight_g": 144.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-6mm-nozzle-0-3mm-layer-2-walls-10-infill-snug-su-713417.3mf.xz",
+   "instance_id": "713417",
+   "name": "Boquilla de 0,6 mm, capa de 0,3 mm, 2 paredes, 10 % de relleno, soporte ajustado",
+   "thumbnail": "previews/profiles/713417.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 602348,
+   "sha256": "a3624b4c5258a4c2244cd7f63dc8616fb33c97a34b8eaa2fcd76e53ed01602b2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 2 walls, 10% infill, snug support",
+    "profile_notes": "0.6mm nozzle print profile with 0.3 mm layers. 2 walls and 10% cross hatch infill. Added snug support only over the door just to ensure proper printing which are easy to remove.",
+    "creation_date": "2024-11-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.3",
+    "infill": "10%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 10610,
+      "weight_g": 180.09,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FEDB00"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/a1-mini-version-0-2mm-layer-2-walls-15-infill-468235.3mf.xz",
+   "instance_id": "468235",
+   "name": "Versión A1 mini: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/468235.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 35,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 613168,
+   "sha256": "5d2ad016cf2878ed2901308fd9bbfdcfc67ff95e2ba26a777adb10d71db6ebc3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 Mini Version - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "I sliced 3mm off the top to ensure compatibility with the Bambu A1 Mini. There are 3 sacrificial supports that need to be removed after printing, they'll come right off.",
+    "creation_date": "2025-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14356,
+      "weight_g": 142.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/xy-scale-105-z-scale-125-3073352.3mf.xz",
+   "instance_id": "3073352",
+   "name": "Escala XY 105%, Escala Z 125%",
+   "thumbnail": "previews/profiles/3073352.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "H2C",
+    "X1",
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 585548,
+   "sha256": "ea8e721f798716ef4717287a280cf0c1b36ecfaeca6476d2086f02d79542eec0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "XY Scale 105%, Z Scale 125%",
+    "profile_notes": "Some people had issues with some of the poop bags that were a bit larger. So, I scaled x/y axis by 105% (to allow bags of up to 65mm) and z-axis by 125% to allow 12+bags. 0.2mm layer, 4 walls, 10% gyroid infill",
+    "creation_date": "2026-05-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "549889",
+ "title": "Dispensador de rollos de bolsas para excrementos de perros",
+ "slug": "dog-poop-bags-roll-dispenser",
+ "url": "https://makerworld.com/en/models/549889-dog-poop-bags-roll-dispenser",
+ "author": "MeetYourMaker",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Esta es una remezcla del dispensador en rollo de bolsas para excrementos de perros Earth Rated de With_Maltodextrin. Creé una versión con un corte de 3 mm en la parte superior para garantizar la capacidad de impresión en el Bambu A1 mini.\n\nDescripción\nTiene capacidad para 10 rollos de bolsas y tiene orificios para tornillos para montar en la pared, o use cinta adhesiva de dos caras/tiras Command para fijar. Los rollos de bolsas tienen aproximadamente 30 mm de diámetro y 61 mm de ancho, por lo que este dispensador podría funcionar con otros. Inicialmente diseñado sin la extraña superficie en ángulo en el interior, pero antes de agregarlo descubrí que los rollos se atascaban entre sí y simplemente \"colgaban\", y no rodaban hacia abajo para ser dispensados. La superficie en ángulo se apoya desde abajo con otra superficie en ángulo que es lo suficientemente empinada como para no necesitar soportes. Los rollos de bolsas para perros son 15 unidades de bolsas de 9x13 \"según la descripción de Amazon. Hay soportes de sacrificio integrados en el modelo para la apertura, por lo que no tiene que jugar con la configuración de soporte en su cortadora.\n\nInstrucciones para imprimir\nHay 3 soportes de sacrificio que deben retirarse después de la impresión; se desprenderán de inmediato.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "cachorro",
+  "mascota",
+  "accesorios para mascotas",
+  "accesorio para mascotas",
+  "accesorios para perros",
+  "accesorio para perros",
+  "bolsa de caca",
+  "soporte trasero para caca",
+  "dispensador de bolsas",
+  "soporte para bolsa de caca",
+  "caca de perro"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-07-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb155bbd793673d/design/2024-07-20_859d9768f779.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1006
+  ],
+  "previews/02.webp": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   813,
+   1039
+  ],
+  "previews/profiles/468230.jpg": [
+   600,
+   604
+  ],
+  "previews/profiles/713417.jpg": [
+   600,
+   797
+  ],
+  "previews/profiles/468235.jpg": [
+   600,
+   604
+  ],
+  "previews/profiles/3073352.jpg": [
+   600,
+   1604
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

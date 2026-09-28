@@ -1,0 +1,194 @@
+{
+ "files": [
+  {
+   "path": "model/1-pug-3185099.3mf.xz",
+   "instance_id": "3185099",
+   "name": "1 perro",
+   "thumbnail": "previews/profiles/3185099.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 103,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1074404,
+   "sha256": "ba40c03572ec33802c68fb291ea4fc7946743118a0459e4fa39255c4f894762f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "1 Pug",
+    "creation_date": "2026-05-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/12-pugs-3185105.3mf.xz",
+   "instance_id": "3185105",
+   "name": "12 perros",
+   "thumbnail": "previews/profiles/3185105.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "X2D",
+    "P2S",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1146392,
+   "sha256": "40c0775496dfa68c02055ce43e260b57c604563c0e5de4409e81ea26a4938852",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "12 Pugs",
+    "creation_date": "2026-05-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/parameter-optimization-improve-printing-efficiency-3658281.3mf.xz",
+   "instance_id": "3658281",
+   "name": "Optimización de parámetros, mejora la eficiencia de impresión.",
+   "thumbnail": "previews/profiles/3658281.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": false,
+   "size": 1089536,
+   "sha256": "2797a5985d61d70c92dd7de890f41a59cf44bbd0679736c3f984f21f413ae75f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "参数优化，提高打印效率",
+    "creation_date": "2026-06-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2855002",
+ "title": "Pequeño Mini Micro Pug Pequeño",
+ "slug": "small-tiny-mini-micro-pug",
+ "url": "https://makerworld.com/en/models/2855002-small-tiny-mini-micro-pug",
+ "author": "zhawa",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡Te presentamos al Small Tiny Mini Micro Pug, un perrito de bolsillo perfecto que demuestra que un gran encanto puede venir en paquetes muy pequeños! Esta pequeña monada imprime en solo 12 minutos y utiliza 1 gramo de filamento, lo que la hace ideal para impresiones rápidas y restos de filamento.\nImprímelo como una sorpresa para los amantes de los pug. Es ideal para esconderse en la casa, dejarlo como sorpresa para los amigos, decorar escritorios o iniciar una manada completa de cachorritos. Sencillo, rápido e irresistiblemente adorable, este pequeño perro seguramente traerá una sonrisa dondequiera que aparezca.\n\nEcha un vistazo a los otros animales de la colección Small Tiny Mini Micro:",
+ "use_cases": [],
+ "tags": [
+  "pequeño",
+  "diminuto",
+  "mini",
+  "micro",
+  "doguillo",
+  "perro",
+  "cachorro",
+  "mascota",
+  "bebé",
+  "lindo",
+  "impresión rápida"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa0014177a0d281/design/2aa67eda241b36b2.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3185099.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3185105.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3658281.jpg": [
+   600,
+   635
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

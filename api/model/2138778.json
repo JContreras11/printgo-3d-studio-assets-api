@@ -1,0 +1,190 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2316710.3mf.xz",
+   "instance_id": "2316710",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2316710.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 115,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "X1",
+    "H2S",
+    "H2D",
+    "P2S",
+    "A1",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1306064,
+   "sha256": "e52b9488f5c1bfbdd5682b8905daeca07391b707b6021fd6ea325bd45145ae4e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print Settings Layer height: 0.24 mm Walls: 3 perimeters Top / Bottom layers: 4 Infill: 15% gyroid Supports: None Brim: Not required Orientation: As provided in profile (flat on build plate) Notes on Fit and Function The spiral spring relies on layer direction for flexibility; printing flat is important. The rod holder is sized for approximately a 1.6 mm straight rod. Straightened coat hanger wire works well. Straightened PLA filament or similar stiff plastic rod can also be used.",
+    "creation_date": "2026-01-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/a1-mini-fixed-3636133.3mf.xz",
+   "instance_id": "3636133",
+   "name": "A1 mini (Fijo)",
+   "thumbnail": "previews/profiles/3636133.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "X1",
+    "P1S",
+    "A1",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "size": 1360396,
+   "sha256": "c9ca7a205f685aa4a047d020a3450cf04dcb78987293d2f138c067eb67eb351f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1 Mini (Fixed)",
+    "profile_notes": "the other print profile had one of the stands upside down, which wasted a bit a filament figuring out",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/a1-mini-pounce-a-pult-3409292.3mf.xz",
+   "instance_id": "3409292",
+   "name": "[A1 mini] saltar-a-pult",
+   "thumbnail": "previews/profiles/3409292.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 1,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "X1",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2S"
+   ],
+   "default": false,
+   "size": 1478992,
+   "sha256": "967748192c46f499d2c5b1b94868ca054b60e8e8450959823865317a8457b30a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "[A1 MINI] pounce-a-pult",
+    "profile_notes": "A1 Mini Compatible Layout – Full Model This print profile was created to make the original model compatible with the Bambu Lab A1 Mini without modifying the original design or changing any part dimensions. The parts have been strategically arranged across the build plates to fit within the A1 Mini's printable area while preserving the intended geometry, fit, and function of the original model. This allows A1 Mini owners to print the complete project without requiring a larger printer. No changes have been made to the original model geometry. All dimensions, tolerances, and part relationships remain unchanged. This profile is intended as an alternative print layout that expands compatibility while preserving the original design. Profile Highlights Compatible with the Bambu Lab A1 Mini Original model dimensions preserved No geometry modifications Strategic plate layout for the A1 Mini build volume Original fit and assembly maintained Intended as an alternative print workflow Notes Original model geometry has not been modified. Parts have only been reorganized to fit the A1 Mini build area. Credit to the original designer for creating the model.",
+    "creation_date": "2026-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2138778",
+ "title": "Juguete para gatos en espiral Pounce-a-pult",
+ "slug": "pounce-a-pult-spiral-cat-toy",
+ "url": "https://makerworld.com/en/models/2138778-pounce-a-pult-spiral-cat-toy",
+ "author": "jmcpheron",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Descripción\nEste juguete está construido alrededor de un resorte en espiral plano que se flexiona y rebota cuando tu gato lo golpea, creando un movimiento rebotante y ondulado que es divertido de tocar y difícil de ignorar. Un buen golpe hace que la espiral se tambalee y gire antes de que vuelva a asentarse, lista para la siguiente ronda.\nEl brazo en espiral conduce a un pequeño portacañas del tamaño de una caña delgada y recta. Pega una pluma, una bola de lobo, una cuerda o cualquier cosa con la que tu gato esté obsesionado actualmente en el extremo y tendrás un objetivo simple para aplastar que se mueve de una manera que los gatos parecen encontrar infinitamente interesante.\nLa base se ensambla a partir de una placa base larga y dos soportes triangulares.\n\nActualizaciones V2 (basadas en sus comentarios):\nSe agregaron orificios de montaje biselados para que pueda atornillar esto a una pared, escritorio, árbol para gatos o cualquier superficie cercana lo suficientemente valiente como para albergarlo.\nSoporte de resorte actualizado a un glorioso casquillo heptágono (7 lados para cualquiera que cuente en casa). Eso significa siete opciones de ángulos diferentes en lugar de sólo dos. Cuando la primavera comience a ceder después de meses de travesuras de gatos de alto impacto, simplemente gírela para obtener una cara nueva. Más opciones de ajuste, mejor distribución del desgaste y una manera fácil de lograr la cantidad perfecta de rebote.\n\nEste diseño se comparte bajo una licencia Creative Commons Attribution (CC BY) y está destinado a ser compartido, remezclado y desarrollado. El archivo STEP incluido se exportó desde un ensamblaje completo de Onshape y conserva las piezas individuales, lo que facilita su importación a otras herramientas CAD y sus modificaciones según sea necesario.\nAsamblea\nDiseñado para una varilla de ~1,6 mm. Una percha enderezada funciona muy bien.\nEl filamento de PLA enderezado o cualquier varilla de plástico rígida similar también servirá.\nAgregue una pluma, una bola de lobo o una cuerda al extremo de la varilla usando pegamento, un nudo o un ajuste ceñido por fricción.\nImpresión\nSe recomienda PLA o PETG\nNo se requieren soportes\nImprime en plano sobre la placa de construcción.\nUna impresión sencilla, un montaje rápido y un diseño que es tan fácil de mezclar como divertido de manejar.",
+ "use_cases": [],
+ "tags": [],
+ "license": "BY",
+ "release_date": "2025-12-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf2f168c2af6df7/design/2025-12-20_e5e4f88fdda938.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.gif": [
+   720,
+   405
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2316710.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3636133.jpg": [
+   600,
+   454
+  ],
+  "previews/profiles/3409292.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

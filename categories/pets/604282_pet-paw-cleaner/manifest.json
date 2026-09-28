@@ -1,0 +1,265 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-526936.3mf.xz",
+   "instance_id": "526936",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/526936.jpg",
+   "print_time_h": 11.1,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 127,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 6735324,
+   "sha256": "29c6eb3bc9d211272059c69b49fa443b93a7cb0bc88a2f0112d6668a41deb845",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22853,
+      "weight_g": 101.37,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#0080FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12398,
+      "weight_g": 152.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4577,
+      "weight_g": 35.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/a1-mini-edition-2974299.3mf.xz",
+   "instance_id": "2974299",
+   "name": "Edición A1 mini",
+   "thumbnail": "previews/profiles/2974299.jpg",
+   "print_time_h": 15.5,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "P1S",
+    "A1",
+    "X1E",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 7943724,
+   "sha256": "e9ca66bc533d970d86a36e80d95ca2aa0356f38412f822df1a8e286a37de24a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "A1 mini edition",
+    "profile_notes": "Made this one for my cat, thought i'd share it. The only thing that needed a change was the TPU part. The dovetail probably isn't even needed but it helps the part stay snug in the pipe.",
+    "creation_date": "2026-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/finer-bristles-1125857.3mf.xz",
+   "instance_id": "1125857",
+   "name": "Cerdas más finas",
+   "thumbnail": "previews/profiles/1125857.jpg",
+   "print_time_h": 12.8,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 21,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 7016216,
+   "sha256": "6d1d2b4fbc330d6ff17693d9c4582deee01f00451a4c39f8c8cccaf417b47f50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Finer Bristles",
+    "profile_notes": "This profile has finer bristles for more delicate paws. The mat has also been oriented horizontally on the print bed so it doesn't print over the calibration lines on an X1C. Everything else is the same as the original. With the smaller bristles you may notice more stringing.",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 29011,
+      "weight_g": 92.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#0080FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12476,
+      "weight_g": 152.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4654,
+      "weight_g": 35.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
+  }
+ ],
+ "id": "604282",
+ "title": "Limpiador de patas para mascotas",
+ "slug": "pet-paw-cleaner",
+ "url": "https://makerworld.com/en/models/604282-pet-paw-cleaner",
+ "author": "OP_Design",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Este limpiador de patas para mascotas está diseñado para limpiar eficientemente las patas de su mascota con facilidad. La alfombra flexible de TPU elimina suavemente la suciedad, mientras que el resistente contenedor de PLA o PETG garantiza durabilidad. Perfecta para mantener su hogar limpio después de caminar o jugar, esta lavadora de patas es fácil de ensamblar, usar y mantener.\nVersatilidad del material: tapete de TPU flexible para una limpieza eficaz; PLA o PETG u otros materiales sólidos para tapa y recipiente.\nFácil montaje: Sencillo de montar y llenar con agua.\nSuave con las patas: la alfombrilla de TPU suave es segura y cómoda para las mascotas.\nDiseño duradero: la tapa y el recipiente resistentes proporcionan un uso duradero.\nPortátil y liviano: ideal para uso doméstico o de viaje.\nBoost Me¡Impulsa este diseño GRATIS para apoyarme a mí y a otras creaciones! ¡Cada contribución ayuda a alimentar mi creatividad y el desarrollo de nuevos diseños!\n\nLicencias comerciales:\nSoporte único:",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "perro",
+  "gato",
+  "pata",
+  "limpiador",
+  "tpu",
+  "estera",
+  "limpio",
+  "agua"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USed721abfd4f7cc/design/2024-08-25_d35dd09a0e367.gif",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/526936.jpg": [
+   540,
+   405
+  ],
+  "previews/profiles/2974299.jpg": [
+   600,
+   426
+  ],
+  "previews/profiles/1125857.jpg": [
+   600,
+   486
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,347 @@
+{
+ "files": [
+  {
+   "path": "model/sausage-dog-15-infill-2377067.3mf.xz",
+   "instance_id": "2377067",
+   "name": "Perro salchicha: 15% de relleno",
+   "thumbnail": "previews/profiles/2377067.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 119,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1483228,
+   "sha256": "6375a727d4c3b303cdcf5458a915be05078aa5912c066760bf833b1ded1dcf72",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Sausage Dog – 15% Infill",
+    "profile_notes": "Do not remove the supports. The model can be printed using the included supports or with automatic tree supports.",
+    "creation_date": "2026-01-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-petg-3460641.3mf.xz",
+   "instance_id": "3460641",
+   "name": "Capa de 0,2 mm, 2 paredes, 15 % de relleno PETG",
+   "thumbnail": "previews/profiles/3460641.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "X1E",
+    "P1S",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X1",
+    "H2C"
+   ],
+   "default": false,
+   "size": 1337432,
+   "sha256": "5437c57d799844edfcf297336d4405951c95be04cf5abb1c8b1d4e2f24f743ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill petg",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/50-scaled-sausage-dog-2446517.3mf.xz",
+   "instance_id": "2446517",
+   "name": "Perro salchicha escalado al 50%",
+   "thumbnail": "previews/profiles/2446517.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 54,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1437376,
+   "sha256": "15222092b99a200613edac709333c5ad8d17674cb9c073e13076e77f36d2da4f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "50% scaled Sausage Dog",
+    "profile_notes": "optimised support setting and printing time.",
+    "creation_date": "2026-01-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimised-print-profile-80-shorter-time-same-quali-2393392.3mf.xz",
+   "instance_id": "2393392",
+   "name": "Perfil de impresión optimizado 80%, menor tiempo, misma calidad",
+   "thumbnail": "previews/profiles/2393392.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "A1 mini",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1442668,
+   "sha256": "dec149a61ed2d5fe303f2f0cd47e6f6f1c78c245857087e279f320698d20f7bf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Optimised print profile 80%, shorter time, same quality",
+    "profile_notes": "optimised support setting and printing time.",
+    "creation_date": "2026-01-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimised-printing-time-original-size-2395661.3mf.xz",
+   "instance_id": "2395661",
+   "name": "Tiempo de impresión optimizado, tamaño original",
+   "thumbnail": "previews/profiles/2395661.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 29,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "A1",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1518288,
+   "sha256": "6361c397356a2593557188289fb293f0c5a154a01142939b45ecf8010713868c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Optimised Printing Time, original size",
+    "profile_notes": "optimised support setting and printing time.",
+    "creation_date": "2026-01-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/sausage-dog-30-infill-2377102.3mf.xz",
+   "instance_id": "2377102",
+   "name": "Perro salchicha: 30% de relleno",
+   "thumbnail": "previews/profiles/2377102.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 328,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1482484,
+   "sha256": "f713811178f5c529ccc0b234cc078b71c6e2d6dd259b1dffc7ddf5412689b319",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Sausage Dog – 30% Infill",
+    "profile_notes": "Do not remove the supports. The model can be printed using the included supports or with automatic tree supports.",
+    "creation_date": "2026-01-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2189453",
+ "title": "Juguete de primavera para perros salchicha",
+ "slug": "sausage-dog-spring-toy",
+ "url": "https://makerworld.com/en/models/2189453-sausage-dog-spring-toy",
+ "author": "MakutoOTK",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Hice este juguete de resorte para perros salchicha. Este modelo está disponible en dos densidades de relleno:\n\n15%\n30%\n\nLa densidad del relleno afecta el comportamiento del resorte:\nUn relleno más alto da como resultado una oscilación y un rebote más fuertes.\nEl relleno inferior proporciona un movimiento más suave y fluido.\n¡Perfecto como divertido juguete de escritorio o como divertida pieza decorativa!",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "juguete",
+  "perro tejonero",
+  "mascotas",
+  "rebotar",
+  "mascota",
+  "mesa",
+  "edc"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-01-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3a827461897cee/design/2026-01-02_b0391cce5ecd3.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1006
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/2377067.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3460641.jpg": [
+   421,
+   275
+  ],
+  "previews/profiles/2446517.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2393392.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2395661.jpg": [
+   600,
+   448
+  ],
+  "previews/profiles/2377102.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3322732.3mf.xz",
+   "instance_id": "3322732",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3322732.jpg",
+   "print_time_h": 6.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "H2C",
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1560084,
+   "sha256": "9ce44afaac31d433308976c4c9efa6518e21e62d2a65c47873dabf980b80a84a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/p-series-profile-0-2mm-layer-2-walls-15-infill-3357624.3mf.xz",
+   "instance_id": "3357624",
+   "name": "Perfil serie P, capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3357624.jpg",
+   "print_time_h": 7.2,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "P2S",
+    "X2D",
+    "X1E",
+    "A2L",
+    "H2D Pro",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "size": 1579212,
+   "sha256": "b4b70e44143a0be2a76cae58be3d3b69fa251b8810d5fa6ddbb0fb046c431b56",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Profil für P-Serie, 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  }
+ ],
+ "id": "2963769",
+ "title": "Juguete de golosina \"Miezomat\" para gatos Snack Wobbler",
+ "slug": "cat-snack-wobbler-miezomat-treat-toy",
+ "url": "https://makerworld.com/en/models/2963769-cat-snack-wobbler-miezomat-treat-toy",
+ "author": "Go3DPrints",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Snack interactivo para gatos con oscilador giratorio y compartimentos para comida inteligentes.\nPromueve la curiosidad, la habilidad y la recompensa lúdica al tocar, girar y descubrir.\nIdeal como juguete de actividad para gatos de interior que aman la variedad y los pequeños desafíos.",
+ "use_cases": [],
+ "tags": [
+  "juguetes para gatos",
+  "juguete para gatos",
+  "juguete para gatos 3d",
+  "juguete de merienda para gatos",
+  "rompecabezas de golosinas para gatos",
+  "juguete de merienda",
+  "gatos",
+  "gato",
+  "gato 2026",
+  "rompecabezas",
+  "tratar",
+  "gastador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US77f85bfb9fc68c/design/1ece550d16bb52d0.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   343,
+   440
+  ],
+  "previews/02.png": [
+   285,
+   377
+  ],
+  "previews/03.png": [
+   338,
+   264
+  ],
+  "previews/profiles/3322732.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3357624.jpg": [
+   338,
+   264
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

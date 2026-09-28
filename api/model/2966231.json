@@ -1,0 +1,244 @@
+{
+ "files": [
+  {
+   "path": "model/large-0-12mm-layer-2-walls-15-infill-3325858.3mf.xz",
+   "instance_id": "3325858",
+   "name": "Capa grande de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3325858.jpg",
+   "print_time_h": 8.1,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 84,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "X1",
+    "H2C",
+    "H2D",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1P",
+    "A1",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 15308160,
+   "sha256": "bb153fe3035775fd752ff992ad3e6846fc67b9530efe305da2036b2494cdc8c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Large 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Large version",
+    "creation_date": "2026-07-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/large-one-plate-0-12mm-layer-2-walls-15-infill-3335303.3mf.xz",
+   "instance_id": "3335303",
+   "name": "Grande Una placa con capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3335303.jpg",
+   "print_time_h": 7.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 14904904,
+   "sha256": "8aa0f62aa6c309802eb76d7eae0df4b58aff3016eeb952a84cc35b7df5c9a5e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Large One plate 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Large One plate",
+    "creation_date": "2026-07-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/small-0-12mm-layer-2-walls-15-infill-3330442.3mf.xz",
+   "instance_id": "3330442",
+   "name": "Pequeña capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3330442.jpg",
+   "print_time_h": 5.2,
+   "plates": 5,
+   "rating": 4.6,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "A2L",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "size": 21485264,
+   "sha256": "add3a8f7e816cc4935294d36d51f56f97cead2eab96555fbdbaee66b8301f434",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Small 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Small version",
+    "creation_date": "2026-07-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/small-one-plate-0-12mm-layer-2-walls-15-infill-3335295.3mf.xz",
+   "instance_id": "3335295",
+   "name": "Pequeña Una placa de capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3335295.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2S",
+    "H2D",
+    "H2C",
+    "A1"
+   ],
+   "default": false,
+   "size": 20779924,
+   "sha256": "5a598d3650a290b947370629d8d04f2cae89c11936942c7706dced01f547d49b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Small One plate 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Small One plate",
+    "creation_date": "2026-07-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2966231",
+ "title": "Escuadrón de clips para bolsas de mascotas",
+ "slug": "pet-bag-clip-squad",
+ "url": "https://makerworld.com/en/models/2966231-pet-bag-clip-squad",
+ "author": "MartinRimerS",
+ "category": "pets",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Mira también mis otros modelos de Animal Bag Clip Squad\nEquipo de clips para bolsas para mascotas: ¡aprieta con fuerza para mantener frescos tus bocadillos!\nConozca al Pet Bag Clip Squad: cinco pequeñas mascotas decididas con una misión muy importante: mantener bien cerradas sus bolsas de café, cereales, dulces y refrigerios.\nEl equipo incluye:\nperro\ngato\nConejo\nhámster\nconejillo de indias\nLas patas de cada animal forman el clip funcional. Simplemente deslice el lado doblado de una bolsa en la estrecha abertura entre las piernas y su pequeña mascota la agarrará con fuerza.\n\n¿Por qué hacen esas caras graciosas?\nNo están enojados: ¡se están concentrando!\nSus ojos bien cerrados, dientes apretados y expresiones de preocupación muestran lo mucho que intentan juntar las piernas. ¡Mantener los bocadillos frescos es un trabajo serio cuando solo tienes patas pequeñas!\nEl perro está utilizando todo su poder de cachorro.\nEl gato se niega a dejar escapar la bolsa.\nEl conejo aprieta con ambas patas largas.\nPuede que el hámster sea pequeño, pero su determinación es enorme.\nY el conejillo de indias se aferra con toda la fuerza esponjosa que tiene.\nMascotas en el frigorífico fuera de servicio\nCada modelo tiene un pequeño orificio en la parte posterior diseñado para un imán de 6 × 2 mm. También agregué un segundo orificio magnético opcional usando una parte negativa en Bambu Studio. Agrega una pequeña gota de pegamento, presiona el imán en su lugar y deja que se seque.\nCuando las mascotas no están ocupadas manteniendo las bolsas cerradas, pueden vivir juntas en su refrigerador, listas para su próxima misión de guardar bocadillos.\n¡No sólo clips para bolsos!\nEl Pet Bag Clip Squad también puede convertirse en un pequeño grupo de personajes divertidos. Póngalos en fila para una importante reunión de mascotas, cree historias divertidas o déjelos competir para ver quién puede hacer la cara más divertida.\nSon prácticos ayudantes de cocina, adornos para el frigorífico y pequeños compañeros divertidos para niños y mayores que todavía son niños de corazón.\nPerfecto para:\nBolsitas de café y té\nBolsas de dulces y snacks\nIngredientes para cereales y repostería.\nOrganización de la despensa\nDecoración del refrigerador\nPequeños regalos\nExpositores de cocina divertidos\nImprime tu mascota favorita o colecciona todo el escuadrón. Solo recuerde darles un descanso ocasional: ¡cerrar una bolsa todo el día es un trabajo agotador!\n\n¡Imprime, pinta y hazlo tuyo!\nImprime cada animal en el color base que creas que se adapta mejor y luego convierte la decoración en una actividad divertida con los niños. Agrega marcas de colores, manchas, rayas, ojos y todos los pequeños detalles usando pintura o marcadores acrílicos.\nSigue los colores naturales del animal o deja volar tu imaginación y crea un miembro completamente único del Bag Clip Squad.",
+ "use_cases": [],
+ "tags": [
+  "bolsa",
+  "acortar",
+  "clip de bolsa",
+  "mascota",
+  "perro",
+  "conejo",
+  "gato",
+  "divertido",
+  "alimento",
+  "bocadillo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4f55d07213042f/design/dc0110b9b43f6b72.gif",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   754
+  ],
+  "previews/03.jpg": [
+   1000,
+   670
+  ],
+  "previews/profiles/3325858.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3335303.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3330442.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3335295.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

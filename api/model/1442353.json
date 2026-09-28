@@ -1,0 +1,134 @@
+{
+ "files": [
+  {
+   "path": "model/fountain-all-files-1501448.3mf.xz",
+   "instance_id": "1501448",
+   "name": "Fuente todos los archivos",
+   "thumbnail": "previews/profiles/1501448.jpg",
+   "print_time_h": 9.4,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 108,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1E",
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "P1P",
+    "X1",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 5236908,
+   "sha256": "4210fda0d231024c9c155e4e8342a02a9e4b95d1bd23e43eb05f14f502144dd9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/plate-layout-for-a1-mini-3805455.3mf.xz",
+   "instance_id": "3805455",
+   "name": "Disposición de la placa para A1 mini",
+   "thumbnail": "previews/profiles/3805455.jpg",
+   "print_time_h": 10.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "size": 5691332,
+   "sha256": "5fcf666ce262831842af8620af747c6fe3791184857d83d0bb29771313a4d008",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Plate layout for A1 mini",
+    "profile_notes": "Shifted the objects on the plate so you can print on just about any printer.",
+    "creation_date": "2026-09-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "1442353",
+ "title": "Fuente para beber para mascotas y elemento decorativo de agua",
+ "slug": "pet-drinking-fountain-decorative-water-feature",
+ "url": "https://makerworld.com/en/models/1442353-pet-drinking-fountain-decorative-water-feature",
+ "author": "Sonthy",
+ "category": "pets",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Esta fuente de mesa impresa en 3D de hermoso diseño combina diseño decorativo con verdadera funcionalidad: ideal como elemento decorativo elegante y, al mismo tiempo, utilizable como bebedero para perros y gatos. Su suave salpicadura anima a las mascotas a beber, al mismo tiempo que aporta tranquilidad y elegancia a cualquier estancia.\nCaracterísticas:\nDoble propósito: como fuente decorativa relajante o como práctico bebedero para mascotas.\nDiseño: formas esféricas curvadas orgánicamente con lavabo en espiral: moderno y único\nAgua que fluye: anima a los animales a beber, ideal para perros y gatos.\nTecnología simple: compatible con esta minibomba silenciosa\nUE: A la bomba en Amazon.de\nEE. UU.: A la bomba en Amazon.com\n\nAdmite mascotas: cuando se imprime con material adecuado, se puede utilizar de forma segura para animales.\nRecomendación de impresión:\nMaterial: PETG (apto para alimentos), PLA Pro (solo para uso decorativo) o TPU (suave y seguro)\nDensidad de relleno: 20–40% para paredes estancas\nAltura de capa: 0,2 mm recomendado\nEstructura de soporte: Sólo necesaria para voladizos\nDale movimiento a tu decoración o asegura el suministro de agua ideal para tu amigo peludo con este versátil proyecto de impresión 3D.",
+ "use_cases": [],
+ "tags": [
+  "fuente para mascotas",
+  "fuente para beber",
+  "fuente para gatos",
+  "fuente para perros",
+  "fuente de animales",
+  "mascota",
+  "fuente de agua",
+  "fuente",
+  "decoración",
+  "decoración del hogar",
+  "impresión 3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd631ec752af570/design/2025-05-22_6a36e76de4bb18.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1501448.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3805455.jpg": [
+   600,
+   798
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

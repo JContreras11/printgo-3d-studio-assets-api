@@ -1,0 +1,564 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-3-walls-detect-thin-wall-normal-print--1129102.3mf.xz",
+   "instance_id": "1129102",
+   "name": "Capa de 0,2 mm, 3 paredes, detección de paredes delgadas, velocidad de impresión normal",
+   "thumbnail": "previews/profiles/1129102.jpg",
+   "print_time_h": 7.6,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 1516,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2C",
+    "P1S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 9815184,
+   "sha256": "3f2a4e83c9a0a325b75b7bf74abd58eedc4b5ce6cdf2dc4a1dc026e728783d64",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, detect thin wall, normal print speed",
+    "profile_notes": "Basic Settings 0.2 mm layer height 3 walls for strength Detect thin wall Outer brim only - easier to pop inner ball Normal print speed Plates: plate 1 - multicolor with AMS plate 2 - single color plate 3 - bells for multicolor no AMS plate 4 - empty Cat toys for multicolor no AMS",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13839,
+      "weight_g": 43.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7217,
+      "weight_g": 21.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1084,
+      "weight_g": 3.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6692,
+      "weight_g": 18.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-3-walls-detect-thin-wall-50-slower-spe-1154959.3mf.xz",
+   "instance_id": "1154959",
+   "name": "Capa de 0,2 mm, 3 paredes, detección de paredes delgadas, velocidad un 50 % más lenta",
+   "thumbnail": "previews/profiles/1154959.jpg",
+   "print_time_h": 8,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 227,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "P2S",
+    "P1S",
+    "X1",
+    "X1E",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 9817168,
+   "sha256": "5bee61647991e6567f5613eb65e73f96ecaae98baa62a9a201fef0ff575baf12",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, detect thin wall, 50% slower speed",
+    "profile_notes": "0.2mm layer height 3 walls for strength Detect thin wall Outer brim only 50% Slower print speed",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13773,
+      "weight_g": 43.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7144,
+      "weight_g": 21.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1130,
+      "weight_g": 3.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6622,
+      "weight_g": 18.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-6-walls-25-infill-1148351.3mf.xz",
+   "instance_id": "1148351",
+   "name": "Capa de 0,2 mm, 6 paredes, 25% de relleno",
+   "thumbnail": "previews/profiles/1148351.jpg",
+   "print_time_h": 3.2,
+   "plates": 4,
+   "rating": 4.6,
+   "rating_count": 67,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "A1 mini",
+    "P2S",
+    "X1E",
+    "X1",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4842732,
+   "sha256": "953a285a4b3c8208453359b71b9288cc3316143ddd6cd861b30e1e311986757e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "profile_notes": "Impression sur radeau",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2940,
+      "weight_g": 6.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2520,
+      "weight_g": 3.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2686,
+      "weight_g": 4.4,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2935,
+      "weight_g": 6.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/1-ball-dualcolor-optimized-3452155.3mf.xz",
+   "instance_id": "3452155",
+   "name": "1 Bola. Doble color, optimizado",
+   "thumbnail": "previews/profiles/3452155.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "A2L",
+    "P2S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "H2D",
+    "P1S",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 2549348,
+   "sha256": "fd9d004b4f000e8d763e977b3717ab6dd155e65b7cb64efbd166a5133cd60f95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "1 Ball. Dualcolor, optimized",
+    "profile_notes": "Basic Settings 0.2 mm layer height 3 walls for strength Detect thin wall Outer brim only - easier to pop inner ball Normal print speed Plates: plate 1 - multicolor with AMS plate 2 - single color plate 3 - bells for multicolor no AMS plate 4 - empty Cat toys for multicolor no AMS",
+    "creation_date": "2026-07-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/petg-single-color-0-2mm-layer-3-walls-100-infill-2178489.3mf.xz",
+   "instance_id": "2178489",
+   "name": "PETG monocolor (capa de 0,2 mm, 3 paredes, 100% de relleno)",
+   "thumbnail": "previews/profiles/2178489.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 99,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "H2C",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4598520,
+   "sha256": "5b1224c9b50694fb682e40fb547b3ea56db241cc9b11548b5d9a72ae2e294101",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "PETG single color (0.2mm layer, 3 walls, 100% infill)",
+    "profile_notes": "For printing in basic PETG. Also set the infill to 100% to give the balls slightly more mass, in hopes of more cat entertainment.",
+    "creation_date": "2025-11-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/super-slow-to-help-printing-success-1887795.3mf.xz",
+   "instance_id": "1887795",
+   "name": "Súper lento para ayudar a imprimir con éxito",
+   "thumbnail": "previews/profiles/1887795.jpg",
+   "print_time_h": 7.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 25,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "P1S",
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "X1",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 9662504,
+   "sha256": "3571334ffef89a8b9828cdabd5a26112fa645cfda631ee91b3451987fae4c980",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Super slow to help printing success",
+    "profile_notes": "Even slower speed to help with printing success",
+    "creation_date": "2025-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  }
+ ],
+ "id": "1129196",
+ "title": "Juguetes para gatos impresos en el lugar - V2",
+ "slug": "print-in-place-cat-toys-v2",
+ "url": "https://makerworld.com/en/models/1129196-print-in-place-cat-toys-v2",
+ "author": "LRBD",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡V3 ya está disponible!\nJuguetes para gatos impresos en el lugar - V3 - Modelo de impresión 3D gratuito - MakerWorld\n¡Imprime juguetes para gatos en el lugar V2!\n¡Advertencias!\n¡Por favor, no reduzca la escala de los juguetes para gatos! Fueron hechos para tener el tamaño perfecto para gatos; cualquier tamaño más pequeño podría representar un peligro de asfixia.\nImprima únicamente en materiales básicos como PLA, PETG y TPU, ya que son los filamentos más seguros para imprimir juguetes para gatos.\n\nDescripción de los juguetes para gatos\nCuando trabajaba en la versión dos de mis juguetes para gatos, intenté recibir la mayor cantidad de comentarios posible para mejorar mi diseño, todavía son impresiones sin soporte e incluso agregué dos nuevos diseños divertidos: ¡Disfrútalo!\n\nAunque están etiquetados como juguetes para \"gatos\", han sido aprobados por:\nAves\nHurones\npollitos\n*Si los imprimes para un animal diferente y les gusta, ¡házmelo saber y agregaré ese animal a la lista!\nV2 mejorado:\nAdhesión a la cama: hubo varias quejas acerca de que el estilo V1 Basic no se pegaba correctamente a la cama, ahora puedes imprimirlas todas sin problemas. * Tenga en cuenta que todavía se requiere borde para obtener mejores resultados. ¡Las impresiones pueden despegarse sin borde! Para obtener mejores resultados, utilice únicamente el ala exterior.\n\nCalidad del modelo 3D: los juguetes V1 Cat tenían modelos de menor calidad con bordes que podían ser visibles en impresiones con detalles más finos. Los modelos 3D V2 son mucho más limpios y de mayor resolución.\n\nFuerza: los juguetes para gatos V1 tenían múltiples áreas débiles que podían romperse fácilmente, ahora no tienes que preocuparte de que los juguetes para gatos se rompan por el uso normal. * tenga en cuenta que aplastarlos intencionalmente hará que se rompan, no son indestructibles",
+ "use_cases": [],
+ "tags": [
+  "gatos",
+  "juguetes",
+  "mascotas",
+  "juguete para gatos",
+  "divertido",
+  "lugar de impresión",
+  "sin apoyo",
+  "imprimir en el lugar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb454187a28ebc0/design/2025-02-19_776a6e95252a6.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   800
+  ],
+  "previews/02.jpg": [
+   1000,
+   800
+  ],
+  "previews/03.jpg": [
+   1000,
+   800
+  ],
+  "previews/04.jpg": [
+   1000,
+   800
+  ],
+  "previews/05.jpg": [
+   1000,
+   800
+  ],
+  "previews/06.jpg": [
+   1000,
+   800
+  ],
+  "previews/07.jpg": [
+   1000,
+   800
+  ],
+  "previews/08.jpg": [
+   1000,
+   800
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.jpg": [
+   1000,
+   1333
+  ],
+  "previews/13.jpg": [
+   1000,
+   1333
+  ],
+  "previews/14.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1129102.jpg": [
+   600,
+   480
+  ],
+  "previews/profiles/1154959.jpg": [
+   600,
+   480
+  ],
+  "previews/profiles/1148351.jpg": [
+   600,
+   1065
+  ],
+  "previews/profiles/3452155.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2178489.jpg": [
+   595,
+   425
+  ],
+  "previews/profiles/1887795.jpg": [
+   600,
+   600
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

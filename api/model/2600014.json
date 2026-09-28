@@ -1,0 +1,185 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2869011.3mf.xz",
+   "instance_id": "2869011",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2869011.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 31,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2560132,
+   "sha256": "107261a72fe466d73e252c9f6cfee02d9cbfed289466e21e294b420cf2b86097",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "A1",
+    "creation_date": "2026-03-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-3729042.3mf.xz",
+   "instance_id": "3729042",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3729042.jpg",
+   "print_time_h": 0.9,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 2607936,
+   "sha256": "cb9d38d4253107e5b19c687281b7ae49bba42701b0279598226c74fcc541a380",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-2mm-nozzle-0-1mm-layer-4-walls-8-gyroid-infill-3384294.3mf.xz",
+   "instance_id": "3384294",
+   "name": "Boquilla de 0,2 mm, capa de 0,1 mm, 4 paredes, 8 % de relleno giroide",
+   "thumbnail": "previews/profiles/3384294.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3082444,
+   "sha256": "bf889e399598044ea2ed2f4ad3ec8e8999ff34d6855ee005124cb0ffd5c04ab2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 8% gyroid infill",
+    "profile_notes": "Single plate optimized for A1 mini, printing by object to reduce operational time and generate no filament waste on different colors swapping. More wall loops and less infill to make it stronger.",
+    "creation_date": "2026-07-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2600014",
+ "title": "Gancho con estampado de pata de perro - Montaje en pared",
+ "slug": "dog-paw-print-hook-wallmount",
+ "url": "https://makerworld.com/en/models/2600014-dog-paw-print-hook-wallmount",
+ "author": "ElikaGreen",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Mantenga organizado el equipo de su mascota con este moderno gancho de pared con estampado de patas, diseñado para sujetar correas, arneses, collares o accesorios pequeños. La forma suave de la pata añade un toque divertido, mientras que el gancho resistente proporciona una funcionalidad fiable para el día a día. Tiene un orificio para tornillos de montaje en pared en la parte posterior\n\nEl modelo se imprime fácilmente y constituye un excelente complemento decorativo cerca de la entrada, el vestíbulo o la zona para mascotas. Puede imprimir varios colores para combinar con su decoración o los accesorios de su mascota.\nImpúlsame ¡Mantén mi creatividad alimentada! Los pequeños consejos marcan una gran diferencia:) El ícono está ahí arriba\nEste modelo fue impreso en: Overture Matte PLA para la pata lavanda y Jayo Matte PLA para los ganchos negros y la pata oliva.\nEl acabado mate le da un aspecto premium y oculta maravillosamente las líneas de las capas.\nEste modelo se imprime mejor utilizando el perfil de impresión incluido.\n\n** Este es mi propio modelo y se puede imprimir gratis para su propio uso. Gracias por aprobarlo.\nSe invierten innumerables horas en diseñar archivos impresos de forma gratuita para usted, sea amable y agradezca con una descarga con una reseña de 5 estrellas.\nNo autorizado para reventa o uso comercial.\n\n¡Mira mis otros diseños hechos para mascotas!",
+ "use_cases": [],
+ "tags": [
+  "gancho para perros",
+  "juguete para perros",
+  "truco con bolsa para excrementos de perro",
+  "accesorios para perros",
+  "suministros para perros"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USef95bfd6ad9a54/design/6cb1170b5be14ebb.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1188
+  ],
+  "previews/02.jpg": [
+   527,
+   417
+  ],
+  "previews/03.png": [
+   1000,
+   1500
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   653,
+   512
+  ],
+  "previews/profiles/2869011.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3729042.jpg": [
+   600,
+   536
+  ],
+  "previews/profiles/3384294.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-519678.3mf.xz",
+   "instance_id": "519678",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/519678.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 370,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 982616,
+   "sha256": "09ef7c9510973c98f391e3b5e0a887d533ff69623d755bd128ab23dc8f184935",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3536,
+      "weight_g": 9.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3956,
+      "weight_g": 24.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DE4343"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/customizable-with-name-2984946.3mf.xz",
+   "instance_id": "2984946",
+   "name": "Personalizable con nombre",
+   "thumbnail": "previews/profiles/2984946.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "P2S",
+    "X1",
+    "H2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1137548,
+   "sha256": "408ad29a5835d3e1c42ab79ecd252a3c4ef59a64d83320e947ab4789bcb56665",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Personalizzabile con nome",
+    "creation_date": "2026-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "597627",
+ "title": "Dispensador de bolsas para excrementos",
+ "slug": "poop-bag-dispenser",
+ "url": "https://makerworld.com/en/models/597627-poop-bag-dispenser",
+ "author": "ExtRuben",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Este es un estuche pequeño para bolsas de caca. Se elabora en rollos de bolsa de 6x2,5 cm y se puede imprimir sin soporte. ¡Disfrutar!\n\n¡Impulsame! Si te gusta este modelo, ¡te agradecería tu impulso!:* Membresía Si quieres vender mis productos, suscríbete a mi membresía.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "mascota",
+  "caca",
+  "accesorio para perros",
+  "dispensador de bolsas para excrementos",
+  "portabolsas de caca",
+  "bolsa de caca"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1a78e5a33ce8a3/design/2024-08-20_b0e22e4a2f152.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/519678.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2984946.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

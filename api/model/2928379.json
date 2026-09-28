@@ -1,0 +1,130 @@
+{
+ "files": [
+  {
+   "path": "model/single-color-3277899.3mf.xz",
+   "instance_id": "3277899",
+   "name": "un solo color",
+   "thumbnail": "previews/profiles/3277899.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P2S",
+    "A1",
+    "H2D",
+    "H2S",
+    "P1P",
+    "X2D",
+    "P1S"
+   ],
+   "default": true,
+   "size": 9594720,
+   "sha256": "d24f47cd9024c0fc1a6576f906199a102db88082294b018a8fbb40ef0535e9e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/multi-color-ams-3277915.3mf.xz",
+   "instance_id": "3277915",
+   "name": "Multicolor (AMS)",
+   "thumbnail": "previews/profiles/3277915.jpg",
+   "print_time_h": 5.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P2S",
+    "A1",
+    "H2D",
+    "H2S",
+    "P1P",
+    "X2D",
+    "P1S"
+   ],
+   "default": false,
+   "size": 9627716,
+   "sha256": "ab285d5381d515a42fbf5803b8d47ab05c8a52262269277caf2f8b44359b01e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2928379",
+ "title": "Caniche soñoliento - Monitor Buddy",
+ "slug": "sleepy-poodle-monitor-buddy",
+ "url": "https://makerworld.com/en/models/2928379-sleepy-poodle-monitor-buddy",
+ "author": "MiniDesignLab",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Caniche soñoliento - Monitor Buddy\n¡Dale un toque de elegancia y ternura absoluta a tu pantalla! Este Sleepy Poodle es el compañero de escritorio perfecto, diseñado para descansar elegantemente en el borde superior de su monitor, computadora portátil o televisor. Con su característico pelaje rizado y esponjoso y una postura de siesta completamente relajada, este sofisticado cachorro se toma un descanso de su fabulosa apariencia para hacerte compañía mientras trabajas o juegas.\nNota: ¡Tenga mucho cuidado al retirar los soportes! La textura detallada del pelaje rizado, las orejas caídas y las patitas pueden ser delicadas, así que tómate tu tiempo para asegurarte de que tu caniche durmiente luzca impecable.\nElige tu versión\nVersión AMS (multicolor)\nPara un compañero caniche adorable y realista recién sacado de la placa de construcción:\nColores: 2 (Color de pelaje principal + Negro para los rasgos faciales).\nDetalles: Los ojos tranquilos y cerrados y la naricita distintiva están precoloreados para capturar perfectamente esa expresión serena y dormida.\nVersión sin AMS (un solo color)\nUna versión elegante y escultural de esta raza de hermosa textura:\nMinimalista: Da la apariencia de una obra de arte de diseño de alta gama, agregando un toque sutil de encanto de amante de los perros a su configuración tecnológica.\n¡Muéstranos tu cachorro somnoliento!\n¿Dónde decidió tu caniche acurrucarse para tomar una siesta? ¿Dormitar una siesta en el monitor de su estación de trabajo principal o hacerle compañía en su computadora portátil durante una sesión en la cafetería? ¡Sube una foto y comparte tu elegante configuración con la comunidad!\n\n¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "perro",
+  "caniche",
+  "monitor",
+  "compañero",
+  "amigo",
+  "escritorio",
+  "de oficina",
+  "estante",
+  "televisor",
+  "animal"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f33f7e9a14e55/design/5859b790e071e64a.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   378,
+   357
+  ],
+  "previews/profiles/3277899.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3277915.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

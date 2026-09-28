@@ -1,0 +1,354 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-1402239.3mf.xz",
+   "instance_id": "1402239",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1402239.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 425,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1S",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 4706428,
+   "sha256": "bb1557d6158b9ee4b2c8279e60156876ef8835464bdb2dad5db2ad70bb3f6246",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill PETG preferred",
+    "creation_date": "2025-04-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-5-gyroid-infill-1406314.3mf.xz",
+   "instance_id": "1406314",
+   "name": "Capa de 0,2 mm, 2 paredes, 5 % de relleno giroide",
+   "thumbnail": "previews/profiles/1406314.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "A1",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4490244,
+   "sha256": "a82280360b4cccf6eb6c2e81916e26eefba58d7c69f3675ba540d918d9e12e65",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "0.2mm layer, 2 walls, 5% gyroid infill",
+    "profile_notes": "Slowed down first layer for better adhesion",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/a1-mini-0-2mm-layer-5-infill-1409618.3mf.xz",
+   "instance_id": "1409618",
+   "name": "A1 mini capa de 0,2 mm, 5 % de relleno",
+   "thumbnail": "previews/profiles/1409618.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 59,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4574540,
+   "sha256": "d5175df7184c8e63c3bdbf162c5c46a7409902e348c1449590a091e80d54fc89",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "A1 mini 0.2mm layer, 5% infill",
+    "profile_notes": "A1 mini 0.2mm layer, 5% infill",
+    "creation_date": "2025-04-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/a1-mini-1406927.3mf.xz",
+   "instance_id": "1406927",
+   "name": "A1 mini",
+   "thumbnail": "previews/profiles/1406927.jpg",
+   "print_time_h": 5.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4587196,
+   "sha256": "63ac9e968d64e91e29d033334fe1d2aecb00fea4b5a6662d077967d265c49419",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "A1 mini",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill PETG preferred",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/faster-print-less-infill-gyroid-type-1409605.3mf.xz",
+   "instance_id": "1409605",
+   "name": "Impresión más rápida, menos relleno, tipo giroide",
+   "thumbnail": "previews/profiles/1409605.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 80,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4903816,
+   "sha256": "8f374cae237b3f3bb90a74766e7d714e9cf84f5cd8be38058a503c323b3bb0fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Faster print, less infill, gyroid type",
+    "profile_notes": "0.2mm layer, 2 walls, 5% infill, Gyroid",
+    "creation_date": "2025-04-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/reduction-adapter-for-internal-treat-bottle-2358332.3mf.xz",
+   "instance_id": "2358332",
+   "name": "Reducción/Adaptador para botella de tratamiento interno",
+   "thumbnail": "previews/profiles/2358332.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3847004,
+   "sha256": "30f274543ba23156e074c0773835766132511c4f13fcdff7fa024097382600b7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Reduction/Adapter for internal treat bottle",
+    "profile_notes": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-12-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1358156",
+ "title": "Tazón de agua y golosinas para perros 2 en 1 TrailBuddy",
+ "slug": "trailbuddy-2-in-1-dog-water-treat-bowl",
+ "url": "https://makerworld.com/en/models/1358156-trailbuddy-2-in-1-dog-water-treat-bowl",
+ "author": "behunekmartin",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Mantén a tu amigo peludo feliz e hidratado en cada aventura!\nEl cuenco de agua y golosinas para perros TrailBuddy 2 en 1 es su compañero de viaje perfecto para caminatas, paseos o viajes por carretera con su perro.\nHidratación sencilla: simplemente conecte el recipiente a cualquier botella de PET estándar y apriételo para llenarlo: ¡agua fresca mientras viaja!\nDisfrute del tiempo en cualquier lugar: el recipiente interior extraíble le permite llevar bocadillos o croquetas para que pueda recompensar a su cachorro en cualquier momento.\nCompacto y liviano: cabe fácilmente en su mochila, es fácil de limpiar y está diseñado para divertirse al aire libre.\nYa sea que estén explorando las montañas, paseando por el parque o viajando juntos, TrailBuddy se asegura de que su perro esté siempre listo para tomar una bebida y un premio.\n\nImpúlsame Si disfrutas de mi modelo, te agradecería tu apoyo. ¡Los me gusta, las acciones compartidas o los comentarios siempre son bienvenidos! Membresía Si deseas apoyar nuestro trabajo o utilizar nuestros modelos comercialmente, considera unirte a nuestro programa de soporte. Realmente lo apreciaríamos. ¡Gracias!ACTUALIZAR\n¡He diseñado un adaptador/reducción especial para la botella de golosinas interna!\nOriginalmente, el contenedor interno estaba destinado únicamente a snacks. Sin embargo, con este nuevo Adaptador de Conversión de Agua, ahora puedes elegir cómo usarlo:\nModo de tratamiento: mantén la botella llena con bocadillos secos para tu amigo peludo.\nModo de agua doble: utiliza el adaptador para convertir la botella interna en un depósito de agua secundario.\nEsto es perfecto para viajes más largos en los que su perro necesita más hidratación y menos bocadillos. El adaptador garantiza un flujo controlado y amplía la versatilidad de todo el conjunto sin necesidad de imprimir un modelo completamente nuevo.\nCómo utilizar: Simplemente imprima el nuevo archivo \"Bottle_Adapter\" y atorníllelo en la botella interna. Es rápido y fácil.\n\nEste modelo forma parte de un set completo para tu amigo canino. Si quieres más piezas del set, puedes encontrarlas aquí.\nBote de alijo para perros\n\nCápsula Bolsa Pata Eco\n\nmi modelo más nuevo\n\ny otros modelos…:-)\n\nSi buscas algún producto realmente práctico\n\nO si prefieres juguetes",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "viajar",
+  "mascota",
+  "cuenco de viaje para perros",
+  "bol",
+  "cuenco de senderismo",
+  "cuenco para mascotas 2 en 1",
+  "accesorios para mascotas",
+  "cuenco de agua portátil para perros",
+  "contenedor de tratamiento",
+  "senderismo con perros",
+  "hidratación del perro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US31517e0ba78c3b/design/2025-04-26_323a1ee4f906b8.jpeg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1165
+  ],
+  "previews/02.png": [
+   1000,
+   772
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1402239.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1406314.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/1409618.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1406927.jpg": [
+   360,
+   640
+  ],
+  "previews/profiles/1409605.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2358332.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

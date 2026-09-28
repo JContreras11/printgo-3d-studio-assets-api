@@ -1,0 +1,277 @@
+{
+ "files": [
+  {
+   "path": "model/single-plate-standard-edition-24cm-high-16cm-wide-1354559.3mf.xz",
+   "instance_id": "1354559",
+   "name": "Edición estándar de plato único (24 cm de alto, 16 cm de ancho)",
+   "thumbnail": "previews/profiles/1354559.jpg",
+   "print_time_h": 11.6,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1237684,
+   "sha256": "50c59c902022ba5053f462580b97174dfc775ce23b5909f582d83b2601a34fa4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "单盘标准版 （高24cm,宽16cm)",
+    "creation_date": "2025-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dual-color-mini-version-17cm-h-11cm-w-1354591.3mf.xz",
+   "instance_id": "1354591",
+   "name": "Versión mini de dos colores (17 cm de alto, 11 cm de ancho)",
+   "thumbnail": "previews/profiles/1354591.jpg",
+   "print_time_h": 7,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "A1",
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1247828,
+   "sha256": "c470ff165ecfcd9e46f4cbea937a77d8371acb46af430ca972b8276164c48f74",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "分盘双色mini版（高17cm,宽11cm)",
+    "profile_notes": "整体缩小至70%",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/dual-color-version-split-into-plates-24cm-high-16c-1354587.3mf.xz",
+   "instance_id": "1354587",
+   "name": "Versión bicolor, dividida en placas (24 cm de alto, 16 cm de ancho)",
+   "thumbnail": "previews/profiles/1354587.jpg",
+   "print_time_h": 12.2,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 25,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "P1P",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1248696,
+   "sha256": "51da0525d79a810e3c848fb824129d9786c696d5a3175452d252a5361732dd48",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "分盘双色版（高24cm,宽16cm)",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/single-plate-mini-version-17cm-high-11cm-wide-1354579.3mf.xz",
+   "instance_id": "1354579",
+   "name": "Versión mini de plato único (17 cm de alto, 11 cm de ancho)",
+   "thumbnail": "previews/profiles/1354579.jpg",
+   "print_time_h": 6.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1238756,
+   "sha256": "93988afb0f1d0122d33d8c42bbd65d0c131f5518c9004b97df4ce585e5c47e53",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "单盘mini版（高17cm,宽11cm)",
+    "profile_notes": "整体缩小至70%",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1318830",
+ "title": "Recogedor de arena para mascotas desmontable integrado/bote de basura de escritorio dos en uno (la bolsa de basura se puede colocar en el interior)",
+ "slug": "integrated-detachable-pet-litter-scoop-desktop-tra",
+ "url": "https://makerworld.com/en/models/1318830-integrated-detachable-pet-litter-scoop-desktop-tra",
+ "author": "windko2025",
+ "category": "pets",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Una solución versátil para los dueños de mascotas, esta pala para arena integrada y contenedor de basura de escritorio presenta un diseño desmontable para cambiar fácilmente entre funciones y filtros de doble tamaño para una mayor eficiencia. Un compartimento oculto en el ASA almacena bolsas de repuesto para un acceso cómodo; En posición vertical, se transforma en un contenedor de basura de escritorio, listo para su eliminación con un revestimiento. Esta maravilla multifuncional que ahorra espacio es un elemento esencial de limpieza elegante y práctico.\n\nImpulsame\nExplora más de mis diseños visitando mi perfil:",
+ "use_cases": [],
+ "tags": [
+  "basura",
+  "bote de basura",
+  "limpieza",
+  "arena para gatos",
+  "pala para arena para gatos",
+  "pala para basura",
+  "portátil",
+  "mini caja de almacenamiento de escritorio",
+  "papelera de escritorio",
+  "pequeño bote de basura",
+  "recogedor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US39d9b313e1d795/design/2025-04-14_83af581521f45.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   800,
+   600
+  ],
+  "previews/02.jpg": [
+   800,
+   600
+  ],
+  "previews/03.jpg": [
+   800,
+   600
+  ],
+  "previews/04.jpg": [
+   800,
+   600
+  ],
+  "previews/05.jpg": [
+   800,
+   600
+  ],
+  "previews/06.jpg": [
+   800,
+   600
+  ],
+  "previews/07.jpg": [
+   800,
+   600
+  ],
+  "previews/08.jpg": [
+   800,
+   600
+  ],
+  "previews/09.jpg": [
+   800,
+   600
+  ],
+  "previews/10.jpg": [
+   800,
+   600
+  ],
+  "previews/profiles/1354559.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1354591.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1354587.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1354579.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Monocromo · para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

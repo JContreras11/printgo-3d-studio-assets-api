@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3338880.3mf.xz",
+   "instance_id": "3338880",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3338880.jpg",
+   "print_time_h": 7.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2D",
+    "A2L",
+    "X2D",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": true,
+   "size": 5428240,
+   "sha256": "2a9775ecb6bf5845cdea9d09bfcfb230657e67e744fcabb9d28b1fd5871cdf3d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2976435",
+ "title": "Tazón para mascotas personalizable",
+ "slug": "customizable-pet-bowl",
+ "url": "https://makerworld.com/en/models/2976435-customizable-pet-bowl",
+ "author": "kasperzi",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Tazón para mascotas personalizable con nombre\n¡Crea un tazón de comida o agua único para tu amigo peludo! Este cuenco para mascotas personalizable te permite añadir cualquier nombre y elegir entre 3 texturas de superficie diferentes, lo que hace que cada cuenco sea verdaderamente personal.\nCaracterísticas\nPersonalizado con cualquier nombre\nListo para AMS multicolor\nPerfecto para perros y gatos\n3 opciones de textura: Lisa\nRecto Acanalado\nAcanalado diagonal\n\nImprime sin soportes\nTotalmente personalizable en MakerWorld Customizer\nGran regalo para los amantes de las mascotas.\nOpciones personalizables\nnombre de mascota\nTamaño del texto\nNombre inferior interior (opcional)\nActivar/desactivar huellas de patas\ntextura superficial\nDimensiones del cuenco\nGrosor de paredes y suelos\nColores (vista previa)\nEstilo básico\nY muchos más parámetros\nImpresión\nNo se requieren soportes\nImprimir con la abertura hacia arriba\nSe recomienda AMS para impresión multicolor\nEl PLA funciona muy bien para uso decorativo (o use PLA Pure)\nNotas\nEste modelo está destinado a uso personal y con fines decorativos. Si planea usarlo como recipiente para comida o agua, elija un filamento que sea apropiado para el uso previsto y siga las prácticas adecuadas de limpieza y seguridad alimentaria.\nSi disfrutas este modelo, considera dejar una calificación, ¡realmente ayuda!",
+ "use_cases": [],
+ "tags": [
+  "personalizable",
+  "costumbre",
+  "personalizar",
+  "personalizado",
+  "mascota",
+  "bol",
+  "cuenco para mascotas",
+  "perro",
+  "gato",
+  "cuenco para gatos",
+  "nombre",
+  "nombre personalizado"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4a0d598424498/design/e83a37e3e9554c77.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3338880.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

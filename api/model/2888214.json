@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/multi-color-ams-3226684.3mf.xz",
+   "instance_id": "3226684",
+   "name": "Multicolor (AMS)",
+   "thumbnail": "previews/profiles/3226684.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "H2C",
+    "P1S",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "X1",
+    "P1P"
+   ],
+   "default": true,
+   "size": 8876244,
+   "sha256": "89a1e75df3770a427bb6721bd30936a341b24ccb4db70456f51761a9a0eda700",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/single-color-3226691.3mf.xz",
+   "instance_id": "3226691",
+   "name": "un solo color",
+   "thumbnail": "previews/profiles/3226691.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P1S",
+    "A1",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "X2D",
+    "A2L",
+    "X1E"
+   ],
+   "default": false,
+   "size": 8870692,
+   "sha256": "ca8be6625c3d12409e6ef292e733001aa0bde60a71c308ddd7bcaaff63189d8c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2888214",
+ "title": "Golden Retriever soñoliento - Monitor Buddy",
+ "slug": "sleepy-golden-retriever-monitor-buddy",
+ "url": "https://makerworld.com/en/models/2888214-sleepy-golden-retriever-monitor-buddy",
+ "author": "MiniDesignLab",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Golden Retriever soñoliento - Monitor Buddy\n¡El perro de familia favorito de todos está listo para tomar una siesta directamente en tu pantalla! Este Sleepy Golden Retriever es el compañero de escritorio definitivo, diseñado para descansar cómodamente en el borde superior de su monitor, estante o televisor. Con sus características orejas caídas y su apacible postura de siesta, este fiel amigo aportará una sensación de calma y calidez a su espacio de trabajo o lugar de juego.\nNota: Tenga mucho cuidado al quitar los soportes, especialmente alrededor de las delicadas patas, las orejas caídas y la cola, para que su cachorro somnoliento permanezca perfectamente intacto.\nElige tu versión\nVersión AMS (multicolor)\nPara un Golden adorable y realista desde la placa de construcción:\nColores: 2 (Color de pelaje principal + Negro para los rasgos faciales).\nDetalles: Los ojos cerrados y somnolientos y la clásica nariz boopable están precoloreados para una máxima ternura.\nConsejo de estilo: ¡Imprima en dorado clásico, amarillo claro o crema para capturar el pelaje perfecto de Golden Retriever!\nVersión sin AMS (un solo color)\nUna hermosa y escultural versión de esta querida raza:\nVersátil: Luce fantástico en PLA mate para resaltar las suaves curvas del pelaje, o prueba Silk Gold para un acabado elegante y brillante.\nMinimalista: una forma elegante y sutil de agregar un toque de encanto de amante de los perros a su equipo tecnológico diario.\n¡Muéstranos tu cachorro somnoliento!\n¿Dormir en tu monitor ultraancho o mantenerte tranquilo durante las reuniones en tu monitor de trabajo? ¡Sube una foto y comparte tu acogedora configuración con la comunidad!\n\n¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "lindo",
+  "mascota",
+  "animal",
+  "perdiguero",
+  "monitor",
+  "televisor",
+  "escritorio",
+  "de oficina",
+  "compañero",
+  "amigo",
+  "cubo compañero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9a3131f35c4669/design/93ee0e045ab898f4.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   748
+  ],
+  "previews/profiles/3226684.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3226691.jpg": [
+   600,
+   449
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,815 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-3-walls-10-infill-536108.3mf.xz",
+   "instance_id": "536108",
+   "name": "Capa de 0,2 mm, 3 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/536108.jpg",
+   "print_time_h": 55,
+   "plates": 9,
+   "rating": 5,
+   "rating_count": 175,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 9307636,
+   "sha256": "cab7a3fa885e92ee68723fe0ad003a3e4187c324c5de4dc5e134dcb0ec461130",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Updated print profile that splits out the wheels and provides the option of either regular plastic wheels, or TPU wheels. To reduce stringing, the TPU wheel is setup to only print one wheel at a time.",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 38040,
+      "weight_g": 469.44,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#ADB1B2"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8856,
+      "weight_g": 115.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#ADB1B2"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 38157,
+      "weight_g": 445.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18265,
+      "weight_g": 206.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32889,
+      "weight_g": 359.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 38163,
+      "weight_g": 445.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10263,
+      "weight_g": 90.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12169,
+      "weight_g": 130.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3094,
+      "weight_g": 23.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-3-walls-10-infill-787391.3mf.xz",
+   "instance_id": "787391",
+   "name": "Capa de 0,2 mm, 3 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/787391.jpg",
+   "print_time_h": 55.9,
+   "plates": 9,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "size": 9458684,
+   "sha256": "60ba44bf0a60a6bb1c3bd5772787ab169bedf31e9df19d6881cb516ea7cf653c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Modified temperature for printing eSun ABS+. If used with default settings or eSun profile, the wheels become brittle. With this profile, it's rock solid. Wheel section took 11h38min on a X1C. Also, the adhesion on the bed is aggressive, I suggest to use glue / alcohol to remove it!",
+    "creation_date": "2025-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 37721,
+      "weight_g": 393.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#ADB1B2"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8713,
+      "weight_g": 96.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#ADB1B2"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 37806,
+      "weight_g": 373.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18172,
+      "weight_g": 172.75,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32700,
+      "weight_g": 300.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 37811,
+      "weight_g": 373.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10233,
+      "weight_g": 75.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12080,
+      "weight_g": 109.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8308,
+      "weight_g": 70.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-5-walls-15-infill-1641407.3mf.xz",
+   "instance_id": "1641407",
+   "name": "Capa de 0,2 mm, 5 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1641407.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2298172,
+   "sha256": "9456fc617bfc7661709a88682e3503440b6663f2ed568c2c69dc2b4b788fb0c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 5 walls, 15% infill",
+    "profile_notes": "for TPU 95A and TPU95A HF print the wheel 6 times, not at once to avoid stringing",
+    "creation_date": "2025-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/7h-33minutes-per-wheel-segment-original-size-and-s-1046067.3mf.xz",
+   "instance_id": "1046067",
+   "name": "7h 33minutos por segmento de rueda, tamaño y resistencia originales",
+   "thumbnail": "previews/profiles/1046067.jpg",
+   "print_time_h": 47.2,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 23,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 12103992,
+   "sha256": "b57af41eae00268bb35f81da46268d33d573282793dee26afa538ca51d64aa1d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "7h 33minutes per wheel segment, original size and strength",
+    "profile_notes": "Redid the settings for the wheel segment, uses less time and less filament while maintaining the original strength. 350g of filament per segment - fits nearly 3 segments per 1kg spool Very special sparse infill, but shaped in a way that performs the function it needs. Other profiles use gyroid, which does not work well at all 10% or less",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 27894,
+      "weight_g": 348.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10156,
+      "weight_g": 112.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 34256,
+      "weight_g": 419.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18669,
+      "weight_g": 220.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 33028,
+      "weight_g": 369.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 34291,
+      "weight_g": 419.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21549,
+      "weight_g": 198.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 7
+   }
+  },
+  {
+   "path": "model/elegoo-rapid-petg-10-infill-for-wheel-sections-556000.3mf.xz",
+   "instance_id": "556000",
+   "name": "Elegoo Rapid PETG, 10% de relleno para tramos de rueda",
+   "thumbnail": "previews/profiles/556000.jpg",
+   "print_time_h": 55.2,
+   "plates": 7,
+   "rating": 4.5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 11667348,
+   "sha256": "4df0bc137322fa8def84bccc54c9c55db9ccb9cac516717b06c5cac5939d37a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Elegoo Rapid PETG, 10% infill for wheel sections",
+    "profile_notes": "I used Elegoo Rapid PETG, see attached settings. Wheel sections printed at 10% Gyroid infill. Unfortunately I can't upload a profile with custom filament, but this does print significantly faster than standard PETG.",
+    "creation_date": "2025-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 35853,
+      "weight_g": 387.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10764,
+      "weight_g": 114.4,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 36155,
+      "weight_g": 425.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19609,
+      "weight_g": 224.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 34624,
+      "weight_g": 375.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 36194,
+      "weight_g": 425.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22369,
+      "weight_g": 201.15,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 7
+   }
+  },
+  {
+   "path": "model/petg-230g-segment-0-23mm-layer-1-walls-3-infill-2956709.3mf.xz",
+   "instance_id": "2956709",
+   "name": "Segmento PETG de 230 g (capa de 0,23 mm, 1 pared, 3 % de relleno)",
+   "thumbnail": "previews/profiles/2956709.jpg",
+   "print_time_h": 53.8,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "A1",
+    "P2S",
+    "X2D"
+   ],
+   "default": false,
+   "size": 11500904,
+   "sha256": "03fff2e37ffbb00f6bfb15771d2259e3d3615b2bad622f32b485864afd3e1e2a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "PETG 230g segment (0.23mm layer, 1 walls, 3% infill)",
+    "profile_notes": "my small optimizations for PETG, which allowed me to reduce the weight of the segment from 0.4kg to 0.2kg. I selected the printing parameters so that on the one hand it still provides structural rigidity, and on the other hand, it is as light as possible. Please note that the profile is only suitable for a 0.4mm nozzle, using a different nozzle diameter should SIGNIFICANTLY degrade the print result. P.S. On the printing of elements, in addition to segments, these parameters should also be suitable, but I had small defects with a new coil and I cannot guarantee their success 100% P.P.S. there was a printing option about 20% more durable, but at the same time it took twice as long to print and 10% more plastic, I considered it excessive, but if someone is not enough current strength, I can attach it",
+    "creation_date": "2026-04-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.23",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   }
+  },
+  {
+   "path": "model/tpu-for-ams-profile-0-2mm-layer-3-walls-10-infill-1900122.3mf.xz",
+   "instance_id": "1900122",
+   "name": "TPU para perfil AMS capa de 0,2 mm, 3 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/1900122.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2206144,
+   "sha256": "9c06fa09d2c22b26cfeaf62db1dee9f70291cc8a86fa9a1867932edb64641aad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "TPU for ams profile 0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Added a profile for printing TPU for ams. This is slowed way down for a good result, so should also work for different tpu, but only tried with Tpu for ams.",
+    "creation_date": "2025-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "612874",
+ "title": "Rueda de ejercicio para gatos",
+ "slug": "cat-exercise-wheel",
+ "url": "https://makerworld.com/en/models/612874-cat-exercise-wheel",
+ "author": "Josheh_3D",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "[Actualización]\nAnteriormente actualicé el modelo con ruedas de TPU. Juro que también actualicé el perfil de impresión, pero me ha llamado la atención que el perfil de impresión sigue siendo el antiguo. Volví a enviar el perfil de impresión con las opciones de rueda. No estoy seguro si fui yo o el sistema. Mis disculpas a todos.\n\nActualicé el perfil de impresión para incluir algunas ruedas de TPU. Separé las ruedas del hardware principal, para que puedas imprimir las ruedas normales o las ruedas de TPU, según lo que quieras. La placa con las ruedas de TPU está configurada para imprimir secuencialmente y tendrás que imprimirla dos veces para obtener un juego completo de ruedas.\n\nSe corrigieron algunas cosas con las instrucciones y requisitos de hardware. Se necesitaban 6 rodamientos indicados incorrectamente, cuando quería enumerarlos como 12. Actualicé la descripción y las instrucciones para corregir este error.\n\n[Introducción]\n¡Una rueda de ejercicio para gatos! Da vueltas y vueltas, donde se detiene, sólo lo saben los chirriantes cojinetes. La rueda mide aproximadamente 43 pulgadas de ancho.\n\nLa intención era que hubiera una tira de alfombra en el interior del ring. las guías laterales del anillo estaban destinadas a ayudar a enmarcar la alfombra. En el momento de tomar las fotos aún no tenía una tira de alfombra para este propósito, por lo que no la tenía instalada.\n\n[Información de impresión]\nNecesitarás unos 6 rollos de filamento para la rueda y 2 rollos para todo lo demás. Desde el perfil de impresión, imprimirá todos los lugares una vez, excepto el anillo, que debe imprimirse 12 veces.\n\n[Hardware y filamento]\nMi modelo aparece en los filamentos PETG-HF de Bambu. Son nuevos en este momento, así que quería utilizarlos en algunos proyectos. Sin embargo, PETG, PLA+/Pro, ABS, ASA, PETG-CF normales podrían ser buenas opciones. Me mantendría alejado de filamentos como PLA Mattes, PLA Silks y probablemente también los PLA básicos.\n\n(Divulgación completa, soy parte del Programa de Afiliados de Bambu. Todos los enlaces de la tienda Bambu son enlaces de afiliados. Gano una pequeña comisión de estos enlaces sin ningún costo adicional para usted. ¡Estos enlaces me ayudan a apoyarme para que pueda traer más contenido gratis!)\nFilamentos destacados:\nBambú PETG-HF Negro\nBambú PETG-HF Gris\nHardware:\n(Divulgación completa, soy parte del Programa de afiliados de Amazon. Todos los enlaces de Amazon son enlaces de afiliados. Gano una pequeña comisión de estos enlaces sin ningún costo adicional para usted. ¡Estos enlaces me ayudan a apoyarme para que pueda traer más contenido gratis!\n\nUtilizo tornillos de Bambu's Makersupply, diseño principalmente en torno a ellos y los recomiendo. Sin embargo, puedes comprar tornillos autorroscantes en Amazon si te resulta más fácil. Recomendaría un surtido como este de Amazon EE. UU. Para tornillos de tamaño, tengo enlaces a continuación.)\n\n86 tornillos autorroscantes BT3x12 mm (si no compra un surtido o de Bambu, algo como esto debería funcionar en Amazon EE. UU.)\n20 tornillos autorroscantes BT3x30 mm (recomiendo los tornillos autorroscantes M3 de 30 mm de Bambu, pero si desea comprarlos en Amazon y no quiere hacer un surtido, le recomiendo algo como este de Amazon EE. UU. Encontrar tornillos autorroscantes de 30 mm de longitud puede ser un poco difícil, pero estos de 20 mm también deberían funcionar. El orificio tiene una longitud para un tornillo de 30 mm, ya que atravesará toda la junta, pero es más corto las longitudes también pueden funcionar y seguir funcionando)\n12x Rodamientos 608ZZ (8x22x7) (Rodamientos para patinetas, como estos de Amazon EE. UU.)\n(opcional) Alfombra para el ring, para que corra el gato.\n(opcional) Pegamento para asegurar las juntas.\n[Asamblea]\nEnsamble la rueda primero. Cada sección utiliza 4 tacos y 5 tornillos. Recomiendo montar la rueda en dos mitades y luego unirlas. Opcionalmente, se puede usar pegamento en las juntas como medida adicional para ayudar a asegurar todo firmemente. Ensamble las 6 ruedas insertando el eje y asegurándolo en su lugar con un tornillo Ensamble la base ranurando las 5 secciones juntas, luego asegure todo con tornillos. Calculé la profundidad de los orificios para tornillos de 30 mm de largo, pero los más cortos también pueden funcionar. Por último, y lo más importante, inserte la rueda en la base.",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "rueda de gato",
+  "ejercicio",
+  "rueda",
+  "felino",
+  "animal",
+  "mascota",
+  "maullido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5029f3f34c31f1/design/2024-08-29_89fc56da6f4be.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   666
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/536108.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/787391.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1641407.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1046067.jpg": [
+   600,
+   405
+  ],
+  "previews/profiles/556000.jpg": [
+   600,
+   833
+  ],
+  "previews/profiles/2956709.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1900122.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

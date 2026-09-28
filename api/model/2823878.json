@@ -1,0 +1,436 @@
+{
+ "files": [
+  {
+   "path": "model/2mm-layer-2-walls-15-gyroid-infill-3145311.3mf.xz",
+   "instance_id": "3145311",
+   "name": "Capa de 0,2 mm, 2 paredes, 15 % de relleno Gyroid",
+   "thumbnail": "previews/profiles/3145311.jpg",
+   "print_time_h": 13.5,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P2S",
+    "A1",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 5119084,
+   "sha256": "810c0576d88f37bb6609cbd4ba2a8afc777fab1882f8ccf0290bf2fab54bf4ec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": ".2mm layer, 2 walls, 15% Gyroid infill",
+    "profile_notes": "Two nozzle printer version (X2D, H2D). Body is two-color and nose prints separately.",
+    "creation_date": "2026-05-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-gyroid-infill-no-brim-3145331.3mf.xz",
+   "instance_id": "3145331",
+   "name": "Capa de 0,2 mm, 2 paredes, 15 % de relleno Gyroid, sin ala",
+   "thumbnail": "previews/profiles/3145331.jpg",
+   "print_time_h": 9.8,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2C",
+    "H2D",
+    "P2S",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 5369492,
+   "sha256": "d039f0468575bb7e6f237c93c1dd149f2b2339a7d1c43611c4a019247e9a248d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 2 walls, 15% Gyroid infill, No Brim",
+    "profile_notes": "This is the version for 1 nozzle printers.",
+    "creation_date": "2026-05-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-gyroid-infill-no-brim-3145340.3mf.xz",
+   "instance_id": "3145340",
+   "name": "Capa de 0,2 mm, 2 paredes, 15 % de relleno Gyroid, sin ala",
+   "thumbnail": "previews/profiles/3145340.jpg",
+   "print_time_h": 15.2,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "P2S",
+    "X1E",
+    "P1S",
+    "P1P",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "size": 5061240,
+   "sha256": "8fb1ad1b89999880814ecbce27f3df2b6c6adc7fc6ca60f407b03186fc826c3a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 2 walls, 15% Gyroid infill, No Brim",
+    "profile_notes": "This is the version for printers with 3 plus nozzles like the H2C.",
+    "creation_date": "2026-05-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/flexi-cow-1-nozzle-better-fitting-nose-3170316.3mf.xz",
+   "instance_id": "3170316",
+   "name": "Boquilla Flexi Cow 1 - Nariz de mejor ajuste",
+   "thumbnail": "previews/profiles/3170316.jpg",
+   "print_time_h": 9.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "size": 5324816,
+   "sha256": "11966fd82256a4ed2e5beb66006a82deb13867330c2906e61f657f0ca4ab18bf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Flexi Cow 1 Nozzle -Better fitting nose",
+    "profile_notes": "I reduced the size of the nose peg slightly to improve the fit.",
+    "creation_date": "2026-05-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/flexi-cow-2-nozzle-better-fitting-nose-3170387.3mf.xz",
+   "instance_id": "3170387",
+   "name": "Boquilla Flexi Cow 2 - Nariz de mejor ajuste",
+   "thumbnail": "previews/profiles/3170387.jpg",
+   "print_time_h": 13.5,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 5091460,
+   "sha256": "eb251d074ee603771018af157dafeadb8c8d54b602b9474cd25cabd1aebfe1c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Flexi Cow 2 Nozzle -Better fitting nose",
+    "profile_notes": "I reduced the size of the nose peg slightly to improve the fit.",
+    "creation_date": "2026-05-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/flexi-cow-for-a1-w-ams-3170422.3mf.xz",
+   "instance_id": "3170422",
+   "name": "Vaca flexible para A1 con AMS",
+   "thumbnail": "previews/profiles/3170422.jpg",
+   "print_time_h": 18.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 5068956,
+   "sha256": "02b7b63abfae40d236f2694622b4084f799863184498cc6f80b37a03b1770a29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Flexi Cow for A1 w AMS",
+    "profile_notes": "Here's a profile for printing the 3 color version (black, white and pink) on the A1 with AMS. 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/new-4-color-version-for-multi-nozzle-or-ams-3185951.3mf.xz",
+   "instance_id": "3185951",
+   "name": "Nueva versión de 4 colores para boquillas múltiples o AMS",
+   "thumbnail": "previews/profiles/3185951.jpg",
+   "print_time_h": 19.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 5289348,
+   "sha256": "b49e3e8ab47da731e6e7d1cf3ef506641c037dc054de5f01254a5d76ee36c63b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "New 4 Color version for multi nozzle or AMS",
+    "profile_notes": "0.2mm layer, 2 walls, 15% Gyroid infill",
+    "creation_date": "2026-05-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2823878",
+ "title": "Flexi Cow: mascota de escritorio articulada",
+ "slug": "flexi-cow-articulated-desk-pet",
+ "url": "https://makerworld.com/en/models/2823878-flexi-cow-articulated-desk-pet",
+ "author": "baynimals",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "*ACTUALIZACIÓN* Acabo de agregar nuevos perfiles con una clavija nasal que se ajusta mejor: 'Boquilla Flexi Cow 1 - Nariz mejor ajustada' y 'Boquilla Flexi Cow 2 - Nariz mejor ajustada'. También agregué un A1 con perfil AMS: 'Flexi Cow for A1 w AMS', para aquellos que quieran imprimir la versión a todo color en el A1.\n\n¡La serie de granjas se está expandiendo a nuevos territorios! Basado en mi característico diseño de vaca de dibujos animados (completo con esa clásica expresión de mal humor), este es un modelo \"flexi\" totalmente articulado.\n\nEs increíblemente flexible, capaz de doblarse completamente por la mitad y presenta un peso denso y satisfactorio que lo convierte en un fantástico juguete inquieto o mascota de escritorio. Ya sea que la imprimas con un patrón clásico en blanco y negro o te vuelvas loco con colores sólidos, ¡esta vaca está lista para entrar directamente en tu colección!\nCaracterísticas clave\nSúper flexible: las articulaciones cuidadosamente diseñadas permiten una amplia gama de movimientos. Puede moverse, doblarse sobre sí mismo o simplemente esparcirse adorablemente sobre su escritorio.\nPeso satisfactorio: Diseñado con una sensación sólida y sustancial en la mano, ¡no solo una carcasa endeble!\nMúltiples perfiles de impresión: he creado archivos específicos según las capacidades de su impresora para que todos puedan disfrutar de este modelo.\nImpresión y montaje\nEsta es una impresión desafiante en A1 y A1 mini debido al rápido movimiento de la cama (las piezas intermedias más altas pueden soltarse), así que activé \"Reducir velocidad por altura\" en el perfil de impresión. También cambié el relleno a giroide y activé 'Z Hop' en la configuración del filamento. Si tienes problemas con él, es posible que tengas que ralentizarlo aún más.\n\nConfiguré todas las limas del cuerpo en \"Sin ala\" porque sería extremadamente difícil quitar un ala de todas las pequeñas piezas flexibles.\n\nAsegúrese de quitar el soporte para la oreja después de imprimir (todas las versiones) y los soportes para la cuenca de los ojos en la versión de 1 boquilla. Retire también el pequeño soporte incorporado en la lima de Nariz (versiones de 1 y 2 Boquillas).\n\nTodas las piezas encajan a presión. Simplemente agregue una pequeña gota de pegamento para que sea permanente.",
+ "use_cases": [],
+ "tags": [
+  "flexible",
+  "vaca flexible",
+  "articulado",
+  "imprimir en el lugar",
+  "ajuste a presión",
+  "a1 mini",
+  "multicolor",
+  "agitarse",
+  "juguete inquieto",
+  "mascota de escritorio",
+  "granja",
+  "juguete de granja"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-05-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6e2482e1ea8bc1/design/e107d419c20d87a4.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   666,
+   500
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   714
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/11.jpg": [
+   1000,
+   750
+  ],
+  "previews/12.jpg": [
+   1000,
+   562
+  ],
+  "previews/13.gif": [
+   1000,
+   714
+  ],
+  "previews/profiles/3145311.jpg": [
+   600,
+   428
+  ],
+  "previews/profiles/3145331.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3145340.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3170316.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3170387.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3170422.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3185951.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "para A1",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "files": [
+  {
+   "path": "model/two-color-0-12mm-layer-2-walls-15-infill-2727042.3mf.xz",
+   "instance_id": "2727042",
+   "name": "Dos colores, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/2727042.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X2D",
+    "P1P",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "size": 8396256,
+   "sha256": "31024c24f9929affef79dff028bf4cf5f91fed4b0e2501e5e24278527d6e9a12",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Two color, 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Two color 0.12mm layer 2 walls 15% gyroid infill",
+    "creation_date": "2026-02-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/keychain-single-color-0-12mm-layer-2-walls-15-infi-3001947.3mf.xz",
+   "instance_id": "3001947",
+   "name": "Llavero, un solo color, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3001947.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8440884,
+   "sha256": "9e127b4c0ceab2950599425ee26b1fe892e2fdfc4f802847526353e6ed049519",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Keychain, single color, 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Keychain version, single color 0.12mm layer 2 walls 15% infill",
+    "creation_date": "2026-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/keychain-two-color-0-12mm-layer-2-walls-15-infill-3001902.3mf.xz",
+   "instance_id": "3001902",
+   "name": "Llavero, dos colores, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3001902.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8429528,
+   "sha256": "88f2a65843d5855bb0af22c8c1b7c3b5eaf23c7f6170f229149bacc5ecbfef19",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Keychain, two color, 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Keychain version two color 0.12mm layer 2 walls 15% infill",
+    "creation_date": "2026-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/single-color-0-12mm-layer-2-walls-15-infill-2727065.3mf.xz",
+   "instance_id": "2727065",
+   "name": "Un solo color, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/2727065.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 85,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8391016,
+   "sha256": "1035f038663cc5478a23543f74a0385180ca71b56333a1167a411e09d4b35c18",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Single color, 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Single color 0.12mm layer 2 walls 15% gyroid infill",
+    "creation_date": "2026-02-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2482746",
+ "title": "Mini amigo #16 - Perro salchicha",
+ "slug": "mini-buddy-16-dachsund",
+ "url": "https://makerworld.com/en/models/2482746-mini-buddy-16-dachsund",
+ "author": "SimplySolid3D",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Actualización: se agregó una versión de llavero que funciona con un llavero de anillo dividido (consulte la lista de materiales)\nMini amigo perro salchicha\nUn pequeño y lindo Dachshund (perro salchicha, perro salchicha) para tu escritorio. Es muy pequeño (aprox. 25 mm de largo).\n\n¡Cuidado! La versión AMS de dos colores produce muchos residuos en las impresoras de un solo inyector. Puedes reducir la cantidad de desperdicio por caballo imprimiendo un ejército completo.\n\nCaracterísticas:\nmuy lindo\nVersión de un solo color: Ultraligera: Utiliza menos de 1 gramo de filamento.\nVersión de un solo color: Impresión rápida: lista en menos de 15 minutos.\nGran regalo: perfecto como un pequeño \"compañero de escritorio\" o una sorpresa divertida para amigos.\nConfiguración de impresión:\nAltura de la capa: 0,12 mm (recomendado para una apariencia más suave)\nParedes: 2\nRelleno: 15% giroide\nMaterial: PLA\nEcha un vistazo a mis otros compañeros de escritorio en esta colección:\n\nEcha un vistazo también al Mini Long Dachshund Buddy:\n\n¿Vender mis impresiones físicas? Obtenga su licencia comercial en Patreon\nApoya mi trabajo (2 €): obtén poder de voto y adelantos en Patreon\n¿Un consejo único? Patrocine 100 g ($ 2) de filamento en Ko-fi",
+ "use_cases": [],
+ "tags": [
+  "perro tejonero",
+  "perro salchicha",
+  "embutido",
+  "perro",
+  "miniatura",
+  "diminuto",
+  "lindo",
+  "animal",
+  "mascota",
+  "escritorio",
+  "compañero",
+  "juguete"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7f40e1c9e0709c/design/3a050829173effa0.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1223
+  ],
+  "previews/02.png": [
+   1000,
+   1231
+  ],
+  "previews/03.png": [
+   864,
+   1085
+  ],
+  "previews/04.png": [
+   1000,
+   1231
+  ],
+  "previews/05.png": [
+   864,
+   1074
+  ],
+  "previews/06.jpg": [
+   1000,
+   699
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2727042.jpg": [
+   600,
+   738
+  ],
+  "previews/profiles/3001947.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3001902.jpg": [
+   600,
+   419
+  ],
+  "previews/profiles/2727065.jpg": [
+   600,
+   753
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

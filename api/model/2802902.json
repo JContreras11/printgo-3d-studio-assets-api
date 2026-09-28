@@ -1,0 +1,248 @@
+{
+ "files": [
+  {
+   "path": "model/128mm-bowl-8mm-rim-3118372.3mf.xz",
+   "instance_id": "3118372",
+   "name": "Tazón de 128 mm Borde de 8 mm",
+   "thumbnail": "previews/profiles/3118372.jpg",
+   "print_time_h": 6.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "H2S",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "X1E",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1126544,
+   "sha256": "72285e082a696b2377ab9a8ddc64351b3a04fda365fb7a0161e29243b920b692",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "128mm bowl 8mm Rim",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/100mm-high-no-handle-holes-128mm-bowl-lower-fuzzy--3160354.3mf.xz",
+   "instance_id": "3160354",
+   "name": "100 mm de alto, sin orificios para manija, tazón de 128 mm, mitad inferior de piel peluda",
+   "thumbnail": "previews/profiles/3160354.jpg",
+   "print_time_h": 3.7,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4976256,
+   "sha256": "76c0042d64df00d5ff63302a3d65d77e608a52378d3468a956396307910af4bd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "100MM high No Handle Holes 128mm bowl lower fuzzy skin half",
+    "profile_notes": "fuzzy skin for lower half is still on bowl size is still 128mm but now only 100mm (10cm) tall",
+    "creation_date": "2026-05-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/162mm-bowl-8mm-rim-3160428.3mf.xz",
+   "instance_id": "3160428",
+   "name": "Tazón de 162 mm Borde de 8 mm",
+   "thumbnail": "previews/profiles/3160428.jpg",
+   "print_time_h": 10,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "A1",
+    "H2S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 6547088,
+   "sha256": "11e6727dedcb6b8d08801bad4df208a61464c30226e74cf31ee344c1dac00939",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "162mm bowl 8mm rim",
+    "profile_notes": "lower part fuzzy top half smooth",
+    "creation_date": "2026-05-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/brim-adapter-for-162mm-3550447.3mf.xz",
+   "instance_id": "3550447",
+   "name": "Adaptador de ala para 162 mm",
+   "thumbnail": "previews/profiles/3550447.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "H2S",
+    "X2D",
+    "X1E",
+    "P1P",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": false,
+   "size": 869832,
+   "sha256": "73dd17834c4d91374c23c950361574714a77e692eb6f16965948eaa1f6073c20",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Brim adapter for 162mm",
+    "profile_notes": "Created this brim for a slightly smaller than 162mm to fit the bowls we have here in Brazil 0.2mm layer, 2 walls, 8% infill printed with generic PLA print without support",
+    "creation_date": "2026-08-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2802902",
+ "title": "Elevador de cuenco para mascotas elevado ondulado",
+ "slug": "wavy-elevated-pet-bowl-riser",
+ "url": "https://makerworld.com/en/models/2802902-wavy-elevated-pet-bowl-riser",
+ "author": "UKSTL",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Para un bol de 128 mm y un borde de 8 mm como por ejemplo\n\nEste soporte eleva el recipiente a 150 mm, pero puedes utilizar la herramienta de corte para acortarlo.\n\nEste soporte, que eleva el cuenco a una altura más cómoda, mantiene un aspecto elegante y moderno que complementa cualquier hogar.\n\nPara un tamaño de tazón diferente, simplemente comenta o envíame un mensaje y lo agregaré como perfil de impresión. También puedes vender impresiones físicas de este modelo.\n\nLa mitad inferior presenta un exterior de piel difusa y un interior liso, lo que ahorra tiempo en impresión y filamento. Se incluyen pines de alineación impresos, pero recomiendo usar un poco de pegamento para asegurar las mitades.",
+ "use_cases": [],
+ "tags": [
+  "cuenco para perros",
+  "cuenco para gatos",
+  "tubo de subida",
+  "elevador de alimentos",
+  "soporte para cuenco",
+  "elevador de cuencos para perros",
+  "elevador de cuenco para gatos"
+ ],
+ "license": "BY-ND",
+ "release_date": "2026-05-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USecb3526815494f/design/e9986e97de572398.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/02.png": [
+   1000,
+   1249
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   1333
+  ],
+  "previews/05.png": [
+   1000,
+   667
+  ],
+  "previews/profiles/3118372.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/3160354.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3160428.jpg": [
+   600,
+   448
+  ],
+  "previews/profiles/3550447.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

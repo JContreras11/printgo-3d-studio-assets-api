@@ -1,0 +1,145 @@
+{
+ "files": [
+  {
+   "path": "model/cute-puppy-multicolor-3238115.3mf.xz",
+   "instance_id": "3238115",
+   "name": "Lindo cachorro - multicolor",
+   "thumbnail": "previews/profiles/3238115.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A2L",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "H2D",
+    "P1P",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 9832552,
+   "sha256": "f7a826f6000fcc1fdfdb8ce7d298f9f54ca4e99a114ec6d4e85e9a49862faaa1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "可爱小狗 - 多色",
+    "profile_notes": "打印速度快效果好。",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/cute-puppy-monochromatic-3238126.3mf.xz",
+   "instance_id": "3238126",
+   "name": "Lindo Cachorro - Monocromático",
+   "thumbnail": "previews/profiles/3238126.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "A1 mini",
+    "A1",
+    "A2L",
+    "X1E",
+    "H2D",
+    "P2S",
+    "X2D",
+    "H2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 9852924,
+   "sha256": "634dc759fc7b60894c181506fda2dd10571901364a141a1820161cbfae7fb16f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "可爱小狗 - 单色",
+    "profile_notes": "打印速度快效果好。",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2897224",
+ "title": "lindo perrito",
+ "slug": "cute-little-dog",
+ "url": "https://makerworld.com/en/models/2897224-cute-little-dog",
+ "author": "user_2436536739",
+ "category": "pets",
+ "source_category": "Hogar > Decoración",
+ "description": "Lindo cachorro, imprime rápido con buenos resultados.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "lindo",
+  "interesante",
+  "creativo",
+  "mostrar",
+  "de oficina",
+  "animales",
+  "mascota",
+  "regalo",
+  "cachorro",
+  "perro",
+  "para niños"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa979e5566fe2b/design/8c11ca499501db74.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3238115.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3238126.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

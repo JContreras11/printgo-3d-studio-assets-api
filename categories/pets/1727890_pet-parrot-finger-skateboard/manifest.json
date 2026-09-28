@@ -1,0 +1,330 @@
+{
+ "files": [
+  {
+   "path": "model/100-monochrome-version-1834918.3mf.xz",
+   "instance_id": "1834918",
+   "name": "Versión 100% monocromática",
+   "thumbnail": "previews/profiles/1834918.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "X1",
+    "P1P",
+    "A1",
+    "H2C",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 15710076,
+   "sha256": "2b21cab62c205e08dcf497c5db8ec6c6fdc14825db58c1b8ee2d3d3e8903c0d8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "100%单色版本",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/100-dual-color-version-multi-part-single-plate-pri-2328116.3mf.xz",
+   "instance_id": "2328116",
+   "name": "Versión 100 % bicolor, varias partes, impresión en una sola plancha",
+   "thumbnail": "previews/profiles/2328116.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "size": 17981136,
+   "sha256": "7c136ffbc3895829b85e7d4a595fd9fe10d6ce94de627c6593e47a8f9dab1e7b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "100%双色版本，分件一盘打印",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/150-single-color-version-suitable-for-medium-to-la-2328117.3mf.xz",
+   "instance_id": "2328117",
+   "name": "Versión 150% monocolor, adecuada para aves de tamaño mediano a grande",
+   "thumbnail": "previews/profiles/2328117.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 15622552,
+   "sha256": "5353dfc7170306277155f67400bd19c5ebe36b7a4a63213b80d08b14fd55e104",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "150%单色版，适合中大体型鸟",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/150-size-two-color-multi-plate-printing-2328119.3mf.xz",
+   "instance_id": "2328119",
+   "name": "150% tamaño, impresión multiplaca a dos colores",
+   "thumbnail": "previews/profiles/2328119.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2C",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 13961992,
+   "sha256": "aacdf99792333a8228de0ccd203d4d80f1d8fe1899ee55921e1e68caef1c8850",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "150%尺寸，双色分盘打印",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/200-dual-color-split-into-two-plates-for-printing-2328118.3mf.xz",
+   "instance_id": "2328118",
+   "name": "200% bicolor, dividido en dos planchas para impresión",
+   "thumbnail": "previews/profiles/2328118.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 15589684,
+   "sha256": "c12faee71d55f48b8242506084a86ad93ec57ed5e67e2c9902880eb800ddea98",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "200%双色，分二盘打印",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/200-single-color-skateboard-length-200mm-2328120.3mf.xz",
+   "instance_id": "2328120",
+   "name": "200% de un solo color, longitud del monopatín 200 mm",
+   "thumbnail": "previews/profiles/2328120.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2S",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 15959872,
+   "sha256": "5c9474d6f5529bcdcf2ad942f5c222eb300749fa62803e01f7a39a1ea0fbc265",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "200%单色，滑板长度200MM",
+    "profile_notes": "更大的版本200%，滑板长度200MM，适合大体型鸟",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1727890",
+ "title": "Patineta para dedos de loro mascota",
+ "slug": "pet-parrot-finger-skateboard",
+ "url": "https://makerworld.com/en/models/1727890-pet-parrot-finger-skateboard",
+ "author": "xuyinxuan",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Le hice una pequeña patineta a mi adorable loro y espero que le guste. Puedes imprimirlo para tu pájaro mascota y espero que a él también le guste.\n\nDespués de imprimir, use superpegamento para fijar la percha del pájaro a la superficie de la patineta y aplique un poco de superpegamento en la parte inferior para asegurar la estructura de la rueda, será más estable.\n\nEl 26 de febrero de 2026, hice un soporte para patineta para loros y lo instalé en el auto de mi papá, sacando a mi pajarito a disfrutar del paisaje.\nPuede colocarlo en la consola central de su automóvil, luego insertar la patineta y su pajarito también podrá disfrutar del paisaje fuera de la ventana del automóvil con usted. Date prisa y saca a jugar a tu pajarito, solo ten cuidado de atarlo bien para que no se vaya volando\nEnlace básico\nSoporte para coche Parrot Skateboard - Modelo impreso en 3D gratis - MakerWorld\nVen e imprímelo, los pajaritos están ansiosos por salir.\n\nImpúlsame ¡Gracias por tu apoyo!",
+ "use_cases": [],
+ "tags": [
+  "diapasón",
+  "patineta con la yema del dedo",
+  "parque de patinetas con dedos",
+  "monopatín",
+  "loro",
+  "patineta para mascotas",
+  "patineta de pájaro",
+  "juguete loro",
+  "juguete de pájaro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2214724a8df7ce/design/2025-08-23_8191c5de62ce6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1834918.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2328116.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2328117.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2328119.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2328118.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2328120.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

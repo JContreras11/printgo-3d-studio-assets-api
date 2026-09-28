@@ -1,0 +1,351 @@
+{
+ "files": [
+  {
+   "path": "model/separate-parts-0-12mm-layer-2-walls-10-infill-3430997.3mf.xz",
+   "instance_id": "3430997",
+   "name": "Piezas separadas, capa de 0,12 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3430997.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 39,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "A1 mini",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": true,
+   "size": 16193040,
+   "sha256": "94b13ca7889d278304442fa6287c47a25dd115353827f5812f1c379579842919",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Separate Parts, 0.12mm layer, 2 walls, 10% infill",
+    "profile_notes": "No AMS needed! Parts need to be glued in.",
+    "creation_date": "2026-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/all-parts-on-one-plate-print-by-object-a-series-on-3431145.3mf.xz",
+   "instance_id": "3431145",
+   "name": "Todas las piezas en una sola placa (Impresión por objeto: solo serie A)",
+   "thumbnail": "previews/profiles/3431145.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 16620652,
+   "sha256": "e0e2c6d41316c775c97399dd3454b952f7ba90b664d436b0793dc44a0d165243",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "All Parts on One Plate (Print by Object — A series only)",
+    "profile_notes": "Identical to the original with split parts, but everything is on a single plate for both speed and convenience . This layout is optimized for the A Series. There are separate profiles for the X/P and H series. NOTE: Unfortunately, MakerWorld handles “print by object” profiles exceptionally poorly and only shows compatibility for the printer from which a profile is saved. If the Handy app doesn’t show it as compatible for yours due to this, open the 3MF in Bambu Studio instead and it should be ready to go, or use Auto Arrange to further optimize for your exact setup. Should go without saying, but an AMS is required — unless you add pauses and manually swap filament between objects. Be sure the print sequence remains “Print by Object” or you'll unnecessarily go through a lot of filament and waste a lot of time, completely defeating the purpose of this profile. If you like this profile, please remember to rate it , boost the designer and explore their other models. If you really like this profile, feel free to check out my models as well and boost one (or more) of them if you have boosts to spare. 😊",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/all-parts-on-one-plate-print-by-object-h-series-on-3431158.3mf.xz",
+   "instance_id": "3431158",
+   "name": "Todas las piezas en una placa (Impresión por objeto: solo serie H)",
+   "thumbnail": "previews/profiles/3431158.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "size": 16604324,
+   "sha256": "0b5fe8798685476cb0b08243703c7681bccc37a252533a33db2d9f774ada05e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "All Parts on One Plate (Print by Object — H series only)",
+    "profile_notes": "Identical to the original with split parts, but everything is on a single plate for both speed and convenience . This layout is optimized for the H Series. There are separate profiles for the X/P and A series. NOTE: Unfortunately, MakerWorld handles “print by object” profiles exceptionally poorly and only shows compatibility for the printer from which a profile is saved. If the Handy app doesn’t show it as compatible for yours due to this, open the 3MF in Bambu Studio instead and it should be ready to go, or use Auto Arrange to further optimize for your exact setup. Should go without saying, but an AMS is required — unless you add pauses and manually swap filament between objects. Be sure the print sequence remains “Print by Object” or you'll unnecessarily go through a lot of filament and waste a lot of time, completely defeating the purpose of this profile. If you like this profile, please remember to rate it , boost the designer and explore their other models. If you really like this profile, feel free to check out my models as well and boost one (or more) of them if you have boosts to spare. 😊",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/all-parts-on-one-plate-print-by-object-x-p-series--3431154.3mf.xz",
+   "instance_id": "3431154",
+   "name": "Todas las piezas en una placa (Impresión por objeto: solo serie X/P)",
+   "thumbnail": "previews/profiles/3431154.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "size": 16612036,
+   "sha256": "9fbbe46c2aec0b9e0824b8ab6758fa2be8f3882c342931ede0321ae1379ce89c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "All Parts on One Plate (Print by Object — X/P series only)",
+    "profile_notes": "Identical to the original with split parts, but everything is on a single plate for both speed and convenience . This layout is optimized for the X/P Series. There are separate profiles for the A and H series. NOTE: Unfortunately, MakerWorld handles “print by object” profiles exceptionally poorly and only shows compatibility for the printer from which a profile is saved. If the Handy app doesn’t show it as compatible for yours due to this, open the 3MF in Bambu Studio instead and it should be ready to go, or use Auto Arrange to further optimize for your exact setup. Should go without saying, but an AMS is required — unless you add pauses and manually swap filament between objects. Be sure the print sequence remains “Print by Object” or you'll unnecessarily go through a lot of filament and waste a lot of time, completely defeating the purpose of this profile. If you like this profile, please remember to rate it , boost the designer and explore their other models. If you really like this profile, feel free to check out my models as well and boost one (or more) of them if you have boosts to spare. 😊",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/ams-0-16mm-layer-2-walls-10-infill-3431005.3mf.xz",
+   "instance_id": "3431005",
+   "name": "AMS, capa de 0,16 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3431005.jpg",
+   "print_time_h": 14.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "X1E",
+    "X1",
+    "X2D",
+    "A1 mini",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "H2D",
+    "P1S"
+   ],
+   "default": false,
+   "size": 15283972,
+   "sha256": "974cfd61dc4ce750906efc68fbbeb0fb74c47888d21f93f1f073e3d6be082fa3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "AMS, 0.16mm layer, 2 walls, 10% infill",
+    "profile_notes": "AMS Version",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-single-color-version-0-12mm-layer-2-walls-10--3751640.3mf.xz",
+   "instance_id": "3751640",
+   "name": "Versión mini de un solo color: capa de 0,12 mm, 2 paredes, 10 % de relleno",
+   "thumbnail": "previews/profiles/3751640.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "A2L",
+    "P1P",
+    "P1S",
+    "A1",
+    "X1",
+    "H2S",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 15282280,
+   "sha256": "d98e2b2125db74ca7d852e80975deef53246fc4f0215a2807001399fcb19f2d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Mini single color version -0.12mm layer, 2 walls, 10% infill",
+    "profile_notes": "AMS Version",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/multi-color-single-plate-printing-optimize-model-r-3554243.3mf.xz",
+   "instance_id": "3554243",
+   "name": "Impresión multicolor en una sola plancha, optimización del modelo, reducción del número de polígonos y mejora de la eficiencia",
+   "thumbnail": "previews/profiles/3554243.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "size": 8237024,
+   "sha256": "133c9edad532811f035ee8bc4dc7a3a52c2d4e63f76928c265d8da3ecdefbb5c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高效率",
+    "profile_notes": "Identical to the original with split parts, but everything is on a single plate for both speed and convenience . This layout is optimized for the X/P Series. There are separate profiles for the A and H series. NOTE: Unfortunately, MakerWorld handles “print by object” profiles exceptionally poorly and only shows compatibility for the printer from which a profile is saved. If the Handy app doesn’t show it as compatible for yours due to this, open the 3MF in Bambu Studio instead and it should be ready to go, or use Auto Arrange to further optimize for your exact setup. Should go without saying, but an AMS is required — unless you add pauses and manually swap filament between objects. Be sure the print sequence remains “Print by Object” or you'll unnecessarily go through a lot of filament and waste a lot of time, completely defeating the purpose of this profile. If you like this profile, please remember to rate it , boost the designer and explore their other models. If you really like this profile, feel free to check out my models as well and boost one (or more) of them if you have boosts to spare. 😊",
+    "creation_date": "2026-08-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3049969",
+ "title": "Perro pastor alemán de punto",
+ "slug": "knitted-german-shepherd-dog",
+ "url": "https://makerworld.com/en/models/3049969-knitted-german-shepherd-dog",
+ "author": "Smoggy3D",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Pastor alemán tejido\n\n¡No se necesita AMS! Es necesario pegar las piezas.\nNota de montaje: Inserte los auriculares internos con el lado de la placa de impresión hacia afuera.",
+ "use_cases": [],
+ "tags": [
+  "de punto",
+  "tejer",
+  "pastor alemán",
+  "pastores alemanes",
+  "pastor",
+  "perro",
+  "perros",
+  "animal",
+  "animales",
+  "mascota",
+  "lindo",
+  "no ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe30c1f6be865b/design/53cb1af0de78c45c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3430997.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3431145.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3431158.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3431154.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3431005.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/3751640.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3554243.jpg": [
+   600,
+   569
+  ]
+ },
+ "variant_hint": "Monocromo · para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

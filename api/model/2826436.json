@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/bambu-profile-0-2mm-layer-2-walls-15-infill-3648342.3mf.xz",
+   "instance_id": "3648342",
+   "name": "Perfil Bambu Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3648342.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "H2C",
+    "X1",
+    "P1S",
+    "X2D",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "A2L",
+    "A1 mini"
+   ],
+   "default": true,
+   "size": 3036492,
+   "sha256": "6252d67e444b8aa1befcdd15e83b4f47403bd6bd44e0d1cd70ff376cd38cd959",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Bambu Profile 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Re-sliced for Bambu printers to be available in handy app",
+    "creation_date": "2026-08-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-3-walls-15-infill-3190093.3mf.xz",
+   "instance_id": "3190093",
+   "name": "Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3190093.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "Anycubic Kobra Max"
+   ],
+   "default": false,
+   "size": 2677276,
+   "sha256": "0f307893e4fe01a6bea501d6fb89f413360bd16145c7bed418f91db41dae0956",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Anycubic Kobra Max",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2826436",
+ "title": "Lindo llavero de pata / llavero",
+ "slug": "cute-paw-keychain-keyring",
+ "url": "https://makerworld.com/en/models/2826436-cute-paw-keychain-keyring",
+ "author": "woowconcept3d",
+ "category": "pets",
+ "source_category": "Moda > Joyería",
+ "description": "Este diseño tiene licencia únicamente para uso personal. Licencia comercial disponible\nPara vender impresiones físicas en 3D, únete a Woow Pro en Patreon:\n\nPaquete de bienvenida de más de 30 modelos populares\nMás de 3 modelos nuevos cada mes\nAcceso temprano antes del lanzamiento público\nCódigo de descuento exclusivo del 35% para todos los productos de Etsy\nCódigo de descuento exclusivo del 15% para la Tienda Patreon (contáctanos)\nLicencia comercial incluida\n\n---\n\nAñade un toque de encanto a tus accesorios con nuestro llavero/llavero Cute Paw, una encantadora sorpresa para los amantes de los animales.\n\nEste accesorio exclusivo para los amantes de las mascotas presenta un adorable diseño de pata que captura la esencia de su amor por sus amigos peludos. La descarga digital del archivo 3D STL te permite darle vida a esta linda creación con tu impresora 3D. Ya sea que sea un entusiasta de las mascotas o esté buscando un regalo único, este llavero agrega un toque reconfortante a sus elementos esenciales diarios.\n\nDescárgalo ahora y lleva contigo una parte de tu amor por los animales: un accesorio perfecto para cualquier amante de las mascotas.",
+ "use_cases": [],
+ "tags": [
+  "llavero de pata",
+  "llavero para mascotas",
+  "pata de gato",
+  "llavero de pata de perro",
+  "llavero de gato",
+  "encanto del bolso",
+  "encanto de mascota",
+  "multicolor",
+  "llavero de perro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USde1fc6cf175abf/design/26227c1e455eeafb.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   424,
+   426
+  ],
+  "previews/02.png": [
+   438,
+   449
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3648342.jpg": [
+   600,
+   728
+  ],
+  "previews/profiles/3190093.jpg": [
+   424,
+   426
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

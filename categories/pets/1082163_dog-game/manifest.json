@@ -1,0 +1,202 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-3-walls-15-infill-1074151.3mf.xz",
+   "instance_id": "1074151",
+   "name": "Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1074151.jpg",
+   "print_time_h": 9.1,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 192,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 3516400,
+   "sha256": "d0b089a5f73d6e740cd900db95ed61cff5b71ad3514fb61e14f28b46543c845d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3745,
+      "weight_g": 19.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DE4343"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11570,
+      "weight_g": 161.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17288,
+      "weight_g": 288.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/a1-mini-83-scale-3-walls-2419696.3mf.xz",
+   "instance_id": "2419696",
+   "name": "A1 mini – escala 83% – 3 paredes",
+   "thumbnail": "previews/profiles/2419696.jpg",
+   "print_time_h": 7.4,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 34,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "P1S",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3856576,
+   "sha256": "5ea114104976beee026020df3fc00a28fd18c0d6b818fe26b59776d88ee9ae00",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "A1 mini – 83% scale – 3 walls",
+    "profile_notes": "tested by my dog :) Scaled to 83% to fit A1 mini build plate Walls: 3",
+    "creation_date": "2026-01-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "1082163",
+ "title": "juego de perros",
+ "slug": "dog-game",
+ "url": "https://makerworld.com/en/models/1082163-dog-game",
+ "author": "LUCKYCO",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "ImpúlsamePor favor envíame un impulso; apoya mi trabajo y me permite crear más objetos como este. Gracias. Juguete para perros muy divertido, lleno de croquetas.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "juguetes para gatos",
+  "croquetas",
+  "croqueta"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5d538dce92b9a0/design/2025-02-07_4b9f2bfb7f785.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.gif",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   240,
+   240
+  ],
+  "previews/02.gif": [
+   240,
+   240
+  ],
+  "previews/03.gif": [
+   240,
+   240
+  ],
+  "previews/04.png": [
+   1000,
+   944
+  ],
+  "previews/05.png": [
+   1000,
+   888
+  ],
+  "previews/06.png": [
+   1000,
+   916
+  ],
+  "previews/07.gif": [
+   240,
+   240
+  ],
+  "previews/profiles/1074151.jpg": [
+   240,
+   240
+  ],
+  "previews/profiles/2419696.jpg": [
+   426,
+   240
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

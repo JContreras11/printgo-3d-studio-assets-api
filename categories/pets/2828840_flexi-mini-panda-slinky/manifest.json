@@ -1,0 +1,155 @@
+{
+ "files": [
+  {
+   "path": "model/ams-version-1-pcs-3151599.3mf.xz",
+   "instance_id": "3151599",
+   "name": "Versión AMS 1 unidad",
+   "thumbnail": "previews/profiles/3151599.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "X1E",
+    "P1P",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 6629116,
+   "sha256": "a71973d0f545b4486664b8fc3bfa9674076dee25caf8df3112f47412f49d2b53",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/one-color-no-ams-3151675.3mf.xz",
+   "instance_id": "3151675",
+   "name": "Un color (sin AMS)",
+   "thumbnail": "previews/profiles/3151675.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "P2S",
+    "P1S",
+    "X2D",
+    "H2D Pro",
+    "H2D",
+    "P1P",
+    "A2L",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": false,
+   "size": 6636012,
+   "sha256": "b4777fce4c6828ee0f7287f0d7adc542b113adcad66206c2be552f223e815747",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2828840",
+ "title": "Mini Panda Flexible [Slinky]",
+ "slug": "flexi-mini-panda-slinky",
+ "url": "https://makerworld.com/en/models/2828840-flexi-mini-panda-slinky",
+ "author": "greeshanka",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Conoce el Flexi Mini Panda [Slinky]\nEste pequeño panda simplemente se estiró sobre su placa de construcción y decidió que relajarse es ahora su trabajo de tiempo completo. Con su pose somnolienta y plana, su cara redondeada de panda, sus suaves marcas en blanco y negro y su cuerpo juguetón y furtivo, tiene esa combinación perfecta de lindo, divertido y satisfactorio.\nEl cuerpo flexible y segmentado hace que sea realmente divertido de manejar. Recójalo y se doblará con un pequeño y suave movimiento. Bájelo y descansará boca abajo como un pequeño panda perezoso tomando un descanso.\nEl diseño es compacto, adorable y apto para escritorio. Queda genial como un pequeño objeto de colección, un lindo juguete inquieto o un pequeño obsequio sencillo para los amantes de los pandas.\n\nOpciones de impresión:\nColor único\nSencillo, limpio y rápido de imprimir. La forma todavía se ve linda y el cuerpo elegante sigue siendo la característica visual principal.\n\nBlanco y negro\nEsta es la mejor opción para el clásico look de panda. Utilice blanco para el cuerpo y la cabeza, y negro para las orejas, los parches en los ojos, las patas y las marcas.\n\nConsejo de filamento:\nPara una apariencia aún más suave, puedes usar filamento mate o un filamento con una suave variación de tono. Le da al panda una sensación acogedora y hecha a mano mientras mantiene la impresión limpia.\n\nNo imprimas solo uno. Este pequeño panda se ve aún mejor en un grupo pequeño y su cuerpo flexible hace que sea difícil dejar de jugar con él.\nUn panda pequeño, ondulante y somnoliento, listo para relajarse en su escritorio, estante o junto al teclado.\n\nEcha un vistazo a mis otros modelos.",
+ "use_cases": [],
+ "tags": [
+  "panda",
+  "mini",
+  "flexible",
+  "agitarse",
+  "agitación nerviosa",
+  "nuevo modelo",
+  "seductor",
+  "animal",
+  "lindo",
+  "oso",
+  "bambú",
+  "menear"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6f615fd982b26b/design/a0b7395e1aa22c1c.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   800,
+   450
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3151599.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3151675.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

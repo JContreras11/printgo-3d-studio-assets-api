@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3411527.3mf.xz",
+   "instance_id": "3411527",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3411527.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "X1",
+    "H2C",
+    "P2S",
+    "P1P",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X1E"
+   ],
+   "default": true,
+   "size": 1062340,
+   "sha256": "490e7089ab62e0cd9e5e88b6324b40acb7b49d510245a7aa50e9a4c4fa657f58",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3655748.3mf.xz",
+   "instance_id": "3655748",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3655748.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C"
+   ],
+   "default": false,
+   "size": 1073852,
+   "sha256": "3db304ed69b2710eb2d8487a3f6562ac2f6c5020e90fb29b26e581cacd6b5560",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Multicolor print with AMS",
+    "creation_date": "2026-08-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3034717",
+ "title": "Cuchara de comida para mascotas personalizada con estampado de patas de 1/2 taza",
+ "slug": "personalized-paw-print-1-2-cup-pet-food-scoop",
+ "url": "https://makerworld.com/en/models/3034717-personalized-paw-print-1-2-cup-pet-food-scoop",
+ "author": "user_1102760600",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Haga que la hora de comer sea un poco más personal con esta cuchara para comida para mascotas con forma de pata de 1/2 taza. Diseñado para medir croquetas, golosinas u otros alimentos secos para mascotas, combina una práctica cuchara medidora con un divertido diseño inspirado en las patas.\nEl ASA se puede personalizar con el nombre de su mascota, lo que hace que cada impresión sea única y perfecta para perros, gatos o cualquier mascota con un apetito saludable.\nLa pala presenta un diseño decorativo de huella de pata dentro de la taza, mientras que el mango largo hace que sea cómodo agarrar alimentos de bolsas, contenedores y contenedores.\nCaracterísticas\nCapacidad de 1/2 taza (dependiendo de los estándares de la taza)\nNombre de mascota personalizable en el mango.\nDivertido diseño de pala en forma de pata.\nDetalle interior con huella de pata en relieve\nCómodo mango extendido\nIdeal para croquetas, alimentos secos y golosinas.\nFácil y rápido de imprimir en 3D\nPráctico regalo personalizado para dueños de mascotas\n***Tenga en cuenta que existen diferentes estándares de copa (EE. UU., Canadá/Australia e Imperial). Por lo tanto puede haber algunas discrepancias con las tazas medidoras que tienes en tu cocina***\nMateriales de impresión recomendados\nPLA puro: ideal para una impresión sencilla, detalles nítidos y un acabado superficial limpio. Ideal para uso general de mascotas.\nPETG: recomendado para mayor resistencia, dureza y resistencia mejorada a la humedad y al manejo diario.\nPLA+ / Tough PLA: una buena opción cuando desea una impresión más fácil que el PETG con una mayor durabilidad en comparación con el PLA estándar.\nPara una pala más fuerte, especialmente alrededor de la conexión entre el mango y la copa, PETG o una formulación de PLA más resistente es una excelente opción.\n\nPara personalizarlo, simplemente cambie el nombre en el mango antes de imprimir en Bambu Studio.\nNota: El volumen real puede variar ligeramente según la calibración de la impresora, la contracción del material, la configuración de impresión y cómo se llena o nivela la comida. Para el contacto directo con alimentos, utilice materiales y prácticas de impresión apropiadas para la aplicación prevista.\n\nBoost Me¿Te encanta este diseño? ¡Dale un impulso para ayudar a respaldar accesorios para mascotas más prácticos y personalizables! Cada impulso ayuda y es muy apreciado.",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "pla puro",
+  "pla puro 17600",
+  "pata",
+  "perro",
+  "perros y gatos",
+  "perro 2026",
+  "cachorro",
+  "alimentación",
+  "accesorio de alimentación",
+  "croquetas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdcd5bc2089005d/design/bfba5d96b0e454c1.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   567
+  ],
+  "previews/profiles/3411527.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3655748.jpg": [
+   600,
+   555
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

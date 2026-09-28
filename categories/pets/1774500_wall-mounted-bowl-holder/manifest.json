@@ -1,0 +1,218 @@
+{
+ "files": [
+  {
+   "path": "model/bowl-support-without-hole-pla-layer-3-walls-25-inf-1889563.3mf.xz",
+   "instance_id": "1889563",
+   "name": "Soporte cuenco sin agujero capa PLA, 3 paredes, 25% de relleno",
+   "thumbnail": "previews/profiles/1889563.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "X1E",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1518388,
+   "sha256": "299b9183ed242666eb5156f8ef11755602bfb4ea3f811ccb6e2492261dd731a4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Bowl support without hole PLA layer, 3 walls, 25% infill",
+    "creation_date": "2025-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/bowl-support-with-hole-pla-layer-3-walls-25-infill-1889568.3mf.xz",
+   "instance_id": "1889568",
+   "name": "Soporte cuenco con capa de PLA perforada, 3 paredes, 25% de relleno",
+   "thumbnail": "previews/profiles/1889568.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 38,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1",
+    "X1E",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1502668,
+   "sha256": "5f582787ad11fd4135da386ef45565abf7846ea4e453b0a1386b028d6a52c716",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Bowl support with hole PLA layer, 3 walls, 25% infill",
+    "creation_date": "2025-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/horizontal-angle-adapter-2019262.3mf.xz",
+   "instance_id": "2019262",
+   "name": "Adaptador de ángulo horizontal",
+   "thumbnail": "previews/profiles/2019262.jpg",
+   "print_time_h": 4.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "X1",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1564980,
+   "sha256": "a2b9d9cb1045f6eab1714d6534700bed8f1decd4e9cc50b87c04fbbbc86dea95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Horizontal angle adapter",
+    "profile_notes": "Horizontal Angle Adapter This adapter repositions the original bowl holder to a horizontal angle, replacing the default 15° tilt. Designed for use with the original Wall-mounted bowl holder , it integrates seamlessly while preserving all core features. Two versions are available: with holes and without . If you've scaled the original holder, apply the same percentage to the adapter for a perfect fit. Assembly Assemble the adapter with the original holder and secure with a small amount of CA glue. Follow the original wall-mounting instructions to complete installation.",
+    "creation_date": "2025-10-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "1774500",
+ "title": "Soporte para cuencos de pared",
+ "slug": "wall-mounted-bowl-holder",
+ "url": "https://makerworld.com/en/models/1774500-wall-mounted-bowl-holder",
+ "author": "manuelbonetto.1",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Portavasos de pared (apertura frontal, inclinación ergonómica)\nSistema de pared para cubetas de acero: suelo limpio y fácil de limpiar (incluso con robot). Apertura frontal para una extracción rápida y una ligera inclinación para comer/beber más cómodamente. Altura y tamaño regulables con escala.\nImpulsame ¿Te gusta este proyecto?\nTu impulso es la mejor manera de apoyar mi trabajo.\nCon un simple clic me ayudas a seguir compartiendo plantillas útiles y optimizadas para todos\n\nUn sincero agradecimiento a cualquiera que decida apoyarme. Contenido del proyecto\n2 modelos incluidos\nCon orificios para montaje con anclajes/tornillos\nSin agujeros para montaje con adhesivo/pegamento fuerte\n2 perfiles de impresión (PLA) optimizados para filamentos Bambu\n– Un perfil para la versión con agujeros\n– Un perfil para la versión sin agujeros\nVídeo corto \"Cómo escalar\": medir y escalar en Bambu Studio para adaptar el diámetro a tu cuenco.\nBajo pedido: perfiles PETG optimizados.\n\nPor qué es útil\nLa escoba/fregona/robot de espacio cero pasa sin mover nada.\nApertura frontal para insertar/extraer el bol en un instante.\nInclinación ergonómica más comodidad para el perro/gato, menos goteos.\nAjustable compatible con tazones de acero inoxidable estándar; El escalado le permite lograr el diámetro perfecto.\nCómo ajustar el tamaño (Bambu Studio)\nImporta el modelo.\nUtilice Medir para determinar el diámetro interior del anillo de soporte.\nUtilice Scale Uniform para cambiar el tamaño hasta que el diámetro coincida con el borde de su tazón.\n(Consejo) Imprima un anillo de prueba: solo los primeros 3 a 4 mm del anillo para comprobar el ajuste.\nSe adjunta el vídeo con todos los pasos.\nRecomendaciones de impresión (PLA)\nUtilice los perfiles incluidos (optimizados para filamento Bambu): garantizan los mejores resultados en este modelo.\nSi desea configurarlo manualmente:\nCapa 0,20 mm, 3 perímetros, relleno 25% (Giroidal/Rectilíneo), arriba/abajo 4, sin soportes.\nVelocidades recomendadas (más lentas): pared exterior 60 mm/s, pared interior 100 mm/s, relleno 200 mm/s.\nDesactive la opción \"Pared única en la superficie superior\" para obtener una superficie más resistente y sin espacios.\nAdhesión: Ala ligera si es necesario.\nPETG: Perfiles optimizados disponibles bajo pedido (recomendado para ambientes húmedos o uso más \"robusto\").\n\nAsamblea\nCon agujeros (anclajes): Tornillos avellanados + anclajes de pared adecuados; no apriete demasiado.\nSin agujeros (adhesivo): Desengrasar bien la pared (IPA), aplicar presión y respetar el tiempo de curado del adhesivo.\nAltura: Aproximadamente un poco por debajo del codo de su mascota.\n\nSeguridad y notas\nDiseñado para tazones de acero inoxidable (los alimentos/agua no tocan la parte impresa).\nLa capacidad de carga depende del material, la configuración y el montaje: compruebe el sellado antes de su uso, especialmente con mascotas grandes/enérgicas.\nDescargo de responsabilidad: Para lograr la calidad esperada, recomiendo usar mis perfiles PLA incluidos (optimizados para filamento Bamboo).\nSi utiliza diferentes perfiles/materiales, no asumo ninguna responsabilidad por la mala calidad o rendimiento de la impresión.",
+ "use_cases": [],
+ "tags": [
+  "mascotas",
+  "perro",
+  "gato",
+  "alimentador",
+  "bol",
+  "muro",
+  "montado en la pared",
+  "elevado",
+  "titular",
+  "mascota",
+  "accesorios para mascotas",
+  "familiar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbacc1fbda63047/design/2025-09-08_601244072ed3c8.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.gif": [
+   359,
+   639
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1889563.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1889568.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2019262.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

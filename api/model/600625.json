@@ -1,0 +1,238 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-523030.3mf.xz",
+   "instance_id": "523030",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/523030.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 24,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "H2D",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1113428,
+   "sha256": "5e7e902057c6ec9bbcaee4618772f47e00b1ada15747183b9136da89948bb7e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "· 0.2mm layer height; · print without support; · colorized with orange, · improved strength by wall×2, infill densilty 10%(gyroid).",
+    "creation_date": "2025-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1490,
+      "weight_g": 1.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E05028"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-honeycomb-0-4mm-nozz-613568.3mf.xz",
+   "instance_id": "613568",
+   "name": "Capa de 0,2 mm, 2 paredes, 15 % de relleno alveolar, boquilla de 0,4 mm",
+   "thumbnail": "previews/profiles/613568.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 377,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "H2D",
+    "P2S",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1140124,
+   "sha256": "ce9898f33244fa805dbe9d0bb0821763f26a2fa6541f8451e7832f1110e02ea2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill honeycomb, 0,4mm nozzle",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1466,
+      "weight_g": 1.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-nozzle-0-1mm-layer-3-walls-30-infill-523350.3mf.xz",
+   "instance_id": "523350",
+   "name": "Boquilla de 0,2 mm, capa de 0,1 mm, 3 paredes, 30 % de relleno",
+   "thumbnail": "previews/profiles/523350.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "P1P",
+    "X1",
+    "H2C",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1100196,
+   "sha256": "4612f86de2e403b206e064d72e284b0ade1e35bdf6b3c2f86e106a500ce3c990",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "0.2mm nozzle, 0.1mm layer, 3 walls, 30% infill",
+    "creation_date": "2024-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.1",
+    "infill": "30%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 3438,
+      "weight_g": 1.75,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  }
+ ],
+ "id": "600625",
+ "title": "Silbato para perros",
+ "slug": "dog-whistle",
+ "url": "https://makerworld.com/en/models/600625-dog-whistle",
+ "author": "ingdm.design",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Boost MeSilbato para perros\nEste es un fantástico silbato de bolsillo para perros que se utiliza para llamar a su cachorro. También podría insertarse en un manojo de llaves.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "silbar",
+  "mascota",
+  "accesorios para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US310baf4670d341/design/2024-08-22_705b3366ba4e.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1031
+  ],
+  "previews/02.png": [
+   1000,
+   744
+  ],
+  "previews/03.png": [
+   1000,
+   1031
+  ],
+  "previews/04.png": [
+   1000,
+   771
+  ],
+  "previews/profiles/523030.jpg": [
+   450,
+   800
+  ],
+  "previews/profiles/613568.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/523350.jpg": [
+   600,
+   618
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

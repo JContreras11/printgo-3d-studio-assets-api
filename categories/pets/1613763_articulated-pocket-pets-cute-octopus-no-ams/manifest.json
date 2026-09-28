@@ -1,0 +1,293 @@
+{
+ "files": [
+  {
+   "path": "model/cute-octopus-0-2mm-layer-3-walls-15-infill-1702594.3mf.xz",
+   "instance_id": "1702594",
+   "name": "Lindo pulpo Capa de 0,2 mm, 3 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/1702594.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 95,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 7117356,
+   "sha256": "fdde603da8c3ad022025d04215f152adb800d91853e169d33e0f14d2b1edebd7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Cute Octopus 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/colored-eyes-no-ams-keychain-finger-fidget-3047115.3mf.xz",
+   "instance_id": "3047115",
+   "name": "Ojos de colores (sin AMS), llavero, Fidget para dedos",
+   "thumbnail": "previews/profiles/3047115.jpg",
+   "print_time_h": 1.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "H2D",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8814784,
+   "sha256": "462e21b20e5960abb8142ab2aadd43f2e1385e06ea03c43f38b797f5d760a44d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Colored Eyes (No AMS), Keychain, Finger Fidget",
+    "profile_notes": "0.20mm layer height No Support Needed Wall loops 3 Reduced Speed Avoid Cross Wall Enabled",
+    "creation_date": "2026-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/octopus-keychain-version-0-2mm-layer-3-walls-15-in-1702602.3mf.xz",
+   "instance_id": "1702602",
+   "name": "Octopus (versión llavero) Capa de 0,2 mm, 3 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/1702602.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 7957248,
+   "sha256": "10c8257b3eeabb5a462426cd7e4bd4669d11813efe79ff72115551820f808a50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Octopus(Keychain Version) 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/octopus-no-ams-0-2mm-layer-3-walls-15-infill-1894238.3mf.xz",
+   "instance_id": "1894238",
+   "name": "Octopus(NO AMS) Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/1894238.jpg",
+   "print_time_h": 2.6,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 113,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 15121788,
+   "sha256": "3ddcc7d581f50d43cfe87a96d384bc15dfc303cb4da18ae1e999ed2891eebd5d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Octopus(NO AMS) 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/single-color-0-2mm-layer-3-walls-15-infill-1hour-p-1709262.3mf.xz",
+   "instance_id": "1709262",
+   "name": "Un solo color, capa de 0,2 mm, 3 paredes, 15 % de relleno, 1 hora de impresión",
+   "thumbnail": "previews/profiles/1709262.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 52,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 7107640,
+   "sha256": "fa2735beb1d4f138c9ccfc4dbe1cc82590f462b357542d9c97710da2e1538942",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Single color, 0.2mm layer, 3 walls, 15% infill, 1hour print",
+    "profile_notes": "Signle colors print 0.2mm Layer 3 Walls 15% Infill",
+    "creation_date": "2025-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1613763",
+ "title": "Mascotas de bolsillo articuladas: lindo pulpo (sin AMS)",
+ "slug": "articulated-pocket-pets-cute-octopus-no-ams",
+ "url": "https://makerworld.com/en/models/1613763-articulated-pocket-pets-cute-octopus-no-ams",
+ "author": "FulcrumStudio",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Bajo las olas se despliega como una constelación viviente. Ocho brazos, cada uno de ellos una cinta de polvo de estrellas, se tejen en el azul. Las ventosas pulsan como lunas dispersas, mapeando los secretos del océano mientras se desliza. Es un poeta silencioso de las profundidades.\n\nHaz clic aquí para unirte a mi Patreon:)\n\nConfiguración de impresión\nFilamento: PLA\nAltura de la capa: 0,2 mm\nPosición de la costura: Alineada\nBucles de pared: 3\nRelleno: 15%\nPatrón de relleno escaso: Gyroid\nSoportes: No\nAla: No\nColores de filamento\nAzul: cuerpo principal\nNegro: los ojos\n\nImpulsameSi te encantan mis modelos, ¡impulsame aquí! gracias por tu apoyo!",
+ "use_cases": [],
+ "tags": [
+  "articulado",
+  "flexible",
+  "agitarse",
+  "animal",
+  "pulpo",
+  "mar",
+  "océano",
+  "sin ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US975cb5be65a1b/design/2025-07-17_c839ebd5fbc21.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   666
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/1702594.jpg": [
+   600,
+   483
+  ],
+  "previews/profiles/3047115.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1702602.jpg": [
+   600,
+   513
+  ],
+  "previews/profiles/1894238.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1709262.jpg": [
+   600,
+   369
+  ]
+ },
+ "variant_hint": "Multicolor y monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,340 @@
+{
+ "files": [
+  {
+   "path": "model/120d-x-120h-0-2mm-layer-3-walls-15-infill-3556882.3mf.xz",
+   "instance_id": "3556882",
+   "name": "120d x 120h Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3556882.jpg",
+   "print_time_h": 5.6,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P1P",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "A1"
+   ],
+   "default": true,
+   "size": 4426388,
+   "sha256": "ea1025d51cff0c82a7bd1dacda7c6c7e5fc5185138e8906b758a95d3e91d5e82",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "120d x 120h 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Nozzle: 0.4 mm Layer Height: 0.2 mm Wall Loops: 3 walls Infill: 15% (Cross Hatch) Supports: None required Brim: Optional; use if adhesion is unreliable Print orientation: Both parts upright as provided Seam position: Back or nearest the external receiver Filament: PETG, PLA, PLA MATTE",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/140d-x-140h-0-2mm-layer-3-walls-15-infill-3557840.3mf.xz",
+   "instance_id": "3557840",
+   "name": "140D X 140H Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3557840.jpg",
+   "print_time_h": 6.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2D",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 4064744,
+   "sha256": "2bf01ebe4364bd1d56cf97f226a122911abec7db9bc6ff5b69c5bf7f57d61823",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "140D X 140H 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Nozzle: 0.4 mm Layer Height: 0.2 mm Wall Loops: 3 walls Infill: 15% (Cross Hatch) Supports: None required Brim: Optional; use if adhesion is unreliable Print orientation: Both parts upright as provided Seam position: Back or nearest the external receiver Filament: PETG, PLA, PLA MATTE",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/160d-x-140h-0-2mm-layer-3-walls-15-infill-3557856.3mf.xz",
+   "instance_id": "3557856",
+   "name": "160d x 140h Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3557856.jpg",
+   "print_time_h": 7.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "P2S",
+    "P1P",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 4116812,
+   "sha256": "8af1e03267e7fab9403760f3bb9e84d75ef9384a13152c691747c90856a5f717",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "160d x 140h 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Nozzle: 0.4 mm Layer Height: 0.2 mm Wall Loops: 3 walls Infill: 15% (Cross Hatch) Supports: None required Brim: Optional; use if adhesion is unreliable Print orientation: Both parts upright as provided Seam position: Back or nearest the external receiver Filament: PETG, PLA, PLA MATTE",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/180d-x-140h-0-2mm-layer-3-walls-15-infill-3557870.3mf.xz",
+   "instance_id": "3557870",
+   "name": "180d x 140h Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3557870.jpg",
+   "print_time_h": 7.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "size": 4101624,
+   "sha256": "61cda51fc26667bf98f8cfb98688db7322a00aa9fa66bc72e49ff595eb72f7f4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "180d x 140h 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Nozzle: 0.4 mm Layer Height: 0.2 mm Wall Loops: 3 walls Infill: 15% (Cross Hatch) Supports: None required Brim: Optional; use if adhesion is unreliable Print orientation: Both parts upright as provided Seam position: Back or nearest the external receiver Filament: PETG, PLA, PLA MATTE",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/200d-x-140h-0-2mm-layer-3-walls-15-infill-3557877.3mf.xz",
+   "instance_id": "3557877",
+   "name": "200d x 140h Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3557877.jpg",
+   "print_time_h": 7.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "A1",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4114720,
+   "sha256": "5fd6dd0f9a3331b2a6dd8c0c3958b75aedb87f4b46cf169f79ce990c4556770a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "200d x 140h 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Nozzle: 0.4 mm Layer Height: 0.2 mm Wall Loops: 3 walls Infill: 15% (Cross Hatch) Supports: None required Brim: Optional; use if adhesion is unreliable Print orientation: Both parts upright as provided Seam position: Back or nearest the external receiver Filament: PETG, PLA, PLA MATTE",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "3148590",
+ "title": "Olive Arc V2 - Comedero elevado paramétrico para mascotas",
+ "slug": "olive-arc-v2-parametric-elevated-pet-feeder",
+ "url": "https://makerworld.com/en/models/3148590-olive-arc-v2-parametric-elevated-pet-feeder",
+ "author": "GridIronG33k",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Impulsame! ¡Con solo un par de clics gratis me alegrarías el día!:)Descripción general\nComedero elevado limpio y moderno diseñado para brindar comodidad y estabilidad.\nV2 de\nParamétrico: diámetro del tazón y altura del alimentador. La altura es el doble de lo ingresado: el valor ingresado para la altura es para cada pieza que se combinará/apilará para obtener el producto final.\n\nDiseño funcional comprobado: mostrado en uso en el mundo real con una carga completa del recipiente\nIdeal para mascotas y cuencos de todos los tamaños.\nEstructura ligera pero rígida para uso diario.\nCaracterísticas\nAjuste perfecto: ¡La impresión será tan buena como la medida de tu tazón!\nImpresión sin soporte: diseñada para una impresión FDM eficiente sin necesidad de soportes\nGeometría fuerte: las nervaduras estructurales curvadas proporcionan una resistencia excelente sin exceso de material\nAntideslizante: pies de goma integrados de 10 mm para mayor estabilidad en superficies lisas\nAltura apta para mascotas: Promueve una mejor postura de alimentación y comodidad.\nEstética limpia: diseño minimalista con detalles sutiles en las patas\nUsuario verificado: impreso y probado con éxito con mascotas reales (gatos y perros)\nDescripción\nEl comedero elevado Olive Arc combina forma y función en una pieza que parece más una decoración moderna que un accesorio típico para mascotas. Curvas suaves y fluidas envuelven la estructura, creando un marco liviano pero duradero que parece esculpido en lugar de impreso.\n\nDiseñado pensando en las mascotas reales, este soporte ofrece comodidad y confiabilidad. La altura elevada reduce la tensión durante la alimentación, mientras que la arquitectura abierta mantiene el diseño visualmente ligero y fácil de limpiar. Los sutiles detalles de las huellas de las patas añaden personalidad sin abrumar el aspecto minimalista. Combinado con un recipiente de acero inoxidable, el resultado es una configuración de alimentación limpia y premium que se adapta perfectamente a cualquier hogar.\n\nCada aspecto de este modelo es intencional: desde la tolerancia perfecta del recipiente hasta la geometría sin soporte, lo que hace que su impresión sea tan eficiente como satisfactoria de usar.\nGuía de montaje\nImprima el soporte del alimentador usando sus configuraciones de medición y júntelo (tolerancias estrictas, pegamento opcional)\nInserte pies de goma de 10 mm en las inserciones inferiores (ajuste a presión o pegamento ligero si es necesario)\nColoque su recipiente medido en la abertura superior.\nColóquelo sobre una superficie plana y garantice la estabilidad.\nListo para usar\nDe nota\nEl diseño acaba siendo de dos piezas pero la interfaz lo considera una. Imprime ambos y luego los ensambla mediante ajuste a presión. tenga en cuenta que la altura total será su entrada x2. Cuando abre el modelo por primera vez, Studio solo ve un objeto, pero puede dividirlo haciendo clic derecho en uno de los elementos (dividir) en objetos. Si son más grandes, es posible que también necesites crear otro plato. Luego siga mis configuraciones de impresión sugeridas o haga las suyas propias.:)\nLista de materiales (BOM)\nPies de goma de 10 mm (opcional pero recomendado)\nCuenco de acero inoxidable.\nConfiguración técnica de impresión\nPerfil recomendado (probado):\nAltura de la capa: 0,2 mm\nBucles de pared: 3 paredes\nRelleno: 15% (tramado cruzado)\nSoportes: No se requiere ninguno\nAdhesión: Ala opcional según superficie.\nImprimir estadísticas:\nMaterial (depende de su configuración): ~141 g de filamento\nTiempo (depende de su configuración): ~4 horas\nTodos los filamentos funcionan muy bien.",
+ "use_cases": [],
+ "tags": [
+  "mascotas",
+  "gatos",
+  "gato",
+  "perro",
+  "perro 2026",
+  "perros",
+  "moderno",
+  "'moderno",
+  "'hogar",
+  "decoración del hogar",
+  "casa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbf78bee498aca6/design/d9dc2db04f430233.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/11.jpg": [
+   1000,
+   750
+  ],
+  "previews/12.jpg": [
+   1000,
+   750
+  ],
+  "previews/13.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3556882.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3557840.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3557856.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3557870.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3557877.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

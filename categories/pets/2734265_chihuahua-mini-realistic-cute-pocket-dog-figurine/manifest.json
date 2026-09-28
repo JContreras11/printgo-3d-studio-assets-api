@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-3030992.3mf.xz",
+   "instance_id": "3030992",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3030992.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 32,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "P1P",
+    "H2D",
+    "H2C",
+    "P2S",
+    "A1",
+    "X1",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 5751572,
+   "sha256": "2a37a430d303b4581f442c8d39aa783cd7d0d77e9d9e766099db2b7f74776190",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2734265",
+ "title": "Figura de perro de bolsillo lindo y realista mini chihuahua",
+ "slug": "chihuahua-mini-realistic-cute-pocket-dog-figurine",
+ "url": "https://makerworld.com/en/models/2734265-chihuahua-mini-realistic-cute-pocket-dog-figurine",
+ "author": "Zazzatore",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Llévate a casa este adorable mini chihuahua realista, diseñado para impresión 3D con detalles expresivos y dimensiones compactas.\nPerfecto para tu escritorio, como regalo para los amantes de los perros o como pequeña pieza decorativa. El modelo tiene una pose elegante y un estilo dulce que lo hace único.\nIdeal para:\nAmantes de los perros y chihuahuas\nDecoración de escritorio o estantería\nRegalo original\nColección en miniatura\nPintura y personalización.\nCaracterísticas:\nFácil de imprimir\nExcelentes detalles del hocico.\nTamaño compacto\nApoyos necesarios",
+ "use_cases": [],
+ "tags": [
+  "chihuahua",
+  "perro",
+  "cachorro",
+  "mascota",
+  "cifra",
+  "animal",
+  "'lindo",
+  "'decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb956c4b3e32f34/design/0a1cca455599c58e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   480,
+   640
+  ],
+  "previews/02.jpg": [
+   480,
+   640
+  ],
+  "previews/profiles/3030992.jpg": [
+   337,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

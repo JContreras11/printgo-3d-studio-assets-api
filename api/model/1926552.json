@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-8-infill-2067701.3mf.xz",
+   "instance_id": "2067701",
+   "name": "Capa de 0,2 mm, 2 paredes, 8% de relleno",
+   "thumbnail": "previews/profiles/2067701.jpg",
+   "print_time_h": 24.3,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P2S",
+    "H2C",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "A2L",
+    "H2D",
+    "P1P",
+    "H2S",
+    "X2D"
+   ],
+   "default": true,
+   "size": 18345724,
+   "sha256": "af3b7b1f8b7e611c7463762472c47e551ef2f0cca40b5ee566f9f1d47d3ce4fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "profile_notes": "0.2 layer height 8 % gyroid infill fuzzy skin on ribs",
+    "creation_date": "2026-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "1926552",
+ "title": "cuenco para mascotas estilo japonés",
+ "slug": "japandi-style-pet-bowl",
+ "url": "https://makerworld.com/en/models/1926552-japandi-style-pet-bowl",
+ "author": "CelisD",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Diseñé estos elegantes cuencos en 3 formatos, grande, mediano y pequeño.\nEl exterior está impreso en PLA, el cuenco se compró en una tienda local (ver dimensiones)\nLadrón alimenta dimensión 10 mm x 2 mm de espesor (3 piezas)\nPuedes cambiar el nombre en la placa de etiqueta y elegir la fuente a tu gusto, ¡disfrútalo!\n\nSi cambia el color, no olvide el modificador; de lo contrario, querrá imprimir el modificador en otro color (vea la imagen a continuación)\n\nTambién puedes usar el modificador para activar la piel borrosa o no (ver imagen a continuación)\n\ndisfruta imprimiéndolos para tus mascotas, no dudes en publicar algunas fotos en los comentarios\nBoost Meconcider dándome un impulso si te gusta mi diseño",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "cuenco para perros",
+  "japonés",
+  "belleza de japon",
+  "cuenco de agua",
+  "bol",
+  "mascota",
+  "cuenco para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US80c28dcbb8d18c/design/2025-10-26_e96fbc8181a358.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1018
+  ],
+  "previews/02.jpg": [
+   1000,
+   989
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2067701.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "files": [
+  {
+   "path": "model/100-scale-standard-version-no-model-selection-requ-1303544.3mf.xz",
+   "instance_id": "1303544",
+   "name": "Versión estándar a escala 100%, no se requiere selección de modelo",
+   "thumbnail": "previews/profiles/1303544.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 382,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1792416,
+   "sha256": "27caa1bef964b23c7fb7a58c58bd2d26c494bbabb5095a4ee9ae2a2b32cd5662",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "100% 比例 正常版本 不挑机型",
+    "profile_notes": "单色一体，不需要拆分，兼容mini",
+    "creation_date": "2025-04-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6116,
+      "weight_g": 51.01,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#999D9D"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/150-scale-increase-enlarged-version-1319511.3mf.xz",
+   "instance_id": "1319511",
+   "name": "Aumento de escala del 150%, versión ampliada",
+   "thumbnail": "previews/profiles/1319511.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 148,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1664028,
+   "sha256": "b4203671059485a5018c10fc9441bd4587f76638dd5cb57a440308dd6f87b9e7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "150% 等比放大 ，加大版本",
+    "creation_date": "2025-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/faster-cleaner-less-overhangs-pla-petg-3122222.3mf.xz",
+   "instance_id": "3122222",
+   "name": "Más rápido, más limpio y con menos voladizos (PLA/PETG)",
+   "thumbnail": "previews/profiles/3122222.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 43,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X2D",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2377684,
+   "sha256": "e437234fd7e66d7d90ba0a41b373427fea254a876a6e46bca1d6c49e013a33b1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Faster, cleaner, less overhangs (PLA/PETG)",
+    "profile_notes": "Optimized print profile for PLA and PETG",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/size-10-x-28-5-cm-2662552.3mf.xz",
+   "instance_id": "2662552",
+   "name": "Tamaño: 10x28,5cm",
+   "thumbnail": "previews/profiles/2662552.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1866512,
+   "sha256": "89203316eafaa30137ad8be12145d035fe16576dea6409a556db28b61c20a48f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Size: 10 x 28,5 cm",
+    "profile_notes": "Bigger scoop and longer handle. Size: 10 x 28,5 cm",
+    "creation_date": "2026-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.3",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1275739",
+ "title": "Pala para arena para gatos (agujeros grandes, medianos y pequeños)",
+ "slug": "cat-litter-scoop-large-medium-small-holes",
+ "url": "https://makerworld.com/en/models/1275739-cat-litter-scoop-large-medium-small-holes",
+ "author": "windko2025",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Yo uso una pala para arena para gatos, que cuenta con tres orificios de diferentes tamaños (grande, mediano y pequeño) para tamizar fácilmente distintos tamaños de desechos, lo que hace que la limpieza de la arena para gatos sea sencilla. La pala tiene el tamaño adecuado, es compacta y está bellamente diseñada. El mango está diseñado para un agarre cómodo y también se puede colgar en una jaula.\n\nImpulsame\nPara ver más de mis diseños, visita mi perfil:",
+ "use_cases": [],
+ "tags": [
+  "pala para arena para gatos",
+  "pala para basura",
+  "pala",
+  "mascota",
+  "limpieza",
+  "caca",
+  "heces",
+  "a1 a1 mini",
+  "heces de gato",
+  "portátil",
+  "mini"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US505dcc81c24ca2/design/2025-04-04_d0bcffb6552a9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   800,
+   600
+  ],
+  "previews/02.jpg": [
+   800,
+   600
+  ],
+  "previews/03.jpg": [
+   800,
+   600
+  ],
+  "previews/profiles/1303544.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1319511.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3122222.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2662552.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

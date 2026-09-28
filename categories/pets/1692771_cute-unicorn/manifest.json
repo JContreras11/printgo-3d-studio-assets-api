@@ -1,0 +1,152 @@
+{
+ "files": [
+  {
+   "path": "model/ams-2-colour-1794500.3mf.xz",
+   "instance_id": "1794500",
+   "name": "AMS 2 colores",
+   "thumbnail": "previews/profiles/1794500.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 176,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 7668380,
+   "sha256": "55be6ec9ad0125d0780896a0ecab657b7b45b1523f79409797c44a72534d8956",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "AMS 2 Colour",
+    "creation_date": "2025-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.15",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/colored-version-3143289.3mf.xz",
+   "instance_id": "3143289",
+   "name": "Versión coloreada",
+   "thumbnail": "previews/profiles/3143289.jpg",
+   "print_time_h": 15.8,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "X1",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 8252136,
+   "sha256": "5e01d002b799d74400d77061772b89df8aedae4bfef69ce3a3428ac72e269e68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Colored version",
+    "creation_date": "2026-05-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1692771",
+ "title": "lindo unicornio",
+ "slug": "cute-unicorn",
+ "url": "https://makerworld.com/en/models/1692771-cute-unicorn",
+ "author": "user_935387489",
+ "category": "pets",
+ "source_category": "Arte > Esculturas",
+ "description": "Impúlsame ¡Gracias!:D",
+ "use_cases": [],
+ "tags": [
+  "lindo",
+  "unicornio",
+  "caballo",
+  "mascota",
+  "animal",
+  "cifra",
+  "juguete",
+  "lindo3d",
+  "amable",
+  "animales"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US199f6cf25f66ef/design/2025-08-12_62fc30228aa158.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1794500.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3143289.jpg": [
+   600,
+   922
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

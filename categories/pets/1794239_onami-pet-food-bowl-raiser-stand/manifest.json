@@ -1,0 +1,227 @@
+{
+ "files": [
+  {
+   "path": "model/onami-raised-pet-feeder-1912552.3mf.xz",
+   "instance_id": "1912552",
+   "name": "Comedero elevado para mascotas Onami",
+   "thumbnail": "previews/profiles/1912552.jpg",
+   "print_time_h": 6.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 162,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P2S",
+    "A2L",
+    "H2D",
+    "X1"
+   ],
+   "default": true,
+   "size": 995664,
+   "sha256": "f91b16ff6aa22fb4a68572f26570badcb965148b1c52067f3da79b58a29e4f5b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Onami Raised Pet Feeder",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-08-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-3521664.3mf.xz",
+   "instance_id": "3521664",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/3521664.jpg",
+   "print_time_h": 7.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 1210716,
+   "sha256": "def4418ebf10288bfedd8f453b7d23e2380b97ed041b40a3917d44c19f4cff39",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-08-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/onami-tolerance-ring-reducer-2-grams-only-2308439.3mf.xz",
+   "instance_id": "2308439",
+   "name": "Anillo/reductor de tolerancia ONAMI: ¡solo 2 gramos!",
+   "thumbnail": "previews/profiles/2308439.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "A2L",
+    "P2S",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "size": 889728,
+   "sha256": "967e14565a1638861225c78057462ad5b99135b9c88fd9b5510956117183e5ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "ONAMI tolerance ring/reducer - 2 grams only!",
+    "profile_notes": "If you've made a mistake in measuring hole diameter - here's a 2g solution! Simple reducer - scalable in every dimension in Bambu Studio. Remember to glue it in with c yanoacrylate glue (super glue) and you can always trim it a bit with a deburring tool to get the perfect fit.",
+    "creation_date": "2025-12-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1794239",
+ "title": "Soporte elevador para cuencos de comida para mascotas Onami",
+ "slug": "onami-pet-food-bowl-raiser-stand",
+ "url": "https://makerworld.com/en/models/1794239-onami-pet-food-bowl-raiser-stand",
+ "author": "Meyui",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Comedero elevado para mascotas Onami\n\nEsta pieza se une a la Colección Meyui ONAMI y continúa con la icónica montura inspirada en ondas de la serie. Elevado a 13 cm, ayuda a su gato o perro pequeño a comer en una postura natural y ergonómica mientras mantiene ordenada la zona del comedor.\nTamaño de tazón ajustable: se adapta a tazones de Ø80 – 125 mm, lo que ofrece flexibilidad.\nConstrucción de una sola pieza: no requiere ensamblaje, es resistente y está listo para usar.\nMarco en forma de onda: reduce el peso al tiempo que proporciona resistencia y una apariencia escultural.\nParte de la serie Onami, convierte un simple comedero en un objeto llamativo: funcional, elegante y cómodo para su mascota.\n\nPersonalización del Ø de ajuste perfecto del cuenco\nHaga clic en \"Objetos\" para abrir la lista de objetos.\nSeleccione \"Diámetro del tazón\".\nHaga clic en \"Escala (S)\" y edite la dimensión Ø. Rango de tamaño recomendado: 80–125 mm.\nNota: Este diseño es totalmente personalizable, lo que le permite ajustar el soporte para que se ajuste al tamaño exacto de su tazón. Simplemente mida el diámetro exterior (Ø) de su cuenco y luego ajuste el modelo para que coincida. Para un ajuste seguro, agregue aproximadamente +2 mm a su medida para que el borde del tazón descanse perfectamente sobre el soporte. En mi propia configuración, utilicé como ejemplo cuencos con un diámetro de Ø117 mm.\nBoost Me¡Gracias por tu apoyo!",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "comida para mascotas",
+  "accesorios para mascotas",
+  "alimentador",
+  "mascotas",
+  "gato",
+  "perro",
+  "bol",
+  "pararse",
+  "cuenco para gatos",
+  "comedero para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf29fd0a78a56e8/design/2025-10-01_11095ea628998.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.png": [
+   1000,
+   750
+  ],
+  "previews/09.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1912552.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3521664.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2308439.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

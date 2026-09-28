@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/nametag-max-1782259.3mf.xz",
+   "instance_id": "1782259",
+   "name": "Etiqueta de nombre \"Max\"",
+   "thumbnail": "previews/profiles/1782259.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 75,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "A1 mini",
+    "A1",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 984740,
+   "sha256": "55f1687e3afb89257f5c60c29a251bd6e7b39b5089bf6a42358efc4c84ea3a22",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Nametag \"Max\"",
+    "creation_date": "2025-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1678278",
+ "title": "Etiqueta de perro",
+ "slug": "dog-tag",
+ "url": "https://makerworld.com/en/models/1678278-dog-tag",
+ "author": "DJMLUC",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Este modelo 3D presenta una placa de identificación moderna y robusta que se puede etiquetar de forma personalizada con un nombre o número de teléfono.\nForma: Medalla redonda con lazo para colgar.\nDiseño: símbolo de hueso grabado en la parte delantera\nFijación: Ojal integrado para llavero o mosquetón\nUso: Perfecto para collares de perros o mochilas.",
+ "use_cases": [],
+ "tags": [
+  "etiqueta de nombre",
+  "perros",
+  "perro",
+  "nombre",
+  "mascota",
+  "animales"
+ ],
+ "license": "BY",
+ "release_date": "2025-08-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001678278/design/2025-08-07_0e1341874a396.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1500
+  ],
+  "previews/02.png": [
+   1000,
+   1500
+  ],
+  "previews/profiles/1782259.jpg": [
+   600,
+   575
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "files": [
+  {
+   "path": "model/256mm-version-1662829.3mf.xz",
+   "instance_id": "1662829",
+   "name": "versión de 256 mm",
+   "thumbnail": "previews/profiles/1662829.jpg",
+   "print_time_h": 13.9,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 95,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 10666192,
+   "sha256": "24deb17399f9b1818e584b70ac3a6521fcdbb892b49276e2008a00f6426a39f9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "256mm版",
+    "creation_date": "2025-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "photos": 8
+   }
+  },
+  {
+   "path": "model/h2d-1662830.3mf.xz",
+   "instance_id": "1662830",
+   "name": "H2D",
+   "thumbnail": "previews/profiles/1662830.jpg",
+   "print_time_h": 20.2,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 10342008,
+   "sha256": "0a0508745eac82e3af85c8b116a84b67870222f27b389157a1cd6f8d4ba0c945",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "H2D",
+    "creation_date": "2025-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/print-quality-increased-sorted-all-my-actuall-colo-3492265.3mf.xz",
+   "instance_id": "3492265",
+   "name": "Calidad de impresión aumentada. Ordené todos los colores reales utilizados.",
+   "thumbnail": "previews/profiles/3492265.jpg",
+   "print_time_h": 15.2,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "P2S",
+    "H2C",
+    "X1E",
+    "H2D",
+    "H2S",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "A2L",
+    "A1"
+   ],
+   "default": false,
+   "size": 11055428,
+   "sha256": "09b36e912cc6a1476c805b322ee869c72281f0d6091e154ba3387c3a9a366a05",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "print quality increased, Sorted all my actuall colors used",
+    "profile_notes": "As colors where missing from the original one, and lots of requests in the comments, i have put in all the colors i used. Will also list them here, all bambu filament: Pla Pure - Milky Pink Pla Basic - Jade White Pla Matte - Charcoal. Pla Basic black should be very similar Pla Basic - Bright Green Pla Matte - Lilac Purple",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "photos": 8
+   }
+  }
+ ],
+ "id": "1580117",
+ "title": "Soporte para cuenco para mascotas de Bob Esponja y Patricio",
+ "slug": "spongebob-and-patrick-pet-bowl-holder",
+ "url": "https://makerworld.com/en/models/1580117-spongebob-and-patrick-pet-bowl-holder",
+ "author": "Ikedasoul",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Para cuencos de unos 11 cm.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "bob esponja",
+  "gato"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001580117/design/2025-07-06_04e9892be26f5.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   652
+  ],
+  "previews/03.jpg": [
+   1000,
+   1446
+  ],
+  "previews/profiles/1662829.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1662830.jpg": [
+   600,
+   391
+  ],
+  "previews/profiles/3492265.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

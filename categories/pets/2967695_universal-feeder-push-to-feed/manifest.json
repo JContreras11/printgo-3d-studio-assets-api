@@ -1,0 +1,226 @@
+{
+ "files": [
+  {
+   "path": "model/medium-for-256mm-plates-a1-p-x-series-3327712.3mf.xz",
+   "instance_id": "3327712",
+   "name": "Mediano - PARA PLACAS DE 256 MM - Series A1, P y X",
+   "thumbnail": "previews/profiles/3327712.jpg",
+   "print_time_h": 27.5,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2S",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2C",
+    "X1"
+   ],
+   "default": true,
+   "size": 1123000,
+   "sha256": "5efd3cd1418108cd8015ed6c932135737620aae2c36ef22c802835171e0cbe0e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Medium - FOR 256MM PLATES - A1, P & X Series",
+    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/all-materials-printed-on-a-single-plate-fast-and-e-3497843.3mf.xz",
+   "instance_id": "3497843",
+   "name": "Todos los materiales impresos en una sola plancha, rápido y eficaz",
+   "thumbnail": "previews/profiles/3497843.jpg",
+   "print_time_h": 7.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "A2L",
+    "H2C",
+    "P2S",
+    "X2D"
+   ],
+   "default": false,
+   "size": 1051160,
+   "sha256": "a2a5cf30296fe2611a547f21fa16aeced90c350aa4d06910c7f836b89d664d5c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "一盘打印所有材料，快速高效",
+    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/large-for-300mm-plates-a2l-h-series-3327799.3mf.xz",
+   "instance_id": "3327799",
+   "name": "Grande - PARA PLACAS DE 300 MM - A2L, Serie H",
+   "thumbnail": "previews/profiles/3327799.jpg",
+   "print_time_h": 43.1,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1125728,
+   "sha256": "7b2f50c4d87392e60ef2e3bcbd38f7756e25414fbee154ba146d25d3f3f3828e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Large - FOR 300MM PLATES - A2L, H-Series",
+    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/small-for-185mm-plates-a1-mini-3327826.3mf.xz",
+   "instance_id": "3327826",
+   "name": "Pequeño - PARA PLACAS DE 185MM - A1 mini",
+   "thumbnail": "previews/profiles/3327826.jpg",
+   "print_time_h": 12.4,
+   "plates": 5,
+   "rating": 4.7,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X2D",
+    "X1E",
+    "A1",
+    "X1",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 1109900,
+   "sha256": "e83590d5c69dfe2f9efbc0f0f35ef7f53463f49cfd4d33230ac55a4a3d63d183",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Small - FOR 185MM PLATES - A1 Mini",
+    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  }
+ ],
+ "id": "2967695",
+ "title": "Alimentador universal: empujar para alimentar",
+ "slug": "universal-feeder-push-to-feed",
+ "url": "https://makerworld.com/en/models/2967695-universal-feeder-push-to-feed",
+ "author": "3DRCGRAPIX",
+ "category": "pets",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Alimentador universal: empujar para alimentar\nBreve descripción\nUn alimentador manual sencillo y fiable para alimentos secos.\nSimplemente presione el botón de la pata superior varias veces para dispensar la comida directamente en el recipiente de abajo.\nSin pilas, sin aparatos electrónicos, sin complicaciones.\nDiseñado con un recipiente extraíble para facilitar la limpieza y el uso diario.\n\nNOTA\n- No olvides explorar el filamento de calidad alimentaria [PLA Pure]\n*Para obtener información detallada sobre la seguridad de los filamentos, haga clic aquí.\n\nCaracterísticas\nMecanismo de empuje para alimentar\nCuenco extraíble\nVarios tamaños disponibles\nIdeal para fideos, cereales, comida para mascotas y otros alimentos secos.\nIdeal para perros (grande 300 %, mediano 256 %)\nIdeal para gatos (mediano 256 %, pequeño 170 %)\n¿Lo necesitas aún más pequeño? Simplemente reduzca la versión pequeña para pájaros, ratones u otras mascotas pequeñas.\nNo se requieren baterías\nFácil de limpiar\nFácil de imprimir\nGran capacidad de almacenamiento\nFácil de personalizar con TEXTO, colores y SVGS\n\nCómo funciona\n1 Llene el comedero con comida seca\n2 Coloca un recipiente debajo\n3 Presione el botón superior varias veces (¡no lo presione para reducir la velocidad!)\n4 La comida se dispensa en el recipiente situado debajo.\n\nImpresión\nSe recomienda PLA puro (seguro para los alimentos)\nCompatible con PETG\nSoportes requeridos\nTPU para las bobinas requeridas\nApto para principiantes\nFácil montaje\n\nNotas\nElija el tamaño del alimentador según el material que se dispensa\nLas versiones más grandes proporcionan un contenedor más grande y una abertura de salida más grande.\nDiseñado solo para materiales secos.\nNo destinado a alimentos húmedos.\nEl elevador inferior se puede ampliar o reducir para adaptarse mejor a diferentes tamaños de tazones.\nFunciona mejor con materiales de flujo libre, como alimentos para mascotas, cereales, pasta, arroz, frijoles y productos secos similares.\n\nSi te gusta\nPor favor deja un me gusta\nAgrégalo a tu colección\nComparte tu marca\n¡Me encantaría ver tu alimentador en acción!",
+ "use_cases": [],
+ "tags": [
+  "alimentador",
+  "alimento",
+  "comida seca",
+  "comederos para mascotas",
+  "comedero para mascotas",
+  "mascota",
+  "alimentador de alimentos",
+  "empujar",
+  "cocina",
+  "fideos",
+  "trigo",
+  "kellogs"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7a68e99931a6b4/design/179e9b5f918b4839.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.gif"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   226,
+   445
+  ],
+  "previews/02.gif": [
+   270,
+   480
+  ],
+  "previews/profiles/3327712.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3497843.jpg": [
+   600,
+   655
+  ],
+  "previews/profiles/3327799.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3327826.jpg": [
+   600,
+   1066
+  ]
+ },
+ "variant_hint": "Monocromo · para A1 y A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

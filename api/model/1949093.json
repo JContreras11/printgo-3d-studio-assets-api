@@ -1,0 +1,302 @@
+{
+ "files": [
+  {
+   "path": "model/food-dispenser-20-cm-2094144.3mf.xz",
+   "instance_id": "2094144",
+   "name": "Dispensador de Alimentos 20 cm",
+   "thumbnail": "previews/profiles/2094144.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 143,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1125924,
+   "sha256": "868534189cdb65927d3db5b042eeddf0287e8152ceb082ff9126b8c24a501f4e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Food Dispenser 20 cm",
+    "creation_date": "2025-11-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/food-dispenser-17-cm-a1-mini-2094330.3mf.xz",
+   "instance_id": "2094330",
+   "name": "Dispensador de Alimentos 17 cm - A1 mini",
+   "thumbnail": "previews/profiles/2094330.jpg",
+   "print_time_h": 4.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "H2S",
+    "A1",
+    "H2D",
+    "P2S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1128360,
+   "sha256": "5736c71e72aa181d44f7409d4ccc94aa09b201f60b38960e0774e72533561da8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Food Dispenser 17 cm - A1 Mini",
+    "profile_notes": "Para ser impresso na A1 Mini",
+    "creation_date": "2025-11-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/lid-cover-2415604.3mf.xz",
+   "instance_id": "2415604",
+   "name": "Tapa - Cubierta",
+   "thumbnail": "previews/profiles/2415604.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 42,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "A1",
+    "P1P",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "P2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1137560,
+   "sha256": "73f76454a3e61ff6170548e6c092afaa49fcbf69d4177a3b83289eff73041f6f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Lid - Cover",
+    "profile_notes": "Se for de sua preferência, pode também imprimir esta tampa para o seu Porta Saches.",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/sachet-squeezer-2246959.3mf.xz",
+   "instance_id": "2246959",
+   "name": "Exprimidor de bolsitas",
+   "thumbnail": "previews/profiles/2246959.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1112508,
+   "sha256": "94a24b5c661c29d6c2ba4a2616af1eb7e5e10c434da4f8805c89d381ce4ddceb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Sachet Squeezer",
+    "profile_notes": "Impressão simples e rápida para espremedor de sachês. Importante para retirar todo o conteúdo do sachê de maneira rápida e limpa.",
+    "creation_date": "2025-12-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/spoon-two-models-2249182.3mf.xz",
+   "instance_id": "2249182",
+   "name": "Cuchara dos modelos",
+   "thumbnail": "previews/profiles/2249182.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1406964,
+   "sha256": "47bd8e6b5b5d22469e397c9efdd9744d96fa8f37b234802a6a3f0b7e1d886b73",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Spoon two models",
+    "profile_notes": "Para vc não ter que usar as colheres da sua casa e deixar uma dedicada para o seu pet.",
+    "creation_date": "2025-12-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1949093",
+ "title": "Dispensador Bolsita Comida Gato Perro",
+ "slug": "dispenser-sachet-food-cat-dog",
+ "url": "https://makerworld.com/en/models/1949093-dispenser-sachet-food-cat-dog",
+ "author": "marciotesta",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Más rápido\nDispensador de bolsas de comida húmeda para perros y gatos. Fácil y rápido de imprimir. Soportes mínimos ahorrando tiempo y material",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "perro",
+  "comida para gato",
+  "comida para gatos",
+  "dispensador de comida para gatos",
+  "comida para perros",
+  "dispensador de comida para perros",
+  "dispensador de comida",
+  "dispensador de comida para mascotas",
+  "estrujar",
+  "exprimidor de bolsitas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US92706218bb9990/design/2025-11-01_5464f43f989a98.jpeg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   426,
+   240
+  ],
+  "previews/02.jpg": [
+   900,
+   1600
+  ],
+  "previews/03.jpg": [
+   900,
+   1600
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/2094144.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2094330.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2415604.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2246959.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2249182.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

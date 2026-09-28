@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-10-infill-1291467.3mf.xz",
+   "instance_id": "1291467",
+   "name": "Capa de 0,16 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/1291467.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 196,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 6224416,
+   "sha256": "660332bcacdabc1caf5ba05ff15439bb19b6c26b34bad4a3d009cf1f74e963f2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5473,
+      "weight_g": 15.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1265770",
+ "title": "Tapa de pasta de dientes Poopin Doberman",
+ "slug": "poopin-doberman-toothpaste-cap",
+ "url": "https://makerworld.com/en/models/1265770-poopin-doberman-toothpaste-cap",
+ "author": "StevieWander",
+ "category": "pets",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "¡GRACIAS POR TODO EL APOYO RECIENTE!\n¡LOS IMPULSORES SON MUY APRECIADOS Y SIGUEN PARA OBTENER MÁS DISEÑOS DIVERTIDOS!\n\n¡Libera el aliento más fresco con este atrevido dispensador de pasta de dientes Doberman!\nModelado en media sentadilla, este perro bombea pasta desde su trasero, convirtiendo una rutina mundana en un buen momento para mover la cola.\nCompatible con cámaras estándar, es la combinación definitiva de forma, función y un poco de travesura canina.\n¡Disfrutar!",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "pasta dentífrica",
+  "tapa",
+  "caballero",
+  "cachorro",
+  "cachorros",
+  "gato",
+  "divertido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb56ac56a049fb/design/2025-03-30_96e826854cff6.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1291467.jpg": [
+   260,
+   462
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

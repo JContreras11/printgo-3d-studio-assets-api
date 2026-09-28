@@ -1,0 +1,253 @@
+{
+ "files": [
+  {
+   "path": "model/standard-configuration-3285052.3mf.xz",
+   "instance_id": "3285052",
+   "name": "Configuración estándar",
+   "thumbnail": "previews/profiles/3285052.jpg",
+   "print_time_h": 10.2,
+   "plates": 9,
+   "rating": 4.6,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2S",
+    "P1S",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 10615456,
+   "sha256": "76315afdd0dc03d2c4e0c2936922ee0e61e2df6c808246b3d7ddf2438b72f9eb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "标准配置",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   }
+  },
+  {
+   "path": "model/central-gear-with-longer-shaft-3355248.3mf.xz",
+   "instance_id": "3355248",
+   "name": "Engranaje central con eje más largo",
+   "thumbnail": "previews/profiles/3355248.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2S",
+    "P1S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 3309272,
+   "sha256": "876dd61246d60486b0e843bcdc582acc973db6beff35db137a442557ea967052",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Central gear with longer shaft",
+    "profile_notes": "Center gear with a longer shaft, allowing the magnetic coupler to get closer. Available in three variants: +1 mm, +2 mm, and +3 mm.",
+    "creation_date": "2026-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/looser-gears-3351929.3mf.xz",
+   "instance_id": "3351929",
+   "name": "Engranajes más flojos",
+   "thumbnail": "previews/profiles/3351929.jpg",
+   "print_time_h": 1.3,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2S",
+    "P1S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 5000800,
+   "sha256": "9b82c6d510fbc0f207577536ae3515206aad09eb23b51f3983720bfe7247005e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Looser Gears",
+    "profile_notes": "Looser gears for those who encounter tolerance issue. Plate 4(x=-0.25) is the loosest.",
+    "creation_date": "2026-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/mega-version-3424696.3mf.xz",
+   "instance_id": "3424696",
+   "name": "Mega versión",
+   "thumbnail": "previews/profiles/3424696.jpg",
+   "print_time_h": 12.9,
+   "plates": 8,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "A1",
+    "H2D",
+    "H2C",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "size": 8627488,
+   "sha256": "4a7a94b4e3845667fe5542c48ad2533def04844a55ab483ebcc4c26bd4224820",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Mega Version",
+    "profile_notes": "Extra-large version, but the shower head height remains the same.",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   }
+  }
+ ],
+ "id": "2934071",
+ "title": "Budgie Shower Spa - Mini fuente de baño para pájaros",
+ "slug": "budgie-shower-spa-mini-bird-bath-fountain",
+ "url": "https://makerworld.com/en/models/2934071-budgie-shower-spa-mini-bird-bath-fountain",
+ "author": "TeraE",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Boost Me¡Gracias por inspirarme a crear más modelos excelentes! Si te gusta mi diseño, no dudes en hacer clic en el botón \"Comprar ahora\" (si está disponible) en esta página para apoyarme. Es posible que gane una pequeña comisión, lo que me ayuda a seguir creando más modelos. ¡Gracias y diviértete!\nIntroducción\nUn dispositivo de ducha circulante para pájaros, diseñado para periquitos o pájaros de tamaño similar.\n\nProyectos similares suelen utilizar bombas de agua terminadas alimentadas por cable, que deben colocarse cerca de una fuente de energía, y el tendido de cables es inconveniente cuando se utilizan en una jaula para pájaros. La mayoría tampoco proporciona soluciones de montaje.\n\nEl objetivo principal de este proyecto es una experiencia de usuario más flexible y cómoda, libre de restricciones de cables, permitiendo colocarlo dentro o fuera de la jaula, o montarlo.\nLo más destacado\nFlexible de usar. Se puede colocar en cualquier lugar o colgar dentro o fuera de la jaula.\nMódulo de alimentación de liberación rápida. El módulo de potencia y la bomba centrífuga están acoplados magnéticamente, lo que resuelve los problemas de sellado y al mismo tiempo permite retirar el módulo de potencia en cualquier momento, lo que hace que cargar o limpiar el depósito de agua sea más conveniente.\nCubierta de visualización transparente. Utilizado para montaje externo, se puede desmontar y montar fácilmente.\nPlataforma de filtración de agua. Proporciona un punto de apoyo para los loros, mientras filtra partículas grandes de impurezas, lo que reduce la probabilidad de obstruir la bomba de agua y la ducha.\nCabezal de ducha de liberación rápida. Inicialmente disponible en dos variantes: recta y circular.\nDuración suficiente de la batería. Probado para durar de 3 a 4 horas, suficiente para uso diario.\nActualizar\n2026/07/13\n¡Debido a las solicitudes de algunas personas, se lanzó la versión Mega!\nComo solo tengo una impresora A1 mini, no puedo imprimirla. Déjame saber si encuentras algún problema o tienes algún comentario. Sin embargo, imprimí un cabezal de ducha de gran tamaño y quedó bastante bien.\n\nConsejos\nEs posible que las aves no siempre estén dispuestas a bañarse, así que no se impaciente si no interactúan inmediatamente después de colocar la ducha.\nLos periquitos están más dispuestos a limpiarse en ambientes cálidos y soleados. Lo contrario ocurre en climas fríos y sombríos.\nCuando la ducha no esté en uso, se puede dejar en su lugar. Dales algo de tiempo a las aves para que se familiaricen con este pequeño dispositivo, bajarán la guardia y será más probable que se bañen más tarde.\nPrecauciones\nRuido: La impresión de anillos de engranaje con materiales flexibles puede reducir significativamente el ruido, pero aún existe. Mis periquitos no se asustaron después de acostumbrarse al uso real.\nLubricación: Si la precisión de la impresora y el estado del filamento son buenos, no es necesario lubricar los engranajes. Si se necesita lubricación, se recomienda utilizar aceite lubricante de baja viscosidad en lugar de grasa, ya que esta última reducirá significativamente la velocidad de salida y afectará el rendimiento de la bomba.\nFilamento: El cuerpo principal puede estar hecho de PLA/PETG. Si el depósito de agua tiene fugas, se debe principalmente a una extrusión insuficiente y a espacios excesivos entre las líneas impresas. Intente aumentar el caudal.\nLa parte del anillo de engranaje utiliza material flexible. Probado con TPU 95A o TPU 90A, la diferencia de rendimiento entre los dos es pequeña, pero ambos son significativamente mejores que PLA/PETG. Debe secarse completamente antes de imprimir o imprimirse mientras se seca.\n\nImanes: Disponga los imanes como se muestra en la figura, con los imanes adyacentes con polaridades opuestas.\n\nUtilice la impresión en pausa para incrustar; Se ha agregado un código G de pausa a la placa 1, así que reanude la impresión después de colocar los imanes.\nEl uso de imanes con diferentes potencias afectará el efecto de acoplamiento magnético. Una fuerza magnética demasiado fuerte creará una mayor resistencia a la rotación del impulsor, lo que provocará un flujo de agua debilitado; una fuerza magnética demasiado débil provocará un deslizamiento de desacoplamiento. Esto se puede ajustar aumentando o disminuyendo el espacio. Si su imán no es lo suficientemente fuerte, puede probar con un engranaje central con un eje más largo; Es posible que tengas que realizar algunas pruebas para encontrar la mejor versión.\n\nAlmacenamiento: Coloque el módulo de alimentación en un lugar donde no sea fácil de tocar accidentalmente. El módulo de potencia se puede adsorber en algunos productos de hierro; una fuerte fuerza de adsorción puede impedir la rotación del eje del motor. Si presiona accidentalmente el Switch, la corriente podría generar calor continuamente y dañar el motor.\nCarga: Utilice una entrada de 5 V-1 A. No se recomienda la carga desatendida.\nRiesgo de fuga: La cubierta transparente está destinada a ayudar a reducir las posibilidades de fuga, pero no puede garantizar una seguridad total. Simplemente me doy cuenta de que los periquitos aún pueden pasar por los huecos o encontrar otras formas de escapar. Supervise siempre a su pájaro y utilice este producto bajo su propia responsabilidad.\nAIGC\nPara un efecto visual más limpio, la imagen de portada fue modificada por IA; Todas las demás fotos son tomas reales originales.\nlista de materiales\nNombreNúmeroNotasMini fuente de baño para pájaros para periquitos - ZH1701 Lámina de PVC transparente de 0,3-0,5 mm1>290x230 mm. Si no necesitas la funda, sáltate esto.Guía de montaje\nHerramientas necesarias",
+ "use_cases": [],
+ "tags": [
+  "perico",
+  "pájaro",
+  "periquito",
+  "pájaro mascota",
+  "baño de pájaros",
+  "accesorio de pájaro",
+  "acoplamiento magnético",
+  "accesorio para jaula de pájaros",
+  "bomba de agua",
+  "impresión funcional",
+  "bricolaje"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-06-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe72aa67323a586/design/eb89206787d6d711.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3285052.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3355248.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3351929.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3424696.jpg": [
+   600,
+   465
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

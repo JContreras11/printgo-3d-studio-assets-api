@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3665441.3mf.xz",
+   "instance_id": "3665441",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3665441.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": true,
+   "size": 2084528,
+   "sha256": "dd180aa0e985ee9d351552ad82acdec8a37b5de693d71504dd65769c32e200b0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Velocidad Capa Inicial 20 mm/s Ancho Línea Capa Inicial 0,4 mm Alisado en Capas Superiores",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "3235688",
+ "title": "Etiqueta de medalla personalizada con nombre de mascota para perro",
+ "slug": "custom-dog-pet-name-medal-tag",
+ "url": "https://makerworld.com/en/models/3235688-custom-dog-pet-name-medal-tag",
+ "author": "sandy.saravia",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Dale a tu amigo peludo el accesorio más dulce y elegante!\n\nEsta adorable pequeña etiqueta con forma de hueso es perfecta para personalizar con su nombre para que luzcan increíbles todos los días.\n\nColor personalizable: el nombre del borde base y la pequeña huella de la pata pueden estar en tonos completamente diferentes para crear combinaciones divertidas únicas.\nDetalle del anillo: Tienes la opción de agregar 1 mm al anillo para que su sección superior coincida con el color del borde. Si prefiere no habilitar esto, el anillo será del mismo color que la base de la etiqueta.\nNúmero de teléfono en el reverso (opcional): puede agregar un número de contacto en la parte posterior de la etiqueta para mayor seguridad para su mascota en funda de que se pierda. Si no desea incluirlo, esta opción se puede desactivar.\nPaw Print (Opcional): Un detalle decorativo que hace que la etiqueta sea aún más adorable. Puedes desactivar esta opción si no la deseas. También hay un pequeño corazón incluido dentro de la huella de la pata que puedes apagar si no lo necesitas.\nBrilla en la oscuridad (recomendado): Puedes agregar un toque mágico imprimiendo con filamento luminoso para que la etiqueta brille en la oscuridad (ver última foto), perfecta para paseos nocturnos o para encontrarla fácilmente en la oscuridad en casa.\n¡Imprime este diseño y crea un accesorio tan increíble como tu amigo peludo!\n\nSi te gustó el diseño déjame un me gusta y cuéntame en los comentarios qué te pareció! No dudes en subir una foto para ver cómo quedó el tuyo.\n\nArenoso",
+ "use_cases": [],
+ "tags": [
+  "etiqueta",
+  "mascota",
+  "perro",
+  "nombre",
+  "personalizado",
+  "medalla",
+  "mascotas",
+  "admite mascotas",
+  "amante de las mascotas"
+ ],
+ "license": "BY-ND",
+ "release_date": "2026-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb492415e96f93a/design/b066a058bfbdf091.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   999
+  ],
+  "previews/profiles/3665441.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

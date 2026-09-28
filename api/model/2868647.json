@@ -1,0 +1,114 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3202315.3mf.xz",
+   "instance_id": "3202315",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3202315.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1 mini",
+    "A1",
+    "H2D",
+    "X2D",
+    "X1",
+    "X1E",
+    "A2L",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "P1S",
+    "H2S",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 2345640,
+   "sha256": "0e35487dd9a9cc54453b5946567c5c7c64d82b01e0014ab75606478b72482f18",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Improved Phone Number Visibility Better Visibility of subtitles",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2868647",
+ "title": "Etiqueta para mascota totalmente personalizada con número de teléfono",
+ "slug": "fully-custom-pet-tag-with-phone-number",
+ "url": "https://makerworld.com/en/models/2868647-fully-custom-pet-tag-with-phone-number",
+ "author": "Aleks3Dlab",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Ahora también disponible en una versión con número de teléfono personalizable para mayor seguridad y tranquilidad.\nAgrega el nombre y el número de teléfono de tu mascota y elige tus colores favoritos para crear una etiqueta única y práctica para el uso diario.\n¡Feliz impresión y gracias por descargar!\n\nActualizaciones:\n7 de junio de 2026: se ha subido el nuevo código QR Switch y el nuevo perfil de impresión.\nUna nueva característica de seguridad: un código QR opcional generado automáticamente en la parte posterior de la etiqueta.\nCualquiera que encuentre a su mascota puede simplemente escanear la parte posterior de la etiqueta con su teléfono, lo que le sugerirá instantáneamente llamar a su número.\nCómo personalizar\nPara personalizar su etiqueta, abra MakerWorld en un navegador web en su computadora portátil o tableta:\nHaga clic en el botón \"Personalizar\" en el lado derecho de la página\nIngrese el nombre de su mascota en el campo de nombre de mascota\nIngrese su número de teléfono en teléfono\nAjuste el tamaño general de la etiqueta usando el parámetro de tamaño\nCambie el espaciado del borde con márgenes si es necesario\nModifique el grosor de la etiqueta usando el grosor\nAjustar la altura del texto con textThickness\nUn código QR opcional Switch con tu número de teléfono\n\nUna vez que todo tenga el aspecto que deseas, simplemente descarga e imprime tu etiqueta personalizada.\n¡Me encantaría saber cómo funciona para ti!",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "etiqueta",
+  "etiqueta - ams",
+  "etiqueta2026",
+  "gato",
+  "etiqueta de gato",
+  "etiqueta de mascota",
+  "personalizable",
+  "costumbre"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd14a7847edf2a5/design/4f520e2c202837f5.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3202315.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-930259.3mf.xz",
+   "instance_id": "930259",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/930259.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 260,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A1 mini",
+    "A1",
+    "A2L",
+    "X1E"
+   ],
+   "default": true,
+   "size": 1006288,
+   "sha256": "6e91e63bfc63866233c1430aa369707bdc4b0c7b29c487f251cb89b959924986",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5380,
+      "weight_g": 36.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFACF9"
+       },
+       {
+        "type": "PLA",
+        "color": "#AF7958"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/1-cup-version-2712184.3mf.xz",
+   "instance_id": "2712184",
+   "name": "Versión 1 TAZA",
+   "thumbnail": "previews/profiles/2712184.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 67,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "H2S",
+    "P1S"
+   ],
+   "default": false,
+   "size": 1051444,
+   "sha256": "68e1429a5d5d86ba12d1211f51021693ae85a2c9f96389fdb340bd523f183bd9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "1-CUP version",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/2-3-cup-improved-strength-purging-0-22mm-3-wall-8--1211544.3mf.xz",
+   "instance_id": "1211544",
+   "name": "⅔ taza, fuerza mejorada y purga. 0,22 mm, 3 paredes, 8 % de trampilla",
+   "thumbnail": "previews/profiles/1211544.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 89,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2S",
+    "P1S",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2C",
+    "X1"
+   ],
+   "default": false,
+   "size": 1167888,
+   "sha256": "4a4684d352248c1841ad83d9e8d53fdfe9bfc81211b0705357a43f888e86012b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "⅔ cup, improved strength & purging. 0.22mm, 3 wall, 8% hatch",
+    "profile_notes": "Scaled the model up to fit ⅔ cup of food, and changed some settings to improve strength and prevent color bleeding: Increased wall count to 3 Crosshatch infill instead of line Switched to surface coloring instead of all the way through Restored line widths to default values Added purge tower",
+    "creation_date": "2025-03-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.22",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5695,
+      "weight_g": 48.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFACF9"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  }
+ ],
+ "id": "960432",
+ "title": "Cuchara para comida para mascotas - Diseño de patas",
+ "slug": "pet-food-scoop-paw-design",
+ "url": "https://makerworld.com/en/models/960432-pet-food-scoop-paw-design",
+ "author": "KienDesigns",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Boost MeBoosting me ayuda a diseñar más modelos como este. ¡Gracias por el apoyo!:)Cuchara de comida para mascotas - Diseño de patas\nAquí tienes una adición divertida y funcional a tu cuchara de comida para mascotas. Perfecta para medir y servir la comida de su mascota, esta pala combina practicidad con un diseño divertido que encantará a los dueños de mascotas.\n\nMedida: 1 DL\n\nSimple y eficiente, asegurando una fácil impresión.\nFácil de imprimir\nMaterial eficiente\nNo se necesitan soportes ni ala\nNo cambie de color en la cortadora. Cambie de color después de presionar Print Plate en la aplicación AMS o Handy. Como la capa 5 se cambia manualmente de color al color base, para garantizar que la huella de la pata sea fuerte y no se traspase.\n\nA juego - Cuenco de comida para mascotas con diseño de pata\n¡Vea nuestros otros productos relacionados con gatos!\nDispensador de golosinas para gatos\n\nJuguete interactivo para gatos\n\nSoporte para gafas - Gato",
+ "use_cases": [],
+ "tags": [
+  "cucharada de comida para mascotas",
+  "cucharada de comida",
+  "cuchara",
+  "mascota",
+  "pata de gato",
+  "pata",
+  "perro",
+  "bolitas",
+  "1dl",
+  "comida para gatos",
+  "comida para perros",
+  "comida para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9cd81ad6756a47/design/2025-01-06_0dbe371d37d77.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   1000,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/930259.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2712184.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1211544.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-2748841.3mf.xz",
+   "instance_id": "2748841",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/2748841.jpg",
+   "print_time_h": 8.2,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1962664,
+   "sha256": "e7dd31191afdf6f61ebf9f4f5e29fe36b3a8b69f1115014a3fd43e24b0227d33",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Recommended Print Settings: Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body!",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2749015.3mf.xz",
+   "instance_id": "2749015",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2749015.jpg",
+   "print_time_h": 4.9,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "A1 mini",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1"
+   ],
+   "default": false,
+   "size": 2028916,
+   "sha256": "4ebef977a9a2ba615a5aca4feaadd8fbf6bcc48d977973262c8d53d591277800",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body!",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-2764868.3mf.xz",
+   "instance_id": "2764868",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/2764868.jpg",
+   "print_time_h": 7.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "X2D",
+    "X1",
+    "X1E",
+    "A2L",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "H2S"
+   ],
+   "default": false,
+   "size": 1973400,
+   "sha256": "949576997f2ab457dd165ac6a7dab15ba67642a97938fa2acfa4ec9db0861585",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body!",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-5-infill-2764879.3mf.xz",
+   "instance_id": "2764879",
+   "name": "Capa de 0,2 mm, 2 paredes, 5% de relleno",
+   "thumbnail": "previews/profiles/2764879.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "X1E",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2S",
+    "X1"
+   ],
+   "default": false,
+   "size": 2027064,
+   "sha256": "94a98304a75731bc2863e51d6ec26f980200a2b229e6f0716d950052dedc1527",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body!",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/15-diameter-0-2mm-layer-2-walls-15-infill-3390724.3mf.xz",
+   "instance_id": "3390724",
+   "name": "15 capas de 0,2 mm de diámetro, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3390724.jpg",
+   "print_time_h": 8.7,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S"
+   ],
+   "default": false,
+   "size": 2048752,
+   "sha256": "4ebc76ab6b445e3e733deb3674dbf3cec0e632f6369175676693f704c1cb14ab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "15 diameter 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body! diameter 15cm",
+    "creation_date": "2026-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/17-diameter-0-2mm-layer-2-walls-15-infill-3390743.3mf.xz",
+   "instance_id": "3390743",
+   "name": "17 capas de 0,2 mm de diámetro, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3390743.jpg",
+   "print_time_h": 11.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "P2S",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 2055908,
+   "sha256": "62347b56ba5db3514c99156c46a61fa4c3da90a3e73b03d4434527c93d36d0ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "17 diameter 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body! diameter 15cm",
+    "creation_date": "2026-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/21-cm-diameter-0-2mm-layer-2-walls-15-infill-3390754.3mf.xz",
+   "instance_id": "3390754",
+   "name": "21 cm de diámetro, capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3390754.jpg",
+   "print_time_h": 16.2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2055612,
+   "sha256": "1994c2c163d5d0e0094573e2aa0ffbbdbf4eab438cefdd37d5469948ada2b9bd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "21 cm diameter 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layer Height: 0.20mm or 0.24mm. Walls: 3 to 4 perimeters for extra durability. Infill: 15% (Gyroid recommended). Material: PETG is recommended for its water resistance and durability, though PLA works great for dry food setups. Supports: Supports required for the main body! diameter 15cm",
+    "creation_date": "2026-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "2500581",
+ "title": "Soporte elevado personalizado para cuencos para mascotas",
+ "slug": "personalized-elevated-pet-bowl-stand",
+ "url": "https://makerworld.com/en/models/2500581-personalized-elevated-pet-bowl-stand",
+ "author": "nmcn81",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Soporte elevado personalizado para cuencos para mascotas: nombre totalmente editable\nOfrezca a su mascota una experiencia gastronómica más cómoda y ergonómica con este soporte elevado para cuencos. Diseñado para elevar el recipiente de agua o comida a una altura más saludable, reduce la tensión en el cuello y mejora la digestión de tus amigos peludos.\nCaracterísticas clave:\nNombre totalmente editable: Puedes cambiar fácilmente el nombre \"FAÍSCA\" por el nombre de tu mascota directamente en Bambu Studio usando la \"Herramienta de texto\".\nVersiones AMS y no AMS incluidas: * Versión AMS: preconfigurada para impresión multicolor para que el nombre se destaque con un color diferente. Color único (no AMS): optimizado para una apariencia limpia y en relieve usando un solo filamento.\n\nErgonómico y moderno: un diseño elegante y circular con asas laterales que encaja perfectamente en cualquier hogar.\nRobusto y estable: Cuenta con una base ancha para evitar que se vuelque o se deslice durante la hora de comer.\nConfiguración de impresión recomendada:\nAltura de la capa: 0,20 mm o 0,24 mm.\nParedes: 3 a 4 perímetros para mayor durabilidad.\nRelleno: 15% (se recomienda Gyroid).\nMaterial: Se recomienda PETG por su resistencia al agua y durabilidad, aunque el PLA funciona muy bien para configuraciones de alimentos secos.\nSoportes: ¡Soportes necesarios para el cuerpo principal!\nHow to Customize:\nAbra el archivo.3mf en Bambu Studio.\nSeleccione el objeto \"Texto\" en la parte frontal del soporte.\nHaz clic derecho y elige \"Editar texto\" para escribir el nombre de tu mascota.\n¡Corta e imprime!\nDimensiones en el PDF adjunto\n\nInstrucciones para editar el nombre:\n\nPreparado para estos modelos de comederos/agua:\n\nLicencia comercial disponible en mi Patreon: 3DaMedida",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "alimento",
+  "titular de la comida",
+  "cuenco para mascotas",
+  "comedero para gatos",
+  "cuenco elevado",
+  "personalizado",
+  "bambuestudio",
+  "ams"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-03-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd61beef6d19343/design/8c17bbccd112add5.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   2222
+  ],
+  "previews/02.jpg": [
+   460,
+   1024
+  ],
+  "previews/profiles/2748841.jpg": [
+   460,
+   345
+  ],
+  "previews/profiles/2749015.jpg": [
+   600,
+   1333
+  ],
+  "previews/profiles/2764868.jpg": [
+   391,
+   869
+  ],
+  "previews/profiles/2764879.jpg": [
+   391,
+   869
+  ],
+  "previews/profiles/3390724.jpg": [
+   460,
+   345
+  ],
+  "previews/profiles/3390743.jpg": [
+   460,
+   345
+  ],
+  "previews/profiles/3390754.jpg": [
+   460,
+   345
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

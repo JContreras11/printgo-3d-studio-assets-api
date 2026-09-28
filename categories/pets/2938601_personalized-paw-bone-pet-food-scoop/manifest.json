@@ -1,0 +1,212 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-6-walls-25-infill-3290776.3mf.xz",
+   "instance_id": "3290776",
+   "name": "Capa de 0,2 mm, 6 paredes, 25% de relleno",
+   "thumbnail": "previews/profiles/3290776.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 110,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "A2L",
+    "X1E",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "A1",
+    "H2C"
+   ],
+   "default": true,
+   "size": 3039836,
+   "sha256": "579d4abc46479263e5c1d4597f0e95a21d0a9c562acc6faf72738cff1aa1446d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/100-size-a1-mini-profile-3749293.3mf.xz",
+   "instance_id": "3749293",
+   "name": "100% Tamaño Perfil A1 mini",
+   "thumbnail": "previews/profiles/3749293.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "A2L",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "H2S",
+    "P2S"
+   ],
+   "default": false,
+   "size": 2219996,
+   "sha256": "19b8b534c3c32e77fd1d67ce1c4c7724a5f9371fd2613abcb62148f06d57af80",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "100% Size A1 Mini Profile",
+    "profile_notes": "100% Size A1 Mini Profile My print profile is set ready to print :) A RATING OF MY PRINT PROFILE WOULD BE MUCH APPRECIATED :)",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2938601",
+ "title": "Cuchara personalizada para comida para mascotas con patas y huesos",
+ "slug": "personalized-paw-bone-pet-food-scoop",
+ "url": "https://makerworld.com/en/models/2938601-personalized-paw-bone-pet-food-scoop",
+ "author": "3dcrafthub",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Cuchara de comida para mascotas personalizada Paw-fect - ¡Listo para AMS!\n\n¡Mejora la hora de comer de tu mascota con esta exclusiva pala para comida para patas y huesos! Este modelo está diseñado específicamente para la comunidad de impresión multicolor, lo que le permite crear una apariencia de alta gama sin necesidad de pintar.\n\n[V2] Cuchara de comida personalizada para mascotas - Nombre personalizado de la mascota\n\nLindo gatito personalizado gato Scoop -AMS listo!\n\nYouTube:\n\nNota: Lleno hasta el borde, tiene capacidad para aproximadamente 0,9 tazas (217,5 ml). Si toma una cucharada ligeramente redondeada, funciona perfectamente como una cucharada completa de 1 taza. ¡Espero que esto ayude con la alimentación de tu mascota!\n\n1. Ajusta tu talla\n2.Descargue su archivo (seleccione su impresora y tipo de archivo)\n3.Adujust El color de todas las partes separadas.\n4.Agregue el nombre de su mascota y listo para imprimir.\n\nCaracterísticas clave:\n\nPersonalización sencilla: simplemente use la herramienta 'Texto' en Bambu Studio para agregar el nombre de su mascota al mango.\nSin soporte: Diseñado para imprimir de manera confiable sin la necesidad de estructuras de soporte desordenadas.\nConstrucción duradera: junta reforzada del mango a la pala para soportar croquetas pesadas.\n\nConfiguración de impresión recomendada:\n\nMaterial: Se recomienda PETG para artículos que entran en contacto con alimentos (asegúrese de que su filamento sea apto para alimentos), ya que es más duradero y más fácil de limpiar que el PLA.\nAltura de la capa: 0,2 mm.\nRelleno: 20% (para mayor resistencia).\nParedes: 3-4 perímetros para asegurar su estanqueidad y resistencia.\n\n¡Sube una foto de tu 'Marca' y cuéntanos el nombre de tu mascota! Si te encanta el modelo, ¡un 'Boost' me ayuda a seguir creando!",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "personalizable",
+  "imprimir",
+  "cuchara",
+  "pata",
+  "alimento",
+  "gato",
+  "perro",
+  "frío",
+  "multicolor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US772a359f14f47/design/012e4c7f3c8aa17e.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   353,
+   470
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   951,
+   713
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   668,
+   501
+  ],
+  "previews/06.jpg": [
+   938,
+   704
+  ],
+  "previews/07.jpg": [
+   497,
+   497
+  ],
+  "previews/08.jpg": [
+   501,
+   501
+  ],
+  "previews/09.jpg": [
+   979,
+   734
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/11.jpg": [
+   367,
+   489
+  ],
+  "previews/12.jpg": [
+   768,
+   1376
+  ],
+  "previews/13.jpg": [
+   1000,
+   1000
+  ],
+  "previews/14.jpg": [
+   503,
+   503
+  ],
+  "previews/15.jpg": [
+   949,
+   711
+  ],
+  "previews/16.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3290776.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3749293.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

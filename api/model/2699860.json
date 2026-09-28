@@ -1,0 +1,151 @@
+{
+ "files": [
+  {
+   "path": "model/0-24mm-layer-2-walls-8-infill-2992845.3mf.xz",
+   "instance_id": "2992845",
+   "name": "Capa de 0,24 mm, 2 paredes, 8% de relleno",
+   "thumbnail": "previews/profiles/2992845.jpg",
+   "print_time_h": 9.4,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "X2D",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "X1E",
+    "X1",
+    "A1",
+    "A2L",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 7068348,
+   "sha256": "e955f5781bcfa59e1fa90a23e0e0c70101951812b45eaf26451a41e12572db67",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.24mm layer, 2 walls, 8% infill",
+    "profile_notes": "Considerazioni: non avendo grandi necessità di qualità, ho impostato un'altezza layer 0.24 non dovendo resistere a urti e flessioni, penso che un 8% di riempimento sia più che sufficiente",
+    "creation_date": "2026-04-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/threaded-lock-3707565.3mf.xz",
+   "instance_id": "3707565",
+   "name": "Cerradura roscada",
+   "thumbnail": "previews/profiles/3707565.jpg",
+   "print_time_h": 1.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "X2D",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "P2S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 1482332,
+   "sha256": "05b0c3c6f6acb9eecae6f37c89b1aa76b6e2b182ce73445821836c4ef949c851",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Trava Rosqueável",
+    "profile_notes": "🔒 Trava Rosqueável – Descrição Trava rosqueável prática e resistente, desenvolvida para manter peças e componentes firmemente presos, evitando abertura ou movimentação indesejada. ✅ Sistema de fechamento por rosca ✅ Fácil de montar e desmontar ✅ Encaixe firme e seguro ✅ Produzida em PLA ✅ Leve, resistente e durável ✅ Ideal para projetos, peças personalizadas e impressões 3D Produto desenvolvido para facilitar a montagem e garantir um fechamento seguro e prático.",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "2699860",
+ "title": "LICK'N CHILL - juguete antiestrés para perros",
+ "slug": "lick-n-chill-anti-stress-toy-for-dogs",
+ "url": "https://makerworld.com/en/models/2699860-lick-n-chill-anti-stress-toy-for-dogs",
+ "author": "user_472499098",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Aquí está: LICK'N CHILL\nTransforma los momentos aburridos en una experiencia relajante y estimulante para tu perro. Este innovador juguete para lamer está diseñado para mantener ocupado a su amigo de cuatro patas por más tiempo, lo que ayuda a reducir el estrés y la ansiedad de forma natural.\nBasta esparcir un poco de yogur (u otros snacks blandos) en la esfera central: la textura especial de la rejilla permite que los alimentos se adhieran mejor, favoreciendo un lamido lento y prolongado. Este comportamiento favorece la liberación de endorfinas, ayudando a calmar al perro y mejorar su bienestar general.\nIdeal para momentos de soledad, durante el aseo o en situaciones que puedan provocar agitación, este juguete combina diversión y relajación en un solo producto.\nEstimula la mente y mantiene al perro ocupado.\nAyuda a reducir el estrés, la ansiedad y el aburrimiento.\nPromueve lamer lento y relajante.\nEsfera central con textura de rejilla para mejor adherencia del yogur.\nFácil de limpiar, duradero y seguro\nUn pequeño gesto diario para un perro más tranquilo y feliz\n\nN.B: para evitar residuos de plástico, se recomienda utilizar BAMBULAB PLA PURE",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "relajarse",
+  "juego",
+  "estrés"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd00b99b9096c4/design/0c520a53092e9465.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   318,
+   566
+  ],
+  "previews/02.gif": [
+   400,
+   711
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.png": [
+   1000,
+   815
+  ],
+  "previews/profiles/2992845.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3707565.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

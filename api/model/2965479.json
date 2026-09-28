@@ -1,0 +1,326 @@
+{
+ "files": [
+  {
+   "path": "model/water-dispenser-200mm-best-optimized-and-waterproo-3324885.3mf.xz",
+   "instance_id": "3324885",
+   "name": "Dispensador de agua: 200 mm (mejor optimizado y resistente al agua)",
+   "thumbnail": "previews/profiles/3324885.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 59,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S"
+   ],
+   "default": true,
+   "size": 3594628,
+   "sha256": "db65979ce6311fa77cbd325444485c3af6df5cc672dccfd1c553aabb65fb8d48",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-24mm-layer-5-walls-25-infill-3623710.3mf.xz",
+   "instance_id": "3623710",
+   "name": "Capa de 0,24 mm, 5 paredes, 25 % de relleno",
+   "thumbnail": "previews/profiles/3623710.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1"
+   ],
+   "default": false,
+   "size": 3678404,
+   "sha256": "ce2392c7ff6308ae41c3d0fe882c5cb9b595e199a659f574948c753cb2742b3b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/better-wall-generation-settings-for-speed-infill-c-3352461.3mf.xz",
+   "instance_id": "3352461",
+   "name": "Mejor generación de muros Configuraciones para cambios de relleno rápidos",
+   "thumbnail": "previews/profiles/3352461.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "H2D Pro",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "P1P",
+    "X1",
+    "P1S",
+    "X1E",
+    "A1",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "size": 3646036,
+   "sha256": "0689cc8673b4ecdf2b7b36d424ecbf9566a6d3cb665157a37cf0ba52331250d5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab H2D Pro",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/drinking-pool-3809246.3mf.xz",
+   "instance_id": "3809246",
+   "name": "piscina para beber",
+   "thumbnail": "previews/profiles/3809246.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1",
+    "X1 Carbon",
+    "H2C",
+    "A1",
+    "X2D",
+    "H2S",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3874628,
+   "sha256": "fea9760139e93399614dc49696dbe407771f3ac2286489c06b61d00410ac17a4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Piscina abbeveratoio",
+    "profile_notes": "Disegno e profilo di stampa modoficati, alzati i bordi periferici per prevenire la fuoriuscuta di liquido e riducendo il rischio di bagnare o danneggiare le superfici circostanti.",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/good-bottle-fit-3623715.3mf.xz",
+   "instance_id": "3623715",
+   "name": "Buen ajuste de la botella",
+   "thumbnail": "previews/profiles/3623715.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "X1",
+    "P1S",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "size": 3589108,
+   "sha256": "7281898106a08073bff4dec5b3f0849cb4a68d9892b48a880ffa19062c1190e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/profile-optimized-for-pla-petg-with-improved-stren-3615725.3mf.xz",
+   "instance_id": "3615725",
+   "name": "perfil optimizado para PLA / PETG con resistencia mejorada",
+   "thumbnail": "previews/profiles/3615725.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "size": 3647748,
+   "sha256": "5d1c67e348dfd99ce270a31274c90752dabba35ed8fce9581ca533db6d77b1c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "profilo ottimizzato per PLA / PETG con migliore resistenza",
+    "profile_notes": "attenzione! nell'immagine del profilo di stampa il modello è stato stampato al 49% delle dimensioni originali ( il file del modello nel profilo di stampa è a dimensioni originali) per testare la resistenza e l'impermeabilità. comunque l'immagine del profilo anche se scalata dimostra perfettamente la stampabilità del modello.",
+    "creation_date": "2026-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2965479",
+ "title": "Dispensador automático de agua para mascotas: apto para botella estándar",
+ "slug": "automatic-pet-water-dispenser-fit-standard-bottle",
+ "url": "https://makerworld.com/en/models/2965479-automatic-pet-water-dispenser-fit-standard-bottle",
+ "author": "Boleq98",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Boost Me¿Modelo útil? Dame un impulso gratis:)\nNOTA: descargue el perfil de impresión creado por el diseñador. Los perfiles de impresión agregados por el usuario sugieren una impresión mejor y más rápida, pero después de verificar que su resistencia al agua es peor.\n\nMantén a tus mascotas hidratadas todo el día con este práctico dispensador de agua automático impreso en 3D. Simplemente enrosque una botella de PET estándar (Pepsi, Cola, botellas de agua y otras botellas compatibles con la misma rosca), llénela con agua y el dispensador mantendrá automáticamente el nivel de agua en el recipiente mientras su mascota bebe.\nCon un cuenco grande de 200 mm de diámetro, su gato, perro, conejo u otra mascota pequeña siempre tendrá fácil acceso al agua dulce. El diseño de perfil bajo es estable, fácil de limpiar y perfecto para el uso diario.\nEspecialmente útil durante los calurosos días de verano cuando las mascotas necesitan acceso constante al agua mientras estás fuera de casa.\nCaracterísticas\nSistema de recarga automática del nivel de agua.\nCompatible con botellas de agua y refrescos estándar.\nGran diámetro del recipiente de 200 mm.\nDiseño de perfil bajo: solo 30 mm de altura\nFácil de imprimir y montar\nNo se requieren soportes\nPerfecto para gatos, perros pequeños, conejos y otras mascotas.\nIdeal para climas cálidos e hidratación diaria.\nDimensiones\nDiámetro: 200 mm\nAltura: 30 mm\nConfiguración de impresión recomendada\nPara obtener la mejor resistencia, durabilidad y rendimiento hermético, utilice las siguientes configuraciones:\nBucles/perímetros de pared: 5x\nAltura de la capa: 0,24 mm\nPatrón de relleno: giroide\nDensidad de relleno: 25%\nAncho de línea de relleno: 1,0 mm\nSoportes: No requerido\nEstas configuraciones proporcionan una rigidez excelente al mismo tiempo que mantienen el tiempo de impresión razonable y el uso eficiente del material.\nImprimir notas\nEl modelo ha sido diseñado específicamente para la impresión sin soporte. La amplia base proporciona una buena estabilidad, mientras que la geometría optimizada garantiza una impresión fiable en la mayoría de las impresoras 3D FDM.\nPara uso en exteriores, se recomienda PETG debido a su mejor resistencia al calor y a los rayos UV.\nOfrezca a sus mascotas una fuente constante de agua dulce con una solución sencilla, confiable y ecológica que reutiliza botellas de plástico comunes en lugar de requerir costosas piezas de repuesto.",
+ "use_cases": [],
+ "tags": [
+  "dispensador de agua para mascotas",
+  "bebedero automático para mascotas",
+  "cuenco de agua para gatos",
+  "cuenco de agua para perros",
+  "alternativa de fuente para mascotas",
+  "cuenco de agua automático",
+  "accesorio para mascotas impreso en 3d",
+  "hidratación de mascotas",
+  "accesorios para gatos",
+  "accesorios para perros",
+  "dispensador de agua embotellada",
+  "adaptador de botella de refresco"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USce112eb268259c/design/e3c4fc9ecbd1f887.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   800,
+   450
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3324885.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3623710.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3352461.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3809246.jpg": [
+   449,
+   600
+  ],
+  "previews/profiles/3623715.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3615725.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

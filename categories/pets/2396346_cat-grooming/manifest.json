@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/ams-and-one-colour-2626054.3mf.xz",
+   "instance_id": "2626054",
+   "name": "AMS y un color.",
+   "thumbnail": "previews/profiles/2626054.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 107,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "H2D",
+    "A1",
+    "X1",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 40454172,
+   "sha256": "966aa3915846abb55466cd92ea4eea979ef34b9f7441640fd559dee80e7cb353",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "AMS and One Colour.",
+    "profile_notes": "Plate 1: AMS tongue. Plate 2: One colour.",
+    "creation_date": "2026-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "2396346",
+ "title": "Aseo del gato",
+ "slug": "cat-grooming",
+ "url": "https://makerworld.com/en/models/2396346-cat-grooming",
+ "author": "Lynns",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "¡Capture la verdadera esencia sin filtros de la elegancia felina con esta divertida figura de gato imprimible en 3D!\nTodos los dueños de gatos están familiarizados con esta postura de aseo clásica y ligeramente incómoda de \"pierna arriba\". Ya sea que esté buscando un accesorio de escritorio peculiar, un divertido regalo de broma para el gato loco de su vida o simplemente un divertido tema de conversación para su estantería, este modelo es perfecto.\nEl modelo presenta hermosas texturas de pelaje y está diseñado para verse genial en un solo color, ¡o puedes pintar la pequeña lengua para darle un toque extra de detalle!\nConfiguración de impresión recomendada:\nMaterial: PLA / PETG / ABS (PLA es perfecto para esto)\nRelleno: 10% - 15% (se recomienda Lightning o Gyroid)\nSoportes: Sí (se recomiendan soportes debajo de la pierna elevada y la barbilla para obtener mejores resultados)\nAltura de la capa: 0,12 mm - 0,16 mm para capturar perfectamente los detalles del pelaje.\n(Nota: ¡Siéntete libre de ajustar la configuración de impresión anterior según cómo cortaste e imprimiste con éxito tu propio modelo de prueba!)\n\n¡Consulta otros modelos para los amantes de los gatos!",
+ "use_cases": [],
+ "tags": [
+  "ams",
+  "ams - lite",
+  "gato",
+  "divertido",
+  "figurilla",
+  "animal",
+  "felino",
+  "mascota",
+  "escultura",
+  "juguete de escritorio",
+  "broma",
+  "regalo de mordaza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1ecba0fee2f314/design/d61eb7400ce9add2.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   754
+  ],
+  "previews/02.png": [
+   1000,
+   860
+  ],
+  "previews/profiles/2626054.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

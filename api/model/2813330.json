@@ -1,0 +1,308 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-3-colors-280mm-long-3131776.3mf.xz",
+   "instance_id": "3131776",
+   "name": "Capa de 0,2 mm, 3 colores, 280 mm de largo",
+   "thumbnail": "previews/profiles/3131776.jpg",
+   "print_time_h": 6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 154,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A1",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "size": 14452888,
+   "sha256": "050e622da10c75197db455761fff787a0f881e377c17129d646d9838b45e1b83",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 3 colors, 280mm long",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-color-for-a1-mini-3131841.3mf.xz",
+   "instance_id": "3131841",
+   "name": "Capa de 0,2 mm, color para A1 mini",
+   "thumbnail": "previews/profiles/3131841.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 45,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "H2S",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 14400816,
+   "sha256": "2c43483e1d6f59ff5b4b13bf7fa77210f0dcf207bf30b26c6142160fbf30cb30",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, color for A1 mini",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-color-mini-vesion-150mm-fast-print-3131870.3mf.xz",
+   "instance_id": "3131870",
+   "name": "Capa de 0,2 mm, mini versión en color de 150 mm, impresión rápida",
+   "thumbnail": "previews/profiles/3131870.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 34,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1E",
+    "H2S",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "P1S"
+   ],
+   "default": false,
+   "size": 14412932,
+   "sha256": "7f040b09678b9aacb49f014eb1ecc2da327120e3d1a3f2e381631bed0d772822",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, color mini vesion 150mm, fast print",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-single-color-280mm-3131838.3mf.xz",
+   "instance_id": "3131838",
+   "name": "Capa de 0,2 mm, un solo color 280 mm",
+   "thumbnail": "previews/profiles/3131838.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "H2S",
+    "P1S",
+    "X1E",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 14399704,
+   "sha256": "0ef01d4071a909e259c8bdff6037ff0159460dea1e14f9e80e02f0bf4835cbd9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, single color 280mm",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-single-color-for-a1-mini-3131861.3mf.xz",
+   "instance_id": "3131861",
+   "name": "Capa de 0,2 mm, un solo color para A1 mini",
+   "thumbnail": "previews/profiles/3131861.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 60,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "H2S",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 14429160,
+   "sha256": "918099fd1d77421c4a7d885c51a51d2060b891ebbea562060249458323539616",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, single color for A1 mini",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2813330",
+ "title": "Dragón Ender articulado - Impresión en el lugar",
+ "slug": "articulated-ender-dragon-print-in-place",
+ "url": "https://makerworld.com/en/models/2813330-articulated-ender-dragon-print-in-place",
+ "author": "gobotoru",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Dragón Ender articulado - Impresión en el lugar\n¡Haz que el dragón legendario cobre vida en una linda forma articulada! Este Ender Dragon articulado se imprime completamente en el lugar, es flexible y divertido de posar desde la cama de impresión, no requiere ensamblaje.\nDiseñado en un estilo de bloques limpio inspirado en el icónico Ender Dragon, presenta un cuerpo completamente articulado, patas, cola y alas móviles, lo que lo convierte en un juguete de escritorio, coleccionable o regalo perfecto para los fanáticos de la fantasía.\nCaracterísticas:\nImpresión in situ, sin montaje\nCuerpo totalmente articulado\nNo se necesitan soportes\nAMS/compatible con varios colores\nConsejos de impresión:\nUna altura de capa de 0,20 mm es suficiente\nGarantizar una buena adherencia a la cama.\nNo reduzca demasiado la escala, pero 150 mm de largo aún se puede imprimir y está listo para comenzar.\nMira mis otros modelos inspirados en Minecraft:\n\nUso comercial solo para miembros pagos de Patreon o titulares de licencias comerciales de MakerWorld.",
+ "use_cases": [],
+ "tags": [
+  "dragón",
+  "minecraft",
+  "flexible",
+  "articulado",
+  "agitarse",
+  "lindo",
+  "estilizado",
+  "arte de fan",
+  "dibujos animados",
+  "impresión fácil",
+  "cifra",
+  "serpiente"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe380231cbb1ab0/design/7cbdaeccb3426100.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3131776.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3131841.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3131870.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3131838.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3131861.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Monocromo · para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

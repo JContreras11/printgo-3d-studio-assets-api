@@ -1,0 +1,150 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-3-walls-10-infill-2958368.3mf.xz",
+   "instance_id": "2958368",
+   "name": "Capa de 0,2 mm, 3 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/2958368.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 87,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "X2D",
+    "X1E",
+    "P1P",
+    "P2S",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "X1",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2088560,
+   "sha256": "a49af958855a4a50dee91f73cc5f7c1c076666da3f786b442d9fe97caa3f6eb7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "The profile includes: Supports Variable layer height 3 walls 10% Cubic infill",
+    "creation_date": "2026-04-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-or-0-2mm-layer-3-walls-10-infill-3587259.3mf.xz",
+   "instance_id": "3587259",
+   "name": "Capa de 0,2 mm o 0,2 mm, 3 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/3587259.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A1",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 2122592,
+   "sha256": "aaacf8741466be5449a3914c02a4bb5865e336df98201dcdd2c357626189b9a5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm or 0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "The profile includes: Supports Variable layer height 3 walls 10% Cubic infill",
+    "creation_date": "2026-08-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2672566",
+ "title": "Pasta de dientes haciendo caca en chihuahua",
+ "slug": "toothpaste-pooping-chihuahua",
+ "url": "https://makerworld.com/en/models/2672566-toothpaste-pooping-chihuahua",
+ "author": "Slipurson",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "¡Quería tener mi propia mascota como tapa para mi pasta de dientes, que también sirva como un divertido dispensador de dicha pasta de dientes!\n\nFue entonces cuando vi que no existen chihuahuas sino sólo otras razas que sirven como tapones para defecar la pasta de dientes.\n\nAsí que hice el mío propio:)\n\nImprime bien con algunos soportes, tenga cuidado al quitarlos ya que hay extremidades diminutas en un chihuahua que se rompen fácilmente.\n\nImprimí en PLA, pero diría que probablemente el PETG sea mejor.\n\nAdemás, normalmente no apruebo imprimir algo que contenga algo que te llevas a la boca o comes, pero si imprimes esto en un filamento apto para alimentos, no veo grandes riesgos, ya que seguramente escupirás la pasta de dientes después de terminar de cepillarte.",
+ "use_cases": [],
+ "tags": [
+  "pasta dentífrica",
+  "chihuahua",
+  "caca",
+  "haciendo caca",
+  "perro",
+  "mascota",
+  "dientes"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-04-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US20d4ff8ee8eadd/design/0543b875b5202001.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1332
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2958368.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3587259.jpg": [
+   600,
+   848
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

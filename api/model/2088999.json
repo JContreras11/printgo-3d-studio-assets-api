@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2257992.3mf.xz",
+   "instance_id": "2257992",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2257992.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 54,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1214276,
+   "sha256": "d4edb53534c10cdac8b492fc17e99c1340fc96ca63d53d8ce552012b6b877cc6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-12-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2088999",
+ "title": "Protector de pared y frotador de esquinas para gatos",
+ "slug": "cat-corner-rub-wall-protector",
+ "url": "https://makerworld.com/en/models/2088999-cat-corner-rub-wall-protector",
+ "author": "Adivor",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Proteja las esquinas de sus paredes del desgaste mientras le brinda a su gato un lugar satisfactorio para frotar! Este protector de esquina texturizado presenta un patrón de púas piramidales que a los gatos les encanta para acicalarse y frotarse las mejillas, distrayéndolos de dañar las paredes pintadas o el papel tapiz.\n\nEl modelo está diseñado con unas dimensiones de 100 mm de altura y 80 mm de lados. Imprime fácilmente sin soportes y se puede montar rápidamente utilizando cinta adhesiva de doble cara resistente o tiras adhesivas (como las tiras Command).",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "mascota",
+  "protector de pared",
+  "protector de pared para gatos",
+  "protector de gato",
+  "guardia de esquina",
+  "auto peluquero",
+  "peluquero",
+  "rascador para gatos",
+  "poste de frotamiento",
+  "frotamiento",
+  "animal"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US49cd89cf88cc0c/design/2025-12-07_e5545b4cbe62.gif",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2257992.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

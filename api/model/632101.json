@@ -1,0 +1,170 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-3-walls-0-infill-557068.3mf.xz",
+   "instance_id": "557068",
+   "name": "Capa de 0,2 mm, 3 paredes, 0% de relleno",
+   "thumbnail": "previews/profiles/557068.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 733,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 3170892,
+   "sha256": "b74030f6f9d268d07e9f8d3bb6e66cab7bb606c79039206e487887b87ef3873a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15154,
+      "weight_g": 56.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimize-parameters-improve-printing-efficiency-3778239.3mf.xz",
+   "instance_id": "3778239",
+   "name": "Optimice los parámetros, mejore la eficiencia de la impresión",
+   "thumbnail": "previews/profiles/3778239.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 3239744,
+   "sha256": "b0ee5b94ced94e60c242ddff859f9b54d0d5a01bc96f4d3ac4118739d7ac1f5f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "优化参数，提高打印效率",
+    "creation_date": "2026-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "632101",
+ "title": "Cepillo de aseo Purrfect: resistente y fácil de imprimir",
+ "slug": "purrfect-grooming-brush-easy-to-print-strong",
+ "url": "https://makerworld.com/en/models/632101-purrfect-grooming-brush-easy-to-print-strong",
+ "author": "GmD_1980",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Un cepillo de aseo fácil de imprimir y de montar, adecuado para todos los amigos peludos.",
+ "use_cases": [],
+ "tags": [
+  "accesorios para mascotas",
+  "accesorio para mascotas",
+  "mascota",
+  "cepillar",
+  "acicalar",
+  "peluquero",
+  "aseo",
+  "gato acicalado",
+  "herramienta de aseo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-09-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1dc4ccc01b5f93/design/2024-09-09_104f5bd99db14.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   698
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/557068.jpg": [
+   600,
+   419
+  ],
+  "previews/profiles/3778239.jpg": [
+   600,
+   596
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

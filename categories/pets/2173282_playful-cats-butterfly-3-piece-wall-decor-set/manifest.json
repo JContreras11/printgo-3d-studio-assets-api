@@ -1,0 +1,190 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2357452.3mf.xz",
+   "instance_id": "2357452",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2357452.jpg",
+   "print_time_h": 5.5,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 104,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "H2D",
+    "A1",
+    "P1S",
+    "H2C",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1391264,
+   "sha256": "1e0f9880b59159acc4671efc781c486ed32d0906b45afa35fef7bdc91fb4c604",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-12-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3462127.3mf.xz",
+   "instance_id": "3462127",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3462127.jpg",
+   "print_time_h": 2.2,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2C",
+    "H2D",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": false,
+   "size": 1433288,
+   "sha256": "43839925567c6facc9441676b75298d340a5c27cb1fad592d8b61f0e73721003",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "75% scale for a1-mini. Thickness 1.6 mm. Butterfly scaled 80%.",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/ironing-turn-off-face-down-3256703.3mf.xz",
+   "instance_id": "3256703",
+   "name": "Apagado del planchado: boca abajo",
+   "thumbnail": "previews/profiles/3256703.jpg",
+   "print_time_h": 2.7,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "size": 1339456,
+   "sha256": "1d9f6a634eed8bfd29b9976a5a69fb68475963213b30c574247cb25e903ca33b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Ironing turn off - face-down",
+    "creation_date": "2026-06-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "2173282",
+ "title": "Gatos juguetones y mariposas - Juego de decoración de pared de 3 piezas",
+ "slug": "playful-cats-butterfly-3-piece-wall-decor-set",
+ "url": "https://makerworld.com/en/models/2173282-playful-cats-butterfly-3-piece-wall-decor-set",
+ "author": "EpicCast",
+ "category": "pets",
+ "source_category": "Hogar > Decoración",
+ "description": "Impúlsame gracias\nUn encantador y elegante conjunto de decoración de pared con divertidas siluetas de gatos y una delicada mariposa. Este diseño minimalista es perfecto para los amantes de los gatos que buscan agregar un toque de personalidad y arte moderno a su sala de estar, dormitorio o guardería. El conjunto incluye tres marcos distintos y una pieza de mariposa separada, lo que te permite crear tu propia escena única. Cada marco mide aproximadamente 18 cm y 2 mm de grosor, lo que hace que todo el conjunto sea excepcionalmente ligero y sencillo de instalar.\nGuía rápida:\nImpresión sencilla: el perfil plano y delgado está diseñado para una impresión rápida sin necesidad de soportes.\nPreparación de la superficie: asegúrese de que la superficie de la pared esté limpia y seca antes de montarla para obtener mejores resultados.\nMontaje: Utilice pequeños trozos de cinta adhesiva de doble cara o masilla de montaje (por ejemplo, tiras Blu-Tack o 3M Command). ¡Porque son tan livianos que se mantienen despiertos fácilmente!\nDiseño creativo: puedes organizar los gatos y la mariposa en cualquier orden para contar una historia en tu pared.\n\n¡Únase a mi Patreon para obtener una licencia comercial!\n\nApoya mi trabajo",
+ "use_cases": [],
+ "tags": [
+  "gato 40",
+  "gatito",
+  "mariposa",
+  "decoración de la pared",
+  "minimalista",
+  "decoración del hogar",
+  "silueta",
+  "animal",
+  "arte",
+  "'moderno",
+  "impresión fácil",
+  "interior"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US490b0be24cc69e/design/2025-12-29_95e5c4e3f698e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2357452.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3462127.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3256703.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

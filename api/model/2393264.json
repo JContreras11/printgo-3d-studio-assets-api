@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2624898.3mf.xz",
+   "instance_id": "2624898",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2624898.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1",
+    "P1S",
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 527464,
+   "sha256": "35d475a35609f455b87494935e40db65b31417b4a5b32e0fc2d972c2c4cc8e52",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "📏 Layer Settings Layer Height: 0.20mm Initial Layer Height: 0.20mm Wall Loops: 3 Top Shell Layers: 5 Bottom Shell Layers: 5 🧱 Infill Infill Density: 100% (recommended for strength) Infill Pattern: Grid or Gyroid 🌡️ Material PLA (Easy & clean finish) PETG (Recommended for durability outdoors) PETG Recommended Settings: Nozzle Temp: 235–245°C Bed Temp: 70–80°C 🛠️ Supports Supports: Off Brim: Optional (Only if bed adhesion issues) 🎨 Multi-Colour Setup (If using AMS) Pause at text layer OR Assign separate colour for raised “CUSTOMISABLE” text Use white filament for lettering for best contrast ⏱️ Estimated Print Time Approx. 20–40 minutes depending on size & infill 📐 Scaling Small Dog: 60–70mm width Medium Dog: 70–80mm width Large Dog: 80–90mm width 💡 Extra Tip For extra durability, increase wall count to 4 and slightly round the edges in slicer if possible.",
+    "creation_date": "2026-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2393264",
+ "title": "Etiqueta de perro inspirada en huesos de perro",
+ "slug": "dog-bone-inspired-dog-tag",
+ "url": "https://makerworld.com/en/models/2393264-dog-bone-inspired-dog-tag",
+ "author": "OLED_prints",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Etiqueta de collar de perro de hueso de perro\n¡Dale a tu amigo peludo un aspecto elegante y personalizado con esta etiqueta para collar de hueso para perro! Diseñada con la clásica forma de hueso, esta etiqueta es perfecta para agregar el nombre de su mascota, datos de contacto o un diseño divertido.\nCaracterísticas:\nDiseño clásico en forma de hueso.\nLigero y cómodo para el uso diario\nBordes lisos para la seguridad de las mascotas.\nDiseño fácil de imprimir\nIdeal para personalización (agregue texto en relieve o grabado)\nConfiguración de impresión:\nNo se requieren soportes\nSe recomienda una altura de capa de 0,2 mm.\nPLA o PETG funcionan muy bien\n100% de relleno para mayor durabilidad\nEsta etiqueta es perfecta para perros de todos los tamaños y es un excelente regalo para los dueños de mascotas. Escala el modelo hacia arriba o hacia abajo para adaptarlo al tamaño del collar de tu mascota. ¡UTILIZA TINKERCAD PARA TU TEXTO!",
+ "use_cases": [],
+ "tags": [
+  "etiqueta de perro",
+  "perro",
+  "impresión fácil",
+  "personalizado",
+  "accesorios para mascotas",
+  "hueso de perro",
+  "collar de perro",
+  "idea de regalo",
+  "amante de las mascotas"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-02-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002393264/design/4dd6c66b877b432f.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1500
+  ],
+  "previews/02.png": [
+   1000,
+   1500
+  ],
+  "previews/profiles/2624898.jpg": [
+   337,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

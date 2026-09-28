@@ -1,0 +1,170 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-634658.3mf.xz",
+   "instance_id": "634658",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/634658.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 93,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1383448,
+   "sha256": "da7516053bd5648e391727ee42734b033019011ca05b734fb431a8b55f5be751",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17393,
+      "weight_g": 166.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/128-size-a1-mini-max-size-with-bigger-feed-hole-3056231.3mf.xz",
+   "instance_id": "3056231",
+   "name": "Tamaño 128% (tamaño A1 mini max) Con orificio de alimentación más grande",
+   "thumbnail": "previews/profiles/3056231.jpg",
+   "print_time_h": 7.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1392132,
+   "sha256": "73c2ff5ce0e539c593bda64318daa4077e9004bf9d0016ede795580aaf7fd3f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "128% size (A1 mini max size) With bigger Feed hole",
+    "profile_notes": "2 plates to make it bigger but still be fitting an A1 mini and increased the size of the hole for the food to go through.",
+    "creation_date": "2026-05-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  }
+ ],
+ "id": "704817",
+ "title": "Dispensador automático de comida para gatos (con cámara de secado)",
+ "slug": "automatic-cat-food-dispenser-with-drying-chamber",
+ "url": "https://makerworld.com/en/models/704817-automatic-cat-food-dispenser-with-drying-chamber",
+ "author": "6DDD",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Un cuenco para gatos que puede rellenar automáticamente la comida para gatos, con una caja de almacenamiento para contener una gran cantidad de comida para gatos y una cámara de secado para colocar un desecante o un tamiz molecular para evitar que la comida para gatos se humedezca.\nEl modelo en sí es relativamente pequeño. Si necesita un tamaño más grande para almacenar comida para gatos, o si necesita almacenar gránulos más grandes de comida para gatos o comida liofilizada, puede ampliar adecuadamente el tamaño del modelo, lo que también puede evitar que la comida para gatos se atasque.",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "bol",
+  "cuenco para gatos",
+  "comida para gatos",
+  "plato de comida para gatos",
+  "mascota",
+  "suministros para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb581aa3de99602/design/2024-10-15_b505e744ac10c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   666
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/634658.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3056231.jpg": [
+   600,
+   806
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

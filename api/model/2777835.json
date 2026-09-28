@@ -1,0 +1,136 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-3086719.3mf.xz",
+   "instance_id": "3086719",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/3086719.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 75,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X1",
+    "A1",
+    "P1P",
+    "P2S",
+    "X2D",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "size": 22495504,
+   "sha256": "45596101e8f6f33facdb6ac5123765ffd446c533ccbc3f2447c54be443b1083d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimized-parameters-adjusted-supports-improved-pr-3761998.3mf.xz",
+   "instance_id": "3761998",
+   "name": "Parámetros optimizados, soportes ajustados, eficiencia de impresión mejorada, compatible con las series A1 y P",
+   "thumbnail": "previews/profiles/3761998.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S"
+   ],
+   "default": false,
+   "size": 1586548,
+   "sha256": "3973ae33c3d25b5fc8f8910a482302706f527c4f6e1a47572c32e8f9e6cf74b9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "参数优化，调整支撑，提高打印效率，适配A1和P系列",
+    "creation_date": "2026-05-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2777835",
+ "title": "Perro Salchicha - Cuenco / Jardinera",
+ "slug": "dachshund-bowl-planter",
+ "url": "https://makerworld.com/en/models/2777835-dachshund-bowl-planter",
+ "author": "Pappis320",
+ "category": "pets",
+ "source_category": "Hogar > Decoración",
+ "description": "MembresíaObtenga una licencia comercial completa para todos mis modelos: solo $ 3 al mes. Impulse cada impulso me ayuda a crear más modelos. Por favor, aumenta si te gusta:) ¡Gracias! Este pequeño cuenco y mini macetero tiene la forma de un adorable perro salchicha y combina un carácter divertido con un diseño suave y decorativo. Su forma alargada y sus encantadores detalles la convierten en una encantadora pieza decorativa.\nPerfecto para plantas pequeñas, suculentas o artículos pequeños, el mini macetero Dachshund agrega un toque acogedor y caprichoso a cualquier espacio.\nTamaño: 18cm",
+ "use_cases": [],
+ "tags": [
+  "bol",
+  "atrapar todo",
+  "plantador",
+  "mini plantas",
+  "mini olla",
+  "perro tejonero",
+  "perro",
+  "mascota",
+  "animal",
+  "decoración",
+  "olla"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd36b5459a60481/design/dec57ad6f7224e17.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3086719.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3761998.jpg": [
+   600,
+   630
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,448 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-488662.3mf.xz",
+   "instance_id": "488662",
+   "name": "capa de 0,2 mm",
+   "thumbnail": "previews/profiles/488662.jpg",
+   "print_time_h": 4.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1127,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 643944,
+   "sha256": "cc3f8b2b05081e5eb793ecae939c1dbeaf5f776d4aea898fa26342828e32e88b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17099,
+      "weight_g": 184.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-16mm-layer-488663.3mf.xz",
+   "instance_id": "488663",
+   "name": "capa de 0,16 mm",
+   "thumbnail": "previews/profiles/488663.jpg",
+   "print_time_h": 5.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 78,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 643792,
+   "sha256": "67225babaa2632a8c9d6d7c7d14a68b0421f274a50330798c865e0c45ae7bd8e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "0.16mm layer",
+    "creation_date": "2024-08-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20489,
+      "weight_g": 191.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-24mm-layer-488664.3mf.xz",
+   "instance_id": "488664",
+   "name": "capa de 0,24 mm",
+   "thumbnail": "previews/profiles/488664.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 253,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 643944,
+   "sha256": "1ef12570288b9e6656db2b0b2a3c5f18b157ae97da3fd12810d4150f45a0dca3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.24mm layer",
+    "creation_date": "2025-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15985,
+      "weight_g": 186.36,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-10-infill-3357141.3mf.xz",
+   "instance_id": "3357141",
+   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "thumbnail": "previews/profiles/3357141.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "A2L",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 667372,
+   "sha256": "2281287f1b8bdad74a280c21b0a50bfc5a4691c0d69aac08f00fd96d6573dbbe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "couche en petg plus solide motif de remplissage: gyroide remplissage 10% couche 0,20mm",
+    "creation_date": "2026-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-6mm-nozzle-0-3mm-layer-2-walls-5-infill-1028583.3mf.xz",
+   "instance_id": "1028583",
+   "name": "Boquilla de 0,6 mm, capa de 0,3 mm, 2 paredes, 5 % de relleno",
+   "thumbnail": "previews/profiles/1028583.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 716128,
+   "sha256": "ac1af729d2d1b4472f617fb90cbebfb1a310d5bec5c014b1fb3d2dda884bc55d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 2 walls, 5% infill",
+    "profile_notes": ".6mm nozzle. works great for the dog food. plenty strong. only has 2 color because i ran out of filament lol",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.3",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 14845,
+      "weight_g": 224.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/100-scale-a1-mini-0-2mm-layer-2-walls-15-infill-529544.3mf.xz",
+   "instance_id": "529544",
+   "name": "100% escala (A1 mini) Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/529544.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 103,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 779700,
+   "sha256": "56c45c1d930b53848c9f5cd9d9f01cf609c340fee0047833ab277b2b02e1e5cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "100% scale (A1 Mini) 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2024-08-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19659,
+      "weight_g": 189.1,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/75-scale-with-1-cup-line-color-change-1810281.3mf.xz",
+   "instance_id": "1810281",
+   "name": "Escala del 75% con cambio de color de línea de 1 taza",
+   "thumbnail": "previews/profiles/1810281.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 28,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "size": 739808,
+   "sha256": "800926605c71d1bfa6be645d2eda4a866533354c34d5ea5a153d6db340cacac8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "75% Scale with 1 Cup line color change",
+    "profile_notes": "Scaled the model down to 75% and did some rough math to give me a 1 Cup line. Tested with my dogs food and the line does fill a 1 cup measuring cup to the brim with my dogs specific food. Results may vary depending on the size and shape of your dogs food.",
+    "creation_date": "2026-06-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "568758",
+ "title": "No hay apoyo",
+ "slug": "scoop-no-support",
+ "url": "https://makerworld.com/en/models/568758-scoop-no-support",
+ "author": "SabreDesign",
+ "category": "pets",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "No se necesitan soportes. Cuchara con curva para garantizar que el material no se caiga al sacar la cuchara. El volumen interior de la pala es de 1000 ml. Se puede escalar a tu gusto, el tamaño interior estándar es de 74 x 74 mm. La parte de apertura en ángulo de la pala debe colocarse en la plataforma de impresión para obtener una calidad de impresión óptima.\n\nSi quieres apoyarme u obtener licencias comerciales, puedes unirte a una membresía de patreon:\nPara soporte único también puedes invitarme a un café aquí:\nBoost MeMira más de mis diseños a continuación y en mi perfil:",
+ "use_cases": [],
+ "tags": [
+  "cuchara",
+  "mascota",
+  "alimento",
+  "comida para mascotas",
+  "almacenamiento",
+  "caja de arena",
+  "avoceta",
+  "mascotas",
+  "taza",
+  "medida",
+  "despensa",
+  "perro"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2024-08-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US76cab74ed9ffe6/design/2024-08-02_34b699e41d8bb.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/488662.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/488663.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/488664.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3357141.jpg": [
+   429,
+   426
+  ],
+  "previews/profiles/1028583.jpg": [
+   600,
+   797
+  ],
+  "previews/profiles/529544.jpg": [
+   600,
+   440
+  ],
+  "previews/profiles/1810281.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "para A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

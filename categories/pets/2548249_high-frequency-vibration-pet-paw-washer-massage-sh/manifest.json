@@ -1,0 +1,202 @@
+{
+ "files": [
+  {
+   "path": "model/8cm-inner-diameter-high-frequency-vibration-versio-2806223.3mf.xz",
+   "instance_id": "2806223",
+   "name": "Versión de vibración de alta frecuencia de 8 cm de diámetro interior",
+   "thumbnail": "previews/profiles/2806223.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 259,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1204248,
+   "sha256": "a994156710106d7d414a75a59ebffb1fe8a5a3c8f8363961e5fcf27142e4a2e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "8cm内径高频震动版",
+    "profile_notes": "默认支撑打印，切勿添加自动支撑或修改支撑参数。",
+    "creation_date": "2026-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-35-infill-2933520.3mf.xz",
+   "instance_id": "2933520",
+   "name": "Capa de 0,2 mm, 2 paredes, 35% de relleno",
+   "thumbnail": "previews/profiles/2933520.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "A1",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1347760,
+   "sha256": "358346c206f490ba88cdae735f0a2750e22f5ac28a51af572141dacc281f10c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 35% infill",
+    "profile_notes": "Optimiertes Druckprofil mit reduzierter Außenwandgeschwindigkeit zur Verbesserung der Oberflächenqualität und Schichthaftung. Der Infill-Anteil wurde erhöht , um eine höhere strukturelle Stabilität und Belastbarkeit der Bauteile zu erreichen. Geeignet für funktionale Drucke mit erhöhten Anforderungen an Festigkeit und Maßhaltigkeit.",
+    "creation_date": "2026-04-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "35%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/optimized-parameters-0-23mm-layer-1-walls-6-infill-2959600.3mf.xz",
+   "instance_id": "2959600",
+   "name": "Parámetros optimizados: capa de 0,23 mm, 1 pared, 6 % de relleno",
+   "thumbnail": "previews/profiles/2959600.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1242612,
+   "sha256": "1786083ef9318fd6efb7aff06a396ca88b57fb98cb7075c936ea4e59e943d883",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Optimierte Parameter - 0.23mm layer, 1 walls, 6% infill",
+    "profile_notes": "Optimierte Parameter: 1 0.49mm äußere Wand Arachne 0.23mm Schicht 6% Wabenfüllung weniger Hüllschichten higher speeds organic tree manual supports",
+    "creation_date": "2026-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.23",
+    "infill": "6%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2548249",
+ "title": "Cabezal de ducha de masaje con arandela de pata de mascota, vibración de alta frecuencia, boquilla anular de alta presión",
+ "slug": "high-frequency-vibration-pet-paw-washer-massage-sh",
+ "url": "https://makerworld.com/en/models/2548249-high-frequency-vibration-pet-paw-washer-massage-sh",
+ "author": "mountainstarr",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Esta es una rama de la boquilla anular de alta presión. Como puede ver, después de activar la vibración pulsante, el flujo de agua vibra regularmente a una frecuencia de 6-8 Hz/s.\nImpúlsameSi te gusta mi idea, por favor impulsame. Después de jugar con las mascotas y regresar a casa, sus patas siempre están muy sucias y limpiarlas es muy problemático. Por eso quise crear un cabezal de ducha circular con vibración de alta frecuencia. Después de repetidos experimentos y múltiples prototipos, finalmente lo logré.\nFinalmente, encontré un lavapiés en forma de anillo que puede estabilizar el flujo de agua y provocar vibraciones de alta frecuencia. Al mismo tiempo, esta boquilla anular se combina con un diámetro interior más grande (8 cm), lo que satisface las necesidades de la forma del pie de su mascota grande.\nHechizo de activación por vibración: (Incline el costado del rociador de anillo hacia arriba entre 15 y 30 ° y agítelo hacia arriba y hacia abajo una vez)\nEste vórtice está inherentemente dotado de su propio \"ritmo de latidos\". Tu encantamiento de murmullo es como darle un \"empujón\" al vórtice giratorio, permitiendo que su energía se acumule y amplifique continuamente.\nEl flujo de agua ya no es un oleaje desordenado, sino que se ha transformado en pulsos circulares regulares, que circulan con precisión a lo largo de la pared interior del anillo, y cada círculo se alinea perfectamente con sus necesidades.\nEn última instancia, este vórtice giratorio \"barrirá\" periódicamente la salida de agua del cabezal de ducha:\nEntonces, lo que ves es un círculo de agua que alterna entre luz y oscuridad, arremolinándose como si respirara, como si el agua bailara un vals interminable en la cavidad circular.\n\nCorazón que late, caja de regalo animada\nUn raspador con cuchillas rápidamente reemplazables\n\nUna ducha portátil apta para acampar.\n\nUn clip fotográfico amable y conmovedor.",
+ "use_cases": [],
+ "tags": [
+  "lavapiés",
+  "lavado de pies",
+  "lavado de pies de mascotas",
+  "enjuagar los pies",
+  "cachorro higienico",
+  "lavado de pies de cachorro",
+  "boquilla",
+  "lavadora de pisos",
+  "lavadora de piso",
+  "spray para anillos",
+  "presión alta"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US40810c6f5d7a99/design/cb8e4e3bbc7695a1.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2806223.jpg": [
+   238,
+   426
+  ],
+  "previews/profiles/2933520.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2959600.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

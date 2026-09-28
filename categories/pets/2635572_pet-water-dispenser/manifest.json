@@ -1,0 +1,121 @@
+{
+ "files": [
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2911044.3mf.xz",
+   "instance_id": "2911044",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2911044.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 51,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "X1",
+    "P1S",
+    "H2D",
+    "H2S",
+    "X1E",
+    "H2C",
+    "P1P",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2428304,
+   "sha256": "7c7e90e50587021aac8d02a93ff9ad804cd1ad987714c334d851ea1d7e64276c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2635572",
+ "title": "Dispensador de agua para mascotas",
+ "slug": "pet-water-dispenser",
+ "url": "https://makerworld.com/en/models/2635572-pet-water-dispenser",
+ "author": "madboy360",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Dispensador de agua para mascotas con forma de pata (compatible con botella)\nMantenga a las mascotas hidratadas con este dispensador de agua automático con forma de pata, sencillo, lindo y práctico, diseñado para botellas de plástico estándar. Simplemente coloque una botella, gírela y la bandeja mantendrá un nivel de agua constante, perfecta para gatos, cachorros, conejos y mascotas pequeñas.\nEste diseño es fácil de imprimir, apto para principiantes y no requiere componentes electrónicos ni herramientas de montaje.\nCaracterísticas\nLindo diseño de cuenco con forma de pata\nSistema de recarga automática por gravedad.\nUtiliza botellas de plástico estándar (coca cola/botellas de agua).\nEstructura base fuerte y estable\nImpresión sencilla: no se necesitan soportes\nBandeja interior fácil de limpiar\nPerfecto para gatos y perros pequeños\nConfiguración de impresión (recomendado)\nAltura de la capa: 0,2 mm\nRelleno: 15-20%\nSoportes: No requerido\nMaterial: PLA/PETG\nNúmero de paredes: se recomiendan 3 paredes\nSe recomienda PETG si se utiliza en exteriores o para contacto prolongado con el agua.\nAsamblea\nimprimir el modelo\nLlena una botella de plástico con agua.\nInserte la botella en el soporte\nVoltear y colocar en la bandeja.\nhecho\nEl agua mantiene automáticamente el nivel dentro del recipiente.\nIdeal para\ngatos\nCachorros\nConejos\nAves\nPequeñas mascotas de interior\nNotas de diseño\nEl cuenco con forma de pata aumenta la estabilidad y mejora el acceso al agua desde múltiples ángulos, manteniendo al mismo tiempo un tamaño compacto para uso en interiores.",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "suministros para mascotas",
+  "gato",
+  "perro",
+  "alimentación de gatos",
+  "bebedero para mascotas",
+  "bebedor de agua",
+  "botella para mascotas",
+  "automático",
+  "exterior",
+  "cuenco de agua para mascotas",
+  "dispensador de agua para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7cf39309c23e2f/design/e40368212a951162.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2911044.jpg": [
+   600,
+   399
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

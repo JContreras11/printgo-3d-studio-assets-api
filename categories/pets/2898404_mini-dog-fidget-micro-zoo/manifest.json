@@ -1,0 +1,320 @@
+{
+ "files": [
+  {
+   "path": "model/single-color-version-3239608.3mf.xz",
+   "instance_id": "3239608",
+   "name": "Versión de un solo color",
+   "thumbnail": "previews/profiles/3239608.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 102,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "size": 9429000,
+   "sha256": "390f1e2695a9708763ac510eaa03c8b25930ba34d011f7aa620b75b4dc2babe1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-nozzle-high-quality-3317708.3mf.xz",
+   "instance_id": "3317708",
+   "name": "Boquilla de 0,2 mm de alta calidad.",
+   "thumbnail": "previews/profiles/3317708.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "X2D",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 3074904,
+   "sha256": "11399f39cdf1b907935a349703fadc93021a65eaa74b7c82ad52541021dd8b98",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm Nozzle High Quality",
+    "profile_notes": "0.2mm nozzle 0.08mm layer height Very high quality Invisible Seam Easy-to-remove supports",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/17-different-dogs-0-16mm-layer-2-walls-15-infill-3709039.3mf.xz",
+   "instance_id": "3709039",
+   "name": "17 perros diferentes Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/3709039.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 89380372,
+   "sha256": "8793207686590b3852826e262a10c60282045c9b13f620425faf41bdb6599df5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "17 different dogs 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "17 different dogs optimized.",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/higher-quality-with-easy-to-remove-supports-3317716.3mf.xz",
+   "instance_id": "3317716",
+   "name": "Mayor calidad con soportes fáciles de quitar",
+   "thumbnail": "previews/profiles/3317716.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 41,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "X1E",
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "A2L",
+    "X1",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "size": 3062100,
+   "sha256": "5bef5902d6b2533c31d885951acf94aabe22eb11a7fee465f8886f35ca936e29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Higher Quality with Easy-to-remove Supports",
+    "profile_notes": "0.4mm nozzle 0.16mm layer height Very high quality Invisible Seam Easy-to-remove supports",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/model-optimization-reduced-polygon-count-improved--3658260.3mf.xz",
+   "instance_id": "3658260",
+   "name": "Optimización del modelo, recuento reducido de polígonos, eficiencia mejorada",
+   "thumbnail": "previews/profiles/3658260.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "P2S",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 3042296,
+   "sha256": "f56412ab9604bf896fe4beab66c899c40ebba95b964f1e8b68a0299e5b5bf89b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "模型优化，减少面数，提高效率",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/pokemon-red-version-artwork-3324887.3mf.xz",
+   "instance_id": "3324887",
+   "name": "Pokémon Red Version Artwork",
+   "thumbnail": "previews/profiles/3324887.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 31,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "X1",
+    "A1",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "H2C",
+    "A2L",
+    "P2S",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": false,
+   "size": 9609824,
+   "sha256": "97e13e879c14e26f601be5e10ff2bf202c5ee129a7bc248c5d332896e631e3b2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2898404",
+ "title": "Mini perro inquieto - Micro Zoo",
+ "slug": "mini-dog-fidget-micro-zoo",
+ "url": "https://makerworld.com/en/models/2898404-mini-dog-fidget-micro-zoo",
+ "author": "3d_beast",
+ "category": "pets",
+ "source_category": "Hogar > Decoración",
+ "description": "ImpulsameMini Perro\nPequeño, lindo y súper fácil de imprimir: perfecto para principiantes e impresiones masivas.\nSe necesitan soportes mínimos (diseño autónomo)\nImpresión rápida (alrededor de 25 a 30 minutos)\nUso ultra bajo de filamento: solo entre 2 y 4 g por modelo\nDiseño suave y limpio similar a un juguete\nColección de mini perros\nEste modelo forma parte de la colección Beastly de mini animales imprimibles en 3D.\nPróximamente más criaturas adorables: el mismo estilo, impresión rápida, perfectas para coleccionar.\nConfiguración de impresión:\n– Altura de capa: 0,1 mm\n– Relleno: 8% giroide\n– Soportes: No\n– Material: PLA/PETG\n– Orientación: plano sobre la cama\nGenial para:\n– juguetes para niños\n– Decoración de escritorio\n– Regalos\n– Vender en paquetes\n– Colecciones de animales\nConsejo: imprime varios en diferentes colores: lucen increíbles como una colección completa de Beastly.\nSigue mi perfil para no perderte nuevos animales de Beastly y futuros modelos.",
+ "use_cases": [],
+ "tags": [
+  "decoración",
+  "decorativo",
+  "compañero",
+  "rápido",
+  "lindo",
+  "diminuto",
+  "pequeño",
+  "oficina",
+  "escritorio",
+  "fácil de imprimir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US20b007a05a5d91/design/521bc1732af997df.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3239608.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3317708.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3709039.jpg": [
+   600,
+   485
+  ],
+  "previews/profiles/3317716.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3658260.jpg": [
+   600,
+   638
+  ],
+  "previews/profiles/3324887.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

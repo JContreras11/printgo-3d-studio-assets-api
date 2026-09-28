@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-5-infill-2473062.3mf.xz",
+   "instance_id": "2473062",
+   "name": "Capa de 0,16 mm, 2 paredes, 5 % de relleno",
+   "thumbnail": "previews/profiles/2473062.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 98,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "A1 mini",
+    "A2L",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "H2C"
+   ],
+   "default": true,
+   "size": 8339236,
+   "sha256": "823f1736a319b91cbcf8e6877b6234d295f06496db1dca2b30f2e0156d6ecb17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 5% infill",
+    "profile_notes": "Édition Haute Qualité (HQ) - Rendu de surface Premium ✨ Ce profil a été spécialement conçu pour sublimer les détails de la petite licorne (crinière, corne et courbes) tout en conservant une vitesse d'impression optimisée pour la série Chibi Pets . 🛠️ Paramètres techniques du profil : Hauteur de couche : 0,16 mm High Quality (Pour des couches quasi invisibles et une finition lisse). Parois (Walls) : 2 murs (Optimisé pour la légèreté et la rapidité). Remplissage (Infill) : 5% Gyroid. Supports : Activés et configurés en mode Tree (Arborescents) . ✅ Conseils pour un résultat optimal : Vitesse : Ce profil utilise des vitesses calibrées pour le PLA afin d'éviter tout défaut sur les parois externes. Supports : Utilisez une petite pince plate pour retirer les supports arborescents. Ils devraient sauter très facilement. ⭐ Note : Si vous cherchez le meilleur équilibre entre temps d'impression et qualité visuelle, c'est le profil qu'il vous faut ! N'oubliez pas de noter le profil 5 étoiles après votre impression, cela aide énormément à faire connaître la collection !",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2268918",
+ "title": "MASCOTA DE ESCRITORIO - UNICORNIO KAWAII - Impresión Rápida",
+ "slug": "desk-pet-unicorne-kawaii-fast-print",
+ "url": "https://makerworld.com/en/models/2268918-desk-pet-unicorne-kawaii-fast-print",
+ "author": "hazo974",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "¡Calificado con 5 estrellas por la comunidad! Perfil de impresión perfecto.\n¡Completa tu colección! Este animal forma parte de la serie \"Animales Kawaii\". Encuentra otros modelos (Dragón, Ajolote, etc.) aquí: [LA COLECCIÓN KAWAII]\nTu dosis de magia: ¡El Unicornio Kawaii!\nDespués del éxito del pequeño dragón, ¡aquí tenéis la segunda figura de la colección \"Chibi Pets\"! Este pequeño unicornio está diseñado para darle un toque de magia a tu escritorio sin monopolizar tu impresora durante horas.\nPor qué te encantará:\nLightning Print: ¡Listo en solo 1 hora!\nUltra económico: menos de 14 g de filamento. Es el modelo definitivo para utilizar muestras o extremos de carrete.\nTamaño mini: Aproximadamente 6 cm de alto, perfecto para el A1 mini y todas las placas de construcción Bambu Lab.\nFácil de imprimir: diseño optimizado para una fácil extracción del soporte.\nPRÓXIMAMENTE: Versión multicolor (AMS)\nAl igual que para el dragón, ¡estoy preparando un perfil multicolor de AMS para este unicornio!\nPurgas reducidas al mínimo para salvar tu filamento. ¡Suscríbete para no perderte el lanzamiento del perfil colorido!\n¿Un pequeño favor? Si este unicornio se une a tu colección, publica una foto de tu \"Marca\" y deja una calificación de 5 estrellas. Un pequeño \"Boost\" me anima mucho a lanzar los próximos 3 modelos de la colección aún más rápido.",
+ "use_cases": [],
+ "tags": [
+  "unicornio",
+  "kawaii",
+  "lindo",
+  "chibi",
+  "miniatura",
+  "juguete",
+  "escritorio",
+  "decoración",
+  "impresión rápida",
+  "impresión fácil"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-01-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88b7d0f6524908/design/2026-01-19_dcd2a5dd25b908.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1204
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2473062.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

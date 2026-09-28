@@ -1,0 +1,125 @@
+{
+ "files": [
+  {
+   "path": "model/bowl-diameter-185-195mm-2874869.3mf.xz",
+   "instance_id": "2874869",
+   "name": "Diámetro del cuenco 185 - 195 mm",
+   "thumbnail": "previews/profiles/2874869.jpg",
+   "print_time_h": 4.4,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X2D",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "X1",
+    "A2L",
+    "P1P",
+    "H2C",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": true,
+   "size": 5409952,
+   "sha256": "d28359a32eb48909d43a8236f85b5367c7859abd6ed0d7dcca197ad59d5892e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Bowl Diameter 185 - 195mm",
+    "profile_notes": "Print profile for the model shown in the photos. Dimensions are 195mm bowl diameter, 70mm bowl height, and 50mm riser height. All objects print with 0.24mm layer, 3 walls, 15% infill. Plate 1 - bowl brace Plate 2 - end post Plate 3 - connector post",
+    "creation_date": "2026-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  }
+ ],
+ "id": "2605225",
+ "title": "Soporte modular elevado para comedero para perros paramétrico",
+ "slug": "modular-elevated-dog-bowl-stand-parametric",
+ "url": "https://makerworld.com/en/models/2605225-modular-elevated-dog-bowl-stand-parametric",
+ "author": "makermatt3D",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Un moderno soporte elevado para cuencos para perros diseñado para ofrecer flexibilidad, comodidad y uso diario. Inspirado en soportes de madera de primera calidad, este diseño eleva los tazones a una altura más natural para su perro manteniendo una huella limpia y mínima.\n\nConstruido como un sistema modular, el soporte se compone de tres partes simples: poste final, poste conector y soporte para tazón, lo que le permite crear cualquier cosa, desde una configuración de tazón único hasta una estación de alimentación completamente conectada.\n\nY para ir un paso más allá, este modelo es completamente paramétrico, ¡lo que le permite ajustarse perfectamente a su configuración!\n\nLo más destacado\nDiseño modular: imprima 1, 2 o más configuraciones de tazones y conéctelas según sea necesario. Soporte para tazones para perros individuales: poste final (x4), soporte para tazones (x1)\nSoporte doble para comedero para perros: poste final (x4), poste conector (x2), soporte para comedero (x2)\nConsulte la guía de montaje para obtener instrucciones paso a paso.\n\nParamétrico: use la función \"Personalizar\" para adaptar las dimensiones a sus tazones y configuración de alimentación\nEstética moderna, máxima resistencia: la geometría abierta crea una apariencia limpia y discreta con alta resistencia.\nFuerte estructura entrelazada: cada pieza se conecta para formar un marco fuerte y estable.\nSoporte seguro para tazones: diseñado para mantener los tazones en su lugar y reducir el movimiento durante el uso.\nImpulso Me¿Disfrutas de esta impresión?\nDar me gusta ayuda a otros a descubrir este modelo\nImpulsar es la mejor manera de apoyar mi trabajo\n¡Síguenos para ver más impresiones funcionales próximamente!\n\nImprimir notas\nDiseñado para PLA (PETG también debería funcionar bien)\nNo se requieren soportes: BambuStudio dirá que los modelos de postes tienen un voladizo flotante, pero puede ignorarlo ya que el modelo contiene soportes diseñados.\nSi el diámetro del cuenco de su perro es cercano al del perfil de impresión, y no superior, puede descargar el 3mf (o usar Bambu Handy) y simplemente enviarlo. Estos son los valores para el perfil de impresión proporcionado.\nDiámetro del recipiente (predeterminado 195 mm)\nAltura del recipiente (predeterminado 70 mm)\nAltura del elevador (predeterminado 50 mm): la distancia desde el suelo hasta el fondo del soporte del recipiente.\n\nCrear un soporte para cuencos para perros de tamaño personalizado\nMide el diámetro y la altura del cuenco de tu perro.\nSi usa Bambu Handy, toque \"Preparar para imprimir\" y seleccione \"Personalizar\" para abrir Parametric Model Maker.\nSi utiliza el sitio web de MakerWorld, seleccione el botón \"Personalizar\" para abrir Parametric Model Maker.\nHay dos modelos para personalizar utilizando la función de lista personalizable: Para el modelo de soporte de cuenco, introduzca el diámetro del cuenco de su perro. Siga los pasos para generar el modelo y descargarlo.\nPara el modelo de postes, introduzca la altura del cuenco para perros. Modifique la altura del contrahuella si lo desea. Siga los pasos para generar el modelo y descargarlo.\n\nSi utiliza el sitio web de MakerWorld, deberá abrir cada archivo 3mf en BambuStudio para imprimir.\nCopie los componentes del modelo según la cantidad de tazones. Las cantidades se enumeran arriba. Nota: Las publicaciones serán un solo objeto cuando las abras. Una forma rápida de separarlos es utilizar la herramienta de división girada -90 grados como se muestra a continuación. Alternativamente, puedes usar dividir en partes, pero es un poco más engorroso mover las cosas.\n\nMembresía¿Quieres vender esta impresión? Regístrese aquí para obtener una licencia comercial para vender impresiones 3D de todos mis diseños originales en ferias locales, en línea, escaparates o en cualquier lugar donde desee vender.\nModelos relacionados",
+ "use_cases": [],
+ "tags": [
+  "soporte para cuencos para perros",
+  "perro",
+  "cuenco para perros",
+  "cuenco para perros personalizado",
+  "perro 2026",
+  "comedero para perros",
+  "gato",
+  "soporte para cuenco para gatos",
+  "cuenco para gatos",
+  "soporte para cuenco para perros",
+  "elevado"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US66d3e40e25924c/design/3110ffbd0e66854b.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2874869.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "files": [
+  {
+   "path": "model/0-16mm-layer-2-walls-15-infill-2323632.3mf.xz",
+   "instance_id": "2323632",
+   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/2323632.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "H2C",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 7481720,
+   "sha256": "e6b3c2cc46e0ff443160d6a112b9350af6acd86e8e8cac5f34137ec34c194ece",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-12-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-15-infill-2457267.3mf.xz",
+   "instance_id": "2457267",
+   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "thumbnail": "previews/profiles/2457267.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 99,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "X1E",
+    "P1P",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 9590920,
+   "sha256": "10081035c81cbc7aeb35b47dcb42d41cc29a7b223a312201f7f1cc05ce40abee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "此版选择了接缝对齐，默认版为随机接缝，供大家选择",
+    "creation_date": "2026-01-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "2130432",
+ "title": "Cuenco para perros con patrón LV",
+ "slug": "lv-pattern-dog-bowl",
+ "url": "https://makerworld.com/en/models/2130432-lv-pattern-dog-bowl",
+ "author": "user_1436928550",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Cuenco para perros con estampado LV, muy recomendable en color amarillo y blanco. Puede contener agua o comida. El valor predeterminado es un tazón pequeño; puedes cambiar su tamaño después de descargarlo según la raza de tu perro.\nImpulsameSi te gusta, por favor dame un impulso gratis~",
+ "use_cases": [],
+ "tags": [
+  "lv",
+  "cuenco para perros",
+  "mascota",
+  "almacenamiento",
+  "luis vuitton",
+  "arte de louis vuitton"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002130432/design/2025-12-18_22dd27f06d17c8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2323632.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2457267.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "files": [
+  {
+   "path": "model/medium-for-256mm-plates-a1-p-x-series-3328019.3mf.xz",
+   "instance_id": "3328019",
+   "name": "Mediano - PARA PLACAS DE 256 MM - Series A1, P y X",
+   "thumbnail": "previews/profiles/3328019.jpg",
+   "print_time_h": 26.3,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P2S",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "X1E",
+    "H2S",
+    "H2D",
+    "X2D",
+    "A1",
+    "P1P"
+   ],
+   "default": true,
+   "size": 1536556,
+   "sha256": "576b6080f98dbf2a2d64eab413b2ddaf1031dc6d7a48e550c4eabc13d23ed608",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Medium - FOR 256MM PLATES - A1, P & X Series",
+    "profile_notes": "-to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/large-for-300mm-plates-a2l-h-series-3328068.3mf.xz",
+   "instance_id": "3328068",
+   "name": "Grande - PARA PLACAS DE 300 MM - A2L, Serie H",
+   "thumbnail": "previews/profiles/3328068.jpg",
+   "print_time_h": 39.8,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 1542484,
+   "sha256": "3701053bf7681e82032f2e7956a82c11ce06b0c5be102d6e49acee6a2a806af6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Large - FOR 300MM PLATES - A2L, H-Series",
+    "profile_notes": "-to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/small-for-185mm-plates-a1-mini-3328058.3mf.xz",
+   "instance_id": "3328058",
+   "name": "Pequeño - PARA PLACAS DE 185MM - A1 mini",
+   "thumbnail": "previews/profiles/3328058.jpg",
+   "print_time_h": 15.8,
+   "plates": 5,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 1539248,
+   "sha256": "7cabdaf3e62575bcbbdc373896ae22b7a70c00beac18fa57668a3da586b29cc7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Small - FOR 185MM PLATES - A1 Mini",
+    "profile_notes": "-to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  }
+ ],
+ "id": "2967866",
+ "title": "Comedero para mascotas con cuenco",
+ "slug": "pet-feeder-with-bowl",
+ "url": "https://makerworld.com/en/models/2967866-pet-feeder-with-bowl",
+ "author": "3DRCGRAPIX",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Comedero para mascotas: empujar para alimentar\nBreve descripción\nUn alimentador manual sencillo y fiable para alimentos secos.\nSimplemente presione el botón de la pata superior varias veces (no demasiado lento) para dispensar la comida directamente en el recipiente de abajo. Sin pilas, sin aparatos electrónicos, sin complicaciones.\nDiseñado con un recipiente extraíble para facilitar la limpieza y el uso diario.\n\nNOTA\n- No olvides explorar el filamento de calidad alimentaria [PLA Pure]\n*Para obtener información detallada sobre la seguridad de los filamentos, haga clic aquí.\n\nbasado en este mecanismo:\n\nCaracterísticas\nMecanismo de empuje para alimentar\nCuenco extraíble\nVarios tamaños disponibles\nIdeal para fideos, cereales, comida para mascotas y otros alimentos secos.\nIdeal para perros (grande 300 %, mediano 256 %)\nIdeal para gatos (Grande 300%, Mediano 256%)\n¿Lo necesitas aún más pequeño? Simplemente reduzca la versión pequeña para pájaros, ratones u otras mascotas pequeñas.\nNo se requieren baterías\nFácil de limpiar\nFácil de imprimir\nGran capacidad de almacenamiento\nFácil de personalizar con nombres, colores y archivos SVG.\n\nCómo funciona\n1 Llene el comedero con comida seca\n2 Coloca un recipiente debajo\n3 Pulsa el botón superior con forma de pata\n4 La comida se dispensa en el recipiente situado debajo.\n\nImpresión\nSe recomienda PLA puro (seguro para los alimentos)\nCompatible con PETG\nSoportes requeridos\nTPU requerido para las bobinas\nApto para principiantes\nFácil montaje\n\nNotas\nel modelo tiene el nombre mogly; para cambiarlo debes hacerlo en la segmentación\nElija el tamaño del alimentador según el tamaño que se dispensa\nLas versiones más grandes proporcionan un contenedor más grande y una abertura de salida más grande.\nDiseñado solo para alimentos secos\nNo destinado a alimentos húmedos.\nEl elevador inferior se puede ampliar o reducir para adaptarse mejor a diferentes tamaños de tazones.",
+ "use_cases": [],
+ "tags": [
+  "mascotas",
+  "bol",
+  "cuenco para mascotas",
+  "comedero para mascotas",
+  "alimentador",
+  "dispensador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3e1fb88314057b/design/6c1a29a9e7d5381c.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.gif"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   788,
+   728
+  ],
+  "previews/02.gif": [
+   270,
+   480
+  ],
+  "previews/profiles/3328019.jpg": [
+   600,
+   554
+  ],
+  "previews/profiles/3328068.jpg": [
+   600,
+   554
+  ],
+  "previews/profiles/3328058.jpg": [
+   600,
+   554
+  ]
+ },
+ "variant_hint": "para A1 y A1 mini",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

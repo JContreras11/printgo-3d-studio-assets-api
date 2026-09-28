@@ -1,0 +1,578 @@
+{
+ "files": [
+  {
+   "path": "model/multicolor-multipart-original-version-1019326.3mf.xz",
+   "instance_id": "1019326",
+   "name": "Multiparte multicolor (versión original)",
+   "thumbnail": "previews/profiles/1019326.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 681,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 2703724,
+   "sha256": "79454bf67e8d60cb0875a66ef278875d7b79677a8bc1b5faec70471682d4c07b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Multicolor Multipart (Original Version)",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/0-2mm-layer-2-walls-20-lightning-infill-1121293.3mf.xz",
+   "instance_id": "1121293",
+   "name": "Capa de 0,2 mm, 2 paredes, 20 % de relleno de rayos",
+   "thumbnail": "previews/profiles/1121293.jpg",
+   "print_time_h": 1.1,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2683160,
+   "sha256": "ae0f32f71e0dc6d84aca3544fec1296609a5afce4529f8fedb01cd4b062866cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 20% lightning infill",
+    "creation_date": "2025-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3412,
+      "weight_g": 9.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 509,
+      "weight_g": 0.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/1-plate-1-filament-change-arachne-wall-adaptive-cu-1201668.3mf.xz",
+   "instance_id": "1201668",
+   "name": "1 Placa, 1 Cambio de Filamento, Muro de Aracne, Cúbico Adaptable",
+   "thumbnail": "previews/profiles/1201668.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 2624100,
+   "sha256": "98e3050347b7dd24c71cde9ca07f6ba5d67685f0318888a15ee0bc08e01748ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "1 Plate, 1 Filament Change, Arachne Wall, Adaptive Cubic",
+    "profile_notes": "Prints with single filament change on a single plate with printing by object Uses Arachne wall generation Uses Adaptive Cubic infill",
+    "creation_date": "2025-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3016,
+      "weight_g": 15.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/23-5-cm-h-facing-left-or-right-no-supports-1352424.3mf.xz",
+   "instance_id": "1352424",
+   "name": "23,5 cm H, mirando hacia la izquierda o hacia la derecha, sin soportes",
+   "thumbnail": "previews/profiles/1352424.jpg",
+   "print_time_h": 20.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "X1E",
+    "A1",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4529876,
+   "sha256": "e8e80cfc98fa6bb2e6a3fb72ec4d4a3f96c1e485f13de7636348b14c47e3c38a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/fuzzy-skin-125-2-plates-0-2mm-layer-3-walls-5-infi-1026355.3mf.xz",
+   "instance_id": "1026355",
+   "name": "Piel difusa, 125 %, 2 placas de capa de 0,2 mm, 3 paredes, 5 % de relleno",
+   "thumbnail": "previews/profiles/1026355.jpg",
+   "print_time_h": 1.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 91,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "X1",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2854148,
+   "sha256": "17137fa00f4d12ceb20dc29dbce769fc1d27e4177f6a13925a49879354a793c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Fuzzy skin, 125%, 2 plates 0.2mm layer, 3 walls, 5% infill",
+    "profile_notes": "125% model, fuzzy skin and tree supports. Eyes and nose glued in afterwards (they don't have fuzzy skin)",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5001,
+      "weight_g": 29.39,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 505,
+      "weight_g": 0.25,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/maltese-dog-with-tag-1936976.3mf.xz",
+   "instance_id": "1936976",
+   "name": "Perro maltés con etiqueta",
+   "thumbnail": "previews/profiles/1936976.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "size": 2928248,
+   "sha256": "6a71bfcf4a1d14eeb4ebbad4594a01bd7a1cc375ec0031f2242d647667e3bbe0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Maltese Dog with Tag",
+    "profile_notes": "You can print the maltese dog alomg with the tag, you can choose the name of the dog by changing it. I've used some nylon thread to put it around the dog's neck.",
+    "creation_date": "2025-05-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/multicolor-ams-two-versions-1406673.3mf.xz",
+   "instance_id": "1406673",
+   "name": "AMS multicolor (dos versiones)",
+   "thumbnail": "previews/profiles/1406673.jpg",
+   "print_time_h": 5.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 136,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4342596,
+   "sha256": "c4e5f7b41d157a90661ec9323a19933f0085cd1bdba7ae3952282619a11f0a13",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Multicolor AMS (Two Versions)",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/multicolor-multipart-smiling-eyes-version-1406725.3mf.xz",
+   "instance_id": "1406725",
+   "name": "Multicolor Multiparte (Versión Ojos Sonrientes)",
+   "thumbnail": "previews/profiles/1406725.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "X1E",
+    "A1",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "X1 Carbon",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2716260,
+   "sha256": "987025e8e571464f2d4dc6c0c399d895c69fafa8f1c8a130fe0d7d48bcaf2ee7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Multicolor Multipart (Smiling Eyes Version)",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/one-palet-use-ams-3676538.3mf.xz",
+   "instance_id": "3676538",
+   "name": "Una paleta - use AMS",
+   "thumbnail": "previews/profiles/3676538.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2683628,
+   "sha256": "fe0c414b2f125dc3e6e9a2523da9f3c8028e0f9e8eb5dec52554239b128c0e21",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "One palet - use ams",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/single-color-1019371.3mf.xz",
+   "instance_id": "1019371",
+   "name": "un solo color",
+   "thumbnail": "previews/profiles/1019371.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 175,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2580456,
+   "sha256": "72171326a3276b9e7b9b9113a123889ac14a87044b349d793c1d463da5b8eaaa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Single Color",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1035587",
+ "title": "Pequeño perro maltés",
+ "slug": "little-maltese-dog",
+ "url": "https://makerworld.com/en/models/1035587-little-maltese-dog",
+ "author": "wolhart",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Pequeña figura de Perro Maltés inspirada en mi perro Sherlock (verlo en las últimas fotos).\nÚltimas actualizaciones\n¡Nuevo perfil de impresión AMS!\n¡Nueva versión con ojos sonrientes!\nNariz modificada, para armar sin pegamento!\n¡Nuevo perrito maltés - Edición llavero!\n¡Nuevo perrito maltés - Edición tejida!\nFunciones de impresión\nNo se necesitan soportes.\nAdaptación de la altura de la capa para un acabado suave.\nCosturas cuidadosamente colocadas para una apariencia perfecta.\nMúltiples versiones, para su comodidad\nMultiparte: imprima un color a la vez y luego ensamble.\nAMS multicolor: imprima en varios colores de una sola vez utilizando un AMS.\nMonocolor: Modelo sólido más sencillo, sin partes separadas.\nTenga en cuenta: incluso si tiene AMS, considere la versión No-AMS para reducir el uso de material.\nModelos relacionados\nPerrito Maltés - Edición Llavero\nPerrito Maltés - Edición de punto\nLlavero CubicPets #001 de perro maltés cúbico\n\nPara este modelo 3D utilicé una combinación de herramientas, incluidas Image-to-3D y Autodesk Meshmixer, entre otras.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "maltés",
+  "miniatura",
+  "lindo",
+  "cachorro",
+  "pequeño",
+  "cifra",
+  "figurilla",
+  "mascota"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9a8a48b1f4fb7c/design/2025-04-27_393b7b92f9cb1.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   749
+  ],
+  "previews/05.gif": [
+   320,
+   240
+  ],
+  "previews/profiles/1019326.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1121293.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1201668.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1352424.jpg": [
+   600,
+   783
+  ],
+  "previews/profiles/1026355.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1936976.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1406673.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1406725.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3676538.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1019371.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor y monocromo",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

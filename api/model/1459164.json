@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/dog-bowl-riser-0-2mm-layer-2-walls-15-infill-1521248.3mf.xz",
+   "instance_id": "1521248",
+   "name": "Elevador para comedero para perros: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "thumbnail": "previews/profiles/1521248.jpg",
+   "print_time_h": 10.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 88,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2S",
+    "P2S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "X2D"
+   ],
+   "default": true,
+   "size": 2425988,
+   "sha256": "81287f1d3c8f6c6bb2c24fdce1413f3b707fa188149535546e2d7901e8672688",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Dog Bowl Riser - 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-05-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  }
+ ],
+ "id": "1459164",
+ "title": "Soporte elevador para cuenco para perros",
+ "slug": "dog-bowl-riser-stand",
+ "url": "https://makerworld.com/en/models/1459164-dog-bowl-riser-stand",
+ "author": "item4me",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Entonces, mi perro come como si estuviera en un concurso de comida rápida y termina persiguiendo su plato por la mitad de la cocina. Como es de una raza más alta, pensé que le haría un favor a él (y a mi piso) y le construí un pequeño elevador para cuencos de comida. Ahora él no tiene que doblarse por la mitad sólo para comer, y yo no tengo que hacer de equipo de limpieza en cada comida. También funciona muy bien para el recipiente de agua: no más salpicaduras como si fuera una fiesta en la piscina. Si tienes un cachorro grande o mayor que come como si fuera su última comida, esto cambia las reglas del juego.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "bol",
+  "tubo de subida",
+  "pararse",
+  "alimento",
+  "agua",
+  "titular",
+  "plato de comida",
+  "elevador de tazón de comida para perros"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd1b62bab945219/design/2025-05-27_6fb0ef297ad988.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1521248.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

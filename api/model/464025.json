@@ -1,0 +1,155 @@
+{
+ "files": [
+  {
+   "path": "model/original-design-holds-8-cans-372703.3mf.xz",
+   "instance_id": "372703",
+   "name": "Diseño original - Capacidad para 8 latas.",
+   "thumbnail": "previews/profiles/372703.jpg",
+   "print_time_h": 7.1,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 274,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "size": 1283460,
+   "sha256": "e4ba1861bab9e0127cebe9e164cbfb4db2c5c7920c6a5ba91c8c73d1fb116f11",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Original design - Holds 8 cans",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5764,
+      "weight_g": 56.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6173,
+      "weight_g": 59.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7010,
+      "weight_g": 72.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6679,
+      "weight_g": 69.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   }
+  }
+ ],
+ "id": "464025",
+ "title": "Dispensador de latas de comida para gatos",
+ "slug": "cat-food-can-dispenser",
+ "url": "https://makerworld.com/en/models/464025-cat-food-can-dispenser",
+ "author": "freshbrewed",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Tus gatos merecen el producto cárnico enlatado más fresco y nadie quiere comida vieja para gatos acechando en la parte trasera de sus gabinetes. Este dispensador sirve sus latas en orden de primero en entrar, primero en salir. El dispensador imprime sin soportes y no se requiere hardware ni pegamento para su montaje.\n\nDiseño\nCapacidad para 8 latas de 3 oz por dispensador (nota: probado con latas Fancy Feast que tienen aproximadamente un diámetro de 66 mm y una altura de 37 mm; es posible que desee revisar sus latas antes de imprimir si prefiere una marca diferente)\nLas latas ruedan suavemente de arriba a abajo para facilitar la carga.\nCabe en un gabinete de 12 pulgadas de profundidad.\nEl perfil delgado facilita la colocación de varios dispensadores uno al lado del otro\nImprimible en una cama de impresión de 180x180 mm (por ejemplo, Bambu A1 mini, Prusa Mini)\nDimensiones (LxAnxAl)\n280,5x47,6x172,8mm\n\nConfiguración de impresión\nNada especial. Pruebo la impresión con PLA y los valores predeterminados de la cortadora. Los STL están orientados según se recomienda para la impresión.\n\nAsamblea\nEnsamble deslizando las colas de milano correspondientes. Cuando se ensamblan correctamente, todas las piezas deben quedar al ras tanto en las superficies interiores como exteriores. Las colas de milano deben quedar bastante ajustadas.\nImprima los cuatro componentes (frontal izquierdo, posterior izquierdo, frontal derecho, posterior derecho)\nConecte el frente izquierdo a la parte posterior izquierda y el frente derecho a la parte posterior derecha deslizando las colas de milano juntas. Asegúrese de que las 3 colas de milano estén enganchadas en cada lado. Puede que le resulte más fácil enganchar parcialmente la cola de milano más grande en la parte inferior antes de alinear las colas de milano media y superior.\nConecte la mitad izquierda a la mitad derecha deslizando cada conjunto de colas de milano desde la parte inferior. Quizás nuevamente le resulte más fácil comenzar desde abajo. Solo asegúrese de que las colas de milano superior, media e inferior estén aseguradas de adelante hacia atrás.\nNotas\nSi tiene una impresora más grande, me encantaría que me ayudara a probar tamaños adicionales. ¡También puedo hacer una versión de 12 latas en 6 partes si hay interés!\nSi planeas remezclar esto, ten en cuenta que la mayoría de las latas no son simples cilindros. En la vida real, las latas están ligeramente inclinadas debido al borde alrededor de la parte superior. Esto aumenta su ancho total lo suficiente como para marcar la diferencia. El diseño se adapta a esto para evitar una cantidad de fricción entre las latas y la pared lateral que, de otro modo, atascaría el dispensador.\nInspiración/créditos\nAeris - Dispensador de latas de comida para gatos (modular) de Erdrick\nÍcono de gato de Kim Sun Young en The Noun Project\n\nBoost MeLos prototipos para este diseño utilizaron bastante filamento, ¡así que aprecio tus mejoras!",
+ "use_cases": [],
+ "tags": [
+  "comida para gatos",
+  "poder",
+  "dispensador",
+  "bote",
+  "gatito",
+  "comida para mascotas",
+  "comida húmeda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-05-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5ac29029b8a2ff/design/2024-05-14_1723286449514.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   810,
+   1440
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/03.jpg": [
+   810,
+   1440
+  ],
+  "previews/04.jpg": [
+   810,
+   1440
+  ],
+  "previews/profiles/372703.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

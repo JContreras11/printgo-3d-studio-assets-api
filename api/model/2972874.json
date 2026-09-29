@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/pawdrop-comedero-1.3mf.xz",
+   "path": "model/pawdrop-comedero-11h06.3mf.xz",
    "instance_id": "3334293",
-   "name": "pawdrop-comedero-1",
+   "name": "pawdrop-comedero-11h06",
    "thumbnail": "previews/profiles/3334293.jpg",
    "print_time_h": 11.1,
    "plates": 6,
@@ -45,47 +45,9 @@
    }
   },
   {
-   "path": "model/pawdrop-comedero-2.3mf.xz",
-   "instance_id": "3334406",
-   "name": "pawdrop-comedero-2",
-   "thumbnail": "previews/profiles/3334406.jpg",
-   "print_time_h": 9.5,
-   "plates": 3,
-   "rating": 4.5,
-   "rating_count": 8,
-   "by_designer": true,
-   "printers": [
-    "P2S",
-    "H2D",
-    "H2D Pro",
-    "H2C",
-    "A1",
-    "H2S",
-    "A2L",
-    "X2D"
-   ],
-   "default": false,
-   "size": 1802556,
-   "sha256": "b5e3fe8cd0af1db80ced262507318a51a52ac0f9ecf920b078ff7a7a83390801",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "For bigger printers like the P2S with less plates.",
-    "creation_date": "2026-06-24",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 3
-   }
-  },
-  {
-   "path": "model/pawdrop-comedero-3.3mf.xz",
+   "path": "model/pawdrop-comedero-12min.3mf.xz",
    "instance_id": "3371427",
-   "name": "pawdrop-comedero-3",
+   "name": "pawdrop-comedero-12min",
    "thumbnail": "previews/profiles/3371427.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -127,9 +89,9 @@
    }
   },
   {
-   "path": "model/pawdrop-comedero-4.3mf.xz",
+   "path": "model/pawdrop-comedero-48min.3mf.xz",
    "instance_id": "3455563",
-   "name": "pawdrop-comedero-4",
+   "name": "pawdrop-comedero-48min",
    "thumbnail": "previews/profiles/3455563.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -168,6 +130,44 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
+   }
+  },
+  {
+   "path": "model/pawdrop-comedero-9h30.3mf.xz",
+   "instance_id": "3334406",
+   "name": "pawdrop-comedero-9h30",
+   "thumbnail": "previews/profiles/3334406.jpg",
+   "print_time_h": 9.5,
+   "plates": 3,
+   "rating": 4.5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "H2S",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "size": 1802556,
+   "sha256": "b5e3fe8cd0af1db80ced262507318a51a52ac0f9ecf920b078ff7a7a83390801",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "For bigger printers like the P2S with less plates.",
+    "creation_date": "2026-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
    }
   }
  ],
@@ -240,15 +240,15 @@
    600,
    450
   ],
-  "previews/profiles/3334406.jpg": [
-   600,
-   450
-  ],
   "previews/profiles/3371427.jpg": [
    450,
    600
   ],
   "previews/profiles/3455563.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3334406.jpg": [
    600,
    450
   ]

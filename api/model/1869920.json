@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/comedero-elevado-1.3mf.xz",
+   "path": "model/comedero-elevado-4h06.3mf.xz",
    "instance_id": "2001361",
-   "name": "comedero-elevado-1",
+   "name": "comedero-elevado-4h06",
    "thumbnail": "previews/profiles/2001361.jpg",
    "print_time_h": 4.1,
    "plates": 2,
@@ -43,9 +43,52 @@
    }
   },
   {
-   "path": "model/comedero-elevado-2.3mf.xz",
+   "path": "model/comedero-elevado-4h06-2.3mf.xz",
+   "instance_id": "3035632",
+   "name": "comedero-elevado-4h06-2",
+   "thumbnail": "previews/profiles/3035632.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 7193752,
+   "sha256": "14ee665b668096a47032efca0172d9e529451d8886d506b524a7e23880ced875",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Taller w Fuzzy Skin 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Diameter but taller with ridged multifractal fuzzy skin .2 variable layers 3 walls 15% gyroid infill",
+    "creation_date": "2026-04-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/comedero-elevado-5h18.3mf.xz",
    "instance_id": "2827074",
-   "name": "comedero-elevado-2",
+   "name": "comedero-elevado-5h18",
    "thumbnail": "previews/profiles/2827074.jpg",
    "print_time_h": 5.3,
    "plates": 2,
@@ -82,49 +125,6 @@
     "printer": "Bambu Lab A1 mini",
     "layer_height": "0.2",
     "infill": "25%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/comedero-elevado-3.3mf.xz",
-   "instance_id": "3035632",
-   "name": "comedero-elevado-3",
-   "thumbnail": "previews/profiles/3035632.jpg",
-   "print_time_h": 4.1,
-   "plates": 2,
-   "rating": 5,
-   "rating_count": 11,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "A1",
-    "A2L",
-    "X1 Carbon",
-    "H2C",
-    "X2D",
-    "X1E",
-    "H2D Pro",
-    "H2S",
-    "H2D",
-    "P2S",
-    "X1",
-    "P1P"
-   ],
-   "default": false,
-   "size": 7193752,
-   "sha256": "14ee665b668096a47032efca0172d9e529451d8886d506b524a7e23880ced875",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.01.55",
-    "profile_title": "Taller w Fuzzy Skin 0.2mm layer, 3 walls, 15% infill",
-    "profile_notes": "Diameter but taller with ridged multifractal fuzzy skin .2 variable layers 3 walls 15% gyroid infill",
-    "creation_date": "2026-04-30",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
    }
@@ -203,13 +203,13 @@
    600,
    450
   ],
-  "previews/profiles/2827074.jpg": [
-   600,
-   800
-  ],
   "previews/profiles/3035632.jpg": [
    600,
    389
+  ],
+  "previews/profiles/2827074.jpg": [
+   600,
+   800
   ]
  },
  "storage": {

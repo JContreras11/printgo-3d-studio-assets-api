@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/calabazas-pequenas-1.3mf.xz",
+   "path": "model/calabazas-pequenas-30min.3mf.xz",
    "instance_id": "1818374",
-   "name": "calabazas-pequenas-1",
+   "name": "calabazas-pequenas-30min",
    "thumbnail": "previews/profiles/1818374.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -35,42 +35,38 @@
    }
   },
   {
-   "path": "model/calabazas-pequenas-2.3mf.xz",
-   "instance_id": "2065745",
-   "name": "calabazas-pequenas-2",
-   "thumbnail": "previews/profiles/2065745.jpg",
-   "print_time_h": 4.1,
+   "path": "model/calabazas-pequenas-18min.3mf.xz",
+   "instance_id": "3366311",
+   "name": "calabazas-pequenas-18min",
+   "thumbnail": "previews/profiles/3366311.jpg",
+   "print_time_h": 0.3,
    "plates": 1,
-   "rating": null,
-   "rating_count": 0,
+   "rating": 5,
+   "rating_count": 8,
    "by_designer": false,
    "printers": [
-    "X1 Carbon",
+    "A1",
     "X1E",
+    "X1",
+    "P1P",
+    "A2L",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "H2S",
+    "P2S",
     "H2D",
     "H2D Pro",
-    "P1P",
-    "P1S",
-    "P2S",
-    "H2S",
-    "X1",
-    "A1",
     "H2C",
-    "X2D",
-    "A2L"
+    "X1 Carbon"
    ],
    "default": false,
-   "size": 2908360,
-   "sha256": "64750cfb46e12bd6c289d2d527cd8a58dea04e539ecfc0c755f6adfcf2467bcd",
+   "size": 3170652,
+   "sha256": "a24af025bbad281b7f48686c38eb35bd4a2a5f740bfc4171523eaa1f248bfd04",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
-    "application": "BambuStudio-02.02.02.56",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "0,2 layer 15% infil 2 loop Diminuito un po la velocita per una miglior qualità",
-    "creation_date": "2025-10-25",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
+    "printer": "Bambu Lab A1",
     "layer_height": "0.2",
     "infill": "15%",
     "support_type": "tree(auto)",
@@ -78,9 +74,9 @@
    }
   },
   {
-   "path": "model/calabazas-pequenas-3.3mf.xz",
+   "path": "model/calabazas-pequenas-2h06.3mf.xz",
    "instance_id": "2080888",
-   "name": "calabazas-pequenas-3",
+   "name": "calabazas-pequenas-2h06",
    "thumbnail": "previews/profiles/2080888.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -122,9 +118,52 @@
    }
   },
   {
-   "path": "model/calabazas-pequenas-4.3mf.xz",
+   "path": "model/calabazas-pequenas-2h18.3mf.xz",
+   "instance_id": "3784183",
+   "name": "calabazas-pequenas-2h18",
+   "thumbnail": "previews/profiles/3784183.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 2787888,
+   "sha256": "c2987b6d5226da92676b63484d885dbe0003238a3c2599e532e1a181a53e2516",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "参数细节优化版，一盘五个，适配A1/A1mini",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/calabazas-pequenas-3h24.3mf.xz",
    "instance_id": "1952425",
-   "name": "calabazas-pequenas-4",
+   "name": "calabazas-pequenas-3h24",
    "thumbnail": "previews/profiles/1952425.jpg",
    "print_time_h": 3.4,
    "plates": 1,
@@ -166,9 +205,91 @@
    }
   },
   {
-   "path": "model/calabazas-pequenas-5.3mf.xz",
+   "path": "model/calabazas-pequenas-48min.3mf.xz",
+   "instance_id": "3366321",
+   "name": "calabazas-pequenas-48min",
+   "thumbnail": "previews/profiles/3366321.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "H2S",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": false,
+   "size": 19149708,
+   "sha256": "621aebc97125a17ec263b3e53a953db7457d82444dfe0fcd89384579f502d15b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/calabazas-pequenas-4h06.3mf.xz",
+   "instance_id": "2065745",
+   "name": "calabazas-pequenas-4h06",
+   "thumbnail": "previews/profiles/2065745.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "P2S",
+    "H2S",
+    "X1",
+    "A1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2908360,
+   "sha256": "64750cfb46e12bd6c289d2d527cd8a58dea04e539ecfc0c755f6adfcf2467bcd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0,2 layer 15% infil 2 loop Diminuito un po la velocita per una miglior qualità",
+    "creation_date": "2025-10-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/calabazas-pequenas-4h54.3mf.xz",
    "instance_id": "1832535",
-   "name": "calabazas-pequenas-5",
+   "name": "calabazas-pequenas-4h54",
    "thumbnail": "previews/profiles/1832535.jpg",
    "print_time_h": 4.9,
    "plates": 1,
@@ -204,127 +325,6 @@
     "printer": "Bambu Lab P1S",
     "layer_height": "0.2",
     "infill": "5%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/calabazas-pequenas-6.3mf.xz",
-   "instance_id": "3784183",
-   "name": "calabazas-pequenas-6",
-   "thumbnail": "previews/profiles/3784183.jpg",
-   "print_time_h": 2.3,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "X2D",
-    "X1",
-    "X1E",
-    "P2S",
-    "A1 mini",
-    "H2D",
-    "A2L",
-    "P1S",
-    "H2C",
-    "X1 Carbon",
-    "H2D Pro",
-    "H2S",
-    "P1P"
-   ],
-   "default": false,
-   "size": 2787888,
-   "sha256": "c2987b6d5226da92676b63484d885dbe0003238a3c2599e532e1a181a53e2516",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "参数细节优化版，一盘五个，适配A1/A1mini",
-    "creation_date": "2026-09-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.16",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/calabazas-pequenas-7.3mf.xz",
-   "instance_id": "3366311",
-   "name": "calabazas-pequenas-7",
-   "thumbnail": "previews/profiles/3366311.jpg",
-   "print_time_h": 0.3,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 8,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "X1E",
-    "X1",
-    "P1P",
-    "A2L",
-    "A1 mini",
-    "P1S",
-    "X2D",
-    "H2S",
-    "P2S",
-    "H2D",
-    "H2D Pro",
-    "H2C",
-    "X1 Carbon"
-   ],
-   "default": false,
-   "size": 3170652,
-   "sha256": "a24af025bbad281b7f48686c38eb35bd4a2a5f740bfc4171523eaa1f248bfd04",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/calabazas-pequenas-8.3mf.xz",
-   "instance_id": "3366321",
-   "name": "calabazas-pequenas-8",
-   "thumbnail": "previews/profiles/3366321.jpg",
-   "print_time_h": 0.8,
-   "plates": 1,
-   "rating": 4.3,
-   "rating_count": 3,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "X2D",
-    "H2D Pro",
-    "X1 Carbon",
-    "P2S",
-    "P1S",
-    "H2C",
-    "H2D",
-    "X1E",
-    "H2S",
-    "X1",
-    "A2L",
-    "A1 mini",
-    "P1P"
-   ],
-   "default": false,
-   "size": 19149708,
-   "sha256": "621aebc97125a17ec263b3e53a953db7457d82444dfe0fcd89384579f502d15b",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
    }
@@ -369,32 +369,32 @@
    600,
    450
   ],
-  "previews/profiles/2065745.jpg": [
-   600,
-   800
+  "previews/profiles/3366311.jpg": [
+   450,
+   600
   ],
   "previews/profiles/2080888.jpg": [
    600,
    450
   ],
-  "previews/profiles/1952425.jpg": [
-   600,
-   450
-  ],
-  "previews/profiles/1832535.jpg": [
-   600,
-   600
-  ],
   "previews/profiles/3784183.jpg": [
    340,
    264
   ],
-  "previews/profiles/3366311.jpg": [
-   450,
-   600
+  "previews/profiles/1952425.jpg": [
+   600,
+   450
   ],
   "previews/profiles/3366321.jpg": [
    450,
+   600
+  ],
+  "previews/profiles/2065745.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1832535.jpg": [
+   600,
    600
   ]
  },

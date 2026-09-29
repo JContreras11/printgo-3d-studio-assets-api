@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cueva-gatos-1.3mf.xz",
+   "path": "model/cueva-gatos-6h.3mf.xz",
    "instance_id": "3280249",
-   "name": "cueva-gatos-1",
+   "name": "cueva-gatos-6h",
    "thumbnail": "previews/profiles/3280249.jpg",
    "print_time_h": 6,
    "plates": 2,
@@ -39,53 +39,50 @@
    }
   },
   {
-   "path": "model/cueva-gatos-2.3mf.xz",
-   "instance_id": "3350155",
-   "name": "cueva-gatos-2",
-   "thumbnail": "previews/profiles/3350155.jpg",
-   "print_time_h": 0.9,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 2,
+   "path": "model/cueva-gatos-18h24.3mf.xz",
+   "instance_id": "3648327",
+   "name": "cueva-gatos-18h24",
+   "thumbnail": "previews/profiles/3648327.jpg",
+   "print_time_h": 18.4,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
    "by_designer": false,
    "printers": [
-    "P2S",
-    "X2D",
-    "A1 mini",
     "P1S",
-    "A2L",
-    "H2S",
-    "A1",
     "X1E",
-    "H2D Pro",
+    "P2S",
     "H2C",
-    "X1",
-    "P1P",
     "H2D",
-    "X1 Carbon"
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "X2D"
    ],
    "default": false,
-   "size": 974316,
-   "sha256": "9f39ab76d70abd2359b0d71ff2f71d7d74d7e5ac5eda5c7ed0f04757c7d67733",
+   "size": 1340152,
+   "sha256": "82c0175b4f533027df99f185033eb635c29f040b0060f158503093950b4ec74f",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.07.01.57",
-    "profile_title": "Autre connecteur pour assembler la maison",
-    "profile_notes": "J ai modifié le connecteur de la maison . celui ci est moins serré et permet aussi de plus facilement assemblé les maroi sans trop frocé. le collage pour tout bien faire tenir est conseillé",
-    "creation_date": "2026-06-28",
+    "profile_title": "windowed panels, screwholes, optimized connectors, feet",
+    "profile_notes": "Additional materials needed: M3x8 ball-head screws x100 M4x20 screws x5 M4 inserts x5 No glue required :)",
+    "creation_date": "2026-08-16",
     "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
+    "printer": "Bambu Lab P1S",
     "layer_height": "0.2",
-    "infill": "8%",
+    "infill": "10%",
     "support_type": "tree(auto)",
-    "photos": 1
+    "photos": 6
    }
   },
   {
-   "path": "model/cueva-gatos-3.3mf.xz",
+   "path": "model/cueva-gatos-4h24.3mf.xz",
    "instance_id": "3783941",
-   "name": "cueva-gatos-3",
+   "name": "cueva-gatos-4h24",
    "thumbnail": "previews/profiles/3783941.jpg",
    "print_time_h": 4.4,
    "plates": 2,
@@ -126,44 +123,47 @@
    }
   },
   {
-   "path": "model/cueva-gatos-4.3mf.xz",
-   "instance_id": "3648327",
-   "name": "cueva-gatos-4",
-   "thumbnail": "previews/profiles/3648327.jpg",
-   "print_time_h": 18.4,
-   "plates": 6,
-   "rating": null,
-   "rating_count": 0,
+   "path": "model/cueva-gatos-54min.3mf.xz",
+   "instance_id": "3350155",
+   "name": "cueva-gatos-54min",
+   "thumbnail": "previews/profiles/3350155.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
    "by_designer": false,
    "printers": [
-    "P1S",
-    "X1E",
     "P2S",
-    "H2C",
-    "H2D",
-    "X1 Carbon",
-    "H2D Pro",
-    "P1P",
+    "X2D",
+    "A1 mini",
+    "P1S",
+    "A2L",
     "H2S",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "H2C",
     "X1",
-    "X2D"
+    "P1P",
+    "H2D",
+    "X1 Carbon"
    ],
    "default": false,
-   "size": 1340152,
-   "sha256": "82c0175b4f533027df99f185033eb635c29f040b0060f158503093950b4ec74f",
+   "size": 974316,
+   "sha256": "9f39ab76d70abd2359b0d71ff2f71d7d74d7e5ac5eda5c7ed0f04757c7d67733",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.07.01.57",
-    "profile_title": "windowed panels, screwholes, optimized connectors, feet",
-    "profile_notes": "Additional materials needed: M3x8 ball-head screws x100 M4x20 screws x5 M4 inserts x5 No glue required :)",
-    "creation_date": "2026-08-16",
+    "profile_title": "Autre connecteur pour assembler la maison",
+    "profile_notes": "J ai modifié le connecteur de la maison . celui ci est moins serré et permet aussi de plus facilement assemblé les maroi sans trop frocé. le collage pour tout bien faire tenir est conseillé",
+    "creation_date": "2026-06-28",
     "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
+    "printer": "Bambu Lab P2S",
     "layer_height": "0.2",
-    "infill": "10%",
+    "infill": "8%",
     "support_type": "tree(auto)",
-    "photos": 6
+    "photos": 1
    }
   }
  ],
@@ -206,17 +206,17 @@
    600,
    450
   ],
-  "previews/profiles/3350155.jpg": [
+  "previews/profiles/3648327.jpg": [
    600,
-   800
+   1066
   ],
   "previews/profiles/3783941.jpg": [
    600,
    657
   ],
-  "previews/profiles/3648327.jpg": [
+  "previews/profiles/3350155.jpg": [
    600,
-   1066
+   800
   ]
  },
  "storage": {

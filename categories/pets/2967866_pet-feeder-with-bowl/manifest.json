@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/comedero-mascotas-1.3mf.xz",
+   "path": "model/comedero-mascotas-26h18.3mf.xz",
    "instance_id": "3328019",
-   "name": "comedero-mascotas-1",
+   "name": "comedero-mascotas-26h18",
    "thumbnail": "previews/profiles/3328019.jpg",
    "print_time_h": 26.3,
    "plates": 5,
@@ -44,44 +44,9 @@
    }
   },
   {
-   "path": "model/comedero-mascotas-2.3mf.xz",
-   "instance_id": "3328068",
-   "name": "comedero-mascotas-2",
-   "thumbnail": "previews/profiles/3328068.jpg",
-   "print_time_h": 39.8,
-   "plates": 5,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "H2C",
-    "A2L",
-    "H2D Pro",
-    "H2S",
-    "H2D"
-   ],
-   "default": false,
-   "size": 1542484,
-   "sha256": "3701053bf7681e82032f2e7956a82c11ce06b0c5be102d6e49acee6a2a806af6",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "Large - FOR 300MM PLATES - A2L, H-Series",
-    "profile_notes": "-to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
-    "creation_date": "2026-07-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2C",
-    "layer_height": "0.24",
-    "infill": "5%",
-    "support_type": "tree(auto)",
-    "photos": 5
-   }
-  },
-  {
-   "path": "model/comedero-mascotas-3.3mf.xz",
+   "path": "model/comedero-mascotas-15h48.3mf.xz",
    "instance_id": "3328058",
-   "name": "comedero-mascotas-3",
+   "name": "comedero-mascotas-15h48",
    "thumbnail": "previews/profiles/3328058.jpg",
    "print_time_h": 15.8,
    "plates": 5,
@@ -116,6 +81,41 @@
     "creation_date": "2026-06-26",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/comedero-mascotas-39h48.3mf.xz",
+   "instance_id": "3328068",
+   "name": "comedero-mascotas-39h48",
+   "thumbnail": "previews/profiles/3328068.jpg",
+   "print_time_h": 39.8,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 1542484,
+   "sha256": "3701053bf7681e82032f2e7956a82c11ce06b0c5be102d6e49acee6a2a806af6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Large - FOR 300MM PLATES - A2L, H-Series",
+    "profile_notes": "-to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
     "layer_height": "0.24",
     "infill": "5%",
     "support_type": "tree(auto)",
@@ -161,11 +161,11 @@
    600,
    554
   ],
-  "previews/profiles/3328068.jpg": [
+  "previews/profiles/3328058.jpg": [
    600,
    554
   ],
-  "previews/profiles/3328058.jpg": [
+  "previews/profiles/3328068.jpg": [
    600,
    554
   ]

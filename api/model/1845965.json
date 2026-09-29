@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mascara-calabaza-1.3mf.xz",
+   "path": "model/mascara-calabaza-10h18.3mf.xz",
    "instance_id": "1972762",
-   "name": "mascara-calabaza-1",
+   "name": "mascara-calabaza-10h18",
    "thumbnail": "previews/profiles/1972762.jpg",
    "print_time_h": 10.3,
    "plates": 1,
@@ -43,37 +43,37 @@
    }
   },
   {
-   "path": "model/mascara-calabaza-2.3mf.xz",
-   "instance_id": "2079864",
-   "name": "mascara-calabaza-2",
-   "thumbnail": "previews/profiles/2079864.jpg",
-   "print_time_h": 8.3,
+   "path": "model/mascara-calabaza-12h30.3mf.xz",
+   "instance_id": "3627584",
+   "name": "mascara-calabaza-12h30",
+   "thumbnail": "previews/profiles/3627584.jpg",
+   "print_time_h": 12.5,
    "plates": 1,
    "rating": 5,
-   "rating_count": 9,
+   "rating_count": 2,
    "by_designer": false,
    "printers": [
-    "P1S",
-    "X1 Carbon",
     "H2D",
-    "P1P",
-    "A1",
-    "P2S",
-    "X1",
-    "X1E",
-    "H2D Pro",
+    "A2L",
     "H2S",
-    "H2C",
+    "A1",
+    "H2D Pro",
     "X2D",
-    "A2L"
+    "H2C",
+    "P2S"
    ],
    "default": false,
-   "size": 20744908,
-   "sha256": "b02fbd6e734abbdb51c9bb2bea87c0b31e41f169a8d0c1ba84e97a875f50b7c3",
+   "size": 21422956,
+   "sha256": "e60b34a9c8cf750cdb315ae7490ab4278e387e804e52a7254262b8e6aef15770",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
-    "printer": "Bambu Lab P1S",
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "L Optimized (Painted Teeth)",
+    "profile_notes": "Modified the L profile (even though the designer called it XL in the file name, so I just left it) a little bit to use better support settings (and remove the unnecessary supports around the strap hole) & painted the teeth. Printed some glow mesh as well and added some threaded heat inserts. https://makerworld.com/en/models/1299117-mask-mesh-for-cosplay-eyes-hidden-vision-screen#profileId-1331084",
+    "creation_date": "2026-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
     "layer_height": "0.28",
     "infill": "15%",
     "support_type": "tree(auto)",
@@ -81,9 +81,9 @@
    }
   },
   {
-   "path": "model/mascara-calabaza-3.3mf.xz",
+   "path": "model/mascara-calabaza-12h54.3mf.xz",
    "instance_id": "2004148",
-   "name": "mascara-calabaza-3",
+   "name": "mascara-calabaza-12h54",
    "thumbnail": "previews/profiles/2004148.jpg",
    "print_time_h": 12.9,
    "plates": 1,
@@ -123,9 +123,9 @@
    }
   },
   {
-   "path": "model/mascara-calabaza-4.3mf.xz",
+   "path": "model/mascara-calabaza-23h54.3mf.xz",
    "instance_id": "3637621",
-   "name": "mascara-calabaza-4",
+   "name": "mascara-calabaza-23h54",
    "thumbnail": "previews/profiles/3637621.jpg",
    "print_time_h": 23.9,
    "plates": 1,
@@ -158,37 +158,37 @@
    }
   },
   {
-   "path": "model/mascara-calabaza-5.3mf.xz",
-   "instance_id": "3627584",
-   "name": "mascara-calabaza-5",
-   "thumbnail": "previews/profiles/3627584.jpg",
-   "print_time_h": 12.5,
+   "path": "model/mascara-calabaza-8h18.3mf.xz",
+   "instance_id": "2079864",
+   "name": "mascara-calabaza-8h18",
+   "thumbnail": "previews/profiles/2079864.jpg",
+   "print_time_h": 8.3,
    "plates": 1,
    "rating": 5,
-   "rating_count": 2,
+   "rating_count": 9,
    "by_designer": false,
    "printers": [
+    "P1S",
+    "X1 Carbon",
     "H2D",
-    "A2L",
-    "H2S",
+    "P1P",
     "A1",
+    "P2S",
+    "X1",
+    "X1E",
     "H2D Pro",
-    "X2D",
+    "H2S",
     "H2C",
-    "P2S"
+    "X2D",
+    "A2L"
    ],
    "default": false,
-   "size": 21422956,
-   "sha256": "e60b34a9c8cf750cdb315ae7490ab4278e387e804e52a7254262b8e6aef15770",
+   "size": 20744908,
+   "sha256": "b02fbd6e734abbdb51c9bb2bea87c0b31e41f169a8d0c1ba84e97a875f50b7c3",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "L Optimized (Painted Teeth)",
-    "profile_notes": "Modified the L profile (even though the designer called it XL in the file name, so I just left it) a little bit to use better support settings (and remove the unnecessary supports around the strap hole) & painted the teeth. Printed some glow mesh as well and added some threaded heat inserts. https://makerworld.com/en/models/1299117-mask-mesh-for-cosplay-eyes-hidden-vision-screen#profileId-1331084",
-    "creation_date": "2026-08-22",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2D",
+    "printer": "Bambu Lab P1S",
     "layer_height": "0.28",
     "infill": "15%",
     "support_type": "tree(auto)",
@@ -196,9 +196,9 @@
    }
   },
   {
-   "path": "model/mascara-calabaza-6.3mf.xz",
+   "path": "model/mascara-calabaza-8h36.3mf.xz",
    "instance_id": "2004159",
-   "name": "mascara-calabaza-6",
+   "name": "mascara-calabaza-8h36",
    "thumbnail": "previews/profiles/2004159.jpg",
    "print_time_h": 8.6,
    "plates": 1,
@@ -287,8 +287,8 @@
    524,
    393
   ],
-  "previews/profiles/2079864.jpg": [
-   337,
+  "previews/profiles/3627584.jpg": [
+   277,
    600
   ],
   "previews/profiles/2004148.jpg": [
@@ -299,8 +299,8 @@
    600,
    800
   ],
-  "previews/profiles/3627584.jpg": [
-   277,
+  "previews/profiles/2079864.jpg": [
+   337,
    600
   ],
   "previews/profiles/2004159.jpg": [

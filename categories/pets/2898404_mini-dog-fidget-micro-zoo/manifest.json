@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mini-perro-1.3mf.xz",
+   "path": "model/mini-perro-30min.3mf.xz",
    "instance_id": "3239608",
-   "name": "mini-perro-1",
+   "name": "mini-perro-30min",
    "thumbnail": "previews/profiles/3239608.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -40,97 +40,52 @@
    }
   },
   {
-   "path": "model/mini-perro-2.3mf.xz",
-   "instance_id": "3317708",
-   "name": "mini-perro-2",
-   "thumbnail": "previews/profiles/3317708.jpg",
-   "print_time_h": 0.9,
+   "path": "model/mini-perro-24min-2.3mf.xz",
+   "instance_id": "3658260",
+   "name": "mini-perro-24min-2",
+   "thumbnail": "previews/profiles/3658260.jpg",
+   "print_time_h": 0.4,
    "plates": 1,
-   "rating": 5,
-   "rating_count": 1,
+   "rating": 4.5,
+   "rating_count": 2,
    "by_designer": false,
    "printers": [
-    "P2S",
-    "P1P",
-    "H2D",
-    "H2S",
-    "H2C",
+    "P1S",
+    "A2L",
+    "A1",
+    "X1",
     "H2D Pro",
     "A1 mini",
-    "A2L",
-    "P1S",
-    "X1 Carbon",
+    "H2C",
     "X1E",
+    "X1 Carbon",
+    "H2D",
     "X2D",
-    "X1",
-    "A1"
+    "P2S",
+    "H2S",
+    "P1P"
    ],
    "default": false,
-   "size": 3074904,
-   "sha256": "11399f39cdf1b907935a349703fadc93021a65eaa74b7c82ad52541021dd8b98",
+   "size": 3042296,
+   "sha256": "f56412ab9604bf896fe4beab66c899c40ebba95b964f1e8b68a0299e5b5bf89b",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.07.01.57",
-    "profile_title": "0.2mm Nozzle High Quality",
-    "profile_notes": "0.2mm nozzle 0.08mm layer height Very high quality Invisible Seam Easy-to-remove supports",
-    "creation_date": "2026-06-15",
+    "profile_title": "模型优化，减少面数，提高效率",
+    "creation_date": "2026-06-12",
     "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.08",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/mini-perro-3.3mf.xz",
-   "instance_id": "3709039",
-   "name": "mini-perro-3",
-   "thumbnail": "previews/profiles/3709039.jpg",
-   "print_time_h": 3.3,
-   "plates": 1,
-   "rating": 4.7,
-   "rating_count": 3,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "H2D Pro",
-    "P1S",
-    "H2S",
-    "H2D",
-    "A1 mini",
-    "H2C",
-    "X1 Carbon",
-    "P2S",
-    "X2D",
-    "P1P",
-    "X1",
-    "X1E",
-    "A2L"
-   ],
-   "default": false,
-   "size": 89380372,
-   "sha256": "8793207686590b3852826e262a10c60282045c9b13f620425faf41bdb6599df5",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "17 different dogs 0.16mm layer, 2 walls, 15% infill",
-    "profile_notes": "17 different dogs optimized.",
-    "creation_date": "2026-09-01",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.16",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
    }
   },
   {
-   "path": "model/mini-perro-4.3mf.xz",
+   "path": "model/mini-perro-24min.3mf.xz",
    "instance_id": "3317716",
-   "name": "mini-perro-4",
+   "name": "mini-perro-24min",
    "thumbnail": "previews/profiles/3317716.jpg",
    "print_time_h": 0.4,
    "plates": 1,
@@ -172,52 +127,9 @@
    }
   },
   {
-   "path": "model/mini-perro-5.3mf.xz",
-   "instance_id": "3658260",
-   "name": "mini-perro-5",
-   "thumbnail": "previews/profiles/3658260.jpg",
-   "print_time_h": 0.4,
-   "plates": 1,
-   "rating": 4.5,
-   "rating_count": 2,
-   "by_designer": false,
-   "printers": [
-    "P1S",
-    "A2L",
-    "A1",
-    "X1",
-    "H2D Pro",
-    "A1 mini",
-    "H2C",
-    "X1E",
-    "X1 Carbon",
-    "H2D",
-    "X2D",
-    "P2S",
-    "H2S",
-    "P1P"
-   ],
-   "default": false,
-   "size": 3042296,
-   "sha256": "f56412ab9604bf896fe4beab66c899c40ebba95b964f1e8b68a0299e5b5bf89b",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.57",
-    "profile_title": "模型优化，减少面数，提高效率",
-    "creation_date": "2026-06-12",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.12",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/mini-perro-6.3mf.xz",
+   "path": "model/mini-perro-36min.3mf.xz",
    "instance_id": "3324887",
-   "name": "mini-perro-6",
+   "name": "mini-perro-36min",
    "thumbnail": "previews/profiles/3324887.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -249,6 +161,94 @@
     "printer": "Bambu Lab H2D",
     "layer_height": "0.16",
     "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-perro-3h18.3mf.xz",
+   "instance_id": "3709039",
+   "name": "mini-perro-3h18",
+   "thumbnail": "previews/profiles/3709039.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 89380372,
+   "sha256": "8793207686590b3852826e262a10c60282045c9b13f620425faf41bdb6599df5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "17 different dogs 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "17 different dogs optimized.",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-perro-54min.3mf.xz",
+   "instance_id": "3317708",
+   "name": "mini-perro-54min",
+   "thumbnail": "previews/profiles/3317708.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "X2D",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 3074904,
+   "sha256": "11399f39cdf1b907935a349703fadc93021a65eaa74b7c82ad52541021dd8b98",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm Nozzle High Quality",
+    "profile_notes": "0.2mm nozzle 0.08mm layer height Very high quality Invisible Seam Easy-to-remove supports",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.08",
+    "infill": "10%",
     "support_type": "tree(auto)",
     "photos": 1
    }
@@ -291,25 +291,25 @@
    600,
    800
   ],
-  "previews/profiles/3317708.jpg": [
+  "previews/profiles/3658260.jpg": [
    600,
-   600
-  ],
-  "previews/profiles/3709039.jpg": [
-   600,
-   485
+   638
   ],
   "previews/profiles/3317716.jpg": [
    600,
    600
   ],
-  "previews/profiles/3658260.jpg": [
-   600,
-   638
-  ],
   "previews/profiles/3324887.jpg": [
    600,
    450
+  ],
+  "previews/profiles/3709039.jpg": [
+   600,
+   485
+  ],
+  "previews/profiles/3317708.jpg": [
+   600,
+   600
   ]
  },
  "storage": {

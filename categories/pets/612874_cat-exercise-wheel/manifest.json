@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/rueda-ejercicio-1.3mf.xz",
+   "path": "model/rueda-ejercicio-multicolor-55h.3mf.xz",
    "instance_id": "536108",
-   "name": "rueda-ejercicio-1",
+   "name": "rueda-ejercicio-multicolor-55h",
    "thumbnail": "previews/profiles/536108.jpg",
    "print_time_h": 55,
    "plates": 9,
@@ -163,9 +163,140 @@
    }
   },
   {
-   "path": "model/rueda-ejercicio-2.3mf.xz",
+   "path": "model/rueda-ejercicio-1h18.3mf.xz",
+   "instance_id": "1900122",
+   "name": "rueda-ejercicio-1h18",
+   "thumbnail": "previews/profiles/1900122.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2206144,
+   "sha256": "9c06fa09d2c22b26cfeaf62db1dee9f70291cc8a86fa9a1867932edb64641aad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "TPU for ams profile 0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Added a profile for printing TPU for ams. This is slowed way down for a good result, so should also work for different tpu, but only tried with Tpu for ams.",
+    "creation_date": "2025-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/rueda-ejercicio-3h06.3mf.xz",
+   "instance_id": "1641407",
+   "name": "rueda-ejercicio-3h06",
+   "thumbnail": "previews/profiles/1641407.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2298172,
+   "sha256": "9456fc617bfc7661709a88682e3503440b6663f2ed568c2c69dc2b4b788fb0c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 5 walls, 15% infill",
+    "profile_notes": "for TPU 95A and TPU95A HF print the wheel 6 times, not at once to avoid stringing",
+    "creation_date": "2025-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/rueda-ejercicio-53h48.3mf.xz",
+   "instance_id": "2956709",
+   "name": "rueda-ejercicio-53h48",
+   "thumbnail": "previews/profiles/2956709.jpg",
+   "print_time_h": 53.8,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "A1",
+    "P2S",
+    "X2D"
+   ],
+   "default": false,
+   "size": 11500904,
+   "sha256": "03fff2e37ffbb00f6bfb15771d2259e3d3615b2bad622f32b485864afd3e1e2a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "PETG 230g segment (0.23mm layer, 1 walls, 3% infill)",
+    "profile_notes": "my small optimizations for PETG, which allowed me to reduce the weight of the segment from 0.4kg to 0.2kg. I selected the printing parameters so that on the one hand it still provides structural rigidity, and on the other hand, it is as light as possible. Please note that the profile is only suitable for a 0.4mm nozzle, using a different nozzle diameter should SIGNIFICANTLY degrade the print result. P.S. On the printing of elements, in addition to segments, these parameters should also be suitable, but I had small defects with a new coil and I cannot guarantee their success 100% P.P.S. there was a printing option about 20% more durable, but at the same time it took twice as long to print and 10% more plastic, I considered it excessive, but if someone is not enough current strength, I can attach it",
+    "creation_date": "2026-04-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.23",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   }
+  },
+  {
+   "path": "model/rueda-ejercicio-multicolor-55h54.3mf.xz",
    "instance_id": "787391",
-   "name": "rueda-ejercicio-2",
+   "name": "rueda-ejercicio-multicolor-55h54",
    "thumbnail": "previews/profiles/787391.jpg",
    "print_time_h": 55.9,
    "plates": 9,
@@ -316,53 +447,9 @@
    }
   },
   {
-   "path": "model/rueda-ejercicio-3.3mf.xz",
-   "instance_id": "1641407",
-   "name": "rueda-ejercicio-3",
-   "thumbnail": "previews/profiles/1641407.jpg",
-   "print_time_h": 3.1,
-   "plates": 1,
-   "rating": 4,
-   "rating_count": 1,
-   "by_designer": false,
-   "printers": [
-    "X1 Carbon",
-    "P1S",
-    "H2D Pro",
-    "P1P",
-    "A1",
-    "X1E",
-    "P2S",
-    "A1 mini",
-    "H2C",
-    "H2D",
-    "H2S",
-    "X1",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 2298172,
-   "sha256": "9456fc617bfc7661709a88682e3503440b6663f2ed568c2c69dc2b4b788fb0c0",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.01.01.52",
-    "profile_title": "0.2mm layer, 5 walls, 15% infill",
-    "profile_notes": "for TPU 95A and TPU95A HF print the wheel 6 times, not at once to avoid stringing",
-    "creation_date": "2025-06-28",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/rueda-ejercicio-4.3mf.xz",
+   "path": "model/rueda-ejercicio-petg-47h12.3mf.xz",
    "instance_id": "1046067",
-   "name": "rueda-ejercicio-4",
+   "name": "rueda-ejercicio-petg-47h12",
    "thumbnail": "previews/profiles/1046067.jpg",
    "print_time_h": 47.2,
    "plates": 7,
@@ -496,9 +583,9 @@
    }
   },
   {
-   "path": "model/rueda-ejercicio-5.3mf.xz",
+   "path": "model/rueda-ejercicio-petg-55h12.3mf.xz",
    "instance_id": "556000",
-   "name": "rueda-ejercicio-5",
+   "name": "rueda-ejercicio-petg-55h12",
    "thumbnail": "previews/profiles/556000.jpg",
    "print_time_h": 55.2,
    "plates": 7,
@@ -629,93 +716,6 @@
     ],
     "photos": 7
    }
-  },
-  {
-   "path": "model/rueda-ejercicio-6.3mf.xz",
-   "instance_id": "2956709",
-   "name": "rueda-ejercicio-6",
-   "thumbnail": "previews/profiles/2956709.jpg",
-   "print_time_h": 53.8,
-   "plates": 7,
-   "rating": 5,
-   "rating_count": 1,
-   "by_designer": false,
-   "printers": [
-    "P1S",
-    "A2L",
-    "H2D",
-    "H2C",
-    "H2D Pro",
-    "P1P",
-    "X1",
-    "X1 Carbon",
-    "X1E",
-    "H2S",
-    "A1",
-    "P2S",
-    "X2D"
-   ],
-   "default": false,
-   "size": 11500904,
-   "sha256": "03fff2e37ffbb00f6bfb15771d2259e3d3615b2bad622f32b485864afd3e1e2a",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.03.00.70",
-    "profile_title": "PETG 230g segment (0.23mm layer, 1 walls, 3% infill)",
-    "profile_notes": "my small optimizations for PETG, which allowed me to reduce the weight of the segment from 0.4kg to 0.2kg. I selected the printing parameters so that on the one hand it still provides structural rigidity, and on the other hand, it is as light as possible. Please note that the profile is only suitable for a 0.4mm nozzle, using a different nozzle diameter should SIGNIFICANTLY degrade the print result. P.S. On the printing of elements, in addition to segments, these parameters should also be suitable, but I had small defects with a new coil and I cannot guarantee their success 100% P.P.S. there was a printing option about 20% more durable, but at the same time it took twice as long to print and 10% more plastic, I considered it excessive, but if someone is not enough current strength, I can attach it",
-    "creation_date": "2026-04-16",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.23",
-    "infill": "3%",
-    "support_type": "tree(auto)",
-    "photos": 7
-   }
-  },
-  {
-   "path": "model/rueda-ejercicio-7.3mf.xz",
-   "instance_id": "1900122",
-   "name": "rueda-ejercicio-7",
-   "thumbnail": "previews/profiles/1900122.jpg",
-   "print_time_h": 1.3,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 2,
-   "by_designer": false,
-   "printers": [
-    "P1S",
-    "H2D",
-    "A1 mini",
-    "X1",
-    "H2C",
-    "P2S",
-    "X1 Carbon",
-    "H2D Pro",
-    "P1P",
-    "A1",
-    "X1E",
-    "H2S",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 2206144,
-   "sha256": "9c06fa09d2c22b26cfeaf62db1dee9f70291cc8a86fa9a1867932edb64641aad",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.01.50",
-    "profile_title": "TPU for ams profile 0.2mm layer, 3 walls, 10% infill",
-    "profile_notes": "Added a profile for printing TPU for ams. This is slowed way down for a good result, so should also work for different tpu, but only tried with Tpu for ams.",
-    "creation_date": "2025-09-10",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
   }
  ],
  "id": "612874",
@@ -783,11 +783,19 @@
    600,
    450
   ],
-  "previews/profiles/787391.jpg": [
+  "previews/profiles/1900122.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1641407.jpg": [
    600,
    450
   ],
-  "previews/profiles/1641407.jpg": [
+  "previews/profiles/2956709.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/787391.jpg": [
    600,
    450
   ],
@@ -798,18 +806,11 @@
   "previews/profiles/556000.jpg": [
    600,
    833
-  ],
-  "previews/profiles/2956709.jpg": [
-   600,
-   800
-  ],
-  "previews/profiles/1900122.jpg": [
-   600,
-   800
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

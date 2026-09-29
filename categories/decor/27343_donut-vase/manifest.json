@@ -30,44 +30,7 @@
  ],
  "files": [
   {
-   "path": "model/jarron-dona-1.3mf.xz",
-   "size": 2170512,
-   "sha256": "82e7f8fb84002fdf02ee38de084c02230f57fe3cccbaa27519c91690ff03e8e8",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "Capa de 0,2 mm, 3 paredes, 25% de relleno",
-    "profile_notes": "Incluye soportes para que la parte superior se imprima mejor.",
-    "creation_date": "2025-02-21",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.2",
-    "infill": "25%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "BL-P001",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 13408,
-      "weight_g": 125.77,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   },
-   "thumbnail": "previews/profiles/23749.jpg",
-   "instance_id": "23749",
-   "name": "jarron-dona-1"
-  },
-  {
-   "path": "model/jarron-dona-2.3mf.xz",
+   "path": "model/jarron-dona-pla-2.3mf.xz",
    "size": 2184664,
    "sha256": "54dac5166138b7f977dc02382cadd97bcfc93ab5fe2f5ce9ff1bd5f54e98f9cb",
    "compressed": true,
@@ -101,7 +64,44 @@
    },
    "thumbnail": "previews/profiles/328497.jpg",
    "instance_id": "328497",
-   "name": "jarron-dona-2"
+   "name": "jarron-dona-pla-2"
+  },
+  {
+   "path": "model/jarron-dona-pla.3mf.xz",
+   "size": 2170512,
+   "sha256": "82e7f8fb84002fdf02ee38de084c02230f57fe3cccbaa27519c91690ff03e8e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 3 paredes, 25% de relleno",
+    "profile_notes": "Incluye soportes para que la parte superior se imprima mejor.",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13408,
+      "weight_g": 125.77,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "thumbnail": "previews/profiles/23749.jpg",
+   "instance_id": "23749",
+   "name": "jarron-dona-pla"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4921fac5735da2/design/2023-09-28_0581236364771.jpeg?x-oss-process=image/resize,w_1000",
@@ -122,13 +122,13 @@
    925,
    1200
   ],
-  "previews/profiles/23749.jpg": [
-   600,
-   484
-  ],
   "previews/profiles/328497.jpg": [
    600,
    800
+  ],
+  "previews/profiles/23749.jpg": [
+   600,
+   484
   ]
  }
 }

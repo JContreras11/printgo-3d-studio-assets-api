@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/juego-perros-1.3mf.xz",
+   "path": "model/juego-perros-pla-multicolor-9h06.3mf.xz",
    "instance_id": "1074151",
-   "name": "juego-perros-1",
+   "name": "juego-perros-pla-multicolor-9h06",
    "thumbnail": "previews/profiles/1074151.jpg",
    "print_time_h": 9.1,
    "plates": 3,
@@ -84,9 +84,9 @@
    }
   },
   {
-   "path": "model/juego-perros-2.3mf.xz",
+   "path": "model/juego-perros-7h24.3mf.xz",
    "instance_id": "2419696",
-   "name": "juego-perros-2",
+   "name": "juego-perros-7h24",
    "thumbnail": "previews/profiles/2419696.jpg",
    "print_time_h": 7.4,
    "plates": 3,
@@ -197,5 +197,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

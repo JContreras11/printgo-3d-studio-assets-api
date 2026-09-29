@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/gato-calabaza-1.3mf.xz",
+   "path": "model/gato-calabaza-monocolor-54min.3mf.xz",
    "instance_id": "1997546",
-   "name": "gato-calabaza-1",
+   "name": "gato-calabaza-monocolor-54min",
    "thumbnail": "previews/profiles/1997546.jpg",
    "print_time_h": 0.9,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/gato-calabaza-2.3mf.xz",
+   "path": "model/gato-calabaza-multicolor-3h48.3mf.xz",
    "instance_id": "1997550",
-   "name": "gato-calabaza-2",
+   "name": "gato-calabaza-multicolor-3h48",
    "thumbnail": "previews/profiles/1997550.jpg",
    "print_time_h": 3.8,
    "plates": 1,
@@ -157,5 +157,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

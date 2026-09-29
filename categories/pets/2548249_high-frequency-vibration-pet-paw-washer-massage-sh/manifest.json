@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cabezal-ducha-1.3mf.xz",
+   "path": "model/cabezal-ducha-1h42.3mf.xz",
    "instance_id": "2806223",
-   "name": "cabezal-ducha-1",
+   "name": "cabezal-ducha-1h42",
    "thumbnail": "previews/profiles/2806223.jpg",
    "print_time_h": 1.7,
    "plates": 1,
@@ -45,53 +45,9 @@
    }
   },
   {
-   "path": "model/cabezal-ducha-2.3mf.xz",
-   "instance_id": "2933520",
-   "name": "cabezal-ducha-2",
-   "thumbnail": "previews/profiles/2933520.jpg",
-   "print_time_h": 2.1,
-   "plates": 1,
-   "rating": 4.8,
-   "rating_count": 16,
-   "by_designer": false,
-   "printers": [
-    "X1 Carbon",
-    "P1S",
-    "P1P",
-    "X1",
-    "X2D",
-    "A1",
-    "H2D",
-    "X1E",
-    "H2D Pro",
-    "H2C",
-    "H2S",
-    "P2S",
-    "A1 mini",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1347760,
-   "sha256": "358346c206f490ba88cdae735f0a2750e22f5ac28a51af572141dacc281f10c9",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "0.2mm layer, 2 walls, 35% infill",
-    "profile_notes": "Optimiertes Druckprofil mit reduzierter Außenwandgeschwindigkeit zur Verbesserung der Oberflächenqualität und Schichthaftung. Der Infill-Anteil wurde erhöht , um eine höhere strukturelle Stabilität und Belastbarkeit der Bauteile zu erreichen. Geeignet für funktionale Drucke mit erhöhten Anforderungen an Festigkeit und Maßhaltigkeit.",
-    "creation_date": "2026-04-12",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.2",
-    "infill": "35%",
-    "support_type": "tree(manual)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/cabezal-ducha-3.3mf.xz",
+   "path": "model/cabezal-ducha-1h36.3mf.xz",
    "instance_id": "2959600",
-   "name": "cabezal-ducha-3",
+   "name": "cabezal-ducha-1h36",
    "thumbnail": "previews/profiles/2959600.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -128,6 +84,50 @@
     "printer": "Bambu Lab A1 mini",
     "layer_height": "0.23",
     "infill": "6%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/cabezal-ducha-2h06.3mf.xz",
+   "instance_id": "2933520",
+   "name": "cabezal-ducha-2h06",
+   "thumbnail": "previews/profiles/2933520.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "A1",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1347760,
+   "sha256": "358346c206f490ba88cdae735f0a2750e22f5ac28a51af572141dacc281f10c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 35% infill",
+    "profile_notes": "Optimiertes Druckprofil mit reduzierter Außenwandgeschwindigkeit zur Verbesserung der Oberflächenqualität und Schichthaftung. Der Infill-Anteil wurde erhöht , um eine höhere strukturelle Stabilität und Belastbarkeit der Bauteile zu erreichen. Geeignet für funktionale Drucke mit erhöhten Anforderungen an Festigkeit und Maßhaltigkeit.",
+    "creation_date": "2026-04-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "35%",
     "support_type": "tree(manual)",
     "photos": 1
    }
@@ -186,13 +186,13 @@
    238,
    426
   ],
-  "previews/profiles/2933520.jpg": [
-   450,
-   600
-  ],
   "previews/profiles/2959600.jpg": [
    600,
    1066
+  ],
+  "previews/profiles/2933520.jpg": [
+   450,
+   600
   ]
  },
  "storage": {

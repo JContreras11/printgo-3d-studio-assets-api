@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/casa-hamster-1.3mf.xz",
+   "path": "model/casa-hamster-13h24.3mf.xz",
    "instance_id": "1662457",
-   "name": "casa-hamster-1",
+   "name": "casa-hamster-13h24",
    "thumbnail": "previews/profiles/1662457.jpg",
    "print_time_h": 13.4,
    "plates": 2,
@@ -43,9 +43,52 @@
    }
   },
   {
-   "path": "model/casa-hamster-2.3mf.xz",
+   "path": "model/casa-hamster-12h18.3mf.xz",
+   "instance_id": "2374744",
+   "name": "casa-hamster-12h18",
+   "thumbnail": "previews/profiles/2374744.jpg",
+   "print_time_h": 12.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A1",
+    "P1P",
+    "X1E",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4833568,
+   "sha256": "41938418e3c53cf416711fdf70c02665c4ac623c8683a2dc92ebc9dacda0146b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "House with no Floor (0.2mm layer, 2 walls, 15% infill)",
+    "profile_notes": "Used a negative modifier to remove the bottom so that the house sits directly on the bedding.",
+    "creation_date": "2026-01-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/casa-hamster-13h.3mf.xz",
    "instance_id": "2884928",
-   "name": "casa-hamster-2",
+   "name": "casa-hamster-13h",
    "thumbnail": "previews/profiles/2884928.jpg",
    "print_time_h": 13,
    "plates": 2,
@@ -87,9 +130,9 @@
    }
   },
   {
-   "path": "model/casa-hamster-3.3mf.xz",
+   "path": "model/casa-hamster-36min.3mf.xz",
    "instance_id": "1672004",
-   "name": "casa-hamster-3",
+   "name": "casa-hamster-36min",
    "thumbnail": "previews/profiles/1672004.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -127,49 +170,6 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
-   }
-  },
-  {
-   "path": "model/casa-hamster-4.3mf.xz",
-   "instance_id": "2374744",
-   "name": "casa-hamster-4",
-   "thumbnail": "previews/profiles/2374744.jpg",
-   "print_time_h": 12.3,
-   "plates": 2,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "P2S",
-    "A1",
-    "P1P",
-    "X1E",
-    "H2D",
-    "H2C",
-    "X1 Carbon",
-    "H2S",
-    "X1",
-    "H2D Pro",
-    "P1S",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 4833568,
-   "sha256": "41938418e3c53cf416711fdf70c02665c4ac623c8683a2dc92ebc9dacda0146b",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "House with no Floor (0.2mm layer, 2 walls, 15% infill)",
-    "profile_notes": "Used a negative modifier to remove the bottom so that the house sits directly on the bedding.",
-    "creation_date": "2026-01-01",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
    }
   }
  ],
@@ -219,6 +219,10 @@
    600,
    450
   ],
+  "previews/profiles/2374744.jpg": [
+   600,
+   600
+  ],
   "previews/profiles/2884928.jpg": [
    600,
    449
@@ -226,10 +230,6 @@
   "previews/profiles/1672004.jpg": [
    600,
    551
-  ],
-  "previews/profiles/2374744.jpg": [
-   600,
-   600
   ]
  },
  "storage": {

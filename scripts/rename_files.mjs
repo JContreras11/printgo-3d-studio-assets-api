@@ -8,7 +8,8 @@ import { ROOT } from "./build_api.mjs";
 import { projectFileName } from "./lib/names.mjs";
 
 const apply = process.argv.includes("--apply");
-let renamed = 0, touched = 0, models = 0;
+let renamed = 0, touched = 0, models = 0, numbered = 0, labeled = 0;
+const numberedNames = [];
 
 for (const cat of fs.readdirSync(path.join(ROOT, "categories")).sort()) {
   const catDir = path.join(ROOT, "categories", cat);
@@ -24,7 +25,7 @@ for (const cat of fs.readdirSync(path.join(ROOT, "categories")).sort()) {
     const taken = new Set();
     let dirty = false;
     files.forEach((f, i) => {
-      const wanted = `${projectFileName(m.title, { category: m.category, total: files.length, index: i })}.3mf`;
+      const wanted = `${projectFileName(m.title, { category: m.category, total: files.length, index: i, file: f })}.3mf`;
       // Blindaje: dos archivos del mismo modelo no pueden acabar con el mismo nombre.
       let name = wanted;
       for (let n = 2; taken.has(name.toLowerCase()); n++) name = wanted.replace(/\.3mf$/, `-${n}.3mf`);
@@ -38,6 +39,8 @@ for (const cat of fs.readdirSync(path.join(ROOT, "categories")).sort()) {
         dirty = true;
       }
       if (f.name !== name.replace(/\.3mf$/, "")) { f.name = name.replace(/\.3mf$/, ""); dirty = true; }
+      // El número solo entra si no hay variación humana que mostrar.
+      if (new RegExp(`(?:^|-)${i + 1}$`).test(name.replace(/\.3mf$/, ""))) { numbered++; numberedNames.push(`${cat}/${dir} -> ${name}`); } else labeled++;
     });
     if (dirty) {
       if (apply) { fs.writeFileSync(file, JSON.stringify(m, null, 1) + "\n"); touched++; }
@@ -46,4 +49,6 @@ for (const cat of fs.readdirSync(path.join(ROOT, "categories")).sort()) {
   }
 }
 console.log(`${apply ? "renombrados" : "por renombrar"}: ${renamed} archivos · manifests tocados: ${touched} · modelos: ${models}`);
+console.log(`con variación humana (color/material/tiempo): ${labeled} · con número de variante: ${numbered}`);
+if (numberedNames.length) console.log(`  ej: ${numberedNames.slice(0, 4).join(" | ")}`);
 if (!apply) console.log("dry-run:复查 arriba y luego vuelve con --apply");

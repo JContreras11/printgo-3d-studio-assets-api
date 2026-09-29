@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/estera-arena-1.3mf.xz",
+   "path": "model/estera-arena-pla-multicolor-12h06.3mf.xz",
    "instance_id": "37925",
-   "name": "estera-arena-1",
+   "name": "estera-arena-pla-multicolor-12h06",
    "thumbnail": "previews/profiles/37925.jpg",
    "print_time_h": 12.1,
    "plates": 4,
@@ -98,53 +98,53 @@
    }
   },
   {
-   "path": "model/estera-arena-2.3mf.xz",
-   "instance_id": "1838333",
-   "name": "estera-arena-2",
-   "thumbnail": "previews/profiles/1838333.jpg",
-   "print_time_h": 7,
-   "plates": 4,
-   "rating": 4.9,
-   "rating_count": 18,
+   "path": "model/estera-arena-30min.3mf.xz",
+   "instance_id": "1838495",
+   "name": "estera-arena-30min",
+   "thumbnail": "previews/profiles/1838495.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
    "by_designer": false,
    "printers": [
     "A1 mini",
-    "X1 Carbon",
     "P1S",
-    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
     "A1",
+    "H2D Pro",
     "X1",
     "P1P",
-    "X1E",
-    "H2D",
     "H2S",
+    "H2D",
     "P2S",
     "H2C",
     "X2D",
     "A2L"
    ],
    "default": false,
-   "size": 1505820,
-   "sha256": "86a33be2d068bf90dd3471e585578fb9143acc94bc6b229a733111511bc044da",
+   "size": 1403840,
+   "sha256": "758af73f4d31df7e816bb486ff6ca62be09a793201eb618c9b1171e4a336b8a8",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.02.00.85",
-    "profile_title": "76% Scale - 0.2mm layer, 3 walls, 10% infill",
-    "profile_notes": "Scaled to 76% to fit A1 Mini",
+    "profile_title": "PLA/TPU Feet (76% Scale)",
+    "profile_notes": "76% Scale for A1 mini compatible model size. Top pattern of Hilbert Curve for textured grip. 0.2mm layer, 2 walls, 15% infill",
     "creation_date": "2025-08-25",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1 mini",
     "layer_height": "0.2",
-    "infill": "10%",
+    "infill": "15%",
     "support_type": "tree(auto)",
-    "photos": 4
+    "photos": 1
    }
   },
   {
-   "path": "model/estera-arena-3.3mf.xz",
+   "path": "model/estera-arena-54min.3mf.xz",
    "instance_id": "1838456",
-   "name": "estera-arena-3",
+   "name": "estera-arena-54min",
    "thumbnail": "previews/profiles/1838456.jpg",
    "print_time_h": 0.9,
    "plates": 1,
@@ -186,47 +186,47 @@
    }
   },
   {
-   "path": "model/estera-arena-4.3mf.xz",
-   "instance_id": "1838495",
-   "name": "estera-arena-4",
-   "thumbnail": "previews/profiles/1838495.jpg",
-   "print_time_h": 0.5,
-   "plates": 1,
-   "rating": 4.7,
-   "rating_count": 3,
+   "path": "model/estera-arena-7h.3mf.xz",
+   "instance_id": "1838333",
+   "name": "estera-arena-7h",
+   "thumbnail": "previews/profiles/1838333.jpg",
+   "print_time_h": 7,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 18,
    "by_designer": false,
    "printers": [
     "A1 mini",
-    "P1S",
-    "X1E",
     "X1 Carbon",
-    "A1",
+    "P1S",
     "H2D Pro",
+    "A1",
     "X1",
     "P1P",
-    "H2S",
+    "X1E",
     "H2D",
+    "H2S",
     "P2S",
     "H2C",
     "X2D",
     "A2L"
    ],
    "default": false,
-   "size": 1403840,
-   "sha256": "758af73f4d31df7e816bb486ff6ca62be09a793201eb618c9b1171e4a336b8a8",
+   "size": 1505820,
+   "sha256": "86a33be2d068bf90dd3471e585578fb9143acc94bc6b229a733111511bc044da",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.02.00.85",
-    "profile_title": "PLA/TPU Feet (76% Scale)",
-    "profile_notes": "76% Scale for A1 mini compatible model size. Top pattern of Hilbert Curve for textured grip. 0.2mm layer, 2 walls, 15% infill",
+    "profile_title": "76% Scale - 0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Scaled to 76% to fit A1 Mini",
     "creation_date": "2025-08-25",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1 mini",
     "layer_height": "0.2",
-    "infill": "15%",
+    "infill": "10%",
     "support_type": "tree(auto)",
-    "photos": 1
+    "photos": 4
    }
   }
  ],
@@ -281,7 +281,7 @@
    600,
    388
   ],
-  "previews/profiles/1838333.jpg": [
+  "previews/profiles/1838495.jpg": [
    600,
    451
   ],
@@ -289,7 +289,7 @@
    600,
    451
   ],
-  "previews/profiles/1838495.jpg": [
+  "previews/profiles/1838333.jpg": [
    600,
    451
   ]
@@ -297,5 +297,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

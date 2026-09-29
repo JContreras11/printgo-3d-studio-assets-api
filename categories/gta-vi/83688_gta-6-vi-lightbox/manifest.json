@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/caja-luz-1.3mf.xz",
+   "path": "model/caja-luz-pla-multicolor-2h42.3mf.xz",
    "instance_id": "89406",
-   "name": "caja-luz-1",
+   "name": "caja-luz-pla-multicolor-2h42",
    "thumbnail": "previews/profiles/89406.jpg",
    "print_time_h": 2.7,
    "plates": 1,
@@ -71,9 +71,9 @@
    }
   },
   {
-   "path": "model/caja-luz-2.3mf.xz",
+   "path": "model/caja-luz-1h36.3mf.xz",
    "instance_id": "3373831",
-   "name": "caja-luz-2",
+   "name": "caja-luz-1h36",
    "thumbnail": "previews/profiles/3373831.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -114,9 +114,157 @@
    }
   },
   {
-   "path": "model/caja-luz-3.3mf.xz",
+   "path": "model/caja-luz-3h12.3mf.xz",
+   "instance_id": "2973782",
+   "name": "caja-luz-3h12",
+   "thumbnail": "previews/profiles/2973782.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2S",
+    "X1E",
+    "X1",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1143624,
+   "sha256": "2cfb6d5cf084b64354f7040687ab06da6dcbea2a83fd965c6d7200be73e5c652",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "PETG optimiert",
+    "profile_notes": "optimiert für petg",
+    "creation_date": "2026-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/caja-luz-5h54.3mf.xz",
+   "instance_id": "3304902",
+   "name": "caja-luz-5h54",
+   "thumbnail": "previews/profiles/3304902.jpg",
+   "print_time_h": 5.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "X1",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "X2D"
+   ],
+   "default": false,
+   "size": 1399256,
+   "sha256": "d35ed4ec21975e10fc5c8aa21ff7d0b6307bc1757793d7fd3466dc898af06cfc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.00.89",
+    "profile_title": "Larger GTA VI (Front & Back) w/ Palmtrees",
+    "profile_notes": "Ensure you have proper bed adhesion as the palm tree details are thin so tune your filaments for printing. 0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2025-01-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/caja-luz-pla-multicolor-1h24.3mf.xz",
+   "instance_id": "89408",
+   "name": "caja-luz-pla-multicolor-1h24",
+   "thumbnail": "previews/profiles/89408.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 57,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 787828,
+   "sha256": "f9e988d7b41bace39aa3d203982cd021469c42249fa1c716fef2a431152faa68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "GTA VI (6) Lightbox Backplate",
+    "profile_notes": "If you really want to the lowest time possible for the back plate then make it all one color black but if you want the best light refraction within the box keep the top layer white however if it is black im sure it would still loook like a very decent light box afterwards. 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "12%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4882,
+      "weight_g": 57.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/caja-luz-pla-multicolor-2h30.3mf.xz",
    "instance_id": "90332",
-   "name": "caja-luz-3",
+   "name": "caja-luz-pla-multicolor-2h30",
    "thumbnail": "previews/profiles/90332.jpg",
    "print_time_h": 2.5,
    "plates": 1,
@@ -180,154 +328,6 @@
       ]
      }
     ],
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/caja-luz-4.3mf.xz",
-   "instance_id": "89408",
-   "name": "caja-luz-4",
-   "thumbnail": "previews/profiles/89408.jpg",
-   "print_time_h": 1.4,
-   "plates": 1,
-   "rating": 4.9,
-   "rating_count": 57,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "P1P",
-    "X1",
-    "X1 Carbon",
-    "X1E",
-    "A1",
-    "H2D",
-    "H2D Pro",
-    "H2S",
-    "P2S",
-    "H2C",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 787828,
-   "sha256": "f9e988d7b41bace39aa3d203982cd021469c42249fa1c716fef2a431152faa68",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.73",
-    "profile_title": "GTA VI (6) Lightbox Backplate",
-    "profile_notes": "If you really want to the lowest time possible for the back plate then make it all one color black but if you want the best light refraction within the box keep the top layer white however if it is black im sure it would still loook like a very decent light box afterwards. 0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-03-03",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.28",
-    "infill": "12%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 4882,
-      "weight_g": 57.08,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#161616"
-       },
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/caja-luz-5.3mf.xz",
-   "instance_id": "3304902",
-   "name": "caja-luz-5",
-   "thumbnail": "previews/profiles/3304902.jpg",
-   "print_time_h": 5.9,
-   "plates": 2,
-   "rating": 4.9,
-   "rating_count": 15,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "H2D",
-    "H2S",
-    "X1",
-    "H2C",
-    "P2S",
-    "H2D Pro",
-    "A1",
-    "P1P",
-    "A2L",
-    "X1 Carbon",
-    "X1E",
-    "X2D"
-   ],
-   "default": false,
-   "size": 1399256,
-   "sha256": "d35ed4ec21975e10fc5c8aa21ff7d0b6307bc1757793d7fd3466dc898af06cfc",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.00.89",
-    "profile_title": "Larger GTA VI (Front & Back) w/ Palmtrees",
-    "profile_notes": "Ensure you have proper bed adhesion as the palm tree details are thin so tune your filaments for printing. 0.2mm layer, 3 walls, 10% infill",
-    "creation_date": "2025-01-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/caja-luz-6.3mf.xz",
-   "instance_id": "2973782",
-   "name": "caja-luz-6",
-   "thumbnail": "previews/profiles/2973782.jpg",
-   "print_time_h": 3.2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 1,
-   "by_designer": false,
-   "printers": [
-    "P2S",
-    "P1S",
-    "H2S",
-    "X1E",
-    "X1",
-    "H2C",
-    "A1",
-    "H2D Pro",
-    "H2D",
-    "X1 Carbon",
-    "P1P",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1143624,
-   "sha256": "2cfb6d5cf084b64354f7040687ab06da6dcbea2a83fd965c6d7200be73e5c652",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.03.61",
-    "profile_title": "PETG optimiert",
-    "profile_notes": "optimiert für petg",
-    "creation_date": "2026-04-14",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
     "photos": 1
    }
   }
@@ -400,25 +400,26 @@
    600,
    800
   ],
-  "previews/profiles/90332.jpg": [
+  "previews/profiles/2973782.jpg": [
    600,
-   448
-  ],
-  "previews/profiles/89408.jpg": [
-   512,
-   512
+   800
   ],
   "previews/profiles/3304902.jpg": [
    600,
    898
   ],
-  "previews/profiles/2973782.jpg": [
+  "previews/profiles/89408.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/90332.jpg": [
    600,
-   800
+   448
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

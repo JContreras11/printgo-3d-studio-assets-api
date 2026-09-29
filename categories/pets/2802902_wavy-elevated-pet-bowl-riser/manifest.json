@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/elevador-cuenco-1.3mf.xz",
+   "path": "model/elevador-cuenco-6h18.3mf.xz",
    "instance_id": "3118372",
-   "name": "elevador-cuenco-1",
+   "name": "elevador-cuenco-6h18",
    "thumbnail": "previews/profiles/3118372.jpg",
    "print_time_h": 6.3,
    "plates": 2,
@@ -43,9 +43,52 @@
    }
   },
   {
-   "path": "model/elevador-cuenco-2.3mf.xz",
+   "path": "model/elevador-cuenco-10h.3mf.xz",
+   "instance_id": "3160428",
+   "name": "elevador-cuenco-10h",
+   "thumbnail": "previews/profiles/3160428.jpg",
+   "print_time_h": 10,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "A1",
+    "H2S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 6547088,
+   "sha256": "11e6727dedcb6b8d08801bad4df208a61464c30226e74cf31ee344c1dac00939",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "162mm bowl 8mm rim",
+    "profile_notes": "lower part fuzzy top half smooth",
+    "creation_date": "2026-05-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/elevador-cuenco-3h42.3mf.xz",
    "instance_id": "3160354",
-   "name": "elevador-cuenco-2",
+   "name": "elevador-cuenco-3h42",
    "thumbnail": "previews/profiles/3160354.jpg",
    "print_time_h": 3.7,
    "plates": 2,
@@ -87,52 +130,9 @@
    }
   },
   {
-   "path": "model/elevador-cuenco-3.3mf.xz",
-   "instance_id": "3160428",
-   "name": "elevador-cuenco-3",
-   "thumbnail": "previews/profiles/3160428.jpg",
-   "print_time_h": 10,
-   "plates": 2,
-   "rating": 5,
-   "rating_count": 7,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "X1 Carbon",
-    "X1",
-    "X1E",
-    "A1",
-    "H2S",
-    "H2D",
-    "X2D",
-    "H2C",
-    "H2D Pro",
-    "P1P",
-    "P2S",
-    "A2L"
-   ],
-   "default": false,
-   "size": 6547088,
-   "sha256": "11e6727dedcb6b8d08801bad4df208a61464c30226e74cf31ee344c1dac00939",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "162mm bowl 8mm rim",
-    "profile_notes": "lower part fuzzy top half smooth",
-    "creation_date": "2026-05-22",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/elevador-cuenco-4.3mf.xz",
+   "path": "model/elevador-cuenco-48min.3mf.xz",
    "instance_id": "3550447",
-   "name": "elevador-cuenco-4",
+   "name": "elevador-cuenco-48min",
    "thumbnail": "previews/profiles/3550447.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -228,13 +228,13 @@
    600,
    400
   ],
-  "previews/profiles/3160354.jpg": [
-   600,
-   800
-  ],
   "previews/profiles/3160428.jpg": [
    600,
    448
+  ],
+  "previews/profiles/3160354.jpg": [
+   600,
+   800
   ],
   "previews/profiles/3550447.jpg": [
    600,

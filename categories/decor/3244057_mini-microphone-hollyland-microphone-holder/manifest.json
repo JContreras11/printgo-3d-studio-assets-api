@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mini-microfono-1.3mf.xz",
+   "path": "model/mini-microfono-2h18.3mf.xz",
    "instance_id": "3675809",
-   "name": "mini-microfono-1",
+   "name": "mini-microfono-2h18",
    "thumbnail": "previews/profiles/3675809.jpg",
    "print_time_h": 2.3,
    "plates": 2,
@@ -44,11 +44,11 @@
    }
   },
   {
-   "path": "model/mini-microfono-10.3mf.xz",
-   "instance_id": "3698924",
-   "name": "mini-microfono-10",
-   "thumbnail": "previews/profiles/3698924.jpg",
-   "print_time_h": 1.5,
+   "path": "model/mini-microfono-1h54.3mf.xz",
+   "instance_id": "3812845",
+   "name": "mini-microfono-1h54",
+   "thumbnail": "previews/profiles/3812845.jpg",
+   "print_time_h": 1.9,
    "plates": 1,
    "rating": null,
    "rating_count": 0,
@@ -58,26 +58,101 @@
     "A2L"
    ],
    "default": false,
-   "size": 8690076,
-   "sha256": "924ecef40c78e79518fef3b5255ed69ca3a1a1950de03680b8cc68d1dfbfd66b",
+   "size": 17474744,
+   "sha256": "d1c5439f5a47fefa246a91eb1e6022c75c8d6e4e2f805cde00bb42c0176397b5",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.08.02.61",
-    "profile_title": "多色一盘打印，优化模型，减少面数，提高效率",
-    "creation_date": "2026-09-04",
+    "profile_title": "AMS glue-free assembly single table",
+    "profile_notes": "The advantages of this model include simple, glue-free assembly, a print time of under two hours, and the ability to change the text simply by editing the label; you can also use multiple labels with a single microphone (I didn't place the label on a separate stand, but you can easily do that yourself).",
+    "creation_date": "2026-09-25",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1",
-    "layer_height": "0.24",
+    "layer_height": "0.2",
     "infill": "10%",
     "support_type": "tree(auto)",
     "photos": 1
    }
   },
   {
-   "path": "model/mini-microfono-11.3mf.xz",
+   "path": "model/mini-microfono-2h.3mf.xz",
+   "instance_id": "3699185",
+   "name": "mini-microfono-2h",
+   "thumbnail": "previews/profiles/3699185.jpg",
+   "print_time_h": 2,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 14738716,
+   "sha256": "ed85a17fad72e192591d082f341931ee79ede48336c06be4f1348e9454525bfe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Mini Microfone Redondo",
+    "creation_date": "2026-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/mini-microfono-2h06.3mf.xz",
+   "instance_id": "3749898",
+   "name": "mini-microfono-2h06",
+   "thumbnail": "previews/profiles/3749898.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 17621092,
+   "sha256": "9ad17961b96bcdf811c8bafd33ae33c8b02b903265ddae5e48b4f3fee8d1b3ba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Coração ( Microfone modelo moeda)",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/mini-microfono-2h18-2.3mf.xz",
    "instance_id": "3675828",
-   "name": "mini-microfono-11",
+   "name": "mini-microfono-2h18-2",
    "thumbnail": "previews/profiles/3675828.jpg",
    "print_time_h": 2.3,
    "plates": 3,
@@ -119,167 +194,9 @@
    }
   },
   {
-   "path": "model/mini-microfono-12.3mf.xz",
-   "instance_id": "3750002",
-   "name": "mini-microfono-12",
-   "thumbnail": "previews/profiles/3750002.jpg",
-   "print_time_h": 2.4,
-   "plates": 2,
-   "rating": 5,
-   "rating_count": 2,
-   "by_designer": true,
-   "printers": [
-    "A1",
-    "P1S",
-    "H2D Pro",
-    "H2S",
-    "P2S",
-    "X1 Carbon",
-    "P1P",
-    "X1E",
-    "A1 mini",
-    "H2C",
-    "X2D",
-    "H2D",
-    "X1",
-    "A2L"
-   ],
-   "default": false,
-   "size": 15701072,
-   "sha256": "c3398a8884221ac2d91260e55619f0f6cc4236bc6184d2300b1cf80bc779b35b",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "Estrela (Modelo de microfone moeda)",
-    "creation_date": "2026-09-17",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/mini-microfono-2.3mf.xz",
-   "instance_id": "3812845",
-   "name": "mini-microfono-2",
-   "thumbnail": "previews/profiles/3812845.jpg",
-   "print_time_h": 1.9,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "A2L"
-   ],
-   "default": false,
-   "size": 17474744,
-   "sha256": "d1c5439f5a47fefa246a91eb1e6022c75c8d6e4e2f805cde00bb42c0176397b5",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "AMS glue-free assembly single table",
-    "profile_notes": "The advantages of this model include simple, glue-free assembly, a print time of under two hours, and the ability to change the text simply by editing the label; you can also use multiple labels with a single microphone (I didn't place the label on a separate stand, but you can easily do that yourself).",
-    "creation_date": "2026-09-25",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/mini-microfono-3.3mf.xz",
-   "instance_id": "3699151",
-   "name": "mini-microfono-3",
-   "thumbnail": "previews/profiles/3699151.jpg",
-   "print_time_h": 3.2,
-   "plates": 3,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "P2S",
-    "H2C",
-    "H2D Pro",
-    "A1 mini",
-    "P1P",
-    "X2D",
-    "A1",
-    "X1",
-    "X1 Carbon",
-    "H2S",
-    "A2L",
-    "X1E",
-    "P1S",
-    "H2D"
-   ],
-   "default": false,
-   "size": 14478320,
-   "sha256": "91763d88dc9653eceeca530c03bc3be87c1e7124a5492585141aa088007248e9",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "ironing": "topmost",
-    "support_type": "tree(auto)",
-    "photos": 3
-   }
-  },
-  {
-   "path": "model/mini-microfono-4.3mf.xz",
-   "instance_id": "3728426",
-   "name": "mini-microfono-4",
-   "thumbnail": "previews/profiles/3728426.jpg",
-   "print_time_h": 2.5,
-   "plates": 2,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "A1",
-    "H2S",
-    "P1S",
-    "X1 Carbon",
-    "X1E",
-    "A1 mini",
-    "H2D",
-    "A2L",
-    "H2D Pro",
-    "X1",
-    "P2S",
-    "X2D",
-    "P1P",
-    "H2C"
-   ],
-   "default": false,
-   "size": 15012816,
-   "sha256": "879b5b2147d0cba6802fe549381f522075ba00c924403df8bd853de4e9e31144",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "DJi Mic 2",
-    "creation_date": "2026-09-17",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/mini-microfono-5.3mf.xz",
+   "path": "model/mini-microfono-2h18-3.3mf.xz",
    "instance_id": "3692544",
-   "name": "mini-microfono-5",
+   "name": "mini-microfono-2h18-3",
    "thumbnail": "previews/profiles/3692544.jpg",
    "print_time_h": 2.3,
    "plates": 2,
@@ -320,9 +237,9 @@
    }
   },
   {
-   "path": "model/mini-microfono-6.3mf.xz",
+   "path": "model/mini-microfono-2h24-2.3mf.xz",
    "instance_id": "3811444",
-   "name": "mini-microfono-6",
+   "name": "mini-microfono-2h24-2",
    "thumbnail": "previews/profiles/3811444.jpg",
    "print_time_h": 2.4,
    "plates": 2,
@@ -363,14 +280,14 @@
    }
   },
   {
-   "path": "model/mini-microfono-7.3mf.xz",
-   "instance_id": "3749898",
-   "name": "mini-microfono-7",
-   "thumbnail": "previews/profiles/3749898.jpg",
-   "print_time_h": 2.1,
+   "path": "model/mini-microfono-2h24.3mf.xz",
+   "instance_id": "3750002",
+   "name": "mini-microfono-2h24",
+   "thumbnail": "previews/profiles/3750002.jpg",
+   "print_time_h": 2.4,
    "plates": 2,
    "rating": 5,
-   "rating_count": 1,
+   "rating_count": 2,
    "by_designer": true,
    "printers": [
     "A1",
@@ -389,14 +306,14 @@
     "A2L"
    ],
    "default": false,
-   "size": 17621092,
-   "sha256": "9ad17961b96bcdf811c8bafd33ae33c8b02b903265ddae5e48b4f3fee8d1b3ba",
+   "size": 15701072,
+   "sha256": "c3398a8884221ac2d91260e55619f0f6cc4236bc6184d2300b1cf80bc779b35b",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.08.02.61",
-    "profile_title": "Coração ( Microfone modelo moeda)",
-    "creation_date": "2026-09-18",
+    "profile_title": "Estrela (Modelo de microfone moeda)",
+    "creation_date": "2026-09-17",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1",
     "layer_height": "0.2",
@@ -406,40 +323,123 @@
    }
   },
   {
-   "path": "model/mini-microfono-8.3mf.xz",
-   "instance_id": "3699185",
-   "name": "mini-microfono-8",
-   "thumbnail": "previews/profiles/3699185.jpg",
-   "print_time_h": 2,
-   "plates": 4,
+   "path": "model/mini-microfono-2h30.3mf.xz",
+   "instance_id": "3728426",
+   "name": "mini-microfono-2h30",
+   "thumbnail": "previews/profiles/3728426.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
    "rating": null,
    "rating_count": 0,
    "by_designer": true,
    "printers": [
     "A1",
-    "A2L"
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "P1P",
+    "H2C"
    ],
    "default": false,
-   "size": 14738716,
-   "sha256": "ed85a17fad72e192591d082f341931ee79ede48336c06be4f1348e9454525bfe",
+   "size": 15012816,
+   "sha256": "879b5b2147d0cba6802fe549381f522075ba00c924403df8bd853de4e9e31144",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.08.02.61",
-    "profile_title": "Mini Microfone Redondo",
-    "creation_date": "2026-09-05",
+    "profile_title": "DJi Mic 2",
+    "creation_date": "2026-09-17",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1",
     "layer_height": "0.2",
     "infill": "10%",
     "support_type": "tree(auto)",
-    "photos": 4
+    "photos": 2
    }
   },
   {
-   "path": "model/mini-microfono-9.3mf.xz",
+   "path": "model/mini-microfono-3h12.3mf.xz",
+   "instance_id": "3699151",
+   "name": "mini-microfono-3h12",
+   "thumbnail": "previews/profiles/3699151.jpg",
+   "print_time_h": 3.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "size": 14478320,
+   "sha256": "91763d88dc9653eceeca530c03bc3be87c1e7124a5492585141aa088007248e9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/mini-microfono-multicolor-1h30.3mf.xz",
+   "instance_id": "3698924",
+   "name": "mini-microfono-multicolor-1h30",
+   "thumbnail": "previews/profiles/3698924.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8690076,
+   "sha256": "924ecef40c78e79518fef3b5255ed69ca3a1a1950de03680b8cc68d1dfbfd66b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高效率",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-microfono-multicolor-2h.3mf.xz",
    "instance_id": "3767826",
-   "name": "mini-microfono-9",
+   "name": "mini-microfono-multicolor-2h",
    "thumbnail": "previews/profiles/3767826.jpg",
    "print_time_h": 2,
    "plates": 1,
@@ -540,27 +540,19 @@
    600,
    450
   ],
-  "previews/profiles/3698924.jpg": [
-   600,
-   567
-  ],
-  "previews/profiles/3675828.jpg": [
-   600,
-   800
-  ],
-  "previews/profiles/3750002.jpg": [
-   600,
-   600
-  ],
   "previews/profiles/3812845.jpg": [
    600,
    800
   ],
-  "previews/profiles/3699151.jpg": [
+  "previews/profiles/3699185.jpg": [
    600,
-   362
+   800
   ],
-  "previews/profiles/3728426.jpg": [
+  "previews/profiles/3749898.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3675828.jpg": [
    600,
    800
   ],
@@ -572,13 +564,21 @@
    600,
    800
   ],
-  "previews/profiles/3749898.jpg": [
+  "previews/profiles/3750002.jpg": [
    600,
    600
   ],
-  "previews/profiles/3699185.jpg": [
+  "previews/profiles/3728426.jpg": [
    600,
    800
+  ],
+  "previews/profiles/3699151.jpg": [
+   600,
+   362
+  ],
+  "previews/profiles/3698924.jpg": [
+   600,
+   567
   ],
   "previews/profiles/3767826.jpg": [
    354,
@@ -588,5 +588,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

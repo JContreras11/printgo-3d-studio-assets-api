@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/budgie-shower-1.3mf.xz",
+   "path": "model/budgie-shower-10h12.3mf.xz",
    "instance_id": "3285052",
-   "name": "budgie-shower-1",
+   "name": "budgie-shower-10h12",
    "thumbnail": "previews/profiles/3285052.jpg",
    "print_time_h": 10.2,
    "plates": 9,
@@ -44,9 +44,47 @@
    }
   },
   {
-   "path": "model/budgie-shower-2.3mf.xz",
+   "path": "model/budgie-shower-12h54.3mf.xz",
+   "instance_id": "3424696",
+   "name": "budgie-shower-12h54",
+   "thumbnail": "previews/profiles/3424696.jpg",
+   "print_time_h": 12.9,
+   "plates": 8,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "A1",
+    "H2D",
+    "H2C",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "size": 8627488,
+   "sha256": "4a7a94b4e3845667fe5542c48ad2533def04844a55ab483ebcc4c26bd4224820",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Mega Version",
+    "profile_notes": "Extra-large version, but the shower head height remains the same.",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   }
+  },
+  {
+   "path": "model/budgie-shower-18min.3mf.xz",
    "instance_id": "3355248",
-   "name": "budgie-shower-2",
+   "name": "budgie-shower-18min",
    "thumbnail": "previews/profiles/3355248.jpg",
    "print_time_h": 0.3,
    "plates": 1,
@@ -88,9 +126,9 @@
    }
   },
   {
-   "path": "model/budgie-shower-3.3mf.xz",
+   "path": "model/budgie-shower-1h18.3mf.xz",
    "instance_id": "3351929",
-   "name": "budgie-shower-3",
+   "name": "budgie-shower-1h18",
    "thumbnail": "previews/profiles/3351929.jpg",
    "print_time_h": 1.3,
    "plates": 4,
@@ -129,44 +167,6 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 4
-   }
-  },
-  {
-   "path": "model/budgie-shower-4.3mf.xz",
-   "instance_id": "3424696",
-   "name": "budgie-shower-4",
-   "thumbnail": "previews/profiles/3424696.jpg",
-   "print_time_h": 12.9,
-   "plates": 8,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "P2S",
-    "A2L",
-    "H2D Pro",
-    "A1",
-    "H2D",
-    "H2C",
-    "H2S",
-    "X2D"
-   ],
-   "default": false,
-   "size": 8627488,
-   "sha256": "4a7a94b4e3845667fe5542c48ad2533def04844a55ab483ebcc4c26bd4224820",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "Mega Version",
-    "profile_notes": "Extra-large version, but the shower head height remains the same.",
-    "creation_date": "2026-07-13",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 8
    }
   }
  ],
@@ -233,6 +233,10 @@
    600,
    450
   ],
+  "previews/profiles/3424696.jpg": [
+   600,
+   465
+  ],
   "previews/profiles/3355248.jpg": [
    600,
    450
@@ -240,10 +244,6 @@
   "previews/profiles/3351929.jpg": [
    600,
    450
-  ],
-  "previews/profiles/3424696.jpg": [
-   600,
-   465
   ]
  },
  "storage": {

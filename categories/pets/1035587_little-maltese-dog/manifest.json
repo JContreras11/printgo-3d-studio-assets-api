@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/pequeno-perro-1.3mf.xz",
+   "path": "model/pequeno-perro-multicolor-1h12.3mf.xz",
    "instance_id": "1019326",
-   "name": "pequeno-perro-1",
+   "name": "pequeno-perro-multicolor-1h12",
    "thumbnail": "previews/profiles/1019326.jpg",
    "print_time_h": 1.2,
    "plates": 2,
@@ -45,9 +45,112 @@
    }
   },
   {
-   "path": "model/pequeno-perro-10.3mf.xz",
+   "path": "model/pequeno-perro-1h.3mf.xz",
+   "instance_id": "3676538",
+   "name": "pequeno-perro-1h",
+   "thumbnail": "previews/profiles/3676538.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2683628,
+   "sha256": "fe0c414b2f125dc3e6e9a2523da9f3c8028e0f9e8eb5dec52554239b128c0e21",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "One palet - use ams",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/pequeno-perro-1h42.3mf.xz",
+   "instance_id": "1936976",
+   "name": "pequeno-perro-1h42",
+   "thumbnail": "previews/profiles/1936976.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "size": 2928248,
+   "sha256": "6a71bfcf4a1d14eeb4ebbad4594a01bd7a1cc375ec0031f2242d647667e3bbe0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Maltese Dog with Tag",
+    "profile_notes": "You can print the maltese dog alomg with the tag, you can choose the name of the dog by changing it. I've used some nylon thread to put it around the dog's neck.",
+    "creation_date": "2025-05-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/pequeno-perro-20h54.3mf.xz",
+   "instance_id": "1352424",
+   "name": "pequeno-perro-20h54",
+   "thumbnail": "previews/profiles/1352424.jpg",
+   "print_time_h": 20.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "X1E",
+    "A1",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4529876,
+   "sha256": "e8e80cfc98fa6bb2e6a3fb72ec4d4a3f96c1e485f13de7636348b14c47e3c38a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/pequeno-perro-monocolor-1h06.3mf.xz",
    "instance_id": "1019371",
-   "name": "pequeno-perro-10",
+   "name": "pequeno-perro-monocolor-1h06",
    "thumbnail": "previews/profiles/1019371.jpg",
    "print_time_h": 1.1,
    "plates": 1,
@@ -89,9 +192,97 @@
    }
   },
   {
-   "path": "model/pequeno-perro-2.3mf.xz",
+   "path": "model/pequeno-perro-multicolor-1h12-2.3mf.xz",
+   "instance_id": "1406725",
+   "name": "pequeno-perro-multicolor-1h12-2",
+   "thumbnail": "previews/profiles/1406725.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "X1E",
+    "A1",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "X1 Carbon",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2716260,
+   "sha256": "987025e8e571464f2d4dc6c0c399d895c69fafa8f1c8a130fe0d7d48bcaf2ee7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Multicolor Multipart (Smiling Eyes Version)",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/pequeno-perro-multicolor-5h24.3mf.xz",
+   "instance_id": "1406673",
+   "name": "pequeno-perro-multicolor-5h24",
+   "thumbnail": "previews/profiles/1406673.jpg",
+   "print_time_h": 5.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 136,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "size": 4342596,
+   "sha256": "c4e5f7b41d157a90661ec9323a19933f0085cd1bdba7ae3952282619a11f0a13",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Multicolor AMS (Two Versions)",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/pequeno-perro-pla-multicolor-1h06.3mf.xz",
    "instance_id": "1121293",
-   "name": "pequeno-perro-2",
+   "name": "pequeno-perro-pla-multicolor-1h06",
    "thumbnail": "previews/profiles/1121293.jpg",
    "print_time_h": 1.1,
    "plates": 2,
@@ -160,101 +351,9 @@
    }
   },
   {
-   "path": "model/pequeno-perro-3.3mf.xz",
-   "instance_id": "1201668",
-   "name": "pequeno-perro-3",
-   "thumbnail": "previews/profiles/1201668.jpg",
-   "print_time_h": 0.8,
-   "plates": 1,
-   "rating": 4.7,
-   "rating_count": 18,
-   "by_designer": false,
-   "printers": [
-    "P1S",
-    "P1P",
-    "X1",
-    "X1 Carbon",
-    "X1E"
-   ],
-   "default": false,
-   "size": 2624100,
-   "sha256": "98e3050347b7dd24c71cde9ca07f6ba5d67685f0318888a15ee0bc08e01748ce",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.73",
-    "profile_title": "1 Plate, 1 Filament Change, Arachne Wall, Adaptive Cubic",
-    "profile_notes": "Prints with single filament change on a single plate with printing by object Uses Arachne wall generation Uses Adaptive Cubic infill",
-    "creation_date": "2025-03-09",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "C12",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 3016,
-      "weight_g": 15.41,
-      "support_used": false,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FFFFFF"
-       },
-       {
-        "type": "PLA",
-        "color": "#000000"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/pequeno-perro-4.3mf.xz",
-   "instance_id": "1352424",
-   "name": "pequeno-perro-4",
-   "thumbnail": "previews/profiles/1352424.jpg",
-   "print_time_h": 20.9,
-   "plates": 3,
-   "rating": 5,
-   "rating_count": 4,
-   "by_designer": false,
-   "printers": [
-    "X1 Carbon",
-    "P2S",
-    "H2S",
-    "X1E",
-    "A1",
-    "H2D",
-    "X1",
-    "H2D Pro",
-    "P1P",
-    "H2C",
-    "X2D",
-    "P1S",
-    "A2L"
-   ],
-   "default": false,
-   "size": 4529876,
-   "sha256": "e8e80cfc98fa6bb2e6a3fb72ec4d4a3f96c1e485f13de7636348b14c47e3c38a",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 3
-   }
-  },
-  {
-   "path": "model/pequeno-perro-5.3mf.xz",
+   "path": "model/pequeno-perro-pla-multicolor-1h36.3mf.xz",
    "instance_id": "1026355",
-   "name": "pequeno-perro-5",
+   "name": "pequeno-perro-pla-multicolor-1h36",
    "thumbnail": "previews/profiles/1026355.jpg",
    "print_time_h": 1.6,
    "plates": 2,
@@ -324,155 +423,56 @@
    }
   },
   {
-   "path": "model/pequeno-perro-6.3mf.xz",
-   "instance_id": "1936976",
-   "name": "pequeno-perro-6",
-   "thumbnail": "previews/profiles/1936976.jpg",
-   "print_time_h": 1.7,
-   "plates": 2,
-   "rating": 4.3,
-   "rating_count": 3,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "A1"
-   ],
-   "default": false,
-   "size": 2928248,
-   "sha256": "6a71bfcf4a1d14eeb4ebbad4594a01bd7a1cc375ec0031f2242d647667e3bbe0",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.01.50",
-    "profile_title": "Maltese Dog with Tag",
-    "profile_notes": "You can print the maltese dog alomg with the tag, you can choose the name of the dog by changing it. I've used some nylon thread to put it around the dog's neck.",
-    "creation_date": "2025-05-05",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/pequeno-perro-7.3mf.xz",
-   "instance_id": "1406673",
-   "name": "pequeno-perro-7",
-   "thumbnail": "previews/profiles/1406673.jpg",
-   "print_time_h": 5.4,
-   "plates": 2,
-   "rating": 4.9,
-   "rating_count": 136,
-   "by_designer": true,
-   "printers": [
-    "A1 mini",
-    "H2C",
-    "P2S",
-    "H2S",
-    "X1",
-    "P1P",
-    "A1",
-    "X1E",
-    "X2D",
-    "H2D",
-    "X1 Carbon",
-    "H2D Pro",
-    "P1S",
-    "A2L"
-   ],
-   "default": false,
-   "size": 4342596,
-   "sha256": "c4e5f7b41d157a90661ec9323a19933f0085cd1bdba7ae3952282619a11f0a13",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.03.54",
-    "profile_title": "Multicolor AMS (Two Versions)",
-    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-04-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/pequeno-perro-8.3mf.xz",
-   "instance_id": "1406725",
-   "name": "pequeno-perro-8",
-   "thumbnail": "previews/profiles/1406725.jpg",
-   "print_time_h": 1.2,
-   "plates": 2,
-   "rating": 4.9,
-   "rating_count": 17,
-   "by_designer": true,
-   "printers": [
-    "A1 mini",
-    "P2S",
-    "H2S",
-    "X1E",
-    "A1",
-    "H2D",
-    "X1",
-    "H2D Pro",
-    "H2C",
-    "P1P",
-    "X1 Carbon",
-    "X2D",
-    "P1S",
-    "A2L"
-   ],
-   "default": false,
-   "size": 2716260,
-   "sha256": "987025e8e571464f2d4dc6c0c399d895c69fafa8f1c8a130fe0d7d48bcaf2ee7",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.03.54",
-    "profile_title": "Multicolor Multipart (Smiling Eyes Version)",
-    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-04-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/pequeno-perro-9.3mf.xz",
-   "instance_id": "3676538",
-   "name": "pequeno-perro-9",
-   "thumbnail": "previews/profiles/3676538.jpg",
-   "print_time_h": 1,
+   "path": "model/pequeno-perro-pla-multicolor-48min.3mf.xz",
+   "instance_id": "1201668",
+   "name": "pequeno-perro-pla-multicolor-48min",
+   "thumbnail": "previews/profiles/1201668.jpg",
+   "print_time_h": 0.8,
    "plates": 1,
-   "rating": 5,
-   "rating_count": 1,
+   "rating": 4.7,
+   "rating_count": 18,
    "by_designer": false,
    "printers": [
-    "A1 mini",
-    "A1",
-    "A2L"
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
    ],
    "default": false,
-   "size": 2683628,
-   "sha256": "fe0c414b2f125dc3e6e9a2523da9f3c8028e0f9e8eb5dec52554239b128c0e21",
+   "size": 2624100,
+   "sha256": "98e3050347b7dd24c71cde9ca07f6ba5d67685f0318888a15ee0bc08e01748ce",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "One palet - use ams",
-    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2026-08-31",
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "1 Plate, 1 Filament Change, Arachne Wall, Adaptive Cubic",
+    "profile_notes": "Prints with single filament change on a single plate with printing by object Uses Arachne wall generation Uses Adaptive Cubic infill",
+    "creation_date": "2025-03-09",
     "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
+    "printer": "Bambu Lab P1S",
     "layer_height": "0.2",
     "infill": "15%",
-    "support_type": "tree(auto)",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3016,
+      "weight_g": 15.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
     "photos": 1
    }
   }
@@ -533,31 +533,19 @@
    600,
    450
   ],
-  "previews/profiles/1019371.jpg": [
-   600,
-   450
-  ],
-  "previews/profiles/1121293.jpg": [
-   600,
-   800
-  ],
-  "previews/profiles/1201668.jpg": [
-   600,
-   800
-  ],
-  "previews/profiles/1352424.jpg": [
-   600,
-   783
-  ],
-  "previews/profiles/1026355.jpg": [
-   600,
-   800
+  "previews/profiles/3676538.jpg": [
+   450,
+   600
   ],
   "previews/profiles/1936976.jpg": [
    600,
    450
   ],
-  "previews/profiles/1406673.jpg": [
+  "previews/profiles/1352424.jpg": [
+   600,
+   783
+  ],
+  "previews/profiles/1019371.jpg": [
    600,
    450
   ],
@@ -565,13 +553,26 @@
    600,
    450
   ],
-  "previews/profiles/3676538.jpg": [
-   450,
-   600
+  "previews/profiles/1406673.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1121293.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1026355.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1201668.jpg": [
+   600,
+   800
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

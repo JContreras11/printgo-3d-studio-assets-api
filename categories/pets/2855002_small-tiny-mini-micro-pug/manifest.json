@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/pequeno-mini-1.3mf.xz",
+   "path": "model/pequeno-mini-12min.3mf.xz",
    "instance_id": "3185099",
-   "name": "pequeno-mini-1",
+   "name": "pequeno-mini-12min",
    "thumbnail": "previews/profiles/3185099.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -44,52 +44,9 @@
    }
   },
   {
-   "path": "model/pequeno-mini-2.3mf.xz",
-   "instance_id": "3185105",
-   "name": "pequeno-mini-2",
-   "thumbnail": "previews/profiles/3185105.jpg",
-   "print_time_h": 0.7,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 33,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "X1",
-    "A1 mini",
-    "H2S",
-    "H2D Pro",
-    "P1P",
-    "H2C",
-    "X1 Carbon",
-    "A1",
-    "H2D",
-    "X2D",
-    "P2S",
-    "X1E",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1146392,
-   "sha256": "40c0775496dfa68c02055ce43e260b57c604563c0e5de4409e81ea26a4938852",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "12 Pugs",
-    "creation_date": "2026-05-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/pequeno-mini-3.3mf.xz",
+   "path": "model/pequeno-mini-12min-2.3mf.xz",
    "instance_id": "3658281",
-   "name": "pequeno-mini-3",
+   "name": "pequeno-mini-12min-2",
    "thumbnail": "previews/profiles/3658281.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -124,6 +81,49 @@
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1",
     "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/pequeno-mini-42min.3mf.xz",
+   "instance_id": "3185105",
+   "name": "pequeno-mini-42min",
+   "thumbnail": "previews/profiles/3185105.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "X2D",
+    "P2S",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1146392,
+   "sha256": "40c0775496dfa68c02055ce43e260b57c604563c0e5de4409e81ea26a4938852",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "12 Pugs",
+    "creation_date": "2026-05-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
@@ -178,13 +178,13 @@
    600,
    450
   ],
-  "previews/profiles/3185105.jpg": [
-   600,
-   800
-  ],
   "previews/profiles/3658281.jpg": [
    600,
    635
+  ],
+  "previews/profiles/3185105.jpg": [
+   600,
+   800
   ]
  },
  "storage": {

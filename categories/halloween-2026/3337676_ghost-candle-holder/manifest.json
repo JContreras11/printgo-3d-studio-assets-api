@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/portavelas-fantasma-1.3mf.xz",
+   "path": "model/portavelas-fantasma-4h06.3mf.xz",
    "instance_id": "3791286",
-   "name": "portavelas-fantasma-1",
+   "name": "portavelas-fantasma-4h06",
    "thumbnail": "previews/profiles/3791286.jpg",
    "print_time_h": 4.1,
    "plates": 2,
@@ -44,52 +44,9 @@
    }
   },
   {
-   "path": "model/portavelas-fantasma-2.3mf.xz",
-   "instance_id": "3794435",
-   "name": "portavelas-fantasma-2",
-   "thumbnail": "previews/profiles/3794435.jpg",
-   "print_time_h": 3.6,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 2,
-   "by_designer": true,
-   "printers": [
-    "H2C",
-    "X1",
-    "A1",
-    "X2D",
-    "X1E",
-    "P2S",
-    "A1 mini",
-    "H2D",
-    "A2L",
-    "P1S",
-    "X1 Carbon",
-    "H2D Pro",
-    "H2S",
-    "P1P"
-   ],
-   "default": false,
-   "size": 3548152,
-   "sha256": "fc7cb4f327c6f522054b12b5df9311004ec8ef481c84075d6676d452023ea332",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "AMS version",
-    "creation_date": "2026-09-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2C",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/portavelas-fantasma-3.3mf.xz",
+   "path": "model/portavelas-fantasma-3h30.3mf.xz",
    "instance_id": "3806567",
-   "name": "portavelas-fantasma-3",
+   "name": "portavelas-fantasma-3h30",
    "thumbnail": "previews/profiles/3806567.jpg",
    "print_time_h": 3.5,
    "plates": 1,
@@ -124,6 +81,49 @@
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1",
     "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/portavelas-fantasma-3h36.3mf.xz",
+   "instance_id": "3794435",
+   "name": "portavelas-fantasma-3h36",
+   "thumbnail": "previews/profiles/3794435.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "size": 3548152,
+   "sha256": "fc7cb4f327c6f522054b12b5df9311004ec8ef481c84075d6676d452023ea332",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "AMS version",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
@@ -169,13 +169,13 @@
    600,
    657
   ],
-  "previews/profiles/3794435.jpg": [
-   600,
-   657
-  ],
   "previews/profiles/3806567.jpg": [
    600,
    565
+  ],
+  "previews/profiles/3794435.jpg": [
+   600,
+   657
   ]
  },
  "storage": {

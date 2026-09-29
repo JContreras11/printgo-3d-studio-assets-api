@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/levantador-piel-1.3mf.xz",
+   "path": "model/levantador-piel-1h.3mf.xz",
    "instance_id": "2702911",
-   "name": "levantador-piel-1",
+   "name": "levantador-piel-1h",
    "thumbnail": "previews/profiles/2702911.jpg",
    "print_time_h": 1,
    "plates": 1,
@@ -45,53 +45,9 @@
    }
   },
   {
-   "path": "model/levantador-piel-2.3mf.xz",
-   "instance_id": "2708872",
-   "name": "levantador-piel-2",
-   "thumbnail": "previews/profiles/2708872.jpg",
-   "print_time_h": 0.5,
-   "plates": 1,
-   "rating": 4.9,
-   "rating_count": 69,
-   "by_designer": true,
-   "printers": [
-    "A1",
-    "A1 mini",
-    "H2S",
-    "P2S",
-    "X1E",
-    "P1P",
-    "X1",
-    "H2C",
-    "X1 Carbon",
-    "H2D Pro",
-    "P1S",
-    "H2D",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1304452,
-   "sha256": "a218d4219d3942233fad9334f6bf1e1d512a27831ddcd698a8427af6bac25327",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "Handle",
-    "profile_notes": "Everything is already pre-configured, Simply hit slice and print!",
-    "creation_date": "2026-03-02",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/levantador-piel-3.3mf.xz",
+   "path": "model/levantador-piel-1h24.3mf.xz",
    "instance_id": "3553253",
-   "name": "levantador-piel-3",
+   "name": "levantador-piel-1h24",
    "thumbnail": "previews/profiles/3553253.jpg",
    "print_time_h": 1.4,
    "plates": 1,
@@ -128,6 +84,50 @@
     "printer": "Bambu Lab A1",
     "layer_height": "0.2",
     "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/levantador-piel-30min.3mf.xz",
+   "instance_id": "2708872",
+   "name": "levantador-piel-30min",
+   "thumbnail": "previews/profiles/2708872.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 69,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1304452,
+   "sha256": "a218d4219d3942233fad9334f6bf1e1d512a27831ddcd698a8427af6bac25327",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Handle",
+    "profile_notes": "Everything is already pre-configured, Simply hit slice and print!",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 1
    }
@@ -180,13 +180,13 @@
    600,
    269
   ],
-  "previews/profiles/2708872.jpg": [
-   600,
-   269
-  ],
   "previews/profiles/3553253.jpg": [
    600,
    461
+  ],
+  "previews/profiles/2708872.jpg": [
+   600,
+   269
   ]
  },
  "storage": {

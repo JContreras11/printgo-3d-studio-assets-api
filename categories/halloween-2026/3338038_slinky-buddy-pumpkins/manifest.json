@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/calabazas-slinky-1.3mf.xz",
+   "path": "model/calabazas-slinky-3h06.3mf.xz",
    "instance_id": "3791710",
-   "name": "calabazas-slinky-1",
+   "name": "calabazas-slinky-3h06",
    "thumbnail": "previews/profiles/3791710.jpg",
    "print_time_h": 3.1,
    "plates": 1,
@@ -43,51 +43,9 @@
    }
   },
   {
-   "path": "model/calabazas-slinky-2.3mf.xz",
-   "instance_id": "3791722",
-   "name": "calabazas-slinky-2",
-   "thumbnail": "previews/profiles/3791722.jpg",
-   "print_time_h": 2.6,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "X2D",
-    "P2S",
-    "X1",
-    "H2S",
-    "H2C",
-    "H2D",
-    "A2L",
-    "X1 Carbon",
-    "H2D Pro",
-    "A1",
-    "X1E",
-    "P1P",
-    "P1S"
-   ],
-   "default": false,
-   "size": 10863288,
-   "sha256": "2b0f7167b8bb29453b6fc64a6296e67d36af216648ad919b0c497f3fa666cbf5",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "Normal Slinky Buddy",
-    "creation_date": "2026-09-21",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X2D",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(manual)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/calabazas-slinky-3.3mf.xz",
+   "path": "model/calabazas-slinky-2h.3mf.xz",
    "instance_id": "3791727",
-   "name": "calabazas-slinky-3",
+   "name": "calabazas-slinky-2h",
    "thumbnail": "previews/profiles/3791727.jpg",
    "print_time_h": 2,
    "plates": 1,
@@ -118,6 +76,48 @@
    "meta": {
     "application": "BambuStudio-02.08.02.61",
     "profile_title": "Small Slinky Buddy",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/calabazas-slinky-2h36.3mf.xz",
+   "instance_id": "3791722",
+   "name": "calabazas-slinky-2h36",
+   "thumbnail": "previews/profiles/3791722.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "size": 10863288,
+   "sha256": "2b0f7167b8bb29453b6fc64a6296e67d36af216648ad919b0c497f3fa666cbf5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Normal Slinky Buddy",
     "creation_date": "2026-09-21",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab X2D",
@@ -182,11 +182,11 @@
    450,
    600
   ],
-  "previews/profiles/3791722.jpg": [
+  "previews/profiles/3791727.jpg": [
    450,
    600
   ],
-  "previews/profiles/3791727.jpg": [
+  "previews/profiles/3791722.jpg": [
    450,
    600
   ]

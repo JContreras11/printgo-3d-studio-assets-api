@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/goofy-ojos-1.3mf.xz",
+   "path": "model/goofy-ojos-7h12.3mf.xz",
    "instance_id": "3687886",
-   "name": "goofy-ojos-1",
+   "name": "goofy-ojos-7h12",
    "thumbnail": "previews/profiles/3687886.jpg",
    "print_time_h": 7.2,
    "plates": 4,
@@ -39,15 +39,47 @@
    }
   },
   {
-   "path": "model/goofy-ojos-10.3mf.xz",
-   "instance_id": "3710420",
-   "name": "goofy-ojos-10",
-   "thumbnail": "previews/profiles/3710420.jpg",
-   "print_time_h": 2.6,
+   "path": "model/goofy-ojos-2h-2.3mf.xz",
+   "instance_id": "3816459",
+   "name": "goofy-ojos-2h-2",
+   "thumbnail": "previews/profiles/3816459.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3009812,
+   "sha256": "5a00f201cf73754c159a1c29719fc07a66cd7190c18fc9489409c7b0c2b92da1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 Hour Print One Plate",
+    "profile_notes": "3pumpkin 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/goofy-ojos-2h.3mf.xz",
+   "instance_id": "3687930",
+   "name": "goofy-ojos-2h",
+   "thumbnail": "previews/profiles/3687930.jpg",
+   "print_time_h": 2,
    "plates": 1,
    "rating": 5,
-   "rating_count": 1,
-   "by_designer": false,
+   "rating_count": 6,
+   "by_designer": true,
    "printers": [
     "P1S",
     "P1P",
@@ -56,27 +88,231 @@
     "X1E"
    ],
    "default": false,
-   "size": 3026412,
-   "sha256": "0645d0c8092f822f12206a53517c00a713159a94c6019418854b72a2d2157848",
+   "size": 4809468,
+   "sha256": "4222f5ebc53403424e7b67edcdb94ab319f61317eaa96b9b8e439101dbca1407",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "多色一盘打印，提高打印效率",
-    "profile_notes": "1pumpkin medium 4plates parts NOAMS 0.2mm, 2walls, 7%infill",
-    "creation_date": "2026-09-06",
-    "slicer": "Bambu Studio",
     "printer": "Bambu Lab P1S",
-    "layer_height": "0.24",
+    "layer_height": "0.2",
     "infill": "7%",
     "support_type": "tree(auto)",
     "photos": 1
    }
   },
   {
-   "path": "model/goofy-ojos-11.3mf.xz",
+   "path": "model/goofy-ojos-2h12.3mf.xz",
+   "instance_id": "3688057",
+   "name": "goofy-ojos-2h12",
+   "thumbnail": "previews/profiles/3688057.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 3061484,
+   "sha256": "e74ba66f2f912a7e43059cb6104cd27cdd6f2b8c6ffee25ad0ab944545ef0efa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/goofy-ojos-2h18.3mf.xz",
+   "instance_id": "3687916",
+   "name": "goofy-ojos-2h18",
+   "thumbnail": "previews/profiles/3687916.jpg",
+   "print_time_h": 2.3,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 4932648,
+   "sha256": "5327b02dd9d6767f3d90dc514f912fbba2a443bb5b3c5e205cae9d3aea78d45a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/goofy-ojos-2h24.3mf.xz",
+   "instance_id": "3688025",
+   "name": "goofy-ojos-2h24",
+   "thumbnail": "previews/profiles/3688025.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 3126888,
+   "sha256": "72bfb2372d2999f66bc57286e25fc2de7a07de866482a7108a1cf56eb4f96825",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/goofy-ojos-2h30.3mf.xz",
+   "instance_id": "3688041",
+   "name": "goofy-ojos-2h30",
+   "thumbnail": "previews/profiles/3688041.jpg",
+   "print_time_h": 2.5,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "size": 3203332,
+   "sha256": "b411704fe0717bb06a53f0bda4761770498bdcdf98e7236df980bda29651f51b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/goofy-ojos-2h36.3mf.xz",
+   "instance_id": "3687965",
+   "name": "goofy-ojos-2h36",
+   "thumbnail": "previews/profiles/3687965.jpg",
+   "print_time_h": 2.6,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": false,
+   "size": 3244512,
+   "sha256": "9b7cb7c4327ca7caa37088c220251228f66a4727f5c569b1faf536e7e91c4014",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/goofy-ojos-4h06.3mf.xz",
+   "instance_id": "3711292",
+   "name": "goofy-ojos-4h06",
+   "thumbnail": "previews/profiles/3711292.jpg",
+   "print_time_h": 4.1,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 7971916,
+   "sha256": "014a4254de51f8d596f557c1c2a62dbafc7b834d729d43d1aaa43c265ac8e999",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "一盘分件打印免换盘（一盘一种南瓜）",
+    "profile_notes": "1pumpkin low parts 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   }
+  },
+  {
+   "path": "model/goofy-ojos-4h24.3mf.xz",
    "instance_id": "3696630",
-   "name": "goofy-ojos-11",
+   "name": "goofy-ojos-4h24",
    "thumbnail": "previews/profiles/3696630.jpg",
    "print_time_h": 4.4,
    "plates": 4,
@@ -117,280 +353,9 @@
    }
   },
   {
-   "path": "model/goofy-ojos-12.3mf.xz",
-   "instance_id": "3711292",
-   "name": "goofy-ojos-12",
-   "thumbnail": "previews/profiles/3711292.jpg",
-   "print_time_h": 4.1,
-   "plates": 3,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "A2L"
-   ],
-   "default": false,
-   "size": 7971916,
-   "sha256": "014a4254de51f8d596f557c1c2a62dbafc7b834d729d43d1aaa43c265ac8e999",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "一盘分件打印免换盘（一盘一种南瓜）",
-    "profile_notes": "1pumpkin low parts 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
-    "creation_date": "2026-09-07",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 3
-   }
-  },
-  {
-   "path": "model/goofy-ojos-2.3mf.xz",
-   "instance_id": "3687916",
-   "name": "goofy-ojos-2",
-   "thumbnail": "previews/profiles/3687916.jpg",
-   "print_time_h": 2.3,
-   "plates": 4,
-   "rating": 5,
-   "rating_count": 20,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "X1E",
-    "P2S",
-    "H2C",
-    "H2D",
-    "A2L",
-    "X1 Carbon",
-    "A1 mini",
-    "X2D",
-    "H2D Pro",
-    "P1P",
-    "H2S",
-    "X1",
-    "A1"
-   ],
-   "default": false,
-   "size": 4932648,
-   "sha256": "5327b02dd9d6767f3d90dc514f912fbba2a443bb5b3c5e205cae9d3aea78d45a",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 4
-   }
-  },
-  {
-   "path": "model/goofy-ojos-3.3mf.xz",
-   "instance_id": "3688057",
-   "name": "goofy-ojos-3",
-   "thumbnail": "previews/profiles/3688057.jpg",
-   "print_time_h": 2.2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 3,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "P1P",
-    "X1",
-    "X1 Carbon",
-    "X1E"
-   ],
-   "default": false,
-   "size": 3061484,
-   "sha256": "e74ba66f2f912a7e43059cb6104cd27cdd6f2b8c6ffee25ad0ab944545ef0efa",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/goofy-ojos-4.3mf.xz",
-   "instance_id": "3688041",
-   "name": "goofy-ojos-4",
-   "thumbnail": "previews/profiles/3688041.jpg",
-   "print_time_h": 2.5,
-   "plates": 4,
-   "rating": 5,
-   "rating_count": 20,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "H2D",
-    "H2S",
-    "X2D",
-    "A2L",
-    "A1 mini",
-    "H2C",
-    "X1E",
-    "P1P",
-    "P2S",
-    "H2D Pro",
-    "X1 Carbon",
-    "X1",
-    "A1"
-   ],
-   "default": false,
-   "size": 3203332,
-   "sha256": "b411704fe0717bb06a53f0bda4761770498bdcdf98e7236df980bda29651f51b",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 4
-   }
-  },
-  {
-   "path": "model/goofy-ojos-5.3mf.xz",
-   "instance_id": "3687965",
-   "name": "goofy-ojos-5",
-   "thumbnail": "previews/profiles/3687965.jpg",
-   "print_time_h": 2.6,
-   "plates": 4,
-   "rating": 5,
-   "rating_count": 14,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "H2D",
-    "A1 mini",
-    "A2L",
-    "H2D Pro",
-    "X1E",
-    "A1",
-    "X1 Carbon",
-    "H2C",
-    "X2D",
-    "H2S",
-    "X1",
-    "P1P",
-    "P2S"
-   ],
-   "default": false,
-   "size": 3244512,
-   "sha256": "9b7cb7c4327ca7caa37088c220251228f66a4727f5c569b1faf536e7e91c4014",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 4
-   }
-  },
-  {
-   "path": "model/goofy-ojos-6.3mf.xz",
-   "instance_id": "3688025",
-   "name": "goofy-ojos-6",
-   "thumbnail": "previews/profiles/3688025.jpg",
-   "print_time_h": 2.4,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 4,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "P1P",
-    "X1",
-    "X1 Carbon",
-    "X1E"
-   ],
-   "default": false,
-   "size": 3126888,
-   "sha256": "72bfb2372d2999f66bc57286e25fc2de7a07de866482a7108a1cf56eb4f96825",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/goofy-ojos-7.3mf.xz",
-   "instance_id": "3687930",
-   "name": "goofy-ojos-7",
-   "thumbnail": "previews/profiles/3687930.jpg",
-   "print_time_h": 2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 6,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "P1P",
-    "X1",
-    "X1 Carbon",
-    "X1E"
-   ],
-   "default": false,
-   "size": 4809468,
-   "sha256": "4222f5ebc53403424e7b67edcdb94ab319f61317eaa96b9b8e439101dbca1407",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/goofy-ojos-8.3mf.xz",
-   "instance_id": "3816459",
-   "name": "goofy-ojos-8",
-   "thumbnail": "previews/profiles/3816459.jpg",
-   "print_time_h": 2,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "A2L"
-   ],
-   "default": false,
-   "size": 3009812,
-   "sha256": "5a00f201cf73754c159a1c29719fc07a66cd7190c18fc9489409c7b0c2b92da1",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "2 Hour Print One Plate",
-    "profile_notes": "3pumpkin 4plate NO AMS 0.2mm layer, 2 walls, 7% infill",
-    "creation_date": "2026-09-25",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.28",
-    "infill": "7%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/goofy-ojos-9.3mf.xz",
+   "path": "model/goofy-ojos-7h06.3mf.xz",
    "instance_id": "3687901",
-   "name": "goofy-ojos-9",
+   "name": "goofy-ojos-7h06",
    "thumbnail": "previews/profiles/3687901.jpg",
    "print_time_h": 7.1,
    "plates": 2,
@@ -415,6 +380,41 @@
     "infill": "7%",
     "support_type": "tree(auto)",
     "photos": 2
+   }
+  },
+  {
+   "path": "model/goofy-ojos-multicolor-2h36.3mf.xz",
+   "instance_id": "3710420",
+   "name": "goofy-ojos-multicolor-2h36",
+   "thumbnail": "previews/profiles/3710420.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "size": 3026412,
+   "sha256": "0645d0c8092f822f12206a53517c00a713159a94c6019418854b72a2d2157848",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，提高打印效率",
+    "profile_notes": "1pumpkin medium 4plates parts NOAMS 0.2mm, 2walls, 7%infill",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
    }
   }
  ],
@@ -476,23 +476,23 @@
    600,
    450
   ],
-  "previews/profiles/3710420.jpg": [
+  "previews/profiles/3816459.jpg": [
    600,
-   609
+   451
   ],
-  "previews/profiles/3696630.jpg": [
+  "previews/profiles/3687930.jpg": [
    600,
-   448
+   450
   ],
-  "previews/profiles/3711292.jpg": [
-   281,
-   226
+  "previews/profiles/3688057.jpg": [
+   600,
+   450
   ],
   "previews/profiles/3687916.jpg": [
    600,
    450
   ],
-  "previews/profiles/3688057.jpg": [
+  "previews/profiles/3688025.jpg": [
    600,
    450
   ],
@@ -504,25 +504,26 @@
    600,
    450
   ],
-  "previews/profiles/3688025.jpg": [
-   600,
-   450
+  "previews/profiles/3711292.jpg": [
+   281,
+   226
   ],
-  "previews/profiles/3687930.jpg": [
+  "previews/profiles/3696630.jpg": [
    600,
-   450
-  ],
-  "previews/profiles/3816459.jpg": [
-   600,
-   451
+   448
   ],
   "previews/profiles/3687901.jpg": [
    600,
    450
+  ],
+  "previews/profiles/3710420.jpg": [
+   600,
+   609
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

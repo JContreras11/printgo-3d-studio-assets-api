@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cuchara-comida-1.3mf.xz",
+   "path": "model/cuchara-comida-pla-multicolor-1h30.3mf.xz",
    "instance_id": "930259",
-   "name": "cuchara-comida-1",
+   "name": "cuchara-comida-pla-multicolor-1h30",
    "thumbnail": "previews/profiles/930259.jpg",
    "print_time_h": 1.5,
    "plates": 1,
@@ -63,9 +63,9 @@
    }
   },
   {
-   "path": "model/cuchara-comida-2.3mf.xz",
+   "path": "model/cuchara-comida-2h24.3mf.xz",
    "instance_id": "2712184",
-   "name": "cuchara-comida-2",
+   "name": "cuchara-comida-2h24",
    "thumbnail": "previews/profiles/2712184.jpg",
    "print_time_h": 2.4,
    "plates": 1,
@@ -105,9 +105,9 @@
    }
   },
   {
-   "path": "model/cuchara-comida-3.3mf.xz",
+   "path": "model/cuchara-comida-pla-multicolor-1h36.3mf.xz",
    "instance_id": "1211544",
-   "name": "cuchara-comida-3",
+   "name": "cuchara-comida-pla-multicolor-1h36",
    "thumbnail": "previews/profiles/1211544.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -229,5 +229,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

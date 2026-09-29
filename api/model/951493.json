@@ -30,9 +30,9 @@
  ],
  "files": [
   {
-   "path": "model/funda-esqueleto-1.3mf.xz",
+   "path": "model/funda-esqueleto-pla-42min.3mf.xz",
    "instance_id": "945812",
-   "name": "funda-esqueleto-1",
+   "name": "funda-esqueleto-pla-42min",
    "thumbnail": "previews/profiles/945812.jpg",
    "print_time_h": 0.7,
    "plates": 1,
@@ -88,9 +88,96 @@
    }
   },
   {
-   "path": "model/funda-esqueleto-2.3mf.xz",
+   "path": "model/funda-esqueleto-42min.3mf.xz",
+   "instance_id": "2551542",
+   "name": "funda-esqueleto-42min",
+   "thumbnail": "previews/profiles/2551542.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2C",
+    "A1",
+    "X2D",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "A2L",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "A1 mini"
+   ],
+   "default": false,
+   "size": 1102428,
+   "sha256": "6cce9d8ba125c5a5a25b851c76cb979a55e4c72eb675d1aa2ffb217d0b33f3a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Ich habe es mit TPU für AMS gedruckt das es das beste für diesen anwendungszweck ist doch andere TPUs sollte auch kein Problem sein.",
+    "creation_date": "2026-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/funda-esqueleto-48min.3mf.xz",
+   "size": 2757796,
+   "sha256": "b3bb1c2a34b992213cdfe92db3b8dc0ac0d9c26784009568fa0296327c091359",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "iPhone 14 Pro Max",
+    "creation_date": "2025-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "instance_id": "1929044",
+   "name": "funda-esqueleto-48min",
+   "thumbnail": "previews/profiles/1929044.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1P",
+    "H2D",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false
+  },
+  {
+   "path": "model/funda-esqueleto-pla-48min.3mf.xz",
    "instance_id": "1151244",
-   "name": "funda-esqueleto-2",
+   "name": "funda-esqueleto-pla-48min",
    "thumbnail": "previews/profiles/1151244.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -145,93 +232,6 @@
     ],
     "photos": 1
    }
-  },
-  {
-   "path": "model/funda-esqueleto-3.3mf.xz",
-   "instance_id": "2551542",
-   "name": "funda-esqueleto-3",
-   "thumbnail": "previews/profiles/2551542.jpg",
-   "print_time_h": 0.7,
-   "plates": 1,
-   "rating": 3,
-   "rating_count": 2,
-   "by_designer": false,
-   "printers": [
-    "P2S",
-    "P1S",
-    "H2C",
-    "A1",
-    "X2D",
-    "X1 Carbon",
-    "X1",
-    "H2D Pro",
-    "A2L",
-    "P1P",
-    "H2D",
-    "H2S",
-    "X1E",
-    "A1 mini"
-   ],
-   "default": false,
-   "size": 1102428,
-   "sha256": "6cce9d8ba125c5a5a25b851c76cb979a55e4c72eb675d1aa2ffb217d0b33f3a0",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill",
-    "profile_notes": "Ich habe es mit TPU für AMS gedruckt das es das beste für diesen anwendungszweck ist doch andere TPUs sollte auch kein Problem sein.",
-    "creation_date": "2026-02-01",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/funda-esqueleto-4.3mf.xz",
-   "size": 2757796,
-   "sha256": "b3bb1c2a34b992213cdfe92db3b8dc0ac0d9c26784009568fa0296327c091359",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.02.02.56",
-    "profile_title": "iPhone 14 Pro Max",
-    "creation_date": "2025-09-18",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   },
-   "instance_id": "1929044",
-   "name": "funda-esqueleto-4",
-   "thumbnail": "previews/profiles/1929044.jpg",
-   "print_time_h": 0.8,
-   "plates": 1,
-   "rating": 4.8,
-   "rating_count": 11,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "X2D",
-    "P1P",
-    "H2D",
-    "X1",
-    "P1S",
-    "H2D Pro",
-    "H2C",
-    "X1 Carbon",
-    "A1 mini",
-    "X1E",
-    "H2S",
-    "A2L",
-    "P2S"
-   ],
-   "default": false
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2eb484034e6727/design/2025-01-13_77d8ca39d9c078.jpeg?x-oss-process=image/resize,w_1000",
@@ -268,10 +268,6 @@
    600,
    450
   ],
-  "previews/profiles/1151244.jpg": [
-   600,
-   436
-  ],
   "previews/profiles/2551542.jpg": [
    600,
    800
@@ -279,6 +275,10 @@
   "previews/profiles/1929044.jpg": [
    600,
    905
+  ],
+  "previews/profiles/1151244.jpg": [
+   600,
+   436
   ]
  }
 }

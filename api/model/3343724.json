@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/corona-halloween-1.3mf.xz",
+   "path": "model/corona-halloween-multicolor-21h48.3mf.xz",
    "instance_id": "3799269",
-   "name": "corona-halloween-1",
+   "name": "corona-halloween-multicolor-21h48",
    "thumbnail": "previews/profiles/3799269.jpg",
    "print_time_h": 21.8,
    "plates": 1,
@@ -34,80 +34,9 @@
    }
   },
   {
-   "path": "model/corona-halloween-2.3mf.xz",
-   "instance_id": "3801494",
-   "name": "corona-halloween-2",
-   "thumbnail": "previews/profiles/3801494.jpg",
-   "print_time_h": 25,
-   "plates": 9,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "P2S",
-    "H2C",
-    "A1",
-    "H2D",
-    "H2D Pro",
-    "H2S",
-    "A2L",
-    "X2D"
-   ],
-   "default": false,
-   "size": 8978908,
-   "sha256": "e61aeae9ab0ad1c39436363139a5b7d7148045765f72b268560ff74af5f51eeb",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "1 AMS - Split Parts (LOW PURGE)",
-    "profile_notes": "I've never worked harder on splitting a print so its friendly to those on a single nozzle printer. The only part that requires an AMS are the faces, the banner and the broom. I have worked extensively to reduce purging on this model. Its at just about 100g's for the whole print on a single nozzle printer, way less on a dual nozzle printer!",
-    "creation_date": "2026-09-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 9
-   }
-  },
-  {
-   "path": "model/corona-halloween-3.3mf.xz",
-   "instance_id": "3799387",
-   "name": "corona-halloween-3",
-   "thumbnail": "previews/profiles/3799387.jpg",
-   "print_time_h": 13.2,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "H2C",
-    "H2D Pro",
-    "H2D"
-   ],
-   "default": false,
-   "size": 5168728,
-   "sha256": "51bc8684c0713379cc6a81cf73a5222718b8d67ebd260b3db75f6b24addefaed",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "2 AMS - Full Color (THINNER)",
-    "profile_notes": "Reduced material usage. Less purge, although it will still be alot if you're using anything besides an H2C.",
-    "creation_date": "2026-09-22",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2C",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/corona-halloween-4.3mf.xz",
+   "path": "model/corona-halloween-10h18.3mf.xz",
    "instance_id": "3799361",
-   "name": "corona-halloween-4",
+   "name": "corona-halloween-10h18",
    "thumbnail": "previews/profiles/3799361.jpg",
    "print_time_h": 10.3,
    "plates": 1,
@@ -143,9 +72,47 @@
    }
   },
   {
-   "path": "model/corona-halloween-5.3mf.xz",
+   "path": "model/corona-halloween-25h.3mf.xz",
+   "instance_id": "3801494",
+   "name": "corona-halloween-25h",
+   "thumbnail": "previews/profiles/3801494.jpg",
+   "print_time_h": 25,
+   "plates": 9,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "size": 8978908,
+   "sha256": "e61aeae9ab0ad1c39436363139a5b7d7148045765f72b268560ff74af5f51eeb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "1 AMS - Split Parts (LOW PURGE)",
+    "profile_notes": "I've never worked harder on splitting a print so its friendly to those on a single nozzle printer. The only part that requires an AMS are the faces, the banner and the broom. I have worked extensively to reduce purging on this model. Its at just about 100g's for the whole print on a single nozzle printer, way less on a dual nozzle printer!",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   }
+  },
+  {
+   "path": "model/corona-halloween-7h12.3mf.xz",
    "instance_id": "3799388",
-   "name": "corona-halloween-5",
+   "name": "corona-halloween-7h12",
    "thumbnail": "previews/profiles/3799388.jpg",
    "print_time_h": 7.2,
    "plates": 1,
@@ -171,6 +138,39 @@
     "application": "BambuStudio-02.08.02.61",
     "profile_title": "NO AMS - One Color (THINNER)",
     "profile_notes": "Reduced material usage. 50% thinner.",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/corona-halloween-multicolor-13h12.3mf.xz",
+   "instance_id": "3799387",
+   "name": "corona-halloween-multicolor-13h12",
+   "thumbnail": "previews/profiles/3799387.jpg",
+   "print_time_h": 13.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "size": 5168728,
+   "sha256": "51bc8684c0713379cc6a81cf73a5222718b8d67ebd260b3db75f6b24addefaed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 AMS - Full Color (THINNER)",
+    "profile_notes": "Reduced material usage. Less purge, although it will still be alot if you're using anything besides an H2C.",
     "creation_date": "2026-09-22",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab H2C",
@@ -234,25 +234,26 @@
    600,
    450
   ],
-  "previews/profiles/3801494.jpg": [
-   450,
-   600
-  ],
-  "previews/profiles/3799387.jpg": [
-   450,
-   600
-  ],
   "previews/profiles/3799361.jpg": [
    600,
    449
   ],
+  "previews/profiles/3801494.jpg": [
+   450,
+   600
+  ],
   "previews/profiles/3799388.jpg": [
    600,
    449
+  ],
+  "previews/profiles/3799387.jpg": [
+   450,
+   600
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

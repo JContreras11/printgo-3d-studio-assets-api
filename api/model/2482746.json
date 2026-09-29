@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mini-amigo-1.3mf.xz",
+   "path": "model/mini-amigo-48min.3mf.xz",
    "instance_id": "2727042",
-   "name": "mini-amigo-1",
+   "name": "mini-amigo-48min",
    "thumbnail": "previews/profiles/2727042.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -45,53 +45,9 @@
    }
   },
   {
-   "path": "model/mini-amigo-2.3mf.xz",
-   "instance_id": "3001947",
-   "name": "mini-amigo-2",
-   "thumbnail": "previews/profiles/3001947.jpg",
-   "print_time_h": 0.2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 5,
-   "by_designer": true,
-   "printers": [
-    "X2D",
-    "H2D",
-    "H2S",
-    "H2C",
-    "A1 mini",
-    "X1 Carbon",
-    "X1E",
-    "P2S",
-    "P1P",
-    "A1",
-    "X1",
-    "P1S",
-    "H2D Pro",
-    "A2L"
-   ],
-   "default": false,
-   "size": 8440884,
-   "sha256": "9e127b4c0ceab2950599425ee26b1fe892e2fdfc4f802847526353e6ed049519",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "Keychain, single color, 0.12mm layer, 2 walls, 15% infill",
-    "profile_notes": "Keychain version, single color 0.12mm layer 2 walls 15% infill",
-    "creation_date": "2026-04-24",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X2D",
-    "layer_height": "0.12",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/mini-amigo-3.3mf.xz",
+   "path": "model/mini-amigo-30min.3mf.xz",
    "instance_id": "3001902",
-   "name": "mini-amigo-3",
+   "name": "mini-amigo-30min",
    "thumbnail": "previews/profiles/3001902.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -133,9 +89,9 @@
    }
   },
   {
-   "path": "model/mini-amigo-4.3mf.xz",
+   "path": "model/mini-amigo-monocolor-12min-2.3mf.xz",
    "instance_id": "2727065",
-   "name": "mini-amigo-4",
+   "name": "mini-amigo-monocolor-12min-2",
    "thumbnail": "previews/profiles/2727065.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -170,6 +126,50 @@
     "creation_date": "2026-02-11",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-amigo-monocolor-12min.3mf.xz",
+   "instance_id": "3001947",
+   "name": "mini-amigo-monocolor-12min",
+   "thumbnail": "previews/profiles/3001947.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8440884,
+   "sha256": "9e127b4c0ceab2950599425ee26b1fe892e2fdfc4f802847526353e6ed049519",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Keychain, single color, 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Keychain version, single color 0.12mm layer 2 walls 15% infill",
+    "creation_date": "2026-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
     "layer_height": "0.12",
     "infill": "15%",
     "support_type": "tree(auto)",
@@ -246,10 +246,6 @@
    600,
    738
   ],
-  "previews/profiles/3001947.jpg": [
-   600,
-   450
-  ],
   "previews/profiles/3001902.jpg": [
    600,
    419
@@ -257,6 +253,10 @@
   "previews/profiles/2727065.jpg": [
    600,
    753
+  ],
+  "previews/profiles/3001947.jpg": [
+   600,
+   450
   ]
  },
  "storage": {

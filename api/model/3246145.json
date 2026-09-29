@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mini-microfono-1.3mf.xz",
+   "path": "model/mini-microfono-2h.3mf.xz",
    "instance_id": "3678338",
-   "name": "mini-microfono-1",
+   "name": "mini-microfono-2h",
    "thumbnail": "previews/profiles/3678338.jpg",
    "print_time_h": 2,
    "plates": 3,
@@ -46,9 +46,9 @@
    }
   },
   {
-   "path": "model/mini-microfono-2.3mf.xz",
+   "path": "model/mini-microfono-multicolor-1h12.3mf.xz",
    "instance_id": "3698940",
-   "name": "mini-microfono-2",
+   "name": "mini-microfono-multicolor-1h12",
    "thumbnail": "previews/profiles/3698940.jpg",
    "print_time_h": 1.2,
    "plates": 1,
@@ -153,5 +153,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

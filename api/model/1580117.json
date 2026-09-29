@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/soporte-cuenco-1.3mf.xz",
+   "path": "model/soporte-cuenco-13h54.3mf.xz",
    "instance_id": "1662829",
-   "name": "soporte-cuenco-1",
+   "name": "soporte-cuenco-13h54",
    "thumbnail": "previews/profiles/1662829.jpg",
    "print_time_h": 13.9,
    "plates": 8,
@@ -43,40 +43,9 @@
    }
   },
   {
-   "path": "model/soporte-cuenco-2.3mf.xz",
-   "instance_id": "1662830",
-   "name": "soporte-cuenco-2",
-   "thumbnail": "previews/profiles/1662830.jpg",
-   "print_time_h": 20.2,
-   "plates": 5,
-   "rating": 5,
-   "rating_count": 7,
-   "by_designer": true,
-   "printers": [
-    "H2D",
-    "H2D Pro"
-   ],
-   "default": false,
-   "size": 10342008,
-   "sha256": "0a0508745eac82e3af85c8b116a84b67870222f27b389157a1cd6f8d4ba0c945",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.01.00.59",
-    "profile_title": "H2D",
-    "creation_date": "2025-07-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2D",
-    "layer_height": "0.16",
-    "infill": "5%",
-    "support_type": "normal(auto)",
-    "photos": 5
-   }
-  },
-  {
-   "path": "model/soporte-cuenco-3.3mf.xz",
+   "path": "model/soporte-cuenco-15h12.3mf.xz",
    "instance_id": "3492265",
-   "name": "soporte-cuenco-3",
+   "name": "soporte-cuenco-15h12",
    "thumbnail": "previews/profiles/3492265.jpg",
    "print_time_h": 15.2,
    "plates": 8,
@@ -114,6 +83,37 @@
     "infill": "5%",
     "support_type": "normal(auto)",
     "photos": 8
+   }
+  },
+  {
+   "path": "model/soporte-cuenco-20h12.3mf.xz",
+   "instance_id": "1662830",
+   "name": "soporte-cuenco-20h12",
+   "thumbnail": "previews/profiles/1662830.jpg",
+   "print_time_h": 20.2,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 10342008,
+   "sha256": "0a0508745eac82e3af85c8b116a84b67870222f27b389157a1cd6f8d4ba0c945",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "H2D",
+    "creation_date": "2025-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "photos": 5
    }
   }
  ],
@@ -156,13 +156,13 @@
    600,
    450
   ],
-  "previews/profiles/1662830.jpg": [
-   600,
-   391
-  ],
   "previews/profiles/3492265.jpg": [
    600,
    800
+  ],
+  "previews/profiles/1662830.jpg": [
+   600,
+   391
   ]
  },
  "storage": {

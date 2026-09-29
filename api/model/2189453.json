@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/juguete-primavera-1.3mf.xz",
+   "path": "model/juguete-primavera-1h54.3mf.xz",
    "instance_id": "2377067",
-   "name": "juguete-primavera-1",
+   "name": "juguete-primavera-1h54",
    "thumbnail": "previews/profiles/2377067.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -45,96 +45,9 @@
    }
   },
   {
-   "path": "model/juguete-primavera-2.3mf.xz",
-   "instance_id": "3460641",
-   "name": "juguete-primavera-2",
-   "thumbnail": "previews/profiles/3460641.jpg",
-   "print_time_h": 2.4,
-   "plates": 1,
-   "rating": 3.5,
-   "rating_count": 2,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "H2D",
-    "H2S",
-    "A1",
-    "H2D Pro",
-    "X2D",
-    "X1E",
-    "P1S",
-    "A2L",
-    "P1P",
-    "P2S",
-    "X1 Carbon",
-    "X1",
-    "H2C"
-   ],
-   "default": false,
-   "size": 1337432,
-   "sha256": "5437c57d799844edfcf297336d4405951c95be04cf5abb1c8b1d4e2f24f743ff",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "0.2mm layer, 2 walls, 15% infill petg",
-    "creation_date": "2026-07-20",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/juguete-primavera-3.3mf.xz",
-   "instance_id": "2446517",
-   "name": "juguete-primavera-3",
-   "thumbnail": "previews/profiles/2446517.jpg",
-   "print_time_h": 0.6,
-   "plates": 1,
-   "rating": 4.3,
-   "rating_count": 54,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "X1",
-    "H2D",
-    "H2S",
-    "H2C",
-    "X1E",
-    "P2S",
-    "X1 Carbon",
-    "P1S",
-    "H2D Pro",
-    "A1",
-    "P1P",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1437376,
-   "sha256": "15222092b99a200613edac709333c5ad8d17674cb9c073e13076e77f36d2da4f",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "50% scaled Sausage Dog",
-    "profile_notes": "optimised support setting and printing time.",
-    "creation_date": "2026-01-15",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "30%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/juguete-primavera-4.3mf.xz",
+   "path": "model/juguete-primavera-1h06.3mf.xz",
    "instance_id": "2393392",
-   "name": "juguete-primavera-4",
+   "name": "juguete-primavera-1h06",
    "thumbnail": "previews/profiles/2393392.jpg",
    "print_time_h": 1.1,
    "plates": 1,
@@ -176,9 +89,9 @@
    }
   },
   {
-   "path": "model/juguete-primavera-5.3mf.xz",
+   "path": "model/juguete-primavera-1h42.3mf.xz",
    "instance_id": "2395661",
-   "name": "juguete-primavera-5",
+   "name": "juguete-primavera-1h42",
    "thumbnail": "previews/profiles/2395661.jpg",
    "print_time_h": 1.7,
    "plates": 1,
@@ -220,9 +133,9 @@
    }
   },
   {
-   "path": "model/juguete-primavera-6.3mf.xz",
+   "path": "model/juguete-primavera-2h06.3mf.xz",
    "instance_id": "2377102",
-   "name": "juguete-primavera-6",
+   "name": "juguete-primavera-2h06",
    "thumbnail": "previews/profiles/2377102.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -260,6 +173,93 @@
     "layer_height": "0.2",
     "infill": "30%",
     "support_type": "normal(manual)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/juguete-primavera-2h24.3mf.xz",
+   "instance_id": "3460641",
+   "name": "juguete-primavera-2h24",
+   "thumbnail": "previews/profiles/3460641.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "X1E",
+    "P1S",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X1",
+    "H2C"
+   ],
+   "default": false,
+   "size": 1337432,
+   "sha256": "5437c57d799844edfcf297336d4405951c95be04cf5abb1c8b1d4e2f24f743ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill petg",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/juguete-primavera-36min.3mf.xz",
+   "instance_id": "2446517",
+   "name": "juguete-primavera-36min",
+   "thumbnail": "previews/profiles/2446517.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 54,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1437376,
+   "sha256": "15222092b99a200613edac709333c5ad8d17674cb9c073e13076e77f36d2da4f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "50% scaled Sausage Dog",
+    "profile_notes": "optimised support setting and printing time.",
+    "creation_date": "2026-01-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
     "photos": 1
    }
   }
@@ -319,14 +319,6 @@
    600,
    450
   ],
-  "previews/profiles/3460641.jpg": [
-   421,
-   275
-  ],
-  "previews/profiles/2446517.jpg": [
-   600,
-   450
-  ],
   "previews/profiles/2393392.jpg": [
    600,
    450
@@ -336,6 +328,14 @@
    448
   ],
   "previews/profiles/2377102.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3460641.jpg": [
+   421,
+   275
+  ],
+  "previews/profiles/2446517.jpg": [
    600,
    450
   ]

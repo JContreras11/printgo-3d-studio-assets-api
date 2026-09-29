@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/dragon-ender-1.3mf.xz",
+   "path": "model/dragon-ender-6h.3mf.xz",
    "instance_id": "3131776",
-   "name": "dragon-ender-1",
+   "name": "dragon-ender-6h",
    "thumbnail": "previews/profiles/3131776.jpg",
    "print_time_h": 6,
    "plates": 1,
@@ -38,52 +38,9 @@
    }
   },
   {
-   "path": "model/dragon-ender-2.3mf.xz",
-   "instance_id": "3131841",
-   "name": "dragon-ender-2",
-   "thumbnail": "previews/profiles/3131841.jpg",
-   "print_time_h": 4.6,
-   "plates": 1,
-   "rating": 4.9,
-   "rating_count": 45,
-   "by_designer": true,
-   "printers": [
-    "A1 mini",
-    "P1S",
-    "A1",
-    "H2D",
-    "H2C",
-    "X1 Carbon",
-    "X2D",
-    "H2S",
-    "A2L",
-    "X1E",
-    "H2D Pro",
-    "P2S",
-    "X1",
-    "P1P"
-   ],
-   "default": false,
-   "size": 14400816,
-   "sha256": "2c43483e1d6f59ff5b4b13bf7fa77210f0dcf207bf30b26c6142160fbf30cb30",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "0.2mm layer, color for A1 mini",
-    "creation_date": "2026-05-13",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/dragon-ender-3.3mf.xz",
+   "path": "model/dragon-ender-2h54.3mf.xz",
    "instance_id": "3131870",
-   "name": "dragon-ender-3",
+   "name": "dragon-ender-2h54",
    "thumbnail": "previews/profiles/3131870.jpg",
    "print_time_h": 2.9,
    "plates": 1,
@@ -124,41 +81,42 @@
    }
   },
   {
-   "path": "model/dragon-ender-4.3mf.xz",
-   "instance_id": "3131838",
-   "name": "dragon-ender-4",
-   "thumbnail": "previews/profiles/3131838.jpg",
-   "print_time_h": 2.3,
+   "path": "model/dragon-ender-4h36.3mf.xz",
+   "instance_id": "3131841",
+   "name": "dragon-ender-4h36",
+   "thumbnail": "previews/profiles/3131841.jpg",
+   "print_time_h": 4.6,
    "plates": 1,
-   "rating": 5,
-   "rating_count": 13,
+   "rating": 4.9,
+   "rating_count": 45,
    "by_designer": true,
    "printers": [
-    "P2S",
-    "H2D Pro",
-    "X2D",
+    "A1 mini",
+    "P1S",
     "A1",
     "H2D",
-    "X1 Carbon",
     "H2C",
-    "A2L",
+    "X1 Carbon",
+    "X2D",
     "H2S",
-    "P1S",
+    "A2L",
     "X1E",
+    "H2D Pro",
+    "P2S",
     "X1",
     "P1P"
    ],
    "default": false,
-   "size": 14399704,
-   "sha256": "0ef01d4071a909e259c8bdff6037ff0159460dea1e14f9e80e02f0bf4835cbd9",
+   "size": 14400816,
+   "sha256": "2c43483e1d6f59ff5b4b13bf7fa77210f0dcf207bf30b26c6142160fbf30cb30",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.06.00.51",
-    "profile_title": "0.2mm layer, single color 280mm",
+    "profile_title": "0.2mm layer, color for A1 mini",
     "creation_date": "2026-05-13",
     "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
+    "printer": "Bambu Lab A1 mini",
     "layer_height": "0.2",
     "infill": "15%",
     "support_type": "tree(auto)",
@@ -166,9 +124,9 @@
    }
   },
   {
-   "path": "model/dragon-ender-5.3mf.xz",
+   "path": "model/dragon-ender-monocolor-1h24.3mf.xz",
    "instance_id": "3131861",
-   "name": "dragon-ender-5",
+   "name": "dragon-ender-monocolor-1h24",
    "thumbnail": "previews/profiles/3131861.jpg",
    "print_time_h": 1.4,
    "plates": 1,
@@ -202,6 +160,48 @@
     "creation_date": "2026-05-13",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dragon-ender-monocolor-2h18.3mf.xz",
+   "instance_id": "3131838",
+   "name": "dragon-ender-monocolor-2h18",
+   "thumbnail": "previews/profiles/3131838.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "H2S",
+    "P1S",
+    "X1E",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "size": 14399704,
+   "sha256": "0ef01d4071a909e259c8bdff6037ff0159460dea1e14f9e80e02f0bf4835cbd9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, single color 280mm",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
     "layer_height": "0.2",
     "infill": "15%",
     "support_type": "tree(auto)",
@@ -283,19 +283,19 @@
    600,
    450
   ],
-  "previews/profiles/3131841.jpg": [
-   600,
-   800
-  ],
   "previews/profiles/3131870.jpg": [
    450,
    600
   ],
-  "previews/profiles/3131838.jpg": [
+  "previews/profiles/3131841.jpg": [
    600,
    800
   ],
   "previews/profiles/3131861.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3131838.jpg": [
    600,
    800
   ]

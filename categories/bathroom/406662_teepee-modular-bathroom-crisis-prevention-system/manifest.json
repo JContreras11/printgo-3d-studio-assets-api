@@ -33,7 +33,44 @@
  ],
  "files": [
   {
-   "path": "model/teepee-sistema-1.3mf.xz",
+   "path": "model/teepee-sistema-pla-2.3mf.xz",
+   "size": 1280784,
+   "sha256": "a235af551f5ebde6e0a895e73a41a38cc86f1bc257c2c247a1c32020c27ea31c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+    "profile_notes": "Se agregó muy rápidamente una cubierta superior para evitar la proyección de polvo y agua...",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2269,
+      "weight_g": 19.84,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#BCBCBC"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "thumbnail": "previews/profiles/309746.jpg",
+   "instance_id": "309746",
+   "name": "teepee-sistema-pla-2"
+  },
+  {
+   "path": "model/teepee-sistema-pla.3mf.xz",
    "size": 1864076,
    "sha256": "c9d26a813407121c1dd072d83df6ee728b4e9d7d2a9f58da6f21d405ba964af6",
    "compressed": true,
@@ -106,44 +143,7 @@
    },
    "thumbnail": "previews/profiles/309746.jpg",
    "instance_id": "309746",
-   "name": "teepee-sistema-1"
-  },
-  {
-   "path": "model/teepee-sistema-2.3mf.xz",
-   "size": 1280784,
-   "sha256": "a235af551f5ebde6e0a895e73a41a38cc86f1bc257c2c247a1c32020c27ea31c",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
-    "profile_notes": "Se agregó muy rápidamente una cubierta superior para evitar la proyección de polvo y agua...",
-    "creation_date": "2025-02-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 2269,
-      "weight_g": 19.84,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#BCBCBC"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   },
-   "thumbnail": "previews/profiles/309746.jpg",
-   "instance_id": "309746",
-   "name": "teepee-sistema-2"
+   "name": "teepee-sistema-pla"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91f7a4ecc9dc40/design/2024-03-31_a98c542275dfe.jpg?x-oss-process=image/resize,w_1000",

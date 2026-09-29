@@ -99,13 +99,50 @@ export function shortName(text, words = 2) {
 }
 
 /**
+ * Qué distingue a una variante de otra, en humano: color, material y tiempo.
+ * Lo técnico (0,2 mm, relleno, AMS) no se muestra; el perfil del laminador tampoco.
+ */
+export function variantLabel(file) {
+  const f = file || {};
+  const parts = [];
+  const filaments = (f.meta?.plates || []).flatMap((p) => p.filaments || []);
+  const types = [...new Set(filaments.map((x) => x.type).filter(Boolean))];
+  const colors = [...new Set(filaments.map((x) => x.color).filter(Boolean))];
+  const profile = String(f.meta?.profile_title || "");
+  let color = "";
+  // Solo multicolor/monocolor: un hex suelto ("#CACDA0") no le dice nada al usuario.
+  if (colors.length > 1) color = "multicolor";
+  if (!color && MULTICOLOR.test(profile)) color = "multicolor";
+  else if (!color && MONOCOLOR.test(profile)) color = "monocolor";
+  if (types.length === 1) parts.push(types[0].toLowerCase());
+  if (color) parts.push(color);
+  const hours = Number(f.print_time_h);
+  if (Number.isFinite(hours) && hours > 0) {
+    // 3,3 h son 198 min exactos: no hay que inventar ni recortar.
+    const min = Math.round(hours * 60);
+    const rest = min % 60;
+    parts.push(min < 60 ? `${min}min` : rest ? `${Math.floor(min / 60)}h${String(rest).padStart(2, "0")}` : `${Math.floor(min / 60)}h`);
+  }
+  return parts.join("-");
+}
+
+// "single color" / "多色": se detectan, no se traducen (traducir aquí es un rabbit hole).
+const MONOCOLOR = /single[\s-]?colou?r|monocrom|\bun\s*colou?r\b|单色/i;
+const MULTICOLOR = /multi[\s-]?colou?r|several\s+colou?rs|full[\s-]?colou?r|多色|多彩/i;
+
+/**
  * Nombre del archivo publicado. El nombre sale del PROYECTO, no del perfil del
- * laminador: quien compra necesita reconocer el archivo, no sus ajustes.
- *   "Funda para iPhone 14" + 1 variante  -> "funda-iphone.3mf"
- *   "Funda para iPhone 14" + 3 variantes -> "funda-iphone-1/2/3.3mf"
+ * laminador, y las variantes se distinguen por lo que el usuario nota al imprimir:
+ *   "Funda para iPhone 14" (1 variante)  -> "funda-iphone.3mf"
+ *   "Perro pastor alemán" (7 variantes)  -> "perro-pastor-monocolor-54min.3mf"
+ *                                            "perro-pastor-multicolor-1h48.3mf"
  * La categoría solo entra si el título no da ninguna palabra usable.
  */
-export function projectFileName(modelTitle, { category = "", total = 1, index = 0 } = {}) {
+export function projectFileName(modelTitle, { category = "", total = 1, index = 0, file = null } = {}) {
   const base = shortName(modelTitle) || shortName(category) || shortName(modelTitle, 4) || "modelo";
-  return total > 1 ? `${base}-${index + 1}` : base;
+  if (total <= 1) return base;
+  // El índice es el último recurso: solo si dos variantes acaban con el mismo nombre.
+  const label = variantLabel(file);
+  if (!label) return `${base}-${index + 1}`;
+  return `${base}-${label}`;
 }

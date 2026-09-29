@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/alimentador-universal-1.3mf.xz",
+   "path": "model/alimentador-universal-27h30.3mf.xz",
    "instance_id": "3327712",
-   "name": "alimentador-universal-1",
+   "name": "alimentador-universal-27h30",
    "thumbnail": "previews/profiles/3327712.jpg",
    "print_time_h": 27.5,
    "plates": 5,
@@ -44,82 +44,9 @@
    }
   },
   {
-   "path": "model/alimentador-universal-2.3mf.xz",
-   "instance_id": "3497843",
-   "name": "alimentador-universal-2",
-   "thumbnail": "previews/profiles/3497843.jpg",
-   "print_time_h": 7.4,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "H2D Pro",
-    "H2D",
-    "H2S",
-    "A2L",
-    "H2C",
-    "P2S",
-    "X2D"
-   ],
-   "default": false,
-   "size": 1051160,
-   "sha256": "a2a5cf30296fe2611a547f21fa16aeced90c350aa4d06910c7f836b89d664d5c",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "一盘打印所有材料，快速高效",
-    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
-    "creation_date": "2026-06-27",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.28",
-    "infill": "5%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/alimentador-universal-3.3mf.xz",
-   "instance_id": "3327799",
-   "name": "alimentador-universal-3",
-   "thumbnail": "previews/profiles/3327799.jpg",
-   "print_time_h": 43.1,
-   "plates": 5,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "H2C",
-    "H2S",
-    "H2D Pro",
-    "H2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1125728,
-   "sha256": "7b2f50c4d87392e60ef2e3bcbd38f7756e25414fbee154ba146d25d3f3f3828e",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "Large - FOR 300MM PLATES - A2L, H-Series",
-    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
-    "creation_date": "2026-06-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2C",
-    "layer_height": "0.24",
-    "infill": "5%",
-    "support_type": "tree(auto)",
-    "photos": 5
-   }
-  },
-  {
-   "path": "model/alimentador-universal-4.3mf.xz",
+   "path": "model/alimentador-universal-12h24.3mf.xz",
    "instance_id": "3327826",
-   "name": "alimentador-universal-4",
+   "name": "alimentador-universal-12h24",
    "thumbnail": "previews/profiles/3327826.jpg",
    "print_time_h": 12.4,
    "plates": 5,
@@ -158,6 +85,79 @@
     "infill": "5%",
     "support_type": "tree(auto)",
     "photos": 5
+   }
+  },
+  {
+   "path": "model/alimentador-universal-43h06.3mf.xz",
+   "instance_id": "3327799",
+   "name": "alimentador-universal-43h06",
+   "thumbnail": "previews/profiles/3327799.jpg",
+   "print_time_h": 43.1,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1125728,
+   "sha256": "7b2f50c4d87392e60ef2e3bcbd38f7756e25414fbee154ba146d25d3f3f3828e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Large - FOR 300MM PLATES - A2L, H-Series",
+    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   }
+  },
+  {
+   "path": "model/alimentador-universal-7h24.3mf.xz",
+   "instance_id": "3497843",
+   "name": "alimentador-universal-7h24",
+   "thumbnail": "previews/profiles/3497843.jpg",
+   "print_time_h": 7.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "A2L",
+    "H2C",
+    "P2S",
+    "X2D"
+   ],
+   "default": false,
+   "size": 1051160,
+   "sha256": "a2a5cf30296fe2611a547f21fa16aeced90c350aa4d06910c7f836b89d664d5c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "一盘打印所有材料，快速高效",
+    "profile_notes": "-to scale the hieght of bottom piece just scale the Z height! -to scale everythign, scale all parts! -if u want more force or less force change the tpu infill percentage",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
    }
   }
  ],
@@ -205,17 +205,17 @@
    600,
    1066
   ],
-  "previews/profiles/3497843.jpg": [
+  "previews/profiles/3327826.jpg": [
    600,
-   655
+   1066
   ],
   "previews/profiles/3327799.jpg": [
    600,
    1066
   ],
-  "previews/profiles/3327826.jpg": [
+  "previews/profiles/3497843.jpg": [
    600,
-   1066
+   655
   ]
  },
  "storage": {

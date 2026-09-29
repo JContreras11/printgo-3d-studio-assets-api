@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/dispensador-golosinas-1.3mf.xz",
+   "path": "model/dispensador-golosinas-pla-multicolor-6h06.3mf.xz",
    "instance_id": "927856",
-   "name": "dispensador-golosinas-1",
+   "name": "dispensador-golosinas-pla-multicolor-6h06",
    "thumbnail": "previews/profiles/927856.jpg",
    "print_time_h": 6.1,
    "plates": 2,
@@ -71,9 +71,228 @@
    }
   },
   {
-   "path": "model/dispensador-golosinas-2.3mf.xz",
+   "path": "model/dispensador-golosinas-12min.3mf.xz",
+   "instance_id": "1412199",
+   "name": "dispensador-golosinas-12min",
+   "thumbnail": "previews/profiles/1412199.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 667148,
+   "sha256": "8f2b087a436008fe2cb71884cb2f83fe4cf78a5e338648d057a49c53ab9e48c6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "TPU ring feet - perfect fit no glue needed",
+    "profile_notes": "Print in TPU to help with base slippage. Printed with TPU 95A. Snaps right on. No need for glue.",
+    "creation_date": "2025-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dispensador-golosinas-1h12.3mf.xz",
+   "instance_id": "2482489",
+   "name": "dispensador-golosinas-1h12",
+   "thumbnail": "previews/profiles/2482489.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 773604,
+   "sha256": "cfb232bf50866e4b095817de7ca8639841d9546c311796976545aa4ba7782572",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "bigger holes 1.1mm",
+    "profile_notes": "adjustmend to the holes made it 1.1mm perfect for a cat candy",
+    "creation_date": "2026-01-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dispensador-golosinas-1h30.3mf.xz",
+   "instance_id": "1331057",
+   "name": "dispensador-golosinas-1h30",
+   "thumbnail": "previews/profiles/1331057.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "H2D",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1119080,
+   "sha256": "04dcca324d80f05d6444c2d500423c1a4ef2dfedfaf25553dc3d44ca1febec43",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "15mm大小的孔洞，适合比较大的冻干之类零食",
+    "profile_notes": "15mm大小的孔洞，适合比较大的冻干之类零食",
+    "creation_date": "2025-04-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dispensador-golosinas-4h48.3mf.xz",
+   "instance_id": "2588809",
+   "name": "dispensador-golosinas-4h48",
+   "thumbnail": "previews/profiles/2588809.jpg",
+   "print_time_h": 4.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1651772,
+   "sha256": "4f7668dcd4d5d9dc6e483754b65911eb96f4ac2dbf112a0c3424bd4dc9c14da1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "90% Size, Sliced for A1 Mini, PLA or PETG",
+    "profile_notes": "Sliced for A1 Mini, Scaled to 90% to fit bed Sliced for PETG or PLA, tested in PETG",
+    "creation_date": "2026-02-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/dispensador-golosinas-6h54.3mf.xz",
+   "instance_id": "2689448",
+   "name": "dispensador-golosinas-6h54",
+   "thumbnail": "previews/profiles/2689448.jpg",
+   "print_time_h": 6.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P2S",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 1314668,
+   "sha256": "ea69227966dec72ec054be939757f7169ba2daa4f4b5fdc4e2b4cfdf80f9820e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Taller Dispenser",
+    "profile_notes": "I extended the attachment so that it would be taller, as my cat was unable to fit his head under the dispenser to eat the treats in the original model.",
+    "creation_date": "2026-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/dispensador-golosinas-pla-1h30.3mf.xz",
    "instance_id": "1308119",
-   "name": "dispensador-golosinas-2",
+   "name": "dispensador-golosinas-pla-1h30",
    "thumbnail": "previews/profiles/1308119.jpg",
    "print_time_h": 1.5,
    "plates": 1,
@@ -130,97 +349,9 @@
    }
   },
   {
-   "path": "model/dispensador-golosinas-3.3mf.xz",
-   "instance_id": "1331057",
-   "name": "dispensador-golosinas-3",
-   "thumbnail": "previews/profiles/1331057.jpg",
-   "print_time_h": 1.5,
-   "plates": 1,
-   "rating": 4.8,
-   "rating_count": 5,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "H2C",
-    "A1",
-    "P1P",
-    "H2S",
-    "X1 Carbon",
-    "P2S",
-    "P1S",
-    "H2D Pro",
-    "X1E",
-    "H2D",
-    "X1",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1119080,
-   "sha256": "04dcca324d80f05d6444c2d500423c1a4ef2dfedfaf25553dc3d44ca1febec43",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.02.76",
-    "profile_title": "15mm大小的孔洞，适合比较大的冻干之类零食",
-    "profile_notes": "15mm大小的孔洞，适合比较大的冻干之类零食",
-    "creation_date": "2025-04-08",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "normal(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/dispensador-golosinas-4.3mf.xz",
-   "instance_id": "2588809",
-   "name": "dispensador-golosinas-4",
-   "thumbnail": "previews/profiles/2588809.jpg",
-   "print_time_h": 4.8,
-   "plates": 4,
-   "rating": 4.9,
-   "rating_count": 27,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "X1E",
-    "X1",
-    "H2D Pro",
-    "P1S",
-    "A1",
-    "H2D",
-    "H2C",
-    "X1 Carbon",
-    "H2S",
-    "P2S",
-    "P1P",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1651772,
-   "sha256": "4f7668dcd4d5d9dc6e483754b65911eb96f4ac2dbf112a0c3424bd4dc9c14da1",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "90% Size, Sliced for A1 Mini, PLA or PETG",
-    "profile_notes": "Sliced for A1 Mini, Scaled to 90% to fit bed Sliced for PETG or PLA, tested in PETG",
-    "creation_date": "2026-02-07",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 4
-   }
-  },
-  {
-   "path": "model/dispensador-golosinas-5.3mf.xz",
+   "path": "model/dispensador-golosinas-pla-1h54.3mf.xz",
    "instance_id": "1068448",
-   "name": "dispensador-golosinas-5",
+   "name": "dispensador-golosinas-pla-1h54",
    "thumbnail": "previews/profiles/1068448.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -277,53 +408,9 @@
    }
   },
   {
-   "path": "model/dispensador-golosinas-6.3mf.xz",
-   "instance_id": "2482489",
-   "name": "dispensador-golosinas-6",
-   "thumbnail": "previews/profiles/2482489.jpg",
-   "print_time_h": 1.2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 1,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "X1",
-    "P2S",
-    "H2C",
-    "H2D",
-    "H2D Pro",
-    "X1E",
-    "P1S",
-    "P1P",
-    "A1 mini",
-    "H2S",
-    "X1 Carbon",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 773604,
-   "sha256": "cfb232bf50866e4b095817de7ca8639841d9546c311796976545aa4ba7782572",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.04.00.70",
-    "profile_title": "bigger holes 1.1mm",
-    "profile_notes": "adjustmend to the holes made it 1.1mm perfect for a cat candy",
-    "creation_date": "2026-01-21",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/dispensador-golosinas-7.3mf.xz",
+   "path": "model/dispensador-golosinas-pla-6h54.3mf.xz",
    "instance_id": "953930",
-   "name": "dispensador-golosinas-7",
+   "name": "dispensador-golosinas-pla-6h54",
    "thumbnail": "previews/profiles/953930.jpg",
    "print_time_h": 6.9,
    "plates": 5,
@@ -429,93 +516,6 @@
     ],
     "photos": 5
    }
-  },
-  {
-   "path": "model/dispensador-golosinas-8.3mf.xz",
-   "instance_id": "2689448",
-   "name": "dispensador-golosinas-8",
-   "thumbnail": "previews/profiles/2689448.jpg",
-   "print_time_h": 6.9,
-   "plates": 2,
-   "rating": 5,
-   "rating_count": 12,
-   "by_designer": false,
-   "printers": [
-    "P1S",
-    "X1 Carbon",
-    "X1E",
-    "X1",
-    "P2S",
-    "A1",
-    "H2S",
-    "H2D Pro",
-    "H2D",
-    "P1P",
-    "H2C",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 1314668,
-   "sha256": "ea69227966dec72ec054be939757f7169ba2daa4f4b5fdc4e2b4cfdf80f9820e",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.05.00.66",
-    "profile_title": "Taller Dispenser",
-    "profile_notes": "I extended the attachment so that it would be taller, as my cat was unable to fit his head under the dispenser to eat the treats in the original model.",
-    "creation_date": "2026-02-26",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/dispensador-golosinas-9.3mf.xz",
-   "instance_id": "1412199",
-   "name": "dispensador-golosinas-9",
-   "thumbnail": "previews/profiles/1412199.jpg",
-   "print_time_h": 0.2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 4,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "X1 Carbon",
-    "X1E",
-    "H2C",
-    "X1",
-    "H2D",
-    "A1",
-    "P2S",
-    "H2S",
-    "H2D Pro",
-    "P1P",
-    "P1S",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 667148,
-   "sha256": "8f2b087a436008fe2cb71884cb2f83fe4cf78a5e338648d057a49c53ab9e48c6",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.03.54",
-    "profile_title": "TPU ring feet - perfect fit no glue needed",
-    "profile_notes": "Print in TPU to help with base slippage. Printed with TPU 95A. Snaps right on. No need for glue.",
-    "creation_date": "2025-04-29",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.28",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
   }
  ],
  "id": "958425",
@@ -565,9 +565,13 @@
    600,
    599
   ],
-  "previews/profiles/1308119.jpg": [
+  "previews/profiles/1412199.jpg": [
    600,
-   449
+   796
+  ],
+  "previews/profiles/2482489.jpg": [
+   450,
+   600
   ],
   "previews/profiles/1331057.jpg": [
    600,
@@ -577,29 +581,26 @@
    600,
    337
   ],
-  "previews/profiles/1068448.jpg": [
-   600,
-   800
-  ],
-  "previews/profiles/2482489.jpg": [
-   450,
-   600
-  ],
-  "previews/profiles/953930.jpg": [
-   600,
-   600
-  ],
   "previews/profiles/2689448.jpg": [
    600,
    600
   ],
-  "previews/profiles/1412199.jpg": [
+  "previews/profiles/1308119.jpg": [
    600,
-   796
+   449
+  ],
+  "previews/profiles/1068448.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/953930.jpg": [
+   600,
+   600
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

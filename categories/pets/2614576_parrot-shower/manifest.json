@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/ducha-loro-1.3mf.xz",
+   "path": "model/ducha-loro-4h54.3mf.xz",
    "instance_id": "2885317",
-   "name": "ducha-loro-1",
+   "name": "ducha-loro-4h54",
    "thumbnail": "previews/profiles/2885317.jpg",
    "print_time_h": 4.9,
    "plates": 3,
@@ -44,9 +44,52 @@
    }
   },
   {
-   "path": "model/ducha-loro-2.3mf.xz",
+   "path": "model/ducha-loro-1h12.3mf.xz",
+   "instance_id": "3455124",
+   "name": "ducha-loro-1h12",
+   "thumbnail": "previews/profiles/3455124.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "A1 mini",
+    "A2L",
+    "H2S",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X1",
+    "P1P",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "size": 2332532,
+   "sha256": "47c6b4fef9622b2ba2ffa2163f53d37473903f4ed1fb806ba244ae614bd57a45",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "加高管路（220V水泵用）",
+    "creation_date": "2026-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/ducha-loro-1h54.3mf.xz",
    "instance_id": "3395534",
-   "name": "ducha-loro-2",
+   "name": "ducha-loro-1h54",
    "thumbnail": "previews/profiles/3395534.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -87,9 +130,9 @@
    }
   },
   {
-   "path": "model/ducha-loro-3.3mf.xz",
+   "path": "model/ducha-loro-6h12.3mf.xz",
    "instance_id": "3513545",
-   "name": "ducha-loro-3",
+   "name": "ducha-loro-6h12",
    "thumbnail": "previews/profiles/3513545.jpg",
    "print_time_h": 6.2,
    "plates": 3,
@@ -127,49 +170,6 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 3
-   }
-  },
-  {
-   "path": "model/ducha-loro-4.3mf.xz",
-   "instance_id": "3455124",
-   "name": "ducha-loro-4",
-   "thumbnail": "previews/profiles/3455124.jpg",
-   "print_time_h": 1.2,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "X2D",
-    "A1 mini",
-    "A2L",
-    "H2S",
-    "A1",
-    "X1E",
-    "H2D Pro",
-    "P2S",
-    "H2C",
-    "X1",
-    "P1P",
-    "H2D",
-    "X1 Carbon"
-   ],
-   "default": false,
-   "size": 2332532,
-   "sha256": "47c6b4fef9622b2ba2ffa2163f53d37473903f4ed1fb806ba244ae614bd57a45",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "加高管路（220V水泵用）",
-    "creation_date": "2026-07-19",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
    }
   }
  ],
@@ -212,6 +212,10 @@
    600,
    450
   ],
+  "previews/profiles/3455124.jpg": [
+   600,
+   600
+  ],
   "previews/profiles/3395534.jpg": [
    600,
    604
@@ -219,10 +223,6 @@
   "previews/profiles/3513545.jpg": [
    600,
    559
-  ],
-  "previews/profiles/3455124.jpg": [
-   600,
-   600
   ]
  },
  "storage": {

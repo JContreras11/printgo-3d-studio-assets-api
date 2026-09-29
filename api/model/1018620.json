@@ -52,7 +52,23 @@
    "name": "porta-monas-1"
   },
   {
-   "path": "model/porta-monas-2.3mf.xz",
+   "path": "model/porta-monas-3.3mf.xz",
+   "size": 4270232,
+   "sha256": "fec3d999ac3191035f5aea9ea45876335a675583b31db59226edf40d4e121bfd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "thumbnail": "previews/01.jpg",
+   "name": "porta-monas-3"
+  },
+  {
+   "path": "model/porta-monas-pla-multicolor.3mf.xz",
    "size": 4144864,
    "sha256": "619a799c51fb0aeb07241cd2f1d8f622faecd17493c2c29d4c11841a3e5f3a52",
    "compressed": true,
@@ -103,23 +119,7 @@
    },
    "thumbnail": "previews/profiles/999445.jpg",
    "instance_id": "999445",
-   "name": "porta-monas-2"
-  },
-  {
-   "path": "model/porta-monas-3.3mf.xz",
-   "size": 4270232,
-   "sha256": "fec3d999ac3191035f5aea9ea45876335a675583b31db59226edf40d4e121bfd",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   },
-   "thumbnail": "previews/01.jpg",
-   "name": "porta-monas-3"
+   "name": "porta-monas-pla-multicolor"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8a7fcdb8d9c2c9/design/2025-01-20_2b45eb54fb2cb.jpg?x-oss-process=image/resize,w_1000",
@@ -148,5 +148,6 @@
    600,
    450
   ]
- }
+ },
+ "variant_hint": "Multicolor"
 }

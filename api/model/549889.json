@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/dispensador-rollos-1.3mf.xz",
+   "path": "model/dispensador-rollos-pla-3h12.3mf.xz",
    "instance_id": "468230",
-   "name": "dispensador-rollos-1",
+   "name": "dispensador-rollos-pla-3h12",
    "thumbnail": "previews/profiles/468230.jpg",
    "print_time_h": 3.2,
    "plates": 1,
@@ -59,9 +59,52 @@
    }
   },
   {
-   "path": "model/dispensador-rollos-2.3mf.xz",
+   "path": "model/dispensador-rollos-4h12.3mf.xz",
+   "instance_id": "3073352",
+   "name": "dispensador-rollos-4h12",
+   "thumbnail": "previews/profiles/3073352.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "H2C",
+    "X1",
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "size": 585548,
+   "sha256": "ea8e721f798716ef4717287a280cf0c1b36ecfaeca6476d2086f02d79542eec0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "XY Scale 105%, Z Scale 125%",
+    "profile_notes": "Some people had issues with some of the poop bags that were a bit larger. So, I scaled x/y axis by 105% (to allow bags of up to 65mm) and z-axis by 125% to allow 12+bags. 0.2mm layer, 4 walls, 10% gyroid infill",
+    "creation_date": "2026-05-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dispensador-rollos-pla-2h54.3mf.xz",
    "instance_id": "713417",
-   "name": "dispensador-rollos-2",
+   "name": "dispensador-rollos-pla-2h54",
    "thumbnail": "previews/profiles/713417.jpg",
    "print_time_h": 2.9,
    "plates": 1,
@@ -117,9 +160,9 @@
    }
   },
   {
-   "path": "model/dispensador-rollos-3.3mf.xz",
+   "path": "model/dispensador-rollos-pla-4h06.3mf.xz",
    "instance_id": "468235",
-   "name": "dispensador-rollos-3",
+   "name": "dispensador-rollos-pla-4h06",
    "thumbnail": "previews/profiles/468235.jpg",
    "print_time_h": 4.1,
    "plates": 1,
@@ -161,49 +204,6 @@
       ]
      }
     ],
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/dispensador-rollos-4.3mf.xz",
-   "instance_id": "3073352",
-   "name": "dispensador-rollos-4",
-   "thumbnail": "previews/profiles/3073352.jpg",
-   "print_time_h": 4.2,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 5,
-   "by_designer": false,
-   "printers": [
-    "P2S",
-    "H2S",
-    "H2C",
-    "X1",
-    "A1",
-    "P1S",
-    "X1 Carbon",
-    "X2D",
-    "H2D",
-    "P1P",
-    "H2D Pro",
-    "X1E",
-    "A2L"
-   ],
-   "default": false,
-   "size": 585548,
-   "sha256": "ea8e721f798716ef4717287a280cf0c1b36ecfaeca6476d2086f02d79542eec0",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "XY Scale 105%, Z Scale 125%",
-    "profile_notes": "Some people had issues with some of the poop bags that were a bit larger. So, I scaled x/y axis by 105% (to allow bags of up to 65mm) and z-axis by 125% to allow 12+bags. 0.2mm layer, 4 walls, 10% gyroid infill",
-    "creation_date": "2026-05-07",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P2S",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
     "photos": 1
    }
   }
@@ -257,6 +257,10 @@
    600,
    604
   ],
+  "previews/profiles/3073352.jpg": [
+   600,
+   1604
+  ],
   "previews/profiles/713417.jpg": [
    600,
    797
@@ -264,10 +268,6 @@
   "previews/profiles/468235.jpg": [
    600,
    604
-  ],
-  "previews/profiles/3073352.jpg": [
-   600,
-   1604
   ]
  },
  "storage": {

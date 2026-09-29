@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/conjunto-decoracion-1.3mf.xz",
+   "path": "model/conjunto-decoracion-4h06.3mf.xz",
    "instance_id": "3619107",
-   "name": "conjunto-decoracion-1",
+   "name": "conjunto-decoracion-4h06",
    "thumbnail": "previews/profiles/3619107.jpg",
    "print_time_h": 4.1,
    "plates": 2,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/conjunto-decoracion-2.3mf.xz",
+   "path": "model/conjunto-decoracion-2h06.3mf.xz",
    "instance_id": "3806277",
-   "name": "conjunto-decoracion-2",
+   "name": "conjunto-decoracion-2h06",
    "thumbnail": "previews/profiles/3806277.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -77,9 +77,48 @@
    }
   },
   {
-   "path": "model/conjunto-decoracion-3.3mf.xz",
+   "path": "model/conjunto-decoracion-2h42-2.3mf.xz",
+   "instance_id": "3645636",
+   "name": "conjunto-decoracion-2h42-2",
+   "thumbnail": "previews/profiles/3645636.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 55,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "X2D",
+    "H2S",
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "size": 13953624,
+   "sha256": "efa556fc4a81032e6a7f2fc125df2831a3d0caa3dc886720d4634051d40211ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   }
+  },
+  {
+   "path": "model/conjunto-decoracion-2h42.3mf.xz",
    "instance_id": "3724382",
-   "name": "conjunto-decoracion-3",
+   "name": "conjunto-decoracion-2h42",
    "thumbnail": "previews/profiles/3724382.jpg",
    "print_time_h": 2.7,
    "plates": 2,
@@ -116,45 +155,6 @@
     "printer": "Bambu Lab P1S",
     "layer_height": "0.2",
     "infill": "4%",
-    "support_type": "tree(auto)",
-    "photos": 2
-   }
-  },
-  {
-   "path": "model/conjunto-decoracion-4.3mf.xz",
-   "instance_id": "3645636",
-   "name": "conjunto-decoracion-4",
-   "thumbnail": "previews/profiles/3645636.jpg",
-   "print_time_h": 2.7,
-   "plates": 2,
-   "rating": 4.9,
-   "rating_count": 55,
-   "by_designer": false,
-   "printers": [
-    "P1S",
-    "H2D Pro",
-    "A1",
-    "X2D",
-    "H2S",
-    "A1 mini",
-    "A2L",
-    "P1P",
-    "P2S",
-    "H2C",
-    "X1 Carbon",
-    "X1E",
-    "H2D",
-    "X1"
-   ],
-   "default": false,
-   "size": 13953624,
-   "sha256": "efa556fc4a81032e6a7f2fc125df2831a3d0caa3dc886720d4634051d40211ca",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "8%",
     "support_type": "tree(auto)",
     "photos": 2
    }
@@ -200,13 +200,13 @@
    321,
    326
   ],
-  "previews/profiles/3724382.jpg": [
-   600,
-   453
-  ],
   "previews/profiles/3645636.jpg": [
    600,
    800
+  ],
+  "previews/profiles/3724382.jpg": [
+   600,
+   453
   ]
  },
  "storage": {

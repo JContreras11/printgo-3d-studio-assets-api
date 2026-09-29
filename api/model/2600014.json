@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/gancho-estampado-1.3mf.xz",
+   "path": "model/gancho-estampado-3h18.3mf.xz",
    "instance_id": "2869011",
-   "name": "gancho-estampado-1",
+   "name": "gancho-estampado-3h18",
    "thumbnail": "previews/profiles/2869011.jpg",
    "print_time_h": 3.3,
    "plates": 2,
@@ -45,9 +45,42 @@
    }
   },
   {
-   "path": "model/gancho-estampado-2.3mf.xz",
+   "path": "model/gancho-estampado-2h36.3mf.xz",
+   "instance_id": "3384294",
+   "name": "gancho-estampado-2h36",
+   "thumbnail": "previews/profiles/3384294.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3082444,
+   "sha256": "bf889e399598044ea2ed2f4ad3ec8e8999ff34d6855ee005124cb0ffd5c04ab2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 8% gyroid infill",
+    "profile_notes": "Single plate optimized for A1 mini, printing by object to reduce operational time and generate no filament waste on different colors swapping. More wall loops and less infill to make it stronger.",
+    "creation_date": "2026-07-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/gancho-estampado-54min.3mf.xz",
    "instance_id": "3729042",
-   "name": "gancho-estampado-2",
+   "name": "gancho-estampado-54min",
    "thumbnail": "previews/profiles/3729042.jpg",
    "print_time_h": 0.9,
    "plates": 2,
@@ -81,39 +114,6 @@
     "infill": "15%",
     "support_type": "tree(auto)",
     "photos": 2
-   }
-  },
-  {
-   "path": "model/gancho-estampado-3.3mf.xz",
-   "instance_id": "3384294",
-   "name": "gancho-estampado-3",
-   "thumbnail": "previews/profiles/3384294.jpg",
-   "print_time_h": 2.6,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "A1",
-    "A2L"
-   ],
-   "default": false,
-   "size": 3082444,
-   "sha256": "bf889e399598044ea2ed2f4ad3ec8e8999ff34d6855ee005124cb0ffd5c04ab2",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.57",
-    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 8% gyroid infill",
-    "profile_notes": "Single plate optimized for A1 mini, printing by object to reduce operational time and generate no filament waste on different colors swapping. More wall loops and less infill to make it stronger.",
-    "creation_date": "2026-07-05",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.1",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
    }
   }
  ],
@@ -169,13 +169,13 @@
    600,
    449
   ],
-  "previews/profiles/3729042.jpg": [
-   600,
-   536
-  ],
   "previews/profiles/3384294.jpg": [
    600,
    800
+  ],
+  "previews/profiles/3729042.jpg": [
+   600,
+   536
   ]
  },
  "storage": {

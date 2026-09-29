@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { projectFileName, shortName, cleanTitle } from "../scripts/lib/names.mjs";
+import { projectFileName, shortName, cleanTitle, variantLabel } from "../scripts/lib/names.mjs";
 
 test("el nombre del archivo sale del proyecto, no del perfil del laminador", () => {
   // Lo que hoy se ve en pantalla: "Serie iPhone14 0,2 mm de altura del piso, 2 paredes, 15 % de relleno"
@@ -17,6 +17,31 @@ test("varias variantes se numeran y no se pisan", () => {
 test("sin palabras útiles cae a la categoría", () => {
   assert.equal(projectFileName("El de la", { category: "decor", total: 1 }), "decor");
   assert.equal(projectFileName("", { category: "home-organization", total: 1 }), "home-organization");
+});
+
+test("la variante muestra su variación: color, material y tiempo", () => {
+  const multi = { meta: { plates: [{ filaments: [{ type: "PLA", color: "#0078BF" }, { type: "PLA", color: "#FFFFFF" }] }] } };
+  assert.equal(variantLabel(multi), "pla-multicolor");
+  const mono = { print_time_h: 0.9, meta: { profile_title: "Mini single color version -0.12mm layer, 2 walls, 10% infill" } };
+  assert.equal(variantLabel(mono), "monocolor-54min");
+  // 3,3 h son 198 min exactos: el tiempo no se recorta ni se inventa.
+  assert.equal(variantLabel({ print_time_h: 3.3 }), "3h18");
+  assert.equal(variantLabel({ print_time_h: 14.4 }), "14h24");
+});
+
+test("la variante no muestra lo técnico: ni mm, ni relleno, ni AMS", () => {
+  const file = { print_time_h: 2, meta: { profile_title: "Capa de 0,2 mm, 3 paredes, 25% de relleno AMS" } };
+  assert.equal(variantLabel(file), "2h");
+});
+
+test("el archivo lleva la variación, no un número de variante", () => {
+  const file = { print_time_h: 0.9, meta: { profile_title: "Mini single color version" } };
+  assert.equal(
+    projectFileName("Perro pastor alemán de punto", { total: 7, index: 5, file }),
+    "perro-pastor-monocolor-54min",
+  );
+  // Sin datos humanos no hay nada que mostrar: ahí sí, el índice.
+  assert.equal(projectFileName("Soporte de parabrisas V4", { total: 3, index: 1 }), "soporte-parabrisas-2");
 });
 
 test("el nombre es ASCII y sin acentos", () => {

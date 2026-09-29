@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/dispensador-alimentos-1.3mf.xz",
+   "path": "model/dispensador-alimentos-16h36.3mf.xz",
    "instance_id": "2561760",
-   "name": "dispensador-alimentos-1",
+   "name": "dispensador-alimentos-16h36",
    "thumbnail": "previews/profiles/2561760.jpg",
    "print_time_h": 16.6,
    "plates": 1,
@@ -43,39 +43,40 @@
    }
   },
   {
-   "path": "model/dispensador-alimentos-2.3mf.xz",
-   "instance_id": "2732726",
-   "name": "dispensador-alimentos-2",
-   "thumbnail": "previews/profiles/2732726.jpg",
-   "print_time_h": 3.3,
+   "path": "model/dispensador-alimentos-1h24.3mf.xz",
+   "instance_id": "2755154",
+   "name": "dispensador-alimentos-1h24",
+   "thumbnail": "previews/profiles/2755154.jpg",
+   "print_time_h": 1.4,
    "plates": 1,
    "rating": 5,
-   "rating_count": 3,
+   "rating_count": 1,
    "by_designer": true,
    "printers": [
     "P1S",
-    "X1 Carbon",
-    "H2C",
     "P2S",
-    "X1",
-    "P1P",
-    "H2D Pro",
-    "H2D",
+    "H2C",
     "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "A1 mini",
+    "P1P",
+    "H2D",
     "H2S",
     "A1",
     "X2D",
     "A2L"
    ],
    "default": false,
-   "size": 727972,
-   "sha256": "b2dd14cd79257a5ddb6747f22911a8143a6567fdcb704722b766ca4828a057db",
+   "size": 672940,
+   "sha256": "1ded8c3b514d97019c8a0a1e3a0964b4e6264597094a7fb8674be30effd8b4f7",
    "compressed": true,
    "decompress": "xz -d -k <filename>",
    "meta": {
     "application": "BambuStudio-02.03.01.51",
-    "profile_title": "Erhöhung 12cm",
-    "creation_date": "2026-03-06",
+    "profile_title": "Deckel glatt",
+    "creation_date": "2026-03-10",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab P1S",
     "layer_height": "0.2",
@@ -85,9 +86,9 @@
    }
   },
   {
-   "path": "model/dispensador-alimentos-3.3mf.xz",
+   "path": "model/dispensador-alimentos-21h36.3mf.xz",
    "instance_id": "3044122",
-   "name": "dispensador-alimentos-3",
+   "name": "dispensador-alimentos-21h36",
    "thumbnail": "previews/profiles/3044122.jpg",
    "print_time_h": 21.6,
    "plates": 3,
@@ -129,9 +130,51 @@
    }
   },
   {
-   "path": "model/dispensador-alimentos-4.3mf.xz",
+   "path": "model/dispensador-alimentos-3h18.3mf.xz",
+   "instance_id": "2732726",
+   "name": "dispensador-alimentos-3h18",
+   "thumbnail": "previews/profiles/2732726.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2S",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 727972,
+   "sha256": "b2dd14cd79257a5ddb6747f22911a8143a6567fdcb704722b766ca4828a057db",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Erhöhung 12cm",
+    "creation_date": "2026-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/dispensador-alimentos-4h42.3mf.xz",
    "instance_id": "2732718",
-   "name": "dispensador-alimentos-4",
+   "name": "dispensador-alimentos-4h42",
    "thumbnail": "previews/profiles/2732718.jpg",
    "print_time_h": 4.7,
    "plates": 1,
@@ -162,49 +205,6 @@
     "application": "BambuStudio-02.03.01.51",
     "profile_title": "Säule glatt",
     "creation_date": "2026-03-06",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab P1S",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/dispensador-alimentos-5.3mf.xz",
-   "instance_id": "2755154",
-   "name": "dispensador-alimentos-5",
-   "thumbnail": "previews/profiles/2755154.jpg",
-   "print_time_h": 1.4,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 1,
-   "by_designer": true,
-   "printers": [
-    "P1S",
-    "P2S",
-    "H2C",
-    "X1E",
-    "X1 Carbon",
-    "H2D Pro",
-    "X1",
-    "A1 mini",
-    "P1P",
-    "H2D",
-    "H2S",
-    "A1",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 672940,
-   "sha256": "1ded8c3b514d97019c8a0a1e3a0964b4e6264597094a7fb8674be30effd8b4f7",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.03.01.51",
-    "profile_title": "Deckel glatt",
-    "creation_date": "2026-03-10",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab P1S",
     "layer_height": "0.2",
@@ -255,21 +255,21 @@
    600,
    450
   ],
-  "previews/profiles/2732726.jpg": [
+  "previews/profiles/2755154.jpg": [
    600,
-   900
+   474
   ],
   "previews/profiles/3044122.jpg": [
    600,
    800
   ],
-  "previews/profiles/2732718.jpg": [
+  "previews/profiles/2732726.jpg": [
    600,
    900
   ],
-  "previews/profiles/2755154.jpg": [
+  "previews/profiles/2732718.jpg": [
    600,
-   474
+   900
   ]
  },
  "storage": {

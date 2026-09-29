@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/microfono-retro-1.3mf.xz",
+   "path": "model/microfono-retro-pla-1h54.3mf.xz",
    "instance_id": "429627",
-   "name": "microfono-retro-1",
+   "name": "microfono-retro-pla-1h54",
    "thumbnail": "previews/profiles/429627.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -59,9 +59,9 @@
    }
   },
   {
-   "path": "model/microfono-retro-2.3mf.xz",
+   "path": "model/microfono-retro-pla-multicolor-17h.3mf.xz",
    "instance_id": "629286",
-   "name": "microfono-retro-2",
+   "name": "microfono-retro-pla-multicolor-17h",
    "thumbnail": "previews/profiles/629286.jpg",
    "print_time_h": 17,
    "plates": 1,
@@ -174,5 +174,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

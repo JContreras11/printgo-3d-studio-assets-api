@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/casper-fantasma-1.3mf.xz",
+   "path": "model/casper-fantasma-6h24.3mf.xz",
    "instance_id": "3675211",
-   "name": "casper-fantasma-1",
+   "name": "casper-fantasma-6h24",
    "thumbnail": "previews/profiles/3675211.jpg",
    "print_time_h": 6.4,
    "plates": 5,
@@ -44,9 +44,47 @@
    }
   },
   {
-   "path": "model/casper-fantasma-2.3mf.xz",
+   "path": "model/casper-fantasma-44h42.3mf.xz",
+   "instance_id": "3775425",
+   "name": "casper-fantasma-44h42",
+   "thumbnail": "previews/profiles/3775425.jpg",
+   "print_time_h": 44.7,
+   "plates": 4,
+   "rating": 4,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2S",
+    "A1"
+   ],
+   "default": false,
+   "size": 51463948,
+   "sha256": "5fd0f2f05c4d292fddd98c9d11491258618cf989ef36b103c5076223e52b1141",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "blue eyes @200% scale 0.12mm layer, 2 walls, 8% infill",
+    "profile_notes": "Print file for blue eyes that has been requested in the reviews. Scaled at 200%, adjust for your print size. Thanks again to creator @Stag3D (https://makerworld.com/en/@Stag3D). Print profile shows long print time but all parts are separated and can be printed individually.",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   }
+  },
+  {
+   "path": "model/casper-fantasma-5h54.3mf.xz",
    "instance_id": "3688364",
-   "name": "casper-fantasma-2",
+   "name": "casper-fantasma-5h54",
    "thumbnail": "previews/profiles/3688364.jpg",
    "print_time_h": 5.9,
    "plates": 4,
@@ -83,47 +121,9 @@
    }
   },
   {
-   "path": "model/casper-fantasma-3.3mf.xz",
-   "instance_id": "3775425",
-   "name": "casper-fantasma-3",
-   "thumbnail": "previews/profiles/3775425.jpg",
-   "print_time_h": 44.7,
-   "plates": 4,
-   "rating": 4,
-   "rating_count": 6,
-   "by_designer": false,
-   "printers": [
-    "X2D",
-    "H2D Pro",
-    "A2L",
-    "P2S",
-    "H2C",
-    "H2D",
-    "H2S",
-    "A1"
-   ],
-   "default": false,
-   "size": 51463948,
-   "sha256": "5fd0f2f05c4d292fddd98c9d11491258618cf989ef36b103c5076223e52b1141",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.08.02.61",
-    "profile_title": "blue eyes @200% scale 0.12mm layer, 2 walls, 8% infill",
-    "profile_notes": "Print file for blue eyes that has been requested in the reviews. Scaled at 200%, adjust for your print size. Thanks again to creator @Stag3D (https://makerworld.com/en/@Stag3D). Print profile shows long print time but all parts are separated and can be printed individually.",
-    "creation_date": "2026-09-18",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X2D",
-    "layer_height": "0.12",
-    "infill": "8%",
-    "support_type": "tree(auto)",
-    "photos": 4
-   }
-  },
-  {
-   "path": "model/casper-fantasma-4.3mf.xz",
+   "path": "model/casper-fantasma-6h06.3mf.xz",
    "instance_id": "3811001",
-   "name": "casper-fantasma-4",
+   "name": "casper-fantasma-6h06",
    "thumbnail": "previews/profiles/3811001.jpg",
    "print_time_h": 6.1,
    "plates": 4,
@@ -166,9 +166,9 @@
    }
   },
   {
-   "path": "model/casper-fantasma-5.3mf.xz",
+   "path": "model/casper-fantasma-multicolor-2h12.3mf.xz",
    "instance_id": "3816795",
-   "name": "casper-fantasma-5",
+   "name": "casper-fantasma-multicolor-2h12",
    "thumbnail": "previews/profiles/3816795.jpg",
    "print_time_h": 2.2,
    "plates": 1,
@@ -197,9 +197,9 @@
    }
   },
   {
-   "path": "model/casper-fantasma-6.3mf.xz",
+   "path": "model/casper-fantasma-multicolor-4h18.3mf.xz",
    "instance_id": "3816469",
-   "name": "casper-fantasma-6",
+   "name": "casper-fantasma-multicolor-4h18",
    "thumbnail": "previews/profiles/3816469.jpg",
    "print_time_h": 4.3,
    "plates": 2,
@@ -268,13 +268,13 @@
    600,
    450
   ],
-  "previews/profiles/3688364.jpg": [
-   600,
-   714
-  ],
   "previews/profiles/3775425.jpg": [
    600,
    525
+  ],
+  "previews/profiles/3688364.jpg": [
+   600,
+   714
   ],
   "previews/profiles/3811001.jpg": [
    450,
@@ -292,5 +292,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

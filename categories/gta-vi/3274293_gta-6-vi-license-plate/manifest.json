@@ -1,0 +1,77 @@
+{
+ "files": [
+  {
+   "path": "model/matricula-gta.3mf.xz",
+   "instance_id": "3713176",
+   "thumbnail": "previews/profiles/3713176.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "0,16mm layer 2walls 15%infill 0,4nozzle",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12518076,
+   "sha256": "208d3fd1b861a9181998a77089069df8b720b6f835eb4683c4b5bbbc1b2b4a55",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3274293",
+ "title": "Matrícula de GTA 6 VI",
+ "slug": "gta-6-vi-license-plate",
+ "url": "https://makerworld.com/en/models/3274293-gta-6-vi-license-plate",
+ "author": "Pawel123",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Matrícula Schyster PMP 700\n\n¡Mira mis otras matrículas!\n\nDeclasse Granger 3600LX\n\nRapid Ganado\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "gta",
+  "auto",
+  "matrícula"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USef842967f12831/design/0d6ad8b06dc38169.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3713176.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

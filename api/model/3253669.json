@@ -1,0 +1,83 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi.3mf.xz",
+   "instance_id": "3687612",
+   "thumbnail": "previews/profiles/3687612.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 687992,
+   "sha256": "266ca995e9e4ea0313144131c3233faa80283eb35be43b5eb62a2ae573df036f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3253669",
+ "title": "GTA VI --- Visualización del logotipo",
+ "slug": "gta-vi-logo-display",
+ "url": "https://makerworld.com/en/models/3253669-gta-vi-logo-display",
+ "author": "Koemprints",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Una visualización del logotipo del nuevo GTA VI.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "gta vi",
+  "grand theft auto seis"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf2e5108becfb1d/design/8a4add2cf5b7f1bf.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3687612.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

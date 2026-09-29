@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/set-posavasos.3mf.xz",
+   "instance_id": "3556174",
+   "thumbnail": "previews/profiles/3556174.jpg",
+   "print_time_h": 4.8,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "H2D",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1888992,
+   "sha256": "1289501cecde84d9011d93b6e9e998164d1b2c4e5f76d88045e3e0497709ca0d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3148553",
+ "title": "Set Posavasos GTA VI Vice City + Soporte 6 Diseños",
+ "slug": "gta-vi-vice-city-coasters-set-holder-6-designs",
+ "url": "https://makerworld.com/en/models/3148553-gta-vi-vice-city-coasters-set-holder-6-designs",
+ "author": "user_3510714193",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Lleva las vibraciones de Vice City a tu configuración de juego!\nEste conjunto incluye 6 posavasos exclusivos inspirados en GTA VI/Vice City, que presentan una estética retro tropical con palmeras, colores neón, autos y diseños icónicos al estilo Vice City.\nCada posavasos mide aproximadamente 90 × 90 × 2,4 mm y está diseñado para una fácil impresión 3D multicolor.\nEl juego también incluye un soporte de almacenamiento a juego, que le permite mantener los seis posavasos perfectamente organizados cuando no están en uso.\nLos diseños utilizan áreas de color simples y bien definidas, lo que los hace perfectos para la impresión multicolor con sistemas como Bambu Lab AMS.\nPerfecto para su sala de juegos, escritorio, configuración de PC o como regalo para un fanático de GTA.\nIncluido en el set:\n6 diseños diferentes de posavasos\n1 soporte de almacenamiento para el juego completo\nDiseños listos para multicolor\nNo se requieren soportes",
+ "use_cases": [],
+ "tags": [
+  "gta vi",
+  "vice city",
+  "grand theft auto",
+  "barco de cabotaje",
+  "posavasos",
+  "conjunto de posavasos",
+  "portavasos",
+  "juego de azar",
+  "jugador",
+  "configuración de juego",
+  "videojuego",
+  "accesorio de escritorio"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US746120699f8f0/design/8f82f67a5bf435fd.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   700
+  ],
+  "previews/profiles/3556174.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

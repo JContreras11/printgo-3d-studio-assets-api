@@ -1,0 +1,84 @@
+{
+ "files": [
+  {
+   "path": "model/funda-gta.3mf.xz",
+   "instance_id": "3485744",
+   "thumbnail": "previews/profiles/3485744.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2S",
+    "P1S",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Impostazioni di stampa consigliate Riempimento: 15–20% Supporti: Non necessari Materiale consigliato: PLA Colori utilizzati Nero Bianco Rosa",
+    "creation_date": "2026-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1468388,
+   "sha256": "7a668b6ea7a5170ef7605342c927e23cd75d14a6653dc46da482d1d3aaa26440",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3093307",
+ "title": "FUNDA GTA VI PS5 delgada",
+ "slug": "cover-gta-vi-ps5-slim",
+ "url": "https://makerworld.com/en/models/3093307-cover-gta-vi-ps5-slim",
+ "author": "Cecix13",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "CUBIERTA GTA VI PS5 delgada\n\nDale un aspecto único a tu PlayStation 5 Slim con esta funda central inspirada en el estilo de Grand Theft Auto VI.\nEl diseño presenta varios colores con letras en relieve y detalles para un efecto premium. Está diseñado para encajar perfectamente en el espacio central de la PS5 Slim, manteniendo un aspecto limpio y moderno.\nCaracterísticas\nCompatible con PlayStation 5 Slim\nImpresión multicolor (AMS o cambio de filamento)\nLogotipo y detalles en relieve.\nFácil instalación sin modificaciones de la consola.\nIdeal para personalizar tu configuración de juego\n\nNota: Este modelo es un proyecto inspirado en los gráficos de GTA VI y está destinado exclusivamente para uso personal y decorativo. PlayStation, Grand Theft Auto y sus respectivos logotipos y marcas comerciales pertenecen a sus respectivos propietarios.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "ps5portada",
+  "ps5"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7ce5536264fd30/design/3349665764596948.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3485744.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

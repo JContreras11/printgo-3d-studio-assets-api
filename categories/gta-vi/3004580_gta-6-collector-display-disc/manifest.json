@@ -1,0 +1,154 @@
+{
+ "files": [
+  {
+   "path": "model/disco-exhibicion-2h12.3mf.xz",
+   "instance_id": "3373759",
+   "thumbnail": "previews/profiles/3373759.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "P2S",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "layer height 0.8-0.12 speed 100 3 color",
+    "creation_date": "2026-07-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12117596,
+   "sha256": "aebb04e683da6186cc6cd9d213c14a175c6bd3cafbf155db3c8dea1daeaf50a4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/disco-exhibicion-2h36.3mf.xz",
+   "instance_id": "3375557",
+   "thumbnail": "previews/profiles/3375557.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "P2S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "H2S",
+    "X1",
+    "A2L",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": "Preset for highest precision and print quality: Layer height set to 0.08 mm , no supports , and three colors : black , gray , and white .",
+    "creation_date": "2026-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12103764,
+   "sha256": "fd4dc52a8e7bc51cf6d75ad116352ce394ed6381987f2442d6553e491839e6cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3004580",
+ "title": "Disco de exhibición de coleccionista de GTA 6",
+ "slug": "gta-6-collector-display-disc",
+ "url": "https://makerworld.com/en/models/3004580-gta-6-collector-display-disc",
+ "author": "Skatmad",
+ "category": "gta-vi",
+ "source_category": "Impresora 3D > Accesorios para impresoras 3D",
+ "description": "Disco de exhibición para coleccionistas de GTA VI: ¡el artículo que falta en tu paquete!\n¿Compraste la versión física de Grand Theft Auto VI y, al abrir el estuche, solo encontraste un código digital? Si también echas de menos el disco clásico que realmente completa una edición de coleccionista, este proyecto está diseñado para llenar ese vacío.\nEste modelo 3D recrea un disco de exhibición inspirado en los medios físicos originales, perfecto para darle a tu copia de GTA VI ese aspecto \"completo\" que se merece cuando se muestra en tu colección.\nCaracterísticas clave\nIdeal para acompañar la versión física de GTA VI.\nAspecto realista, diseñado para exhibición.\nOptimizado para impresión 3D multicolor o monocolor\nImprescindible para coleccionistas y fans de la saga Rockstar.\nTenga en cuenta que este no es un disco de juego. No contiene datos, no es legible en ninguna consola y no reemplaza el código digital oficial. Es un accesorio puramente estético, diseñado para realzar su embalaje físico.\nInformación de impresión El modelo utiliza 3 colores y está diseñado para imprimir con 2 AMS (Automatic Material System), perfectamente compatible con las impresoras Bambu Lab. Pero es posible imprimir con un solo color y pintar las partes elevadas.\nPorque incluso en la era digital… un estuche de coleccionista merece su disco.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "obtuve",
+  "pd",
+  "ps5",
+  "ps61368",
+  "ps6",
+  "ps 5",
+  "ps1",
+  "ps4",
+  "gran robo de autos"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-07-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe156048eef71a6/design/216b6d32f07e77ab.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/04.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/3373759.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3375557.jpg": [
+   600,
+   796
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

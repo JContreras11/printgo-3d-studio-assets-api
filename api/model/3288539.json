@@ -1,0 +1,125 @@
+{
+ "files": [
+  {
+   "path": "model/decoracion-arte-2h48.3mf.xz",
+   "instance_id": "3730902",
+   "thumbnail": "previews/profiles/3730902.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.20 mm Standard Profile"
+   },
+   "name": "Versión estándar",
+   "size": 2893132,
+   "sha256": "507579d75873b497063c9099fee8776482a0740b8fecf10c6d8d2379e8723ee9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/decoracion-arte-3h54.3mf.xz",
+   "instance_id": "3730929",
+   "thumbnail": "previews/profiles/3730929.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "H2D",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.16 mm High Quality Profile"
+   },
+   "name": "Versión estándar",
+   "size": 2893116,
+   "sha256": "d1dff9801c4db975cac7464cf7435963b6d2c98741ec61ee6e2bee6458b35175",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3288539",
+ "title": "Decoración de arte de pared de GTA 6",
+ "slug": "gta-6-wall-art-decor",
+ "url": "https://makerworld.com/en/models/3288539-gta-6-wall-art-decor",
+ "author": "2DWallArt",
+ "category": "gta-vi",
+ "source_category": "Arte > Arte 2D",
+ "description": "Boost Me ¿Te encanta este diseño de juego tropical? ¡Tu impulso GRATIS me ayuda a crear más! Lleva la audaz energía del juego del crimen tropical a tu espacio con este arte de pared para parejas de Vice City. El diseño presenta a un hombre y una mujer elegantes con gafas de sol, dos autos deportivos, palmeras, un horizonte costero y un espectacular fondo inspirado en una puesta de sol.\nPerfecto para salas de juegos, cuevas de hombres, oficinas, garajes, espacios de entretenimiento o cualquier persona que ama la estética retro de los juegos criminales, los autos veloces, las ciudades tropicales y la decoración inspirada en la acción.\nMembresía ¿Quieres vender impresiones físicas de mis diseños? Únase a mi membresía de licencia comercial y obtenga derechos comerciales mientras su membresía esté activa. Puedes ver mis colecciones, haz clic en cada enlace:\nArte de pared de mitología:\nArte de pared de vida silvestre:\nArte de pared de estilo de vida activo:\nArte de pared de armonía de la naturaleza:\nColección de mascotas:\nColección Montaña y Naturaleza:\nArte de la Muralla Sagrada:\nColección de arte mural navideño:\nFanáticos de Boost Me Gaming: ¡tu Boost GRATIS significa mucho! Cada modelo disponible en mi perfil es creado personalmente por mí, impreso físicamente y probado minuciosamente antes de ser publicado. Las fotografías que ve son fotografías reales del modelo impreso real, no solo representaciones digitales. Esto significa que puedes ver exactamente cómo luce la impresión terminada, lo que me permite garantizar con confianza el estándar de calidad más alto posible para cada diseño.\nImpulsame ¿Disfrutas de este arte mural? ¡Deja un impulso GRATIS! ¡Gracias! Todos los modelos disponibles en mi perfil están diseñados para impresión 3D FDM. Puede ajustar el tamaño, el grosor y otras configuraciones. Sin embargo, recomiendo utilizar mis configuraciones de impresión guardadas, ya que han sido completamente probadas. Si cambias el tamaño del modelo, recomiendo mantener el grosor entre 1,7 mm y 2,1 mm.\nAntes de imprimir, asegúrese de limpiar y desengrasar adecuadamente la placa de construcción para obtener la mejor adhesión y calidad de impresión.\nDespués de imprimir, recomiendo usar con cuidado un encendedor para quemar los finos hilos de filamento. Utilice sólo un paso muy rápido de la llama para lograr el acabado más limpio posible.",
+ "use_cases": [],
+ "tags": [
+  "vice city",
+  "decoración vice city",
+  "gt6",
+  "gta 6",
+  "vice city decoración",
+  "decoración de pared de juegos",
+  "decoración de juegos",
+  "jugador decoración",
+  "decoración del juego del crimen",
+  "ciudad tropical",
+  "arte de pared tropical",
+  "decoración de palmeras"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2c93906e01ae9d/design/6dee901c473fc429.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   562
+  ],
+  "previews/02.png": [
+   1000,
+   913
+  ],
+  "previews/profiles/3730902.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3730929.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

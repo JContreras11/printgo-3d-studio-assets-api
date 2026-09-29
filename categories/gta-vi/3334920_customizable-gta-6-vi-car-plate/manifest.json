@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/placa-coche.3mf.xz",
+   "instance_id": "3787924",
+   "thumbnail": "previews/profiles/3787924.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2191928,
+   "sha256": "0c3060569c98a6d50ab08c00a595eeb94f09a95243b4139267a52b2b0389597a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3334920",
+ "title": "Placa de Coche Personalizable GTA 6/VI",
+ "slug": "customizable-gta-6-vi-car-plate",
+ "url": "https://makerworld.com/en/models/3334920-customizable-gta-6-vi-car-plate",
+ "author": "ssupermario",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Una placa de auto personalizable inspirada en Vice City con palmeras, líneas limpias y un nombre personalizado en el centro.\n\nEl texto se puede cambiar fácilmente en Bambu Studio haciendo doble clic en el nombre y reemplazándolo por el suyo. En mi ejemplo, utilicé la fuente Kaushan Script.\nEnlace de fuente:\nEl modelo también se puede escalar a diferentes tamaños dependiendo de cómo quieras usarlo.\nTiene un diseño limpio multicolor y una apariencia simple y elegante que lo hace ideal tanto para imprimir como para exhibir.\n\nSi te gusta el modelo, deja un me gusta y un comentario.\nNo dudes en preguntar cualquier cosa en los comentarios y, si imprimes tu versión, no dudes en compartirla en los comentarios.\n\nPara más llaveros y diseños de impresión 3D, no dudes en visitar mi perfil:\n\n¡Gracias por descargar y feliz impresión!\nImpulsameSi te gusta este modelo, deja un impulso gratis. Me ayuda a crear diseños más lindos como este. ¡Gracias!",
+ "use_cases": [],
+ "tags": [
+  "vicio",
+  "vice city",
+  "viceciudad",
+  "placa vice city",
+  "gta",
+  "grand theft auto",
+  "gta 6",
+  "gta vi",
+  "plato personalizable",
+  "traje plano",
+  "placa de auto",
+  "matrícula"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf8e366144ef6b7/design/db928051b9f0b801.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3787924.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

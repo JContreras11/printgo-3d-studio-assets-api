@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6.3mf.xz",
+   "instance_id": "3674866",
+   "thumbnail": "previews/profiles/3674866.jpg",
+   "print_time_h": 5.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 35304500,
+   "sha256": "f9073b48334f92ce5920978ca5cce76caddb47cf959ba8a772a63cbd63e46272",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3243254",
+ "title": "GTA 6 Leonida Mapa Decoración De Escritorio GTA VI",
+ "slug": "gta-6-leonida-map-desk-decoration-gta-vi",
+ "url": "https://makerworld.com/en/models/3243254-gta-6-leonida-map-desk-decoration-gta-vi",
+ "author": "mowey_prints",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Decoración de escritorio con mapas de GTA 6 Leonida\nLleve el mundo de Leonida a su escritorio con este detallado mapa impreso en 3D, diseñado para fanáticos de GTA y coleccionistas que aprecian una decoración única inspirada en los juegos.\nLa pantalla presenta un mapa en relieve muy detallado de Leonida, que muestra sus carreteras, ciudades, terreno, costas y puntos de referencia en un sorprendente diseño de dos tonos. El mapa está montado sobre una base negra elegante y minimalista, lo que lo convierte en una pieza central perfecta para una instalación de juegos, una oficina, un estante o una exhibición de coleccionista.\nConjunto de dos piezas\nLa decoración está diseñada como dos piezas separadas impresas en 3D:\nMapa detallado de Leonida: la pieza de visualización superior presenta aberturas cortadas con precisión diseñadas específicamente para los tres pines de conexión de la base.\nBase de visualización: una base rectangular resistente con tres pasadores integrados que se deslizan directamente en los orificios correspondientes del mapa.\nAjuste seguro y al ras: simplemente alinee los tres pasadores con los orificios y presione el mapa hacia abajo en su lugar. Una vez ensamblado, el mapa queda al ras de la base, creando una apariencia limpia y perfecta.\nProductos destacados\nMapa en relieve 3D muy detallado\nInspirado en el escenario de GTA 6 Leonida\nDiseño modular de dos piezas\nSistema de conexión de 3 pines\nBase de exhibición limpia y minimalista\nDiseñado para escritorio, estantería, sala de juegos o exhibición de oficina\nImpreso en 3D prestando atención a los finos detalles del mapa.\nLigero y fácil de montar\nNo se requieren herramientas\nUna pieza llamativa para cualquier fanático de GTA: lo suficientemente detallada como para explorarla, lo suficientemente elegante como para exhibirla.\nusando esto escribe una publicación comunitaria para makersworld máximo 500 letras",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "fan art de gta6",
+  "gta5",
+  "gta",
+  "grandthefauto",
+  "obtuve",
+  "juego de azar",
+  "diseño 3d de juegos",
+  "decoración de juegos",
+  "modelo de decoración de escritorio"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7f4b3ae067d3cf/design/a889bba0d21919d2.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   896,
+   1195
+  ],
+  "previews/profiles/3674866.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

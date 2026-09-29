@@ -1,0 +1,160 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi-2h06.3mf.xz",
+   "instance_id": "3795045",
+   "thumbnail": "previews/profiles/3795045.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(manual)",
+    "photos": 2,
+    "profile_title": "AMS VERSION"
+   },
+   "name": "Versión estándar",
+   "size": 4877284,
+   "sha256": "78f2242723b5376835dac3dd4909c63f9d171445dca4cecf9788e657759bc842",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-vi-48min.3mf.xz",
+   "instance_id": "3795052",
+   "thumbnail": "previews/profiles/3795052.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "NO AMS LOGO",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2126556,
+   "sha256": "1b767d9b5611c93bb6afeab051ad1acd5d9d84e30e6977e68c691876bbf6475b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3340500",
+ "title": "GTA VI – Funda para AirPods 4",
+ "slug": "gta-vi-custodia-per-airpods-4",
+ "url": "https://makerworld.com/en/models/3340500-gta-vi-custodia-per-airpods-4",
+ "author": "NEED577",
+ "category": "gta-vi",
+ "source_category": "Herramientas > Gadgets",
+ "description": "¡Lleva siempre contigo un pedacito de Vice City!\nEste estuche está especialmente diseñado para Apple AirPods 4, con un diseño inspirado en GTA VI y su icónico estilo tropical.\nEl modelo está formado por una parte superior e inferior, lo que permite que el estuche se abra y cierre normalmente sin quitar los AirPods. El gran logotipo frontal se convierte en parte integral del diseño, convirtiendo un simple estuche en un pequeño artículo de colección.\nConsejos de impresión: para obtener el mejor resultado recomiendo calibrar correctamente la impresora, especialmente si decides hacer el modelo multicolor como se ve en las fotos.\nImpulsame ¿Te gusta este proyecto? ¡Deja un impulso!\nSu apoyo me ayuda mucho a seguir creando y publicando nuevos modelos de forma gratuita en MakerWorld Solo para uso personal: este modelo está destinado únicamente para uso personal. No se permite vender el archivo digital o las impresiones físicas realizadas a partir de este modelo.\nAirPods y Apple son marcas comerciales de sus respectivos propietarios. Este es un proyecto hecho por fans y no es un producto oficial.",
+ "use_cases": [],
+ "tags": [
+  "airpods",
+  "apple",
+  "cápsulas de aire",
+  "gta",
+  "gta6",
+  "6",
+  "vi",
+  "gta vi",
+  "juegos de rockstar",
+  "cubrir",
+  "funda",
+  "playstation"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd40bc7eb5b2f48/design/d7c12fdc9d13b551.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   900,
+   1600
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   900,
+   1600
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/06.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/3795045.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3795052.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

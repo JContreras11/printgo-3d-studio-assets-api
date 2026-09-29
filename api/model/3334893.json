@@ -1,0 +1,184 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-controlador-4h24.3mf.xz",
+   "instance_id": "3787897",
+   "thumbnail": "previews/profiles/3787897.jpg",
+   "print_time_h": 4.4,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Parametri di Stampa: Riempimento 5% Trama Giroide Brim esterno 2 Pareti No AMS",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 15953896,
+   "sha256": "060722e003468af42ec487c4d484594051b87b4e40557a1795ccc97534b90e07",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-controlador-5h48.3mf.xz",
+   "instance_id": "3832963",
+   "thumbnail": "previews/profiles/3832963.jpg",
+   "print_time_h": 5.8,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.04.57",
+    "profile_title": "Sony Interactive Version",
+    "profile_notes": "Compatibile con Base di ricarica INTERACTIVE DUAL SENSE",
+    "creation_date": "2026-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 34002844,
+   "sha256": "a43a768c1e20c1e1d47ad7d30a05373195309a6ed87bbae4dd6cf1dbd5bf5b92",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3334893",
+ "title": "Soporte del controlador X2 PS5 GTA VI",
+ "slug": "x2-ps5-gta-vi-controller-holder",
+ "url": "https://makerworld.com/en/models/3334893-x2-ps5-gta-vi-controller-holder",
+ "author": "MarkArt3D",
+ "category": "gta-vi",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Soporte para mando dual (2X) PS5 inspirado en GTA VI\n\nSIN REMEZCLA, SIN VENTA; Sólo uso privado\n\nSegundo perfil de impresión, compatible con base de carga (INTERACTIVE DUAL SENSE SONY)\nDado el éxito de la versión única, creamos una versión con soporte de controlador 2X PS5.\n¡Añade un toque elegante a tu configuración de juego con este soporte para mando de PS5 inspirado en la atmósfera de GTA VI!\nEl diseño hace eco de los icónicos escenarios tropicales, con dos palmeras a los lados y una base con textura de ladrillo, creando un soporte original y decorativo para su controlador DualSense.\n\nConsulte también la versión de controlador único:\n\nCaracterísticas (SOLO 4H DE IMPRESIÓN) 95g\nCompatible con controladores PS5 DualSense y Xbox.\nDiseño inspirado en la estética de GTA VI.\nBase con acabado textura ladrillo.\nFácil de imprimir.\nIdeal para impresión multicolor sin AMS lite.\nPerfecto para decorar tu estación de juegos o como idea de regalo para los entusiastas de los videojuegos.\nSi te gusta este modelo, deja una calificación y un Boost: ¡tu apoyo me ayuda a crear nuevos proyectos!\n¡Feliz impresión!\nBoost MeBoost el modelo para apoyar nuestro trabajo",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "grand theft auto",
+  "playstation",
+  "sony",
+  "juego de azar",
+  "titular del controlador",
+  "2 controlador",
+  "puerto del controlador",
+  "soporte de doble controlador",
+  "doble"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe540f96ca493f9/design/6754d6e206c857d5.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.png": [
+   896,
+   1195
+  ],
+  "previews/09.png": [
+   896,
+   1195
+  ],
+  "previews/10.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3787897.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3832963.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

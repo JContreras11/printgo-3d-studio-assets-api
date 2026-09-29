@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-mando.3mf.xz",
+   "instance_id": "3803690",
+   "thumbnail": "previews/profiles/3803690.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.03.66",
+    "profile_title": "0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A2L",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9863712,
+   "sha256": "04ec6713a4cce5e7fb50d7dc8e86e9560f9f751a6888263d58e7165fc12ba02f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3347217",
+ "title": "soporte para mando PS5 GTA VI",
+ "slug": "ps5-controller-stand-gta-vi",
+ "url": "https://makerworld.com/en/models/3347217-ps5-controller-stand-gta-vi",
+ "author": "3d.dsan",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Soporte para controlador de PS5 con tema GTA6, rápido de imprimir y con bajo desperdicio de material",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "san andres",
+  "ps5",
+  "ps 5",
+  "accesorios ps5",
+  "accesorios",
+  "pararse",
+  "mando"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US13dc118d29d59b/design/fce4c5b84c0283bb.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3803690.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/colgador-puerta.3mf.xz",
+   "instance_id": "3734307",
+   "thumbnail": "previews/profiles/3734307.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 20770572,
+   "sha256": "cbdbf90c506e65b06a92de797e938ad1f928699ba53ef92aa1cb3d88188249c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3291150",
+ "title": "Colgador de puerta con letrero de puerta GTA6",
+ "slug": "gta6-door-sign-door-hanger",
+ "url": "https://makerworld.com/en/models/3291150-gta6-door-sign-door-hanger",
+ "author": "walkecaster",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "**GTA 6 Vice City – Letrero para puerta \"No molestar\"**\n\nEl **19 de noviembre de 2026** finalmente llegará el día en que se lanzará GTA 6. Cualquiera que no haya enviado el permiso de vacaciones para este día definitivamente ha hecho algo mal.\nPara que nadie te moleste cuando pasas días en el sofá, aquí tienes el cartel de puerta perfecto para tu impresora 3D\n---\n**Características:**\n* **Listo para AMS:** Optimizado para impresión multicolor, máximo 4 colores\n* **Impresión fácil:** Plano sobre la cama de impresión completamente, no requiere soporte\n* **Aspecto limpio:** Bordes afilados en estilo retro neón\n---\n**Configuraciones de impresión recomendadas:**\n* **Material:** PLA\n* **Altura de capa:** 0,2 mm\n* **Relleno:** 15 %\n* **Soporte:** No requerido\n---\n*Me encantaría recibir una calificación, un impulso o una foto de tu impresión terminada*",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "gta 6",
+  "vice city",
+  "grand theft auto",
+  "gran robo de autos",
+  "estrella de rock",
+  "juegos de estrellas de rock",
+  "juego de azar",
+  "modelo 3d de juegos",
+  "colgador de puerta",
+  "señal de puerta",
+  "no molestar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USee39a051b975bf/design/64eb3211de127618.jpg",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.png",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   746
+  ],
+  "previews/02.webp": [
+   1000,
+   746
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   632
+  ],
+  "previews/05.jpg": [
+   1000,
+   746
+  ],
+  "previews/profiles/3734307.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/lampara-vice.3mf.xz",
+   "instance_id": "3712044",
+   "thumbnail": "previews/profiles/3712044.jpg",
+   "print_time_h": 5.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "H2C",
+    "A2L",
+    "P1S",
+    "A1",
+    "X1",
+    "X2D",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 8793608,
+   "sha256": "dff33a66ef3d35fdef23af5df713440e187bf3baa33a55d153134d44799ffd15",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3273405",
+ "title": "Lámpara Vice City GTA 6",
+ "slug": "gta-6-vice-city-lamp",
+ "url": "https://makerworld.com/en/models/3273405-gta-6-vice-city-lamp",
+ "author": "fracos",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Inspirado en la icónica lámpara de GTA 6 regalada por Rockstar Games a un número muy limitado de creadores en todo el mundo, este diseño hecho por fanáticos aporta el mismo ambiente de neón tropical a tu configuración.\nLa lámpara presenta un atrevido gráfico de palmera y luce genial tanto apagada como iluminada. Está diseñado para impresión multicolor y se puede combinar con una fuente de luz LED interna para lograr el efecto completo.\nImportante: siga el orden exacto de los colores que se muestra en las capturas de pantalla de la cortadora al preparar la impresión. Cambiar la secuencia de filamento/color puede alterar la apariencia final del diseño.",
+ "use_cases": [],
+ "tags": [],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USce67f4a4fac554/design/9c61e2471bd820e5.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   856
+  ],
+  "previews/05.png": [
+   910,
+   715
+  ],
+  "previews/06.png": [
+   996,
+   779
+  ],
+  "previews/profiles/3712044.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

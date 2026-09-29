@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-controlador.3mf.xz",
+   "instance_id": "3682355",
+   "thumbnail": "previews/profiles/3682355.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1E",
+    "H2S",
+    "P1P",
+    "X1",
+    "A1 mini",
+    "A1",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1046176,
+   "sha256": "648c0904a95830289e1855deb907cb8e995472a8498f140ee035c2792fecf26a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3249383",
+ "title": "Soporte del controlador GTA 6",
+ "slug": "controller-holder-gta-6",
+ "url": "https://makerworld.com/en/models/3249383-controller-holder-gta-6",
+ "author": "Spinosaurus3",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Soporte del controlador GTA 6 – Remezcla 3D\n¡Dale a tu configuración de juego un aspecto genial de GTA 6! Este soporte de controlador fue creado como una remezcla de un modelo 3D existente y adaptado visualmente.\nLa base estable sostiene su controlador de forma segura y al mismo tiempo llama la atención con estilo en su escritorio.",
+ "use_cases": [],
+ "tags": [
+  "juego de azar",
+  "gta",
+  "gta 6",
+  "controlador de caja x",
+  "xbox",
+  "configuración",
+  "estación de juego",
+  "controlador",
+  "cabestro",
+  "pararse",
+  "titular del controlador",
+  "soporte del controlador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe63c7062efbb25/design/6084f7f7c3c79908.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   749
+  ],
+  "previews/profiles/3682355.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/juego-llaveros.3mf.xz",
+   "instance_id": "3378380",
+   "thumbnail": "previews/profiles/3378380.jpg",
+   "print_time_h": 2.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "H2D",
+    "X1",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "X2D",
+    "H2S",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 5546520,
+   "sha256": "b1ff71bc40ab2cf743ed2e730e7b19e7f9070098e7aef375becae0351f94677b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3008354",
+ "title": "Juego de llaveros GTA 6 / VI",
+ "slug": "gta-6-vi-keychain-set",
+ "url": "https://makerworld.com/en/models/3008354-gta-6-vi-keychain-set",
+ "author": "ssupermario",
+ "category": "gta-vi",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "Lleva algunas vibraciones de Vice City a tus llaves con este juego de llaveros inspirado en GTA VI.\n\nEsta colección incluye 3 variaciones diferentes de un diseño de llavero estilo VI, perfecto para los fanáticos de los accesorios inspirados en los juegos. Ideal para llaves, mochilas, bolsos o como pequeño regalo.\n\nLos llaveros son sencillos y muy rápidos de imprimir, lo que los hace ideales para regalos y colecciones rápidos. Cada versión tiene un diseño multicolor limpio y funciona muy bien con combinaciones de colores llamativos.\n\nSi te gusta este modelo y quieres ver más diseños inspirados en GTA, consulta los enlaces a continuación:\n\nSi te gusta el modelo, deja un me gusta y un comentario.\nNo dudes en preguntar cualquier cosa en los comentarios y, si imprimes tu versión, no dudes en compartirla en los comentarios.\n\nPara más llaveros y diseños de impresión 3D, no dudes en visitar mi perfil:\n\n¡Gracias por descargar y feliz impresión!\nImpulsameSi te gusta este modelo, deja un impulso gratis. Me ayuda a crear diseños más lindos como este. ¡Gracias!",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "gta vi",
+  "llavero gta",
+  "grand theft auto",
+  "vice city",
+  "juego de azar",
+  "jugador",
+  "llavero",
+  "encanto del bolso",
+  "logo"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4dded2057f88ed/design/a2346ad73893d2f4.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3378380.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

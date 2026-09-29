@@ -1,0 +1,133 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6-2h42.3mf.xz",
+   "instance_id": "3666459",
+   "thumbnail": "previews/profiles/3666459.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "P1P",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X2D",
+    "X1E",
+    "A1",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Jason & Lucia - NO AMS",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 35059600,
+   "sha256": "ffd8a2189d3cdefd0f0f1fb8764637b0813e841ae226c9f44129d46bf8c963d1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-6-21h30.3mf.xz",
+   "instance_id": "3729974",
+   "thumbnail": "previews/profiles/3729974.jpg",
+   "print_time_h": 21.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "A2L",
+    "P1S",
+    "A1",
+    "X1",
+    "X2D",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Lucia - AMS",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 24032840,
+   "sha256": "ed08f8903d713ff9a0b59f10271e2d2dd4de0757e13b89432465b3727cfc7371",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3236532",
+ "title": "GTA 6 Funko Pop Jason y Lucía",
+ "slug": "gta-6-funko-pop-jason-lucia",
+ "url": "https://makerworld.com/en/models/3236532-gta-6-funko-pop-jason-lucia",
+ "author": "skillz3n",
+ "category": "gta-vi",
+ "source_category": "Miniaturas > Personas",
+ "description": "Boost Me ¿Te gusta este modelo?\n\nSi te gusta este modelo y lo encuentras útil, ¡realmente agradecería un impulso! Ayuda a respaldar mi trabajo y me motiva a seguir creando y compartiendo nuevos diseños gratuitos.\n\n¡Gracias por su apoyo!\nFunko Pop de Jason y Lucia los personajes principales de GTA 6!\n\nModelos sencillos, rápidos y fáciles de imprimir, perfectos para coleccionar o exhibir.\n\nCambia el tamaño de la base de 8 cm a tu gusto para obtener impresiones con más detalles.",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "grand theft auto 6",
+  "jason y lucia",
+  "jason y lucia gta 6",
+  "gta 6 personajes principales",
+  "funko pop gta 6",
+  "funko pop"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3d92c201731ca8/design/5030033a6e92284c.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3666459.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3729974.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

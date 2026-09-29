@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6.3mf.xz",
+   "instance_id": "3746205",
+   "thumbnail": "previews/profiles/3746205.jpg",
+   "print_time_h": 20.2,
+   "plates": 8,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 100% infill",
+    "profile_notes": "Optimized for a clean multicolor print with all the details of the design. • No supports required • Print in the provided orientation • AMS / multicolor system recommended • 4 colors • Ready to print Simply slice, print and hang it on your door! 🎮",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 3103876,
+   "sha256": "a426380efe61eb74426e7107cd44d03f3a89e8438214db294c8057ddae1feb17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3300865",
+ "title": "GTA 6 – ¡Señal de puerta de No molestar personalizable!",
+ "slug": "gta-6-do-not-disturb-door-sign-customizable",
+ "url": "https://makerworld.com/en/models/3300865-gta-6-do-not-disturb-door-sign-customizable",
+ "author": "Sam_elpepe",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Sin interrupciones. Hay misiones importantes que completar.\n\nEste letrero para puerta inspirado en GTA 6 está diseñado para colgar directamente en la manija de la puerta: perfecto para una sala de juegos, un dormitorio, una oficina o simplemente como un complemento divertido para tu configuración de juego.\nEl modelo está disponible en 3 idiomas: inglés, francés y español. También se incluye una versión personalizable, que le permite cambiar el texto y crear su propia versión.\nSe incluyen dos versiones impresas.\nVersión de 4 colores: para el diseño completo con todos los detalles y colores.\nVersión de 2 colores: una alternativa más sencilla si quieres reducir los cambios de filamento o no tienes cuatro colores disponibles.\nUn pequeño detalle extra en la espalda...\nNo quería que la parte posterior del letrero quedara en blanco, así que agregué un anuncio de \"Visita Leonida\" inspirado en el universo de GTA 6.\nLe da al letrero de la puerta una sensación más auténtica, casi como un artículo promocional real que podrías encontrar en algún lugar de Leonida. ¡Incluso el lado que da a la puerta llama la atención!\nEl modelo está diseñado para ser fácil de imprimir y no requiere soportes. Una vez impreso, simplemente cuélgalo en la manija de tu puerta y comienza tu sesión de juego.\n¿Qué está incluido?\nversión en inglés\nversión francesa\nversión en español\nVersión personalizable\narchivos de 4 colores\narchivos de 2 colores\n\n¿Te gusta el modelo?\nImpúlsameSi este letrero para puerta mantiene tus sesiones de juego sin interrupciones, ¡considera darle un impulso! Su apoyo me ayuda a crear modelos más divertidos y detallados para la comunidad. ¡Gracias por imprimir y disfruta de tu juego!",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "gta 6",
+  "gta vi",
+  "vi",
+  "señal de puerta",
+  "colgador de puerta",
+  "no molestar",
+  "juego de azar",
+  "sala de juegos",
+  "playstation"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaffc48b0406243/design/0c9b0879c3af1690.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   666,
+   1000
+  ],
+  "previews/02.jpg": [
+   666,
+   1000
+  ],
+  "previews/03.jpg": [
+   666,
+   1000
+  ],
+  "previews/profiles/3746205.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

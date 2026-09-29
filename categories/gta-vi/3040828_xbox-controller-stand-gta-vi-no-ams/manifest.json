@@ -1,0 +1,79 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-controlador.3mf.xz",
+   "instance_id": "3419314",
+   "thumbnail": "previews/profiles/3419314.jpg",
+   "print_time_h": 2.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 17988980,
+   "sha256": "0a0dde06a150a3e0a0b742f8ade043773227f73c4c1789fdf3212e63bb2d8ff9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3040828",
+ "title": "Soporte para controlador Xbox - GTA VI",
+ "slug": "xbox-controller-stand-gta-vi-no-ams",
+ "url": "https://makerworld.com/en/models/3040828-xbox-controller-stand-gta-vi-no-ams",
+ "author": "GROGO3D",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Soporte de controlador premium – Edición especial GTA VI\n¡Trae la atmósfera de Vice City directamente a tu configuración! Este exclusivo stand fue diseñado para quienes desean organizar su espacio de juego con el máximo estilo, resaltando el controlador de su consola con una estética inspirada en el juego más esperado de la década.\nProductos destacados\nDiseño temático exclusivo: logotipo estilizado con el icónico \"VI\" en tonos rosa neón y azul pastel, que aporta el auténtico ambiente de onda sintética de GTA 6.\nLetras destacadas: La inscripción \"Grand Theft Auto\" en blanco clásico con un llamativo contorno negro, que garantiza un excelente contraste y fidelidad visual.\nCompatibilidad perfecta: Diseñado a medida para adaptarse perfectamente al controlador PS5 (DualSense), manteniéndolo firme, seguro y listo para la acción.\nAcabado de alta calidad: Estructura negra robusta, ideal para complementar cualquier escritorio, estante o configuración de transmisión para juegos.\nEspecificaciones\nCompatibilidad: Controlador Xbox\nColor base: negro mate\nColores del logotipo: rosa, azul, negro y blanco\nCategoría: Accesorios Gamer / Organización de Configuración\nConsejo de jugador: Perfecto para regalar a ese amigo coleccionista o para darle una mejora definitiva al aspecto de tu propia estación.",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "gta",
+  "gta 6",
+  "juego",
+  "jugador",
+  "grand theft auto",
+  "apoyo",
+  "control",
+  "sony",
+  "pd",
+  "ps5",
+  "microsoft"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US42aa9eb92c3dbf/design/bc02276a4b7390dd.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3419314.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

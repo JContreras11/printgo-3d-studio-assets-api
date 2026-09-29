@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-auriculares.3mf.xz",
+   "instance_id": "3754702",
+   "thumbnail": "previews/profiles/3754702.jpg",
+   "print_time_h": 6.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "0.2 mm layer high need supports print in parts",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3919564,
+   "sha256": "12769b6a091324412f9da3ae2f5edfadbcdb564e28f3323562f2fcd05ca0b70c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3307628",
+ "title": "Soporte para auriculares y controlador inspirado en GTA 6",
+ "slug": "gta-6-inspired-headphone-controller-stand",
+ "url": "https://makerworld.com/en/models/3307628-gta-6-inspired-headphone-controller-stand",
+ "author": "user_1945704775",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¿Quieres vender impresiones físicas de este modelo? Puedes obtener una Licencia Comercial a través de mi Patreon aquí:\n\nDiseñado como un elegante y práctico accesorio para juegos 2 en 1, este soporte le brinda un lugar exclusivo para exhibir y organizar tanto sus auriculares como su controlador de juego. El diseño está inspirado en la estética tropical, neón y retro asociada con Grand Theft Auto VI / GTA VI, lo que lo convierte en un complemento perfecto para una sala de juegos, un escritorio de juegos, una configuración de PC, una configuración de PlayStation, una estación de juegos de consola o una configuración de juegos RGB.\nLa sección superior proporciona una amplia área de soporte para audífonos supraaurales y audífonos para juegos, mientras que el soporte inferior mantiene el controlador expuesto en el frente y fácil de agarrar. El diseño vertical ayuda a ahorrar espacio en el escritorio y al mismo tiempo convierte sus accesorios de juego en parte de su configuración.\nPerfecto para los jugadores que aman GTA, GTA 6, Vice City, la estética de los juegos de neón, el estilo Miami, el synthwave retro, el vaporwave, las configuraciones inspiradas en el cyberpunk, los juegos de PlayStation, los juegos de consola y los accesorios impresos en 3D personalizados.\nEste modelo también puede ser un excelente regalo para jugadores impreso en 3D, decoración de escritorio, accesorio para sala de juegos o pieza de exhibición.\nCaracterísticas:\nSoporte para auriculares 2 en 1 + soporte para controlador\nDiseño de escritorio vertical que ahorra espacio\nDiseñado para auriculares para juegos y auriculares supraaurales\nÁrea de almacenamiento/visualización del controlador\nEstética inspirada en GTA 6 / Vice City\nIdeal para configuraciones de juegos de PlayStation, PC y consolas\nIdeal para salas de juegos RGB, neón, synthwave y vaporwave\nOrganizador de escritorio para juegos funcional y soporte de exhibición\nUna forma sencilla de mantener organizados tus accesorios de juego\nGran idea de regalo para jugadores y fanáticos de GTA.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta vi",
+  "gta 6",
+  "grand theft auto",
+  "pararse",
+  "soporte del controlador",
+  "soporte para auriculares",
+  "auriculares y controlador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd3cb4ed9c948dd/design/cf7f3bf060864e8c.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1160
+  ],
+  "previews/02.png": [
+   1000,
+   1249
+  ],
+  "previews/03.jpg": [
+   1000,
+   1161
+  ],
+  "previews/04.jpg": [
+   1000,
+   1045
+  ],
+  "previews/profiles/3754702.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

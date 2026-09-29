@@ -1,0 +1,133 @@
+{
+ "files": [
+  {
+   "path": "model/exhibicion-escritorio-5h30.3mf.xz",
+   "instance_id": "3440811",
+   "thumbnail": "previews/profiles/3440811.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2C",
+    "H2D",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill NO AMS",
+    "profile_notes": "0.2 YOU CAN PRINT WITHOUT AMS It can also be printed with AMS, just paint it better.",
+    "creation_date": "2026-07-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1631992,
+   "sha256": "0f8a2dac9d22c75c770b1c0173413b629942363ac5f71aebf60c8b34105d0be9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/exhibicion-escritorio-11h18.3mf.xz",
+   "instance_id": "3622971",
+   "thumbnail": "previews/profiles/3622971.jpg",
+   "print_time_h": 11.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "X1",
+    "P1S",
+    "A1",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "With AMS 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2 YOU CAN PRINT WITHOUT AMS It can also be printed with AMS, just paint it better.",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2403596,
+   "sha256": "77b04c707a0b3b0bd27bc8f978e7d29c4f4d2d82ef569d4ea332ea2e7262a3fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3057963",
+ "title": "Exhibición de escritorio de arte de pared 3D con logotipo de Grand Theft Auto VI",
+ "slug": "grand-theft-auto-vi-logo-3d-wall-art-desk-display",
+ "url": "https://makerworld.com/en/models/3057963-grand-theft-auto-vi-logo-3d-wall-art-desk-display",
+ "author": "wally2",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Boost Me Lleva la estética icónica de Grand Theft Auto VI a tu configuración de juego con este logotipo imprimible en 3D multicolor de alta calidad. Diseñado para una impresión limpia y un fácil montaje, este modelo es perfecto para decorar su escritorio, sala de juegos, configuración de transmisión o como regalo para los fanáticos de GTA.\nEl diseño presenta letras en relieve, hojas de palma detalladas y la combinación de colores característica inspirada en el neón, creando una apariencia premium con un llamativo efecto de capas.\nAfiliación",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "'decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa50fd18c7f2428/design/b2518e1c3c1a1e95.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   766
+  ],
+  "previews/02.jpg": [
+   749,
+   1000
+  ],
+  "previews/profiles/3440811.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3622971.jpg": [
+   437,
+   363
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

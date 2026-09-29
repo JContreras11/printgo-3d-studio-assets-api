@@ -1,0 +1,140 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi-1h24.3mf.xz",
+   "instance_id": "3493924",
+   "thumbnail": "previews/profiles/3493924.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "No AMS version - pause for filament changes for the top part",
+    "profile_notes": "I've added pauses to specific layers which requires filament changes (purple → blue → black → white), for the top part so that you can print it without AMS as well. Just change the filament during each pause that is already configured in this .3mf file.",
+    "creation_date": "2026-07-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1362488,
+   "sha256": "01afeb4bfaf66666a7c2ab9c5219ae408a278105689a395420567a2d984d089c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-vi-1h36.3mf.xz",
+   "instance_id": "3493940",
+   "thumbnail": "previews/profiles/3493940.jpg",
+   "print_time_h": 1.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A2L",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "P1P",
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Keychain version - hole in the bottom part",
+    "profile_notes": "I've added a keychain hole for the bottom part, as someone requested in the comments.",
+    "creation_date": "2026-07-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1429008,
+   "sha256": "3368a7219d70fdacb5654bbe09e545cd695d3b47677f3f717ad843049338c5dd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3084739",
+ "title": "GTA VI (6) Clicker - Logotipo 3D de profundidad múltiple",
+ "slug": "gta-vi-6-clicker-3d-multi-depth-logo",
+ "url": "https://makerworld.com/en/models/3084739-gta-vi-6-clicker-3d-multi-depth-logo",
+ "author": "badaniel613",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un juguete de escritorio sencillo y satisfactorio con el estilo del logotipo GTA VI. Diseñé esto con capas físicas elevadas en lugar de una superficie plana: el texto, el fondo de la palma y el marco se ubican a diferentes profundidades para darle una apariencia de textura agradable de cerca. Tiene 2 interruptores de teclado mecánicos para brindarle un buen clic táctil sin importar dónde lo presione.\nImpulsameSi te gusta, considera darme un impulso, ¡muchas gracias!Imprimir instrucciones:\nLa altura de la capa de 0,2 mm debería estar bien, use 0,16 mm si desea detalles más finos\ncualquier material debería funcionar\n2 paredes, 15 % de relleno (se recomienda giroide/cúbico adaptativo)\nSoporte: necesario para la parte superior. Asegúrese de que no haya soportes dentro del orificio de montaje de la potencia Switch (el signo +). Esto ya está configurado en el proyecto my.3mf.\nSe requieren 2 interruptores de teclado. Puedes probar interruptores impresos en 3D si lo deseas (también están disponibles aquí en MakerWorld), pero no lo he probado.\nActualización 1: No agregué ningún perfil de impresión AMS: se detiene en capas específicas que requieren cambios de filamento (púrpura azul negro blanco), para la parte superior, para que puedas imprimirlo también sin AMS. Simplemente cambia el filamento durante cada pausa que ya está configurado en este archivo.3mf.\n\nActualización 2: agregué un perfil de impresión de llavero: la parte inferior ahora tiene un orificio para llavero en la parte inferior.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "gta 6",
+  "gta vi",
+  "grand theft auto",
+  "grand theft auto 6",
+  "taconeador",
+  "agitarse",
+  "juguete inquieto",
+  "clicker inquieto",
+  "mecánico switch",
+  "teclado switch"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US18e528e397dce8/design/0235bf1a7fa23768.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1332
+  ],
+  "previews/profiles/3493924.jpg": [
+   600,
+   412
+  ],
+  "previews/profiles/3493940.jpg": [
+   600,
+   445
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

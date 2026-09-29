@@ -1,0 +1,182 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6-1h54.3mf.xz",
+   "instance_id": "3700788",
+   "thumbnail": "previews/profiles/3700788.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "H2S",
+    "A1",
+    "X2D",
+    "H2C",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Small (one plate) 0.2mm layer, 4 walls, 15% infill",
+    "profile_notes": "Small (one plate) 0.2mm layer, 4 walls, 15% infill",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa versión mini",
+   "size": 870132,
+   "sha256": "2c428a118b42e916dae24e246b395fa56597071e44654d51b12e78ccc2ba0a84",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-6-6h24.3mf.xz",
+   "instance_id": "3700797",
+   "thumbnail": "previews/profiles/3700797.jpg",
+   "print_time_h": 6.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "A2L",
+    "P1S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Medium, 2 plates 0.2mm layer, 4 walls, 15% infill",
+    "profile_notes": "Medium, 2 plates 0.2mm layer, 4 walls, 15% infill",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 922416,
+   "sha256": "1c6b0669d2ad153c2e9e3fc9326d85aa96db4169f3fadb57b3ee6faaa94b8efc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-6-8h12.3mf.xz",
+   "instance_id": "3700803",
+   "thumbnail": "previews/profiles/3700803.jpg",
+   "print_time_h": 8.2,
+   "plates": 4,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X2D",
+    "H2D Pro",
+    "H2S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Large 4 plates 0.2mm layer, 4 walls, 15% infill",
+    "profile_notes": "Large 4 plates 0.2mm layer, 4 walls, 15% infill",
+    "creation_date": "2026-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión grande",
+   "size": 1009568,
+   "sha256": "d40abaa2e7f6c96deb158493a7bffaceb28456419ebd7401fde3de19b0483976",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3264157",
+ "title": "GTA 6 Lucia Arte lineal minimalista / Arte de pared GTA VI",
+ "slug": "gta-6-lucia-minimalist-line-art-wall-art-gta-vi",
+ "url": "https://makerworld.com/en/models/3264157-gta-6-lucia-minimalist-line-art-wall-art-gta-vi",
+ "author": "SV0dn1k",
+ "category": "gta-vi",
+ "source_category": "Arte > Arte 2D",
+ "description": "¡El revuelo es real! Lleva el mejor ambiente de GTA a tu sala de juegos, oficina o sala de estar con este arte minimalista de Lucia de Grand Theft Auto VI.\n\nLas líneas elegantes capturan el aspecto icónico de Lucia sin ser demasiado llamativas, lo que las hace perfectas para cualquier interior moderno o industrial.\n\nTamaños y perfiles de impresión: Para que la impresión sea lo más fácil posible, he incluido 3 perfiles de impresión diferentes para que puedas elegir el tamaño que mejor se adapte a tu pared:\nPequeño: cabe en 1 placa de construcción (140 x 232 x 5 mm).\nMedio: divídalo en 2 placas de construcción para lograr un mayor impacto.\nGrande: ¡Divídalo en 4 placas de construcción para obtener una pieza central enorme y llamativa!\nConsejo de montaje para mediano y grande: los tamaños de placas múltiples están cortados perfectamente para que puedas ensamblarlos sin problemas. ¡Simplemente pegue las piezas con pegamento PLA estándar o superpegamento!\n\nMejores configuraciones de impresión (para un resultado perfectamente limpio): debido a que el arte lineal contiene muchos detalles finos y caminos estrechos, recomiendo usar las siguientes configuraciones en Bambu Studio para obtener el mejor resultado posible:\nGenerador de pared: establecido en Arachne (en calidad). ¡Esto es crucial! Arachne calcula perfectamente los distintos grosores de línea y evita espacios en las partes más finas (como las pestañas).\nAltura de capa: 0,20 mm (da como resultado exactamente 25 capas con 5 mm de espesor).\nVelocidad de la primera capa: Reducir a 20 - 30 mm/s. Esto garantiza que incluso los microdetalles más pequeños se adhieran perfectamente a la placa de construcción.\nPlanchado: Encienda para superficies superiores. Esto plancha la capa superior con suavidad como un espejo, lo que le da a su impresión un acabado profesional de primera calidad sin líneas de capa visibles.\nMontaje: Gracias a su peso liviano, este arte de pared es increíblemente fácil de montar usando unos pequeños trozos de cinta adhesiva de doble cara (como Command Strips o Tesa Powerstrips) o masilla de montaje. ¡No es necesario perforar agujeros en la pared!\n\nTengo muchas ganas de ver tus resultados, así que no olvides compartir una foto de tu Lucía impresa en los comentarios.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "gta vi",
+  "gta decoración",
+  "lucía",
+  "lucía gta 6",
+  "gran robo de autos",
+  "estrella de rock",
+  "juegos de arte 2d",
+  "juego de azar",
+  "arte mural"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe96cb012e14834/design/db5635f58ec86528.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   689
+  ],
+  "previews/02.png": [
+   1000,
+   584
+  ],
+  "previews/profiles/3700788.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3700797.jpg": [
+   600,
+   413
+  ],
+  "previews/profiles/3700803.jpg": [
+   600,
+   314
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

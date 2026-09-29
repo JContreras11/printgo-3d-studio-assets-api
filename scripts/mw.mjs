@@ -11,6 +11,7 @@ import { parseArgs } from "node:util";
 import { connect } from "./lib/cdp.mjs";
 import { toEs, sanitize, saveCache } from "./lib/text_es.mjs";
 import { classify, parseProfiles, relevant } from "./lib/mw_data.mjs";
+import { projectFileName } from "./lib/names.mjs";
 import { slugify } from "./lib/misc.js";
 import { build, labels, ROOT } from "./build_api.mjs";
 
@@ -305,7 +306,9 @@ async function processModel(item, lib) {
       file = m.files.find((f) => !f.instance_id && path.basename(f.path).replace(/\.3mf(\.xz)?$/i, "") === base);
     }
     if (!file) {
-      const rel = `model/${slugify(p.title).slice(0, 50)}-${p.instance_id}.3mf`;
+      // El nombre lo pone el proyecto, no el perfil del laminador (scripts/rename_files.mjs).
+      const idx = m.files.length;
+      const rel = `model/${projectFileName(m.title, { category: m.category, total: profiles.length, index: idx })}.3mf`;
       const tmp = path.join(ROOT, ".tmp", "dl", `${item.id}-${p.instance_id}.3mf`);
       if (!(await download(signed.url, tmp))) { errors.push(`${p.instance_id}: descarga falló`); continue; }
       execFileSync("xz", ["-9", "-T0", "-f", tmp]);
@@ -321,7 +324,7 @@ async function processModel(item, lib) {
     const thumbnail = await profileThumbnail(folder, m, p);
     Object.assign(file, {
       instance_id: p.instance_id,
-      name: (await toEs(p.title)) || sanitize(p.title),
+      name: path.basename(file.path).replace(/\.3mf(\.xz)?$/i, ""),
       thumbnail,
       print_time_h: p.print_time_h, plates: p.plates, rating: p.rating, rating_count: p.rating_count,
       by_designer: p.by_designer, printers: p.printers, default: p.default,

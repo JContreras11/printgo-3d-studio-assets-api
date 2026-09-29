@@ -17,6 +17,8 @@ const JARGON = [
 ];
 // "20 mm" suelto: ajuste de perfil, no tamaño del objeto. Solo para archivos.
 const UNITS = /\b[\d.,]+\s*mm\b/gi;
+// Una medida que sobrevivió al recorte: señal de que el nombre era puro ajuste.
+const BARE_UNIT = /\b\d[\d.,]*\s*(?:mm|%)\b/i;
 // Conectores que quedan colgando al quitar una cláusula ("Repisa de cama para marcos de").
 const DANGLING = /\s+(?:de|del|para|con|sin|y|o|a|en|for|with|and|the|of|para)\s*$/i;
 // Palabras que nunca sostienen un nombre por sí solas.
@@ -28,17 +30,27 @@ const clean = (s) => String(s ?? "")
   .replace(/\s+/g, " ")
   .trim();
 
-/** Quita cláusulas de ajuste. `units` además descarta medidas sueltas. */
+/** Quita cláusulas de ajuste. `units` además descarta medidas sueltas. Dice si quitó algo. */
 function stripJargon(text, { units = false } = {}) {
   let out = String(text ?? "");
-  for (const re of JARGON) out = out.replace(re, " ");
-  if (units) out = out.replace(UNITS, " ");
-  return clean(out)
-    .replace(/[·,;/\-–—]+/g, " ")
+  let hit = false;
+  for (const re of JARGON) {
+    if (!re.test(out)) { re.lastIndex = 0; continue; }
+    re.lastIndex = 0;
+    out = out.replace(re, " ");
+    hit = true;
+  }
+  if (units && UNITS.test(out)) { hit = true; out = out.replace(UNITS, " "); }
+  UNITS.lastIndex = 0;
+  const cleaned = clean(out)
+    // Un coma entre dígitos es decimal ("0,2 mm"), no separador: si no, se parte en dos.
+    .replace(/(?<!\d)[,;·|/\-–—]+(?!\d)/g, " ")
+    .replace(/(?<!\d)[,;·|/\-–—]+\s*$/, " ")
     .replace(/\s+/g, " ")
     .replace(DANGLING, "")
     .replace(/^(?:[·,\s]|-)+/, "")
     .trim();
+  return { text: cleaned, hit };
 }
 
 /** ¿Queda algo legible? (para decidir si el nombre sirve o hay que inventarlo) */
@@ -52,8 +64,13 @@ function meaningful(text) {
 /** Título del modelo: sin prefijos de marketing ni ajustes. Conserva los tamaños del objeto. */
 export function cleanTitle(title) {
   let t = clean(title);
-  const stripped = stripJargon(t);
-  if (meaningful(stripped).length >= 3) t = stripped;
+  const first = stripJargon(t);
+  // Si no había jerga, el título no se toca: "S24+/S25" debe sobrevivir intacto.
+  if (first.hit) {
+    // Si la limpieza dejó una medida suelta ("2 mm"), fue a medias: hay que terminarla.
+    const stripped = BARE_UNIT.test(first.text) ? stripJargon(first.text, { units: true }).text : first.text;
+    if (meaningful(stripped).length >= 3) t = stripped;
+  }
   t = t.replace(/^\s*(?:serie|series|serie\s+de|modelo|model|new)\s+(?=\w)/i, "");
   t = t.replace(/\s*\(\s*\d+\s*\)\s*$/, "").replace(/\s*[-–]\s*\(\d+\)\s*$/, "");
   return t.replace(/\s{2,}/g, " ").trim() || clean(title);
@@ -61,7 +78,7 @@ export function cleanTitle(title) {
 
 /** Nombre corto tipo "funda-iphone" cuando el nombre del perfil no dice nada. */
 export function shortName(text, words = 2) {
-  const base = stripJargon(text, { units: true }).replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+  const base = stripJargon(text, { units: true }).text.replace(/[^\p{L}\p{N}]+/gu, " ").trim();
   if (!base) return "";
   const parts = base.split(/\s+/).filter((w) => w && !FILLER.test(w));
   return parts.slice(0, words).join("-").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();

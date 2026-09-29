@@ -1,0 +1,1380 @@
+{
+ "files": [
+  {
+   "path": "model/gato-primavera-6h.3mf.xz",
+   "instance_id": "467329",
+   "thumbnail": "previews/profiles/467329.jpg",
+   "print_time_h": 6,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 958,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "一盘四个猫咪",
+    "profile_notes": "切勿删除支撑屏蔽，否则支撑拆除不了",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21565,
+      "weight_g": 187.65,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 6654300,
+   "sha256": "25f7e060dffd345118a8d599fdea0363e9fcd60041643df452620211da59f8c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-10h36.3mf.xz",
+   "instance_id": "860690",
+   "thumbnail": "previews/profiles/860690.jpg",
+   "print_time_h": 10.6,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 37,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Brim, lower speed, 0.2mm layer, 3 walls, 30% infill",
+    "profile_notes": "I've had problem with normal profile, so I've added brim to avoid adhesion issues, increased bed temperature (72) for PLA, reduced speed for first layer and for “gap filling” and set random seam. This setup grants good results!",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8435,
+      "weight_g": 40,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10949,
+      "weight_g": 54.81,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9130,
+      "weight_g": 45.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9682,
+      "weight_g": 47.27,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Impresión en PLA",
+   "size": 6984428,
+   "sha256": "c2befd8cd91a8707c6dfab24fce264ab23e2db010ba0f703c2b6a230320d4abc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-11h42.3mf.xz",
+   "instance_id": "2378047",
+   "thumbnail": "previews/profiles/2378047.jpg",
+   "print_time_h": 11.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Black and white socks cat with face",
+    "profile_notes": "Added a face to squirrelywrath8's black and white socks model",
+    "creation_date": "2025-12-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2614800,
+   "sha256": "200e1b7980cc921466eaa3665f97b8602034737039296c38864257ea67a925fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-11h48.3mf.xz",
+   "instance_id": "1099495",
+   "thumbnail": "previews/profiles/1099495.jpg",
+   "print_time_h": 11.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "SILK PLA + CryoGrip Plate + Bed Adhesion 0.2mm layer 3 walls",
+    "profile_notes": "I used the Biqu CryGrip (but I think all the plates are fine with these additional brims) and added some bed adhesion brims and adjustable Layer heights because I had bed adhesion problems with the spring elements. Maybe you will find it useful as well.",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18270,
+      "weight_g": 100.69,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F95D73"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 24385,
+      "weight_g": 148.94,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F95D73"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 7743880,
+   "sha256": "af016c340d52d1f31f5b61526c80068e549bc9e3b745900a1dd48d8a5598061c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-1h18.3mf.xz",
+   "instance_id": "666812",
+   "thumbnail": "previews/profiles/666812.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 896,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "快速打印单个弹簧猫（趴趴猫）",
+    "creation_date": "2025-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4998,
+      "weight_g": 39.72,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2406552,
+   "sha256": "651e860c75edd8c5b787009c97b540919bf54e84af4ff4768e567e48e2b9a4a5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-1h24.3mf.xz",
+   "instance_id": "666825",
+   "thumbnail": "previews/profiles/666825.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "快速打印单个弹簧猫（侧躺猫）",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5110,
+      "weight_g": 45.66,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2725892,
+   "sha256": "928cbfa59b8e152b54eba752a7417451beb7a2759a8a4711c8718cc0efd239a7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-1h30.3mf.xz",
+   "instance_id": "666815",
+   "thumbnail": "previews/profiles/666815.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 70,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "快速打印单个弹簧猫（四脚朝天猫）",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5392,
+      "weight_g": 46.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2851072,
+   "sha256": "2256a8e08737e672abfd2586a484a46f04d17a2951f3226cb78685af5b7f750f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-2h.3mf.xz",
+   "instance_id": "666819",
+   "thumbnail": "previews/profiles/666819.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 319,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "快速打印单个弹簧猫（走路歪头猫）",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7278,
+      "weight_g": 56.28,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2504436,
+   "sha256": "b1934ea19eefebf95cd174e36cec94dbb0575a2e6b7c867e5d779af03ca93942",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-2h30.3mf.xz",
+   "instance_id": "1308854",
+   "thumbnail": "previews/profiles/1308854.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "不用AMS的黑白猫0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "不用AMS，通过两次暂停手动换料 先用黑色材料，第一次暂定手动换白色 第二次暂停，手动换黑色 来打印属于你自己的黑白弹簧猫吧",
+    "creation_date": "2025-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2568740,
+   "sha256": "85dc1f65b51c2c1c9d620e7ee689d5d3d1a8a5edbb9301e5635271b3f4ea72b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-30min.3mf.xz",
+   "instance_id": "2365710",
+   "thumbnail": "previews/profiles/2365710.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 22,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Quick Print only 6g & scaled to 30% - Brim added",
+    "profile_notes": "It is a scaled-down version that prints fast and consumes less filament. I had experimented before, and in the previous profile, a few people experienced adhesion issues. So I've fixed that with this new profile. 0.2mm layer 3 walls 30% infill",
+    "creation_date": "2025-12-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 2557508,
+   "sha256": "201822928444f32298b1f470c1304f5c8ab7187080532bd4ec8c3ed09e2c835e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-3h06.3mf.xz",
+   "instance_id": "1256358",
+   "thumbnail": "previews/profiles/1256358.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "增加黑白配色，换色次数3",
+    "creation_date": "2025-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11263,
+      "weight_g": 61.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2601324,
+   "sha256": "a155f9caa2c92a2f6f58c219ac2c6189f615c37c9f3455486f8cad8b9b3aa260",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-3h18.3mf.xz",
+   "instance_id": "1626444",
+   "thumbnail": "previews/profiles/1626444.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "免支撑，绒毛弹簧猫，必须上胶0.2mm layer, 3 walls, 30% infill",
+    "profile_notes": "必须上胶必须上胶必须上胶 免支撑，绒毛弹簧猫，必须上胶",
+    "creation_date": "2025-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2687880,
+   "sha256": "f6401294944eaf0ff04dec3c96cdaf88fbb739a219ada03d17d88413a11b810b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-5h48.3mf.xz",
+   "instance_id": "770976",
+   "thumbnail": "previews/profiles/770976.jpg",
+   "print_time_h": 5.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 220,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "85%缩小版，弹簧厚度不变，1小时快速打印",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3633,
+      "weight_g": 25.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17267,
+      "weight_g": 120.03,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 8135632,
+   "sha256": "dfbc47d1949ce13ba8ae16cf2135ad6b477e22301f9489671ccbba916710bb32",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-6h06.3mf.xz",
+   "instance_id": "1759902",
+   "thumbnail": "previews/profiles/1759902.jpg",
+   "print_time_h": 6.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 3 walls, 30% infill",
+    "profile_notes": "Und das ohne Kleber ,ohne Klebe",
+    "creation_date": "2025-08-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6758636,
+   "sha256": "65988bd520bd3da7ad3c5a5db39850b71257751fd41fed9ec9b693f86e9c23ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-7h.3mf.xz",
+   "instance_id": "682123",
+   "thumbnail": "previews/profiles/682123.jpg",
+   "print_time_h": 7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 41,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "A1mini专用",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25200,
+      "weight_g": 187.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 6698228,
+   "sha256": "ad2736f8e40f054fec10324ca63476e287c8f9c1f7e548341404ca5aebba9c95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-7h24.3mf.xz",
+   "instance_id": "2088711",
+   "thumbnail": "previews/profiles/2088711.jpg",
+   "print_time_h": 7.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "P2S",
+    "A1",
+    "P1S",
+    "X1",
+    "X1E",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Tabby cat for AMS X1C",
+    "creation_date": "2025-10-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2528512,
+   "sha256": "500c7b68c529014505306865c85ca18affe6730866677592174bcdc0b857e312",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-7h30.3mf.xz",
+   "instance_id": "471931",
+   "thumbnail": "previews/profiles/471931.jpg",
+   "print_time_h": 7.5,
+   "plates": 3,
+   "rating": 4.3,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 30% infill, A1 mini",
+    "profile_notes": "0.2mm layer, 3 walls, 30% infill, slowed down first layer speeds for better adhesion, A1 mini",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14196,
+      "weight_g": 95.38,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6587,
+      "weight_g": 47,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6083,
+      "weight_g": 45.69,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 7124084,
+   "sha256": "dd0bc267d70e8443afff0554e62fd1d4c67c86f6d089a886e6ab339a81b7f194",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-8h.3mf.xz",
+   "instance_id": "770601",
+   "thumbnail": "previews/profiles/770601.jpg",
+   "print_time_h": 8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 286,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "弹簧加厚15%，更结实易打印",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5030,
+      "weight_g": 41.04,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 23750,
+      "weight_g": 195.3,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 7705744,
+   "sha256": "343e9a4009fb6fa50818fb3d7b63fc5c1faef50b2a5be8cd15de06cdfc044ca3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-9h18.3mf.xz",
+   "instance_id": "794426",
+   "thumbnail": "previews/profiles/794426.jpg",
+   "print_time_h": 9.3,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 246,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "弹簧加厚15%，易打印版本(A1mini专用)",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6096,
+      "weight_g": 41.05,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 27314,
+      "weight_g": 195.44,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 7781200,
+   "sha256": "280a1acced42048dca2526a0ee20ce1e91711c340e262fc769ca4cd12063e622",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-9h24.3mf.xz",
+   "instance_id": "2229311",
+   "thumbnail": "previews/profiles/2229311.jpg",
+   "print_time_h": 9.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 3 walls, 15% infill",
+    "profile_notes": "Stylized to match a black and white socks cat",
+    "creation_date": "2025-12-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2574448,
+   "sha256": "e3b85b29194014f86883a9d935963ce8c37ca2c55dcb857247ed57984cbf2df4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gato-primavera-multicolor-6h06.3mf.xz",
+   "instance_id": "682112",
+   "thumbnail": "previews/profiles/682112.jpg",
+   "print_time_h": 6.1,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "双色打印拼色猫，A1mini也可打印",
+    "profile_notes": "需要ams，无ams可暂停换料",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22111,
+      "weight_g": 191.6,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8040"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6846892,
+   "sha256": "e1324ab55da08ea30d063ecf6ab0e7ea09b5f5108122787548fbd9d8b1c6bfa0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "549082",
+ "title": "gato de primavera",
+ "slug": "spring-cat",
+ "url": "https://makerworld.com/en/models/549082-spring-cat",
+ "author": "Queazy",
+ "category": "pets",
+ "source_category": "Impresora 3D > Accesorios para impresoras 3D",
+ "description": "ImpulsameImpulsame¡Aplica adhesivo generosamente! Fundamentalmente, evite reducir la escala de la impresión; ¡La integridad estructural del resorte se verá comprometida!\nAl imprimir, asegúrese de que los soportes internos del resorte estén enmascarados o utilice el archivo 3mf que le proporcioné.\nEn caso de problemas de adhesión de las capas, limpie minuciosamente la placa de construcción, aplique adhesivo, aumente el tamaño de la balsa y vuelva a imprimir.\nPara obtener una licencia comercial, visite Queazy Patreon",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "perro",
+  "juguete",
+  "mesa",
+  "edc",
+  "mascotas",
+  "articulado",
+  "bambu"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-07-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb94ab2ddf7a199/design/2024-07-20_674e7202b7d31.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   561
+  ],
+  "previews/02.jpg": [
+   1000,
+   561
+  ],
+  "previews/03.jpg": [
+   1000,
+   561
+  ],
+  "previews/profiles/467329.jpg": [
+   426,
+   240
+  ],
+  "previews/profiles/860690.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2378047.jpg": [
+   600,
+   665
+  ],
+  "previews/profiles/1099495.jpg": [
+   600,
+   423
+  ],
+  "previews/profiles/666812.jpg": [
+   540,
+   540
+  ],
+  "previews/profiles/666825.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/666815.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/666819.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1308854.jpg": [
+   600,
+   632
+  ],
+  "previews/profiles/2365710.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1256358.jpg": [
+   600,
+   632
+  ],
+  "previews/profiles/1626444.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/770976.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1759902.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/682123.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2088711.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/471931.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/770601.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/794426.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2229311.jpg": [
+   600,
+   732
+  ],
+  "previews/profiles/682112.jpg": [
+   600,
+   337
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

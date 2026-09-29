@@ -1,0 +1,311 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-mando-16h18.3mf.xz",
+   "instance_id": "3518558",
+   "thumbnail": "previews/profiles/3518558.jpg",
+   "print_time_h": 16.3,
+   "plates": 12,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "A2L",
+    "H2S",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Versão melhorada - 0.2mm nozzle, 0.08mm layer, 15% infill",
+    "profile_notes": "Suporte para Controle GTA VI – Versão Melhorada Esta é uma versão aprimorada do suporte para controle GTA VI , com melhorias nos encaixes, sistema de roscas e montagem das peças, proporcionando maior firmeza e um acabamento mais preciso. Encaixes aprimorados: diversos encaixes foram redesenhados e ajustados para melhorar o alinhamento e facilitar a montagem das peças. Logo Grand Theft Auto: a placa com o logo Grand Theft Auto é colada sobre a peça VI . Palmeiras: as palmeiras que compõem o logo são coladas na peça VI , permitindo posicioná-las corretamente durante a montagem. Vice City: a peça com a inscrição Vice City também é colada ao conjunto do VI . Logo VI: o conjunto do VI é encaixado na base do suporte. O encaixe foi projetado para ficar firme e bem alinhado. Pilastras amarelas: possuem roscas nas extremidades e são rosqueadas diretamente na base e na parte superior, proporcionando maior estabilidade à estrutura. Suporte para fone: utiliza parafuso para fixação , oferecendo maior sustentação e resistência para o headset. Uso de cola: embora várias peças tenham sido projetadas com encaixes justos , a cola ainda é necessária para a montagem completa do modelo , principalmente para os elementos decorativos do logo. Sugestão de cola: recomendo utilizar uma cola própria para plástico/PLA ou cianoacrilato (Super Glue) . ⚠️ Use apenas uma pequena quantidade. O excesso pode escorrer pelas bordas, manchar a superfície e prejudicar o acabamento. Uma pequena gota normalmente é suficiente para as peças menores. 🎮 O projeto combina encaixes, roscas, parafusos e peças coladas , deixando a montagem mais resistente e mantendo o visual limpo do suporte.",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 3645284,
+   "sha256": "9e828a2443777889a36cb993edf4699fbc3c02ba2c5170f5abfdc25218b04418",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/improved-version-0-2mm-nozzle-0-08mm-layer-15-infi-3518558.3mf.xz",
+   "size": 3645284,
+   "sha256": "9e828a2443777889a36cb993edf4699fbc3c02ba2c5170f5abfdc25218b04418",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Versão melhorada - 0.2mm nozzle, 0.08mm layer, 15% infill",
+    "profile_notes": "Suporte para Controle GTA VI – Versão Melhorada Esta é uma versão aprimorada do suporte para controle GTA VI , com melhorias nos encaixes, sistema de roscas e montagem das peças, proporcionando maior firmeza e um acabamento mais preciso. Encaixes aprimorados: diversos encaixes foram redesenhados e ajustados para melhorar o alinhamento e facilitar a montagem das peças. Logo Grand Theft Auto: a placa com o logo Grand Theft Auto é colada sobre a peça VI . Palmeiras: as palmeiras que compõem o logo são coladas na peça VI , permitindo posicioná-las corretamente durante a montagem. Vice City: a peça com a inscrição Vice City também é colada ao conjunto do VI . Logo VI: o conjunto do VI é encaixado na base do suporte. O encaixe foi projetado para ficar firme e bem alinhado. Pilastras amarelas: possuem roscas nas extremidades e são rosqueadas diretamente na base e na parte superior, proporcionando maior estabilidade à estrutura. Suporte para fone: utiliza parafuso para fixação , oferecendo maior sustentação e resistência para o headset. Uso de cola: embora várias peças tenham sido projetadas com encaixes justos , a cola ainda é necessária para a montagem completa do modelo , principalmente para os elementos decorativos do logo. Sugestão de cola: recomendo utilizar uma cola própria para plástico/PLA ou cianoacrilato (Super Glue) . ⚠️ Use apenas uma pequena quantidade. O excesso pode escorrer pelas bordas, manchar a superfície e prejudicar o acabamento. Uma pequena gota normalmente é suficiente para as peças menores. 🎮 O projeto combina encaixes, roscas, parafusos e peças coladas , deixando a montagem mais resistente e mantendo o visual limpo do suporte.",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "thumbnail": "previews/01.jpg"
+  },
+  {
+   "path": "model/soporte-mando-12min.3mf.xz",
+   "instance_id": "3729447",
+   "thumbnail": "previews/profiles/3729447.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1",
+    "X2D",
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "Missing Join part",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 699144,
+   "sha256": "aabacd79452b3998c43a7504397e8aff97dc6aacc0415843aafe3cfcb30d315f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-mando-20h18.3mf.xz",
+   "instance_id": "3744361",
+   "thumbnail": "previews/profiles/3744361.jpg",
+   "print_time_h": 20.3,
+   "plates": 11,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "X1E",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.03.66",
+    "profile_title": "Versão anterior - 0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Projeto onde as partes são coladas.",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "name": "Versión estándar",
+   "size": 4921836,
+   "sha256": "71de7bb542e92971d042084d24c346efa83bcd5118b5166aa0f7311aed39f369",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-mando-26h48.3mf.xz",
+   "instance_id": "3756387",
+   "thumbnail": "previews/profiles/3756387.jpg",
+   "print_time_h": 26.8,
+   "plates": 14,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "SUPORTE CONTROLE DUPLO OTIMIZADO",
+    "profile_notes": "Versão Melhorada - Suporte para Controle GTA VI Esta é uma versão aprimorada do suporte para controle GTA VI , com melhorias nos encaixes, sistema de roscas e montagem das peças, proporcionando maior firmeza e um acabamento mais preciso. Encaixes aprimorados: diversos encaixes foram redesenhados e ajustados para melhorar o alinhamento e facilitar a montagem das peças. Palmeiras: as palmeiras que compõem o logo são coladas na peça VI , permitindo posicioná-las corretamente durante a montagem. Logo Grand Theft Auto: a placa com o logo Grand Theft Auto é colada sobre a peça VI . Vice City: a peça com a inscrição Vice City também é colada á base do conjunto do VI . Logo VI: o conjunto do VI é encaixado na base do suporte. O encaixe foi projetado para ficar firme e bem alinhado. Pilastras amarelas: possuem roscas nas extremidades e são rosqueadas diretamente na base e na parte superior, proporcionando maior estabilidade à estrutura. Suporte para fone: utiliza parafuso para fixação , oferecendo maior sustentação e resistência para o headset. Uso de cola: embora várias peças tenham sido projetadas com encaixes justos , a cola ainda é necessária para a montagem completa do modelo , principalmente para os elementos decorativos do logo. Sugestão de cola: recomendo utilizar uma cola própria para plástico/PLA ou cianoacrilato (Super Glue) . ⚠️ Use apenas uma pequena quantidade. O excesso pode escorrer pelas bordas, manchar a superfície e prejudicar o acabamento. Uma pequena gota normalmente é suficiente para as peças menores. 🔗 Glue: Amazon – Glue 🎮 O projeto combina encaixes, roscas, parafusos e peças coladas , deixando a montagem mais resistente e mantendo o visual limpo do suporte.",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 14
+   },
+   "name": "Versión estándar",
+   "size": 3899532,
+   "sha256": "457f702d647c978ebaba8641c9162659dd7e07eadb16835c478b966637454979",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-mando-42min.3mf.xz",
+   "instance_id": "3729387",
+   "thumbnail": "previews/profiles/3729387.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "P1P",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "A2L",
+    "A1",
+    "H2D Pro",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "Logo R",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 940772,
+   "sha256": "1128bedbc34fcc6dfa4b9425fd8181efc5c18c8f2dd1ad875d47f9b711ee16d0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/versao-anterior-0-2mm-layer-2-walls-10-infill-3744361.3mf.xz",
+   "size": 4921836,
+   "sha256": "71de7bb542e92971d042084d24c346efa83bcd5118b5166aa0f7311aed39f369",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.08.03.66",
+    "profile_title": "Versão anterior - 0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Projeto onde as partes são coladas.",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "thumbnail": "previews/01.jpg"
+  }
+ ],
+ "id": "3119259",
+ "title": "Soporte para mando GTA VI para PS5 / Xbox",
+ "slug": "gta-vi-controller-holder-for-ps5-xbox",
+ "url": "https://makerworld.com/en/models/3119259-gta-vi-controller-holder-for-ps5-xbox",
+ "author": "clube",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Impulsame! ¡Impulsame! Si te gustó el proyecto, considera dejar un Boost. ¡Esto ayuda mucho y fomenta la creación de nuevos modelos y mejoras! Soporte para el controlador GTA VI – Versión mejorada\nEsta es una versión mejorada del soporte del controlador GTA VI, con mejoras en los accesorios, sistema de roscado y ensamblaje de piezas, brindando mayor estabilidad y un acabado más preciso.\nAccesorios mejorados: se han rediseñado y ajustado múltiples accesorios para mejorar la alineación y facilitar el ensamblaje de las piezas.\nLogotipo de Grand Theft Auto: la placa con el logotipo de Grand Theft Auto está pegada a la pieza VI.\nPalmeras: las palmeras que componen el logo van pegadas a la pieza VI, permitiendo posicionarlas correctamente durante el montaje.\nVice City: la pieza con la inscripción Vice City también está pegada al conjunto VI.\nLogotipo VI: el conjunto VI encaja en la base del soporte. El accesorio está diseñado para ser firme y bien alineado.\nPilastras amarillas: tienen roscas en sus extremos y se atornillan directamente a la base y a la parte superior, aportando mayor estabilidad estructural.\nSoporte para auriculares: utiliza un tornillo para su fijación, ofreciendo mayor soporte y durabilidad para los auriculares.\nUso de pegamento: aunque varias piezas fueron diseñadas con ajustes ajustados, aún se requiere pegamento para el ensamblaje completo del modelo, especialmente para los elementos decorativos del logo.\nRecomendación de pegamento: Recomiendo usar un pegamento especial para plástico/PLA o cianoacrilato (Super Glue). Utilice sólo una pequeña cantidad. El exceso de pegamento puede correr por los bordes, manchar la superficie y dañar el acabado. Una pequeña gota suele ser suficiente para las piezas más pequeñas.\nEste proyecto combina herrajes, roscas, tornillos y piezas pegadas, haciendo el conjunto más robusto manteniendo el aspecto limpio del stand.\n¡Impulsame! Si te gustó el proyecto, considera dejar un Boost. ¡Esto ayuda mucho y fomenta la creación de nuevos modelos y mejoras!\n\nPegamento:\nAmazonas – Pegamento",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "obtuve",
+  "titular del controlador",
+  "titular",
+  "ps5",
+  "xbox",
+  "gta6"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf37540728ae877/design/06f34f4b105f85de.jpeg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   834,
+   1097
+  ],
+  "previews/03.png": [
+   815,
+   1053
+  ],
+  "previews/profiles/3518558.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3729447.jpg": [
+   600,
+   689
+  ],
+  "previews/profiles/3744361.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3756387.jpg": [
+   600,
+   675
+  ],
+  "previews/profiles/3729387.jpg": [
+   600,
+   1053
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

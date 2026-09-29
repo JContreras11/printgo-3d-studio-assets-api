@@ -1,0 +1,136 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-mando-3h24.3mf.xz",
+   "instance_id": "3774702",
+   "thumbnail": "previews/profiles/3774702.jpg",
+   "print_time_h": 3.4,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "XBOX",
+    "profile_notes": "Parametri di Stampa: Riempimento 5% Trama Giroide Brim esterno 2 Pareti No AMS",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 13454496,
+   "sha256": "01e8a9941d51632cb229aa8a23d2181952b090ceaee27fd4b34a69bd6f2a090a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3068567",
+ "title": "Soporte para mando PS5/Xbox GTA VI",
+ "slug": "ps5-xbox-gta-vi-controller-holder-no-ams",
+ "url": "https://makerworld.com/en/models/3068567-ps5-xbox-gta-vi-controller-holder-no-ams",
+ "author": "MarkArt3D",
+ "category": "gta-vi",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Boost MeDeja un impulso para apoyar nuestro trabajo Soporte para controlador PS5/Xbox inspirado en GTA VI\n¡Añade un toque elegante a tu configuración de juego con este soporte para mando de PS5 inspirado en la atmósfera de GTA VI!\nEl diseño evoca escenarios tropicales icónicos, con dos palmeras a los lados y una base con textura de ladrillo, creando un original soporte decorativo para tu controlador DualSense.\n\nSIN remezcla, SIN VENTA; Sólo uso privado\n\nNUEVA VERSIÓN DEL SOPORTE DEL MANDO PS5 2X:\n\nCaracterísticas (SOLO TIEMPO DE IMPRESIÓN 3H) 95g\nCompatible con controladores PS5 DualSense y Xbox.\nDiseño inspirado en la estética de GTA VI.\nBase con textura de ladrillo.\nFácil de imprimir.\nPerfecto para impresión multicolor sin AMS.\nIdeal para decorar tu configuración de juego o como idea de regalo para los fanáticos de los videojuegos.\nSi te gusta este modelo, deja una calificación y un Boost: ¡tu apoyo me ayuda a crear nuevos proyectos!\n¡Feliz impresión!\n\nMira también la versión de Spider-Man:\n\nADVERTENCIA: Producto no oficial creado como Fan Art",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta vi",
+  "gta 6",
+  "grand theft auto",
+  "gta6",
+  "controlador",
+  "titular del controlador",
+  "puerto del controlador",
+  "ps5",
+  "juego",
+  "juego de azar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbe84e2436bff9d/design/0e66a21c2f56532f.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   978,
+   1449
+  ],
+  "previews/05.png": [
+   1000,
+   1191
+  ],
+  "previews/06.png": [
+   1000,
+   1273
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3774702.jpg": [
+   600,
+   888
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/linda-figura.3mf.xz",
+   "instance_id": "2291369",
+   "thumbnail": "previews/profiles/2291369.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 90,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-12-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8337296,
+   "sha256": "c28aa7c3172052dacf24ea926a219a111e196aa266976037e6dd42428b315238",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1632214",
+ "title": "Linda figura de gato Chibi Kawaii",
+ "slug": "cute-chibi-kawaii-cat-figurine",
+ "url": "https://makerworld.com/en/models/1632214-cute-chibi-kawaii-cat-figurine",
+ "author": "MonsieurPierre",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Una adorable figura de gato estilo chibi diseñada para impresión 3D. Imprimí este modelo en PLA blanco sin AMS. Después de imprimir, pinté los detalles a mano con pinturas acrílicas.",
+ "use_cases": [],
+ "tags": [
+  "gato chibi",
+  "kawaii",
+  "gato kawaii",
+  "chibi",
+  "lindo",
+  "lindo gato",
+  "bote",
+  "decoración de escritorio",
+  "mascota",
+  "mascota de escritorio",
+  "amantes de los gatos",
+  "amante de los gatos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd27d295167c1da/design/2025-07-23_5d4511eb5ffbd8.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/2291369.jpg": [
+   600,
+   400
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

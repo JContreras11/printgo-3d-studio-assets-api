@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-gta.3mf.xz",
+   "instance_id": "3802010",
+   "thumbnail": "previews/profiles/3802010.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1145768,
+   "sha256": "4399ac6a42adcd2d37412fdf70d97f01aabbe92c57020d726386d76df55333c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3345918",
+ "title": "Llavero GTA 6",
+ "slug": "gta-6-keychain",
+ "url": "https://makerworld.com/en/models/3345918-gta-6-keychain",
+ "author": "generaltube3d",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Llavero 3D de GTA VI – Icónico\n\n¡Lleva siempre contigo el entusiasmo por el videojuego más esperado de todos los tiempos! Este llavero impreso en 3D reproduce el logotipo oficial de Grand Theft Auto VI, completo con el monumental número romano \"VI\" con el característico gráfico de palmera azul degradado y texto en relieve.\nCaracterísticas del producto:\nDiseño Tridimensional: Logotipo con letras en relieve y detalles precisos que brindan un efecto visual y táctil único.\nAcabado multicolor: Detalles nítidos con contraste entre el fondo oscuro, el texto blanco y el acabado azul con patrón de palmeras.\n\n¡Perfecto como regalo para jugadores, coleccionistas y fanáticos de la serie Rockstar Games!\n\nADVERTENCIA: PRODUCTO NO DESTINADO A LA VENTA\nEste modelo/archivo está disponible exclusivamente para descarga y uso personal.\nEstá estrictamente prohibida la venta, reventa o distribución con fines de lucro tanto del archivo digital como del artículo impreso físico. Cualquier violación de los derechos de autor y de propiedad intelectual será denunciada inmediatamente a las autoridades pertinentes y procesada de conformidad con la ley.\n\nImpúlsameSi quieres ayudarme a seguir creando cosas nuevas déjame un impulso. ¡Un pequeño gesto para ti pero grande para mí!",
+ "use_cases": [],
+ "tags": [
+  "llavero",
+  "gta",
+  "6",
+  "auto",
+  "juego de azar",
+  "ps5",
+  "regalo",
+  "estrella de rock"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d9be22b3b8766/design/967b2f59cdb13efb.jpg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3802010.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

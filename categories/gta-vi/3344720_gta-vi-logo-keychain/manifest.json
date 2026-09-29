@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-logotipo.3mf.xz",
+   "instance_id": "3800543",
+   "thumbnail": "previews/profiles/3800543.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.08mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 11409120,
+   "sha256": "d48b3354ddaeab4b614b3d8ebe17245ba54e669bbc0a66f963c01aaf8a478b00",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3344720",
+ "title": "Llavero con logotipo de GTA VI",
+ "slug": "gta-vi-logo-keychain",
+ "url": "https://makerworld.com/en/models/3344720-gta-vi-logo-keychain",
+ "author": "user_1873707283",
+ "category": "gta-vi",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "### Llavero/Llavero con el logotipo de GTA VI\n¡Demuestra tu entusiasmo por Vice City con este elegante llavero con el logo de GTA VI! Diseñado con letras nítidas en relieve y bordes de neón vibrantes, este modelo multicolor incluye un orificio de montaje limpio para accesorios de llavero estándar.\n---\n### Configuración y recomendaciones de impresión\n* **Soportes:** NINGUNO requerido (diseñado para imprimir de forma plana en la placa de construcción).\n* **AMS/Multicolor:** Listo para Bambu AMS o simples intercambios manuales de filamentos de altura de capa (negro, cian, rosa, blanco).\n* **Altura de capa:** 0,16 mm – 0,08 mm (establezca la altura de la capa de la superficie superior en 0,12 mm para obtener un texto suave).\n* **Relleno:** 15% recomendado para máxima resistencia y durabilidad en llaveros.\n* **Paredes:** 3 a 4 bucles de pared.\n* **Material:** PLA o PETG (la placa PEI texturizada proporciona un bonito acabado trasero).\n---\n### Características\n* **No se necesitan soportes:** Imprime de forma plana, rápida y fácil de sacar de la cama.\n* **Diseño duradero:** El bucle incorporado sujeta los llaveros de metal de forma segura.\n* **Preparado para varios colores:** Alturas de capa claramente separadas para cortar sin problemas.\n*Si te gusta este modelo, ¡deja una calificación de estrellas y comparte tus fotos de llavero! ¡Feliz impresión! *",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "gta vi",
+  "llavero",
+  "grand theft auto",
+  "vice city",
+  "jugador",
+  "juego de azar",
+  "accesorios",
+  "sin soportes"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US125e8bb08540e3/design/6263e38299a0409d.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   651
+  ],
+  "previews/02.png": [
+   1000,
+   697
+  ],
+  "previews/03.png": [
+   780,
+   710
+  ],
+  "previews/profiles/3800543.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

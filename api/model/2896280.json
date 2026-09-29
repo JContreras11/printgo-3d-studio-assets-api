@@ -1,0 +1,84 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6.3mf.xz",
+   "instance_id": "3236927",
+   "thumbnail": "previews/profiles/3236927.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2C",
+    "X1",
+    "P2S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "X2D",
+    "P1P",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 20128040,
+   "sha256": "80abb17540c4d8ee4491534919da8e08d2506f635b3075ef039f45a7211e866d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2896280",
+ "title": "GTA 6",
+ "slug": "gta-6",
+ "url": "https://makerworld.com/en/models/2896280-gta-6",
+ "author": "UweTestet",
+ "category": "gta-vi",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Cooles Meshi\nDesarrollado por MakerWorld-Image-to-3D (",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "gta",
+  "grand theft auto",
+  "65",
+  "juegos",
+  "juego de azar",
+  "xbox",
+  "ps5"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdff5920ed2d75f/design/3a177a86c7da6e08.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3236927.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

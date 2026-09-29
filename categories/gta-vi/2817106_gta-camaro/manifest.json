@@ -1,0 +1,84 @@
+{
+ "files": [
+  {
+   "path": "model/camaro-gta.3mf.xz",
+   "instance_id": "3136512",
+   "thumbnail": "previews/profiles/3136512.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "A1",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6265028,
+   "sha256": "ff02a3c51d797d058c499ed3df2f893da56259cc6ca23ea0fee51cc398bc894d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2817106",
+ "title": "CAMARO GTA",
+ "slug": "gta-camaro",
+ "url": "https://makerworld.com/en/models/2817106-gta-camaro",
+ "author": "Contorni",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Vehículos",
+ "description": "ImpulsameGRACIAS POR TU AYUDA",
+ "use_cases": [],
+ "tags": [
+  "camaro",
+  "gta",
+  "estrella de rock",
+  "gta 6",
+  "gta 5",
+  "playstation",
+  "xbox",
+  "vapor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc47cca6b5da16e/design/5df6af24b6a58cc0.jpg",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   774
+  ],
+  "previews/profiles/3136512.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

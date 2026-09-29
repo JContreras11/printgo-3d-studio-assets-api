@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/halloween-jack.3mf.xz",
+   "instance_id": "3800798",
+   "thumbnail": "previews/profiles/3800798.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.20mm PLA | No AMS | No Glue | Press-Fit",
+    "profile_notes": "Simple PLA profile with all colors printed as separate parts — no AMS required. 0.20 mm layer height PLA No glue required for assembly Face pieces are press-fit Stem screws into the pumpkin body Print parts in separate colors and assemble after printing This model was designed and tested in PLA. Other materials may have different shrinkage characteristics and can affect the press-fit tolerances. Scaling is supported, but significant size changes can also change the fit between parts.",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1630972,
+   "sha256": "52cade4bd0a187fcb841b67421d9a21bb1a2697445626fa834d38e5893d96847",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3344943",
+ "title": "Halloween Jack O'Lantern Pumpkin No Glue",
+ "slug": "halloween-jack-o-lantern-pumpkin-no-glue-no-ams",
+ "url": "https://makerworld.com/en/models/3344943-halloween-jack-o-lantern-pumpkin-no-glue-no-ams",
+ "author": "Coast2Hills_JF",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Jack O'Lantern: sin pegamento, sin AMS\nUna sencilla decoración de Halloween diseñada para ser fácil de imprimir, fácil de montar y perfecta para un escritorio de oficina, un estante, un aula o una exhibición de Halloween.\nLa calabaza se imprime como partes separadas, por lo que no se requiere AMS ni ningún sistema multicolor. Las piezas de la cara negra presionan directamente en el cuerpo de la calabaza y el tallo se atornilla en la parte superior.\nSin pegamento. Sin AMS. Simplemente imprima, ensamble y exhiba.\nCaracterísticas\nNo se requiere AMS: cada color se imprime como una parte separada\nNo se requiere pegamento\nOjos y boca ajustados a presión.\nVástago atornillado\nConstrucción sencilla de varias partes\nIdeal para escritorios de oficina, estantes, aulas y exhibiciones de Halloween.\nSe puede ampliar o reducir\nFácil de imprimir en diferentes combinaciones de colores.\nImpresión\nMis impresiones se realizaron en PLA, que es en torno al cual se diseñó y probó la geometría de ajuste a presión.\nCiertamente se pueden usar otros materiales, pero tenga en cuenta que diferentes materiales pueden encogerse de manera diferente y pueden cambiar las tolerancias de ajuste a presión.\nLo mismo se aplica al escalar el modelo:\nReducir la escala puede hacer que las funciones de ajuste a presión sean más estrictas.\nAmpliarlas puede hacerlas un poco más flexibles.\nEl escalado moderado generalmente debería ser sencillo, pero los cambios más importantes pueden requerir un ajuste de tolerancia.\nAsamblea\nImprime el cuerpo de la calabaza.\nImprime los dos ojos y la boca en tu color contrastante preferido.\nPresione las piezas de la cara en sus huecos correspondientes.\nAtornille el vástago en la abertura roscada en la parte superior.\nNo se requiere adhesivo ni hardware.\n\nPero la construcción de piezas separadas facilita experimentar con otros colores de Halloween:\nCalabaza negra / cara naranja\nCalabaza fantasma blanca / cara negra\nMorado/verde\nCuerpo que brilla en la oscuridad\nTallo metálico o de seda.\nDiferentes tonos de naranja para una colección de calabazas\nImprima varios en diferentes tamaños para una simple exhibición de escritorio o estantería de Halloween.\nFeliz Halloween.",
+ "use_cases": [],
+ "tags": [
+  "jack o lantern",
+  "jack o y#39; lantern",
+  "víspera de todos los santos",
+  "calabaza",
+  "calabaza 2026",
+  "decoración de halloween",
+  "decoración de escritorio",
+  "sin ams",
+  "no ams",
+  "sin pegamento",
+  "decoración de otoño"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US11e49edb18d0a0/design/68bd1b434de3180a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3800798.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

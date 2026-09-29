@@ -1,0 +1,117 @@
+{
+ "files": [
+  {
+   "path": "model/disfraz-libro.3mf.xz",
+   "instance_id": "3492965",
+   "thumbnail": "previews/profiles/3492965.jpg",
+   "print_time_h": 50.8,
+   "plates": 16,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "H2C",
+    "X1",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "P2S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Add ironing to top Surfaces on all book covers with titles on them.",
+    "creation_date": "2026-07-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 16
+   },
+   "name": "Versión estándar",
+   "size": 40041684,
+   "sha256": "946dcca7125e566fc50aff6ce49885ef27ccccd776cf427b3f1390eb43ebbe93",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3099039",
+ "title": "DISFRAZ DEL LIBRO Xbox SERIS X",
+ "slug": "xbox-seris-x-book-disguise",
+ "url": "https://makerworld.com/en/models/3099039-xbox-seris-x-book-disguise",
+ "author": "Schifferkid",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Algo divertido que hice para mi Xbox Series X. Definitivamente puede ser mejor, animo a todos a que realicen sus propias actualizaciones y modificaciones. Me encantaría ver a alguien hacer los libros más intercambiables que yo, tal vez un poco más fáciles de imprimir. Solía ​​​​apoyar todos los libros principales, para las costuras el único cambio que hice fue planchar las superficies superiores de todas las costuras con los títulos. Cada plancha tarda entre 3 y 4 horas en imprimirse.\n\nUna vez ensamblados en libros, se unen en orden de izquierda a derecha. Como se muestra en las fotos.",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "ocultar",
+  "libro",
+  "juego de azar",
+  "xbox series x",
+  "cubrir",
+  "piel",
+  "piel de xbox",
+  "cubierta de xbox",
+  "gta 6",
+  "gta",
+  "pokemon"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf46e6994ec515a/design/0b4f97e00eb70501.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3492965.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

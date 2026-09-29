@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/gta-v.3mf.xz",
+   "instance_id": "2773391",
+   "thumbnail": "previews/profiles/2773391.jpg",
+   "print_time_h": 10.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "P1S",
+    "A1",
+    "X1E",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Set",
+    "profile_notes": "0.2mm layer, 2 walls, 9% infill",
+    "creation_date": "2026-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "9%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 24240932,
+   "sha256": "954f5ade8e58f3f1774b764fb8a9133dfd645f495c06e6b0b229b1d100decc5b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2520988",
+ "title": "GTA V - Chibis",
+ "slug": "gta-v-chibis",
+ "url": "https://makerworld.com/en/models/2520988-gta-v-chibis",
+ "author": "PrintsForYou3D",
+ "category": "console10",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "GTA V - Chibis\n\nCuidado al retirar los soportes\nLas figuras están pensadas para pegar en la base.\n\nMás Chibi:\nConjunto básico:\n\nImpulsar la membresía",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta v",
+  "miguel",
+  "trevor",
+  "franklin",
+  "juego",
+  "juego de azar",
+  "estrella de rock",
+  "ps5",
+  "ps4",
+  "ps3"
+ ],
+ "license": "BY-NC",
+ "release_date": "2026-03-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US45ea95c5e8a853/design/b5fa1d65c5fc5471.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   729
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   864,
+   1184
+  ],
+  "previews/05.png": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2773391.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

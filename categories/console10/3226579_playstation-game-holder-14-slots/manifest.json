@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-juegos.3mf.xz",
+   "instance_id": "3654087",
+   "thumbnail": "previews/profiles/3654087.jpg",
+   "print_time_h": 8.7,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "P1P",
+    "P2S",
+    "A1",
+    "X2D",
+    "H2C",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2211956,
+   "sha256": "3623f7ce91dc19e4f251d7e94da6df7c966f9abb3893acb79143efd6a410d05b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3226579",
+ "title": "Soporte para juegos de PlayStation. 14 ranuras",
+ "slug": "playstation-game-holder-14-slots",
+ "url": "https://makerworld.com/en/models/3226579-playstation-game-holder-14-slots",
+ "author": "madis.ivask",
+ "category": "console10",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Boost MeThank you. Portajuegos temáticos de PlayStation para 14 juegos. Se recomienda dejar una gota de pegamento entre la parte superior y la parte inferior.\n\nSi desea vender mis modelos, considere la suscripción a Patreon.: Membresía de Madis Ivask Patreon",
+ "use_cases": [],
+ "tags": [
+  "playstation",
+  "estación de juego",
+  "pd",
+  "ps5",
+  "ps4",
+  "ps3",
+  "playstation 5",
+  "juego de azar",
+  "organizador",
+  "ordenador personal",
+  "xbox",
+  "puesto de juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USccee86bf8c4b09/design/972f916f3950163f.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   456
+  ],
+  "previews/02.jpg": [
+   1000,
+   456
+  ],
+  "previews/profiles/3654087.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

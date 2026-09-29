@@ -1,0 +1,112 @@
+{
+ "files": [
+  {
+   "path": "model/cenicero-logotipo.3mf.xz",
+   "instance_id": "3285058",
+   "thumbnail": "previews/profiles/3285058.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "P1P",
+    "X1",
+    "X2D",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-05-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1005832,
+   "sha256": "4155ae8ba632e76691741763b8e90bd00b9de6a751d7bfc55f24d3e09deeb13f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2934077",
+ "title": "Cenicero con el logotipo de GTA Grand Theft Auto",
+ "slug": "gta-grand-theft-auto-logo-ashtray",
+ "url": "https://makerworld.com/en/models/2934077-gta-grand-theft-auto-logo-ashtray",
+ "author": "Drowny_Prints",
+ "category": "console10",
+ "source_category": "Hogar > Decoración",
+ "description": "Cenicero con el logotipo de GTA Grand Theft Auto",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "grand theft auto",
+  "juego de azar",
+  "jugador",
+  "playstation",
+  "ps5",
+  "ps4",
+  "gta5"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf759972564263/design/8e72c04cc97d44b8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3285058.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

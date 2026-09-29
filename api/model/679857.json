@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-16mm-layer-2-walls-7-infill-2098252.3mf.xz",
+   "path": "model/conceptos-calabaza-1.3mf.xz",
    "instance_id": "2098252",
-   "name": "Capa de 0,16 mm, 2 paredes, 7% de relleno",
+   "name": "conceptos-calabaza-1",
    "thumbnail": "previews/profiles/2098252.jpg",
    "print_time_h": 2.4,
    "plates": 1,
@@ -45,9 +45,75 @@
    }
   },
   {
-   "path": "model/0-6mm-nozzle-0-3mm-layer-4-walls-25-infill-618442.3mf.xz",
+   "path": "model/conceptos-calabaza-10.3mf.xz",
+   "instance_id": "609569",
+   "name": "conceptos-calabaza-10",
+   "thumbnail": "previews/profiles/609569.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 100,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 3430488,
+   "sha256": "35df364c7c2ef48409bc6eb17adc86eab498bd16759acd032351d59d974d7238",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "Pumpkins B - Designer recommended settings",
+    "creation_date": "2024-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12199,
+      "weight_g": 57.75,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       },
+       {
+        "type": "PLA",
+        "color": "#76A55A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/conceptos-calabaza-2.3mf.xz",
    "instance_id": "618442",
-   "name": "Boquilla de 0,6 mm, capa de 0,3 mm, 4 paredes, 25 % de relleno",
+   "name": "conceptos-calabaza-2",
    "thumbnail": "previews/profiles/618442.jpg",
    "print_time_h": 2.2,
    "plates": 1,
@@ -108,9 +174,9 @@
    }
   },
   {
-   "path": "model/10-different-pumpkins-622055.3mf.xz",
+   "path": "model/conceptos-calabaza-3.3mf.xz",
    "instance_id": "622055",
-   "name": "10 calabazas diferentes",
+   "name": "conceptos-calabaza-3",
    "thumbnail": "previews/profiles/622055.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -166,9 +232,9 @@
    }
   },
   {
-   "path": "model/10-different-pumpkins-and-3-stacked-no-ams-2060793.3mf.xz",
+   "path": "model/conceptos-calabaza-4.3mf.xz",
    "instance_id": "2060793",
-   "name": "10 calabazas diferentes y 3 apiladas sin AMS",
+   "name": "conceptos-calabaza-4",
    "thumbnail": "previews/profiles/2060793.jpg",
    "print_time_h": 5.5,
    "plates": 1,
@@ -210,9 +276,9 @@
    }
   },
   {
-   "path": "model/10-different-pumpkins-colored-4-nozzle-1869298.3mf.xz",
+   "path": "model/conceptos-calabaza-5.3mf.xz",
    "instance_id": "1869298",
-   "name": "10 Calabazas Diferentes - De Colores -.4 Boquilla",
+   "name": "conceptos-calabaza-5",
    "thumbnail": "previews/profiles/1869298.jpg",
    "print_time_h": 37.8,
    "plates": 11,
@@ -253,9 +319,9 @@
    }
   },
   {
-   "path": "model/all-pumpkins-monocolor-no-ams-609976.3mf.xz",
+   "path": "model/conceptos-calabaza-6.3mf.xz",
    "instance_id": "609976",
-   "name": "Todas las Calabazas Monocolor - NO AMS",
+   "name": "conceptos-calabaza-6",
    "thumbnail": "previews/profiles/609976.jpg",
    "print_time_h": 1.2,
    "plates": 1,
@@ -312,9 +378,9 @@
    }
   },
   {
-   "path": "model/happy-and-angry-1-color-0-24mm-layer-2-walls-8-inf-619025.3mf.xz",
+   "path": "model/conceptos-calabaza-7.3mf.xz",
    "instance_id": "619025",
-   "name": "feliz y enojado 1 color - capa de 0,24 mm, 2 paredes, 8% de relleno",
+   "name": "conceptos-calabaza-7",
    "thumbnail": "previews/profiles/619025.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -370,9 +436,9 @@
    }
   },
   {
-   "path": "model/pumkin-a-b-8pcs-of-each-0-2mm-layer-2-walls-10-inf-616342.3mf.xz",
+   "path": "model/conceptos-calabaza-8.3mf.xz",
    "instance_id": "616342",
-   "name": "Calabaza A + B 8 piezas de cada capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "name": "conceptos-calabaza-8",
    "thumbnail": "previews/profiles/616342.jpg",
    "print_time_h": 9,
    "plates": 1,
@@ -440,9 +506,9 @@
    }
   },
   {
-   "path": "model/pumpkins-a-designer-recommended-settings-609559.3mf.xz",
+   "path": "model/conceptos-calabaza-9.3mf.xz",
    "instance_id": "609559",
-   "name": "Calabazas A: configuración recomendada por el diseñador",
+   "name": "conceptos-calabaza-9",
    "thumbnail": "previews/profiles/609559.jpg",
    "print_time_h": 2.9,
    "plates": 1,
@@ -508,72 +574,6 @@
     ],
     "photos": 1
    }
-  },
-  {
-   "path": "model/pumpkins-b-designer-recommended-settings-609569.3mf.xz",
-   "instance_id": "609569",
-   "name": "Pumpkins B - Configuraciones recomendadas por el diseñador",
-   "thumbnail": "previews/profiles/609569.jpg",
-   "print_time_h": 3.4,
-   "plates": 1,
-   "rating": 4.9,
-   "rating_count": 100,
-   "by_designer": false,
-   "printers": [
-    "X1 Carbon",
-    "P1S",
-    "P1P",
-    "X1",
-    "X1E",
-    "A1",
-    "A1 mini",
-    "H2D",
-    "H2D Pro",
-    "H2S",
-    "P2S",
-    "H2C",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 3430488,
-   "sha256": "35df364c7c2ef48409bc6eb17adc86eab498bd16759acd032351d59d974d7238",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.09.05.53",
-    "profile_title": "Pumpkins B - Designer recommended settings",
-    "creation_date": "2024-10-04",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X1 Carbon",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "BL-P001",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 12199,
-      "weight_g": 57.75,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#000000"
-       },
-       {
-        "type": "PLA",
-        "color": "#FF6A13"
-       },
-       {
-        "type": "PLA",
-        "color": "#76A55A"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
   }
  ],
  "id": "679857",
@@ -607,6 +607,10 @@
    600,
    797
   ],
+  "previews/profiles/609569.jpg": [
+   600,
+   600
+  ],
   "previews/profiles/618442.jpg": [
    600,
    450
@@ -638,13 +642,8 @@
   "previews/profiles/609559.jpg": [
    600,
    600
-  ],
-  "previews/profiles/609569.jpg": [
-   600,
-   600
   ]
  },
- "variant_hint": "Multicolor",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

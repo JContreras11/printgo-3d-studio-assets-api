@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/lucia-multicolor-print-3803723.3mf.xz",
+   "path": "model/chibi-lucia.3mf.xz",
    "instance_id": "3803723",
-   "name": "Lucía - Estampado multicolor",
+   "name": "chibi-lucia",
    "thumbnail": "previews/profiles/3803723.jpg",
    "print_time_h": 13.6,
    "plates": 2,
@@ -119,7 +119,6 @@
    450
   ]
  },
- "variant_hint": "Multicolor",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

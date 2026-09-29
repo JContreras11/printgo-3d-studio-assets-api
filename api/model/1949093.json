@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/food-dispenser-20-cm-2094144.3mf.xz",
+   "path": "model/dispensador-bolsita-1.3mf.xz",
    "instance_id": "2094144",
-   "name": "Dispensador de Alimentos 20 cm",
+   "name": "dispensador-bolsita-1",
    "thumbnail": "previews/profiles/2094144.jpg",
    "print_time_h": 4.2,
    "plates": 1,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/food-dispenser-17-cm-a1-mini-2094330.3mf.xz",
+   "path": "model/dispensador-bolsita-2.3mf.xz",
    "instance_id": "2094330",
-   "name": "Dispensador de Alimentos 17 cm - A1 mini",
+   "name": "dispensador-bolsita-2",
    "thumbnail": "previews/profiles/2094330.jpg",
    "print_time_h": 4.7,
    "plates": 1,
@@ -87,9 +87,9 @@
    }
   },
   {
-   "path": "model/lid-cover-2415604.3mf.xz",
+   "path": "model/dispensador-bolsita-3.3mf.xz",
    "instance_id": "2415604",
-   "name": "Tapa - Cubierta",
+   "name": "dispensador-bolsita-3",
    "thumbnail": "previews/profiles/2415604.jpg",
    "print_time_h": 0.9,
    "plates": 1,
@@ -131,9 +131,9 @@
    }
   },
   {
-   "path": "model/sachet-squeezer-2246959.3mf.xz",
+   "path": "model/dispensador-bolsita-4.3mf.xz",
    "instance_id": "2246959",
-   "name": "Exprimidor de bolsitas",
+   "name": "dispensador-bolsita-4",
    "thumbnail": "previews/profiles/2246959.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -175,9 +175,9 @@
    }
   },
   {
-   "path": "model/spoon-two-models-2249182.3mf.xz",
+   "path": "model/dispensador-bolsita-5.3mf.xz",
    "instance_id": "2249182",
-   "name": "Cuchara dos modelos",
+   "name": "dispensador-bolsita-5",
    "thumbnail": "previews/profiles/2249182.jpg",
    "print_time_h": 0.4,
    "plates": 1,
@@ -294,7 +294,6 @@
    450
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

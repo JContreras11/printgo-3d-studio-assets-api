@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2316710.3mf.xz",
+   "path": "model/juguete-gatos-1.3mf.xz",
    "instance_id": "2316710",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "juguete-gatos-1",
    "thumbnail": "previews/profiles/2316710.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/a1-mini-fixed-3636133.3mf.xz",
+   "path": "model/juguete-gatos-2.3mf.xz",
    "instance_id": "3636133",
-   "name": "A1 mini (Fijo)",
+   "name": "juguete-gatos-2",
    "thumbnail": "previews/profiles/3636133.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -88,9 +88,9 @@
    }
   },
   {
-   "path": "model/a1-mini-pounce-a-pult-3409292.3mf.xz",
+   "path": "model/juguete-gatos-3.3mf.xz",
    "instance_id": "3409292",
-   "name": "[A1 mini] saltar-a-pult",
+   "name": "juguete-gatos-3",
    "thumbnail": "previews/profiles/3409292.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -182,7 +182,6 @@
    600
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

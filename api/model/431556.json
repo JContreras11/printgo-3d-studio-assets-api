@@ -28,7 +28,7 @@
  ],
  "files": [
   {
-   "path": "model/HumanBody.3mf.xz",
+   "path": "model/anatomico-torso.3mf.xz",
    "size": 82011676,
    "sha256": "dc1f57e76aa2f43509823d0a0f7347b270dcf01ccf132199433cb388c98b3161",
    "compressed": true,
@@ -268,7 +268,8 @@
     "photos": 17
    },
    "thumbnail": "previews/profiles/758473.jpg",
-   "instance_id": "758473"
+   "instance_id": "758473",
+   "name": "anatomico-torso"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000431556/design/2024-04-16_fe0742f92303a8.jpg?x-oss-process=image/resize,w_1000",

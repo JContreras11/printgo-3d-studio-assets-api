@@ -34,7 +34,7 @@
  ],
  "files": [
   {
-   "path": "model/Egg_front_plate.3mf.xz",
+   "path": "model/dispensador-huevos-1.3mf.xz",
    "size": 1257712,
    "sha256": "28da6ae3b85f4b0d29eaa117077b7c054ed9e8255c58a756c9c7af3d48354098",
    "compressed": true,
@@ -52,10 +52,11 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/2652936.jpg",
-   "instance_id": "2652936"
+   "instance_id": "2652936",
+   "name": "dispensador-huevos-1"
   },
   {
-   "path": "model/egg_dispenser_v2.3mf.xz",
+   "path": "model/dispensador-huevos-2.3mf.xz",
    "size": 1580644,
    "sha256": "0e087b99d58f4271e4a8dde49764ed7f974b8ca80a90efd55e5b039a4115c0ff",
    "compressed": true,
@@ -73,10 +74,11 @@
     "photos": 3
    },
    "thumbnail": "previews/profiles/3445516.jpg",
-   "instance_id": "3445516"
+   "instance_id": "3445516",
+   "name": "dispensador-huevos-2"
   },
   {
-   "path": "model/鸡蛋架v1.3mf.xz",
+   "path": "model/dispensador-huevos-3.3mf.xz",
    "size": 1530528,
    "sha256": "ec8a7552fdc8e5b66ac548896f763b367ec72d3f5727dedd7c85f35dbb5d750e",
    "compressed": true,
@@ -134,7 +136,8 @@
     ],
     "photos": 3
    },
-   "thumbnail": "previews/01.webp"
+   "thumbnail": "previews/01.webp",
+   "name": "dispensador-huevos-3"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US793c2b7f8381d2/design/e1f165c5-712a-455a-b7ab-dbce69cd9bca.webp?x-oss-process=image/resize,w_1000",

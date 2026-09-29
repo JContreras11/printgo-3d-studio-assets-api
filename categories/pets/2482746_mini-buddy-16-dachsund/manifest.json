@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/two-color-0-12mm-layer-2-walls-15-infill-2727042.3mf.xz",
+   "path": "model/mini-amigo-1.3mf.xz",
    "instance_id": "2727042",
-   "name": "Dos colores, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "name": "mini-amigo-1",
    "thumbnail": "previews/profiles/2727042.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/keychain-single-color-0-12mm-layer-2-walls-15-infi-3001947.3mf.xz",
+   "path": "model/mini-amigo-2.3mf.xz",
    "instance_id": "3001947",
-   "name": "Llavero, un solo color, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "name": "mini-amigo-2",
    "thumbnail": "previews/profiles/3001947.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -89,9 +89,9 @@
    }
   },
   {
-   "path": "model/keychain-two-color-0-12mm-layer-2-walls-15-infill-3001902.3mf.xz",
+   "path": "model/mini-amigo-3.3mf.xz",
    "instance_id": "3001902",
-   "name": "Llavero, dos colores, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "name": "mini-amigo-3",
    "thumbnail": "previews/profiles/3001902.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -133,9 +133,9 @@
    }
   },
   {
-   "path": "model/single-color-0-12mm-layer-2-walls-15-infill-2727065.3mf.xz",
+   "path": "model/mini-amigo-4.3mf.xz",
    "instance_id": "2727065",
-   "name": "Un solo color, capa de 0,12 mm, 2 paredes, 15 % de relleno",
+   "name": "mini-amigo-4",
    "thumbnail": "previews/profiles/2727065.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -259,7 +259,6 @@
    753
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

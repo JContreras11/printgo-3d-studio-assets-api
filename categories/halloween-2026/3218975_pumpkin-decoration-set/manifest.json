@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-10-infill-3644604.3mf.xz",
+   "path": "model/conjunto-decoracion-1.3mf.xz",
    "instance_id": "3644604",
-   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "name": "conjunto-decoracion-1",
    "thumbnail": "previews/profiles/3644604.jpg",
    "print_time_h": 2.4,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/a1-mini-0-2mm-layer-2-walls-10-infill-3799686.3mf.xz",
+   "path": "model/conjunto-decoracion-2.3mf.xz",
    "instance_id": "3799686",
-   "name": "A1 mini: capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "name": "conjunto-decoracion-2",
    "thumbnail": "previews/profiles/3799686.jpg",
    "print_time_h": 2.7,
    "plates": 2,
@@ -75,9 +75,9 @@
    }
   },
   {
-   "path": "model/model-optimized-face-count-reduced-printing-effici-3811775.3mf.xz",
+   "path": "model/conjunto-decoracion-3.3mf.xz",
    "instance_id": "3811775",
-   "name": "Modelo optimizado, número de caras reducido, eficiencia de impresión mejorada",
+   "name": "conjunto-decoracion-3",
    "thumbnail": "previews/profiles/3811775.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -172,7 +172,6 @@
    596
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

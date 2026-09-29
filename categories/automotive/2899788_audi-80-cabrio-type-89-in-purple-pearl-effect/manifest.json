@@ -33,7 +33,7 @@
  ],
  "files": [
   {
-   "path": "model/Audi80_Cabrio_Neu_3MF.3mf.xz",
+   "path": "model/audi-80.3mf.xz",
    "size": 9388780,
    "sha256": "2d03bb22f19a12c8e6db00192418dbaf7bbd443bec9701263e2995a2c7fbbf4d",
    "compressed": true,
@@ -50,7 +50,8 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/3241343.jpg",
-   "instance_id": "3241343"
+   "instance_id": "3241343",
+   "name": "audi-80"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf6c2321c095ea4/design/806a3b16fec4a79a.jpg?x-oss-process=image/resize,w_1000",

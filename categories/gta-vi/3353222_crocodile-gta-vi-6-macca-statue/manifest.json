@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-24mm-layer-2-walls-15-infill-3811340.3mf.xz",
+   "path": "model/cocodrilo-gta-1.3mf.xz",
    "instance_id": "3811340",
-   "name": "Capa de 0,24 mm, 2 paredes, 15 % de relleno",
+   "name": "cocodrilo-gta-1",
    "thumbnail": "previews/profiles/3811340.jpg",
    "print_time_h": 3.8,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/ams-3815712.3mf.xz",
+   "path": "model/cocodrilo-gta-2.3mf.xz",
    "instance_id": "3815712",
-   "name": "AMS",
+   "name": "cocodrilo-gta-2",
    "thumbnail": "previews/profiles/3815712.jpg",
    "print_time_h": 24.5,
    "plates": 2,
@@ -87,9 +87,9 @@
    }
   },
   {
-   "path": "model/base-with-compartment-ams-3815799.3mf.xz",
+   "path": "model/cocodrilo-gta-3.3mf.xz",
    "instance_id": "3815799",
-   "name": "Base con compartimento (AMS)",
+   "name": "cocodrilo-gta-3",
    "thumbnail": "previews/profiles/3815799.jpg",
    "print_time_h": 3.6,
    "plates": 1,

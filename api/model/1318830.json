@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/single-plate-standard-edition-24cm-high-16cm-wide-1354559.3mf.xz",
+   "path": "model/recogedor-arena-1.3mf.xz",
    "instance_id": "1354559",
-   "name": "Edición estándar de plato único (24 cm de alto, 16 cm de ancho)",
+   "name": "recogedor-arena-1",
    "thumbnail": "previews/profiles/1354559.jpg",
    "print_time_h": 11.6,
    "plates": 1,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/dual-color-mini-version-17cm-h-11cm-w-1354591.3mf.xz",
+   "path": "model/recogedor-arena-2.3mf.xz",
    "instance_id": "1354591",
-   "name": "Versión mini de dos colores (17 cm de alto, 11 cm de ancho)",
+   "name": "recogedor-arena-2",
    "thumbnail": "previews/profiles/1354591.jpg",
    "print_time_h": 7,
    "plates": 2,
@@ -87,9 +87,9 @@
    }
   },
   {
-   "path": "model/dual-color-version-split-into-plates-24cm-high-16c-1354587.3mf.xz",
+   "path": "model/recogedor-arena-3.3mf.xz",
    "instance_id": "1354587",
-   "name": "Versión bicolor, dividida en placas (24 cm de alto, 16 cm de ancho)",
+   "name": "recogedor-arena-3",
    "thumbnail": "previews/profiles/1354587.jpg",
    "print_time_h": 12.2,
    "plates": 2,
@@ -129,9 +129,9 @@
    }
   },
   {
-   "path": "model/single-plate-mini-version-17cm-high-11cm-wide-1354579.3mf.xz",
+   "path": "model/recogedor-arena-4.3mf.xz",
    "instance_id": "1354579",
-   "name": "Versión mini de plato único (17 cm de alto, 11 cm de ancho)",
+   "name": "recogedor-arena-4",
    "thumbnail": "previews/profiles/1354579.jpg",
    "print_time_h": 6.7,
    "plates": 1,
@@ -269,7 +269,6 @@
    450
   ]
  },
- "variant_hint": "Monocromo · para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

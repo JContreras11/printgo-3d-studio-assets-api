@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-3-walls-detect-thin-wall-normal-print--1129102.3mf.xz",
+   "path": "model/juguetes-gatos-1.3mf.xz",
    "instance_id": "1129102",
-   "name": "Capa de 0,2 mm, 3 paredes, detección de paredes delgadas, velocidad de impresión normal",
+   "name": "juguetes-gatos-1",
    "thumbnail": "previews/profiles/1129102.jpg",
    "print_time_h": 7.6,
    "plates": 4,
@@ -103,9 +103,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-3-walls-detect-thin-wall-50-slower-spe-1154959.3mf.xz",
+   "path": "model/juguetes-gatos-2.3mf.xz",
    "instance_id": "1154959",
-   "name": "Capa de 0,2 mm, 3 paredes, detección de paredes delgadas, velocidad un 50 % más lenta",
+   "name": "juguetes-gatos-2",
    "thumbnail": "previews/profiles/1154959.jpg",
    "print_time_h": 8,
    "plates": 4,
@@ -205,9 +205,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-6-walls-25-infill-1148351.3mf.xz",
+   "path": "model/juguetes-gatos-3.3mf.xz",
    "instance_id": "1148351",
-   "name": "Capa de 0,2 mm, 6 paredes, 25% de relleno",
+   "name": "juguetes-gatos-3",
    "thumbnail": "previews/profiles/1148351.jpg",
    "print_time_h": 3.2,
    "plates": 4,
@@ -303,9 +303,9 @@
    }
   },
   {
-   "path": "model/1-ball-dualcolor-optimized-3452155.3mf.xz",
+   "path": "model/juguetes-gatos-4.3mf.xz",
    "instance_id": "3452155",
-   "name": "1 Bola. Doble color, optimizado",
+   "name": "juguetes-gatos-4",
    "thumbnail": "previews/profiles/3452155.jpg",
    "print_time_h": 1,
    "plates": 1,
@@ -347,9 +347,9 @@
    }
   },
   {
-   "path": "model/petg-single-color-0-2mm-layer-3-walls-100-infill-2178489.3mf.xz",
+   "path": "model/juguetes-gatos-5.3mf.xz",
    "instance_id": "2178489",
-   "name": "PETG monocolor (capa de 0,2 mm, 3 paredes, 100% de relleno)",
+   "name": "juguetes-gatos-5",
    "thumbnail": "previews/profiles/2178489.jpg",
    "print_time_h": 1.8,
    "plates": 1,
@@ -391,9 +391,9 @@
    }
   },
   {
-   "path": "model/super-slow-to-help-printing-success-1887795.3mf.xz",
+   "path": "model/juguetes-gatos-6.3mf.xz",
    "instance_id": "1887795",
-   "name": "Súper lento para ayudar a imprimir con éxito",
+   "name": "juguetes-gatos-6",
    "thumbnail": "previews/profiles/1887795.jpg",
    "print_time_h": 7.8,
    "plates": 4,
@@ -556,7 +556,6 @@
    600
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

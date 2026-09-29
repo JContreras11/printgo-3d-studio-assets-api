@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-3-walls-15-infill-1074151.3mf.xz",
+   "path": "model/juego-perros-1.3mf.xz",
    "instance_id": "1074151",
-   "name": "Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "name": "juego-perros-1",
    "thumbnail": "previews/profiles/1074151.jpg",
    "print_time_h": 9.1,
    "plates": 3,
@@ -84,9 +84,9 @@
    }
   },
   {
-   "path": "model/a1-mini-83-scale-3-walls-2419696.3mf.xz",
+   "path": "model/juego-perros-2.3mf.xz",
    "instance_id": "2419696",
-   "name": "A1 mini – escala 83% – 3 paredes",
+   "name": "juego-perros-2",
    "thumbnail": "previews/profiles/2419696.jpg",
    "print_time_h": 7.4,
    "plates": 3,
@@ -194,7 +194,6 @@
    240
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

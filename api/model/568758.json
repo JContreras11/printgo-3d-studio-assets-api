@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-488662.3mf.xz",
+   "path": "model/no-hay-1.3mf.xz",
    "instance_id": "488662",
-   "name": "capa de 0,2 mm",
+   "name": "no-hay-1",
    "thumbnail": "previews/profiles/488662.jpg",
    "print_time_h": 4.7,
    "plates": 1,
@@ -58,9 +58,9 @@
    }
   },
   {
-   "path": "model/0-16mm-layer-488663.3mf.xz",
+   "path": "model/no-hay-2.3mf.xz",
    "instance_id": "488663",
-   "name": "capa de 0,16 mm",
+   "name": "no-hay-2",
    "thumbnail": "previews/profiles/488663.jpg",
    "print_time_h": 5.7,
    "plates": 1,
@@ -115,9 +115,9 @@
    }
   },
   {
-   "path": "model/0-24mm-layer-488664.3mf.xz",
+   "path": "model/no-hay-3.3mf.xz",
    "instance_id": "488664",
-   "name": "capa de 0,24 mm",
+   "name": "no-hay-3",
    "thumbnail": "previews/profiles/488664.jpg",
    "print_time_h": 4.4,
    "plates": 1,
@@ -172,9 +172,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-10-infill-3357141.3mf.xz",
+   "path": "model/no-hay-4.3mf.xz",
    "instance_id": "3357141",
-   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "name": "no-hay-4",
    "thumbnail": "previews/profiles/3357141.jpg",
    "print_time_h": 5.5,
    "plates": 1,
@@ -215,9 +215,9 @@
    }
   },
   {
-   "path": "model/0-6mm-nozzle-0-3mm-layer-2-walls-5-infill-1028583.3mf.xz",
+   "path": "model/no-hay-5.3mf.xz",
    "instance_id": "1028583",
-   "name": "Boquilla de 0,6 mm, capa de 0,3 mm, 2 paredes, 5 % de relleno",
+   "name": "no-hay-5",
    "thumbnail": "previews/profiles/1028583.jpg",
    "print_time_h": 4.1,
    "plates": 1,
@@ -274,9 +274,9 @@
    }
   },
   {
-   "path": "model/100-scale-a1-mini-0-2mm-layer-2-walls-15-infill-529544.3mf.xz",
+   "path": "model/no-hay-6.3mf.xz",
    "instance_id": "529544",
-   "name": "100% escala (A1 mini) Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "no-hay-6",
    "thumbnail": "previews/profiles/529544.jpg",
    "print_time_h": 5.5,
    "plates": 1,
@@ -332,9 +332,9 @@
    }
   },
   {
-   "path": "model/75-scale-with-1-cup-line-color-change-1810281.3mf.xz",
+   "path": "model/no-hay-7.3mf.xz",
    "instance_id": "1810281",
-   "name": "Escala del 75% con cambio de color de línea de 1 taza",
+   "name": "no-hay-7",
    "thumbnail": "previews/profiles/1810281.jpg",
    "print_time_h": 3,
    "plates": 1,
@@ -440,7 +440,6 @@
    600
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

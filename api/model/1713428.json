@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/regular-1818374.3mf.xz",
+   "path": "model/calabazas-pequenas-1.3mf.xz",
    "instance_id": "1818374",
-   "name": "Regular",
+   "name": "calabazas-pequenas-1",
    "thumbnail": "previews/profiles/1818374.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -35,9 +35,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2065745.3mf.xz",
+   "path": "model/calabazas-pequenas-2.3mf.xz",
    "instance_id": "2065745",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "calabazas-pequenas-2",
    "thumbnail": "previews/profiles/2065745.jpg",
    "print_time_h": 4.1,
    "plates": 1,
@@ -78,9 +78,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2080888.3mf.xz",
+   "path": "model/calabazas-pequenas-3.3mf.xz",
    "instance_id": "2080888",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "calabazas-pequenas-3",
    "thumbnail": "previews/profiles/2080888.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -122,9 +122,9 @@
    }
   },
   {
-   "path": "model/25-pumpkins-1952425.3mf.xz",
+   "path": "model/calabazas-pequenas-4.3mf.xz",
    "instance_id": "1952425",
-   "name": "25 calabazas",
+   "name": "calabazas-pequenas-4",
    "thumbnail": "previews/profiles/1952425.jpg",
    "print_time_h": 3.4,
    "plates": 1,
@@ -166,9 +166,9 @@
    }
   },
   {
-   "path": "model/big-pumpkins-1832535.3mf.xz",
+   "path": "model/calabazas-pequenas-5.3mf.xz",
    "instance_id": "1832535",
-   "name": "calabazas grandes",
+   "name": "calabazas-pequenas-5",
    "thumbnail": "previews/profiles/1832535.jpg",
    "print_time_h": 4.9,
    "plates": 1,
@@ -209,9 +209,9 @@
    }
   },
   {
-   "path": "model/optimized-parameter-detail-version-five-per-plate--3784183.3mf.xz",
+   "path": "model/calabazas-pequenas-6.3mf.xz",
    "instance_id": "3784183",
-   "name": "Versión de detalle de parámetros optimizada cinco por placa para el A1/A1 mini",
+   "name": "calabazas-pequenas-6",
    "thumbnail": "previews/profiles/3784183.jpg",
    "print_time_h": 2.3,
    "plates": 1,
@@ -252,9 +252,9 @@
    }
   },
   {
-   "path": "model/single-color-0-2mm-layer-2-walls-15-infill-3366311.3mf.xz",
+   "path": "model/calabazas-pequenas-7.3mf.xz",
    "instance_id": "3366311",
-   "name": "capa de 0,2 mm de un solo color, 2 paredes, 15 % de relleno",
+   "name": "calabazas-pequenas-7",
    "thumbnail": "previews/profiles/3366311.jpg",
    "print_time_h": 0.3,
    "plates": 1,
@@ -291,9 +291,9 @@
    }
   },
   {
-   "path": "model/single-color-x9-0-2mm-layer-2-walls-15-infill-3366321.3mf.xz",
+   "path": "model/calabazas-pequenas-8.3mf.xz",
    "instance_id": "3366321",
-   "name": "un solo color x9 capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "calabazas-pequenas-8",
    "thumbnail": "previews/profiles/3366321.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -398,7 +398,6 @@
    600
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

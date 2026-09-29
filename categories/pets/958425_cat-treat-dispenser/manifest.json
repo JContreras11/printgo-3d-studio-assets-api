@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-10-infill-927856.3mf.xz",
+   "path": "model/dispensador-golosinas-1.3mf.xz",
    "instance_id": "927856",
-   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "name": "dispensador-golosinas-1",
    "thumbnail": "previews/profiles/927856.jpg",
    "print_time_h": 6.1,
    "plates": 2,
@@ -71,9 +71,9 @@
    }
   },
   {
-   "path": "model/15mm-holes-suitable-for-larger-freeze-dried-snacks-1308119.3mf.xz",
+   "path": "model/dispensador-golosinas-2.3mf.xz",
    "instance_id": "1308119",
-   "name": "Orificios de 15 mm, adecuados para snacks liofilizados más grandes",
+   "name": "dispensador-golosinas-2",
    "thumbnail": "previews/profiles/1308119.jpg",
    "print_time_h": 1.5,
    "plates": 1,
@@ -130,9 +130,9 @@
    }
   },
   {
-   "path": "model/15mm-holes-suitable-for-larger-freeze-dried-snacks-1331057.3mf.xz",
+   "path": "model/dispensador-golosinas-3.3mf.xz",
    "instance_id": "1331057",
-   "name": "Orificios de 15 mm, adecuados para snacks liofilizados más grandes",
+   "name": "dispensador-golosinas-3",
    "thumbnail": "previews/profiles/1331057.jpg",
    "print_time_h": 1.5,
    "plates": 1,
@@ -174,9 +174,9 @@
    }
   },
   {
-   "path": "model/90-size-sliced-for-a1-mini-pla-or-petg-2588809.3mf.xz",
+   "path": "model/dispensador-golosinas-4.3mf.xz",
    "instance_id": "2588809",
-   "name": "Tamaño del 90%, en rodajas para A1 mini, PLA o PETG",
+   "name": "dispensador-golosinas-4",
    "thumbnail": "previews/profiles/2588809.jpg",
    "print_time_h": 4.8,
    "plates": 4,
@@ -218,9 +218,9 @@
    }
   },
   {
-   "path": "model/base-part-flattened-0-2mm-layer-3-walls-15-infill-1068448.3mf.xz",
+   "path": "model/dispensador-golosinas-5.3mf.xz",
    "instance_id": "1068448",
-   "name": "Parte base aplanada capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "name": "dispensador-golosinas-5",
    "thumbnail": "previews/profiles/1068448.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -277,9 +277,9 @@
    }
   },
   {
-   "path": "model/bigger-holes-1-1mm-2482489.3mf.xz",
+   "path": "model/dispensador-golosinas-6.3mf.xz",
    "instance_id": "2482489",
-   "name": "agujeros más grandes 1,1 mm",
+   "name": "dispensador-golosinas-6",
    "thumbnail": "previews/profiles/2482489.jpg",
    "print_time_h": 1.2,
    "plates": 1,
@@ -321,9 +321,9 @@
    }
   },
   {
-   "path": "model/dispenser-different-sizes-0-2mm-layer-2-walls-10-i-953930.3mf.xz",
+   "path": "model/dispensador-golosinas-7.3mf.xz",
    "instance_id": "953930",
-   "name": "Dispensador diferentes tamaños capa 0,2mm, 2 paredes, 10% de relleno",
+   "name": "dispensador-golosinas-7",
    "thumbnail": "previews/profiles/953930.jpg",
    "print_time_h": 6.9,
    "plates": 5,
@@ -431,9 +431,9 @@
    }
   },
   {
-   "path": "model/taller-dispenser-2689448.3mf.xz",
+   "path": "model/dispensador-golosinas-8.3mf.xz",
    "instance_id": "2689448",
-   "name": "Dispensador más alto",
+   "name": "dispensador-golosinas-8",
    "thumbnail": "previews/profiles/2689448.jpg",
    "print_time_h": 6.9,
    "plates": 2,
@@ -474,9 +474,9 @@
    }
   },
   {
-   "path": "model/tpu-ring-feet-perfect-fit-no-glue-needed-1412199.3mf.xz",
+   "path": "model/dispensador-golosinas-9.3mf.xz",
    "instance_id": "1412199",
-   "name": "Pies de anillo de TPU: ajuste perfecto, no se necesita pegamento",
+   "name": "dispensador-golosinas-9",
    "thumbnail": "previews/profiles/1412199.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -598,7 +598,6 @@
    796
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

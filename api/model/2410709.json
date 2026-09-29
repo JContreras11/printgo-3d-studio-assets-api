@@ -39,7 +39,7 @@
  ],
  "files": [
   {
-   "path": "model/Flooring_spacers_1_mm_-_PLA_-_X1.3mf.xz",
+   "path": "model/separadores-precision.3mf.xz",
    "size": 733772,
    "sha256": "c07b79919c8efa9cae29c87a5986ffdd1270ab4864e83e2bb17910aa0565ee68",
    "compressed": true,
@@ -57,7 +57,8 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/2643174.jpg",
-   "instance_id": "2643174"
+   "instance_id": "2643174",
+   "name": "separadores-precision"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8006931cc3762b/design/9774be3d3882fde7.jpeg?x-oss-process=image/resize,w_1000",
@@ -122,6 +123,5 @@
    450,
    600
   ]
- },
- "variant_hint": "para X1"
+ }
 }

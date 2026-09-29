@@ -38,7 +38,7 @@
  ],
  "files": [
   {
-   "path": "model/GameCube_Gehäuse_(fein_0,2).3mf.xz",
+   "path": "model/carcasa-game.3mf.xz",
    "size": 5209148,
    "sha256": "3836581ea2373c05614445760ea364b677d02c29ebd94a88078361a99d136306",
    "compressed": true,
@@ -54,7 +54,8 @@
     "support_type": "tree(auto)",
     "photos": 9
    },
-   "thumbnail": "previews/01.jpg"
+   "thumbnail": "previews/01.jpg",
+   "name": "carcasa-game"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb40a1942bd62ae/design/2026-01-11_bcea2162dcfb58.jpg?x-oss-process=image/resize,w_1000",

@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/v1-76-mm-bowl-0-16mm-layer-4-walls-15-infill-476372.3mf.xz",
+   "path": "model/cuenco-agua-1.3mf.xz",
    "instance_id": "476372",
-   "name": "V1 - CUENCO de 76 mm - capa de 0,16 mm, 4 paredes, 15 % de relleno",
+   "name": "cuenco-agua-1",
    "thumbnail": "previews/profiles/476372.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -60,9 +60,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-4-walls-15-gyroid-infill-478217.3mf.xz",
+   "path": "model/cuenco-agua-2.3mf.xz",
    "instance_id": "478217",
-   "name": "Capa de 0,2 mm, 4 paredes, 15 % de relleno giroide",
+   "name": "cuenco-agua-2",
    "thumbnail": "previews/profiles/478217.jpg",
    "print_time_h": 1.2,
    "plates": 1,
@@ -119,9 +119,9 @@
    }
   },
   {
-   "path": "model/adapter-28mm-to-38-mm-0-12mm-layer-5-walls-15-infi-485739.3mf.xz",
+   "path": "model/cuenco-agua-3.3mf.xz",
    "instance_id": "485739",
-   "name": "ADAPTADOR 28 mm a 38 mm - capa de 0,12 mm, 5 paredes, 15 % de relleno",
+   "name": "cuenco-agua-3",
    "thumbnail": "previews/profiles/485739.jpg",
    "print_time_h": 1.3,
    "plates": 1,
@@ -178,9 +178,9 @@
    }
   },
   {
-   "path": "model/v2-0-28mm-layer-4-walls-5-gyroid-infill-485013.3mf.xz",
+   "path": "model/cuenco-agua-4.3mf.xz",
    "instance_id": "485013",
-   "name": "V2: capa de 0,28 mm, 4 paredes, 5 % de relleno giroide",
+   "name": "cuenco-agua-4",
    "thumbnail": "previews/profiles/485013.jpg",
    "print_time_h": 1.3,
    "plates": 1,
@@ -237,9 +237,9 @@
    }
   },
   {
-   "path": "model/v2-116-mm-bowl-0-16mm-layer-4-walls-15-infill-484126.3mf.xz",
+   "path": "model/cuenco-agua-5.3mf.xz",
    "instance_id": "484126",
-   "name": "V2 - CUENCO de 116 mm - Capa de 0,16 mm, 4 paredes, 15 % de relleno",
+   "name": "cuenco-agua-5",
    "thumbnail": "previews/profiles/484126.jpg",
    "print_time_h": 3.1,
    "plates": 1,

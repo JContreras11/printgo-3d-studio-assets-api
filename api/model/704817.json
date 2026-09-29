@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-634658.3mf.xz",
+   "path": "model/dispensador-automatico-1.3mf.xz",
    "instance_id": "634658",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "dispensador-automatico-1",
    "thumbnail": "previews/profiles/634658.jpg",
    "print_time_h": 4.8,
    "plates": 1,
@@ -59,9 +59,9 @@
    }
   },
   {
-   "path": "model/128-size-a1-mini-max-size-with-bigger-feed-hole-3056231.3mf.xz",
+   "path": "model/dispensador-automatico-2.3mf.xz",
    "instance_id": "3056231",
-   "name": "Tamaño 128% (tamaño A1 mini max) Con orificio de alimentación más grande",
+   "name": "dispensador-automatico-2",
    "thumbnail": "previews/profiles/3056231.jpg",
    "print_time_h": 7.3,
    "plates": 2,
@@ -162,7 +162,6 @@
    806
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

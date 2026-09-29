@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/multipart-version-no-ams-3792712.3mf.xz",
+   "path": "model/arte-payaso-1.3mf.xz",
    "instance_id": "3792712",
-   "name": "Versión multiparte sin AMS",
+   "name": "arte-payaso-1",
    "thumbnail": "previews/profiles/3792712.jpg",
    "print_time_h": 5.6,
    "plates": 4,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/version-multipart-a1-mini-3792764.3mf.xz",
+   "path": "model/arte-payaso-2.3mf.xz",
    "instance_id": "3792764",
-   "name": "Versión multiparte A1 mini",
+   "name": "arte-payaso-2",
    "thumbnail": "previews/profiles/3792764.jpg",
    "print_time_h": 5.1,
    "plates": 6,
@@ -86,9 +86,9 @@
    }
   },
   {
-   "path": "model/version-with-ams-3792857.3mf.xz",
+   "path": "model/arte-payaso-3.3mf.xz",
    "instance_id": "3792857",
-   "name": "Versión con AMS",
+   "name": "arte-payaso-3",
    "thumbnail": "previews/profiles/3792857.jpg",
    "print_time_h": 6.8,
    "plates": 2,
@@ -205,7 +205,6 @@
    450
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

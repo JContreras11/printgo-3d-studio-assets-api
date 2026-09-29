@@ -31,7 +31,7 @@
  ],
  "files": [
   {
-   "path": "model/Modular.3mf.xz",
+   "path": "model/bandeja-modular-1.3mf.xz",
    "size": 1129440,
    "sha256": "6022a14e2e6785e7ec8140e069f87ddc17ad4aaa11647b1fa0c8055e7dde7da3",
    "compressed": true,
@@ -48,10 +48,11 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/806387.jpg",
-   "instance_id": "806387"
+   "instance_id": "806387",
+   "name": "bandeja-modular-1"
   },
   {
-   "path": "model/Modular_Shower_Tray.3mf.xz",
+   "path": "model/bandeja-modular-2.3mf.xz",
    "size": 1218268,
    "sha256": "e25423cbab40167c2265303663e152b7d504c5f6906336108e12a01b9fa61b7c",
    "compressed": true,
@@ -68,7 +69,8 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/804830.jpg",
-   "instance_id": "804830"
+   "instance_id": "804830",
+   "name": "bandeja-modular-2"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1602bc6054273/design/2024-12-07_d62fb58df5edf.jpg?x-oss-process=image/resize,w_1000",

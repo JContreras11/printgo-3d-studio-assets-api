@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/single-color-3277899.3mf.xz",
+   "path": "model/caniche-sonoliento-1.3mf.xz",
    "instance_id": "3277899",
-   "name": "un solo color",
+   "name": "caniche-sonoliento-1",
    "thumbnail": "previews/profiles/3277899.jpg",
    "print_time_h": 2.2,
    "plates": 1,
@@ -40,9 +40,9 @@
    }
   },
   {
-   "path": "model/multi-color-ams-3277915.3mf.xz",
+   "path": "model/caniche-sonoliento-2.3mf.xz",
    "instance_id": "3277915",
-   "name": "Multicolor (AMS)",
+   "name": "caniche-sonoliento-2",
    "thumbnail": "previews/profiles/3277915.jpg",
    "print_time_h": 5.3,
    "plates": 1,
@@ -122,7 +122,6 @@
    800
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

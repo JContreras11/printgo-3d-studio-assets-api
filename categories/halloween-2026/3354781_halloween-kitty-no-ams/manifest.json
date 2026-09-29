@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-3813484.3mf.xz",
+   "path": "model/gatito-halloween-1.3mf.xz",
    "instance_id": "3813484",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "gatito-halloween-1",
    "thumbnail": "previews/profiles/3813484.jpg",
    "print_time_h": 9.1,
    "plates": 6,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/a1-mini-0-2mm-layer-2-walls-15-infill-3813509.3mf.xz",
+   "path": "model/gatito-halloween-2.3mf.xz",
    "instance_id": "3813509",
-   "name": "A1 mini (capa de 0,2 mm, 2 paredes, 15 % de relleno)",
+   "name": "gatito-halloween-2",
    "thumbnail": "previews/profiles/3813509.jpg",
    "print_time_h": 10.3,
    "plates": 6,
@@ -134,7 +134,6 @@
    600
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

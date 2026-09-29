@@ -30,7 +30,7 @@
  ],
  "files": [
   {
-   "path": "model/DonutVase.3mf.xz",
+   "path": "model/jarron-dona-1.3mf.xz",
    "size": 2170512,
    "sha256": "82e7f8fb84002fdf02ee38de084c02230f57fe3cccbaa27519c91690ff03e8e8",
    "compressed": true,
@@ -63,10 +63,11 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/23749.jpg",
-   "instance_id": "23749"
+   "instance_id": "23749",
+   "name": "jarron-dona-1"
   },
   {
-   "path": "model/DonutVase_A1_mini.3mf.xz",
+   "path": "model/jarron-dona-2.3mf.xz",
    "size": 2184664,
    "sha256": "54dac5166138b7f977dc02382cadd97bcfc93ab5fe2f5ce9ff1bd5f54e98f9cb",
    "compressed": true,
@@ -99,7 +100,8 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/328497.jpg",
-   "instance_id": "328497"
+   "instance_id": "328497",
+   "name": "jarron-dona-2"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4921fac5735da2/design/2023-09-28_0581236364771.jpeg?x-oss-process=image/resize,w_1000",
@@ -128,6 +130,5 @@
    600,
    800
   ]
- },
- "variant_hint": "para A1 mini"
+ }
 }

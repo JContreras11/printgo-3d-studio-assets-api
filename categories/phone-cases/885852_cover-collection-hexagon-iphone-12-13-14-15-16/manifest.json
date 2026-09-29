@@ -27,7 +27,7 @@
  ],
  "files": [
   {
-   "path": "model/IPHONE_SERIES_12_13_14_15_16_A1.3mf.xz",
+   "path": "model/coleccion-hexagon.3mf.xz",
    "size": 5416224,
    "sha256": "7f93b5b4213e5a484f7d421871fb4768e00457007f5e4e867a2e70784436ebcd",
    "compressed": true,
@@ -139,7 +139,8 @@
     "photos": 7
    },
    "thumbnail": "previews/profiles/841037.jpg",
-   "instance_id": "841037"
+   "instance_id": "841037",
+   "name": "coleccion-hexagon"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f9e1506b672cc/design/2024-12-16_b0588ac23c8d8.jpg?x-oss-process=image/resize,w_1000",
@@ -164,6 +165,5 @@
    600,
    491
   ]
- },
- "variant_hint": "para A1"
+ }
 }

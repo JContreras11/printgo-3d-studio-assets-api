@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-523030.3mf.xz",
+   "path": "model/silbato-perros-1.3mf.xz",
    "instance_id": "523030",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "silbato-perros-1",
    "thumbnail": "previews/profiles/523030.jpg",
    "print_time_h": 0.4,
    "plates": 1,
@@ -60,9 +60,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-honeycomb-0-4mm-nozz-613568.3mf.xz",
+   "path": "model/silbato-perros-2.3mf.xz",
    "instance_id": "613568",
-   "name": "Capa de 0,2 mm, 2 paredes, 15 % de relleno alveolar, boquilla de 0,4 mm",
+   "name": "silbato-perros-2",
    "thumbnail": "previews/profiles/613568.jpg",
    "print_time_h": 0.4,
    "plates": 1,
@@ -118,9 +118,9 @@
    }
   },
   {
-   "path": "model/0-2mm-nozzle-0-1mm-layer-3-walls-30-infill-523350.3mf.xz",
+   "path": "model/silbato-perros-3.3mf.xz",
    "instance_id": "523350",
-   "name": "Boquilla de 0,2 mm, capa de 0,1 mm, 3 paredes, 30 % de relleno",
+   "name": "silbato-perros-3",
    "thumbnail": "previews/profiles/523350.jpg",
    "print_time_h": 1,
    "plates": 1,

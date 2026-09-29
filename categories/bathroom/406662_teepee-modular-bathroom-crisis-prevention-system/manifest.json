@@ -33,7 +33,7 @@
  ],
  "files": [
   {
-   "path": "model/A1_With_Receptacle_(0.4mm).3mf.xz",
+   "path": "model/teepee-sistema-1.3mf.xz",
    "size": 1864076,
    "sha256": "c9d26a813407121c1dd072d83df6ee728b4e9d7d2a9f58da6f21d405ba964af6",
    "compressed": true,
@@ -105,10 +105,11 @@
     "photos": 4
    },
    "thumbnail": "previews/profiles/309746.jpg",
-   "instance_id": "309746"
+   "instance_id": "309746",
+   "name": "teepee-sistema-1"
   },
   {
-   "path": "model/A1_With_Receptacle_-_base.3mf.xz",
+   "path": "model/teepee-sistema-2.3mf.xz",
    "size": 1280784,
    "sha256": "a235af551f5ebde6e0a895e73a41a38cc86f1bc257c2c247a1c32020c27ea31c",
    "compressed": true,
@@ -141,7 +142,8 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/309746.jpg",
-   "instance_id": "309746"
+   "instance_id": "309746",
+   "name": "teepee-sistema-2"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91f7a4ecc9dc40/design/2024-03-31_a98c542275dfe.jpg?x-oss-process=image/resize,w_1000",
@@ -178,6 +180,5 @@
    600,
    600
   ]
- },
- "variant_hint": "para A1"
+ }
 }

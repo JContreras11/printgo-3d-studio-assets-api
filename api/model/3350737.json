@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/parts-no-ams-4plate-4-color-0-2mm-layer-2-walls-10-3808189.3mf.xz",
+   "path": "model/goofy-ojos-1.3mf.xz",
    "instance_id": "3808189",
-   "name": "Piezas NO AMS 4 placas, 4 colores, capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "name": "goofy-ojos-1",
    "thumbnail": "previews/profiles/3808189.jpg",
    "print_time_h": 3.8,
    "plates": 4,
@@ -40,9 +40,9 @@
    }
   },
   {
-   "path": "model/parts-ams-2plate-4-color-0-2mm-layer-2-walls-10-in-3808203.3mf.xz",
+   "path": "model/goofy-ojos-2.3mf.xz",
    "instance_id": "3808203",
-   "name": "Piezas AMS 2 placas, 4 colores, capa de 0,2 mm, 2 paredes, 10 % de relleno",
+   "name": "goofy-ojos-2",
    "thumbnail": "previews/profiles/3808203.jpg",
    "print_time_h": 3.6,
    "plates": 2,
@@ -70,9 +70,9 @@
    }
   },
   {
-   "path": "model/single-color-version-1-plate-3811644.3mf.xz",
+   "path": "model/goofy-ojos-3.3mf.xz",
    "instance_id": "3811644",
-   "name": "Versión de un solo color (1 placa)",
+   "name": "goofy-ojos-3",
    "thumbnail": "previews/profiles/3811644.jpg",
    "print_time_h": 3.5,
    "plates": 1,
@@ -210,7 +210,6 @@
    535
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

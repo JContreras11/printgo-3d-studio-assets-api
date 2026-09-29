@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2869011.3mf.xz",
+   "path": "model/gancho-estampado-1.3mf.xz",
    "instance_id": "2869011",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "gancho-estampado-1",
    "thumbnail": "previews/profiles/2869011.jpg",
    "print_time_h": 3.3,
    "plates": 2,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/0-16mm-layer-2-walls-15-infill-3729042.3mf.xz",
+   "path": "model/gancho-estampado-2.3mf.xz",
    "instance_id": "3729042",
-   "name": "Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "name": "gancho-estampado-2",
    "thumbnail": "previews/profiles/3729042.jpg",
    "print_time_h": 0.9,
    "plates": 2,
@@ -84,9 +84,9 @@
    }
   },
   {
-   "path": "model/0-2mm-nozzle-0-1mm-layer-4-walls-8-gyroid-infill-3384294.3mf.xz",
+   "path": "model/gancho-estampado-3.3mf.xz",
    "instance_id": "3384294",
-   "name": "Boquilla de 0,2 mm, capa de 0,1 mm, 4 paredes, 8 % de relleno giroide",
+   "name": "gancho-estampado-3",
    "thumbnail": "previews/profiles/3384294.jpg",
    "print_time_h": 2.6,
    "plates": 1,

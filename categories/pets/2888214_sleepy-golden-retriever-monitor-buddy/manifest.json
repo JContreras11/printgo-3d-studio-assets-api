@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/multi-color-ams-3226684.3mf.xz",
+   "path": "model/golden-retriever-1.3mf.xz",
    "instance_id": "3226684",
-   "name": "Multicolor (AMS)",
+   "name": "golden-retriever-1",
    "thumbnail": "previews/profiles/3226684.jpg",
    "print_time_h": 4.8,
    "plates": 1,
@@ -40,9 +40,9 @@
    }
   },
   {
-   "path": "model/single-color-3226691.3mf.xz",
+   "path": "model/golden-retriever-2.3mf.xz",
    "instance_id": "3226691",
-   "name": "un solo color",
+   "name": "golden-retriever-2",
    "thumbnail": "previews/profiles/3226691.jpg",
    "print_time_h": 1.7,
    "plates": 1,
@@ -123,7 +123,6 @@
    449
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

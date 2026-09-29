@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/separate-parts-0-12mm-layer-2-walls-10-infill-3719324.3mf.xz",
+   "path": "model/fantasma-calabaza-1.3mf.xz",
    "instance_id": "3719324",
-   "name": "Piezas separadas, capa de 0,12 mm, 2 paredes, 10 % de relleno",
+   "name": "fantasma-calabaza-1",
    "thumbnail": "previews/profiles/3719324.jpg",
    "print_time_h": 3.2,
    "plates": 4,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/0-24mm-layer-2-walls-15-infill-3745321.3mf.xz",
+   "path": "model/fantasma-calabaza-2.3mf.xz",
    "instance_id": "3745321",
-   "name": "Capa de 0,24 mm, 2 paredes, 15 % de relleno",
+   "name": "fantasma-calabaza-2",
    "thumbnail": "previews/profiles/3745321.jpg",
    "print_time_h": 1.9,
    "plates": 4,
@@ -89,9 +89,9 @@
    }
   },
   {
-   "path": "model/all-parts-on-one-plate-print-by-object-ams-require-3719409.3mf.xz",
+   "path": "model/fantasma-calabaza-3.3mf.xz",
    "instance_id": "3719409",
-   "name": "Todas las piezas en una sola placa (impresión por objeto: se requiere AMS)",
+   "name": "fantasma-calabaza-3",
    "thumbnail": "previews/profiles/3719409.jpg",
    "print_time_h": 2.8,
    "plates": 1,
@@ -124,9 +124,9 @@
    }
   },
   {
-   "path": "model/ams-0-16mm-layer-2-walls-13-infill-3719333.3mf.xz",
+   "path": "model/fantasma-calabaza-4.3mf.xz",
    "instance_id": "3719333",
-   "name": "AMS, capa de 0,16 mm, 2 paredes, 13 % de relleno",
+   "name": "fantasma-calabaza-4",
    "thumbnail": "previews/profiles/3719333.jpg",
    "print_time_h": 8.9,
    "plates": 1,
@@ -168,9 +168,9 @@
    }
   },
   {
-   "path": "model/mini-single-color-version-0-12mm-layer-2-walls-13--3744959.3mf.xz",
+   "path": "model/fantasma-calabaza-5.3mf.xz",
    "instance_id": "3744959",
-   "name": "Versión mini de un solo color: capa de 0,12 mm, 2 paredes, 13 % de relleno",
+   "name": "fantasma-calabaza-5",
    "thumbnail": "previews/profiles/3744959.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -273,7 +273,6 @@
    600
   ]
  },
- "variant_hint": "Monocromo · para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

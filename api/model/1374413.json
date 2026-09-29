@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mini-version-10cm-l-x-10cm-w-x-17cm-h-1421697.3mf.xz",
+   "path": "model/comedero-automatico-1.3mf.xz",
    "instance_id": "1421697",
-   "name": "Versión mini (10 cm de largo x 10 cm de ancho x 17 cm de alto)",
+   "name": "comedero-automatico-1",
    "thumbnail": "previews/profiles/1421697.jpg",
    "print_time_h": 7,
    "plates": 3,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/standard-version-14cm-l-x-14cm-w-x-24cm-h-1422018.3mf.xz",
+   "path": "model/comedero-automatico-2.3mf.xz",
    "instance_id": "1422018",
-   "name": "Versión estándar (14 cm de largo x 14 cm de ancho x 24 cm de alto)",
+   "name": "comedero-automatico-2",
    "thumbnail": "previews/profiles/1422018.jpg",
    "print_time_h": 14.6,
    "plates": 3,
@@ -161,7 +161,6 @@
    450
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-6-walls-25-infill-3290776.3mf.xz",
+   "path": "model/cuchara-personalizada-1.3mf.xz",
    "instance_id": "3290776",
-   "name": "Capa de 0,2 mm, 6 paredes, 25% de relleno",
+   "name": "cuchara-personalizada-1",
    "thumbnail": "previews/profiles/3290776.jpg",
    "print_time_h": 2.7,
    "plates": 1,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/100-size-a1-mini-profile-3749293.3mf.xz",
+   "path": "model/cuchara-personalizada-2.3mf.xz",
    "instance_id": "3749293",
-   "name": "100% Tamaño Perfil A1 mini",
+   "name": "cuchara-personalizada-2",
    "thumbnail": "previews/profiles/3749293.jpg",
    "print_time_h": 2.8,
    "plates": 1,
@@ -204,7 +204,6 @@
    800
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

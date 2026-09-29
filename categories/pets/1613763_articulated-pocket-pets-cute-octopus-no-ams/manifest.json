@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cute-octopus-0-2mm-layer-3-walls-15-infill-1702594.3mf.xz",
+   "path": "model/mascotas-bolsillo-1.3mf.xz",
    "instance_id": "1702594",
-   "name": "Lindo pulpo Capa de 0,2 mm, 3 paredes, 15 % de relleno",
+   "name": "mascotas-bolsillo-1",
    "thumbnail": "previews/profiles/1702594.jpg",
    "print_time_h": 2.3,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/colored-eyes-no-ams-keychain-finger-fidget-3047115.3mf.xz",
+   "path": "model/mascotas-bolsillo-2.3mf.xz",
    "instance_id": "3047115",
-   "name": "Ojos de colores (sin AMS), llavero, Fidget para dedos",
+   "name": "mascotas-bolsillo-2",
    "thumbnail": "previews/profiles/3047115.jpg",
    "print_time_h": 1.5,
    "plates": 2,
@@ -88,9 +88,9 @@
    }
   },
   {
-   "path": "model/octopus-keychain-version-0-2mm-layer-3-walls-15-in-1702602.3mf.xz",
+   "path": "model/mascotas-bolsillo-3.3mf.xz",
    "instance_id": "1702602",
-   "name": "Octopus (versión llavero) Capa de 0,2 mm, 3 paredes, 15 % de relleno",
+   "name": "mascotas-bolsillo-3",
    "thumbnail": "previews/profiles/1702602.jpg",
    "print_time_h": 2.3,
    "plates": 1,
@@ -131,9 +131,9 @@
    }
   },
   {
-   "path": "model/octopus-no-ams-0-2mm-layer-3-walls-15-infill-1894238.3mf.xz",
+   "path": "model/mascotas-bolsillo-4.3mf.xz",
    "instance_id": "1894238",
-   "name": "Octopus(NO AMS) Capa de 0,2 mm, 3 paredes, 15% de relleno",
+   "name": "mascotas-bolsillo-4",
    "thumbnail": "previews/profiles/1894238.jpg",
    "print_time_h": 2.6,
    "plates": 3,
@@ -174,9 +174,9 @@
    }
   },
   {
-   "path": "model/single-color-0-2mm-layer-3-walls-15-infill-1hour-p-1709262.3mf.xz",
+   "path": "model/mascotas-bolsillo-5.3mf.xz",
    "instance_id": "1709262",
-   "name": "Un solo color, capa de 0,2 mm, 3 paredes, 15 % de relleno, 1 hora de impresión",
+   "name": "mascotas-bolsillo-5",
    "thumbnail": "previews/profiles/1709262.jpg",
    "print_time_h": 1.1,
    "plates": 1,
@@ -285,7 +285,6 @@
    369
   ]
  },
- "variant_hint": "Multicolor y monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

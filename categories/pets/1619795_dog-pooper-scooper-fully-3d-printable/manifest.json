@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/pooper-scooper-w-handle-1709700.3mf.xz",
+   "path": "model/recogedor-excrementos-1.3mf.xz",
    "instance_id": "1709700",
-   "name": "Recogedor de excrementos con mango",
+   "name": "recogedor-excrementos-1",
    "thumbnail": "previews/profiles/1709700.jpg",
    "print_time_h": 6.3,
    "plates": 4,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/a1-mini-pooper-scooper-w-handle-1714395.3mf.xz",
+   "path": "model/recogedor-excrementos-2.3mf.xz",
    "instance_id": "1714395",
-   "name": "A1 mini - Recogedor de excrementos con mango",
+   "name": "recogedor-excrementos-2",
    "thumbnail": "previews/profiles/1714395.jpg",
    "print_time_h": 5.9,
    "plates": 3,
@@ -79,9 +79,9 @@
    }
   },
   {
-   "path": "model/pooper-scooper-for-3-4-pvc-pipe-1761432.3mf.xz",
+   "path": "model/recogedor-excrementos-3.3mf.xz",
    "instance_id": "1761432",
-   "name": "Recogedor de excrementos para tubo de PVC de ¾\"",
+   "name": "recogedor-excrementos-3",
    "thumbnail": "previews/profiles/1761432.jpg",
    "print_time_h": 3,
    "plates": 1,
@@ -123,9 +123,9 @@
    }
   },
   {
-   "path": "model/thread-test-for-broom-handle-compatibility-1709720.3mf.xz",
+   "path": "model/recogedor-excrementos-4.3mf.xz",
    "instance_id": "1709720",
-   "name": "Prueba de rosca para compatibilidad con mangos de escoba",
+   "name": "recogedor-excrementos-4",
    "thumbnail": "previews/profiles/1709720.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -167,9 +167,9 @@
    }
   },
   {
-   "path": "model/tpu-handle-grip-1710431.3mf.xz",
+   "path": "model/recogedor-excrementos-5.3mf.xz",
    "instance_id": "1710431",
-   "name": "Empuñadura de TPU",
+   "name": "recogedor-excrementos-5",
    "thumbnail": "previews/profiles/1710431.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -326,7 +326,6 @@
    450
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

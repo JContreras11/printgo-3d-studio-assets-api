@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2255161.3mf.xz",
+   "path": "model/dispensador-bolsas-1.3mf.xz",
    "instance_id": "2255161",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "dispensador-bolsas-1",
    "thumbnail": "previews/profiles/2255161.jpg",
    "print_time_h": 1.1,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/40mm-opening-for-larger-rolls-3788179.3mf.xz",
+   "path": "model/dispensador-bolsas-2.3mf.xz",
    "instance_id": "3788179",
-   "name": "Abertura de 40 mm para rollos más grandes",
+   "name": "dispensador-bolsas-2",
    "thumbnail": "previews/profiles/3788179.jpg",
    "print_time_h": 1.2,
    "plates": 1,
@@ -87,9 +87,9 @@
    }
   },
   {
-   "path": "model/updated-print-profile-looser-tolerances-3788167.3mf.xz",
+   "path": "model/dispensador-bolsas-3.3mf.xz",
    "instance_id": "3788167",
-   "name": "Perfil de impresión actualizado: tolerancias más flexibles",
+   "name": "dispensador-bolsas-3",
    "thumbnail": "previews/profiles/3788167.jpg",
    "print_time_h": 1.2,
    "plates": 1,

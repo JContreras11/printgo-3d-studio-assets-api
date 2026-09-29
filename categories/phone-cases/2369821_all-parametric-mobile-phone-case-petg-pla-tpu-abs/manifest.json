@@ -33,7 +33,7 @@
  ],
  "files": [
   {
-   "path": "model/PETG_PLA_Ultra_CASE.3mf.xz",
+   "path": "model/generador-parametrico.3mf.xz",
    "size": 1050796,
    "sha256": "22feb80c336d7b31deac27ae3646d9f6a9c3319c96a8bf0c165cf385afee8ea1",
    "compressed": true,
@@ -50,7 +50,8 @@
     "support_type": "tree(auto)",
     "photos": 1
    },
-   "thumbnail": "previews/01.png"
+   "thumbnail": "previews/01.png",
+   "name": "generador-parametrico"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4577947750ed04/design/f74f3101905a94f4.png?x-oss-process=image/resize,w_1000",

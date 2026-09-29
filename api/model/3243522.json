@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-8-infill-3675211.3mf.xz",
+   "path": "model/casper-fantasma-1.3mf.xz",
    "instance_id": "3675211",
-   "name": "Capa de 0,2 mm, 2 paredes, 8% de relleno",
+   "name": "casper-fantasma-1",
    "thumbnail": "previews/profiles/3675211.jpg",
    "print_time_h": 6.4,
    "plates": 5,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/0-16mm-layer-2-walls-7-infil-gyroid-better-positio-3688364.3mf.xz",
+   "path": "model/casper-fantasma-2.3mf.xz",
    "instance_id": "3688364",
-   "name": "Capa de 0,16 mm, 2 paredes, 7% de infiltración giroide, mejor posicionamiento",
+   "name": "casper-fantasma-2",
    "thumbnail": "previews/profiles/3688364.jpg",
    "print_time_h": 5.9,
    "plates": 4,
@@ -83,9 +83,9 @@
    }
   },
   {
-   "path": "model/blue-eyes-200-scale-0-12mm-layer-2-walls-8-infill-3775425.3mf.xz",
+   "path": "model/casper-fantasma-3.3mf.xz",
    "instance_id": "3775425",
-   "name": "ojos azules a 200% de escala, capa de 0,12 mm, 2 paredes, 8% de relleno",
+   "name": "casper-fantasma-3",
    "thumbnail": "previews/profiles/3775425.jpg",
    "print_time_h": 44.7,
    "plates": 4,
@@ -121,9 +121,9 @@
    }
   },
   {
-   "path": "model/less-filament-variable-layer-height-3811001.3mf.xz",
+   "path": "model/casper-fantasma-4.3mf.xz",
    "instance_id": "3811001",
-   "name": "Menos filamento + altura de capa variable",
+   "name": "casper-fantasma-4",
    "thumbnail": "previews/profiles/3811001.jpg",
    "print_time_h": 6.1,
    "plates": 4,
@@ -166,9 +166,9 @@
    }
   },
   {
-   "path": "model/multi-color-single-plate-print-optimize-model-redu-3816795.3mf.xz",
+   "path": "model/casper-fantasma-5.3mf.xz",
    "instance_id": "3816795",
-   "name": "Impresión de una sola plancha multicolor, optimice el modelo, reduzca el número de caras y mejore la eficiencia de la impresión",
+   "name": "casper-fantasma-5",
    "thumbnail": "previews/profiles/3816795.jpg",
    "print_time_h": 2.2,
    "plates": 1,
@@ -197,9 +197,9 @@
    }
   },
   {
-   "path": "model/multi-color-single-plate-printing-no-plate-swappin-3816469.3mf.xz",
+   "path": "model/casper-fantasma-6.3mf.xz",
    "instance_id": "3816469",
-   "name": "Impresión multicolor de una sola plancha, no es necesario cambiar las planchas, una plancha corresponde a una versión",
+   "name": "casper-fantasma-6",
    "thumbnail": "previews/profiles/3816469.jpg",
    "print_time_h": 4.3,
    "plates": 2,
@@ -289,7 +289,6 @@
    425
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

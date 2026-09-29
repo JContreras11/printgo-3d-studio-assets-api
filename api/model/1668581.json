@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/happy-halloween-sign-x1-a1-1766262.3mf.xz",
+   "path": "model/feliz-signo-1.3mf.xz",
    "instance_id": "1766262",
-   "name": "Feliz Halloween Signo X1 A1",
+   "name": "feliz-signo-1",
    "thumbnail": "previews/profiles/1766262.jpg",
    "print_time_h": 3.5,
    "plates": 1,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/happy-halloween-a1-mini-1766273.3mf.xz",
+   "path": "model/feliz-signo-2.3mf.xz",
    "instance_id": "1766273",
-   "name": "Feliz Halloween A1 mini",
+   "name": "feliz-signo-2",
    "thumbnail": "previews/profiles/1766273.jpg",
    "print_time_h": 1.5,
    "plates": 1,
@@ -133,7 +133,6 @@
    400
   ]
  },
- "variant_hint": "para X1 y A1 y A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

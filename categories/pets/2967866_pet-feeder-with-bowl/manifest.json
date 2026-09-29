@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/medium-for-256mm-plates-a1-p-x-series-3328019.3mf.xz",
+   "path": "model/comedero-mascotas-1.3mf.xz",
    "instance_id": "3328019",
-   "name": "Mediano - PARA PLACAS DE 256 MM - Series A1, P y X",
+   "name": "comedero-mascotas-1",
    "thumbnail": "previews/profiles/3328019.jpg",
    "print_time_h": 26.3,
    "plates": 5,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/large-for-300mm-plates-a2l-h-series-3328068.3mf.xz",
+   "path": "model/comedero-mascotas-2.3mf.xz",
    "instance_id": "3328068",
-   "name": "Grande - PARA PLACAS DE 300 MM - A2L, Serie H",
+   "name": "comedero-mascotas-2",
    "thumbnail": "previews/profiles/3328068.jpg",
    "print_time_h": 39.8,
    "plates": 5,
@@ -79,9 +79,9 @@
    }
   },
   {
-   "path": "model/small-for-185mm-plates-a1-mini-3328058.3mf.xz",
+   "path": "model/comedero-mascotas-3.3mf.xz",
    "instance_id": "3328058",
-   "name": "Pequeño - PARA PLACAS DE 185MM - A1 mini",
+   "name": "comedero-mascotas-3",
    "thumbnail": "previews/profiles/3328058.jpg",
    "print_time_h": 15.8,
    "plates": 5,
@@ -170,7 +170,6 @@
    554
   ]
  },
- "variant_hint": "para A1 y A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

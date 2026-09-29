@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/fountain-all-files-1501448.3mf.xz",
+   "path": "model/fuente-beber-1.3mf.xz",
    "instance_id": "1501448",
-   "name": "Fuente todos los archivos",
+   "name": "fuente-beber-1",
    "thumbnail": "previews/profiles/1501448.jpg",
    "print_time_h": 9.4,
    "plates": 3,
@@ -34,9 +34,9 @@
    }
   },
   {
-   "path": "model/plate-layout-for-a1-mini-3805455.3mf.xz",
+   "path": "model/fuente-beber-2.3mf.xz",
    "instance_id": "3805455",
-   "name": "Disposición de la placa para A1 mini",
+   "name": "fuente-beber-2",
    "thumbnail": "previews/profiles/3805455.jpg",
    "print_time_h": 10.2,
    "plates": 3,
@@ -126,7 +126,6 @@
    798
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

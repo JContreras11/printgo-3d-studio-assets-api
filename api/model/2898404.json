@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/single-color-version-3239608.3mf.xz",
+   "path": "model/mini-perro-1.3mf.xz",
    "instance_id": "3239608",
-   "name": "Versión de un solo color",
+   "name": "mini-perro-1",
    "thumbnail": "previews/profiles/3239608.jpg",
    "print_time_h": 0.5,
    "plates": 1,
@@ -40,9 +40,9 @@
    }
   },
   {
-   "path": "model/0-2mm-nozzle-high-quality-3317708.3mf.xz",
+   "path": "model/mini-perro-2.3mf.xz",
    "instance_id": "3317708",
-   "name": "Boquilla de 0,2 mm de alta calidad.",
+   "name": "mini-perro-2",
    "thumbnail": "previews/profiles/3317708.jpg",
    "print_time_h": 0.9,
    "plates": 1,
@@ -84,9 +84,9 @@
    }
   },
   {
-   "path": "model/17-different-dogs-0-16mm-layer-2-walls-15-infill-3709039.3mf.xz",
+   "path": "model/mini-perro-3.3mf.xz",
    "instance_id": "3709039",
-   "name": "17 perros diferentes Capa de 0,16 mm, 2 paredes, 15 % de relleno",
+   "name": "mini-perro-3",
    "thumbnail": "previews/profiles/3709039.jpg",
    "print_time_h": 3.3,
    "plates": 1,
@@ -128,9 +128,9 @@
    }
   },
   {
-   "path": "model/higher-quality-with-easy-to-remove-supports-3317716.3mf.xz",
+   "path": "model/mini-perro-4.3mf.xz",
    "instance_id": "3317716",
-   "name": "Mayor calidad con soportes fáciles de quitar",
+   "name": "mini-perro-4",
    "thumbnail": "previews/profiles/3317716.jpg",
    "print_time_h": 0.4,
    "plates": 1,
@@ -172,9 +172,9 @@
    }
   },
   {
-   "path": "model/model-optimization-reduced-polygon-count-improved--3658260.3mf.xz",
+   "path": "model/mini-perro-5.3mf.xz",
    "instance_id": "3658260",
-   "name": "Optimización del modelo, recuento reducido de polígonos, eficiencia mejorada",
+   "name": "mini-perro-5",
    "thumbnail": "previews/profiles/3658260.jpg",
    "print_time_h": 0.4,
    "plates": 1,
@@ -215,9 +215,9 @@
    }
   },
   {
-   "path": "model/pokemon-red-version-artwork-3324887.3mf.xz",
+   "path": "model/mini-perro-6.3mf.xz",
    "instance_id": "3324887",
-   "name": "Pokémon Red Version Artwork",
+   "name": "mini-perro-6",
    "thumbnail": "previews/profiles/3324887.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -312,7 +312,6 @@
    450
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

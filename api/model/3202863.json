@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/smooth-belly-version-3624679.3mf.xz",
+   "path": "model/juguete-antiestres-1.3mf.xz",
    "instance_id": "3624679",
-   "name": "Versión VIENTRE LISO",
+   "name": "juguete-antiestres-1",
    "thumbnail": "previews/profiles/3624679.jpg",
    "print_time_h": 1.8,
    "plates": 4,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/multipart-version-3625476.3mf.xz",
+   "path": "model/juguete-antiestres-2.3mf.xz",
    "instance_id": "3625476",
-   "name": "Versión MULTIPARTE",
+   "name": "juguete-antiestres-2",
    "thumbnail": "previews/profiles/3625476.jpg",
    "print_time_h": 1.7,
    "plates": 4,
@@ -89,9 +89,9 @@
    }
   },
   {
-   "path": "model/one-plate-version-a1-a2-3625484.3mf.xz",
+   "path": "model/juguete-antiestres-3.3mf.xz",
    "instance_id": "3625484",
-   "name": "Versión de una placa (A1, A2)",
+   "name": "juguete-antiestres-3",
    "thumbnail": "previews/profiles/3625484.jpg",
    "print_time_h": 1.9,
    "plates": 1,
@@ -122,9 +122,9 @@
    }
   },
   {
-   "path": "model/one-plate-version-h2d-h2c-3625501.3mf.xz",
+   "path": "model/juguete-antiestres-4.3mf.xz",
    "instance_id": "3625501",
-   "name": "Versión de una placa (H2D, H2C)",
+   "name": "juguete-antiestres-4",
    "thumbnail": "previews/profiles/3625501.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -155,9 +155,9 @@
    }
   },
   {
-   "path": "model/one-plate-version-h2s-3625494.3mf.xz",
+   "path": "model/juguete-antiestres-5.3mf.xz",
    "instance_id": "3625494",
-   "name": "Versión de una placa (H2S)",
+   "name": "juguete-antiestres-5",
    "thumbnail": "previews/profiles/3625494.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -186,9 +186,9 @@
    }
   },
   {
-   "path": "model/one-plate-version-p1-x1-3625485.3mf.xz",
+   "path": "model/juguete-antiestres-6.3mf.xz",
    "instance_id": "3625485",
-   "name": "Versión de una placa (P1, X1)",
+   "name": "juguete-antiestres-6",
    "thumbnail": "previews/profiles/3625485.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -221,9 +221,9 @@
    }
   },
   {
-   "path": "model/one-plate-version-p2s-3625489.3mf.xz",
+   "path": "model/juguete-antiestres-7.3mf.xz",
    "instance_id": "3625489",
-   "name": "Versión de una placa (P2S)",
+   "name": "juguete-antiestres-7",
    "thumbnail": "previews/profiles/3625489.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -252,9 +252,9 @@
    }
   },
   {
-   "path": "model/one-plate-version-x2d-3625493.3mf.xz",
+   "path": "model/juguete-antiestres-8.3mf.xz",
    "instance_id": "3625493",
-   "name": "Versión de una placa (X2D)",
+   "name": "juguete-antiestres-8",
    "thumbnail": "previews/profiles/3625493.jpg",
    "print_time_h": 1.6,
    "plates": 1,
@@ -283,9 +283,9 @@
    }
   },
   {
-   "path": "model/single-color-version-3625480.3mf.xz",
+   "path": "model/juguete-antiestres-9.3mf.xz",
    "instance_id": "3625480",
-   "name": "Versión ÚNICA COLOR",
+   "name": "juguete-antiestres-9",
    "thumbnail": "previews/profiles/3625480.jpg",
    "print_time_h": 1.1,
    "plates": 1,
@@ -419,7 +419,6 @@
    447
   ]
  },
- "variant_hint": "Monocromo · para A1 y X1",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

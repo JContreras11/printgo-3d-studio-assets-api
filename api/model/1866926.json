@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/single-color-print-profile-1997546.3mf.xz",
+   "path": "model/gato-calabaza-1.3mf.xz",
    "instance_id": "1997546",
-   "name": "Perfil de impresión de un solo color",
+   "name": "gato-calabaza-1",
    "thumbnail": "previews/profiles/1997546.jpg",
    "print_time_h": 0.9,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/multicolor-print-profile-1997550.3mf.xz",
+   "path": "model/gato-calabaza-2.3mf.xz",
    "instance_id": "1997550",
-   "name": "Perfil de impresión multicolor",
+   "name": "gato-calabaza-2",
    "thumbnail": "previews/profiles/1997550.jpg",
    "print_time_h": 3.8,
    "plates": 1,
@@ -154,7 +154,6 @@
    450
   ]
  },
- "variant_hint": "Multicolor y monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-10-infill-930259.3mf.xz",
+   "path": "model/cuchara-comida-1.3mf.xz",
    "instance_id": "930259",
-   "name": "Capa de 0,2 mm, 2 paredes, 10% de relleno",
+   "name": "cuchara-comida-1",
    "thumbnail": "previews/profiles/930259.jpg",
    "print_time_h": 1.5,
    "plates": 1,
@@ -63,9 +63,9 @@
    }
   },
   {
-   "path": "model/1-cup-version-2712184.3mf.xz",
+   "path": "model/cuchara-comida-2.3mf.xz",
    "instance_id": "2712184",
-   "name": "Versión 1 TAZA",
+   "name": "cuchara-comida-2",
    "thumbnail": "previews/profiles/2712184.jpg",
    "print_time_h": 2.4,
    "plates": 1,
@@ -105,9 +105,9 @@
    }
   },
   {
-   "path": "model/2-3-cup-improved-strength-purging-0-22mm-3-wall-8--1211544.3mf.xz",
+   "path": "model/cuchara-comida-3.3mf.xz",
    "instance_id": "1211544",
-   "name": "⅔ taza, fuerza mejorada y purga. 0,22 mm, 3 paredes, 8 % de trampilla",
+   "name": "cuchara-comida-3",
    "thumbnail": "previews/profiles/1211544.jpg",
    "print_time_h": 1.6,
    "plates": 1,

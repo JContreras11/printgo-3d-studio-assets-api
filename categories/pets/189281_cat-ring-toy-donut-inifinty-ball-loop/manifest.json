@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cat-toy-donut-0-2mm-layer-2-walls-15-infill-208726.3mf.xz",
+   "path": "model/donut-juguete-1.3mf.xz",
    "instance_id": "208726",
-   "name": "Donut de juguete para gatos: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "donut-juguete-1",
    "thumbnail": "previews/profiles/208726.jpg",
    "print_time_h": 8.1,
    "plates": 2,
@@ -71,9 +71,9 @@
    }
   },
   {
-   "path": "model/250mm-xl-0-2mm-layer-2-walls-15-infill-3757222.3mf.xz",
+   "path": "model/donut-juguete-2.3mf.xz",
    "instance_id": "3757222",
-   "name": "250 mm XL: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "donut-juguete-2",
    "thumbnail": "previews/profiles/3757222.jpg",
    "print_time_h": 4.1,
    "plates": 1,
@@ -112,9 +112,9 @@
    }
   },
   {
-   "path": "model/a1-mini-donut-version0-2mm-layer-2-walls-15-infill-812334.3mf.xz",
+   "path": "model/donut-juguete-3.3mf.xz",
    "instance_id": "812334",
-   "name": "A1_Mini_Donut-VersionCapa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "donut-juguete-3",
    "thumbnail": "previews/profiles/812334.jpg",
    "print_time_h": 5.6,
    "plates": 2,
@@ -183,9 +183,9 @@
    }
   },
   {
-   "path": "model/a1-mini-donut-with-holes-0-2mm-layer-2-walls-15-in-812338.3mf.xz",
+   "path": "model/donut-juguete-4.3mf.xz",
    "instance_id": "812338",
-   "name": "A1_Mini_Donut_with Holes: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "donut-juguete-4",
    "thumbnail": "previews/profiles/812338.jpg",
    "print_time_h": 6.5,
    "plates": 2,
@@ -254,9 +254,9 @@
    }
   },
   {
-   "path": "model/cat-toy-donut-with-holes-0-2mm-layer-2-walls-15-in-208730.3mf.xz",
+   "path": "model/donut-juguete-5.3mf.xz",
    "instance_id": "208730",
-   "name": "Donut de juguete para gatos con agujeros: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "donut-juguete-5",
    "thumbnail": "previews/profiles/208730.jpg",
    "print_time_h": 8.5,
    "plates": 2,
@@ -400,7 +400,6 @@
    800
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

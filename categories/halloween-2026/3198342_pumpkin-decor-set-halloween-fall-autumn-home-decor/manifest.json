@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/2-parts-0-20mm-layer-2-walls-15-infill-3619107.3mf.xz",
+   "path": "model/conjunto-decoracion-1.3mf.xz",
    "instance_id": "3619107",
-   "name": "2 partes de capa de 0,20 mm, 2 paredes, 15% de relleno",
+   "name": "conjunto-decoracion-1",
    "thumbnail": "previews/profiles/3619107.jpg",
    "print_time_h": 4.1,
    "plates": 2,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/0-16-nozzle-two-color-single-plate-split-parts-fas-3806277.3mf.xz",
+   "path": "model/conjunto-decoracion-2.3mf.xz",
    "instance_id": "3806277",
-   "name": "Impresión rápida de piezas divididas de placa única bicolor de 0,16 boquillas",
+   "name": "conjunto-decoracion-2",
    "thumbnail": "previews/profiles/3806277.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -77,9 +77,9 @@
    }
   },
   {
-   "path": "model/faster-and-optimized-best-print-profile-color-spli-3724382.3mf.xz",
+   "path": "model/conjunto-decoracion-3.3mf.xz",
    "instance_id": "3724382",
-   "name": "Más rápido y optimizado: mejor división de color del perfil de impresión, sin AMS",
+   "name": "conjunto-decoracion-3",
    "thumbnail": "previews/profiles/3724382.jpg",
    "print_time_h": 2.7,
    "plates": 2,
@@ -121,9 +121,9 @@
    }
   },
   {
-   "path": "model/optimization-for-faster-printing-3645636.3mf.xz",
+   "path": "model/conjunto-decoracion-4.3mf.xz",
    "instance_id": "3645636",
-   "name": "Optimización para una impresión más rápida",
+   "name": "conjunto-decoracion-4",
    "thumbnail": "previews/profiles/3645636.jpg",
    "print_time_h": 2.7,
    "plates": 2,
@@ -209,7 +209,6 @@
    800
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

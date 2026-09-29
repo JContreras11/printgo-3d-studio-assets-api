@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-1402239.3mf.xz",
+   "path": "model/tazon-agua-1.3mf.xz",
    "instance_id": "1402239",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "tazon-agua-1",
    "thumbnail": "previews/profiles/1402239.jpg",
    "print_time_h": 4.8,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-5-gyroid-infill-1406314.3mf.xz",
+   "path": "model/tazon-agua-2.3mf.xz",
    "instance_id": "1406314",
-   "name": "Capa de 0,2 mm, 2 paredes, 5 % de relleno giroide",
+   "name": "tazon-agua-2",
    "thumbnail": "previews/profiles/1406314.jpg",
    "print_time_h": 4.3,
    "plates": 1,
@@ -88,9 +88,9 @@
    }
   },
   {
-   "path": "model/a1-mini-0-2mm-layer-5-infill-1409618.3mf.xz",
+   "path": "model/tazon-agua-3.3mf.xz",
    "instance_id": "1409618",
-   "name": "A1 mini capa de 0,2 mm, 5 % de relleno",
+   "name": "tazon-agua-3",
    "thumbnail": "previews/profiles/1409618.jpg",
    "print_time_h": 5,
    "plates": 2,
@@ -132,9 +132,9 @@
    }
   },
   {
-   "path": "model/a1-mini-1406927.3mf.xz",
+   "path": "model/tazon-agua-4.3mf.xz",
    "instance_id": "1406927",
-   "name": "A1 mini",
+   "name": "tazon-agua-4",
    "thumbnail": "previews/profiles/1406927.jpg",
    "print_time_h": 5.5,
    "plates": 2,
@@ -169,9 +169,9 @@
    }
   },
   {
-   "path": "model/faster-print-less-infill-gyroid-type-1409605.3mf.xz",
+   "path": "model/tazon-agua-5.3mf.xz",
    "instance_id": "1409605",
-   "name": "Impresión más rápida, menos relleno, tipo giroide",
+   "name": "tazon-agua-5",
    "thumbnail": "previews/profiles/1409605.jpg",
    "print_time_h": 4.4,
    "plates": 1,
@@ -212,9 +212,9 @@
    }
   },
   {
-   "path": "model/reduction-adapter-for-internal-treat-bottle-2358332.3mf.xz",
+   "path": "model/tazon-agua-6.3mf.xz",
    "instance_id": "2358332",
-   "name": "Reducción/Adaptador para botella de tratamiento interno",
+   "name": "tazon-agua-6",
    "thumbnail": "previews/profiles/2358332.jpg",
    "print_time_h": 0.7,
    "plates": 1,
@@ -346,7 +346,6 @@
    600
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

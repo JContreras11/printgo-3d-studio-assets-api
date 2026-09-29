@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/ams-2-colour-1794500.3mf.xz",
+   "path": "model/lindo-unicornio-1.3mf.xz",
    "instance_id": "1794500",
-   "name": "AMS 2 colores",
+   "name": "lindo-unicornio-1",
    "thumbnail": "previews/profiles/1794500.jpg",
    "print_time_h": 1.4,
    "plates": 1,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/colored-version-3143289.3mf.xz",
+   "path": "model/lindo-unicornio-2.3mf.xz",
    "instance_id": "3143289",
-   "name": "Versión coloreada",
+   "name": "lindo-unicornio-2",
    "thumbnail": "previews/profiles/3143289.jpg",
    "print_time_h": 15.8,
    "plates": 1,
@@ -144,7 +144,6 @@
    922
   ]
  },
- "variant_hint": "Multicolor",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

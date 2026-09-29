@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/ghost-treat-bucket-3792045.3mf.xz",
+   "path": "model/cubo-grande-1.3mf.xz",
    "instance_id": "3792045",
-   "name": "Cubo de golosinas fantasma",
+   "name": "cubo-grande-1",
    "thumbnail": "previews/profiles/3792045.jpg",
    "print_time_h": 4,
    "plates": 3,
@@ -44,9 +44,9 @@
    }
   },
   {
-   "path": "model/ghost-treat-bucket-a1-mini-3795670.3mf.xz",
+   "path": "model/cubo-grande-2.3mf.xz",
    "instance_id": "3795670",
-   "name": "Cubo de golosinas fantasma - A1 mini",
+   "name": "cubo-grande-2",
    "thumbnail": "previews/profiles/3795670.jpg",
    "print_time_h": 2.8,
    "plates": 3,
@@ -75,9 +75,9 @@
    }
   },
   {
-   "path": "model/petg-optimized-vase-mode-fast-0-2mm-layer-1-walls--3818538.3mf.xz",
+   "path": "model/cubo-grande-3.3mf.xz",
    "instance_id": "3818538",
-   "name": "PETG Modo florero optimizado RÁPIDO Capa de 0,2 mm, 1 pared, 0 % de inf.",
+   "name": "cubo-grande-3",
    "thumbnail": "previews/profiles/3818538.jpg",
    "print_time_h": 5,
    "plates": 3,
@@ -196,7 +196,6 @@
    640
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

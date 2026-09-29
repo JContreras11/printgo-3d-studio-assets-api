@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cat-toy-oval-0-2mm-layer-2-walls-15-infill-812415.3mf.xz",
+   "path": "model/anillo-ovalado-1.3mf.xz",
    "instance_id": "812415",
-   "name": "Juguete para gatos ovalado: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "anillo-ovalado-1",
    "thumbnail": "previews/profiles/812415.jpg",
    "print_time_h": 4.5,
    "plates": 1,
@@ -58,9 +58,9 @@
    }
   },
   {
-   "path": "model/0-6mm-nozzle-0-3mm-layer-2-walls-15-infill-1737644.3mf.xz",
+   "path": "model/anillo-ovalado-2.3mf.xz",
    "instance_id": "1737644",
-   "name": "Boquilla de 0,6 mm, capa de 0,3 mm, 2 paredes, 15 % de relleno",
+   "name": "anillo-ovalado-2",
    "thumbnail": "previews/profiles/1737644.jpg",
    "print_time_h": 3.5,
    "plates": 1,
@@ -101,9 +101,9 @@
    }
   },
   {
-   "path": "model/a1-mini-cat-toy-oval-0-2mm-layer-2-walls-15-infill-812423.3mf.xz",
+   "path": "model/anillo-ovalado-3.3mf.xz",
    "instance_id": "812423",
-   "name": "A1_Mini_Cat Toy Oval: capa de 0,2 mm, 2 paredes, 15 % de relleno",
+   "name": "anillo-ovalado-3",
    "thumbnail": "previews/profiles/812423.jpg",
    "print_time_h": 2.9,
    "plates": 1,
@@ -207,7 +207,6 @@
    450
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

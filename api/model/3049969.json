@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/separate-parts-0-12mm-layer-2-walls-10-infill-3430997.3mf.xz",
+   "path": "model/perro-pastor-1.3mf.xz",
    "instance_id": "3430997",
-   "name": "Piezas separadas, capa de 0,12 mm, 2 paredes, 10 % de relleno",
+   "name": "perro-pastor-1",
    "thumbnail": "previews/profiles/3430997.jpg",
    "print_time_h": 3.3,
    "plates": 2,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/all-parts-on-one-plate-print-by-object-a-series-on-3431145.3mf.xz",
+   "path": "model/perro-pastor-2.3mf.xz",
    "instance_id": "3431145",
-   "name": "Todas las piezas en una sola placa (Impresión por objeto: solo serie A)",
+   "name": "perro-pastor-2",
    "thumbnail": "previews/profiles/3431145.jpg",
    "print_time_h": 3.1,
    "plates": 1,
@@ -78,9 +78,9 @@
    }
   },
   {
-   "path": "model/all-parts-on-one-plate-print-by-object-h-series-on-3431158.3mf.xz",
+   "path": "model/perro-pastor-3.3mf.xz",
    "instance_id": "3431158",
-   "name": "Todas las piezas en una placa (Impresión por objeto: solo serie H)",
+   "name": "perro-pastor-3",
    "thumbnail": "previews/profiles/3431158.jpg",
    "print_time_h": 3.2,
    "plates": 1,
@@ -111,9 +111,9 @@
    }
   },
   {
-   "path": "model/all-parts-on-one-plate-print-by-object-x-p-series--3431154.3mf.xz",
+   "path": "model/perro-pastor-4.3mf.xz",
    "instance_id": "3431154",
-   "name": "Todas las piezas en una placa (Impresión por objeto: solo serie X/P)",
+   "name": "perro-pastor-4",
    "thumbnail": "previews/profiles/3431154.jpg",
    "print_time_h": 2.8,
    "plates": 1,
@@ -146,9 +146,9 @@
    }
   },
   {
-   "path": "model/ams-0-16mm-layer-2-walls-10-infill-3431005.3mf.xz",
+   "path": "model/perro-pastor-5.3mf.xz",
    "instance_id": "3431005",
-   "name": "AMS, capa de 0,16 mm, 2 paredes, 10 % de relleno",
+   "name": "perro-pastor-5",
    "thumbnail": "previews/profiles/3431005.jpg",
    "print_time_h": 14.4,
    "plates": 1,
@@ -190,9 +190,9 @@
    }
   },
   {
-   "path": "model/mini-single-color-version-0-12mm-layer-2-walls-10--3751640.3mf.xz",
+   "path": "model/perro-pastor-6.3mf.xz",
    "instance_id": "3751640",
-   "name": "Versión mini de un solo color: capa de 0,12 mm, 2 paredes, 10 % de relleno",
+   "name": "perro-pastor-6",
    "thumbnail": "previews/profiles/3751640.jpg",
    "print_time_h": 0.9,
    "plates": 1,
@@ -234,9 +234,9 @@
    }
   },
   {
-   "path": "model/multi-color-single-plate-printing-optimize-model-r-3554243.3mf.xz",
+   "path": "model/perro-pastor-7.3mf.xz",
    "instance_id": "3554243",
-   "name": "Impresión multicolor en una sola plancha, optimización del modelo, reducción del número de polígonos y mejora de la eficiencia",
+   "name": "perro-pastor-7",
    "thumbnail": "previews/profiles/3554243.jpg",
    "print_time_h": 1.8,
    "plates": 1,
@@ -343,7 +343,6 @@
    569
   ]
  },
- "variant_hint": "Monocromo · para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

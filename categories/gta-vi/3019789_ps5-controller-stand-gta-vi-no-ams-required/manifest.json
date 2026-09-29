@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-8-infill-3392657.3mf.xz",
+   "path": "model/soporte-controlador-1.3mf.xz",
    "instance_id": "3392657",
-   "name": "Capa de 0,2 mm, 2 paredes, 8% de relleno",
+   "name": "soporte-controlador-1",
    "thumbnail": "previews/profiles/3392657.jpg",
    "print_time_h": 2.3,
    "plates": 2,
@@ -32,9 +32,9 @@
    }
   },
   {
-   "path": "model/all-printers-3424305.3mf.xz",
+   "path": "model/soporte-controlador-2.3mf.xz",
    "instance_id": "3424305",
-   "name": "Todas las impresoras",
+   "name": "soporte-controlador-2",
    "thumbnail": "previews/profiles/3424305.jpg",
    "print_time_h": 2.4,
    "plates": 4,
@@ -75,9 +75,9 @@
    }
   },
   {
-   "path": "model/multi-color-single-plate-printing-increasing-print-3712909.3mf.xz",
+   "path": "model/soporte-controlador-3.3mf.xz",
    "instance_id": "3712909",
-   "name": "Impresión multicolor en una sola plancha, aumentando la velocidad de impresión",
+   "name": "soporte-controlador-3",
    "thumbnail": "previews/profiles/3712909.jpg",
    "print_time_h": 2,
    "plates": 1,
@@ -106,9 +106,9 @@
    }
   },
   {
-   "path": "model/multi-color-single-plate-printing-increasing-print-3808257.3mf.xz",
+   "path": "model/soporte-controlador-4.3mf.xz",
    "instance_id": "3808257",
-   "name": "Impresión multicolor en una sola plancha, aumentando la velocidad de impresión",
+   "name": "soporte-controlador-4",
    "thumbnail": "previews/profiles/3808257.jpg",
    "print_time_h": 2,
    "plates": 1,
@@ -137,9 +137,9 @@
    }
   },
   {
-   "path": "model/petg-most-resistant-3777036.3mf.xz",
+   "path": "model/soporte-controlador-5.3mf.xz",
    "instance_id": "3777036",
-   "name": "PETG - MÁS RESISTENTE -",
+   "name": "soporte-controlador-5",
    "thumbnail": "previews/profiles/3777036.jpg",
    "print_time_h": 2.7,
    "plates": 4,
@@ -250,7 +250,6 @@
    450
   ]
  },
- "variant_hint": "Monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

@@ -28,7 +28,7 @@
  ],
  "files": [
   {
-   "path": "model/door_hanger-3.3mf.xz",
+   "path": "model/gancho-puerta-1.3mf.xz",
    "size": 2949096,
    "sha256": "42885abf7e6aa866f042feccb259b737da7c9bf778057e7875afa264d2c23554",
    "compressed": true,
@@ -61,10 +61,11 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/216967.jpg",
-   "instance_id": "216967"
+   "instance_id": "216967",
+   "name": "gancho-puerta-1"
   },
   {
-   "path": "model/door_hanger.3mf.xz",
+   "path": "model/gancho-puerta-2.3mf.xz",
    "size": 2847836,
    "sha256": "320aff92af615ecdc9d11ca73b5cf9c3f0535865ebe6ab01a7c27f4df5af358c",
    "compressed": true,
@@ -96,7 +97,8 @@
     "photos": 1
    },
    "thumbnail": "previews/profiles/216967.jpg",
-   "instance_id": "216967"
+   "instance_id": "216967",
+   "name": "gancho-puerta-2"
   }
  ],
  "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9774e352a5902e/design/2024-02-21_df4def6da266e.jpg?x-oss-process=image/resize,w_1000",

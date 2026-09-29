@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/multicolor-multipart-original-version-1019326.3mf.xz",
+   "path": "model/pequeno-perro-1.3mf.xz",
    "instance_id": "1019326",
-   "name": "Multiparte multicolor (versión original)",
+   "name": "pequeno-perro-1",
    "thumbnail": "previews/profiles/1019326.jpg",
    "print_time_h": 1.2,
    "plates": 2,
@@ -45,9 +45,53 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-20-lightning-infill-1121293.3mf.xz",
+   "path": "model/pequeno-perro-10.3mf.xz",
+   "instance_id": "1019371",
+   "name": "pequeno-perro-10",
+   "thumbnail": "previews/profiles/1019371.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 175,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2580456,
+   "sha256": "72171326a3276b9e7b9b9113a123889ac14a87044b349d793c1d463da5b8eaaa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Single Color",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/pequeno-perro-2.3mf.xz",
    "instance_id": "1121293",
-   "name": "Capa de 0,2 mm, 2 paredes, 20 % de relleno de rayos",
+   "name": "pequeno-perro-2",
    "thumbnail": "previews/profiles/1121293.jpg",
    "print_time_h": 1.1,
    "plates": 2,
@@ -116,9 +160,9 @@
    }
   },
   {
-   "path": "model/1-plate-1-filament-change-arachne-wall-adaptive-cu-1201668.3mf.xz",
+   "path": "model/pequeno-perro-3.3mf.xz",
    "instance_id": "1201668",
-   "name": "1 Placa, 1 Cambio de Filamento, Muro de Aracne, Cúbico Adaptable",
+   "name": "pequeno-perro-3",
    "thumbnail": "previews/profiles/1201668.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -170,9 +214,9 @@
    }
   },
   {
-   "path": "model/23-5-cm-h-facing-left-or-right-no-supports-1352424.3mf.xz",
+   "path": "model/pequeno-perro-4.3mf.xz",
    "instance_id": "1352424",
-   "name": "23,5 cm H, mirando hacia la izquierda o hacia la derecha, sin soportes",
+   "name": "pequeno-perro-4",
    "thumbnail": "previews/profiles/1352424.jpg",
    "print_time_h": 20.9,
    "plates": 3,
@@ -208,9 +252,9 @@
    }
   },
   {
-   "path": "model/fuzzy-skin-125-2-plates-0-2mm-layer-3-walls-5-infi-1026355.3mf.xz",
+   "path": "model/pequeno-perro-5.3mf.xz",
    "instance_id": "1026355",
-   "name": "Piel difusa, 125 %, 2 placas de capa de 0,2 mm, 3 paredes, 5 % de relleno",
+   "name": "pequeno-perro-5",
    "thumbnail": "previews/profiles/1026355.jpg",
    "print_time_h": 1.6,
    "plates": 2,
@@ -280,9 +324,9 @@
    }
   },
   {
-   "path": "model/maltese-dog-with-tag-1936976.3mf.xz",
+   "path": "model/pequeno-perro-6.3mf.xz",
    "instance_id": "1936976",
-   "name": "Perro maltés con etiqueta",
+   "name": "pequeno-perro-6",
    "thumbnail": "previews/profiles/1936976.jpg",
    "print_time_h": 1.7,
    "plates": 2,
@@ -312,9 +356,9 @@
    }
   },
   {
-   "path": "model/multicolor-ams-two-versions-1406673.3mf.xz",
+   "path": "model/pequeno-perro-7.3mf.xz",
    "instance_id": "1406673",
-   "name": "AMS multicolor (dos versiones)",
+   "name": "pequeno-perro-7",
    "thumbnail": "previews/profiles/1406673.jpg",
    "print_time_h": 5.4,
    "plates": 2,
@@ -356,9 +400,9 @@
    }
   },
   {
-   "path": "model/multicolor-multipart-smiling-eyes-version-1406725.3mf.xz",
+   "path": "model/pequeno-perro-8.3mf.xz",
    "instance_id": "1406725",
-   "name": "Multicolor Multiparte (Versión Ojos Sonrientes)",
+   "name": "pequeno-perro-8",
    "thumbnail": "previews/profiles/1406725.jpg",
    "print_time_h": 1.2,
    "plates": 2,
@@ -400,9 +444,9 @@
    }
   },
   {
-   "path": "model/one-palet-use-ams-3676538.3mf.xz",
+   "path": "model/pequeno-perro-9.3mf.xz",
    "instance_id": "3676538",
-   "name": "Una paleta - use AMS",
+   "name": "pequeno-perro-9",
    "thumbnail": "previews/profiles/3676538.jpg",
    "print_time_h": 1,
    "plates": 1,
@@ -424,50 +468,6 @@
     "profile_title": "One palet - use ams",
     "profile_notes": "0.2mm layer, 2 walls, 15% infill",
     "creation_date": "2026-08-31",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
-   "path": "model/single-color-1019371.3mf.xz",
-   "instance_id": "1019371",
-   "name": "un solo color",
-   "thumbnail": "previews/profiles/1019371.jpg",
-   "print_time_h": 1.1,
-   "plates": 1,
-   "rating": 4.9,
-   "rating_count": 175,
-   "by_designer": true,
-   "printers": [
-    "A1 mini",
-    "X1",
-    "X1 Carbon",
-    "A1",
-    "P1P",
-    "P1S",
-    "H2S",
-    "H2D Pro",
-    "P2S",
-    "H2C",
-    "H2D",
-    "X1E",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 2580456,
-   "sha256": "72171326a3276b9e7b9b9113a123889ac14a87044b349d793c1d463da5b8eaaa",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.00.03.54",
-    "profile_title": "Single Color",
-    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
-    "creation_date": "2025-04-27",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab A1 mini",
     "layer_height": "0.2",
@@ -533,6 +533,10 @@
    600,
    450
   ],
+  "previews/profiles/1019371.jpg": [
+   600,
+   450
+  ],
   "previews/profiles/1121293.jpg": [
    600,
    800
@@ -564,13 +568,8 @@
   "previews/profiles/3676538.jpg": [
    450,
    600
-  ],
-  "previews/profiles/1019371.jpg": [
-   600,
-   450
   ]
  },
- "variant_hint": "Multicolor y monocromo",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

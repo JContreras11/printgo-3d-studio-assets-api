@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2561760.3mf.xz",
+   "path": "model/dispensador-alimentos-1.3mf.xz",
    "instance_id": "2561760",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "dispensador-alimentos-1",
    "thumbnail": "previews/profiles/2561760.jpg",
    "print_time_h": 16.6,
    "plates": 1,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/12cm-raise-2732726.3mf.xz",
+   "path": "model/dispensador-alimentos-2.3mf.xz",
    "instance_id": "2732726",
-   "name": "elevación de 12 cm",
+   "name": "dispensador-alimentos-2",
    "thumbnail": "previews/profiles/2732726.jpg",
    "print_time_h": 3.3,
    "plates": 1,
@@ -85,9 +85,9 @@
    }
   },
   {
-   "path": "model/a1-mini-profile-3044122.3mf.xz",
+   "path": "model/dispensador-alimentos-3.3mf.xz",
    "instance_id": "3044122",
-   "name": "Perfil A1 mini",
+   "name": "dispensador-alimentos-3",
    "thumbnail": "previews/profiles/3044122.jpg",
    "print_time_h": 21.6,
    "plates": 3,
@@ -129,9 +129,9 @@
    }
   },
   {
-   "path": "model/smooth-column-2732718.3mf.xz",
+   "path": "model/dispensador-alimentos-4.3mf.xz",
    "instance_id": "2732718",
-   "name": "Columna Lisa",
+   "name": "dispensador-alimentos-4",
    "thumbnail": "previews/profiles/2732718.jpg",
    "print_time_h": 4.7,
    "plates": 1,
@@ -171,9 +171,9 @@
    }
   },
   {
-   "path": "model/smooth-lid-2755154.3mf.xz",
+   "path": "model/dispensador-alimentos-5.3mf.xz",
    "instance_id": "2755154",
-   "name": "Tapa lisa",
+   "name": "dispensador-alimentos-5",
    "thumbnail": "previews/profiles/2755154.jpg",
    "print_time_h": 1.4,
    "plates": 1,
@@ -272,7 +272,6 @@
    474
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

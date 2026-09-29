@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/improved-hamster-house-1662457.3mf.xz",
+   "path": "model/casa-hamster-1.3mf.xz",
    "instance_id": "1662457",
-   "name": "Casa de hámster mejorada",
+   "name": "casa-hamster-1",
    "thumbnail": "previews/profiles/1662457.jpg",
    "print_time_h": 13.4,
    "plates": 2,
@@ -43,9 +43,9 @@
    }
   },
   {
-   "path": "model/hamster-house-a1-mini-support-2884928.3mf.xz",
+   "path": "model/casa-hamster-2.3mf.xz",
    "instance_id": "2884928",
-   "name": "Soporte Casa Hámster A1 mini",
+   "name": "casa-hamster-2",
    "thumbnail": "previews/profiles/2884928.jpg",
    "print_time_h": 13,
    "plates": 2,
@@ -87,9 +87,9 @@
    }
   },
   {
-   "path": "model/hamster-house-door-download-as-needed-1672004.3mf.xz",
+   "path": "model/casa-hamster-3.3mf.xz",
    "instance_id": "1672004",
-   "name": "Puerta de la casa del hámster (descargar según sea necesario)",
+   "name": "casa-hamster-3",
    "thumbnail": "previews/profiles/1672004.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -130,9 +130,9 @@
    }
   },
   {
-   "path": "model/house-with-no-floor-0-2mm-layer-2-walls-15-infill-2374744.3mf.xz",
+   "path": "model/casa-hamster-4.3mf.xz",
    "instance_id": "2374744",
-   "name": "Casa sin piso (capa de 0,2 mm, 2 paredes, 15 % de relleno)",
+   "name": "casa-hamster-4",
    "thumbnail": "previews/profiles/2374744.jpg",
    "print_time_h": 12.3,
    "plates": 2,
@@ -232,7 +232,6 @@
    600
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

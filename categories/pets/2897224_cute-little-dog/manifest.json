@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/cute-puppy-multicolor-3238115.3mf.xz",
+   "path": "model/lindo-perrito-1.3mf.xz",
    "instance_id": "3238115",
-   "name": "Lindo cachorro - multicolor",
+   "name": "lindo-perrito-1",
    "thumbnail": "previews/profiles/3238115.jpg",
    "print_time_h": 4.2,
    "plates": 1,
@@ -45,9 +45,9 @@
    }
   },
   {
-   "path": "model/cute-puppy-monochromatic-3238126.3mf.xz",
+   "path": "model/lindo-perrito-2.3mf.xz",
    "instance_id": "3238126",
-   "name": "Lindo Cachorro - Monocromático",
+   "name": "lindo-perrito-2",
    "thumbnail": "previews/profiles/3238126.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -137,7 +137,6 @@
    600
   ]
  },
- "variant_hint": "Multicolor",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

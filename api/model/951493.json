@@ -30,9 +30,9 @@
  ],
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-945812.3mf.xz",
+   "path": "model/funda-esqueleto-1.3mf.xz",
    "instance_id": "945812",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "funda-esqueleto-1",
    "thumbnail": "previews/profiles/945812.jpg",
    "print_time_h": 0.7,
    "plates": 1,
@@ -88,9 +88,9 @@
    }
   },
   {
-   "path": "model/0-12mm-layer-screen-protector-version-1151244.3mf.xz",
+   "path": "model/funda-esqueleto-2.3mf.xz",
    "instance_id": "1151244",
-   "name": "Capa de 0,12 mm. Versión del protector de pantalla",
+   "name": "funda-esqueleto-2",
    "thumbnail": "previews/profiles/1151244.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -147,9 +147,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-2551542.3mf.xz",
+   "path": "model/funda-esqueleto-3.3mf.xz",
    "instance_id": "2551542",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "funda-esqueleto-3",
    "thumbnail": "previews/profiles/2551542.jpg",
    "print_time_h": 0.7,
    "plates": 1,
@@ -191,7 +191,7 @@
    }
   },
   {
-   "path": "model/iPhone_14_Pro_Max.3mf.xz",
+   "path": "model/funda-esqueleto-4.3mf.xz",
    "size": 2757796,
    "sha256": "b3bb1c2a34b992213cdfe92db3b8dc0ac0d9c26784009568fa0296327c091359",
    "compressed": true,
@@ -208,7 +208,7 @@
     "photos": 1
    },
    "instance_id": "1929044",
-   "name": "iPhone 14 Pro Max",
+   "name": "funda-esqueleto-4",
    "thumbnail": "previews/profiles/1929044.jpg",
    "print_time_h": 0.8,
    "plates": 1,

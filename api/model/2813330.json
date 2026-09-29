@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-3-colors-280mm-long-3131776.3mf.xz",
+   "path": "model/dragon-ender-1.3mf.xz",
    "instance_id": "3131776",
-   "name": "Capa de 0,2 mm, 3 colores, 280 mm de largo",
+   "name": "dragon-ender-1",
    "thumbnail": "previews/profiles/3131776.jpg",
    "print_time_h": 6,
    "plates": 1,
@@ -38,9 +38,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-color-for-a1-mini-3131841.3mf.xz",
+   "path": "model/dragon-ender-2.3mf.xz",
    "instance_id": "3131841",
-   "name": "Capa de 0,2 mm, color para A1 mini",
+   "name": "dragon-ender-2",
    "thumbnail": "previews/profiles/3131841.jpg",
    "print_time_h": 4.6,
    "plates": 1,
@@ -81,9 +81,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-color-mini-vesion-150mm-fast-print-3131870.3mf.xz",
+   "path": "model/dragon-ender-3.3mf.xz",
    "instance_id": "3131870",
-   "name": "Capa de 0,2 mm, mini versión en color de 150 mm, impresión rápida",
+   "name": "dragon-ender-3",
    "thumbnail": "previews/profiles/3131870.jpg",
    "print_time_h": 2.9,
    "plates": 1,
@@ -124,9 +124,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-single-color-280mm-3131838.3mf.xz",
+   "path": "model/dragon-ender-4.3mf.xz",
    "instance_id": "3131838",
-   "name": "Capa de 0,2 mm, un solo color 280 mm",
+   "name": "dragon-ender-4",
    "thumbnail": "previews/profiles/3131838.jpg",
    "print_time_h": 2.3,
    "plates": 1,
@@ -166,9 +166,9 @@
    }
   },
   {
-   "path": "model/0-2mm-layer-single-color-for-a1-mini-3131861.3mf.xz",
+   "path": "model/dragon-ender-5.3mf.xz",
    "instance_id": "3131861",
-   "name": "Capa de 0,2 mm, un solo color para A1 mini",
+   "name": "dragon-ender-5",
    "thumbnail": "previews/profiles/3131861.jpg",
    "print_time_h": 1.4,
    "plates": 1,
@@ -300,7 +300,6 @@
    800
   ]
  },
- "variant_hint": "Monocromo · para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

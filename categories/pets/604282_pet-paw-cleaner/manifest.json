@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/0-2mm-layer-2-walls-15-infill-526936.3mf.xz",
+   "path": "model/limpiador-patas-1.3mf.xz",
    "instance_id": "526936",
-   "name": "Capa de 0,2 mm, 2 paredes, 15% de relleno",
+   "name": "limpiador-patas-1",
    "thumbnail": "previews/profiles/526936.jpg",
    "print_time_h": 11.1,
    "plates": 3,
@@ -84,9 +84,9 @@
    }
   },
   {
-   "path": "model/a1-mini-edition-2974299.3mf.xz",
+   "path": "model/limpiador-patas-2.3mf.xz",
    "instance_id": "2974299",
-   "name": "Edición A1 mini",
+   "name": "limpiador-patas-2",
    "thumbnail": "previews/profiles/2974299.jpg",
    "print_time_h": 15.5,
    "plates": 4,
@@ -128,9 +128,9 @@
    }
   },
   {
-   "path": "model/finer-bristles-1125857.3mf.xz",
+   "path": "model/limpiador-patas-3.3mf.xz",
    "instance_id": "1125857",
-   "name": "Cerdas más finas",
+   "name": "limpiador-patas-3",
    "thumbnail": "previews/profiles/1125857.jpg",
    "print_time_h": 12.8,
    "plates": 3,
@@ -257,7 +257,6 @@
    486
   ]
  },
- "variant_hint": "para A1 mini",
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."

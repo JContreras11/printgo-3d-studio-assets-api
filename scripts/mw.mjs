@@ -11,7 +11,7 @@ import { parseArgs } from "node:util";
 import { connect } from "./lib/cdp.mjs";
 import { toEs, sanitize, saveCache } from "./lib/text_es.mjs";
 import { classify, parseProfiles, relevant } from "./lib/mw_data.mjs";
-import { projectFileName } from "./lib/names.mjs";
+import { cleanTitle, projectFileName } from "./lib/names.mjs";
 import { slugify } from "./lib/misc.js";
 import { build, labels, ROOT } from "./build_api.mjs";
 
@@ -258,7 +258,7 @@ async function processModel(item, lib) {
     const catNames = [...(d.categories || [])].reverse().map((c) => c.name).filter(Boolean);
     Object.assign(m, {
       id: String(d.id),
-      title: (await toEs(d.titleTranslated || d.title)) || sanitize(d.title),
+      title: cleanTitle((await toEs(d.titleTranslated || d.title)) || sanitize(d.title)),
       slug: d.slug || slugify(d.title),
       url: `https://makerworld.com/en/models/${d.id}-${d.slug}`,
       author: d.designCreator?.handle || d.designCreator?.name || "",

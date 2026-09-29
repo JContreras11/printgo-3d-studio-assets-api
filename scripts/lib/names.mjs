@@ -4,14 +4,24 @@
 // por eso las unidades sueltas solo se quitan cuando el nombre es de un perfil
 // (units), nunca en el título del modelo.
 const JARGON = [
-  // altura de capa / boquilla: el "mm" solo cuenta si va con estas palabras
-  /\b(?:altura\s+(?:de|del?)\s+(?:la\s+)?(?:capa|piso|layer)|altura\s+capa|layer\s*height|capa\s*(?:de\s*)?\d|boquilla)\b[^,;/|·]*/gi,
+  // phrases(names) — before the generic ones, or "relleno" would leave "patrón de visible".
+  // [^)]* swallows the qualifier that trails inside the parenthesis.
+  /\bpatr[oó]n\s+de\s+relleno\b[^)]*/gi,
+  /\bdensidad\s+de\s+relleno\b[^)]*/gi,
+  /\b(?:relleno|infill)\b/gi,
+  // AMS: estación de material, no es parte del producto ("SIN AMS", "no se requiere AMS")
+  /\bno\s*ams\b/gi,
+  /\b(?:sin|no|no\s+se\s+requiere|requiere|con|para)\s+ams\b/gi,
+  // altura de capa: el "mm" solo cuenta si va con estas palabras
+  /\b(?:altura\s+(?:de|del?)\s+(?:la\s+)?(?:capa|piso|layer)|altura\s+capa|layer\s*height|capa\s*(?:de\s*)?\d)\b[^,;/|·]*/gi,
+  // "boquilla 0,2 mm" sí es ajuste, pero "boquilla anular de alta presión" es del producto.
+  /\bboquilla\s*[\d.,]*\s*mm\b[^,;/|·]*/gi,
   /\bcapas?\s*(?:de|separad[ao]s?)?\s*[\d.,]*\s*mm\b/gi,
   // paredes / perímetros
   /\b\d+\s*(?:pared(?:es|e|es)|walls?|perimetros?|perimeters?)\b[^,;/|·]*/gi,
   /\bpared(?:es|e|es)\s+delgad\w*|wall\s*loops?|detecci[oó]n\s+de\s+pared\w*|thin\s*walls?\b/gi,
-  // relleno y porcentaje
-  /\b\d+\s*%|\b(?:relleno|infill)\b/gi,
+  // porcentaje suelto
+  /\b\d+\s*%/gi,
   // velocidad y flujo
   /\b(?:velocidad\s+(?:de\s+)?impresi[oó]n|print\s*speed|flow\s*rate|flujo)\b[^,;/|·]*/gi,
 ];
@@ -44,11 +54,13 @@ function stripJargon(text, { units = false } = {}) {
   UNITS.lastIndex = 0;
   const cleaned = clean(out)
     // Un coma entre dígitos es decimal ("0,2 mm"), no separador: si no, se parte en dos.
-    .replace(/(?<!\d)[,;·|/\-–—]+(?!\d)/g, " ")
-    .replace(/(?<!\d)[,;·|/\-–—]+\s*$/, " ")
+    .replace(/(?<!\d)[,;·|/]+(?!\d)/g, " ")
+    // El guion es separador intencional ("PS5 - GTA VI"): solo se quita el que sobra.
+    .replace(/[·|/\-–—,]+$/, "")
+    .replace(/^[·|/\-–—,]+\s*/, "")
+    .replace(/\(\s*\)/g, "")
     .replace(/\s+/g, " ")
     .replace(DANGLING, "")
-    .replace(/^(?:[·,\s]|-)+/, "")
     .trim();
   return { text: cleaned, hit };
 }
@@ -71,7 +83,9 @@ export function cleanTitle(title) {
     const stripped = BARE_UNIT.test(first.text) ? stripJargon(first.text, { units: true }).text : first.text;
     if (meaningful(stripped).length >= 3) t = stripped;
   }
-  t = t.replace(/^\s*(?:serie|series|serie\s+de|modelo|model|new)\s+(?=\w)/i, "");
+  // "Modelo atómico" -> "atómico", pero "Modelo del átomo" se queda entero.
+  t = t.replace(/^\s*(?:modelo|model|new)\s+(?!(?:de|del|la|el|los|las|un|una|para|con)\b)(?=\w)/i, "");
+  // No recortamos "Serie Goofy" a secas: es parte del nombre del producto.
   t = t.replace(/\s*\(\s*\d+\s*\)\s*$/, "").replace(/\s*[-–]\s*\(\d+\)\s*$/, "");
   return t.replace(/\s{2,}/g, " ").trim() || clean(title);
 }

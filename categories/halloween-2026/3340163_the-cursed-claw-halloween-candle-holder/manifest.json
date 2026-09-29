@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/garra-maldita.3mf.xz",
+   "instance_id": "3794609",
+   "thumbnail": "previews/profiles/3794609.jpg",
+   "print_time_h": 15.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.16mm High Quality – PLA & PETG",
+    "profile_notes": "PLA & PETG profile – optimized for clean surface quality and reliable results. • 0.16 mm layer height • 3 walls • 12% infill • Gyroid infill • Ready to print Designed by CamioCaDesign — Happy printing!",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 24261676,
+   "sha256": "992a083600034dd27f96ab9ac0afd2984d3d268e5fb666339219bf34b72f5e69",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3340163",
+ "title": "La Garra Maldita - Portavelas de Halloween",
+ "slug": "the-cursed-claw-halloween-candle-holder",
+ "url": "https://makerworld.com/en/models/3340163-the-cursed-claw-halloween-candle-holder",
+ "author": "camiocadesign",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "La garra maldita\n\nAlgo antiguo ha despertado...\n\nUna garra retorcida emerge de un árbol encantado y en descomposición, protegiendo la luz parpadeante en su interior.\nDiseñado como una pieza central oscura y espeluznante de Halloween, este modelo combina detalles orgánicos, garras siniestras y el cálido brillo de una vela para crear una atmósfera verdaderamente maldita.\nLas raíces enredadas, las garras alargadas y las texturas desgastadas le dan a la pieza una apariencia antigua, casi viva, mientras que el centro abierto permite que el cálido resplandor de una vela LED brille a través de las ramas.\nHecho para los amantes de Halloween que quieren algo un poco más oscuro que las decoraciones habituales.\n\nDiseñado como un modelo original imprimible en 3D y diseñado para usarse con una vela de té LED.\n\nAlgunas velas están destinadas a encenderse. ¡Otros deben ser temidos! Enciende la vela… si te atreves.\n¡Hecho con PETG marrón y pintado por mi esposa y mi hijo!\nPor favor elimine el soporte con cuidado y paciencia <3\n\nBoost Me¡Feliz Halloween y feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "mwalloween2026",
+  "concurso",
+  "concursos",
+  "concurso de halloween",
+  "aterrador",
+  "escalofriante",
+  "obsesionado",
+  "maldito",
+  "garra",
+  "garra maldita",
+  "mano altiva"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe9822ef55b73df/design/292e90a4df257c84.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3794609.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

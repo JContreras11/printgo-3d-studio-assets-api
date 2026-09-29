@@ -1,0 +1,140 @@
+{
+ "files": [
+  {
+   "path": "model/corona-halloween-14h24.3mf.xz",
+   "instance_id": "3738622",
+   "thumbnail": "previews/profiles/3738622.jpg",
+   "print_time_h": 14.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "A2L",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "High quality - Optimized",
+    "profile_notes": "Beautiful print as is; no visible supports.",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 36116180,
+   "sha256": "4ca387b72a9200a06c4fca2748367bd477e53197632c99b8852bf997b1c8706f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/corona-halloween-monocolor-7h48.3mf.xz",
+   "instance_id": "3772915",
+   "thumbnail": "previews/profiles/3772915.jpg",
+   "print_time_h": 7.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P2S",
+    "H2D",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "单色打印，快速省料",
+    "profile_notes": "Beautiful print as is; no visible supports.",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 9843088,
+   "sha256": "d8d086955f074874a41ec6e52632f5adaa0a0e20e8286ea98febf84ac194ec0b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3294658",
+ "title": "Corona de Halloween: fantasmas, calabazas y murciélagos",
+ "slug": "halloween-wreath-ghosts-pumpkins-bat",
+ "url": "https://makerworld.com/en/models/3294658-halloween-wreath-ghosts-pumpkins-bat",
+ "author": "lynj",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Tres calabazas, dos fantasmas y un murciélago vigilando.\n\nEsta corona de Halloween reúne expresivas linternas, fantasmas que fluyen y hojas de otoño alrededor de un marco de ramas retorcidas. Cada calabaza tiene su propia personalidad: una cara de sorpresa, una sonrisa traviesa y un guiño descarado.\nLas venas de las hojas talladas, los tallos rizados y las detalladas alas de murciélago le dan mucho que descubrir de cerca, mientras que las atrevidas siluetas destacan en la habitación. Una pieza central de temporada para una puerta interior, una pared o una exhibición de Halloween.\n\nLa versión de la foto utiliza tres colores:\nNaranja para las calabazas y las hojas de otoño.\nBlanco para los fantasmas.\nNegro para las ramas, el murciélago y los detalles faciales.\nSi imprimes uno, me encantaría ver tu versión. ¡Comparte una foto en su nuevo hogar!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "corona de halloween",
+  "decoración de halloween",
+  "decoración de la puerta",
+  "fantasma",
+  "calabaza",
+  "murciélago",
+  "decoración de la pared",
+  "decoracion de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7373a6452cb365/design/06e90b23dae4f0d2.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3738622.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3772915.jpg": [
+   600,
+   586
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

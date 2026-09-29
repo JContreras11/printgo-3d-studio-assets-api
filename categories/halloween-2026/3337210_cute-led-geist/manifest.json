@@ -1,0 +1,116 @@
+{
+ "files": [
+  {
+   "path": "model/lindo-geist.3mf.xz",
+   "instance_id": "3790679",
+   "thumbnail": "previews/profiles/3790679.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "gedruckt mit meinem H2S 0,20 mm Schichthöhe Mit Stützen Farbe Pla Basic Weiß 2 Wände, 5% konzentrische Füllung",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4697804,
+   "sha256": "e9f931158f5b5296a4fa0bf5e5fd172f056b0a91db420f4babd92e665aecd70f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3337210",
+ "title": "Lindo geist LED",
+ "slug": "cute-led-geist",
+ "url": "https://makerworld.com/en/models/3337210-cute-led-geist",
+ "author": "Hatschi",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Hice una linda lámpara fantasma LED con la ayuda de IA diseñada para una candelita que se puede colocar en el centro. El tamaño se puede ajustar. Coloque todas las piezas juntas.\nImpulsa Megradeful por cada impulso y calificación",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "decoración fantasma",
+  "figura fantasma",
+  "led",
+  "kit led",
+  "led\\",
+  "'lindo",
+  "lindo",
+  "lindo 2026",
+  "lindo 2d",
+  "víspera de todos los santos"
+ ],
+ "license": "BY-ND",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US81f16d9424691a/design/5950dc95197a775f.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3790679.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

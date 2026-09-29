@@ -1,0 +1,150 @@
+{
+ "files": [
+  {
+   "path": "model/esqueleto-rompe-5h54.3mf.xz",
+   "instance_id": "1694235",
+   "thumbnail": "previews/profiles/1694235.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 114,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "X1",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "A2L",
+    "H2C",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.16mm Balanced quality 15% infill gyroid pattern Brim added for extra support wile printing tree supports",
+    "creation_date": "2026-08-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 33062980,
+   "sha256": "0499661e556abbd9456ef74c819a221f31fe19b5b1438b1853d896c963449009",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/esqueleto-rompe-6h30.3mf.xz",
+   "instance_id": "1694254",
+   "thumbnail": "previews/profiles/1694254.jpg",
+   "print_time_h": 6.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "prints the same as the others just had to move the body and arm around to fit properly on the MINI plate for the ones using the handy app and don't have access to slicer. all same settings as the other profile just moved around",
+    "creation_date": "2025-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 31148264,
+   "sha256": "aca95d917b71ab57659e8ea90dc48a978d1882bdf41180d11a24ee677c1b34f9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1606650",
+ "title": "Esqueleto rompe mesas",
+ "slug": "table-breaker-skeleton",
+ "url": "https://makerworld.com/en/models/1606650-table-breaker-skeleton",
+ "author": "DeKorverArt",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "El esqueleto que rompe la mesa,\n\nMe encanta el enorme que puedes poner en tu jardín pero no tienes espacio para ello. Este tiene el tamaño perfecto para decorar tu escritorio en el trabajo o en casa, ¡también es un excelente adorno de jardín para lucir durante todo el año! Si te encanta el grande pero quieres uno más pequeño que este, para que te prepares para la temporada espeluznante que se avecina o simplemente te encanta la decoración oscura como a mí, ¡este estampado es para ti!\nImprime dos partes como la grande, mide aproximadamente 5 pulgadas de alto y aproximadamente 7 pulgadas de ancho, ¡pero siempre puedes elegir un tamaño más grande si lo deseas!\nTendré dos perfiles para esto, uno para las impresoras A-1 y superiores y otro para configurar el MINI. todo configurado en el mismo tamaño, solo lo moví para imprimir correctamente en el MINI\nLo tengo configurado para imprimir en la configuración 0,16 para una impresión más suave y limpia, pero puedes cambiar si lo deseas.\nEs una impresión genial, me encanta y espero que a ustedes también les guste. ¡Que tengas un Halloween espeluznante!\nMembresía ¿Interesado en una licencia comercial? ¡Mira mi membresía! Impulsame",
+ "use_cases": [],
+ "tags": [
+  "esqueleto",
+  "víspera de todos los santos",
+  "hola ween",
+  "decoración",
+  "decoración de halloween",
+  "arte del patio",
+  "decoración del jardín",
+  "decoración de escritorio",
+  "accesorios de escritorio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8b8778e767e036/design/2025-12-03_0e0a8f8f02d3b.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   838
+  ],
+  "previews/02.jpg": [
+   1000,
+   838
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1694235.jpg": [
+   600,
+   502
+  ],
+  "previews/profiles/1694254.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

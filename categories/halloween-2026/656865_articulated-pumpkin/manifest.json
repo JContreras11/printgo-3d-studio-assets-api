@@ -1,0 +1,622 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-articulada-1h30.3mf.xz",
+   "instance_id": "583939",
+   "thumbnail": "previews/profiles/583939.jpg",
+   "print_time_h": 1.5,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 1587,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "0.2mm layer, 3 walls, 5% infill, no support",
+    "profile_notes": "3 plaques : 1 pour la citrouille (pas besoin d'AMS) 1 pour le pédoncule (Pas besoin d'AMS) 1 avec les 2, en impression par objet pour limiter les déchets de changements de couleur (avec AMS)",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2269,
+      "weight_g": 12.74,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 657,
+      "weight_g": 0.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2607,
+      "weight_g": 13.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12684768,
+   "sha256": "4cdbca5c043733af525001d055955a01eecfdfc12ebc2ee779090db13db764b5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-1h12.3mf.xz",
+   "instance_id": "598226",
+   "thumbnail": "previews/profiles/598226.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 77,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "High Quality - 0.16mm layer, 3 walls, 5% infill",
+    "creation_date": "2024-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4410,
+      "weight_g": 13.8,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12690692,
+   "sha256": "796e4630d1b4e16cce99afd8e3408f7d84aa5af3e3d104be892493f3edf09e35",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-1h48.3mf.xz",
+   "instance_id": "595624",
+   "thumbnail": "previews/profiles/595624.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 683,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "A2L",
+    "A1",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "For AMS (attached stem) 0.2mm layer, 3 walls, 5% infill",
+    "profile_notes": "I attached the stem to the pumpkin in Bambu studio so it can print together all at once. I have 2 variants of the stem direction.",
+    "creation_date": "2024-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6506,
+      "weight_g": 33.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 10149072,
+   "sha256": "1cf17b7c6a7172f29ddfb11350e796f1f8546a9741e2a2070173f6ea623f201b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-2h30.3mf.xz",
+   "instance_id": "586757",
+   "thumbnail": "previews/profiles/586757.jpg",
+   "print_time_h": 2.5,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 173,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "(Fixed Quality, smoothing and pathing) 0.16mm layer, 3 walls",
+    "profile_notes": "Quality .16 layer Smoothing with ironing and tool head pathing improvements 0.16mm layer 3 walls 15% infill",
+    "creation_date": "2024-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3903,
+      "weight_g": 13.24,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 825,
+      "weight_g": 0.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4334,
+      "weight_g": 14.01,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12843656,
+   "sha256": "f54655d1ff8857fcacb9db439f4bf906e828534a9f505a2e20b69c78b8097862",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-36min.3mf.xz",
+   "instance_id": "2027648",
+   "thumbnail": "previews/profiles/2027648.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Super Speedy Version 0.2mm layer, 3 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 12745220,
+   "sha256": "b1cc148aed0c458df2b703e078ff5e9c3131843ee1a79fbe60fe640980af4ea6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-48min.3mf.xz",
+   "instance_id": "585619",
+   "thumbnail": "previews/profiles/585619.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 410,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 3 walls, 5% infill",
+    "profile_notes": "Slowed down first layer for better adhesion",
+    "creation_date": "2025-03-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2878,
+      "weight_g": 13.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12658624,
+   "sha256": "f9c90b6d89a23033ba2c72bc24e7d490ff76f5cc6ce52529ff1f37c64eaf5547",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-54min.3mf.xz",
+   "instance_id": "589869",
+   "thumbnail": "previews/profiles/589869.jpg",
+   "print_time_h": 0.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 68,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "A2L",
+    "H2D",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2024-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2523,
+      "weight_g": 12.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 734,
+      "weight_g": 0.74,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#45D116"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12736868,
+   "sha256": "294ac0f398240774cfee942a49de3649235d0645ca4f83d0d6f579cb4dc98cb3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-5h.3mf.xz",
+   "instance_id": "2072657",
+   "thumbnail": "previews/profiles/2072657.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1S",
+    "H2D",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Beleuchtete Version 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Ich habe das Ursprungsmodell vergrößert und mittels eines negativen Teiles eine Öffnung für ein LED-Teelicht erzeugt Gedruckt wurde der Körper mit Bambu PLA Transluzent Orange und die Stiele mir Bambu PLA Matt mistelgrün.",
+    "creation_date": "2025-10-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 12797372,
+   "sha256": "06c4998211147d38e3d09bec7b256bef405d988df4e872dac08a24eb106b5841",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-articulada-6h36.3mf.xz",
+   "instance_id": "626747",
+   "thumbnail": "previews/profiles/626747.jpg",
+   "print_time_h": 6.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 38,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "BIG 300% 0.2mm layer, 3 walls, 5% infill",
+    "profile_notes": "Same as the small one but large. You can see the comparison in the photo.",
+    "creation_date": "2024-10-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22809,
+      "weight_g": 167.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF6A13"
+       },
+       {
+        "type": "PETG",
+        "color": "#19C344"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PETG versión grande",
+   "size": 10275708,
+   "sha256": "fefca23c4c20ff6ab7ab8f30d7078885e6f47084e6150c06ea1c46ec5b8df9d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "656865",
+ "title": "Calabaza Articulada",
+ "slug": "articulated-pumpkin",
+ "url": "https://makerworld.com/en/models/656865-articulated-pumpkin",
+ "author": "piersonnico",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Se acerca Halloween…\nUna pequeña calabaza encantadora con sus piernas y brazos.\n\nEncuentra la versión con sus alas de murciélago:\n\n3 platos:\n1 para la calabaza (no se necesita AMS)\n1 para el vástago (no se necesita AMS)\n1 con ambos, impreso por objeto para limitar el desperdicio por cambio de color (con AMS)\n\nEn la línea de mis huevos de Pascua:\n\nBoost MeSolo puedo dedicar una cantidad de tiempo muy limitada al diseño, tu apoyo me mostrará tu interés en mi trabajo y me animará a invertir más. Gracias",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "articulado",
+  "compañero",
+  "flexible",
+  "flexible 2025",
+  "articulado 3d",
+  "figuras articuladas 3d",
+  "minimotores",
+  "minimotor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-09-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe9604eede368d7/design/2024-09-22_6afbe259c5b8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/583939.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/598226.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/595624.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/586757.jpg": [
+   600,
+   476
+  ],
+  "previews/profiles/2027648.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/585619.jpg": [
+   600,
+   797
+  ],
+  "previews/profiles/589869.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2072657.jpg": [
+   600,
+   768
+  ],
+  "previews/profiles/626747.jpg": [
+   600,
+   797
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

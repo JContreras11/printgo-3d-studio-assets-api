@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-lobo.3mf.xz",
+   "instance_id": "3793620",
+   "thumbnail": "previews/profiles/3793620.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "A2L",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1899240,
+   "sha256": "5c21123fbda4b4330c0476119c7fe17bf0c54914f141440104e95c5477871bac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3339466",
+ "title": "Calabaza Lobo Decoración De Halloween Y Otoño",
+ "slug": "wolf-pumpkin-halloween-autumn-decoration",
+ "url": "https://makerworld.com/en/models/3339466-wolf-pumpkin-halloween-autumn-decoration",
+ "author": "markiel3d",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Una calabaza decorativa con un lobo aullando, una luna y una silueta de bosque, perfecta para Halloween y la temporada de otoño.\n\nEl diseño combina una forma clásica de calabaza con una misteriosa escena de bosque, lo que la convierte en una decoración versátil para su hogar. Colóquelo en un estante, escritorio, mesa, repisa de la chimenea o úselo como parte de una exhibición más grande de Halloween o de otoño.\n\nEl diseño plano es fácil de imprimir y funciona especialmente bien en negro, pero puedes experimentar con colores otoñales, filamentos que brillan en la oscuridad u otras combinaciones.\n\nUn estampado sencillo de temporada para cualquiera que ame los lobos, los bosques y la decoración atmosférica de Halloween.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "calabaza 2026",
+  "lobo",
+  "luna",
+  "bosque",
+  "árboles",
+  "otoño",
+  "caer",
+  "'decoración",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf58392ea81c6f/design/b33c8a9745571726.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   666
+  ],
+  "previews/profiles/3793620.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

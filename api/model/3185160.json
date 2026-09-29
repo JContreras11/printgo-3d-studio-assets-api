@@ -1,0 +1,193 @@
+{
+ "files": [
+  {
+   "path": "model/decoracion-puerta-3h54.3mf.xz",
+   "instance_id": "3602861",
+   "thumbnail": "previews/profiles/3602861.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 2997700,
+   "sha256": "35ca8f36e0e537f4402115a2dec394f70bd50eafde7716819780a800f61ecccd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/decoracion-puerta-3h48.3mf.xz",
+   "instance_id": "3660249",
+   "thumbnail": "previews/profiles/3660249.jpg",
+   "print_time_h": 3.8,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "P1S PS2  0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 2755480,
+   "sha256": "501f28cf40c66f7144672fe6f1a364bfba7e53756524503c723fc1671d23bbd5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/decoracion-puerta-4h18.3mf.xz",
+   "instance_id": "3773460",
+   "thumbnail": "previews/profiles/3773460.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "A2L",
+    "H2D",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Connected words - 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Text connected with the frame. Home sign painted white for a dark door. 0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2618332,
+   "sha256": "fce6403fa988553a5747144d2a5060787de3bce82c73a884ef16b2a7972ad449",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3185160",
+ "title": "decoración de la puerta de halloween",
+ "slug": "halloween-door-decoration",
+ "url": "https://makerworld.com/en/models/3185160-halloween-door-decoration",
+ "author": "Rizecek",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "MembresíaImpulsame",
+ "use_cases": [],
+ "tags": [
+  "'decoración",
+  "decoración",
+  "víspera de todos los santos",
+  "puerta",
+  "decoración 2025",
+  "decoración 202"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc5fc9b549b6e9a/design/6a2c14cfba9348bc.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1333
+  ],
+  "previews/06.png": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3602861.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3660249.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3773460.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-falla.3mf.xz",
+   "instance_id": "3794560",
+   "thumbnail": "previews/profiles/3794560.jpg",
+   "print_time_h": 8.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill, Painted supports",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 815520,
+   "sha256": "9a3f0dd7a7f834b55a9b34572a1a8777ddc1aa2d393581b659c6307501a34391",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3340128",
+ "title": "Calabaza falla",
+ "slug": "glitch-pumpkin",
+ "url": "https://makerworld.com/en/models/3340128-glitch-pumpkin",
+ "author": "Marcidy",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "¡No pongas velas reales adentro!\n\n¡Utilice soportes debajo de los dientes! Recomiendo imprimirlo con filamento dual/tricolor o multicolor.\n\n¡Feliz halloween!\n\nMira mis otros diseños de fallas aquí.\nBoost MeApóyame gratis si te gustan mis modelos. Gracias:)",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "víspera de todos los santos",
+  "falla",
+  "bismuto",
+  "aterrador",
+  "2026",
+  "halloween2026",
+  "cúbico",
+  "cubos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe2e8e9b291e270/design/ba738028f86d62ff.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   750
+  ],
+  "previews/02.webp": [
+   1000,
+   750
+  ],
+  "previews/03.webp": [
+   1000,
+   750
+  ],
+  "previews/profiles/3794560.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

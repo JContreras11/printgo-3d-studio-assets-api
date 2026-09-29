@@ -1,0 +1,224 @@
+{
+ "files": [
+  {
+   "path": "model/logotipo-gta-1h.3mf.xz",
+   "instance_id": "3664963",
+   "thumbnail": "previews/profiles/3664963.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "THICK VERSION - NO AMS - WITH PAUSE",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2218032,
+   "sha256": "f807fe6230d1d278de1337925824dea12cce003bc719d8104ce9e85f63bffbe0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/logotipo-gta-1h18.3mf.xz",
+   "instance_id": "3665111",
+   "thumbnail": "previews/profiles/3665111.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "X1E",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X2D",
+    "X1",
+    "A1",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "THICK VERSION - AMS",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2563204,
+   "sha256": "d86cec6baff1479c048b4427b14a6944e328e27a049f065bf554ecc2eaca289b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/logotipo-gta-36min.3mf.xz",
+   "instance_id": "3665122",
+   "thumbnail": "previews/profiles/3665122.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "THIN VERSION - NO AMS - WITH PAUSE",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2442944,
+   "sha256": "e80ee4b6c7efd64d19d9d693894bd82b988e3ecdb6737beeabaadd1b43ff2dac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/logotipo-gta-54min.3mf.xz",
+   "instance_id": "3665116",
+   "thumbnail": "previews/profiles/3665116.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "A1",
+    "A2L",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X2D",
+    "H2S",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "THIN VERSION - AMS",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2470372,
+   "sha256": "b53cb6a30b53fdbb89931d9702137fabb3ca48531778d9b0593edaa4b3831c44",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3235350",
+ "title": "Logotipo de GTA 6 sin texto",
+ "slug": "gta-6-logo-without-text-no-ams",
+ "url": "https://makerworld.com/en/models/3235350-gta-6-logo-without-text-no-ams",
+ "author": "skillz3n",
+ "category": "gta-vi",
+ "source_category": "Miniaturas > Otras Miniaturas",
+ "description": "Boost Me ¿Te gusta este modelo?\n\nSi te gusta este modelo y te ha sido útil, ¡te agradecería mucho un Boost! Ayuda a respaldar mi trabajo y me motiva a seguir creando y compartiendo nuevos diseños gratuitos.\n\n¡Gracias por su apoyo!\nLogotipo de GTA 6 de escritorio, ligero y escalable\nDisponible en 2 versiones: gruesa y delgada, tanto en variante AMS como NO AMS con 2 pausas",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "grand theft auto 6",
+  "logotipo de gta 6",
+  "logotipo gta"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc81cf442f6180/design/ef90a9db849fb6b9.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3664963.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3665111.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3665122.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3665116.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

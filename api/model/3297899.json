@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/logotipo-gta.3mf.xz",
+   "instance_id": "3742524",
+   "thumbnail": "previews/profiles/3742524.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "A2L",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "H2S",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 7% infill",
+    "profile_notes": "0.2mm layer height 50 top surface speed 120 speed outer infill 7 - 10%",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2420464,
+   "sha256": "3701aef7d9e5d560df50131c8d0e9a24cf2a6663de1724380660c053f57e8265",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3297899",
+ "title": "LOGOTIPO DE GTA VI (GTA 6)",
+ "slug": "gta-vi-logo-gta-6-with-ams-no-ams",
+ "url": "https://makerworld.com/en/models/3297899-gta-vi-logo-gta-6-with-ams-no-ams",
+ "author": "3dFoxByFragk",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "¡¡¡LOGOTIPO DE GTA VI (GTA 6) CON AMS / SIN AMS!!! Para No AMS simplemente agregue una pausa entre el cambio de color.",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "gta iv",
+  "iv",
+  "gta",
+  "grand theft auto",
+  "ps5",
+  "juego de azar",
+  "juegos",
+  "desperdiciado",
+  "arrestado",
+  "policía",
+  "robo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US17258422998022/design/fa066bcde8e25393.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   941,
+   1672
+  ],
+  "previews/profiles/3742524.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

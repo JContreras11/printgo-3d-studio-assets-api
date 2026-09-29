@@ -1,0 +1,134 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6-3h24.3mf.xz",
+   "instance_id": "3312014",
+   "thumbnail": "previews/profiles/3312014.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "A2L",
+    "H2D",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3180696,
+   "sha256": "73fb6a3e53321ad10405df892b120258bd95714d05751c6fcb2d63435fd7a793",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-6-2h18.3mf.xz",
+   "instance_id": "3312287",
+   "thumbnail": "previews/profiles/3312287.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "P2S",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "AMS - 4 colors",
+    "creation_date": "2026-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2629260,
+   "sha256": "d2bc8829353c9671d6700a093f17f62cced7c1c3d4a1c96a7e5ab84e7819ae1b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2955535",
+ "title": "GTA 6 - Llavero",
+ "slug": "gta-6-keychain",
+ "url": "https://makerworld.com/en/models/2955535-gta-6-keychain",
+ "author": "martiq",
+ "category": "gta-vi",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "Este es un llavero plano impreso en 3D inspirado en el atrevido aspecto de neón del estilo visual de GTA VI. Está diseñado como un colorido colgante decorativo para bolso, accesorio para mochila o llavero. El modelo incluye un orificio incorporado en la zona superior izquierda para sujetar un llavero, mosquetón o cadena. Cuando se cuelga de este punto, el llavero se inclina naturalmente ligeramente hacia un lado, dándole un aspecto realista y elegante cuando se coloca en un bolso.\n\nSe incluyen dos versiones:\nVersión de 4 colores\nUna versión simplificada diseñada para facilitar la impresión multicolor. Ideal para impresoras con menos ranuras de color o para una configuración más rápida.\nVersión de 8 colores\nUna versión más detallada con una separación de colores más rica y una coincidencia visual más cercana al estilo de la obra de arte original.\nEl llavero está diseñado para imprimirse en plano, lo que facilita la impresión y es adecuado para sistemas de impresión AMS/multicolor. Funciona bien como pequeño obsequio, accesorio para fanáticos, colgante para mochila o estampado coleccionable.\nCaracterísticas\nDiseño de llavero plano impreso en 3D.\nOrificio incorporado para fijación de llavero.\nDos versiones incluidas: 4 colores y 8 colores.\nAdecuado para impresión AMS/multicolor\nIdeal para bolsos, mochilas, llaves o exhibidores.\nImpresión sencilla sin necesidad de montaje complejo\nDiseño colorido estilo neón retro.",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "llavero",
+  "grand theft auto",
+  "juego de azar",
+  "miami",
+  "gta"
+ ],
+ "license": "BY-NC",
+ "release_date": "2026-06-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US86ef25cef8757a/design/1bc3bb946d924cfa.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   671
+  ],
+  "previews/profiles/3312014.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3312287.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

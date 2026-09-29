@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/caja-luz.3mf.xz",
+   "instance_id": "3460443",
+   "thumbnail": "previews/profiles/3460443.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "H2C",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1313236,
+   "sha256": "b4fb0f1b47258335618511a9c35081dffb940bc415da70956824fab5774779b9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3073569",
+ "title": "Caja de luz estilo GTA VI – Imprimible en 3D",
+ "slug": "gta-vi-style-lightbox-3d-printable",
+ "url": "https://makerworld.com/en/models/3073569-gta-vi-style-lightbox-3d-printable",
+ "author": "D.V.Labs",
+ "category": "gta-vi",
+ "source_category": "Modelo generativo 3D > Hacer mi linterna",
+ "description": "Lleva la icónica atmósfera de neón de un juego moderno de mundo abierto a tu configuración de juego con esta caja de luz estilo GTA VI. Diseñada para ser impresa en 3D, esta caja de luz combina la reconocible silueta \"VI\" con una vibrante puesta de sol tropical y letras llamativas en relieve, creando una llamativa pantalla iluminada.\nEl modelo está optimizado para la impresión 3D multicolor y está diseñado para acomodar tiras de LED estándar o luces de disco LED (según su configuración de iluminación preferida). Una vez iluminado, el colorido panel frontal crea un brillo sorprendente que luce perfecto en un escritorio, estante o pared.\nCaracterísticas\nElegante diseño de caja de luz inspirado en GTA VI\nOptimizado para impresión 3D multicolor\nCompatible con tiras de LED o iluminación de disco de LED\nDiseño limpio en capas con detalles nítidos.\nGran decoración para salas de juegos, oficinas o instalaciones de streaming\nFácil de escalar a su tamaño preferido\nConsejos de impresión\nImprima la cara frontal con una altura de capa de 0,2 mm para obtener el mejor detalle.\nUtilice PLA para obtener colores vibrantes y un acabado limpio.\nImprime el cuerpo en negro para obtener el máximo contraste de luz.\nAgregue una tira de LED o un disco de luz en el interior para crear un brillo uniforme.\nSi te gusta este modelo, deja una calificación y comparte tu marca. ¡Me encantaría ver tu versión impresa!\nPalabras clave: GTA VI, GTA 6, Grand Theft Auto, caja de luz, caja de luz LED, decoración para juegos, sala de juegos, luz de pared, luz de escritorio, multicolor, AMS, PLA, impresión 3D, LED, neón, palmeras, puesta de sol, retro, Vice City, MakerWorld",
+ "use_cases": [],
+ "tags": [
+  "caja de luz",
+  "gta",
+  "gta vi",
+  "gta 6",
+  "lámpara",
+  "grand theft auto",
+  "videojuego",
+  "estrella de rock",
+  "montaña rusa estrella de rock",
+  "caja",
+  "juego de azar",
+  "habitación"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe7a55ee571d806/design/ea70535e1d6af293.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1106
+  ],
+  "previews/02.png": [
+   494,
+   436
+  ],
+  "previews/profiles/3460443.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

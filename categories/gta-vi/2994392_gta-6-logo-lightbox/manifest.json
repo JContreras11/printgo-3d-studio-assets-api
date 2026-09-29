@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/caja-luz.3mf.xz",
+   "instance_id": "3361195",
+   "thumbnail": "previews/profiles/3361195.jpg",
+   "print_time_h": 6.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "A2L",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-06-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2869340,
+   "sha256": "911a8135e13e5340c5928e050a9081224e3f1294810034e6e707864c1341baae",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2994392",
+ "title": "Caja de luz del logotipo de GTA 6",
+ "slug": "gta-6-logo-lightbox",
+ "url": "https://makerworld.com/en/models/2994392-gta-6-logo-lightbox",
+ "author": "MauriceP4L",
+ "category": "gta-vi",
+ "source_category": "Arte > Señales y logotipos",
+ "description": "Creé un modelo básico con el creador Makerlab Lightbox y pinté los detalles con Bambu Studio.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "grand theft auto",
+  "grand theft auto 6",
+  "estrella de rock",
+  "caja de luz",
+  "logo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5538df9697a881/design/81366f6ee1dad0dc.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1463
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3361195.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

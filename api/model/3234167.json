@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6.3mf.xz",
+   "instance_id": "3663513",
+   "thumbnail": "previews/profiles/3663513.jpg",
+   "print_time_h": 8.1,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1737780,
+   "sha256": "a745c69d85155aa5b9df24b09e8a10c8aee7b1cbaa479d4644166a9240a92e22",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3234167",
+ "title": "GTA 6 GrandTheftAuto VI Caja de luz LED USB",
+ "slug": "gta-6-grandtheftauto-vi-lightbox-led-usb",
+ "url": "https://makerworld.com/en/models/3234167-gta-6-grandtheftauto-vi-lightbox-led-usb",
+ "author": "DesignCraftPL",
+ "category": "gta-vi",
+ "source_category": "Impresora 3D > Accesorios para impresoras 3D",
+ "description": "Una elegante lámpara LED inspirada en el icónico Grand Theft Auto VI. La distintiva forma del logotipo y la intensa retroiluminación rosa lo convierten en un gran atractivo y añaden una atmósfera de juego a cualquier habitación. El borde negro y las letras blancas crean un contraste sorprendente, lo que hace que la lámpara luzca impresionante en un escritorio, estante o sala de juegos. Es un elemento decorativo interesante para los fanáticos de GTA y una forma única de enfatizar el tema de juego de cualquier interior.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "6",
+  "vi",
+  "gran robo de autos",
+  "ps5",
+  "xbox",
+  "luces",
+  "caja de luz",
+  "led",
+  "usb",
+  "luz led",
+  "lámpara led"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf39fb7f5bfb8ca/design/48bd1c761c2af829.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   838
+  ],
+  "previews/02.jpg": [
+   1000,
+   1060
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   853
+  ],
+  "previews/05.png": [
+   913,
+   707
+  ],
+  "previews/06.png": [
+   699,
+   565
+  ],
+  "previews/07.png": [
+   757,
+   605
+  ],
+  "previews/profiles/3663513.jpg": [
+   600,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

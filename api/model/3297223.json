@@ -1,0 +1,158 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h24.3mf.xz",
+   "instance_id": "3741702",
+   "thumbnail": "previews/profiles/3741702.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "iPhone 18 Pro 0.12mm layer, 2 walls, 25% infill",
+    "profile_notes": "🖨️ Meine Druckeinstellungen: Material: ABS, PETG, PLA Düse: 0,4 mm (0,2 mm wäre vermutlich noch besser) Schichthöhe: 0,12 mm ( 0,2 mm geht auch) Support: Für das Phone ( geht auch ohne ) und ein Brim für den Kameraschutz",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3693344,
+   "sha256": "1de8cf02a5e28ee1efedc3a5899a937ce5bd44e13fe3629220e376ef774f7469",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-54min.3mf.xz",
+   "instance_id": "3776081",
+   "thumbnail": "previews/profiles/3776081.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P2S",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "iPhone 18 Pro 0.12mm layer, 15% infill Linien Muster",
+    "profile_notes": "🖨️ Meine Druckeinstellungen: Material: ABS, PETG, PLA Düse: 0,4 mm (0,2 mm wäre vermutlich noch besser) Schichthöhe: 0,12 mm ( 0,2 mm geht auch) Support: Für das Phone ( geht auch ohne ) und ein Brim für den Kameraschutz",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1483852,
+   "sha256": "aac6d0c78070533db3712d028777dc237e85dc63ae1b8ba2c4d38a472dfd5dd1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3297223",
+ "title": "funda para iPhone 18 Pro",
+ "slug": "iphone-18-pro-case",
+ "url": "https://makerworld.com/en/models/3297223-iphone-18-pro-case",
+ "author": "xh3ndrlk",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda rígida para iPhone 18 Pro – remezcla\n\nAquí está mi versión de la funda para el iPhone 18 Pro. Está basado en un modelo existente que ajusté en consecuencia para este remix y le agregué algunos de mis propios detalles.\n\nLa característica más llamativa es la estructura circular en la parte posterior, que le da al estuche un aspecto un poco más técnico y moderno. También hay recortes para los botones y un protector de cámara separado que se puede colocar en su lugar y brinda protección adicional para el área elevada de la cámara.\n\nCréditos al creador original:\n\nMi configuración de impresión:\nMaterial: ABS, PETG, PLA\nBoquilla: 0,4 mm (0,2 mm probablemente sería incluso mejor)\nAltura de capa: 0,12 mm (0,2 mm también funciona)\nSoporte: Para el teléfono (también funciona sin él) y un borde para el protector de la cámara\nEl estuche se ajusta perfectamente al iPhone 18 Pro y es agradable, estable y conserva su forma cuando está hecho de ABS o PETG. La estructura de la parte trasera también ahorra material y confiere al maletín un aspecto único.\n\nNota: Este es un diseño personalizado independiente y no está afiliado a Apple Inc. ni a ningún producto oficial de Apple.\n\n¡Diviértete imprimiendo!\n\n¡Por supuesto, me encantaría recibir reseñas, fotografías de sus impresiones y comentarios sobre el ajuste!\nImpúlsameSi te gusta mi modelo y quieres apoyar mi trabajo, ¡me encantaría recibir un impulso!\nEsto me ayuda a seguir creando nuevos modelos y compartiéndolos con ustedes.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 18",
+  "iphone 18 pro",
+  "funda del iphone",
+  "apple iphone funda",
+  "apple",
+  "funda apple",
+  "iphone zuboer",
+  "cubrir",
+  "cse del teléfono inteligente",
+  "teléfono inteligente",
+  "funda apple iphone 18 pro"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb14c6148db90d6/design/ab248ddfed8094fb.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3741702.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3776081.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

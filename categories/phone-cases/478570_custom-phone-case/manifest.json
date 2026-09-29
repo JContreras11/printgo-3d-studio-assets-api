@@ -1,0 +1,152 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-30min.3mf.xz",
+   "instance_id": "389795",
+   "thumbnail": "previews/profiles/389795.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "H2S",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "no special settings needed. Use… 0,2mm layer height 3 walls infill doesn't matter because it's too thin, otherwise use 15-20% infill.",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1716,
+      "weight_g": 17.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#2323F7"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 602484,
+   "sha256": "9b2a3769e0c053b2a1ff8ba673b101dbbf3f7b84043ac46513ace4b30b7e5e6e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-1h18.3mf.xz",
+   "instance_id": "2070315",
+   "thumbnail": "previews/profiles/2070315.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "H2C",
+    "A1 mini",
+    "A1",
+    "X1E",
+    "P1P",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Iphone 7 Case",
+    "profile_notes": "0.2mm layer height 25% infill 2 wall loops Hilbert Curve top and bottom patterns",
+    "creation_date": "2025-10-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 701696,
+   "sha256": "3537160db3d96584e663ff8fa885f4021cb339d4302c03139c99a1f2c04ae384",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "478570",
+ "title": "Funda de teléfono personalizada",
+ "slug": "custom-phone-case",
+ "url": "https://makerworld.com/en/models/478570-custom-phone-case",
+ "author": "RobinS",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "En plataformas como MakerWorld, printables y compañía. A menudo hay fundas de teléfono para ver, ¡pero para la mayoría de las personas es el teléfono equivocado!\nEste es un generador de carcasas para teléfonos,\ndonde podrás crear tu funda de teléfono personalizada e individual.\n\nSólo tienes que seguir los pasos y medir tu teléfono. Luego tienes que poner estas medidas en el generador y obtendrás un modelo completo que incluye todas las compensaciones y riesgos.\n\nSi desea tener el mismo aspecto que en la imagen de portada, elimine las capas superior e inferior en la configuración de su cortadora y elija su relleno favorito.\n\nIntroducción\nPuedes crear tu propia funda que se ajuste a tu teléfono.\nPrimero tienes que abrir la herramienta web de personalización de este modelo.\nLuego debe medir su teléfono e ingresar los valores descritos en la herramienta web y luego hacer clic en generar. Después de eso puedes descargar el modelo 3D.\n\nvariables especiales\n-\"distancia del agujero de la leva\": Con estas dos variables estableces la distancia al agujero de la leva desde la esquina superior izquierda. x significa la distancia horizontalmente e y verticalmente. (Lo mismo ocurre con el “tamaño del orificio de la leva”)\n\n-\"distancia al botón superior\": Debe establecer este valor en la distancia desde el borde superior del teléfono hasta el primer botón en el lado derecho del teléfono. ¡Los botones del lado izquierdo estarán disponibles pronto! Se incluyen compensaciones, así que no cambie los valores, solo ingrese las medidas exactas.\n\n-\"posición del texto\": Aquí puedes decir dónde comienza tu texto en la placa posterior de la carcasa del teléfono. Con xt e yt puedes mover el texto en los ejes xay.\n\nDescripción de las variables de compensación\n\nEl desplazamiento \"o\" es el desplazamiento principal, que crea un pequeño espacio entre el teléfono y la funda.\nRecomiendo establecer este desplazamiento en 0,2-0,6 mm.\n\nLa variable \"n\" establece qué tan fuerte o duro el estuche mantiene el teléfono en su lugar.\nUsé principalmente 1-1,2 mm.\n\nCon la variable “s” estableces la altura de las empuñaduras que sujetan el teléfono\nen el funda. Aquí puedes dejarlo en 1 mm.\n\n-Ahora agregué una nueva función donde puedes agregar un texto en la placa posterior de la carcasa del teléfono.\nSimplemente ponga, por ejemplo, su nombre y muévalo a la posición correcta con las variables de \"posición del texto\". También puedes ajustar el tamaño del texto.\n\n-Característica agregada: Se pueden crear botones en ambos lados. Si la longitud de los botones se establece en 0, se eliminarán.\n-Se agregó un orificio para el altavoz izquierdo.\n\nconsejo de impresión:\n-Habilite la función en la segmentación, imprima el relleno primero. Así tu impresora imprimirá mejor los voladizos.\n\nSi lograste crear tu propia carcasa para teléfono con éxito, excelente trabajo, envíame un correo electrónico con tus valores si aún no están en la siguiente hoja de Excel. Luego envíame las medidas, el nombre del teléfono y una foto que lo imprimiste a esta dirección de correo electrónico:\n3dprint_robin@web.de\nEntonces podemos agregar esos valores a una gran biblioteca donde todos tienen acceso a los tamaños de su teléfono individual.\nDe lo contrario, puedes subir una remezcla a este modelo para lograr lo mismo.\nEl enlace a la hoja de Excel:",
+ "use_cases": [],
+ "tags": [
+  "teléfono",
+  "accesorios de telefono",
+  "caja del teléfono",
+  "personalizable"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2024-05-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd5cf1b34255342/design/2024-05-30_2ee858c9393d7.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   811,
+   1440
+  ],
+  "previews/02.jpg": [
+   811,
+   1440
+  ],
+  "previews/profiles/389795.jpg": [
+   600,
+   1065
+  ],
+  "previews/profiles/2070315.jpg": [
+   600,
+   309
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

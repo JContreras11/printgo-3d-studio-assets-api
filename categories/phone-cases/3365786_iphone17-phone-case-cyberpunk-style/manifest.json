@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono.3mf.xz",
+   "instance_id": "3827500",
+   "thumbnail": "previews/profiles/3827500.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 786100,
+   "sha256": "726300ca2bb9f0a089b34bace80730b08d8ff29d1575d0d808b2566cb65a2373",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3365786",
+ "title": "Funda para teléfono iPhone17 - Estilo Cyberpunk",
+ "slug": "iphone17-phone-case-cyberpunk-style",
+ "url": "https://makerworld.com/en/models/3365786-iphone17-phone-case-cyberpunk-style",
+ "author": "user_160457289",
+ "category": "phone-cases",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Funda para teléfono iPhone17 estilo Cyberpunk diseñada para PLA/PETG. Al instalar el marco de protección de la lente, primero alinee el lado izquierdo con la ranura empotrada cerca del borde de la carcasa del teléfono, luego colóquelo lentamente alrededor de los bordes. Puedes consultar el vídeo de arriba.",
+ "use_cases": [],
+ "tags": [
+  "iphone17",
+  "funda iphone17",
+  "funda para teléfono iphone17",
+  "estilo ciberpunk"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbaa42b6ddbb721/design/e90d2228f3a15b2e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3827500.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/funda-placa.3mf.xz",
+   "instance_id": "1457614",
+   "thumbnail": "previews/profiles/1457614.jpg",
+   "print_time_h": 5.5,
+   "plates": 4,
+   "rating": 4.6,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "A1",
+    "H2S",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "V1",
+    "creation_date": "2025-05-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 10558652,
+   "sha256": "48d7eed5d5b9ee752975700f2bbf58acfdb359bdcdef85130e9c2697f60a1e75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1404926",
+ "title": "Funda con placa trasera de dragón negro para iPhone 16 Pro Max",
+ "slug": "iphone-16-pro-max-black-dragon-backplate-case",
+ "url": "https://makerworld.com/en/models/1404926-iphone-16-pro-max-black-dragon-backplate-case",
+ "author": "Printzag",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Características:\nDespués de imprimir, pegue la placa posterior a la carcasa del teléfono. Para obtener mejores resultados, use adhesivo en aerosol; simplemente aplique una capa ligera y uniforme a la placa posterior y presiónela sobre la carcasa.\nLos colores de los botones y del protector de la cámara son totalmente personalizables.\nAdmite impresión en PLA, PETG y TPU (modelo de vitrina impreso en PLA).\nUtilice el generador de pared Arachne con una boquilla de 0,4 mm para evitar espacios en detalles finos (<0,45 mm).\nProbado físicamente con un prototipo de iPhone para un ajuste preciso.\nEl área del botón de la cámara es frágil: instálelo con cuidado.\nLas fundas PLA/PETG pueden romperse al retirar el teléfono; ábralas desde el área del botón de la cámara si es necesario.\n\nLa instalación del protector de la cámara es diferente a lo que se muestra en el vídeo. Consulte las siguientes instrucciones de instalación.\n\nDebido a la contracción del material, los botones pueden quedar demasiado apretados dependiendo del filamento utilizado. Si esto sucede, intente lijar cuidadosamente el borde superior del ojal con una lima pequeña para eliminar cualquier material de soporte sobrante, o escale el eje X del botón a aproximadamente el 98% (como se muestra a continuación) antes de imprimir para un mejor ajuste.\n\nNo quites el faldón exterior del botón; está diseñado para evitar que el botón se caiga.\nOtros casos\nfunda en zigzag\nEstuche con placa posterior personalizable\nExperimental\n16 Pro Max16 Pro MaxEstuche en zigzag\nAirpods2\n16 Pro Dragón Negro\n16 Pro Máximo\nFunda Lite 16 Plus Zigzag\n15 Pro Máximo\nPlaca trasera compatible con 16 legos\n16 Pro Máximo\n15 Pro Max 15 Pro 15 Plus 15 14 Pro Max 14 Pro 14 Plus 14 13 Pro Max 13 Pro 13 Plus 13 12 Pro Max 12 Pro 12 12 Mini",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "16promax",
+  "funda del iphone",
+  "promax",
+  "16",
+  "caja del teléfono",
+  "dragón",
+  "gótico",
+  "negro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2f80bed7186250/design/2025-05-11_ae4bcd3c7c8478.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1457614.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

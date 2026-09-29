@@ -1,0 +1,124 @@
+{
+ "files": [
+  {
+   "path": "model/funda-funcional-1h24.3mf.xz",
+   "instance_id": "1120698",
+   "thumbnail": "previews/profiles/1120698.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 4.3,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "14pro版本",
+    "profile_notes": "14pro版本",
+    "creation_date": "2025-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1804,
+      "weight_g": 12.17,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#CCCCCC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3277,
+      "weight_g": 23.2,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#CCCCCC"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 1845924,
+   "sha256": "d74dbd9373b5ab222f4b5592b5a5ae1b175cf54da5937b540b243a3f9a69b852",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1107120",
+ "title": "Funda funcional para iPhone 15 Pro",
+ "slug": "functional-iphone-15-pro-phone-case",
+ "url": "https://makerworld.com/en/models/1107120-functional-iphone-15-pro-phone-case",
+ "author": "user_4183760427",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "La impresión debe ser sencilla. Personalmente recomiendo usar materiales translúcidos para obtener un resultado estéticamente agradable y he optimizado el diseño para lograr un efecto semitransparente. Se necesitará superpegamento.\nLas versiones para el iPhone 14 Pro y 16 Pro son modificadas a partir de los modelos online. Como no los he verificado personalmente en esos dispositivos, puede haber algunos problemas. Por favor, avíseme si tiene algún problema ~",
+ "use_cases": [],
+ "tags": [
+  "caja del teléfono",
+  "iphone",
+  "apple",
+  "teléfono",
+  "original",
+  "diseño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2b0260eacbff51/design/2ebb80e9-1821-4ce2-ad15-fd66b246d72b.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1333
+  ],
+  "previews/02.webp": [
+   1000,
+   1333
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1120698.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-19h42.3mf.xz",
+   "instance_id": "1928726",
+   "thumbnail": "previews/profiles/1928726.jpg",
+   "print_time_h": 19.7,
+   "plates": 12,
+   "rating": 4.8,
+   "rating_count": 140,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "iPhone 17 Pro MAX Cases",
+    "creation_date": "2025-10-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 14476008,
+   "sha256": "01713718cc937ea63308108fc5acf1bd8ae38466053a214c684712b1c535a562",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-11h24.3mf.xz",
+   "instance_id": "1933512",
+   "thumbnail": "previews/profiles/1933512.jpg",
+   "print_time_h": 11.4,
+   "plates": 8,
+   "rating": 4.4,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "iPhone 17 Air Cases",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 11694416,
+   "sha256": "205bf2640cb8812fcf60d83e3a54af8100499a139efcddefef05cb0c7431b896",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-12h24.3mf.xz",
+   "instance_id": "1935170",
+   "thumbnail": "previews/profiles/1935170.jpg",
+   "print_time_h": 12.4,
+   "plates": 8,
+   "rating": 4.6,
+   "rating_count": 104,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "X1E",
+    "P2S",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A2L",
+    "A1",
+    "A1 mini",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "iPhone 17 Cases",
+    "creation_date": "2026-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 5349684,
+   "sha256": "b781160320f73fcc1cdfdb491c0d4d4b573ebe4e8bd13a61c6b36dc74da20f54",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-17h36.3mf.xz",
+   "instance_id": "1930219",
+   "thumbnail": "previews/profiles/1930219.jpg",
+   "print_time_h": 17.6,
+   "plates": 12,
+   "rating": 4.6,
+   "rating_count": 136,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "iPhone 17 Pro Cases",
+    "creation_date": "2025-10-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 18033444,
+   "sha256": "e2121ea30b650b61aa82a1661789d16261fd5bf2a552e830fc2e4b5be0e493b0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1808203",
+ "title": "Funda para teléfono TPU iPhone 17 /Air/Pro/MAX",
+ "slug": "tpu-iphone-17-air-pro-max-phone-case",
+ "url": "https://makerworld.com/en/models/1808203-tpu-iphone-17-air-pro-max-phone-case",
+ "author": "moss3d",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Fundas para teléfono serie iPhone 17\n**Tenga en cuenta que estos estuches han sido diseñados para imprimirse con TPU 95a**\nEstos estuches están diseñados para iPhone 17, Air, Pro y Pro Max. están impresos principalmente en TPU 95A con un panel posterior separado impreso en PLA para darle más resistencia al impacto, y el TPU actúa para absorber y distribuir cualquier impacto. Es una combinación bastante agradable en apariencia y sensación.\n\nEl montaje es bastante sencillo. Aunque necesitarás hacer un poco de esfuerzo para colocar el panel trasero en su lugar, es un poco como volver a colocar un neumático en la llanta. Una vez en su lugar, simplemente presione hacia abajo la parte posterior del estuche para incrustar el TPU en el panel posterior de PLA.\n\nConfiguré la primera capa para que se imprima a 20 mm. Si aumenta la temperatura en 10 grados para la primera capa de TPU, entonces debería obtener una buena primera capa. También se ralentizan puentes y voladizos para mejorar la calidad. Todo esto se ha hecho sobre el plato liso. Puedes volver a configurar la velocidad predeterminada para el panel; de lo contrario, tardará unos minutos más de lo necesario.\n\nPor favor, perdona la mala calidad de mis impresiones, estoy usando sobrantes:( si cuidas tu filamento, tu resultado será mucho mejor\n\nHay un funda sencillo en cada perfil, si sólo quieres algo sencillo.\n\nSeguir para actualizaciones\n\nTambién te puede gustar",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone pro max",
+  "iphone 17 pro max",
+  "iphone 17 pro",
+  "tpu",
+  "funda de tpu",
+  "funda del iphone",
+  "flexible",
+  "musgo3d",
+  "iphone 17 aire",
+  "apple",
+  "caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2cbd69034fa98b/design/2025-09-25_9d0a779bdef828.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/07.jpg": [
+   1000,
+   752
+  ],
+  "previews/08.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/1928726.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/1933512.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/1935170.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/1930219.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

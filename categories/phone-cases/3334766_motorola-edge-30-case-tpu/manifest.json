@@ -1,0 +1,86 @@
+{
+ "files": [
+  {
+   "path": "model/funda-motorola.3mf.xz",
+   "instance_id": "3787750",
+   "thumbnail": "previews/profiles/3787750.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "H2D",
+    "X1",
+    "P1P",
+    "A1",
+    "X2D",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Motorola Edge 30",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 807104,
+   "sha256": "a8912df0b0218981b35d247065ba0655618c24e88d7c1eb1b827a310602601f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3334766",
+ "title": "Funda Motorola Edge 30 TPU",
+ "slug": "motorola-edge-30-case-tpu",
+ "url": "https://makerworld.com/en/models/3334766-motorola-edge-30-case-tpu",
+ "author": "Miharu",
+ "category": "phone-cases",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "SOLO TPU: IMPRESIÓN CON OTROS MATERIALES BAJO SU PROPIO RIESGO\nActualice la protección de su Motorola Edge 30 con una elegante cubierta personalizada inspirada en un panal. Diseñado desde cero para materiales flexibles, este diseño logra el equilibrio perfecto entre una estética de alta gama y una resistente defensa contra caídas.\n¿Por qué el patrón de panal?\nMás rápido y ligero: los recortes geométricos inteligentes utilizan menos material y reducen en minutos el tiempo total de impresión.\nMejor ergonomía: la rejilla abierta texturizada proporciona una sensación segura y antideslizante en la mano.\nRendimiento de refrigeración: maximice el flujo de aire alrededor de su teléfono para evitar la acumulación de calor durante el uso intensivo.\nConfiguración de impresión recomendada\nFilamento: TPU\nResolución: altura de capa de 0,2 mm\nMaterial de soporte: SÍ (ACTIVADO) La habilitación de soportes en toda la impresión garantiza la máxima calidad general de la superficie y detalles nítidos.\nComentarios y solicitudes ¿Impreso? Toma una foto y cárgala en la sección de comentarios. ¡Me encantaría ver tu construcción! Si le gusta el archivo, considere dejar una calificación o un impulso para respaldar futuros diseños.\nImpulsame\n¿Necesita cambiar el tamaño de este modelo para un teléfono diferente o desea un ajuste personalizado? ¡Deja un comentario o envía un mensaje directo!",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "caja del teléfono",
+  "funda de tpu",
+  "panal",
+  "apanalado",
+  "motorola",
+  "funda motorola"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US242bb732229410/design/407c7a2572f89dbb.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/profiles/3787750.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

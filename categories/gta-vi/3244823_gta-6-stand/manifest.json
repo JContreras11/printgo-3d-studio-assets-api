@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-gta.3mf.xz",
+   "instance_id": "3676735",
+   "thumbnail": "previews/profiles/3676735.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1064336,
+   "sha256": "c0a6f60a2d5c516261dbfa8619cd628d4bd5b1e1a9362653c8520fc0d3fd817f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3244823",
+ "title": "Soporte GTA 6",
+ "slug": "gta-6-stand",
+ "url": "https://makerworld.com/en/models/3244823-gta-6-stand",
+ "author": "Spinosaurus3",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Dale a tu configuración de juego un aspecto fresco de neón con esta llamativa lámpara LED inspirada en GTA V. Con su llamativo diseño con letras grandes y colores brillantes, la lámpara llamará la atención en su escritorio.\nLa combinación de efectos de luz azul, violeta y rosa crea una fuerte atmósfera de juego, especialmente en entornos oscuros. Combinada con un controlador de computadora portátil u otros accesorios de juego, la lámpara encaja perfectamente en una configuración moderna.\nPerfecto para tu configuración\nYa sea para estudiar juegos o simplemente como decoración, la lámpara aporta color a su escritorio. Se adapta especialmente bien al monitor, teclado y controlador y, por lo tanto, puede convertirse en la pieza central de su configuración de juego.\nArtista: MorallisDesigns\nImpúlsame ¡¡¡Por favor, impulsame!!!</boostme",
+ "use_cases": [],
+ "tags": [
+  "logo",
+  "juego de azar",
+  "gta",
+  "gta 6",
+  "diseño 3d de juegos",
+  "diseño",
+  "juego",
+  "configuración",
+  "accesorio de escritorio",
+  "accesorios de juego",
+  "ps 5"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US902f508cd066be/design/c66e817c1e2e4524.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   749
+  ],
+  "previews/profiles/3676735.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

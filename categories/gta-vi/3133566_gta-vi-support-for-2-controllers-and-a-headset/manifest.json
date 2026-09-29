@@ -1,0 +1,83 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi.3mf.xz",
+   "instance_id": "3536827",
+   "thumbnail": "previews/profiles/3536827.jpg",
+   "print_time_h": 18.8,
+   "plates": 13,
+   "rating": 4.9,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.24mm layer, 4 walls, 15% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 13
+   },
+   "name": "Versión estándar",
+   "size": 3012640,
+   "sha256": "559f205f5c4e121403c5a887cf73b2ce50f1ea17dc380eae18b456ae6ce3733d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3133566",
+ "title": "GTA VI: Soporte para 2 controladores y unos auriculares",
+ "slug": "gta-vi-support-for-2-controllers-and-a-headset",
+ "url": "https://makerworld.com/en/models/3133566-gta-vi-support-for-2-controllers-and-a-headset",
+ "author": "clube",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "GTA Vice City: controlador dual y soporte para auriculares\nLleve el ambiente icónico de Vice City a su configuración de juego con este soporte para auriculares y controlador imprimible en 3D diseñado a medida.\nDiseñé este modelo para combinar funcionalidad y pantalla, convirtiendo tus controladores y auriculares en parte de la decoración de tu juego. Inspirado en la colorida estética de neón de Vice City, el diseño presenta detalles tropicales, colores llamativos y varias referencias que los fanáticos reconocerán al instante.\nEl stand incluye:\nEspacio para 2 controladores\nSoporte para auriculares integrado\nGran panel trasero inspirado en Vice City\nDetalle de Vice City estilo neón\nDetalle lateral inspirado en Rockstar\nMisión Cumplida / Respeto + detalle\nBase estilo fibra de carbono que se muestra en las fotos.\nDiseñado como piezas múltiples para facilitar la impresión y el montaje multicolor.\nPerfecto para una sala de juegos, un escritorio o un estante de exhibición, especialmente para los fanáticos de GTA.\nTrabajé mucho en los detalles de este modelo, así que si lo imprimes, ¡me encantaría ver tu versión! Publica tu marca, deja un me gusta y considera darle un impulso al modelo.\n¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "gta",
+  "titular",
+  "juego",
+  "ps5"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaeba321434b444/design/6733dce77986bd0a.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   872,
+   1167
+  ],
+  "previews/profiles/3536827.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

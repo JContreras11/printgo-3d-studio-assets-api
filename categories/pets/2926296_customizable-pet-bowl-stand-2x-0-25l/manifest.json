@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-comedero.3mf.xz",
+   "instance_id": "3275276",
+   "thumbnail": "previews/profiles/3275276.jpg",
+   "print_time_h": 15,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "X1E",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-06-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2666224,
+   "sha256": "b90a9692e1b2fdb702e0c56ab9dbf794210c28755d8f4643c36380f58ac378cc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2926296",
+ "title": "Soporte para comedero para mascotas personalizable (2x 0,25l)",
+ "slug": "customizable-pet-bowl-stand-2x-0-25l",
+ "url": "https://makerworld.com/en/models/2926296-customizable-pet-bowl-stand-2x-0-25l",
+ "author": "Milumi3D",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Dale a tu amigo peludo una experiencia gastronómica personalizada! Este es un soporte doble para cuenco para mascotas moderno, elegante y práctico que presenta un lindo detalle de huella de pata y una placa de identificación personalizable.\n¡Puedes cambiar fácilmente el texto \"MILO\" por el nombre de tu propia mascota directamente dentro de Bambu Studio usando la herramienta de texto incorporada!\nCaracterísticas clave:\nFácil de personalizar: abra el proyecto en Bambu Studio, seleccione el elemento de texto y escriba el nombre de su mascota.\nAjuste perfecto: diseñado específicamente para contener dos tazones para mascotas de acero inoxidable estándar de 0,25 l (250 ml). Puede encontrar tazones compatibles en Amazon (por ejemplo, busque \"tazones para mascotas de acero inoxidable de 250 ml\").\nDiseño ergonómico y limpio: elegante forma curva que encaja perfectamente en el interior de cualquier hogar moderno. Cuenta con pequeños cortes para los dedos detrás de los tazones para retirarlos y limpiarlos sin esfuerzo.\nConstrucción robusta: base estable que evita que los tazones se deslicen o vuelquen durante la hora de comer.\n\nCómo personalizar el nombre en Bambu Studio:\n\nAbra el archivo.3mf en Bambu Studio.\nHaga clic en la herramienta Forma de texto (o haga clic derecho en el texto y edítelo).\nEscriba el nombre de su mascota y ajuste el tamaño si es necesario.\n¡Corta e imprime!",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "mascotas",
+  "bol",
+  "personalizable",
+  "pararse",
+  "cuenco para mascotas",
+  "cuenco para perros",
+  "personalizado",
+  "doble",
+  "interior",
+  "hogar",
+  "diseño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6a63b5b7cf09ef/design/b96060610687bc7f.jpg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3275276.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

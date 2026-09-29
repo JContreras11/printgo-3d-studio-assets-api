@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/elevador-comedero-4h24.3mf.xz",
+   "instance_id": "1198999",
+   "thumbnail": "previews/profiles/1198999.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 65,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "12cm (2 38/64in) 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "12cm (2 38/64)2.5984251968504in",
+    "creation_date": "2025-03-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15677,
+      "weight_g": 164.82,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#487705"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 700392,
+   "sha256": "1a9bf89ae70661985dbca60fce1f14b303f3d9ad42833429706eedd521bd1a6d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1187718",
+ "title": "Elevador de Comedero para Perros y Gatos 3 tamaños",
+ "slug": "cat-dog-bowl-riser-3-sizes",
+ "url": "https://makerworld.com/en/models/1187718-cat-dog-bowl-riser-3-sizes",
+ "author": "PSVdesign",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Elevador de cuencos para mascotas con ángulo de 15 grados, tamaños 12 cm (4 ²³/₃₂), 13 cm (5 ¹/₈) y 14 cm (5 ³³/₆₄).\nEl diámetro del orificio es 6 mm(¹⁵/₆₄) menor, calculado para el borde del recipiente.\n\n120 mm tiene un tamaño de orificio: 114 mm\n130 mm tiene un tamaño de orificio: 124 mm\n140 mm tiene tamaño de agujero: 134 mm\n\nUnidades de libertad: (pulgadas)\n4,7244094488 (4 ²³/₃₂) pulgadas tamaño del agujero: 4,4881889764 (4 ³¹/₆₄)\n5,1181102362 (5 ¹/₈) en tamaño de agujero: 4,8818897638 (4 ⁷/₈)\n5,5118110236 (5 ³³/₆₄) en tamaño de agujero: 5,2755905512 (5 ⁹/₃₂)\n\nNotas:\nTe recomendaría que primero midas tu cuenco para comprobar que encaja en este agujero y no con mucho espacio libre.\nNo recomiendo un espacio libre superior a 2-3 mm (⁵/₆₄ - ¹/₈), ya que el recipiente comenzará a moverse demasiado en el orificio.\nLa profundidad del tazón no debe exceder los 66 mm (2 ¹⁹/₃₂).\n\nBoost MeAyúdame a continuar mi viaje con la impresión 3D.",
+ "use_cases": [],
+ "tags": [
+  "elevador de cuencos",
+  "bol",
+  "ángulo del cuenco",
+  "tazón de gato",
+  "tubo de subida",
+  "cuenco para gatos",
+  "elevador de cuenco para gatos",
+  "soporte para cuenco para gatos",
+  "cuenco para perros",
+  "elevador de cuencos para perros",
+  "tubo vertical de cuenco"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1ee8f937ce969d/design/2025-03-08_bc33ed53c1f4a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   665,
+   1440
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1198999.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

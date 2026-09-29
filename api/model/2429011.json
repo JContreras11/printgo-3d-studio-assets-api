@@ -1,0 +1,108 @@
+{
+ "files": [
+  {
+   "path": "model/collie-fronterizo.3mf.xz",
+   "instance_id": "2664432",
+   "thumbnail": "previews/profiles/2664432.jpg",
+   "print_time_h": 10.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "H2D",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 2565700,
+   "sha256": "01826aecad7d39b11f8fd67cc540432164fd7f02aa9d8dc54413b5222c79241b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2429011",
+ "title": "collie fronterizo",
+ "slug": "border-collie",
+ "url": "https://makerworld.com/en/models/2429011-border-collie",
+ "author": "Real_Prints",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Border Collie (blanco y negro)\nEl Border Collie blanco y negro es la definición misma de inteligencia, concentración y energía ilimitada. Reconocible al instante por su llamativo patrón de pelaje y su expresión intensamente alerta, esta raza es ampliamente considerada como uno de los perros más inteligentes del mundo. Desarrollado originalmente a lo largo de la frontera de Escocia e Inglaterra para pastorear ovejas, el Border Collie fue criado por su resistencia, precisión y una extraordinaria capacidad para responder a órdenes sutiles. Hoy en día, son admirados no sólo como perros de trabajo excepcionales, sino también como compañeros leales y alegres.\n\nApariencia y personalidad\nPelaje: Doble pelaje de longitud media, más famoso en un patrón clásico en blanco y negro. El pelaje puede ser liso o ligeramente áspero, y a menudo presenta un resplandor blanco en la cara, el pecho, el cuello y la punta de la cola blancos.\nConstitución: De estatura mediana, atlética y perfectamente equilibrada. Esbelto pero fuerte, construido para la velocidad, la agilidad y la resistencia.\nExpresión: Intensamente concentrado y muy inteligente. Sus ojos almendrados (a menudo oscuros, a veces azules o uno de cada uno) transmiten concentración y una conciencia notable.\nTemperamento: Excepcionalmente inteligente, enérgico y con muchas ganas de trabajar. Los Border Collies son muy receptivos y prosperan con los desafíos mentales. Son profundamente leales a sus familias, sensibles a su entorno y más felices cuando se les da un propósito y dirección.\n\nActividad y compañía\nLos Border Collies son perros muy energéticos que requieren tanto ejercicio físico como estimulación mental intensa.\nSe destacan en agilidad, obediencia, flyball, frisbee, pruebas de pastoreo y entrenamiento avanzado.\nLa actividad diaria estructurada es esencial: no son adecuados para un estilo de vida sedentario.\nAunque son motivados y concentrados al aire libre, son afectuosos y devotos en casa, forman fuertes vínculos con su gente y, a menudo, permanecen cerca.\n\nSalud y cuidado\nEjercicio: Muy alto: la actividad diaria vigorosa y las tareas mentales son cruciales para el bienestar.\nCuidado del pelaje: Moderado: el cepillado regular ayuda a controlar la caída y a mantener la salud del pelaje.\nDieta: una nutrición de alta calidad respalda su metabolismo activo y su condición muscular magra.\nSalud: Los Border Collies suelen vivir entre 12 y 15 años. Pueden ser propensos a sufrir displasia de cadera, ciertas afecciones oculares (como la anomalía del ojo del collie) y epilepsia. La cría responsable y la atención veterinaria de rutina son importantes para la salud a largo plazo.\n\nDatos curiosos\nLos Border Collies son famosos por su “mirada de pastoreo”, conocida como “ojo”, que se utiliza para controlar el ganado.\nSe encuentran constantemente entre las razas de perros más inteligentes del mundo.\nPueden aprender comandos complejos con una velocidad y precisión asombrosas.\nMuchos Border Collies ostentan récords mundiales en deportes caninos y entrenamiento de trucos.\nDebajo de su exterior centrado y motivado se esconde un compañero sensible y leal que se nutre de la conexión y la actividad compartida.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "dux",
+  "border collie",
+  "collie fronterizo",
+  "borde",
+  "collie",
+  "fronteracolia",
+  "perrito",
+  "cachorro",
+  "cachorros",
+  "montessori",
+  "lindo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6c1630afa9569d/design/031f67c6afd9c693.jpeg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2664432.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

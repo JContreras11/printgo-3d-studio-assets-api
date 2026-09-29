@@ -11,9 +11,16 @@ import { parseArgs } from "node:util";
 import { connect } from "./lib/cdp.mjs";
 import { toEs, sanitize, saveCache } from "./lib/text_es.mjs";
 import { classify, parseProfiles, relevant } from "./lib/mw_data.mjs";
-import { cleanTitle, projectFileName } from "./lib/names.mjs";
+import { cleanTitle, projectFileName, variantDisplayName } from "./lib/names.mjs";
+import { extractMeta } from "./extract_3mf_meta.mjs";
 import { slugify } from "./lib/misc.js";
 import { build, labels, ROOT } from "./build_api.mjs";
+
+// Rótulos de variante ya traducidos (scripts/build_variant_labels.mjs). El scraper no traduce
+// en caliente: si un título de perfil no está en el mapa, el rótulo sale de los datos.
+const VARIANT_LABELS = fs.existsSync(path.join(ROOT, "data", "variant-labels.json"))
+  ? JSON.parse(fs.readFileSync(path.join(ROOT, "data", "variant-labels.json"), "utf8"))
+  : {};
 
 const { values: opt, positionals } = parseArgs({
   allowPositionals: true,
@@ -307,8 +314,12 @@ async function processModel(item, lib) {
     }
     if (!file) {
       // El nombre lo pone el proyecto, no el perfil del laminador (scripts/rename_files.mjs).
+      // El perfil se pasa como si ya fuera un archivo: aquí el 3MF aún no está descargado,
+      // pero sus datos (material, color, tiempo) sí están en la respuesta de MakerWorld, y son
+      // los que hacen que el nombre valga ("perro-pastor-multicolor-1h48" y no "perro-pastor-3").
       const idx = m.files.length;
-      const rel = `model/${projectFileName(m.title, { category: m.category, total: profiles.length, index: idx })}.3mf`;
+      const planned = { meta: { profile_title: p.title }, print_time_h: p.print_time_h };
+      const rel = `model/${projectFileName(m.title, { category: m.category, total: profiles.length, index: idx, file: planned })}.3mf`;
       const tmp = path.join(ROOT, ".tmp", "dl", `${item.id}-${p.instance_id}.3mf`);
       if (!(await download(signed.url, tmp))) { errors.push(`${p.instance_id}: descarga falló`); continue; }
       execFileSync("xz", ["-9", "-T0", "-f", tmp]);
@@ -324,11 +335,20 @@ async function processModel(item, lib) {
     const thumbnail = await profileThumbnail(folder, m, p);
     Object.assign(file, {
       instance_id: p.instance_id,
-      name: path.basename(file.path).replace(/\.3mf(\.xz)?$/i, ""),
       thumbnail,
       print_time_h: p.print_time_h, plates: p.plates, rating: p.rating, rating_count: p.rating_count,
       by_designer: p.by_designer, printers: p.printers, default: p.default,
     });
+    // El rótulo necesita meta.plates (material y color de los filamentos), y eso solo está
+    // dentro del 3MF. Si no se extrae aquí, el rótulo cae en "Versión estándar" siempre.
+    if (!file.meta && fs.existsSync(path.join(folder, file.path))) {
+      const meta = await extractMeta(path.join(folder, file.path));
+      if (Object.keys(meta).length) file.meta = meta;
+    }
+    if (!file.meta?.profile_title && p.title) file.meta = { ...file.meta, profile_title: p.title };
+    // El rótulo va después de los metadatos: sale en castellano y sin horas.
+    // El nombre del archivo es otra cosa (ver rel, arriba).
+    file.name = variantDisplayName(file, VARIANT_LABELS);
   }
   if (quota && !m.files.length) throw quota; // la carpeta de trabajo queda para reanudar
   if (!m.files.length) {

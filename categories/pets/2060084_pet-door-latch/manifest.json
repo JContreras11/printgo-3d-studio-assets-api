@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/pestillo-puerta.3mf.xz",
+   "instance_id": "2224221",
+   "thumbnail": "previews/profiles/2224221.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 68,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "H2C",
+    "X1E",
+    "P2S",
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.2mm layer height. Latch is 15% infill, Door knob fitting uses 30% infill and supports Sorry A1 Mini users, the latch is too long. If I need to, I can modify to support A1 mini users with skinnier pets :D",
+    "creation_date": "2025-11-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8700216,
+   "sha256": "8f5cabe2093ad6566e5a06be3c031a1631b05aecd2e73128a640e9955fe94152",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2060084",
+ "title": "Pestillo de puerta para mascotas",
+ "slug": "pet-door-latch",
+ "url": "https://makerworld.com/en/models/2060084-pet-door-latch",
+ "author": "wallacej981",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Un pestillo de puerta ajustable que mantiene las puertas abiertas al ancho deseado. La puerta se mantiene en su lugar mediante un pestillo que se engancha en el tope de la puerta. Se puede abrir fácilmente desde el interior y el exterior. Se puede configurar para puertas izquierdas y derechas.\n\nLa apertura es ajustable desde un mínimo de 2\" hasta un máximo de 6\" en incrementos de ½\"\n\nDiseñado para funcionar en puertas interiores estándar:\nPuerta de 1-3/8\" de espesor\nRetroceso de 2-3/8\" (desde el borde de la puerta hasta el centro de la perilla)\nTope de puerta de 1-3/8\"\nJefe de perilla de 2-5/8\" - 2-3/4\" de diámetro",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "puerta",
+  "por accesorios",
+  "accesorio de puerta",
+  "mascota",
+  "pestillo",
+  "seguridad de las mascotas",
+  "perro",
+  "funcional",
+  "atasco",
+  "por mermelada",
+  "jamba"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc735bed6507f67/design/2025-11-30_7eb5e426fb486.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   490,
+   640
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1323
+  ],
+  "previews/04.jpg": [
+   1000,
+   1364
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2224221.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

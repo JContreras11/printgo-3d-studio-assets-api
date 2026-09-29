@@ -1,0 +1,134 @@
+{
+ "files": [
+  {
+   "path": "model/comedero-lento-2h06.3mf.xz",
+   "instance_id": "3321581",
+   "thumbnail": "previews/profiles/3321581.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 35,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "X1E",
+    "P1P",
+    "P2S",
+    "H2D",
+    "A2L",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "optimized parameters for all printers, 6 holes.",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1512852,
+   "sha256": "864f335de5f41e2cd7e8a45491462147e4f40cfd86a34ae75b46343c17539c6f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/comedero-lento-1h54.3mf.xz",
+   "instance_id": "3484198",
+   "thumbnail": "previews/profiles/3484198.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X2D",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "A1 mini",
+    "X1",
+    "A2L",
+    "H2D",
+    "H2C",
+    "P1S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "参数优化，提高打印效率，适配A1和P系列",
+    "creation_date": "2026-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1519240,
+   "sha256": "9f04d3fcfebba5f52efcd3d7748d5c22303fbff163c2a75583f9fbebb1257ab1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2962880",
+ "title": "Comedero Lento Rodante Interactivo para Perros y Gatos",
+ "slug": "interactive-rolling-cat-and-dog-slow-feeder",
+ "url": "https://makerworld.com/en/models/2962880-interactive-rolling-cat-and-dog-slow-feeder",
+ "author": "oettam",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Descargue solo perfiles de impresión oficiales para obtener un mejor resultado!\nDispensador interactivo de golosinas y comedero lento para gatos con ruedas\n¡Convierte la hora de comer en un juego atractivo con este alimentador lento para gatos con ruedas! Este juguete rompecabezas cilíndrico mantiene a su gato físicamente activo y mentalmente estimulado obligándolo a trabajar para conseguir su comida. A medida que empujan y hacen girar el cilindro, las croquetas o golosinas escapan lentamente a través de las ranuras en forma de diamante.\nCaracterísticas clave\nRoll to Dispensador: ¡Completamente interactivo! El movimiento rodante desencadena los instintos naturales de caza de su gato a medida que las golosinas caen dinámicamente.\nPreviene la comida rápida: perfecto para gatos que \"buscan y vomitan\". Les obliga a comer una croqueta a la vez, favoreciendo una mejor digestión y previniendo la hinchazón.\nSúper fácil de llenar: cuenta con una tapa roscada segura en el lateral que hace que los recambios y la limpieza interior sean rápidos e indoloros.\n100% sin soporte: ¡La geometría 3D optimizada significa que puede imprimir esto sin desperdiciar material en estructuras de soporte!\nUtilice PLA para obtener un resultado seguro para los alimentos (PLA puro es perfecto)",
+ "use_cases": [],
+ "tags": [
+  "gato",
+  "alimento para perros",
+  "perro",
+  "alimentar",
+  "animales",
+  "lento",
+  "alimentador lento",
+  "rompecabezas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe34fbed181bff9/design/a0642c70cd214e13.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   639
+  ],
+  "previews/profiles/3321581.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3484198.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,312 @@
+{
+ "files": [
+  {
+   "path": "model/estacion-cuenco-35h24.3mf.xz",
+   "instance_id": "1812049",
+   "thumbnail": "previews/profiles/1812049.jpg",
+   "print_time_h": 35.4,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-08-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 2926648,
+   "sha256": "4a9fbaf09e73ea4e4679f3644989d1346d250c25cd4f4ab37c8f29fd897157b8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cuenco-1h24.3mf.xz",
+   "instance_id": "1824588",
+   "thumbnail": "previews/profiles/1824588.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Anti Bowl Theft Ring",
+    "profile_notes": "Stops those pups running off with the bowl 15% infill- Rectilinear",
+    "creation_date": "2025-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1329456,
+   "sha256": "aae1e7a96cded553a4e9b3e5809dcb1472e652ae10825781c06ecb488197a58a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cuenco-1h30.3mf.xz",
+   "instance_id": "1814476",
+   "thumbnail": "previews/profiles/1814476.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.60",
+    "profile_title": "TPU Feet- Dog Bowl Stand",
+    "creation_date": "2025-08-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 956192,
+   "sha256": "c762ca11e5da6f01f162e00a30ed14ae547fe34a54e991d1d55a407dd7cf614f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cuenco-22h36.3mf.xz",
+   "instance_id": "2068548",
+   "thumbnail": "previews/profiles/2068548.jpg",
+   "print_time_h": 22.6,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Extra Large Dog Bowl Stand - 200mm bowl",
+    "profile_notes": "300mm x 300mm top table with 200mm cut out for Bowl. ( Can modify design based upon request)",
+    "creation_date": "2025-10-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión grande",
+   "size": 1385752,
+   "sha256": "398b708a0b7ca5029f31c2764f5c2017bd58f24d9bbbdd899514ec423b584c90",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cuenco-37h42.3mf.xz",
+   "instance_id": "2479326",
+   "thumbnail": "previews/profiles/2479326.jpg",
+   "print_time_h": 37.7,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "P2S",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Dual Bowl and nameplates",
+    "creation_date": "2026-01-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 2639028,
+   "sha256": "00fb60d36533424c42ef49fb0c73687e919f2e6dca69d1fdc575938c78a09f7c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1708031",
+ "title": "Estación de cuenco elevado para perros: placa de identificación personalizada",
+ "slug": "raised-dog-bowl-station-custom-nameplate",
+ "url": "https://makerworld.com/en/models/1708031-raised-dog-bowl-station-custom-nameplate",
+ "author": "DSL_Design",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Estación de cuencos elevados para perros: ajuste personalizado y diseño que se puede unir entre sí.\nUna solución de alimentación limpia y elegante para perros de todos los tamaños.\nPor qué este soporte para tazones es mejor que el resto:\nDiseño paramétrico: fácil de agregar perfiles de impresión adicionales para tamaños personalizados (hágamelo saber en los comentarios)\nElevado para mayor comodidad: mejora la postura y reduce la tensión al comer o beber.\nDiseño modular de 2 partes: imprime en camas más pequeñas, se bloquea de forma segura con una junta de cola de milano oculta.\nSe incluyen etiquetas de nombre personalizadas: ¡haga que cada estación sea personal con etiquetas intercambiables!\nTamaño para todas las razas: incluye versiones pequeñas y medianas. Ampliar para perros más grandes.\nEstética moderna y minimalista: queda genial en cualquier cocina o espacio de servicio.\nDiseño fácil de imprimir:\nFácil de imprimir en PLA o PETG\nDiseñado para imprimirse en dos partes y luego deslizarse juntas\nLas etiquetas de nombre se pueden imprimir en un segundo color para lograr un alto contraste.\nQué está incluido:\nPuesto para perros pequeños\nPuesto para perros mediano\nEtiqueta de nombre editable en blanco\nBonificación: practique el archivo de prueba de cola de milano\nArchivos STL y STEP opcionales para remezcladores\nAsamblea:\nImprime las mitades delantera y trasera.\nDeslícelos juntos usando la junta de cola de milano incorporada.\nIntroduzca la etiqueta de nombre personalizada.\nColoca tu recipiente de metal y ¡listo! (El recipiente de metal utilizado era de 19 cm) enlace a continuación\n\nConsejo: agregue pies antideslizantes o puntos de silicona debajo de la base si se usa en pisos duros.\n¡Personalízalo!\nAñade el nombre de tu perro con texto en relieve o cortado\nUtilice recambios de filamento o bolígrafos de pintura para letras de alto contraste.\n¿Quieres un ícono o patrón de pata? ¡Simplemente remezcla la etiqueta con el nombre!\nInstrucciones de cuidado:\nDiseñado para albergar cuencos extraíbles de acero inoxidable y fáciles de lavar.\nLimpie el soporte con un paño húmedo.\nPerfecto para...\nPerros con problemas en las articulaciones o el cuello.\nConfiguraciones de cocina con estilo\nHogares con varios perros (¡cada perro recibe su propia etiqueta con su nombre!)\nCreadores que quieren una impresión que sea a la vez útil y hermosa\n\"Boost Me\" Estación de tazón elevada con junta de cola de milano oculta y etiqueta con nombre personalizada. Fácil de imprimir, fácil de amar. Diseñado para perros, construido para cocinas\". He construido este diseño paramétrico, por lo que cualquier tamaño de altura adicional que necesite, hágamelo saber.",
+ "use_cases": [],
+ "tags": [
+  "cuenco elevado",
+  "mascota",
+  "perro",
+  "mascotas",
+  "comida para mascotas",
+  "comida para perros",
+  "estación de alimentación",
+  "estación de comida",
+  "bol",
+  "organizador",
+  "cocina ordenada",
+  "alimento"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb31b79b1d316df/design/2025-08-17_5795d7e1912128.jpg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1500
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1812049.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1824588.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1814476.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2068548.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/2479326.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

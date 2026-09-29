@@ -1,0 +1,320 @@
+{
+ "files": [
+  {
+   "path": "model/guia-colector-1h.3mf.xz",
+   "instance_id": "967966",
+   "thumbnail": "previews/profiles/967966.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 79,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Bottle For Dust Collector",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3486,
+      "weight_g": 46.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 5986272,
+   "sha256": "0432fefd1eb6c25ec82b4f5fb7ebdbc5cff7b3e902251a29544927331f30986d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/guia-colector-1h18.3mf.xz",
+   "instance_id": "972366",
+   "thumbnail": "previews/profiles/972366.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 534,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Dust Collector With Side Deflectors",
+    "profile_notes": "Same design with side deflectors to help catch more dust from drilling.",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4728,
+      "weight_g": 44.84,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3466168,
+   "sha256": "d016e09c5d85b2bbb43d3c735403f4e7e184ff4d2145405277ad404c2d2127a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/guia-colector-1h24.3mf.xz",
+   "instance_id": "1028891",
+   "thumbnail": "previews/profiles/1028891.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.6mm nozzle, 0.24mm layer, 2 walls, 10% infill",
+    "profile_notes": ".6mm nozzle . printed well, feels strong",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 5020,
+      "weight_g": 49.14,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3499484,
+   "sha256": "fed2e469ffffc41094c8890662e8e9e90a86ada0fa270bbb92b8873d30f1bffa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/guia-colector-24min.3mf.xz",
+   "instance_id": "994689",
+   "thumbnail": "previews/profiles/994689.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 75,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Cap / Plug for Bottom Hole",
+    "profile_notes": "Cap / Plug in case you don't want to use a bottle.",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1301,
+      "weight_g": 6.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3828804,
+   "sha256": "24e14fea0ccdb0cff1cc6ce483fab98771b89ce80410cc430ec60466a5a2ca27",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "992232",
+ "title": "Guía y colector de polvo de perforación V3",
+ "slug": "drill-dust-collector-and-guide-v3",
+ "url": "https://makerworld.com/en/models/992232-drill-dust-collector-and-guide-v3",
+ "author": "fifindr",
+ "category": "pets",
+ "source_category": "Herramientas > Herramientas manuales",
+ "description": "¡Anímame si te gusta mi diseño! ¡Gracias!\nBoost MeBoost = 43 g de filamento:)MembresíaLicencia comercial Importante:\nNo apriete demasiado la botella para evitar dañar la impresión.\nPresentamos Drill Dust Collector and Guide V3: la herramienta definitiva para mantener limpio su espacio de trabajo mientras perfora. Esta versión mejorada incluye un accesorio roscado compatible con botellas de PET estándar (PCO 1881, diámetro 28 mm), lo que permite que todo el polvo y los residuos caigan directamente en la botella. Para aquellos que no tienen una botella de PET, también se incluye un recipiente pequeño diseñado a medida para mayor comodidad.\nMantenga un espacio de trabajo ordenado sin esfuerzo con este recolector eficiente y fácil de usar.",
+ "use_cases": [],
+ "tags": [
+  "colector de polvo",
+  "colector de taladros",
+  "guía de perforación",
+  "polvo",
+  "perforar",
+  "coleccionista",
+  "herramienta",
+  "artilugio",
+  "artilugios",
+  "herramientas",
+  "herramientas manuales",
+  "perforación"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8a3d61438080a6/design/2025-01-15_49535c9408552.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/967966.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/972366.jpg": [
+   600,
+   618
+  ],
+  "previews/profiles/1028891.jpg": [
+   600,
+   797
+  ],
+  "previews/profiles/994689.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

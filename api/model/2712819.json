@@ -1,0 +1,132 @@
+{
+ "files": [
+  {
+   "path": "model/maltes-sonoliento-monocolor-1h54.3mf.xz",
+   "instance_id": "3004030",
+   "thumbnail": "previews/profiles/3004030.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X2D",
+    "A1",
+    "X1",
+    "H2C",
+    "P1S",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Single Color"
+   },
+   "name": "Monocromo",
+   "size": 6882736,
+   "sha256": "bb4fb522ebb872a3af50f55462cf762772b217d18769303531574c1b7c83081e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/maltes-sonoliento-multicolor-2h42.3mf.xz",
+   "instance_id": "3004038",
+   "thumbnail": "previews/profiles/3004038.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 143,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "P1P",
+    "P2S",
+    "H2S",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "A1",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Multi-Color"
+   },
+   "name": "Multicolor",
+   "size": 6822624,
+   "sha256": "400a933f704ec39297a56a7dfeba544bb1ec4eb57f959acf29e1e49ba981331f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2712819",
+ "title": "Maltés soñoliento - Monitor Buddy",
+ "slug": "sleepy-maltese-monitor-buddy",
+ "url": "https://makerworld.com/en/models/2712819-sleepy-maltese-monitor-buddy",
+ "author": "MiniDesignLab",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Maltés soñoliento - Monitor Buddy\n\n¡Aporta un poco de comodidad y comodidad a tu espacio de trabajo con este Sleepy Maltese Monitor Buddy! Este pequeño y adorable compañero está diseñado para descansar perfectamente en el borde del monitor de su computadora, haciéndole compañía durante largas horas de trabajo o juegos.\nYa sea que seas un amante de los perros o simplemente necesites un ambiente de \"paños\" en tu escritorio, este maltés está listo para tomar una siesta justo donde puedas verlo.\n\nVersiones incluidas\nEste proyecto viene en dos versiones para adaptarse a su configuración de impresión:\n1. Versión AMS (multicolor)\n¡Perfecto para aquellos que quieren un look completo directamente desde la cama de impresión!\nColores: 2 (Blanco para el pelaje, Negro para los detalles).\nDetalles: Ojos, nariz y boca precoloreados para esa clásica expresión maltesa.\nFacilidad de uso: simplemente cargue el archivo 3MF, sincronice sus filamentos y presione imprimir.\n\n2. Versión sin AMS (un solo color)\nDiseñado para impresores estándar o aquellos que prefieren un aspecto minimalista.\nEstilo: Una escultura blanca limpia y elegante.\nPersonalización: ¡Puedes agregar fácilmente los detalles faciales tú mismo usando un marcador permanente o una gota de pintura acrílica!\n\nConfiguraciones y recomendaciones de impresión\nFilamento: PLA (Básico, Mate, Seda), PETG\nRelleno: 10-15% (Manténgalo liviano para que permanezca seguro en su monitor).\nSoportes: Es posible que se necesiten soportes mínimos dependiendo del ángulo del soporte de su monitor (consulte la vista previa cortada).\nEscalado: Se adapta a la mayoría de los monitores estándar, pero siéntase libre de aumentarlo o reducirlo entre un 10% y un 15% para lograr el ajuste perfecto para el grosor específico de su pantalla.\n\n¡Muestra a tu amigo!\nSi imprimes este cachorro somnoliento, ¡me encantaría verlo! Publique una marca y muéstrenos la configuración de su estación de trabajo.\n\nConsejo: si su amigo se siente un poco resbaladizo en su monitor, ¡un pequeño trozo de cinta adhesiva de doble cara evitará que se \"quede dormido\" fuera del borde!\n\n¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "mascota",
+  "lindo",
+  "animal",
+  "maltés",
+  "compañero",
+  "monitor",
+  "primavera",
+  "invierno",
+  "juguete",
+  "divertido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6934cbdbc2220f/design/f655de440af8a072.png",
+ "preview": "previews/01.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "image_sizes": {
+  "previews/01.png": [
+   597,
+   447
+  ],
+  "previews/profiles/3004030.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3004038.jpg": [
+   600,
+   464
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

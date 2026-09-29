@@ -3,7 +3,7 @@
   {
    "path": "model/juguetes-gatos-pla-multicolor-7h36.3mf.xz",
    "instance_id": "1129102",
-   "name": "juguetes-gatos-pla-multicolor-7h36",
+   "name": "Multicolor impresión en PLA",
    "thumbnail": "previews/profiles/1129102.jpg",
    "print_time_h": 7.6,
    "plates": 4,
@@ -103,53 +103,9 @@
    }
   },
   {
-   "path": "model/juguetes-gatos-1h.3mf.xz",
-   "instance_id": "3452155",
-   "name": "juguetes-gatos-1h",
-   "thumbnail": "previews/profiles/3452155.jpg",
-   "print_time_h": 1,
-   "plates": 1,
-   "rating": 3.5,
-   "rating_count": 2,
-   "by_designer": false,
-   "printers": [
-    "H2C",
-    "A2L",
-    "P2S",
-    "H2S",
-    "A1 mini",
-    "X1 Carbon",
-    "X1",
-    "X1E",
-    "P1P",
-    "A1",
-    "H2D",
-    "P1S",
-    "X2D",
-    "H2D Pro"
-   ],
-   "default": false,
-   "size": 2549348,
-   "sha256": "fd9d004b4f000e8d763e977b3717ab6dd155e65b7cb64efbd166a5133cd60f95",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "1 Ball. Dualcolor, optimized",
-    "profile_notes": "Basic Settings 0.2 mm layer height 3 walls for strength Detect thin wall Outer brim only - easier to pop inner ball Normal print speed Plates: plate 1 - multicolor with AMS plate 2 - single color plate 3 - bells for multicolor no AMS plate 4 - empty Cat toys for multicolor no AMS",
-    "creation_date": "2026-07-18",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab H2C",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
    "path": "model/juguetes-gatos-7h48.3mf.xz",
    "instance_id": "1887795",
-   "name": "juguetes-gatos-7h48",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/1887795.jpg",
    "print_time_h": 7.8,
    "plates": 4,
@@ -193,7 +149,7 @@
   {
    "path": "model/juguetes-gatos-monocolor-1h48.3mf.xz",
    "instance_id": "2178489",
-   "name": "juguetes-gatos-monocolor-1h48",
+   "name": "Monocromo en PETG",
    "thumbnail": "previews/profiles/2178489.jpg",
    "print_time_h": 1.8,
    "plates": 1,
@@ -235,9 +191,53 @@
    }
   },
   {
+   "path": "model/juguetes-gatos-multicolor-1h.3mf.xz",
+   "instance_id": "3452155",
+   "name": "Multicolor",
+   "thumbnail": "previews/profiles/3452155.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "A2L",
+    "P2S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "H2D",
+    "P1S",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "size": 2549348,
+   "sha256": "fd9d004b4f000e8d763e977b3717ab6dd155e65b7cb64efbd166a5133cd60f95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "1 Ball. Dualcolor, optimized",
+    "profile_notes": "Basic Settings 0.2 mm layer height 3 walls for strength Detect thin wall Outer brim only - easier to pop inner ball Normal print speed Plates: plate 1 - multicolor with AMS plate 2 - single color plate 3 - bells for multicolor no AMS plate 4 - empty Cat toys for multicolor no AMS",
+    "creation_date": "2026-07-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
    "path": "model/juguetes-gatos-pla-3h12.3mf.xz",
    "instance_id": "1148351",
-   "name": "juguetes-gatos-pla-3h12",
+   "name": "Impresión en PLA",
    "thumbnail": "previews/profiles/1148351.jpg",
    "print_time_h": 3.2,
    "plates": 4,
@@ -335,7 +335,7 @@
   {
    "path": "model/juguetes-gatos-pla-multicolor-8h.3mf.xz",
    "instance_id": "1154959",
-   "name": "juguetes-gatos-pla-multicolor-8h",
+   "name": "Multicolor impresión en PLA",
    "thumbnail": "previews/profiles/1154959.jpg",
    "print_time_h": 8,
    "plates": 4,
@@ -535,10 +535,6 @@
    600,
    480
   ],
-  "previews/profiles/3452155.jpg": [
-   600,
-   800
-  ],
   "previews/profiles/1887795.jpg": [
    600,
    600
@@ -546,6 +542,10 @@
   "previews/profiles/2178489.jpg": [
    595,
    425
+  ],
+  "previews/profiles/3452155.jpg": [
+   600,
+   800
   ],
   "previews/profiles/1148351.jpg": [
    600,

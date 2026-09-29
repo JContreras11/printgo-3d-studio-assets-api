@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/lindo-unicornio-1h24.3mf.xz",
+   "path": "model/lindo-unicornio-multicolor-1h24.3mf.xz",
    "instance_id": "1794500",
-   "name": "lindo-unicornio-1h24",
+   "name": "Multicolor",
    "thumbnail": "previews/profiles/1794500.jpg",
    "print_time_h": 1.4,
    "plates": 1,
@@ -46,7 +46,7 @@
   {
    "path": "model/lindo-unicornio-15h48.3mf.xz",
    "instance_id": "3143289",
-   "name": "lindo-unicornio-15h48",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/3143289.jpg",
    "print_time_h": 15.8,
    "plates": 1,
@@ -147,5 +147,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

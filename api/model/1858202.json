@@ -3,7 +3,7 @@
   {
    "path": "model/calabaza-linda-2h06.3mf.xz",
    "instance_id": "1987118",
-   "name": "calabaza-linda-2h06",
+   "name": "Partes separadas",
    "thumbnail": "previews/profiles/1987118.jpg",
    "print_time_h": 2.1,
    "plates": 3,
@@ -45,41 +45,9 @@
    }
   },
   {
-   "path": "model/calabaza-linda-1h18.3mf.xz",
-   "instance_id": "1998568",
-   "name": "calabaza-linda-1h18",
-   "thumbnail": "previews/profiles/1998568.jpg",
-   "print_time_h": 1.3,
-   "plates": 1,
-   "rating": 5,
-   "rating_count": 15,
-   "by_designer": false,
-   "printers": [
-    "A1 mini",
-    "A1"
-   ],
-   "default": false,
-   "size": 18636072,
-   "sha256": "639c5f7ea0074d41a242a80adecdaf62134135e1aeb3013aa88a6e1819128022",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.02.02.56",
-    "profile_title": "all on one plate, 2 color changes, variable layer heigth",
-    "profile_notes": "No AMS needed! Parts need to be glued in.",
-    "creation_date": "2025-10-08",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.12",
-    "infill": "8%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
    "path": "model/calabaza-linda-4h24.3mf.xz",
    "instance_id": "1987125",
-   "name": "calabaza-linda-4h24",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/1987125.jpg",
    "print_time_h": 4.4,
    "plates": 1,
@@ -123,7 +91,7 @@
   {
    "path": "model/calabaza-linda-7h48.3mf.xz",
    "instance_id": "3692187",
-   "name": "calabaza-linda-7h48",
+   "name": "Una sola placa",
    "thumbnail": "previews/profiles/3692187.jpg",
    "print_time_h": 7.8,
    "plates": 1,
@@ -147,6 +115,38 @@
     "creation_date": "2026-09-03",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab H2D",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/calabaza-linda-multicolor-1h18.3mf.xz",
+   "instance_id": "1998568",
+   "name": "Multicolor una sola placa",
+   "thumbnail": "previews/profiles/1998568.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "size": 18636072,
+   "sha256": "639c5f7ea0074d41a242a80adecdaf62134135e1aeb3013aa88a6e1819128022",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "all on one plate, 2 color changes, variable layer heigth",
+    "profile_notes": "No AMS needed! Parts need to be glued in.",
+    "creation_date": "2025-10-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
     "layer_height": "0.12",
     "infill": "8%",
     "support_type": "tree(auto)",
@@ -202,10 +202,6 @@
    600,
    400
   ],
-  "previews/profiles/1998568.jpg": [
-   600,
-   399
-  ],
   "previews/profiles/1987125.jpg": [
    600,
    400
@@ -213,10 +209,15 @@
   "previews/profiles/3692187.jpg": [
    600,
    505
+  ],
+  "previews/profiles/1998568.jpg": [
+   600,
+   399
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

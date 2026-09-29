@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/llaveros-e-1h06.3mf.xz",
+   "path": "model/llaveros-e-multicolor-1h06.3mf.xz",
    "instance_id": "3797887",
-   "name": "llaveros-e-1h06",
+   "name": "Multicolor",
    "thumbnail": "previews/profiles/3797887.jpg",
    "print_time_h": 1.1,
    "plates": 2,
@@ -45,42 +45,9 @@
    }
   },
   {
-   "path": "model/llaveros-e-1h06-2.3mf.xz",
-   "instance_id": "3797898",
-   "name": "llaveros-e-1h06-2",
-   "thumbnail": "previews/profiles/3797898.jpg",
-   "print_time_h": 1.1,
-   "plates": 3,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "A1 mini",
-    "A1",
-    "A2L"
-   ],
-   "default": false,
-   "size": 2275856,
-   "sha256": "963a3a9e3e3b7b58edf79099dd9d081c4d9dc5aa3fe6294a65b27a4af10b5b12",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.07.01.62",
-    "profile_title": "Type B, NO AMS Profile, 2 Colors",
-    "profile_notes": "Layers: 0.2mm Supports: No Colors: Black and White",
-    "creation_date": "2026-09-22",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1 mini",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 3
-   }
-  },
-  {
    "path": "model/llaveros-e-2h12.3mf.xz",
    "instance_id": "3797907",
-   "name": "llaveros-e-2h12",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/3797907.jpg",
    "print_time_h": 2.2,
    "plates": 2,
@@ -115,6 +82,39 @@
     "ironing": "topmost",
     "support_type": "tree(auto)",
     "photos": 2
+   }
+  },
+  {
+   "path": "model/llaveros-e-multicolor-1h06-2.3mf.xz",
+   "instance_id": "3797898",
+   "name": "Multicolor",
+   "thumbnail": "previews/profiles/3797898.jpg",
+   "print_time_h": 1.1,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "size": 2275856,
+   "sha256": "963a3a9e3e3b7b58edf79099dd9d081c4d9dc5aa3fe6294a65b27a4af10b5b12",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Type B, NO AMS Profile, 2 Colors",
+    "profile_notes": "Layers: 0.2mm Supports: No Colors: Black and White",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
    }
   }
  ],
@@ -187,11 +187,11 @@
    600,
    450
   ],
-  "previews/profiles/3797898.jpg": [
+  "previews/profiles/3797907.jpg": [
    600,
    450
   ],
-  "previews/profiles/3797907.jpg": [
+  "previews/profiles/3797898.jpg": [
    600,
    450
   ]
@@ -199,5 +199,6 @@
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

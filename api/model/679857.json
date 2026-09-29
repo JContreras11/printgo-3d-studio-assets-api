@@ -3,7 +3,7 @@
   {
    "path": "model/conceptos-calabaza-2h24.3mf.xz",
    "instance_id": "2098252",
-   "name": "conceptos-calabaza-2h24",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/2098252.jpg",
    "print_time_h": 2.4,
    "plates": 1,
@@ -47,7 +47,7 @@
   {
    "path": "model/conceptos-calabaza-37h48.3mf.xz",
    "instance_id": "1869298",
-   "name": "conceptos-calabaza-37h48",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/1869298.jpg",
    "print_time_h": 37.8,
    "plates": 11,
@@ -90,7 +90,7 @@
   {
    "path": "model/conceptos-calabaza-5h30.3mf.xz",
    "instance_id": "2060793",
-   "name": "conceptos-calabaza-5h30",
+   "name": "Versión estándar",
    "thumbnail": "previews/profiles/2060793.jpg",
    "print_time_h": 5.5,
    "plates": 1,
@@ -132,68 +132,9 @@
    }
   },
   {
-   "path": "model/conceptos-calabaza-pla-1h12.3mf.xz",
-   "instance_id": "609976",
-   "name": "conceptos-calabaza-pla-1h12",
-   "thumbnail": "previews/profiles/609976.jpg",
-   "print_time_h": 1.2,
-   "plates": 1,
-   "rating": 4.9,
-   "rating_count": 186,
-   "by_designer": false,
-   "printers": [
-    "A1",
-    "P1S",
-    "P1P",
-    "X1 Carbon",
-    "X1E",
-    "X1",
-    "A1 mini",
-    "H2D",
-    "H2D Pro",
-    "H2S",
-    "P2S",
-    "H2C",
-    "X2D",
-    "A2L"
-   ],
-   "default": false,
-   "size": 40357496,
-   "sha256": "2cc143853242c2d1d2f598b4fcc5c95ae5834b95c20f6b3bf2b5d31b609b2833",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-01.10.01.50",
-    "profile_title": "All Pumpkins Monocolor - NO AMS",
-    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
-    "creation_date": "2025-01-23",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "10%",
-    "support_type": "tree(auto)",
-    "plates": [
-     {
-      "printer_model_id": "N2S",
-      "nozzle_diameters": "0.4",
-      "prediction_ms": 4432,
-      "weight_g": 19.97,
-      "support_used": true,
-      "filaments": [
-       {
-        "type": "PLA",
-        "color": "#FF8000"
-       }
-      ]
-     }
-    ],
-    "photos": 1
-   }
-  },
-  {
    "path": "model/conceptos-calabaza-pla-2h06.3mf.xz",
    "instance_id": "622055",
-   "name": "conceptos-calabaza-pla-2h06",
+   "name": "10 calabazas diferentes",
    "thumbnail": "previews/profiles/622055.jpg",
    "print_time_h": 2.1,
    "plates": 1,
@@ -251,7 +192,7 @@
   {
    "path": "model/conceptos-calabaza-pla-36min.3mf.xz",
    "instance_id": "619025",
-   "name": "conceptos-calabaza-pla-36min",
+   "name": "Feliz y enojado 1 color",
    "thumbnail": "previews/profiles/619025.jpg",
    "print_time_h": 0.6,
    "plates": 1,
@@ -307,9 +248,68 @@
    }
   },
   {
+   "path": "model/conceptos-calabaza-pla-monocolor-1h12.3mf.xz",
+   "instance_id": "609976",
+   "name": "Monocromo",
+   "thumbnail": "previews/profiles/609976.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 186,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "size": 40357496,
+   "sha256": "2cc143853242c2d1d2f598b4fcc5c95ae5834b95c20f6b3bf2b5d31b609b2833",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "All Pumpkins Monocolor - NO AMS",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4432,
+      "weight_g": 19.97,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   }
+  },
+  {
    "path": "model/conceptos-calabaza-pla-multicolor-2h12.3mf.xz",
    "instance_id": "618442",
-   "name": "conceptos-calabaza-pla-multicolor-2h12",
+   "name": "Multicolor impresión en PLA",
    "thumbnail": "previews/profiles/618442.jpg",
    "print_time_h": 2.2,
    "plates": 1,
@@ -372,7 +372,7 @@
   {
    "path": "model/conceptos-calabaza-pla-multicolor-2h54.3mf.xz",
    "instance_id": "609559",
-   "name": "conceptos-calabaza-pla-multicolor-2h54",
+   "name": "Configuraciones recomendadas de Pumpkins A Designer",
    "thumbnail": "previews/profiles/609559.jpg",
    "print_time_h": 2.9,
    "plates": 1,
@@ -442,7 +442,7 @@
   {
    "path": "model/conceptos-calabaza-pla-multicolor-3h24.3mf.xz",
    "instance_id": "609569",
-   "name": "conceptos-calabaza-pla-multicolor-3h24",
+   "name": "Configuraciones recomendadas de Pumpkins B Designer",
    "thumbnail": "previews/profiles/609569.jpg",
    "print_time_h": 3.4,
    "plates": 1,
@@ -508,7 +508,7 @@
   {
    "path": "model/conceptos-calabaza-pla-multicolor-9h.3mf.xz",
    "instance_id": "616342",
-   "name": "conceptos-calabaza-pla-multicolor-9h",
+   "name": "Multicolor impresión en PLA",
    "thumbnail": "previews/profiles/616342.jpg",
    "print_time_h": 9,
    "plates": 1,
@@ -615,10 +615,6 @@
    450,
    600
   ],
-  "previews/profiles/609976.jpg": [
-   600,
-   451
-  ],
   "previews/profiles/622055.jpg": [
    570,
    459
@@ -626,6 +622,10 @@
   "previews/profiles/619025.jpg": [
    600,
    800
+  ],
+  "previews/profiles/609976.jpg": [
+   600,
+   451
   ],
   "previews/profiles/618442.jpg": [
    600,

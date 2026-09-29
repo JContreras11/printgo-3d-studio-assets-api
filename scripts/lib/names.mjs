@@ -73,6 +73,40 @@ function meaningful(text) {
     .join(" ");
 }
 
+// Jerga que aparece en los títulos de PERFIL de MakerWorld: si el nombre es esto y solo esto,
+// no describe una variante, es un ajuste. Si el título tiene además algo más ("10 Minutes Sign"),
+// esa parte sí se traduce y se usa (ver scripts/build_variant_labels.mjs).
+export const PROFILE_JARGON =
+  /\b\d+\s*(?:capa|layer|parede|pared|wall|paredes|walls|relleno|rellenos|infill|per[íi]metro|per[íi]metros|perimeter|perimeters|ams|mm)\b|\b(?:capa|layer|pared|pared|wall|paredes|walls|relleno|rellenos|infill|per[íi]metro|per[íi]metros|perimeter|perimeters|ams|altura|alturas|height|heights|perfil|perfiles|profile|profiles|soporte|supports?)\b|\b\d+\s*%|\b[\d.,]+\s*mm\b|\btodos los perfiles\b|\btodas (?:as |las )?impressoras\b/gi;
+
+// Palabras que no sostienen un nombre: conectores y sustantivos vacíos.
+const STOPWORD = /^(?:de|del|la|el|los|las|un|una|y|o|a|en|con|sin|para|por|the|and|or|of|for|aproximadamente|about|around)\.?$/i;
+// El chino y el japonés no separan por espacios: se cuenta por caracteres.
+const CJK = /[\u3040-\u30ff\u3400-\u9fff\uf900-\ufaff]/gu;
+
+/** ¿El título de perfil describe el producto (y por tanto vale como nombre de variante)? */
+export function isDescriptiveTitle(title) {
+  const t = clean(title).replace(PROFILE_JARGON, " ");
+  // Fuera cifras sueltas: "2 paredes" es jerga, "2 piezas" no, y eso lo decide el resto.
+  const words = meaningful(t)
+    .split(/[^\p{L}\p{N}]+/u)
+    .filter((w) => !STOPWORD.test(w) && /\p{L}{3}/u.test(w));
+  if (words.length >= 2) return true;
+  return (t.match(CJK) || []).length >= 4;
+}
+
+/** La parte del título de perfil que describe el producto, sin jerga ("Sign", no "0,2 mm"). */
+export function profileLabel(title) {
+  // Solo se va la cifra que acompaña a la jerga ("2 paredes", "120% relleno"): el 10 de
+  // "10 Minutes Sign" es el nombre del producto y se queda.
+  const out = clean(title).replace(PROFILE_JARGON, " ")
+    .replace(/\b\d+\b(?=\s*$)/g, " ")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  return out;
+}
+
 /** Título del modelo: sin prefijos de marketing ni ajustes. Conserva los tamaños del objeto. */
 export function cleanTitle(title) {
   let t = clean(title);
@@ -127,8 +161,46 @@ export function variantLabel(file) {
 }
 
 // "single color" / "多色": se detectan, no se traducen (traducir aquí es un rabbit hole).
-const MONOCOLOR = /single[\s-]?colou?r|monocrom|\bun\s*colou?r\b|单色/i;
-const MULTICOLOR = /multi[\s-]?colou?r|several\s+colou?rs|full[\s-]?colou?r|多色|多彩/i;
+const MONOCOLOR = /single[\s-]?colou?r|monocrom|\bun\s*colou?r\b|(?:un|una|1)\s+[úu]nico\s+color|[úu]nico\s+colou?r|monocolou?r|单色/i;
+const MULTICOLOR = /multi[\s-]?colou?r|several\s+colou?rs|full[\s-]?colou?r|(?:two|double|dual|2)[\s-]?colou?r|doble\s+color|bicolor|multicolor|多色|多彩/i;
+// "Impresión multicolor en una bandeja": tras sacar el color queda "Impresión en una bandeja", que no nombra nada.
+const COLOR_ONLY_ES = /^\s*(?:impresi[óo]n|impreso|coloreado|una?\s+impresi[óo]n)\b/i;
+
+/**
+ * Nombre de la variante tal como se lee en la lista: castellano llano, sin guiones
+ * y sin tiempos (la hora, el peso y las placas ya salen en las pills de al lado).
+ *   "Multicolor" · "Una sola placa" · "Versión grande" · "Cartel de 10 minutos"
+ * Es un nombre distinto al del archivo .3mf, que sí es corto y con guion.
+ * @param labels mapa título de perfil -> título ya traducido (data/variant-labels.json)
+ */
+export function variantDisplayName(file, labels = {}) {
+  const f = file || {};
+  const raw = clean(f.meta?.profile_title);
+  const filaments = (f.meta?.plates || []).flatMap((p) => p.filaments || []);
+  const types = [...new Set(filaments.map((x) => x.type).filter(Boolean))];
+  const colors = [...new Set(filaments.map((x) => x.color).filter(Boolean))];
+  const out = [];
+  // 1) Si el perfil nombra la variante ("10 Minutes Sign", "Larger GTA VI"), manda su traducción.
+  const translated = labels[raw];
+  if (translated) {
+    const t = clean(translated).replace(/[·|/\-–—]+/g, " ");
+    if (meaningful(t).length >= 3) return normalizeVariantLabel(t);
+  }
+  // 2) Color: multicolor o monocromo. Un hex suelto ("#CACDA0") no le dice nada al usuario.
+  if (colors.length > 1 || MULTICOLOR.test(raw)) out.push("Multicolor");
+  else if (MONOCOLOR.test(raw)) out.push("Monocromo");
+  // 3) Material, cuando el modelo se ofrece en varios.
+  if (types.length === 1) out.push(`Impresión en ${types[0].toUpperCase()}`);
+  // 4) Cómo viene el pieza: suelta o montada en una placa.
+  if (OUTPIECES.test(raw)) out.push("Piezas sueltas");
+  else if (ONPLATE.test(raw)) out.push("Una sola placa");
+  // 5) Tamaño de la versión (la altura y la escala son del producto, no del laminado).
+  if (/\bmini\b|\bpeque[ñn]\w*|\bsmall\b|\btiny\b|\bcompact\w*/i.test(raw)) out.push("Versión mini");
+  else if (/\blarge\b|\bgrande\b|\bbig\b|\bgrande\w*|\bscaled up\b|\bscaled\b|\bversi[óo]n\s+grande/i.test(raw)) out.push("Versión grande");
+  if (!out.length) return "Versión estándar";
+  // "Monocromo" + "Versión mini" -> "Monocromo versión mini": en castellano el rótulo va en minúsculas.
+  return out.map((p, i) => (i ? p[0].toLowerCase() + p.slice(1) : p)).join(" ");
+}
 
 /**
  * Nombre del archivo publicado. El nombre sale del PROYECTO, no del perfil del
@@ -145,4 +217,49 @@ export function projectFileName(modelTitle, { category = "", total = 1, index = 
   const label = variantLabel(file);
   if (!label) return `${base}-${index + 1}`;
   return `${base}-${label}`;
+}
+
+// Cómo trae las piezas el perfil: sueltas o montadas en una placa.
+const OUTPIECES = /separate\s*parts?|piezas?\s+separadas?|\bseparadas?\b|un\s*connected|each\s+part/i;
+const ONPLATE = /all\s*parts?\s*(?:on|in)?\s*(?:a\s*)?(?:one|single)\s*plate|one\s*plate|single\s*plate|una\s+sola\s+placa|en\s+una\s+placa|connected\s*plate/i;
+
+/**
+ * Deja el nombre de variante en castellano llano: el color se dice con una sola palabra
+ * ("Multicolor", "Monocromo") y fuera las horas, que ya salen en las pills de al lado.
+ */
+export function normalizeVariantLabel(text) {
+  let t = clean(text);
+  // El color manda: "Impresión multicolor en una bandeja" se lee mejor como "Multicolor".
+  // "un solo color", "única color" y "one colour" son la misma idea que "monocolor".
+  // Ojo: \b no funciona con "Ú" en mayúscula (\w es ASCII), así que "ÚNICA COLOR" va sin \b.
+  const solo = /\b(?:un|una|1)\s+(?:solo|s[óo]lo|[úu]nico)\s+colou?r\b|\bcolou?r\s+[úu]nic[ao]\b|[úu]nic[ao]\s+colou?r/i;
+  if (MULTICOLOR.test(t)) return "Multicolor";
+  // "PETG monocolor" son las dos cosas: material y color, y las dos son útiles.
+  if (MONOCOLOR.test(t) || solo.test(t)) {
+    const mat = t.match(/\b(PETG|PLA|ABS|ASA|TPU|PA|NYLON)\b/i);
+    return mat ? `Monocromo en ${mat[1].toUpperCase()}` : "Monocromo";
+  }
+  // "Un solo color - Tamaño completo" sí dice algo más: se queda solo con esa parte.
+  if (solo.test(t)) t = t.replace(solo, "Monocromo");
+  // Las horas ya salen en la pill de al lado: fuera ("de 4 horas", "1 hora para imprimir").
+  t = t.replace(/\b\d+\s*(?:h|hora\w*|hours?)\b[^,;.!?]*/gi, " ")
+    .replace(/\bpara\s+imprimir\b/gi, " ")
+    .replace(/\bimpresi[óo]n\s+en\s+una?\s+(?:bandeja|plancha|disco)\b/gi, " ")
+    // "PETG - MAS RESISTENTE -": el grito del fabricante no es el nombre de la variante.
+    .replace(/\b(?:PERO\s+RESISTENTE|M[ÁA]S\s+RESISTENTE|resistente)\b/gi, " ")
+    .replace(/\b(?:muy\s+resistente|super\s+resistente|ultra\s*resistente)\b/gi, " ")
+    // "Impresión en PLA versión mini" -> "PLA versión mini": "Impresión en" no aporta.
+    .replace(/^Impresi[óo]n\s+en\s+/i, "")
+    .replace(/[·|]+/g, " ")
+    // Lo que se va deja puntuación colgando: "PETG - MAS RESISTENTE -" -> "PETG - -".
+    .replace(/(?:\s*[-–—]\s*){2,}/g, " ")
+    .replace(/\s*([,.;:]|[-–—])\s*$/g, "")
+    .replace(/^[·|,.\s-]+/, "")
+    .replace(/\s*,\s*(?=[,.;])|^[·|,.\s]+/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  // Lo que queda puede ser solo relleno ("Impresión", "Aproximadamente"): no es un nombre.
+  const words = t.split(/\s+/).filter((w) => !FILLER.test(w.replace(/[^\p{L}\p{N}]/gu, "")) && /\p{L}{3}/u.test(w));
+  if (!words.length || COLOR_ONLY_ES.test(t)) return "Versión estándar";
+  return t[0].toUpperCase() + t.slice(1);
 }

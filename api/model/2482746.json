@@ -1,9 +1,9 @@
 {
  "files": [
   {
-   "path": "model/mini-amigo-48min.3mf.xz",
+   "path": "model/mini-amigo-multicolor-48min.3mf.xz",
    "instance_id": "2727042",
-   "name": "mini-amigo-48min",
+   "name": "Dos colores",
    "thumbnail": "previews/profiles/2727042.jpg",
    "print_time_h": 0.8,
    "plates": 1,
@@ -45,53 +45,9 @@
    }
   },
   {
-   "path": "model/mini-amigo-30min.3mf.xz",
-   "instance_id": "3001902",
-   "name": "mini-amigo-30min",
-   "thumbnail": "previews/profiles/3001902.jpg",
-   "print_time_h": 0.5,
-   "plates": 1,
-   "rating": null,
-   "rating_count": 0,
-   "by_designer": true,
-   "printers": [
-    "X2D",
-    "H2D",
-    "H2S",
-    "H2C",
-    "A1 mini",
-    "X1 Carbon",
-    "X1E",
-    "P2S",
-    "P1P",
-    "A1",
-    "X1",
-    "P1S",
-    "H2D Pro",
-    "A2L"
-   ],
-   "default": false,
-   "size": 8429528,
-   "sha256": "88f2a65843d5855bb0af22c8c1b7c3b5eaf23c7f6170f229149bacc5ecbfef19",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.06.00.51",
-    "profile_title": "Keychain, two color, 0.12mm layer, 2 walls, 15% infill",
-    "profile_notes": "Keychain version two color 0.12mm layer 2 walls 15% infill",
-    "creation_date": "2026-04-24",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab X2D",
-    "layer_height": "0.12",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   }
-  },
-  {
    "path": "model/mini-amigo-monocolor-12min-2.3mf.xz",
    "instance_id": "2727065",
-   "name": "mini-amigo-monocolor-12min-2",
+   "name": "Monocromo",
    "thumbnail": "previews/profiles/2727065.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -135,7 +91,7 @@
   {
    "path": "model/mini-amigo-monocolor-12min.3mf.xz",
    "instance_id": "3001947",
-   "name": "mini-amigo-monocolor-12min",
+   "name": "Monocromo",
    "thumbnail": "previews/profiles/3001947.jpg",
    "print_time_h": 0.2,
    "plates": 1,
@@ -167,6 +123,50 @@
     "application": "BambuStudio-02.06.00.51",
     "profile_title": "Keychain, single color, 0.12mm layer, 2 walls, 15% infill",
     "profile_notes": "Keychain version, single color 0.12mm layer 2 walls 15% infill",
+    "creation_date": "2026-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   }
+  },
+  {
+   "path": "model/mini-amigo-multicolor-30min.3mf.xz",
+   "instance_id": "3001902",
+   "name": "Multicolor",
+   "thumbnail": "previews/profiles/3001902.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "size": 8429528,
+   "sha256": "88f2a65843d5855bb0af22c8c1b7c3b5eaf23c7f6170f229149bacc5ecbfef19",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>",
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Keychain, two color, 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Keychain version two color 0.12mm layer 2 walls 15% infill",
     "creation_date": "2026-04-24",
     "slicer": "Bambu Studio",
     "printer": "Bambu Lab X2D",
@@ -246,10 +246,6 @@
    600,
    738
   ],
-  "previews/profiles/3001902.jpg": [
-   600,
-   419
-  ],
   "previews/profiles/2727065.jpg": [
    600,
    753
@@ -257,10 +253,15 @@
   "previews/profiles/3001947.jpg": [
    600,
    450
+  ],
+  "previews/profiles/3001902.jpg": [
+   600,
+   419
   ]
  },
  "storage": {
   "format": "xz",
   "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
- }
+ },
+ "variant_hint": "Multicolor"
 }

@@ -1,0 +1,244 @@
+{
+ "files": [
+  {
+   "path": "model/tendedero-brochas-3h54.3mf.xz",
+   "instance_id": "364880",
+   "thumbnail": "previews/profiles/364880.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 63,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14003,
+      "weight_g": 104.47,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3392968,
+   "sha256": "131d0147360cb38ccf4d44c0d4f02d3133963070b1decb9ccd6e80fe548b8b3b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tendedero-brochas-3h.3mf.xz",
+   "instance_id": "3346789",
+   "thumbnail": "previews/profiles/3346789.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X2D",
+    "P1P",
+    "H2D",
+    "H2C",
+    "P2S",
+    "A1",
+    "X1",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "With multi-bush-size arms & textured lid",
+    "profile_notes": "Combined a few arm sizes in one bush holder disk, and added a flower texture to the lid. Please note: I am very new to this, so it may not be perfect. But it printed successfully for me once!",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 35894260,
+   "sha256": "688d017f9210e9836ef2dcd83af16a2ee57d85f8a01fb251d5b644a812415417",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tendedero-brochas-4h30.3mf.xz",
+   "instance_id": "364883",
+   "thumbnail": "previews/profiles/364883.jpg",
+   "print_time_h": 4.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 mini",
+    "creation_date": "2025-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10156,
+      "weight_g": 73.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5871,
+      "weight_g": 30.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 3420100,
+   "sha256": "73e0fe5e8dd37094b59502ae151788d540f0a6dbeb01d8ec28edbcbb54a06b92",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "456927",
+ "title": "Tendedero para brochas de maquillaje (fácil almacenamiento)",
+ "slug": "makeup-brush-drying-rack-easy-storage",
+ "url": "https://makerworld.com/en/models/456927-makeup-brush-drying-rack-easy-storage",
+ "author": "SanderWel",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Este tendedero para brochas de maquillaje cuenta con diferentes soportes para diferentes tamaños de brochas. Todos los soportes y el palo en el medio caben en la caja para un fácil almacenamiento.\n\nPerfecto para convencer a tu esposa de que una impresora 3D es una buena inversión.:-)",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "pincel de maquillaje",
+  "brocha de maquillaje",
+  "brocha",
+  "cepillar",
+  "tendedero",
+  "secadora",
+  "secador de cepillo",
+  "tendedero para brochas de maquillaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-05-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfe62454afca97b/design/2024-05-07_2765020abb99a8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/364880.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3346789.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/364883.jpg": [
+   512,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

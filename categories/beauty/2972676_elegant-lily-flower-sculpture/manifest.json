@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/elegante-escultura.3mf.xz",
+   "instance_id": "3334042",
+   "thumbnail": "previews/profiles/3334042.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "P1P",
+    "H2D",
+    "H2C",
+    "A1",
+    "H2S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Nozzle: 0.4 Layer Height: 0.2mm or lower Walls/Perimeters: 2 or 3 Infill: 15% - 20% Recommended Supports: Tree Supports Speed: print slower for the best small details Be carefull with removing supports and take your time.",
+    "creation_date": "2026-06-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9889000,
+   "sha256": "ace0d6edcd929e96f00ca5477557b7e40d5142adac29936ce47c54ccb8edd5c2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2972676",
+ "title": "Elegante escultura de flor de lirio",
+ "slug": "elegant-lily-flower-sculpture",
+ "url": "https://makerworld.com/en/models/2972676-elegant-lily-flower-sculpture",
+ "author": "marcel82",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Elegante escultura de flor de lirio – Decoración imprimible en 3D\n\nLleve la belleza eterna de los lirios a su hogar con esta detallada escultura imprimible en 3D. Inspirado en la elegante forma de las flores de lirio, este diseño presenta múltiples flores abiertas que surgen de un arreglo decorativo de tallo y hojas, todo sostenido por una base ornamental estable.\nEl modelo es perfecto como decoración del hogar, adorno de escritorio, regalo o pieza de exhibición. Sus suaves curvas y delicados detalles florales lo convierten en un estampado llamativo que queda genial en un solo color o con toques finales pintados a mano.\n\nCaracterísticas\n* Elegante diseño de flor de lirio.\n* Pétalos, estambres y hojas detallados.\n* Base decorativa para exhibición estable\n* Ideal para el hogar, la oficina o proyectos de regalo.\n\nBoost MeSi te gusta este modelo, ¡considera dejar un Boost! Tu apoyo nos ayuda a seguir creando diseños únicos que combinan arte, tecnología e imaginación.\nSomos una familia de 5 y a todos nos encanta crear, modelar e imprimir en 3D.\nEntonces, lo que hacemos es en diferentes estilos.\nTodos nuestros modelos en línea son fabricados e impresos de prueba por nosotros.\nPor lo tanto, estamos seguros de que se pueden imprimir antes de publicarlos en línea (en nuestro estándar).\nLas impresiones de prueba que hacemos están entre 100 mm y 150 mm. Depende del modelo. (Estos tamaños funcionan muy bien para nosotros) Ajústelo al tamaño que desee.\nPíntalo en los colores que te gusten.\nSi hay algo que nos perdimos o que podemos mejorar en la configuración, háganoslo saber para que podamos intentar solucionarlo.\n\nSi disfrutas de este modelo, realmente apreciamos que te guste, siga, califique o impulse.\n\nSíguenos para más diseños.\nSi imprimes uno, nos encantaría ver tus marcas. ¡Siéntete libre de compartir fotos en la comunidad y mostrar tus combinaciones de colores favoritas!\nConfiguración de impresión recomendada (perfil de impresión listo)\nPara lograr la misma calidad impecable que se muestra en las fotos, recomiendo seguir estos parámetros\n\nConsejos de impresión\nBoquilla: 0,4\nAltura de la capa: 0,2 mm o menos\nParedes/Perímetros: 2 o 3\nRelleno: 15% - 20%\nSoportes recomendados: Soportes para árboles\nVelocidad: imprima más lento para obtener los mejores detalles pequeños\n\nTen cuidado al retirar los soportes y tómate tu tiempo.\n\nGracias por apoyar vdw-Design",
+ "use_cases": [],
+ "tags": [
+  "decoración",
+  "'decoración",
+  "casa",
+  "oficina",
+  "lirio",
+  "flor",
+  "escultura",
+  "escultura 1463",
+  "escritorio",
+  "elegante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US14b9eed2ae45ad/design/d3d3c2521cf01459.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.png": [
+   318,
+   541
+  ],
+  "previews/profiles/3334042.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

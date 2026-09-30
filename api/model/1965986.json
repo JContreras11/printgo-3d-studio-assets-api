@@ -1,0 +1,117 @@
+{
+ "files": [
+  {
+   "path": "model/tarro-viaje.3mf.xz",
+   "instance_id": "2113566",
+   "thumbnail": "previews/profiles/2113566.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X1E",
+    "A1",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-11-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3607376,
+   "sha256": "76aae4d6422e570b4dd5a611f5612dbfbd94ff8c906698c4cb996fff1f12d714",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1965986",
+ "title": "Tarro de viaje con hisopo de algodón: textura realista",
+ "slug": "cotton-swab-travel-jar-realistic-texture",
+ "url": "https://makerworld.com/en/models/1965986-cotton-swab-travel-jar-realistic-texture",
+ "author": "cipriani3design",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Un recipiente de viaje refinado y práctico para bastoncillos de algodón, diseñado para quienes aprecian el estilo y la organización incluso mientras viajan.\nEl cuerpo presenta una textura realista de bastoncillo de algodón en relieve, lo que le da un aspecto decorativo 3D único manteniendo una estética minimalista y elegante.\nCompacto y fácil de imprimir, es perfecto para mantener ordenados bastoncillos de algodón o pequeños accesorios de baño, ya sea en casa o mientras viaja.\nDisponible en múltiples variaciones de colores pastel para combinar con cualquier interior o configuración.\n\nIncluye:\nArchivos listos para imprimir en 3D: cuerpo principal y tapa de rosca.\n\nAviso de licencia:\nEstá prohibido modificar, vender, distribuir o utilizar este modelo comercialmente sin la Licencia Comercial Cipriani 3Design.\n\nCipriani 3Design – Todos los derechos reservados.",
+ "use_cases": [],
+ "tags": [
+  "soporte para bastoncillos de algodón",
+  "tarro de viaje",
+  "estuche de bastoncillos de algodón",
+  "accesorio de baño",
+  "almacenamiento de higiene",
+  "organizador de diseñador",
+  "impresión 3d minimalista",
+  "kit de viaje moderno",
+  "decoración en colores pastel",
+  "textura realista",
+  "recipiente con tapa de rosca"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7e80f374a61555/design/2025-11-06_68105b3fb09fa.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   533,
+   799
+  ],
+  "previews/02.png": [
+   948,
+   632
+  ],
+  "previews/03.png": [
+   533,
+   799
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2113566.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

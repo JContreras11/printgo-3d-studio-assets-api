@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-modular.3mf.xz",
+   "instance_id": "2565872",
+   "thumbnail": "previews/profiles/2565872.jpg",
+   "print_time_h": 7.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2C",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-02-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1366232,
+   "sha256": "909765afd3b1f6771bb5db7dce5cabf9584aabf184b17b311f2c9da9baeb4dd5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2346716",
+ "title": "Organizador modular de pinzas para el cabello giratorio de 360°",
+ "slug": "modular-360deg-rotating-hair-claw-clip-organizer",
+ "url": "https://makerworld.com/en/models/2346716-modular-360deg-rotating-hair-claw-clip-organizer",
+ "author": "8ball22",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Detén el caos de los clips de garras!\n\n¿Estás cansado de que tus pinzas para el cabello vivan una vida desordenada en tus cajones? Dales el trono que se merecen. Esta torre giratoria es el carrusel que su baño necesita: estética, funcional y llamativa.\n\nPor qué te encantará:\nRotación de 360°: Ambos niveles giran de forma independiente. Acceso rápido a tus estilos favoritos.\nEl tamaño importa: nivel inferior (4 listones) para los grandes, nivel superior (5 listones) para tus clips cotidianos.\nDiseño Modular: ¡Tú eliges! Mezcla y combina las versiones de 4 o 5 lamas para adaptarlas a tu colección.\nImpresión fácil: compatible con A1 mini. Sin soportes, sin pegamento, sin dolor de cabeza. Simplemente encaje los pies y listo.\n¡Eleva tu juego de tocador!\n¿Impulsar Meaved tu rutina matutina? ¡Dale un impulso para mantener las buenas vibraciones (y los clips) girando!",
+ "use_cases": [],
+ "tags": [
+  "pinza para el cabello",
+  "clip de garra",
+  "organizador",
+  "baño",
+  "almacenamiento",
+  "vanidad",
+  "giratorio",
+  "modular",
+  "sin apoyo",
+  "a1 mini",
+  "impresión 3d",
+  "decoración del hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc54af247074e5d/design/d4e5dec9fe88f7b5.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   684
+  ],
+  "previews/profiles/2565872.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

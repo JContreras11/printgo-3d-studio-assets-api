@@ -1,0 +1,275 @@
+{
+ "files": [
+  {
+   "path": "model/bandeja-elevadora-3h12.3mf.xz",
+   "instance_id": "3275014",
+   "thumbnail": "previews/profiles/3275014.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D",
+    "X2D",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Diametro 175mm",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4496628,
+   "sha256": "0e748416db9f482802b9b2f431cc76a052d7be8075f108ada576638bc831a7e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bandeja-elevadora-3h36.3mf.xz",
+   "instance_id": "3275026",
+   "thumbnail": "previews/profiles/3275026.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P1P",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "A2L",
+    "P2S",
+    "H2S",
+    "H2D",
+    "X2D",
+    "P1S",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Per A1 MINI - Diametro 175mm",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 4553276,
+   "sha256": "0106864f6e441162e9e8873e0dd7023c5d68d4327c91dd898e303ccfa101dad1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bandeja-elevadora-4h06.3mf.xz",
+   "instance_id": "3275029",
+   "thumbnail": "previews/profiles/3275029.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "X1E",
+    "H2C",
+    "A2L",
+    "X2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Diametro 200mm",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4541816,
+   "sha256": "94101b0b5642b323c4ba2ddb24b7d28fdaaeaee7aa5f83e0e6937fe3d03d941d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bandeja-elevadora-5h18.3mf.xz",
+   "instance_id": "3275032",
+   "thumbnail": "previews/profiles/3275032.jpg",
+   "print_time_h": 5.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2S",
+    "X2D",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Diametro 225mm",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4548176,
+   "sha256": "a57f971b3c2fa9078139ec7c69329a1addf059882109643e7cbffc85615e17c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bandeja-elevadora-6h30.3mf.xz",
+   "instance_id": "3275042",
+   "thumbnail": "previews/profiles/3275042.jpg",
+   "print_time_h": 6.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "H2D",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Diametro 250mm",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4555512,
+   "sha256": "992aeaa16c7ef65aa85ecc08ec1eda45e665d148516e712b91f45d3a52f160a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2926075",
+ "title": "Bandeja elevadora estriada moderna multiusos",
+ "slug": "multipurpose-modern-fluted-riser-tray",
+ "url": "https://makerworld.com/en/models/2926075-multipurpose-modern-fluted-riser-tray",
+ "author": "GianLab",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Añade un toque de elegancia contemporánea a tu hogar con esta bandeja organizadora multiusos.\nSu diseño de líneas limpias se ve realzado por una sofisticada textura acanalada en la base, creando un refinado contraste geométrico perfecto para interiores modernos.\nEsta pieza está diseñada para ser increíblemente versátil y adaptarse perfectamente a una infinidad de usos. Es perfecto como centro de mesa de comedor para arreglos florales o frutales, pero también se transforma con elegancia en un organizador de belleza para exhibir perfumes y maquillaje.\nÚselo como un clásico cajón de entrada, para mantener las especias organizadas en la cocina o como una base mínima para plantas pequeñas en el jardín.\n\nEl montaje es rápido e intuitivo:\nsimplemente aplique una pequeña cantidad de pegamento para fijar la base a la placa superior.\nPara facilitar el montaje y conseguir un resultado preciso y limpio, se ha integrado un sencillo conector cilíndrico que actúa como guía, asegurando una perfecta alineación entre las piezas.\n\nTamaños disponibles:\nEl proyecto incluye perfiles de impresión optimizados para las siguientes dimensiones:\nDe 175 mm a 300 mm de diámetro (con pasos de 25 mm)\nApoya mi trabajo\nSi quieres comercializar mis diseños, puedes adquirir mi licencia comercial en Patreon o directamente aquí en MakerWorld por sólo unos euros o dólares al mes.\n¡Tu suscripción me ayuda a financiar el desarrollo de nuevos proyectos! Además, con la licencia, también podrás utilizar mis fotos originales para tus anuncios si te gustan.\n\nLicencia comercial de Patreon\nInvítame un café Un pequeño gesto que ayuda mucho y apoya el desarrollo de nuevos proyectos.\nMembresíaLa licencia comercial ahora también está disponible a través de MakerWorldBoost Me¡Apoya la creatividad! Cada Boost ayuda a que mis proyectos 3D crezcan y me motiva a crear otros nuevos, cada vez más útiles y originales. ¡Gracias por su apoyo!",
+ "use_cases": [],
+ "tags": [
+  "decoración",
+  "bandeja",
+  "moderno",
+  "estriado",
+  "tubo de subida",
+  "diseño",
+  "hogar",
+  "elegante",
+  "mínimo",
+  "flor",
+  "habitación central",
+  "constituir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd940edea99e962/design/7ef14a3a30f8223b.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3275014.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3275026.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3275029.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3275032.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3275042.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

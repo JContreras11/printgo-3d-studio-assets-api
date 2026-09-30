@@ -1,0 +1,118 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-cosmeticos.3mf.xz",
+   "instance_id": "882310",
+   "thumbnail": "previews/profiles/882310.jpg",
+   "print_time_h": 9.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 28,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer 2 walls 15% infill No Supports Printed in Bambu Labs PLA Matte Ivory White Took around 9 and a half hours, but came out perfect!",
+    "creation_date": "2025-02-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 34773,
+      "weight_g": 415.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1891592,
+   "sha256": "428df25b48019728c6654e645c9d581e72ec2f1394b29b0a341d541b5fd158e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "534636",
+ "title": "Organizador de cosméticos",
+ "slug": "cosmetics-organizer",
+ "url": "https://makerworld.com/en/models/534636-cosmetics-organizer",
+ "author": "AXIOMPrints",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Organizador para cosméticos dimensiones 210x210x120",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "productos cosméticos",
+  "almacenamiento",
+  "diseño"
+ ],
+ "license": "BY-SA",
+ "release_date": "2024-07-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000534636/design/2024-07-11_e7d624d0c24d3.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/882310.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

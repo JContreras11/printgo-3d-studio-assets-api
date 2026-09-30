@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/portamuestras-perfumes.3mf.xz",
+   "instance_id": "816881",
+   "thumbnail": "previews/profiles/816881.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 70,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X2D",
+    "P1P",
+    "H2S",
+    "A2L",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5987,
+      "weight_g": 60.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#2850E0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1070520,
+   "sha256": "42ddf50424f13f6bc84ee3546b0be39253319ecfe6e2846e58dd5aab9cb88b20",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "533925",
+ "title": "Portamuestras de perfumes",
+ "slug": "perfume-samples-holder",
+ "url": "https://makerworld.com/en/models/533925-perfume-samples-holder",
+ "author": "ultim8media",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "NUEVA VERSIÓN, MÁS LIMPIA Y CON ESTILO AQUÍ:\n\nTengo tantas muestras de perfumes en diferentes tamaños que he diseñado un soporte limpio y versátil para ellas.\n\nEntonces las muestras estándar de 1,5 ml caben en el frente. Un diámetro ligeramente mayor también cabría allí debido a la ligera tolerancia.\nEn caso contrario o para pulverizadores más grandes, para embotellar, por ejemplo, encajar en la sección central.\n\nTodas las muestras que vienen en la pequeña caja de cartón caben en la parte trasera. ¡También puedes poner 4 normales en un cuadrado!\n¡Esto significa que hay espacio total para hasta 37 muestras en este pequeño soporte!\n\nTiene sólo 130 mm de ancho, 58 mm de profundidad y 30 mm de alto.\n\nSimplemente use su perfil de impresión habitual para su impresora y filamento.\n\n¡Disfrutar!:)",
+ "use_cases": [],
+ "tags": [
+  "perfume",
+  "titular",
+  "muestras",
+  "organizador",
+  "belleza",
+  "fragancia"
+ ],
+ "license": "BY-NC",
+ "release_date": "2024-07-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6fb053342326b2/design/2024-07-10_5dd34a4aaaa57.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/816881.jpg": [
+   600,
+   388
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

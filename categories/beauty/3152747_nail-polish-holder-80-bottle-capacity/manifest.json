@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-esmalte.3mf.xz",
+   "instance_id": "3561609",
+   "thumbnail": "previews/profiles/3561609.jpg",
+   "print_time_h": 15.7,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "A2L",
+    "A1",
+    "P2S",
+    "X2D",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 902556,
+   "sha256": "1a94b4ab0a461c17dc75ec7bc2ce4e5c6dc2cf06870de32106df2f882e255ef1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3152747",
+ "title": "Soporte para esmalte de uñas: capacidad para 80 botellas",
+ "slug": "nail-polish-holder-80-bottle-capacity",
+ "url": "https://makerworld.com/en/models/3152747-nail-polish-holder-80-bottle-capacity",
+ "author": "FlexxsGarage",
+ "category": "beauty",
+ "source_category": "Hogar > Oficina",
+ "description": "Mantenga su colección de esmaltes de uñas organizada, accesible y fácil de ampliar con este soporte para esmaltes de uñas imprimible en 3D, diseñado para técnicos de uñas, salones y cualquier persona con una colección de esmaltes en crecimiento.\nCada cajón tiene capacidad para hasta 40 botellas de esmalte de uñas, lo que le brinda 80 botellas de almacenamiento por unidad. Cada ranura tiene 1 pulgada de ancho, lo que la hace compatible con una amplia variedad de formas y marcas de botellas de esmalte de uñas.\nLa parte superior del organizador incluye 2 secciones de almacenamiento divididas para botellas adicionales, suministros para decoración de uñas, herramientas u otros productos que desee tener a su alcance.\nCaracterísticas\n40 botellas por cajón\n80 botellas por unidad\nRanuras de 1 pulgada de ancho\nDiseñado para adaptarse a casi cualquier botella de esmalte de uñas.\n2 divisores de almacenamiento superiores\nImprime sin soportes\nImpresión sencilla y directa\nDiseño modular\nSe puede ampliar a medida que crece su colección.\nIdeal para estaciones de manicura domésticas, técnicos de manicura y salones\nEl diseño está diseñado para que sea sencillo de imprimir y al mismo tiempo maximice la capacidad de almacenamiento. No se requiere montaje complicado ni material de soporte.",
+ "use_cases": [],
+ "tags": [
+  "esmalte de uñas",
+  "organizador de botellas de esmalte de uñas",
+  "esmalte de gel",
+  "arte de uñas",
+  "estación de uñas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5a0306e3438970/design/faa5432cc64cb2a0.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   528
+  ],
+  "previews/04.png": [
+   1000,
+   528
+  ],
+  "previews/05.png": [
+   1000,
+   528
+  ],
+  "previews/profiles/3561609.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "files": [
+  {
+   "path": "model/atractivo-soporte.3mf.xz",
+   "instance_id": "3063769",
+   "thumbnail": "previews/profiles/3063769.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "P2S",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-05-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2097180,
+   "sha256": "4420d40c3e6629b2229e7ea04f99e8c07be5acd8fdf86a796f8548d2cfd078d8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2759967",
+ "title": "Atractivo soporte para bolígrafos.",
+ "slug": "attractive-storage-pen-holder",
+ "url": "https://makerworld.com/en/models/2759967-attractive-storage-pen-holder",
+ "author": "user_380935505",
+ "category": "beauty",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Impulsame",
+ "use_cases": [],
+ "tags": [
+  "buen titular",
+  "adorno 3d para portalápices",
+  "impresión 3d del portalápices",
+  "almacenamiento de brochas de maquillaje",
+  "brocha de maquillaje/contenedor de brochas",
+  "seda",
+  "arco",
+  "femenino",
+  "almacenamiento de niña",
+  "almacenamiento"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9cd301e72bfadd/design/1d79f760d11fff80.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   752,
+   916
+  ],
+  "previews/02.png": [
+   761,
+   895
+  ],
+  "previews/03.png": [
+   757,
+   906
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3063769.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

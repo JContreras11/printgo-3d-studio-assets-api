@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-lapiz.3mf.xz",
+   "instance_id": "1112816",
+   "thumbnail": "previews/profiles/1112816.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 64,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2025-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5848,
+      "weight_g": 71.75,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 978788,
+   "sha256": "3dd034011c28933e169dcbce47fb436dbb21c26f53de43fdd02c62162a8affa9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1115411",
+ "title": "Soporte para lápiz labial escalonado",
+ "slug": "stepped-lipstick-holder",
+ "url": "https://makerworld.com/en/models/1115411-stepped-lipstick-holder",
+ "author": "marVisualz",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Un soporte para pintalabios con 3 niveles para 9 barras de labios. Por supuesto, también puedes utilizar el soporte para otras cosas:)",
+ "use_cases": [],
+ "tags": [
+  "lápiz labial",
+  "brillo de labios",
+  "belleza",
+  "pararse",
+  "titular",
+  "constituir"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2025-02-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb09d0f4c1c8965/design/2025-02-16_20370019e23ef.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1112816.jpg": [
+   600,
+   392
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

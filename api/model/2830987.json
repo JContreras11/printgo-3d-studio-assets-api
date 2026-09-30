@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/3d-malefica.3mf.xz",
+   "instance_id": "3154396",
+   "thumbnail": "previews/profiles/3154396.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 7587816,
+   "sha256": "18af2c20a7c2b997b941bcdc3c76a5b3529ad60d6dfc99b477f3672d6b5d3519",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2830987",
+ "title": "3D de Maléfica de Disney – La Bella Durmiente",
+ "slug": "disney-maleficent-3d-model-sleeping-beauty",
+ "url": "https://makerworld.com/en/models/2830987-disney-maleficent-3d-model-sleeping-beauty",
+ "author": "MonsieurPierre",
+ "category": "beauty",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Inspirado en Maléfica del clásico La Bella Durmiente de Disney, este modelo detallado en 3D captura al icónico hada oscura conocida por su poderosa magia, sus cuernos negros y su apariencia inolvidable. Perfecto para fanáticos de Disney, coleccionistas de fantasía, exhibiciones temáticas de cuentos de hadas o colecciones de villanos. Una genial figura decorativa inspirada en uno de los villanos más legendarios de Disney.",
+ "use_cases": [],
+ "tags": [
+  "disney",
+  "villano",
+  "bella durmiente del bosque",
+  "dibujos animados",
+  "película",
+  "clásico"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65bc75d142bcb8/design/3614652dbc7329d7.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   728
+  ],
+  "previews/profiles/3154396.jpg": [
+   600,
+   437
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

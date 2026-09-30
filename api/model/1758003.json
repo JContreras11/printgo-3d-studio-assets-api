@@ -1,0 +1,130 @@
+{
+ "files": [
+  {
+   "path": "model/portarrollos-cocina-2h48.3mf.xz",
+   "instance_id": "1869792",
+   "thumbnail": "previews/profiles/1869792.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.58",
+    "profile_title": "Tape mount",
+    "creation_date": "2025-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1588436,
+   "sha256": "447719db4a9fefb37b4a20924dd846a5d3d9448c1712a492892b43ef260bdb98",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/portarrollos-cocina-3h.3mf.xz",
+   "instance_id": "2320574",
+   "thumbnail": "previews/profiles/2320574.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2S",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "profile_notes": "Larger Version for paper rolls up to 269,9 mm. Print profile for X1C with improved orientation of the model. Standard strength.",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1731116,
+   "sha256": "d4f94298b88f349e012140b7d36f376d3b827e3f447412edf18b1351710d59e9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1758003",
+ "title": "Portarrollos de cocina con toallas de papel estriadas modernas",
+ "slug": "modern-ridged-papertowel-kitchen-roll-holder",
+ "url": "https://makerworld.com/en/models/1758003-modern-ridged-papertowel-kitchen-roll-holder",
+ "author": "Ymmit",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Un diseño limpio y práctico que mantiene tus toallas de papel siempre al alcance. La superficie rugosa le da un toque moderno.\n\nHay dos opciones de montaje incluidas:\nUna versión con orificios para tornillos para una instalación más permanente\nUna versión con superficie plana para cinta de doble cara si prefieres no perforar\nSe adapta a rollos de papel de cocina estándar y se coloca perfectamente debajo de un gabinete o estante.\n\nMembresía Para vender este diseño, únase a mi membresía comercial.",
+ "use_cases": [],
+ "tags": [
+  "'moderno",
+  "moderno",
+  "moderno 2025",
+  "puntiagudo",
+  "toalla de papel",
+  "soporte para toallas de papel",
+  "'cocina",
+  "cocina",
+  "impresión 3d de cocina",
+  "accesorios de cocina"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7169469ef0db2c/design/2025-09-02_6b55676413ff78.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1869792.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2320574.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

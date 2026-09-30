@@ -1,0 +1,171 @@
+{
+ "files": [
+  {
+   "path": "model/tama-caja-2h06.3mf.xz",
+   "instance_id": "3035666",
+   "thumbnail": "previews/profiles/3035666.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "A1",
+    "X2D",
+    "P1S",
+    "H2S",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Screw cap",
+    "creation_date": "2026-04-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 18123392,
+   "sha256": "44a6835a403bca23db938cdd111aa5123cc03a392d4c3721c6e0389a66857cf2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tama-caja-2h24.3mf.xz",
+   "instance_id": "3035677",
+   "thumbnail": "previews/profiles/3035677.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "H2C",
+    "X1E",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Senza filettatura",
+    "creation_date": "2026-04-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 14641940,
+   "sha256": "8bd5a1657f52523ffde8290b57f1a92a97c932fcbded50920862d4cfec27a5f3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2737936",
+ "title": "TAMA – Caja de belleza estriada",
+ "slug": "tama-fluted-beauty-box",
+ "url": "https://makerworld.com/en/models/2737936-tama-fluted-beauty-box",
+ "author": "cipriani3design",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "TAMA – Caja de belleza estriada\nUn recipiente precioso para las pequeñas cosas que importan.\nTAMA (珠), que significa \"joya\" o \"perla\" en japonés, es una caja de belleza escultural diseñada para aportar precisión arquitectónica a su tocador, cómoda o mesa de noche. Las estrías verticales captan la luz como una columna clásica, mientras que la silueta suave y redondeada mantiene el objeto cálido y táctil en la mano.\nEsta versión es un paquete completo: en la misma descarga se incluyen una versión con rosca (para un cierre satisfactorio y seguro que se desplaza bien) y una versión con ajuste a presión (para un acceso diario rápido y con una sola mano). Imprima el que mejor se adapte a su rutina, o imprima ambos en diferentes colores y mezcle las tapas.\n¿Por qué TAMA?\nEstriados arquitectónicos: crestas verticales que juegan con luces y sombras en cada rotación, inspiradas en los detalles de las columnas dóricas.\nDos cierres, un lenguaje de diseño: elija roscado para mayor seguridad o ajuste a presión para un acceso rápido.\nProporciones listas para el tocador: 100 mm de diámetro × 60 mm de altura: ideal para discos de algodón, anillos, aretes, gomas para el cabello, productos para los labios, relojes, retenedores dentales o chucherías.\nLuce hermoso en cualquier color: probado en PETG negro mate y PLA violeta vibrante. Los pasteles, los tonos tierra y los acabados mate realzan aún más el diseño.\nListo para imprimir: no se necesitan soportes, tiempos de impresión rápidos, excelente acabado superficial incluso con una altura de capa de 0,2 mm.\nDigno de regalar: perfecto como regalo personalizado: imprimir, rellenar, regalar.\nEspecificaciones\nDiámetro exterior: 100 mm\nAltura total (cerrado): 60 mm\nGrosor de la pared: ~2 mm\nVolumen interno utilizable: ~280 ml\nVersiones incluidas: Roscada (tapa de rosca) + Press-fit (tapa deslizable)\nConfiguración de impresión recomendada\nMaterial: PLA, PLA mate, PETG o PETG-HF. Se recomienda PETG para la versión roscada para un enganche de rosca más suave y una vida útil más larga.\nAltura de la capa: 0,2 mm\nParedes: 3\nCapas superior/inferior: 4\nRelleno: 10-15% giroide\nSoportes: No requerido\nOrientación: Cuerpo y tapa impresos con el lado plano hacia abajo (según diseño)\nQué está incluido\nTAMA_Body_Threaded.stl\nTAMA_Lid_Threaded.stl\nTAMA_Body_PressFit.stl\nTAMA_Lid_PressFit.stl\nPerfecto para\nAlmohadillas de algodón · joyas · anillos · aretes · gomas para el cabello · muestras de cosméticos · frascos para el cuidado de la piel · retenedores dentales · relojes · baratijas · organización de escritorio · empaques de regalo · cajas de almacenamiento · recuerdos\nMuestra tu impresión\nEtiqueta a @cipriani_3design en Instagram o publica un \"Make\" aquí en MakerWorld. Me encanta ver a TAMA en tu paleta de colores y en tus estantes. Cada impresión ayuda a que el diseño crezca.\nSígueme en Instagram\nOtros modelos\nSitio web\nCalidad confiable Con la confianza de la comunidad MakerWorld\n99% de calificaciones.",
+ "use_cases": [],
+ "tags": [
+  "presione fid",
+  "algodón r",
+  "sostenedor del anillo",
+  "pendiente",
+  "mesa de escritorio",
+  "baño",
+  "makeu nizer",
+  "atador de cabello",
+  "cajita",
+  "almacenamiento redondo",
+  "decoracion",
+  "minimabox"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd86155f02cd156/design/4eb3473e4a81c86c.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3035666.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3035677.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

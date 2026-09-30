@@ -1,0 +1,78 @@
+{
+ "files": [
+  {
+   "path": "model/sepho-varita.3mf.xz",
+   "instance_id": "2968286",
+   "thumbnail": "previews/profiles/2968286.jpg",
+   "print_time_h": 5.4,
+   "plates": 3,
+   "rating": 4.5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1751332,
+   "sha256": "ca70a0f7d9d258468dc6de2b7fc9045ed212937501689bdf71d7f6b613933720",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2680290",
+ "title": "Sepho - Varita mágica de pago",
+ "slug": "sepho-magic-pay-wand",
+ "url": "https://makerworld.com/en/models/2680290-sepho-magic-pay-wand",
+ "author": "e.a_signatuer",
+ "category": "beauty",
+ "source_category": "Impresora 3D > Accesorios para impresoras 3D",
+ "description": "Varita mágica de belleza de tendencia\nUna varita elegante y única con temas de belleza inspirada en la estética del maquillaje.\nPerfecto para regalos, embalajes y uso en pequeñas empresas.\nImpresión a 2 colores (compatible con AMS)\nFácil de imprimir\nDiseño ligero\nLlamativo y moderno\nAñade un toque mágico a tus creaciones.\nTérminos de uso:\nSe permite el uso personal\nSólo puedes vender el producto impreso.\nNO se permite revender o compartir el archivo digital\n— — —\nVarita mágica de tendencia de belleza\nDiseño elegante y distintivo inspirado en el mundo del maquillaje.\nPerfecto para regalos, obsequios y uso en pequeños proyectos.\nAdmite impresión a dos colores (AMS)\nFácil de imprimir\npeso ligero\nDiseño atractivo y moderno.\nAñade un toque mágico a tus diseños\nCondiciones de uso:\nPermitido para uso personal\nSólo se permite la venta de productos impresos.\nEstá prohibida la reventa o publicación del archivo digital.\nDiseño: Firma EA",
+ "use_cases": [],
+ "tags": [
+  "séfora",
+  "magia",
+  "pagar",
+  "pago mágico",
+  "titular de la herida",
+  "magia 7",
+  "varita mágica",
+  "belleza",
+  "accesorios de belleza",
+  "constituir",
+  "accesorios de maquillaje",
+  "cosmético"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-04-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf627728c1b668b/design/dcef541fddf9df18.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/profiles/2968286.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

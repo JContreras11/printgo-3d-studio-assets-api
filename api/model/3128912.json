@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/porta-llaves.3mf.xz",
+   "instance_id": "3530722",
+   "thumbnail": "previews/profiles/3530722.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 7538232,
+   "sha256": "6935d488532f4a893212420910fd1aa2cbea2e1d7ea99e67856155f5306ce6d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3128912",
+ "title": "Porta llaves de pared barroco-Organizador de entrada vintage",
+ "slug": "baroque-wall-key-holder-vintage-entryway-organizer",
+ "url": "https://makerworld.com/en/models/3128912-baroque-wall-key-holder-vintage-entryway-organizer",
+ "author": "maisonurane",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Llavero de pared barroco – Organizador de entrada vintage con estante\n\nAgregue elegancia atemporal a su hogar con este llavero de pared barroco bellamente elaborado. Inspirado en el diseño rococó francés clásico, presenta intrincados volutas florales, elegantes detalles ornamentales, un práctico estante de exhibición y cinco ganchos resistentes para mantener sus elementos esenciales cotidianos organizados con estilo.\n\nPerfecto para llaves, llaveros, gafas de sol, carteras, correo o pequeños detalles decorativos, este organizador de pared combina una belleza refinada con la funcionalidad cotidiana. Ya sea que se coloque en una entrada, pasillo, vestíbulo u oficina, crea un punto focal acogedor y sofisticado mientras mantiene todo al alcance de la mano.\nMembresíaImpulsame",
+ "use_cases": [],
+ "tags": [
+  "decoración",
+  "diseño",
+  "lindo",
+  "barroco",
+  "muro",
+  "llave",
+  "titular de la clave",
+  "titular",
+  "antiguo",
+  "entrada",
+  "organizador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8e5cc40f12b874/design/e3a204511412bbf7.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   680,
+   618
+  ],
+  "previews/02.png": [
+   680,
+   934
+  ],
+  "previews/03.png": [
+   680,
+   934
+  ],
+  "previews/profiles/3530722.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

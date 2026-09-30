@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/cuenco-personalizado.3mf.xz",
+   "instance_id": "3467455",
+   "thumbnail": "previews/profiles/3467455.jpg",
+   "print_time_h": 23,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2C",
+    "X1",
+    "A2L",
+    "A1",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 5190832,
+   "sha256": "4510f5eaa994bcf6535d23aba4c1d1a0ae194d93e2c54455003a416974ff1116",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3079049",
+ "title": "Cuenco personalizado para mascotas Wave para perros y gatos",
+ "slug": "personalized-wave-pet-bowl-for-cats-dogs",
+ "url": "https://makerworld.com/en/models/3079049-personalized-wave-pet-bowl-for-cats-dogs",
+ "author": "alvarofigueiro",
+ "category": "beauty",
+ "source_category": "Hogar > Mascotas",
+ "description": "Impulsame¡Por favor, ayúdame a crear más modelos como este dándole un impulso!",
+ "use_cases": [],
+ "tags": [
+  "personalizado",
+  "personalizable",
+  "cuenco para mascotas",
+  "bol",
+  "perro",
+  "gato",
+  "alimentador"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf0df2f357e370b/design/22ff1ace99c0948b.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1389
+  ],
+  "previews/02.jpg": [
+   1000,
+   1258
+  ],
+  "previews/profiles/3467455.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

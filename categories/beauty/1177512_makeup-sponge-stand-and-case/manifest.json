@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-estuche.3mf.xz",
+   "instance_id": "1186902",
+   "thumbnail": "previews/profiles/1186902.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10016,
+      "weight_g": 86.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1358020,
+   "sha256": "903688c46cc42af2fc2cebbc1ad79592ca07b6d7cde61881d8e195d580999f52",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1177512",
+ "title": "Soporte y estuche para esponja de maquillaje",
+ "slug": "makeup-sponge-stand-and-case",
+ "url": "https://makerworld.com/en/models/1177512-makeup-sponge-stand-and-case",
+ "author": "TheAllegededEng",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Boost Me¿Te gusta este modelo? Por favor considere un impulso. Gracias.\nEste modelo ha sido diseñado para adaptarse a una esponja de maquillaje Beauty Blender, pero todas las esponjas de maquillaje deben caber. Dispone de un mecanismo de cierre por giro, para poder transportarlo dentro de un neceser de maquillaje, sin que se suelte. Dispone de salidas de aire para favorecer el secado y prevenir el moho. Se ha dimensionado para que quepa tanto en un beauty blender húmedo como en seco (ya que se expande cuando está mojado).\n\nLa mitad inferior está moleteada para permitir abrir y cerrar fácilmente con las manos mojadas.\n\nTambién se puede utilizar como soporte sin el estuche, para lograr una apariencia estéticamente agradable en un estante de maquillaje.\n\nLa versión 2 ya está disponible. ¡Enlace aquí!\n\nEste modelo es más compacto, estéticamente más agradable y mejora la ventilación.",
+ "use_cases": [],
+ "tags": [
+  "belleza",
+  "licuadora de belleza",
+  "soporte para licuadora de belleza",
+  "accesorios de belleza",
+  "accesorio de belleza",
+  "constituir",
+  "accesorios de maquillaje",
+  "brocha de maquillaje",
+  "rostro",
+  "cuidado de la cara y el cuerpo",
+  "licuadora"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd4aa9a3b222281/design/2025-03-05_ac9e574943be1.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/1186902.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

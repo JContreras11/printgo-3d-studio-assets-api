@@ -1,0 +1,124 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-esponja.3mf.xz",
+   "instance_id": "1234314",
+   "thumbnail": "previews/profiles/1234314.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 61,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "makeup blender",
+    "profile_notes": "Make up Blender. 1 pezzo, tempo di stampa 1 ora e 17 minuti. 25 grammi di peso. layer 0,2 riempimento griglia 15% 2 walls SUPPORTI NECESSARI",
+    "creation_date": "2025-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4650,
+      "weight_g": 25.54,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 1074296,
+   "sha256": "21e8aea32763db37fc47b0f23ca805f1efc325a1ad682c0e71de06f6ee38ca20",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1218035",
+ "title": "Estuche de esponja de maquillaje en forma de huevo",
+ "slug": "egg-shaped-makeup-sponge-case",
+ "url": "https://makerworld.com/en/models/1218035-egg-shaped-makeup-sponge-case",
+ "author": "federicod",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "¡Hola a todos!\nLes presento este estuche con forma de huevo para esponjas de maquillaje.\n\n¡NUEVO MODELO A PARTIR DEL 24/03/2025! ¡ESTUCHE DE ESPONJAS DE 4 RANURAS!\nsoporte para esponja de maquillaje de fedoom - Maker World\n\nINTRODUCCIÓN\nEste artículo fue diseñado para evitar el almacenamiento inadecuado de esponjas en su bolso, protegiéndolas así de daños y evitando que ensucien su estuche de cosméticos.\n\nARTÍCULO\nLas dimensiones del huevo son bastante compactas: 65 mm x 70 mm con una altura de 72 mm (cuando está cerrado). Además, cuenta con una bisagra móvil muy simple que permite una rotación fluida superior a 180°, probada durante más de un mes sin fallas. El lado opuesto tiene un pequeño clip para mantener el artículo cerrado de forma segura, incluso bajo impacto.\n\nIMPRESIÓN\nLa impresión es sencilla y rápida a pesar de su forma algo inusual.\nRecomiendo la impresión vertical para garantizar que la bisagra y el clip posean la resistencia y flexibilidad adecuadas.\n\nPara la bisagra y el clip se necesitan pequeños soportes, ya que sobresalen. Para facilitar su extracción, estos soportes son pequeños y tienen forma de árbol.\nNo se necesitan ajustes especiales de impresión; 0,2 de altura de capa, 15% de relleno de cuadrícula. Imprime usando PLA o PETG\n\nEl tiempo de impresión de un solo artículo es de 1 hora y 17 minutos, lo que da como resultado un objeto de 25 gramos.\nSe recomienda un máximo de 5 piezas por cama de impresión.\n\nEl artículo de la foto se creó utilizando un Bambulab P1S con filamento Bambulab PETG HF blanco.\n\nVENTAS\nLas ventas sin licencia están estrictamente prohibidas.\nSi está interesado en vender, comuníquese conmigo de forma privada para solicitar una licencia comercial.",
+ "use_cases": [],
+ "tags": [
+  "maquillaje ovetto",
+  "constituir",
+  "accesorios de maquillaje",
+  "caja de maquillaje",
+  "brocha de maquillaje",
+  "engaños",
+  "organizador de maquillaje",
+  "esponjas de maquillaje",
+  "esponjas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaf2ee934194596/design/2025-03-16_f5089431e4b9c.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1234314.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

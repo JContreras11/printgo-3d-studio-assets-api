@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/labios-beso.3mf.xz",
+   "instance_id": "2605672",
+   "thumbnail": "previews/profiles/2605672.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "P2S",
+    "H2D",
+    "X1E",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 13239348,
+   "sha256": "41ece794e0704dda5ee272ebdc8cb5b528c2209cc6f3add356009f1514bd01d6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2379682",
+ "title": "Labios Beso de San Valentín – Labios decorativos 3D",
+ "slug": "valentine-kiss-lips-decorative-3d-lips",
+ "url": "https://makerworld.com/en/models/2379682-valentine-kiss-lips-decorative-3d-lips",
+ "author": "Flipster",
+ "category": "beauty",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Descripción de Boost Mebe mi impulso:)\nLindos labios de beso de San Valentín diseñados como labios decorativos en 3D\nPerfecto como pequeño detalle romántico o como decoración divertida de San Valentín.\nPuedes usarlos para:\npegar en un regalo\ndecorar proyectos de San Valentín\nadjuntar a tarjetas, marcos, cajas o paredes\nÚselo como accesorio para fotografías o creaciones de bricolaje.\nEl modelo queda mejor impreso en PLA rojo, pero siéntete libre de experimentar con otros colores o filamentos (seda, mate, etc.).\nFácil y rápido de imprimir: no se necesitan soportes.\n\nDescripción\nAdorables besos de San Valentín en forma de labios decorativos para impresión 3D\nPerfecto como pequeña decoración o acento para ocasiones especiales.\nPuedes ellos:\nquédate con el regalo\nÚselo como decoración romántica o para el día de San Valentín.\nPégalo en una tarjeta, marco, caja o pared.\nÚselo como parte de una sesión de fotos o bricolaje.\nEl modelo queda genial en PLA rojo, pero puedes experimentar con otros colores o filamentos (por ejemplo, seda, mate).\nLa impresión es rápida y sencilla, sin soportes.",
+ "use_cases": [],
+ "tags": [
+  "beso",
+  "besos",
+  "rojo",
+  "enamorado",
+  "día de san valentín",
+  "decoración del día de san valentín",
+  "amar",
+  "amante",
+  "ili",
+  "te amo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1763aa562a365/design/3229df7edf02e3ec.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1500
+  ],
+  "previews/02.jpg": [
+   1500,
+   1000
+  ],
+  "previews/profiles/2605672.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

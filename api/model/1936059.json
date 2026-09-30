@@ -1,0 +1,168 @@
+{
+ "files": [
+  {
+   "path": "model/rodillo-hielo-1h48.3mf.xz",
+   "instance_id": "2078799",
+   "thumbnail": "previews/profiles/2078799.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "A1",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Ice Roller PLA",
+    "creation_date": "2025-10-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1306468,
+   "sha256": "b2118b5243ff4c9fcb0b6c0fe93efdce32a44084d84b7a38e4633f680b5e634b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rodillo-hielo-2h06.3mf.xz",
+   "instance_id": "2078806",
+   "thumbnail": "previews/profiles/2078806.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "H2D",
+    "A1",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Ice Roller PETG",
+    "creation_date": "2025-10-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1306464,
+   "sha256": "b24e82dd3ee4b330ad3cb8a0eb72f9b200b8f1069d56094d226a8ba823f5ca61",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1936059",
+ "title": "Rodillo de hielo - Cara y piel",
+ "slug": "ice-roller-face-and-skin",
+ "url": "https://makerworld.com/en/models/1936059-ice-roller-face-and-skin",
+ "author": "SpiderPrinter",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Boost Me¡Mi sueño es conseguir el Bambulab P1S:D! ¡Cualquier impulso me acerca un paso más a lograr este objetivo! Un Ice Roller fácil de usar para el rostro y la piel, perfecto para reducir la hinchazón, calmar la irritación y agregar un toque refrescante a su rutina de cuidado de la piel.\nConfiguración de impresión (valor predeterminado de Bambu):\nImpresora: Bambu Lab\nMateriales: PLA\nAltura de la capa: 0,2 mm\nRelleno: 15% (Cuadrícula)\nNúmero de paredes: 2\nCapas superior/inferior: 4\nSoportes: Sí (tocando la placa de construcción)\nAdhesión de la placa de construcción: Ninguna o faldón\nInstrucciones\nLlene la taza con agua, un poco menos, y coloque la pieza superior encima (sobre el fregadero).\n\nDejar en el congelador por más de 5 horas.\n\nSacar del congelador y esperar de 15 a 20 minutos.\n\n¡Saca el ASA de la taza y disfruta! ¡Se puede usar para el cuidado de la piel, para eliminar el acné o simplemente como una forma de refrescarse en un día caluroso!\n\nBoost Me¡Mi sueño es conseguir el Bambulab P1S:D! ¡Cualquier impulso me acerca un paso más a lograr este objetivo!",
+ "use_cases": [],
+ "tags": [
+  "rodillo de hielo",
+  "piel",
+  "rostro",
+  "higiene",
+  "hogar",
+  "hielo",
+  "masaje",
+  "frío",
+  "spa",
+  "protección de la piel",
+  "belleza",
+  "3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe689b2760b2051/design/2025-10-28_1967688a4f4318.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/2078799.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2078806.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

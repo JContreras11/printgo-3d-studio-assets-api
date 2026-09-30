@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-tocador.3mf.xz",
+   "instance_id": "2980077",
+   "thumbnail": "previews/profiles/2980077.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "P1S",
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 8735540,
+   "sha256": "69dffbc6555eac5baf96b20f7d172de11e4fd78a2360c641308ee0f20cbb5f91",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2689715",
+ "title": "Organizador de tocador y jarrón de pinceles Art Nouveau Goddess",
+ "slug": "art-nouveau-goddess-vanity-organizer-brush-vase",
+ "url": "https://makerworld.com/en/models/2689715-art-nouveau-goddess-vanity-organizer-brush-vase",
+ "author": "DeskFormStudio",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Membresía¿Interesado en vender impresiones físicas de mis modelos? ¡Suscríbete a uno de mis niveles!\nEleve su tocador con este impresionante organizador inspirado en el Art Nouveau. Con una silueta elegante y fluida de una diosa drapeada, esta funcional pieza de decoración está diseñada para contener tus pinceles de maquillaje, bolígrafos o pequeños ramos con un estilo sofisticado. Sus intrincados detalles escultóricos capturan la esencia de la belleza clásica manteniendo una estética moderna y minimalista. Perfecto para añadir un toque de gracia mitológica a tu baño, oficina o tocador.\nCaracterísticas del producto\nElegante diseño escultórico: cortinas intrincadas y detalles de cabello suelto.\nAlmacenamiento versátil: ideal para brochas de maquillaje, artículos de papelería o como jarrón decorativo.\nRobusto y equilibrado: diseñado con una base ancha para evitar que se vuelque incluso cuando está lleno.\nEstética moderna: una combinación perfecta de arte clásico y estilo hogareño contemporáneo.\nImpulsameTu impulso es mi motivación para crear más modelos gratuitos. Por favor considera aumentar si puedes <3",
+ "use_cases": [],
+ "tags": [
+  "madres",
+  "cumpleaños de madres",
+  "dia de la madre",
+  "día de la madre2026",
+  "rosa",
+  "accesorio rosa",
+  "estética rosa",
+  "detallado",
+  "realista",
+  "modelo 3d realista",
+  "florero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US33e10ac1848ffc/design/5420c2201c3f82ba.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2980077.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

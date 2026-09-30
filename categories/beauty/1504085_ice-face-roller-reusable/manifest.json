@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/rodillo-facial.3mf.xz",
+   "instance_id": "1573825",
+   "thumbnail": "previews/profiles/1573825.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "A1 mini",
+    "X1",
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.12mm layer height 15% infill Material: PLA 2 walls",
+    "creation_date": "2025-06-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 733996,
+   "sha256": "69f6fa6c8a4faddd5cf65c305549c439381bfedd8da1a7740dde69882d12bb03",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1504085",
+ "title": "Rodillo facial de hielo - Reutilizable",
+ "slug": "ice-face-roller-reusable",
+ "url": "https://makerworld.com/en/models/1504085-ice-face-roller-reusable",
+ "author": "WhiteMonkey",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Boost MeAgradezco cualquier apoyo, esto me ayuda a seguir creando modelos gratis.\nIce Face Roller – Herramienta de belleza reutilizable: ¡perfecta para un verano caluroso!\n\nSin soportes\nHerramienta Reutilizable para volver a llenar con agua y volver a usarla\nDiseño ergonómico\n\nAyuda para:\nReduce la hinchazón\nReafirma la piel\nAyuda con el acné\nMejora tu brillo natural\nRefresca tu cuerpo en los días calurosos\n\nUso:\nLlena el molde con agua.\nCongélalo durante 5-6 horas.\nEspera unos 5 minutos para que el hielo salga del molde.\nPase suavemente sobre la cara, los ojos y el cuello para un masaje refrescante.",
+ "use_cases": [],
+ "tags": [
+  "hielo",
+  "eis",
+  "rostro",
+  "rodillo",
+  "enfriamiento",
+  "verano",
+  "útil",
+  "ayuda",
+  "salud",
+  "saludable",
+  "belleza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3fb1cb2d26839e/design/0d73894e6f7e91db.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1573825.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

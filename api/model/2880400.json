@@ -1,0 +1,333 @@
+{
+ "files": [
+  {
+   "path": "model/sentada-bella-1h36.3mf.xz",
+   "instance_id": "3216994",
+   "thumbnail": "previews/profiles/3216994.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2S",
+    "H2D",
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "BESTIA MONOCCROMO 0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2026-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2159392,
+   "sha256": "e260b2857c75392defd5fadacdece2a5fd02fc4e1547359ef114d64cfde90955",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sentada-bella-monocolor-1h.3mf.xz",
+   "instance_id": "3217028",
+   "thumbnail": "previews/profiles/3217028.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "P1S",
+    "P1P",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "LUMIERE MONOCROMO 0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2026-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 17330944,
+   "sha256": "1209cd43c86921f2979c02e2a4eb54c33cb4cb0368578839d867da7895f3869e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sentada-bella-monocolor-1h18.3mf.xz",
+   "instance_id": "3217021",
+   "thumbnail": "previews/profiles/3217021.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "P1S",
+    "P1P",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "DIN DON MONOCROMO 0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2026-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 15993972,
+   "sha256": "43cd2710e4ef42fb19a0e279aac0a203902b664e255bc05af601a72e3895abcb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sentada-bella-monocolor-1h24.3mf.xz",
+   "instance_id": "3217078",
+   "thumbnail": "previews/profiles/3217078.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "P1S",
+    "X2D",
+    "X1",
+    "H2S",
+    "X1 Carbon",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "A1 mini",
+    "P2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "GASTON MONOCROMO 0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2026-06-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 16892340,
+   "sha256": "dbd1fcc09cdaa71fcde140a1280d58c578adf60917d35f1b0be56bcfb02094a8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sentada-bella-monocolor-1h42.3mf.xz",
+   "instance_id": "3217075",
+   "thumbnail": "previews/profiles/3217075.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "H2S",
+    "H2C",
+    "P1S",
+    "P2S",
+    "H2D",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "SRA POPS MONOCROMO 0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2026-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 17993200,
+   "sha256": "8112cc32f0d740920872162af92d6e168423b68914a920c6e80ebb7cb3c40c00",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2880400",
+ "title": "SENTADA LA BELLA Y LA BESTIA",
+ "slug": "sitting-belle-and-the-beast",
+ "url": "https://makerworld.com/en/models/2880400-sitting-belle-and-the-beast",
+ "author": "LORENNA",
+ "category": "beauty",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "COLECCIÓN “SIT DOWN – EDICIÓN BELLA Y LA BESTIA”\nEsta colección reúne seis personajes icónicos reinterpretados en un estilo chibi sentado, con un diseño compacto, expresivo y encantador. Cada figura está cuidadosamente esculpida para transmitir personalidad, ternura y presencia visual, lo que las convierte en piezas ideales tanto para coleccionistas como para pintores.\nLa presentación incluye dos versiones:\nCada personaje se asienta sobre una base decorativa que unifica la colección y aporta estabilidad y coherencia estética.\nPersonajes incluidos\nBELLA: sentada sobre una pila de libros, con expresión dulce y postura tranquila.\nLA BESTIA: figura imponente, en traje ceremonial y con gesto amable.\nCOGWORTH: diseño redondeado, detalles ornamentales y una expresión seria pero amigable.\nGASTON: postura segura, sonrisa arrogante y físico robusto.\nLUMIERE: brazos extendidos, actitud teatral y detalles estilizados.\nSEÑORA. POTTS: formas suaves, expresión cálida y composición entrañable.\nFunciones destacadas\nEstilo chibi sentado (“Sit Down”), perfecto para vitrinas y colecciones temáticas.\nBases decorativas unificadas, que aportan cohesión visual a toda la línea.\nEscultura limpia y detallada, ideal para una impresión 3D sin complicaciones.\nExpresiones muy pronunciadas que transmiten carácter incluso en escala.",
+ "use_cases": [],
+ "tags": [
+  "sesión",
+  "la bella y la bestia",
+  "bella",
+  "bonito",
+  "bestia",
+  "película",
+  "dibujos animados",
+  "cifra",
+  "recopilación",
+  "decoración",
+  "hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2cc1fadcb352f/design/a4898b6680d900cd.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.png",
+  "previews/12.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.png": [
+   297,
+   320
+  ],
+  "previews/08.png": [
+   372,
+   315
+  ],
+  "previews/09.png": [
+   417,
+   508
+  ],
+  "previews/10.png": [
+   350,
+   405
+  ],
+  "previews/11.png": [
+   487,
+   400
+  ],
+  "previews/12.png": [
+   282,
+   283
+  ],
+  "previews/profiles/3216994.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3217028.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3217021.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3217078.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3217075.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

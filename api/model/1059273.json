@@ -1,0 +1,129 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-pared.3mf.xz",
+   "instance_id": "1047315",
+   "thumbnail": "previews/profiles/1047315.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 36,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": ".2mm layers No support required Quick and easy print Print both parts. Mount the block on the wall using the two screw holes. Slide the holder onto the mount. Place (COOLED) curling iron into the slot. Viola!",
+    "creation_date": "2025-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9541,
+      "weight_g": 81.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#EEB1C1"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 916568,
+   "sha256": "83ee5b549dba9afa8f98e3943d2fe376fbe6e09f68779622bcd991fd54ce29bf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1059273",
+ "title": "Soporte de pared para rizador",
+ "slug": "curling-iron-wall-mount",
+ "url": "https://makerworld.com/en/models/1059273-curling-iron-wall-mount",
+ "author": "Quorlan",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "ImpulsameSi disfrutas este modelo, ¡considera darle un impulso! ¡Gracias! ¿Tienes que lidiar con cables desordenados que cuelgan del lavabo o del tocador del baño? ¿Nunca sabes dónde guardar tu rizador cuando no lo necesitas? ¡Pues aquí está la solución! Monte este bebé en la pared, enrolle el cable alrededor del soporte y deslice el rizador directamente en este pequeño y práctico soporte. Así de simple. Sé que no es nada espectacular, pero seguro que ha hecho que mi baño esté un poco más limpio, así que pensé que a algunos de ustedes les gustaría probarlo por sí mismos. ¡Disfrutar!\n\nAlto de capa.2mm\nNo se necesita soporte\nSe recomienda un 15% de relleno cúbico",
+ "use_cases": [],
+ "tags": [
+  "soporte de pared para rizador",
+  "hierro de culturismo",
+  "organización del baño",
+  "baño",
+  "belleza",
+  "accesorios de belleza",
+  "cabello",
+  "accesorios para el cabello",
+  "accesorio para el cabello"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8c8d0b1170e958/design/2025-02-02_182e6258fadb3.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   559,
+   1440
+  ],
+  "previews/02.jpg": [
+   1000,
+   804
+  ],
+  "previews/03.jpg": [
+   685,
+   1440
+  ],
+  "previews/04.jpg": [
+   804,
+   1440
+  ],
+  "previews/05.jpg": [
+   918,
+   1440
+  ],
+  "previews/06.jpg": [
+   553,
+   1440
+  ],
+  "previews/profiles/1047315.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

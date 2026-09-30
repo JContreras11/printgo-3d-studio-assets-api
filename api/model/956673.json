@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/limpiador-brochas.3mf.xz",
+   "instance_id": "925721",
+   "thumbnail": "previews/profiles/925721.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 41,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2916,
+      "weight_g": 28.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1136456,
+   "sha256": "2c5ad30454ff9b0319583f1f0a570481ff8127a4b22e4fc2ce46eb156221b9df",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "956673",
+ "title": "Limpiador de brochas de maquillaje",
+ "slug": "makeup-brush-cleaner",
+ "url": "https://makerworld.com/en/models/956673-makeup-brush-cleaner",
+ "author": "AdrianRR",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Boost MeSi te gustó el modelo, ¡piensa en impulsar! ¡Gracias!\n\nDiseño simple para ayudar con la limpieza de la brocha de maquillaje. También funcionará con cualquier otro pincel, ¡así que pruébalo!\nLa impresión tarda sólo 50 minutos y menos de 30 g de filamento.\n\nFácilmente escalable para adaptarse a sus necesidades.\nDimensiones estándar:\n-diámetro 80 mm\n-altura 33mm",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "cepillar",
+  "brocha de maquillaje",
+  "contenedor de brochas de maquillaje",
+  "limpiador de cepillos",
+  "moda",
+  "accesorios de moda",
+  "chica",
+  "baño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US758076d20b7062/design/2025-01-05_326abd865fd66.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   958,
+   1440
+  ],
+  "previews/profiles/925721.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

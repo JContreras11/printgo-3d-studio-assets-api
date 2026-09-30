@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-tocador.3mf.xz",
+   "instance_id": "2590155",
+   "thumbnail": "previews/profiles/2590155.jpg",
+   "print_time_h": 12.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "P2S",
+    "P1S",
+    "H2S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-02-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 7151164,
+   "sha256": "f4020558690fdf51a28cf29a99a10a41bd05bf4dda596cbeae295a1437348b1d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2366817",
+ "title": "Organizador de tocador de lujo con edredón inflado",
+ "slug": "puffed-quilt-luxury-vanity-organizer",
+ "url": "https://makerworld.com/en/models/2366817-puffed-quilt-luxury-vanity-organizer",
+ "author": "dpzibsew",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Eleva tu tocador con este elegante organizador de textura acolchada. Diseñada específicamente para una estética de alta gama, esta pieza imita el aspecto de los muebles tapizados de primera calidad. Perfecto para guardar brochas de maquillaje, delineadores de ojos y herramientas de belleza.\nOptimizado para: Bambu A1 / P1S / X1C\nCaracterísticas clave: Compartimentos profundos para mayor estabilidad y una geometría \"Puff\" única que oculta las líneas de las capas.",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "carrito de accesorios de maquillaje",
+  "carrito aplicador de maquillaje",
+  "accesorio de maquillaje",
+  "estetica",
+  "vanidad",
+  "organizador",
+  "belleza",
+  "almacenamiento",
+  "de oficina",
+  "decoración del hogar",
+  "sin apoyo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US43e0fe52166bf/design/6be205637ffa3a28.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   729
+  ],
+  "previews/02.jpg": [
+   989,
+   747
+  ],
+  "previews/03.png": [
+   1000,
+   729
+  ],
+  "previews/profiles/2590155.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

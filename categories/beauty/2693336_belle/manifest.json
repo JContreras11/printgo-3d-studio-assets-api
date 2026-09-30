@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/beldad.3mf.xz",
+   "instance_id": "2984627",
+   "thumbnail": "previews/profiles/2984627.jpg",
+   "print_time_h": 25.3,
+   "plates": 7,
+   "rating": 4.7,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "X1E",
+    "X1",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 99028452,
+   "sha256": "9a2eda64388b2a3f86ab94a398e58e29616b0ad731ed027bee954f638b196f0a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2693336",
+ "title": "Beldad",
+ "slug": "belle",
+ "url": "https://makerworld.com/en/models/2693336-belle",
+ "author": "Aki3D",
+ "category": "beauty",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡¡¡APOYO!!!...,\n\n¡Tu apoyo nos ayuda a publicar nuestro trabajo en MakerWorld!\n\nSi disfrutó imprimiendo nuestro trabajo, le agradeceríamos que pudiera contribuir dándole me gusta a nuestro trabajo.\nsiguiendo la página y compartiendo tus reseñas y fotos (¡eso nos encanta)!\n\nY, por supuesto, ¡un pequeño empujón con los Boosts es la mejor manera de seguir adelante!\n\n¡¡GRACIAS!!\nEL MODELO MIDE 40CM DE ALTO\n\nModelo realizado en varias partes, si hay algún problema, hágamelo saber para realizar modificaciones.\n\nencontrar todos mis modelos\n\nSIMBA\ncicatriz\nBLANCO NIEVE\nHÉRCULES\nALADDÍN\nJAZMÍN\nGENIO",
+ "use_cases": [],
+ "tags": [
+  "disney",
+  "princesa",
+  "princesa disney",
+  "aladino",
+  "jazmín",
+  "genio",
+  "belleza",
+  "bestia",
+  "bella y la bestia",
+  "bestia y belleza",
+  "hércules",
+  "simba"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US92cb195355a3c4/design/460194dcc522a816.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2984627.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

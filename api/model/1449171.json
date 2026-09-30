@@ -1,0 +1,152 @@
+{
+ "files": [
+  {
+   "path": "model/pinza-cabello-36min.3mf.xz",
+   "instance_id": "1509410",
+   "thumbnail": "previews/profiles/1509410.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 160,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "X1",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "8 cm version - 0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 7039152,
+   "sha256": "9df394d3d463041ff5e915a4b7aec9ccd7145366a594e0ccd75307346e2de342",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pinza-cabello-30min.3mf.xz",
+   "instance_id": "1788013",
+   "thumbnail": "previews/profiles/1788013.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 85,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1,
+    "profile_title": "8 cm - No Skull Version 0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 7418552,
+   "sha256": "7d9c9bde4bd3d689dcbe0ce9b81adb775727fea583a1e7c9033b7a1acf444b01",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1449171",
+ "title": "Pinza para el cabello cómoda y rizada - Cola de caballo fácil",
+ "slug": "curly-comfy-hair-clip-easy-ponytail",
+ "url": "https://makerworld.com/en/models/1449171-curly-comfy-hair-clip-easy-ponytail",
+ "author": "reydio_active",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "*Mensaje del Creador*\nSi te gustan los accesorios para el cabello lindos y prácticos como este, ¡no te pierdas mis diseños más recientes, Luna Moth Claw Clip y The Perfect Banana Clip!\n\n*Fin del mensaje del creador*\nBoost Me¿Te gustan mis diseños? Puedes apoyarme a crear más cosas interesantes impulsándome, ¡gratis!\n¡Hola!:)\n\nSi tienes el pelo rizado e hinchado y alguna vez has intentado ponerlo en una cola de caballo, sabrás que es tan doloroso usar una goma para el cabello normal. Para la sociedad del cabello rizado, se deben utilizar otras herramientas para lograr una coleta perfecta, sin dolor y sin esfuerzo: una de ellas es una pinza para el cabello con curvas.\n\nDe hecho, diseñé este para mí (de ahí las calaveras), y estaba realmente cansado de romper los peines de mis clips, por lo que los peines son más gruesos que un clip con curvas normal. Sin embargo, no creo que este clip se adapte al cabello liso u ondulado debido a los peines gruesos y abiertos. Si tienes el cabello más fino o con menos textura, ¡mi nuevo diseño, The Perfect Banana Clip, se adapta mejor a tu cabello!\n\nLa versión de 8 cm funciona bien para cabellos de grosor medio. Para cabello fino o muy grueso, puede reducir la escala a aproximadamente 6,5 cm o aumentar la escala del modelo a aproximadamente 9 cm o más.\n\nImprimir notas:\nEs una impresión rápida y sencilla y tiene un proceso de montaje muy sencillo. Imprime con 0,16 de altura de capa y soportes habilitados. Luego, junta las piezas como en las fotos y usa un poco de pegamento solo en la ranura de los dos componentes de la bisagra:\n\nEspero que os guste y ¡feliz impresión!:)",
+ "use_cases": [],
+ "tags": [
+  "pinza para el cabello",
+  "peine de clip de pelo",
+  "pinza de pelo peine del pelo",
+  "estilo de pelo",
+  "peinador",
+  "accesorio para el cabello",
+  "accesorios para el cabello",
+  "peine para el cabello",
+  "pelo rizado",
+  "peine de pelo rizado",
+  "horquilla de pelo",
+  "peinado"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe37b8853d05c98/design/2025-05-24_cf85703c9bfd9.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1509410.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1788013.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "files": [
+  {
+   "path": "model/protector-facial.3mf.xz",
+   "instance_id": "2052062",
+   "thumbnail": "previews/profiles/2052062.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "H2S",
+    "X1",
+    "A1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1221828,
+   "sha256": "049f056aac4d455a5a375d1df3f50d4e6db8322451b657455217ebd57986975e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1913372",
+ "title": "protector facial de pestañas y cejas foto prop-personalizable",
+ "slug": "lash-and-brow-face-shield-photo-prop-customizable",
+ "url": "https://makerworld.com/en/models/1913372-lash-and-brow-face-shield-photo-prop-customizable",
+ "author": "kaaycee",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Accesorio fotográfico con escudo para cubrir la cara para técnicos de pestañas y cejas.\n\nnombre editable; abierto en Bambu Lab. -hacer clic en objetos -hacer clic en la forma del texto -hacer clic en la forma del texto en el banner superior -agregar nombre y cambiar la fuente y el tamaño si es necesario.\n\nSiéntete libre de usar, editar y vender el producto impreso una vez creado; a cambio, todo lo que pido es un impulso. ¡Gracias!",
+ "use_cases": [],
+ "tags": [
+  "pestañas",
+  "cejas",
+  "tecnología",
+  "belleza"
+ ],
+ "license": "BY-ND",
+ "release_date": "2025-10-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf184880056a94f/design/2025-10-22_792abc312a72f8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   942,
+   941
+  ],
+  "previews/profiles/2052062.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

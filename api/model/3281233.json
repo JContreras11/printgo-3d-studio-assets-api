@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-tocador.3mf.xz",
+   "instance_id": "3721812",
+   "thumbnail": "previews/profiles/3721812.jpg",
+   "print_time_h": 5.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1S",
+    "X2D",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A2L",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 2% infill",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 884732,
+   "sha256": "af9256f29e3f0a7230a3fa582326f0b4e6ca2408d2078fc018b5b5e1d386d229",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3281233",
+ "title": "Organizador de tocador de baño moderno.",
+ "slug": "modern-bathroom-vanity-organizer",
+ "url": "https://makerworld.com/en/models/3281233-modern-bathroom-vanity-organizer",
+ "author": "user_4121375035",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "¡Mantenga la encimera de su baño limpia, organizada y elegante con este moderno organizador de tocador para baño! La espaciosa bandeja es perfecta para mantener los artículos de tocador, productos para el cuidado de la piel, cepillos de dientes, jabón y otros accesorios de baño perfectamente juntos y al alcance de la mano. Su diseño acanalado le da un aspecto moderno y al mismo tiempo lo convierte en un complemento práctico para cualquier tocador o encimera de baño. ¡Imprímelo en tu color favorito y mejora tu baño con un útil organizador impreso en 3D!\nBoost MeSi te gusta este moderno organizador de tocador de baño, deja un impulso y un me gusta.",
+ "use_cases": [],
+ "tags": [
+  "organizador de baño",
+  "baño",
+  "accesorios de baño",
+  "organizador",
+  "organizar",
+  "vanidad",
+  "bandeja",
+  "bandeja colectora",
+  "almacenamiento de baño",
+  "almacenamiento",
+  "organizador de encimera",
+  "encimera"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeddb9302c222e3/design/1582e7debff6e953.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   749
+  ],
+  "previews/profiles/3721812.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

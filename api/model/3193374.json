@@ -1,0 +1,255 @@
+{
+ "files": [
+  {
+   "path": "model/piton-arboricola-46h30.3mf.xz",
+   "instance_id": "3612971",
+   "thumbnail": "previews/profiles/3612971.jpg",
+   "print_time_h": 46.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "A2L",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Green Tree Python - AMS Print "
+   },
+   "name": "Versión estándar",
+   "size": 22509420,
+   "sha256": "556c05bfa75240596a9a0ded489a33287d87d8814f903ef0e45a7cf0dba603fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/piton-arboricola-29h.3mf.xz",
+   "instance_id": "3625663",
+   "thumbnail": "previews/profiles/3625663.jpg",
+   "print_time_h": 29,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A1",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Green tree Python - 120mm - size and walls reduced "
+   },
+   "name": "Versión estándar",
+   "size": 23484468,
+   "sha256": "7cef82fe209c71f53dc9a0cda05b5dba41a2215b390cf141c138f07cbdddea0d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/piton-arboricola-51h42.3mf.xz",
+   "instance_id": "3625762",
+   "thumbnail": "previews/profiles/3625762.jpg",
+   "print_time_h": 51.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "P1S print profile "
+   },
+   "name": "Versión estándar",
+   "size": 22541780,
+   "sha256": "beacf0ef9f72de94c36724ee4b674f4b6cc2f19a49918543bd00045c72b4a52f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/piton-arboricola-monocolor-11h24.3mf.xz",
+   "instance_id": "3613044",
+   "thumbnail": "previews/profiles/3613044.jpg",
+   "print_time_h": 11.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "P2S",
+    "P1P",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Single color print 110mm "
+   },
+   "name": "Monocromo",
+   "size": 23313660,
+   "sha256": "197baa382c4b74a853677d251dcff8e3566a1ba641799472ba87f9c614bbd28b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3193374",
+ "title": "Pitón arborícola verde – realista - Morelia viridis",
+ "slug": "green-tree-python-realistic-morelia-viridis",
+ "url": "https://makerworld.com/en/models/3193374-green-tree-python-realistic-morelia-viridis",
+ "author": "StrabonZ",
+ "category": "beauty",
+ "source_category": "Hogar > Mascotas",
+ "description": "Este modelo representa una pitón arbórea verde (Morelia viridis)\n\nen su típica postura de descanso: firmemente enrollado en una rama con la cabeza atentamente mirando hacia adelante.\nLas Green Tree Pythons han sido parte de mi vida durante muchos años. Personalmente he mantenido y criado estos fascinantes animales. Mis experiencias personales con su estructura corporal, postura característica y presencia única han influido en el diseño de este modelo.\nLa estructura de escala detallada, la forma robusta de la cabeza y la disposición natural de las espirales del cuerpo tienen como objetivo reproducir de manera realista la impresión inconfundible de una pitón verde con la mayor precisión posible.\nEl modelo mostrado fue impreso con los siguientes colores:\n\nVerde vibrante como color base - Bambu Lab Matte Grass Green\nMarcas azul claro - Bambu Lab Matte Sky Blue\nDetalles en color crema claro - Bambu Lab Matte Bone White\nPartes de ramas marrones - Bambu Lab Matte Dark Brown\n\nPor supuesto, el modelo también se puede imprimir en otras variaciones de color, ya que las pitones arbóreas verdes muestran diferentes marcas y colores según su origen, edad e individuo.\nEl modelo es ideal como decoración, pieza de colección o regalo especial para los entusiastas de los reptiles y amantes de esta extraordinaria especie de serpiente.\nImpreso con H2C multicolor, tenga en cuenta que la duración de la impresión es mayor en un modelo diferente.\n\nSi imprimes tu propia Green Tree Python, ¡me encantaría ver una foto de tu marca y la variación de color elegida!",
+ "use_cases": [],
+ "tags": [
+  "pitón árbol verde",
+  "morelia viridis",
+  "morelia",
+  "viridis",
+  "chondro",
+  "pitón",
+  "serpiente",
+  "reptil",
+  "animal realista",
+  "realista",
+  "modelo 3d realista"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf3a7855d4dd260/design/e6c09df31b6e81fb.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/11.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3612971.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3625663.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3625762.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3613044.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

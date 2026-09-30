@@ -1,0 +1,125 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-moduglam-3h.3mf.xz",
+   "instance_id": "1424711",
+   "thumbnail": "previews/profiles/1424711.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Top Covers 0.28mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 775868,
+   "sha256": "063a60f325476f700ef03d6f415f98de6a999a714d307438dedf9b46771a7066",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-moduglam-3h12.3mf.xz",
+   "instance_id": "1424748",
+   "thumbnail": "previews/profiles/1424748.jpg",
+   "print_time_h": 3.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "X1",
+    "P1S",
+    "X1E",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Top Covers, 0.28mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 926444,
+   "sha256": "d9b5a6d2cfd6e0fa87d457d2a0dbfa09f4dfd6f79caf5a6ddf1f299004e1d76d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1377012",
+ "title": "Organizador ModuGlam - Cubiertas superiores",
+ "slug": "moduglam-organizer-top-covers",
+ "url": "https://makerworld.com/en/models/1377012-moduglam-organizer-top-covers",
+ "author": "Alta3DpStudio",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "ImpulsameCada impulso cuenta y me permite invertir más tiempo desarrollando nuevos modelos atractivos para que puedas imprimir y vender. ¡Muchas gracias! Membresía ¡Hola a todos! Muchas gracias a todos mis seguidores actuales y nuevos por su apoyo. ¡Realmente significa mucho para mí! A partir de hoy, tendrás la opción de suscribirte a mi licencia comercial, que te permitirá vender impresiones 3D realizadas a partir de los modelos que comparto con la comunidad. ¡Estén atentos para más diseños increíbles y felices impresiones! Por petición popular, estas son cubiertas superiores sencillas para mi modelo ModuGlam Organizer.\nSe incluyen perfiles para A1 y X1/P1.",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "organizador",
+  "organizador de maquillaje",
+  "modular",
+  "protección de la piel",
+  "productos cosméticos",
+  "belleza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US64ec25f8f6071f/design/2025-05-02_f94e52031533c8.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1424711.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1424748.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

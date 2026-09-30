@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/estante-exhibicion.3mf.xz",
+   "instance_id": "3494713",
+   "thumbnail": "previews/profiles/3494713.jpg",
+   "print_time_h": 21.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22769120,
+   "sha256": "e4ae74e563f837c38d471b4a9cd6ed4522d0cde17890256738922c4ac4e6747c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3100486",
+ "title": "Estante de exhibición Castle: organizador y almacenamiento de belleza",
+ "slug": "castle-display-shelf-organizer-beauty-storage",
+ "url": "https://makerworld.com/en/models/3100486-castle-display-shelf-organizer-beauty-storage",
+ "author": "maisonurane",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Estante de exhibición Princess Castle: organizador de esmalte de uñas y almacenamiento de belleza de cuento de hadas\n\nConvierte tu colección de belleza en una exhibición mágica con este encantador organizador Princess Castle. Inspirado en castillos de cuento de hadas y la elegante arquitectura palaciega, este estante de exhibición decorativo es la manera perfecta de organizar esmaltes de uñas, aceites esenciales, perfumes, cuidado de la piel u otros elementos esenciales de belleza y, al mismo tiempo, agrega un toque caprichoso a su tocador.\n\nCon sus intrincadas torres, detalles ornamentales y espacioso diseño de dos niveles, este organizador transforma el almacenamiento diario en una impresionante pieza llamativa. Perfecto para amantes de la belleza, artistas de uñas y cualquiera que adore la decoración inspirada en princesas, combina funcionalidad con una elegancia encantadora.\nMembresíaImpulsame",
+ "use_cases": [],
+ "tags": [
+  "arte",
+  "decoración",
+  "diseño",
+  "lindo",
+  "encantador",
+  "moderno",
+  "estante",
+  "mostrar",
+  "princesa",
+  "castillo",
+  "organizador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf8e2b502fe5170/design/2e2a6c1a69e6dd37.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   698,
+   944
+  ],
+  "previews/02.png": [
+   698,
+   944
+  ],
+  "previews/03.png": [
+   698,
+   454
+  ],
+  "previews/04.png": [
+   1000,
+   1200
+  ],
+  "previews/profiles/3494713.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

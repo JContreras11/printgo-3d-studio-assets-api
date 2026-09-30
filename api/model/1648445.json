@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/pendientes-largos.3mf.xz",
+   "instance_id": "1742527",
+   "thumbnail": "previews/profiles/1742527.jpg",
+   "print_time_h": 1,
+   "plates": 2,
+   "rating": 4.1,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "X1",
+    "P1S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2077956,
+   "sha256": "1fa27120696fe20303c849002f5ee21acf0f3b5b34a4aa3edab515b77a266804",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1648445",
+ "title": "pendientes largos de cinta",
+ "slug": "long-ribbon-earrings",
+ "url": "https://makerworld.com/en/models/1648445-long-ribbon-earrings",
+ "author": "runrain",
+ "category": "beauty",
+ "source_category": "Moda > Pendientes",
+ "description": "Un toque de ligereza, un torbellino de danza. Los lazos exagerados de gran tamaño y las cintas fluidas y arremolinadas transmiten una actitud de romance seguro. Más que unos simples pendientes, una declaración de estilo.\n\nLa impresión requiere un ala y soportes; los soportes se quitan fácilmente con la mano.\nSe proporcionan dos versiones, una con y otra sin cables para los oídos, teniendo en cuenta las preferencias personales.",
+ "use_cases": [],
+ "tags": [
+  "pendiente",
+  "cinta",
+  "arco",
+  "joyas",
+  "regalo",
+  "belleza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe6d098a6b0c0ac/design/2025-07-29_6cf978365d2458.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1742527.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

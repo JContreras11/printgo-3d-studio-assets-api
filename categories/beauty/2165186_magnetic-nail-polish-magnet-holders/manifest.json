@@ -1,0 +1,84 @@
+{
+ "files": [
+  {
+   "path": "model/soportes-magneticos.3mf.xz",
+   "instance_id": "2347689",
+   "thumbnail": "previews/profiles/2347689.jpg",
+   "print_time_h": 2.1,
+   "plates": 5,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-12-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 836292,
+   "sha256": "bc95b63f9024af295ed295d593aca26c016751f8e02f8b15b3ab34cfe7e761d3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2165186",
+ "title": "Soportes magnéticos para imanes de esmalte de uñas",
+ "slug": "magnetic-nail-polish-magnet-holders",
+ "url": "https://makerworld.com/en/models/2165186-magnetic-nail-polish-magnet-holders",
+ "author": "ArthurDent",
+ "category": "beauty",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "Los hice para mi novia a quien le encanta experimentar con esmalte de uñas magnético. Son muy sencillos, con una ranura para uno o más imanes y un pequeño ASA para ayudar a retirarlos rápidamente.\n\nHay cuatro versiones “sobre la uña”:\nRecto (a lo largo de la uña)\n45 grados\nDiagonales multiposición\nTres ranuras paralelas\n\nHay un estilo \"terciopelo\"\nUn imán debajo y dos laterales. Está construido de manera que los imanes laterales se puedan colocar en dos direcciones.\n\nLos diseñé para que quepan en imanes de 20x10x2. Aquí hay un enlace a mi modelo de Tinkercad si necesitas jugar con ellos:\n\nContáctame sobre distribución comercial.",
+ "use_cases": [],
+ "tags": [
+  "accesorios de uñas",
+  "esmalte de uñas",
+  "esmalte de uñas magnético",
+  "arte de uñas magnético",
+  "belleza"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-12-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbce38b6b59470b/design/2025-12-27_53e072d93575b8.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/2347689.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

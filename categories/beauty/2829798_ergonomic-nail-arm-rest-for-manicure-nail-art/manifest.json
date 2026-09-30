@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/reposabrazos-ergonomico.3mf.xz",
+   "instance_id": "3152941",
+   "thumbnail": "previews/profiles/3152941.jpg",
+   "print_time_h": 5.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "H2S",
+    "A1",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.20mm PLA – 2 Walls – 15% Infill – Supports Required",
+    "profile_notes": "Tested PLA profile for the Ergonomic Nail Arm Rest. 0.20 mm layer height, 2 walls and 15% infill. Supports are required for this orientation. A brim is optional and only recommended if additional bed adhesion is needed. Prints in one piece using approximately 150 g of PLA.",
+    "creation_date": "2026-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 676900,
+   "sha256": "6d148eb61c2deddba7ba21d887a081df2a2dd5c8843288bd5ab41b729a44e872",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2829798",
+ "title": "Reposabrazos ergonómico para manicura y decoración de uñas",
+ "slug": "ergonomic-nail-arm-rest-for-manicure-nail-art",
+ "url": "https://makerworld.com/en/models/2829798-ergonomic-nail-arm-rest-for-manicure-nail-art",
+ "author": "RBL9",
+ "category": "beauty",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Reposabrazos ergonómico para uñas diseñado para técnicos de uñas, artistas de uñas y entusiastas de la manicura. Proporciona una posición de mano estable y cómoda para un trabajo de uñas preciso.\nPerfecto para decoración de uñas, esmalte en gel y diseños detallados donde la precisión importa. Ya sea principiante o profesional, esta herramienta ayuda a reducir la fatiga de las manos y mejora el control.\nCaracterísticas:\nBase estable y antideslizante\nAltura ergonómica para una mejor precisión\nReduce el temblor de manos\nDiseño minimalista y limpio.\nFácil de imprimir en 3D\nPerfecto para:\nArte de uñas y esmalte en gel\nUso doméstico y profesionales\nCualquiera que quiera resultados más limpios",
+ "use_cases": [],
+ "tags": [
+  "clavos",
+  "arte de uñas",
+  "manicura",
+  "accesorio para estación de manicura",
+  "belleza",
+  "accesorios de belleza",
+  "accesorio de belleza",
+  "reposamanos",
+  "ergonómico",
+  "salón",
+  "accesorios de salón",
+  "accesorio de salón"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-05-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US99d4d7c236185f/design/9c1a53e7a8ac8a23.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   611
+  ],
+  "previews/profiles/3152941.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

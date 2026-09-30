@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-esmalte.3mf.xz",
+   "instance_id": "2895083",
+   "thumbnail": "previews/profiles/2895083.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1 mini",
+    "A1",
+    "X1",
+    "H2D",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 426292,
+   "sha256": "54dd920b68cf631243936f0795e6545923ba0b2c9f7bc278601dbd5f727ab909",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2622742",
+ "title": "Soporte para esmalte de uñas a 45°: ¡consigue hasta la última gota!",
+ "slug": "45degish-nail-polish-stand-get-every-last-drop",
+ "url": "https://makerworld.com/en/models/2622742-45degish-nail-polish-stand-get-every-last-drop",
+ "author": "typicwimp",
+ "category": "beauty",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "¿Estás cansada de desperdiciar esmalte de uñas pegado al fondo de la botella? Este soporte impreso en 3D sostiene el esmalte de uñas en una \"especie de\" ángulo de 45°, lo que facilita alcanzar y aplicar hasta la última gota de esmalte. Ya no tendrá que luchar ni inclinar la botella: ¡simplemente colóquela en el soporte y obtenga hasta la última gota!\nPerfecto para entusiastas de las uñas, profesionales o cualquier persona que quiera minimizar el desperdicio y maximizar su esmalte. ¡Imprímelo tú mismo y disfruta de una forma más inteligente y eficiente de usar tu esmalte de uñas!",
+ "use_cases": [],
+ "tags": [
+  "organizador de accesorios para uñas",
+  "esmalte de uñas",
+  "belleza",
+  "accesorios de belleza",
+  "accesorio de belleza",
+  "clavo",
+  "soporte para esmalte de uñas"
+ ],
+ "license": "BY-SA",
+ "release_date": "2026-04-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4a234c1d5e4cf4/design/04befffd99844f44.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   462,
+   1000
+  ],
+  "previews/02.jpg": [
+   461,
+   1000
+  ],
+  "previews/03.jpg": [
+   461,
+   1000
+  ],
+  "previews/04.jpg": [
+   461,
+   1000
+  ],
+  "previews/profiles/2895083.jpg": [
+   589,
+   441
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

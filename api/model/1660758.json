@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/schmuckbox-joyero.3mf.xz",
+   "instance_id": "1756824",
+   "thumbnail": "previews/profiles/1756824.jpg",
+   "print_time_h": 20.7,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.09.03.50",
+    "profile_title": "0.28mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-08-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 10941028,
+   "sha256": "224c7a30dcf6ed1b47893ae63cff49632b8ef4ec93ee39449f8c1dc6a2331674",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1660758",
+ "title": "Schmuckbox Joyero / Maquillaje / Caja de maquillaje",
+ "slug": "schmuckbox-jewelry-box-make-up-makeup-box",
+ "url": "https://makerworld.com/en/models/1660758-schmuckbox-jewelry-box-make-up-makeup-box",
+ "author": "fatih.kartal55",
+ "category": "beauty",
+ "source_category": "Moda > Joyería",
+ "description": "Joyero apilable minimalista – imprimible en dos versiones (con o sin compartimentos) + vaso insertable a juego\nIdeal para guardar anillos, relojes, collares o objetos pequeños.\nDimensiones (por bandeja): 19,8×12,8×4,2cm\nDimensiones totales (2 bandejas apiladas + vaso): 19,8×12,8×9cm\nGrosor de la pared: optimizado para mayor estabilidad (no demasiado fino)\n\nPara ahorrar filamento, puedes imprimir con 2 líneas de pared superiores y 2 inferiores; sigue siendo lo suficientemente resistente para el uso diario.\nEl diseño es funcional y limpio, ideal para cualquier tocador de escritorio o mesita de noche.\n\nEspero que te guste el diseño. Deja un comentario o calificación si te gusta y comparte tus comentarios.\n\nSígueme en Instagram para recibir actualizaciones periódicas.\n\n--------\nJoyero minimalista y apilable, imprimible en dos versiones (con o sin compartimentos) + vaso insertable a juego.\nPerfecto para guardar anillos, relojes, collares u otros objetos pequeños.\n\nDimensiones (por bandeja): 19,8×12,8×4,2cm\nDimensiones totales (2 bandejas apiladas + vaso): 19,8×12,8×9cm\nGrosor de la pared: optimizado para mayor estabilidad (no demasiado fino)\n\nPara ahorrar filamento, puedes imprimir con 2 líneas de pared superiores y 2 inferiores; sigue siendo lo suficientemente resistente para el uso diario.\nEl diseño es funcional y limpio, ideal para cualquier escritorio, tocador o mesita de noche.\n\nEspero que te guste el diseño! ¡Deje un comentario o calificación si le gusta y comparta sus comentarios!\nSígueme en Instagram para recibir actualizaciones periódicas.\nBoost Me \"Joyero minimalista con práctica división de compartimentos: fácil de imprimir y versátil. Si te gusta el diseño, ¡espero tu impulso! \"\n\n\"Joyero minimalista con práctica división de compartimentos: fácil de imprimir y versátil. Si te gusta el diseño, ¡espero tu impulso! \"",
+ "use_cases": [],
+ "tags": [
+  "joyas",
+  "almacenamiento de joyas",
+  "organización",
+  "recipiente",
+  "joyero",
+  "organizador de joyas",
+  "funda",
+  "caja"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US274a4a33b2db87/design/2025-08-01_e5e0c65e20071.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   666,
+   1000
+  ],
+  "previews/02.jpg": [
+   666,
+   1000
+  ],
+  "previews/03.jpg": [
+   666,
+   1000
+  ],
+  "previews/04.jpg": [
+   666,
+   1000
+  ],
+  "previews/05.jpg": [
+   666,
+   1000
+  ],
+  "previews/profiles/1756824.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

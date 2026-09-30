@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/toallero-papel.3mf.xz",
+   "instance_id": "2948295",
+   "thumbnail": "previews/profiles/2948295.jpg",
+   "print_time_h": 8.7,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "P1P",
+    "A1",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1677076,
+   "sha256": "32012db36852abbe0d2c2a4a54c7659896055ba5acfade300232a8f7f887eba4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2664653",
+ "title": "Toallero de papel - Tema La Bella y la Bestia",
+ "slug": "paper-towel-holder-beauty-and-the-beast-theme",
+ "url": "https://makerworld.com/en/models/2664653-paper-towel-holder-beauty-and-the-beast-theme",
+ "author": "leothea3d",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "08/12/2026 - Nueva versión con Vestido Amarillo\n\nTransforma tu cocina en un espacio poético con este toallero de papel de diseño exclusivo, inspirado en las historias románticas más bellas.\nEsta delicada silueta, que representa a una joven contemplando una rosa, evoca un universo mágico donde cada detalle cuenta una historia. La rosa, símbolo de amor y misterio, añade un toque de encanto atemporal a tu interior.\nMucho más que un simple accesorio, este soporte se convierte en una auténtica pieza decorativa que llama la atención y realza tu espacio.\n\nUn objeto cotidiano revisitado\nDiseñado para combinar estética y practicidad, este soporte se adapta perfectamente a los rollos de toallas de papel estándar y añade una dimensión artística a su cocina.\nSu elegante diseño de silueta juega con la luz para crear magníficos contrastes, resaltando las delicadas líneas y la suavidad de la escena.\n\nSoporte de 3 piezas, las piezas deben pegarse entre sí.\n\nDiseñado para impresión 3D\nEste modelo ha sido optimizado para ofrecer una experiencia de impresión fluida y accesible:\n- Estructura robusta y estable\n- Montaje sencillo\n\nMateriales recomendados:\n- PLA para un acabado limpio y fácil\n- PETG para mayor resistencia\n\nPersonalización y acabado premium\nPara un efecto visual aún más llamativo:\n- Silueta en negro mate para un contraste elegante\n- Rosa en rojo intenso para captar la atención.\n- Compatible con AMS (multicolor), pero también se puede pintar",
+ "use_cases": [],
+ "tags": [
+  "soporte para toallas de papel",
+  "'cocina",
+  "'decoración",
+  "decoración del hogar",
+  "accesorio de cocina",
+  "rosa",
+  "romántico",
+  "silueta",
+  "tema de amor",
+  "idea de regalo",
+  "la bella y la bestia",
+  "beldad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US39ba734fbfbb8f/design/81c7219fe65efb7a.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1500
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1500
+  ],
+  "previews/profiles/2948295.jpg": [
+   600,
+   900
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

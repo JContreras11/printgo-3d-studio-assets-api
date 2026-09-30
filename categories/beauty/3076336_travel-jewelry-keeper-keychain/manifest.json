@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-guardian.3mf.xz",
+   "instance_id": "3464113",
+   "thumbnail": "previews/profiles/3464113.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2C",
+    "A2L",
+    "A1",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "OPTIMAL PRINT SETTINGS",
+    "profile_notes": "OPTIMAL PRINT SETTINGS",
+    "creation_date": "2026-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2395784,
+   "sha256": "9eea97edfc710060dfd5d50da8d3b6ad5870f3adf44fffad78a0c1359a9e6f86",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3076336",
+ "title": "Llavero guardián de joyas de viaje",
+ "slug": "travel-jewelry-keeper-keychain",
+ "url": "https://makerworld.com/en/models/3076336-travel-jewelry-keeper-keychain",
+ "author": "ShapeShifter_3D",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Nunca más pierdas tus piezas favoritas! Esta creación adorable e inteligente es más que un simple llavero: es su nuevo compañero de viaje imprescindible. El Petal-Perfect Travel Jewelry Keeper guarda discretamente sus anillos, aretes o colgantes pequeños, manteniéndolos seguros y organizados dondequiera que vaya.\nCaracterísticas clave (puntos fuertes)\nDiseño encantador: adornada con delicados motivos florales en relieve, esta pequeña caja aporta un toque de elegancia a tus accesorios.\nLlavero seguro: cuenta con un anillo de metal resistente, perfecto para sujetarlo a sus llaves, mochila o bolso, asegurando que sus joyas estén siempre a su alcance.\nCierre Twist-Lock: La tapa con rosca proporciona un sello seguro, para que pueda viajar con la tranquilidad de saber que sus objetos preciados están protegidos.\nRegalo perfecto: es un regalo maravilloso y atento para damas de honor, mejores amigas, madres o cualquier persona a la que le guste viajar con sus joyas.",
+ "use_cases": [],
+ "tags": [
+  "llavero",
+  "flor",
+  "mujer",
+  "accesorio de mujer",
+  "caja",
+  "a1",
+  "modelo de impresión 3d a1",
+  "a1 a1 mini"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3fde13192def4c/design/f1bc415eb579ba2c.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.gif"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   896,
+   1195
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.gif": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3464113.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

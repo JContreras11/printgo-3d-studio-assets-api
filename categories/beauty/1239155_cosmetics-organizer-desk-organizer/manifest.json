@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-cosmeticos.3mf.xz",
+   "instance_id": "1259328",
+   "thumbnail": "previews/profiles/1259328.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 62,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D",
+    "P1P",
+    "P1S",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.28mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21883,
+      "weight_g": 163.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFD9FF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 17654480,
+   "sha256": "ac680a55df3207d90408e480ac7c1428eecc61b50535fc02a9da93aa8511dcd3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1239155",
+ "title": "Organizador de cosméticos, Organizador de escritorio.",
+ "slug": "cosmetics-organizer-desk-organizer",
+ "url": "https://makerworld.com/en/models/1239155-cosmetics-organizer-desk-organizer",
+ "author": "wieniu",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Impulsame Si disfrutas mi trabajo, te agradecería mucho que mostraras tu apoyo haciendo clic en \"Impulsar\". ¡Gracias!\nOrganizador de útiles escolares, cosméticos.\n\nMembresíaÚnase a mi membresía comercial si desea vender impresiones 3D de mis modelos.\nVea más de mis proyectos haciendo clic en la foto a continuación:",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "útiles escolares",
+  "productos cosméticos",
+  "lápiz de color",
+  "bolígrafo",
+  "lápiz",
+  "goma",
+  "sacapuntas",
+  "gobernante",
+  "lápiz labial",
+  "constituir",
+  "cepillar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa25ae19344229b/design/2025-12-05_53b5343397f748.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   2222
+  ],
+  "previews/profiles/1259328.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

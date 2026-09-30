@@ -1,0 +1,88 @@
+{
+ "files": [
+  {
+   "path": "model/diosa-belleza.3mf.xz",
+   "instance_id": "2409470",
+   "thumbnail": "previews/profiles/2409470.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "H2S",
+    "P1S",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill 150mm",
+    "profile_notes": "Parts : 1 Colors : 1 Support : ON Brim : OFF Material : PLA silk",
+    "creation_date": "2026-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8292048,
+   "sha256": "037d51e20362c626274878cedb97f56e13110c6ea9f56fd1ff8e0201e220ab98",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2216094",
+ "title": "Diosa de la belleza Afrodita",
+ "slug": "goddess-of-beauty-aphrodite",
+ "url": "https://makerworld.com/en/models/2216094-goddess-of-beauty-aphrodite",
+ "author": "PiotrBanus",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Contenedor de decoración o joyería. Bastante fácil de imprimir, sólo hay que tener cuidado con los soportes.\n\nDesarrollado por MakerWorld-Image-to-3D (",
+ "use_cases": [],
+ "tags": [
+  "mitología",
+  "joyas",
+  "recipiente"
+ ],
+ "license": "BY",
+ "release_date": "2026-01-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2aaec0f27454ff/design/2026-01-08_28823597b5e9c8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   848
+  ],
+  "previews/02.jpg": [
+   514,
+   911
+  ],
+  "previews/profiles/2409470.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

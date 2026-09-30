@@ -1,0 +1,86 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-bano.3mf.xz",
+   "instance_id": "2009241",
+   "thumbnail": "previews/profiles/2009241.jpg",
+   "print_time_h": 23.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X1E",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "altezza layer 0.2 per una qualità migliore abbassarlo a 0.16 riempimento 15% 3 loop pareti stampato con filamento eSun pla+ nessun supporto richiesto",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4332608,
+   "sha256": "2e714bc926160bce6246abd7dff91e5c16d7177e24c2b45473fc2b3c7d96e571",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1876749",
+ "title": "Organizador de baño con soporte para lazos para el pelo.",
+ "slug": "bathroom-organizer-with-hair-tie-holder",
+ "url": "https://makerworld.com/en/models/1876749-bathroom-organizer-with-hair-tie-holder",
+ "author": "Michele6370",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "¿Necesitas un organizador para tu baño? Este proyecto puede ser para ti, un organizador de buen tamaño, con compartimentos de varias alturas que te permiten meter dentro todo lo que quieras, desde pequeños cosméticos hasta cepillos para el cabello, además, se ha incluido un compartimento para coleteros para que puedas tenerlos apilados y ordenados.\nBoost Me, si te gustó mi proyecto, apóyame con un impulso.",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "accesorio de baño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USca5dc7d8557b3f/design/2025-10-11_4f8af43bd1431.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   450,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1347
+  ],
+  "previews/profiles/2009241.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

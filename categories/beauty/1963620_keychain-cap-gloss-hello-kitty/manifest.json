@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-gorra.3mf.xz",
+   "instance_id": "2110932",
+   "thumbnail": "previews/profiles/2110932.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-11-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1314356,
+   "sha256": "ad06ac3bddc418eef1048148d1cd009e825081ff96928c680d6a7cf40dc6f59c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1963620",
+ "title": "Llavero Gorra brillo Hello Kitty",
+ "slug": "keychain-cap-gloss-hello-kitty",
+ "url": "https://makerworld.com/en/models/1963620-keychain-cap-gloss-hello-kitty",
+ "author": "bananacelo",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Esta tapa de llavero imprimible en 3D está diseñada para adaptarse a los contenedores Karmed y también puede adaptarse a otros tubos de brillo labial de tamaño similar.\nPerfecto para añadir estilo y practicidad a tu bolso, llaves o kit de maquillaje.\nImpreso en PLA, ofrece un ajuste perfecto, pero si prefieres una sujeción permanente, puedes usar una pequeña gota de pegamento.\nNo se incluyen derechos comerciales.\nSi te gusta este modelo, dale un impulso; realmente me ayuda a seguir creando nuevos diseños.",
+ "use_cases": [],
+ "tags": [
+  "karmado",
+  "viernes de verano",
+  "brillo de labios",
+  "titular de brillo",
+  "llavero tapa",
+  "llavero",
+  "accesorios",
+  "encanto del bolso",
+  "constituir",
+  "titular de cosméticos",
+  "accesorio de belleza pla charm"
+ ],
+ "license": "CC0",
+ "release_date": "2025-11-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc66adf12d9cbbb/design/2025-11-05_3c16e4a23d73c.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2110932.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

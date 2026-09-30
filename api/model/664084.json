@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/estante-maquillaje.3mf.xz",
+   "instance_id": "591408",
+   "thumbnail": "previews/profiles/591408.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill, one plate",
+    "profile_notes": "0.2mm layer height 8% infill i used hilbert curve as top finish to give it a nicer finish (change this to decrease print times) recommended Marble, White or Beige PLA (or any matte PLA)",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19885,
+      "weight_g": 150.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA una sola placa",
+   "size": 999120,
+   "sha256": "51e590fbfda3b1c7486338386b5a794e39081848a8c952c64b53a9b5f86ac526",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "664084",
+ "title": "Estante de maquillaje",
+ "slug": "makeup-shelf",
+ "url": "https://makerworld.com/en/models/664084-makeup-shelf",
+ "author": "GemoGens",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "¡Hola!\n\nMi hermana quería un estante para cosméticos con 2 capas, así que le diseñé este, ¡espero que a ti también te guste!\n\n¡La construcción es bastante sencilla y no requiere pegamento!\nColoque las \"varillas\" en los estantes y encaje la parte inferior de las varillas en los soportes y listo.\n\nConfiguración de impresión:\nboquilla de 0,4 mm\nAltura de capa de 0,2 mm\n8% de relleno\nUtilicé la curva de Hilbert como acabado superior para darle un acabado más agradable (cambie esto para disminuir los tiempos de impresión)\nRecomendado PLA Mármol, Blanco o Beige (o cualquier PLA mate)",
+ "use_cases": [],
+ "tags": [
+  "estante",
+  "constituir",
+  "productos cosméticos",
+  "porta cosméticos",
+  "porta maquillaje",
+  "estante de maquillaje",
+  "crema de maquillaje",
+  "crema",
+  "chica",
+  "habitación",
+  "dormitorio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-09-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US90ea5e93734b3a/design/2024-09-25_f89809a4e4c23.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/591408.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

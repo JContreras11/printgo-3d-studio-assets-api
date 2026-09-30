@@ -1,0 +1,112 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-manicura.3mf.xz",
+   "instance_id": "3036180",
+   "thumbnail": "previews/profiles/3036180.jpg",
+   "print_time_h": 1.2,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 54,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "• Altura de capa: 0.2 mm • 3 perímetros • 15–20% de relleno • Material: PLA o PETG (recomendado para mayor durabilidad)",
+    "creation_date": "2026-04-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 938044,
+   "sha256": "b6aa901a990d59df2dfad93c83044e9e7408f802048a8e19110b46f40bac7a1d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2738338",
+ "title": "Llavero de manicura Abridor de latas",
+ "slug": "manicure-keychain-can-tab-opener",
+ "url": "https://makerworld.com/en/models/2738338-manicure-keychain-can-tab-opener",
+ "author": "MundoForma",
+ "category": "beauty",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "Añade estilo y funcionalidad a tu vida diaria con este juego de llaveros abrelatas inspirados en el mundo del arte de las uñas.\nEste diseño no es sólo decorativo: cada llavero incorpora una ranura inferior especialmente diseñada para caber debajo de las pestañas de las latas. Simplemente inserte la ranura y levántela; podrá abrir fácilmente la lata sin dañarse las uñas.\n\nIdeal para:\nManicuristas y profesionales de las uñas.\nAmantes de la estética y la belleza.\nRegalos prácticos y originales\nUso diario como herramienta EDC.\n\nIncluye 4 diseños únicos:\nBolso\nesmalte de uñas\nrociar\ntacones altos\n\nCaracterísticas:\nDiseño compacto y ligero\nProtege las uñas al abrir latas.\nFuncional y decorativo\nPerfecto como llavero\n\nImportante:\nEste producto está diseñado para abrir latas de bebidas usando la ranura inferior.\nNo es un abridor de tapas.\nSi te gusta el diseño, ¡apóyalo con un me gusta y compártelo!\n\nLICENCIA COMERCIAL\n¿Quieres vender impresiones físicas de este modelo?\nLa licencia comercial NO está incluida en la suscripción gratuita de Patreon. Debe suscribirse al nivel \"Licencia comercial\":\n\nVentas ilimitadas de productos físicos.\nAcceso a todos mis diseños.\nNuevos modelos regularmente\nNo comparta, venda ni redistribuya archivos STL\nLa membresía gratuita no incluye derechos comerciales.\n¡Gracias por su apoyo!\nBoost MeSi te gusta este diseño, ¡tu apoyo me ayudaría mucho!",
+ "use_cases": [],
+ "tags": [
+  "abridor de pestañas",
+  "soda",
+  "llavero",
+  "abrelatas",
+  "manicura",
+  "clavos",
+  "belleza",
+  "salón",
+  "moda",
+  "impresión 3d",
+  "imprimir",
+  "portátil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5370276ece6476/design/687bcd3a43f94002.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   626,
+   502
+  ],
+  "previews/02.png": [
+   900,
+   720
+  ],
+  "previews/03.png": [
+   832,
+   624
+  ],
+  "previews/04.png": [
+   729,
+   547
+  ],
+  "previews/05.png": [
+   726,
+   544
+  ],
+  "previews/profiles/3036180.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

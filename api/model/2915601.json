@@ -1,0 +1,185 @@
+{
+ "files": [
+  {
+   "path": "model/almacenamiento-bano-7h54.3mf.xz",
+   "instance_id": "3261448",
+   "thumbnail": "previews/profiles/3261448.jpg",
+   "print_time_h": 7.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2C",
+    "H2D",
+    "P2S",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "椭圆-光滑表面",
+    "profile_notes": "0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2239472,
+   "sha256": "8880adb497b5db4cf9341e271dd341670e336abe92077eb68b624797e4692a04",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almacenamiento-bano-2h.3mf.xz",
+   "instance_id": "3261956",
+   "thumbnail": "previews/profiles/3261956.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "P2S",
+    "A2L",
+    "P1S",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1",
+    "H2D",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "托盘",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-06-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2094676,
+   "sha256": "efab1e2e62be1610c204569a4f1a304e320d83296348b7a6ca5833b7e5d664f5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almacenamiento-bano-6h30.3mf.xz",
+   "instance_id": "3282316",
+   "thumbnail": "previews/profiles/3282316.jpg",
+   "print_time_h": 6.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "P2S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "圆柱-光滑表面",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1986816,
+   "sha256": "865baf320d9cc04b3d472e4ec3fb7c0b2294dd78fbbba588f1ff1381f3c65683",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2915601",
+ "title": "Almacenamiento de baño elegante, 3 tamaños (Q_Craft)",
+ "slug": "stylish-bathroom-storage-3-sizes-q_craft",
+ "url": "https://makerworld.com/en/models/2915601-stylish-bathroom-storage-3-sizes-q_craft",
+ "author": "Q_Craft",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Esta caja de almacenamiento para baño integra un diseño minimalista con una estética práctica.\nLa apariencia de rayas verticales tridimensionales aporta delicadas capas de luces y sombras, presentando una sensación de lujo cálida pero sobria.\nSe utiliza para guardar artículos pequeños diarios, como peines y productos para el cuidado de la piel, manteniendo la encimera elegante, ordenada y organizada.\n\nDiseños de la misma serie:",
+ "use_cases": [],
+ "tags": [],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US589de25a36d3b6/design/13de6cb1f0e4a8b6.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3261448.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3261956.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3282316.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-secado.3mf.xz",
+   "instance_id": "989054",
+   "thumbnail": "previews/profiles/989054.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.12mm layer, 2 walls, 100% infill",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "100%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6141,
+      "weight_g": 24.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1095244,
+   "sha256": "4e332c7a2de5a0a5126cd61e7bc8e74bc9338f175755eecf08cbcae6648efaed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1009706",
+ "title": "Soporte de secado Beautyblender",
+ "slug": "beautyblender-drying-stand",
+ "url": "https://makerworld.com/en/models/1009706-beautyblender-drying-stand",
+ "author": "Hampej",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Soporte de secado Boost MeBeautyblender, hecho por mí con Tinkercad, ¡espero que os guste!\n\nSe adapta a 1-3 beautyblenders (depende del tamaño).\nDeja la licuadora suspendida del fondo, por lo tanto, la deja secar al aire y no atrapa agua en el interior, lo que puede provocar el crecimiento de moho.\n\nImpreso en PLA.\nAltura de capa de 0,12 mm.\n100% de relleno.\n\n4 recortes debajo para la almohadilla antiarañazos de IKEA para una sensación más premium:",
+ "use_cases": [],
+ "tags": [
+  "licuadora de belleza",
+  "soporte de secado para licuadora de belleza",
+  "soporte de secado de maquillaje",
+  "licuadora de belleza tork",
+  "constituir",
+  "soporte de maquillaje",
+  "secador de baño beautyblender",
+  "secador de belleza",
+  "limpiador de licuadora de belleza",
+  "licuadora de belleza antimoho",
+  "licuadora de belleza sin moho"
+ ],
+ "license": "BY",
+ "release_date": "2025-01-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa97e261623ce74/design/2025-01-18_16eeceb69f3.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/989054.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

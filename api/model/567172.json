@@ -1,0 +1,150 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-mariposa-18min.3mf.xz",
+   "instance_id": "486869",
+   "thumbnail": "previews/profiles/486869.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 145,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 901,
+      "weight_g": 1.36,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FA6B1C"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3876084,
+   "sha256": "eae3ebc898be5c18e52395db4efda0f0e09a6230e49d7de798292875c9308922",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-mariposa-1h06.3mf.xz",
+   "instance_id": "3684933",
+   "thumbnail": "previews/profiles/3684933.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2C",
+    "X1",
+    "A2L",
+    "A1",
+    "H2D",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "RESIZED 170%, 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6318944,
+   "sha256": "35664ada09a3afa73c37709e62f08c09aba5eea79dff64a679484b799c6fb316",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "567172",
+ "title": "Llavero Mariposa",
+ "slug": "butterfly-keychain",
+ "url": "https://makerworld.com/en/models/567172-butterfly-keychain",
+ "author": "nyuks85",
+ "category": "beauty",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "¡Agregue un toque de elegancia y belleza natural a sus llaves con este exquisito archivo 3MF de un llavero de mariposa! Este diseño elegante y detallado es perfecto para los entusiastas de la naturaleza y aquellos que aprecian los diseños delicados e intrincados. Ideal para impresión 3D, este archivo le permite crear un llavero de mariposa duradero y de alta calidad que agrega un encanto caprichoso a su uso diario.\nCaracterísticas:\nDiseño elegante: representación precisa de una mariposa con detalles intrincados.\nFormato 3MF: Optimizado para impresión 3D con excelente calidad de malla.\nUso versátil: perfecto como llavero, coleccionable o regalo para los amantes de la naturaleza.\nFácil de imprimir: Compatible con la mayoría de impresoras 3D disponibles en el mercado.\n¡Descarga tu archivo 3MF ahora y comienza a imprimir tu propio llavero de mariposa!\n\nBoost Me ha creado una gama de proyectos de alta calidad, desde modelos detallados hasta prototipos funcionales.\n\nSolicito un impulso gratuito para ampliar mi alcance y mostrar el potencial de la impresión 3D.",
+ "use_cases": [],
+ "tags": [
+  "llavero",
+  "accesorios llavero",
+  "accesorio llavero",
+  "accesorio llavero para mujer",
+  "efecto mosca de la mantequilla",
+  "mariposa",
+  "regalo",
+  "mujer"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb9c3edfaccb10e/design/2024-08-01_131b6b32b34f5.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/486869.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3684933.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

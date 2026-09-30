@@ -1,0 +1,154 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-vanity-6h18.3mf.xz",
+   "instance_id": "3742721",
+   "thumbnail": "previews/profiles/3742721.jpg",
+   "print_time_h": 6.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "22x8x90mm size",
+    "profile_notes": "22x8x90mm size",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2103536,
+   "sha256": "1fb586eb2acc1e2f5c636c2084d589de84e5acbff46c53a7e9b5fe8736a365a8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-vanity-6h42.3mf.xz",
+   "instance_id": "3742731",
+   "thumbnail": "previews/profiles/3742731.jpg",
+   "print_time_h": 6.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "25x90x90mm size",
+    "profile_notes": "25x90x90mm size",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2235712,
+   "sha256": "aba34823f4d68a73e929dbe9e7054a42101fd51f707e42587b3ab64ae9e09527",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3298045",
+ "title": "Organizador de Vanity Cove",
+ "slug": "vanity-cove-organizer",
+ "url": "https://makerworld.com/en/models/3298045-vanity-cove-organizer",
+ "author": "homee",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Organizador de Vanity Cove\nAporta un poco de elegancia a tu rutina diaria con Vanity Cove Organizer. Su silueta curva, sus finas estrías verticales y su estilo inspirado en el marfil lo convierten en una hermosa adición a cualquier tocador, estante de baño o tocador.\nLos compartimentos laterales altos mantienen las brochas y los lápices de maquillaje en posición vertical, mientras que la sección central dividida contiene cremas, frascos para el cuidado de la piel y artículos esenciales de uso diario. El frente más bajo hace que los artículos más pequeños sean fáciles de ver y alcanzar.\nDos tamaños disponibles\nTamañoAncho × Profundidad × AltoCompatibilidad de impresoraGrandeAprox. 252,5 × 90,2 × 90,2 mm Bambu Lab A1 y mayores Compacto Aprox. 219,3 × 78,3 × 90 mmBambu Lab A1 mini y mayoresAmbas versiones están colocadas a 45° en la placa de construcción. Sus huellas rotadas son de aproximadamente 205 × 205 mm y 178 × 178 mm, respectivamente. La versión compacta mantiene una altura de 90 mm para sujetar cómodamente cepillos más altos.",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "titular",
+  "almacenamiento",
+  "constituir",
+  "cepillar",
+  "piel",
+  "protección de la piel",
+  "cuidado",
+  "perfume",
+  "cosmético",
+  "productos cosméticos",
+  "accesorios"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1a818c2c4d6666/design/a0d355e631be51ab.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3742721.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3742731.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

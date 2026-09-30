@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/rosa-encantada.3mf.xz",
+   "instance_id": "1738179",
+   "thumbnail": "previews/profiles/1738179.jpg",
+   "print_time_h": 13.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill, manual supports",
+    "profile_notes": "Manual supports For 0.4 mm nozzles Classic wall generator Used to print the model shown in the photos with the H2D",
+    "creation_date": "2025-07-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8115652,
+   "sha256": "d78d363d365a3ed7fbd2a2078e81094ba5e16a6c06a7c22e7f8a4072bff93f2f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1644678",
+ "title": "Rosa encantada - Flor suspendida en una cúpula de cristal",
+ "slug": "enchanted-rose-suspended-flower-in-a-glass-dome",
+ "url": "https://makerworld.com/en/models/1644678-enchanted-rose-suspended-flower-in-a-glass-dome",
+ "author": "3dprintdogs",
+ "category": "beauty",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Una rosa suspendida inspirada en la icónica rosa encantada en una cúpula de cristal de La Bella y la Bestia. La rosa y uno de sus pétalos parecen flotar en el aire, delicadamente sostenidos por puentes que crean la ilusión de levitación.\n\nEl efecto aumenta cuando se mira la rosa desde lejos, donde los puentes son más difíciles de ver.\n\nConfiguración de impresión:\nEl archivo 3MF se suministra con la configuración de impresión recomendada para el H2D.\nTambién debería funcionar bien en el X1C. Es posible que sea necesario cambiar el tamaño para impresoras más pequeñas como A1/A1 mini.\nSi bien la mayoría de la gente sugiere imprimir arte en suspensión usando el generador de pared Arachne, este modelo se imprime muy bien usando el generador de pared clásico. (No he probado a Aracne).\nFilamento sugerido:\nLa cúpula de vidrio y los puentes deben imprimirse con un PLA transparente/translúcido.\npor ejemplo, Geeetech Clear PLA (como asociados de Amazon, ganamos con compras que califican).",
+ "use_cases": [],
+ "tags": [
+  "rosa encantada",
+  "rosa",
+  "flor",
+  "la bella y la bestia",
+  "enamorado",
+  "día de san valentín",
+  "san valentin",
+  "amar",
+  "romance",
+  "disney",
+  "vaso",
+  "cúpula"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US179ede16c217f3/design/2025-07-27_3c77142bcc439.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   800,
+   1139
+  ],
+  "previews/02.gif": [
+   800,
+   601
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   1328
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/1738179.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

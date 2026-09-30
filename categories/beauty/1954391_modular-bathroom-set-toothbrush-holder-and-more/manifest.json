@@ -1,0 +1,400 @@
+{
+ "files": [
+  {
+   "path": "model/set-bano-5h42.3mf.xz",
+   "instance_id": "2100332",
+   "thumbnail": "previews/profiles/2100332.jpg",
+   "print_time_h": 5.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A2L",
+    "X2D",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Toothbrush and toothpaste organizer",
+    "creation_date": "2025-11-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1077332,
+   "sha256": "94f6dcfd5200f042f73bd70f748078fb6290ebd854adb60c6eaea1b0f626ea47",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-bano-1h18.3mf.xz",
+   "instance_id": "2100361",
+   "thumbnail": "previews/profiles/2100361.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "A2L",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "20mm tall container",
+    "creation_date": "2025-11-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1098296,
+   "sha256": "d02b5e994583b374f39352679c7cf98db92e48f124f71a4fdbf6eb6f6dbea478",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-bano-2h12.3mf.xz",
+   "instance_id": "2565499",
+   "thumbnail": "previews/profiles/2565499.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "A2L",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "3 slots inline base - 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1423132,
+   "sha256": "d9caab3ebc2164e0fd1799944e2667060ced324e447bad083c7cb1fd23da9fdc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-bano-3h36.3mf.xz",
+   "instance_id": "2135055",
+   "thumbnail": "previews/profiles/2135055.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Bases",
+    "creation_date": "2025-11-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1567996,
+   "sha256": "15c435a1032887c76735bcf9570962761f5ceb418f942378cab56a69546e1136",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-bano-4h12.3mf.xz",
+   "instance_id": "2100355",
+   "thumbnail": "previews/profiles/2100355.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "80mm tall container",
+    "creation_date": "2025-11-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1069572,
+   "sha256": "1a9504d4893d7dcc95c3d47509f9222d50e22ef40b59ff851fe5f677ca8dda0d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-bano-4h18.3mf.xz",
+   "instance_id": "2100353",
+   "thumbnail": "previews/profiles/2100353.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "H2S",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "H2D",
+    "P1S",
+    "X1E",
+    "P2S",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Cotton pad and cotton swab (75mm) organizer",
+    "creation_date": "2025-11-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1012332,
+   "sha256": "c3d8704017711bb63dcb6863a96009fc9adf7a2d13c86b3878205f951287dbf6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-bano-54min.3mf.xz",
+   "instance_id": "2100338",
+   "thumbnail": "previews/profiles/2100338.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X2D",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "H2C",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Lid",
+    "creation_date": "2025-11-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1065520,
+   "sha256": "ada47e05ec5b5a0b480b016cb231fe298603df00908e0b516bf9677d498eb428",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1954391",
+ "title": "Set de baño modular: porta cepillos de dientes y más",
+ "slug": "modular-bathroom-set-toothbrush-holder-and-more",
+ "url": "https://makerworld.com/en/models/1954391-modular-bathroom-set-toothbrush-holder-and-more",
+ "author": "dagmenico",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Membresía¿Te encantan mis diseños? Apoya futuras creaciones con una suscripción de Supporter o desbloquea derechos comerciales para vender impresiones físicas de mis modelos. ¡Trae orden y estilo a la encimera de tu baño!\nEste juego modular combina elegancia y practicidad, permitiéndole organizar sus cepillos de dientes, almohadillas y bastoncillos de algodón y más, todo en un solo diseño cohesivo.\n\nCaracterísticas\n\nDos opciones de base: elija entre una configuración de 2 o 3 ranuras para adaptarse perfectamente a su espacio.\nSoporte para cepillos de dientes y pasta de dientes con divisor: mantiene sus elementos esenciales diarios en posición vertical y seca.\nDispensador de almohadillas y bastoncillos de algodón con tapa: incluye un compartimento oculto para bastoncillos de algodón y una altura ajustable para que puedas adaptarlo a tu marca favorita. Puedes personalizarlo configurando la altura según tu marca de bastoncillos de algodón preferida para un ajuste perfecto.\nContenedor multiusos personalizable – Viene en dos versiones: uno bajo para anillos o joyas y otro más alto para hisopos de algodón u otros accesorios. Si necesita otro tamaño, ¡puede personalizar su contenedor para que se ajuste a sus necesidades! ¡Incluso puedes agregar una tapa para una apariencia más limpia!\nTotalmente paramétrico: ajuste la dimensión para que se ajuste perfectamente a sus necesidades.\nDiseñado para complementar la estética del baño moderno, este juego agrega funcionalidad y sofisticación a su rutina diaria.\n\nBoost MeSi te gustó este modelo, considera dejar un BOOST. Es GRATIS para ti y me ayuda a seguir publicando modelos.",
+ "use_cases": [],
+ "tags": [
+  "diente",
+  "accesorios de decoración",
+  "decoración",
+  "taza",
+  "titular",
+  "moderno",
+  "accesorio para el hogar",
+  "acento casero",
+  "acentos caseros",
+  "diseño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US817ffc152b09bd/design/2025-10-17_ac807eb3c9de2.jpeg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   768,
+   1024
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   768,
+   1024
+  ],
+  "previews/07.png": [
+   768,
+   1024
+  ],
+  "previews/profiles/2100332.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2100361.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2565499.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2135055.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2100355.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2100353.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2100338.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

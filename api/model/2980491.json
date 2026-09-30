@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/bloomshelf-organizador.3mf.xz",
+   "instance_id": "3343868",
+   "thumbnail": "previews/profiles/3343868.jpg",
+   "print_time_h": 15.2,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P2S",
+    "A1",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D",
+    "A2L",
+    "X2D",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 3 walls, 20% infill",
+    "profile_notes": "0.2mm layer, 3 walls, 20% infill",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 11415524,
+   "sha256": "ab79815146319811287d8fcd122ae93387ef1221e0716efe57afc6cea6ff3856",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2980491",
+ "title": "BloomShelf – Organizador de cosméticos giratorio",
+ "slug": "bloomshelf-rotating-cosmetic-organizer",
+ "url": "https://makerworld.com/en/models/2980491-bloomshelf-rotating-cosmetic-organizer",
+ "author": "SSSR_SH",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "BloomShelf – Organizador de cosméticos giratorio\n\nBloomShelf es un organizador de cosméticos giratorio diseñado para mantener su tocador limpio, organizado y de fácil acceso. Sus estantes escalonados brindan una vista clara de sus cosméticos, lo que le permite encontrar lo que necesita de un vistazo.\n\nEl organizador cuenta con cuatro estantes con diferentes profundidades, lo que lo hace adecuado para una amplia variedad de artículos, incluidos lápices labiales, esmaltes de uñas, perfumes, frascos para el cuidado de la piel y accesorios de maquillaje. Un colgador lateral integrado proporciona un almacenamiento conveniente para cintas para el cabello, cintas para la cabeza, pinzas para el cabello, pulseras y otros accesorios cotidianos.\n\nDimensiones\nDiámetro de la base: 180 mm\nAltura total: 195 mm\nAlturas de estante: 24 / 28 / 28 / 38 mm\nAncho del estante: 124 mm\n\nRodamiento\nLa base giratoria utiliza un rodamiento de bolas de empuje estándar (51106), que es económico y está ampliamente disponible.\nEspecificaciones de rodamientos\nModelo: 51106\nDiámetro (d): 30 mm\nDiámetro exterior (D): 47 mm\nAltura (Al): 11 mm\n\nSi este rodamiento es difícil de obtener en su área, puede descargar mi rodamiento de rodillos de empuje imprimible de uno de mis diseños anteriores de MakerWorld. Es un reemplazo directo y funciona perfectamente con este organizador.\n\nEspero que BloomShelf te ayude a que tu rutina diaria sea un poco más organizada y agradable. Si imprimes uno, ¡me encantaría ver tu marca!",
+ "use_cases": [],
+ "tags": [
+  "cosmético",
+  "organizador",
+  "constituir",
+  "belleza",
+  "vanidad",
+  "de oficina",
+  "lápiz labial",
+  "perfume",
+  "brocha de maquillaje",
+  "esmalte de uñas",
+  "cabello",
+  "accesorio"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-06-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1f80783ae096e/design/4348608118ecc251.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   800,
+   450
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/06.jpg": [
+   1000,
+   562
+  ],
+  "previews/07.jpg": [
+   1000,
+   562
+  ],
+  "previews/08.jpg": [
+   1000,
+   562
+  ],
+  "previews/09.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/3343868.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

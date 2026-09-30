@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/belle-guardian.3mf.xz",
+   "instance_id": "2399205",
+   "thumbnail": "previews/profiles/2399205.jpg",
+   "print_time_h": 5.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "P2S",
+    "A1",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 15519028,
+   "sha256": "4f46806b0f06780b51357667e0dfde8aa412d14a91ab218048b0f8babd359caa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2207391",
+ "title": "Belle guardián del tesoro la bella y la bestia escaneo 3d",
+ "slug": "belle-treasure-keeper-beauty-and-the-beast-3d-scan",
+ "url": "https://makerworld.com/en/models/2207391-belle-treasure-keeper-beauty-and-the-beast-3d-scan",
+ "author": "Engraved3d",
+ "category": "beauty",
+ "source_category": "Arte > Esculturas",
+ "description": "Un modelo escaneado en 3D de la bella guardiana del tesoro.",
+ "use_cases": [],
+ "tags": [
+  "tradiciones",
+  "disney",
+  "escanear",
+  "3d",
+  "modelo",
+  "beldad",
+  "la bella y la bestia"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe605d25367abfc/design/2026-01-06_42d85076076bc.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2399205.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

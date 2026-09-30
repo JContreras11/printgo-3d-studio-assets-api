@@ -1,0 +1,88 @@
+{
+ "files": [
+  {
+   "path": "model/barra-brillante.3mf.xz",
+   "instance_id": "3109210",
+   "thumbnail": "previews/profiles/3109210.jpg",
+   "print_time_h": 6.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "2.5%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Glossy Bar "
+   },
+   "name": "Versión estándar",
+   "size": 6088060,
+   "sha256": "5652300f649335f70892ff23aab2958cbe355e6bec6a79fe7d34ca2becc94b27",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2795544",
+ "title": "Barra brillante personalizable con soporte para bombas jugosas",
+ "slug": "juicy-bomb-holder-customizable-glossy-bar",
+ "url": "https://makerworld.com/en/models/2795544-juicy-bomb-holder-customizable-glossy-bar",
+ "author": "user_838664196",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Boost MeBoost mi modelo para que pueda diseñar aún más.\n\nFinalmente ordene su colección de brillos labiales.\nEste soporte fue desarrollado especialmente para el brillo de labios Juicy Bomb Shiny de esencia. Los tubos se colocan en posición vertical en dos filas escalonadas, para que puedas ver cada color de un vistazo y agarrarlo rápidamente.\nCaracterísticas:\n12 ranuras de ajuste preciso para tubos Juicy Bomb (2 filas de 6)\n4 ranuras laterales adicionales para otros formatos de brillo de labios\nPlaca con nombre personalizable en el frente\nDiseño escalonado para una visibilidad óptima\nEstable gracias a su amplia base\nDisponible en verde pastel, rosa y azul claro (o el color que desees)\nImprimir información:\nsin soportes\nAltura de capa recomendada: 0,2 mm\nRelleno: 15%\nMaterial: PLA recomendado\n¡Simplemente ingrese su nombre en Bambu Lab Slicer como desee!\n\nPerfecto como regalo para niñas, adolescentes, fanáticos de la belleza o para el Día de la Madre, cumpleaños o Navidad.\nNota: Los brillos de labios no están incluidos. El soporte está optimizado para esencia Juicy Bomb Shiny Lipgloss",
+ "use_cases": [],
+ "tags": [
+  "brillo de labios",
+  "titular",
+  "organizador",
+  "esencia",
+  "bomba jugosa",
+  "constituir",
+  "belleza",
+  "personalizado",
+  "nombre personalizado",
+  "soporte de brillo de labios",
+  "vanidad",
+  "productos cosméticos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9b5e4e588200b6/design/5a1077f58aadd76a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   942,
+   942
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3109210.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

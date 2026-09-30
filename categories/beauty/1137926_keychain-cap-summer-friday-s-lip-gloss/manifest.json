@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/gorra-llavero.3mf.xz",
+   "instance_id": "1139669",
+   "thumbnail": "previews/profiles/1139669.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 42,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": ".0.08mm layer, 2 walls, 15% infill Printed with Matte White Bambu PLA filament No supports needed",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2965,
+      "weight_g": 2.88,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1080064,
+   "sha256": "a46ceb1b779780753b38a86f9b22f8a9ad961d22051faac5fbbc6cae21b45fe9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1137926",
+ "title": "Gorra de llavero - Brillo de labios Summer Friday's",
+ "slug": "keychain-cap-summer-friday-s-lip-gloss",
+ "url": "https://makerworld.com/en/models/1137926-keychain-cap-summer-friday-s-lip-gloss",
+ "author": "Hawkpun",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Esta es una funda de ajuste a presión para colocar sobre la gorra existente de Summer Friday, agregando una funcionalidad de llavero para que pueda guardarse en un llavero.",
+ "use_cases": [],
+ "tags": [
+  "belleza",
+  "accesorios de belleza",
+  "accesorios de maquillaje",
+  "constituir"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-02-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf0bf4d67f270ed/design/2025-02-22_20df3c090b3138.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1139669.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

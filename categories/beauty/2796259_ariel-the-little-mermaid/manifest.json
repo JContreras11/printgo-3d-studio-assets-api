@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/ariel-sirenita.3mf.xz",
+   "instance_id": "3110093",
+   "thumbnail": "previews/profiles/3110093.jpg",
+   "print_time_h": 6.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "P1P",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "MONOCROMO 0.2mm layer, 3 walls, 8% infill",
+    "creation_date": "2026-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 4293528,
+   "sha256": "8e2c2ab2a4cf1f0ae5715cd5c05b42ce727714a7ccf5ca0624f5b4f46cb5c12e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2796259",
+ "title": "ARIEL, LA SIRENITA",
+ "slug": "ariel-the-little-mermaid",
+ "url": "https://makerworld.com/en/models/2796259-ariel-the-little-mermaid",
+ "author": "LORENNA",
+ "category": "beauty",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "ARIEL\nEscultura vibrante: inspirada en la magia del mar, la libertad y los mundos bajo las olas.\nEsta figura capta a una joven sirena en su más pura esencia: curiosa, soñadora y llena de vida. Sentada sobre un colorido arrecife, sostiene una concha que parece guardar secretos de las profundidades del océano. Su cabello rojo fluye con naturalidad, su cola escamosa brilla con tonos iridiscentes y su expresión transmite esa mezcla perfecta de inocencia y valentía que define a los espíritus libres del mar.\nLa base, formada por corales, plantas marinas y un pequeño compañero acuático, crea un escenario cálido, alegre y animado. Cada detalle —desde las texturas del arrecife hasta los matices de la cola— está esculpido para ofrecer una pieza que respira fantasía y encanto.\nCaracterísticas del modelo\nEscultura muy detallada, con cabello dinámico, escamas definidas y una pose elegante.\nConcha simbólica, añadiendo un toque narrativo y mágico.\nBase de coral, con plantas, rocas y animados elementos marinos.\nCompañero acuático, aportando ternura y personalidad a la escena.\nPresencia vibrante, ideal para vitrinas, colecciones temáticas y dioramas oceánicos.\nModelo sólido de una sola pieza, perfecto para impresiones limpias y sin montaje.\nOptimizado para impresión 3D\nGeometría limpia y profesional, sin errores de malla.\nCompatible con FDM y resina, conservando todos los detalles.\nSoportes mínimos, gracias a su diseño equilibrado.\nEscala adaptable, manteniendo siempre la armonía visual.\nIdeal para pintar\nCola perfecta para degradados verdes, turquesas y efectos nacarados.\nCabello ideal para tonos intensos y mechas cálidas.\nCorales y plantas que permiten jugar con colores vibrantes y contrastes.\nConcha y base que soportan efectos naturales, satinados o luminosos.\nPerfecto para\nFanáticos de la fantasía marina y de los personajes icónicos.\nColeccionistas de figuras coloridas, mágicas y detalladas.\nDioramas oceánicos, arrecifes o escenas de cuentos de hadas.\nRegalos para los amantes del mar, la magia y la artesanía.\nCreadores que buscan un proyecto alegre, expresivo y vivo.",
+ "use_cases": [],
+ "tags": [
+  "princesa",
+  "príncipes",
+  "disney",
+  "ariel",
+  "sirena",
+  "sirenita",
+  "cifra",
+  "miniatura",
+  "estatua",
+  "diorama",
+  "personaje",
+  "belleza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US880bf5d19d84e2/design/0653b6250b315c78.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   964,
+   1280
+  ],
+  "previews/profiles/3110093.jpg": [
+   600,
+   796
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

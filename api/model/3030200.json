@@ -1,0 +1,211 @@
+{
+ "files": [
+  {
+   "path": "model/lunara-reina-17h42.3mf.xz",
+   "instance_id": "3405557",
+   "thumbnail": "previews/profiles/3405557.jpg",
+   "print_time_h": 17.7,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2S",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Print Settings Layer Height: 0.20 mm Wall Loops: 3 Top Surface Layers: 5 Bottom Surface Layers: 4 Infill: 5% Infill Pattern: Gyroid Supports: Tree (Auto) Support Style: Default Threshold Angle: 40° Support on Build Plate Only: Off Support Critical Regions Only: Off Brim: Auto Seam: Back Ironing: Off Material PLA Nozzle: 220°C Bed: 55°C Speed Outer Wall: 60 mm/s Inner Wall: 120 mm/s Sparse Infill: 180 mm/s Travel: 300 mm/s ✅ Sparse Infill Density: 5% ✅ Pattern: Gyroid ✅ Tree Support (Auto) ✅ Threshold Angle: 40° Recommended Print Settings: Layer Height: 0.20 mm • PLA • 5% Gyroid Infill • Tree Supports (Auto, 40°) • 3 Walls • Prints cleanly without any special tuning.",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 26217924,
+   "sha256": "eb9722d53736b49de655783341166b3337f42d170181cfbef99b2be2f19be5fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lunara-reina-17h48.3mf.xz",
+   "instance_id": "3519699",
+   "thumbnail": "previews/profiles/3519699.jpg",
+   "print_time_h": 17.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Base optimized UP",
+    "profile_notes": "Update: The base has been refined for a cleaner and more realistic result.",
+    "creation_date": "2026-08-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 23473040,
+   "sha256": "4fb56472cc78dfcfdb55b3db2e6fbd7bc9efb904e8978198e8d2db633482b1a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lunara-reina-5h48.3mf.xz",
+   "instance_id": "3405582",
+   "thumbnail": "previews/profiles/3405582.jpg",
+   "print_time_h": 5.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Print Settings Layer Height: 0.20 mm Wall Loops: 3 Top Surface Layers: 5 Bottom Surface Layers: 4 Infill: 5% Infill Pattern: Gyroid Supports: Tree (Auto) Support Style: Default Threshold Angle: 40° Support on Build Plate Only: Off Support Critical Regions Only: Off",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 25674800,
+   "sha256": "65ea85efc0c0fc5ee51d9b99c370cd03acad164a3055d1f0a0ce413719fbaf45",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3030200",
+ "title": "LUNARA REINA DEL Anochecer",
+ "slug": "lunara-queen-of-nightfall",
+ "url": "https://makerworld.com/en/models/3030200-lunara-queen-of-nightfall",
+ "author": "AlexS.XoZ",
+ "category": "beauty",
+ "source_category": "Arte > Esculturas",
+ "description": "LUNARA\nREINA DEL Anochecer\nGrácil, misteriosa y atemporal, Lunara vigila la noche silenciosa desde su trono de luna creciente. Su elegante silueta gótica combina oscuridad con serenidad, creando una pieza central cautivadora que aporta fantasía y belleza iluminada por la luna a cualquier espacio. Diseñada para una impresión FDM sin esfuerzo, esta pieza de exhibición única es perfecta para coleccionistas, amantes de la decoración gótica y cualquier persona encantada por la magia de la noche.\nBoost MeLleva la magia de la noche a tu hogar con LUNARA – Queen of Nightfall. Una elegante reina gótica descansando sobre una luna creciente detallada, diseñada para crear una exhibición elegante y misteriosa. Optimizada para impresión FDM con detalles limpios y una presencia impresionante, Lunara es perfecta para coleccionistas de fantasía, entusiastas de la decoración gótica y cualquiera que busque una pieza central única. Un diseño atemporal que captura la belleza, el silencio y el misterio de la noche de luna.",
+ "use_cases": [],
+ "tags": [
+  "luna",
+  "belleza",
+  "chica",
+  "estatua",
+  "3d",
+  "imprimir",
+  "la luna",
+  "negro",
+  "blanco",
+  "mdf",
+  "mostrar",
+  "arte 3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaef799ac61777b/design/aae4489a22bc7a4d.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   495,
+   671
+  ],
+  "previews/04.png": [
+   483,
+   712
+  ],
+  "previews/05.png": [
+   1000,
+   1333
+  ],
+  "previews/06.png": [
+   446,
+   559
+  ],
+  "previews/profiles/3405557.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3519699.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3405582.jpg": [
+   395,
+   608
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

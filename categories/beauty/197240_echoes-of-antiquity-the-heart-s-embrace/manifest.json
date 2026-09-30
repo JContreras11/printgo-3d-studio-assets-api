@@ -1,0 +1,460 @@
+{
+ "files": [
+  {
+   "path": "model/ecos-antiguedad-8h54.3mf.xz",
+   "instance_id": "217783",
+   "thumbnail": "previews/profiles/217783.jpg",
+   "print_time_h": 8.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 145,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Optimized Arachne enabled intersect strings",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32023,
+      "weight_g": 160.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF6262"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 4389984,
+   "sha256": "89d8205f4109d8f54d9e610aeba2f954bf96114247e4758099407eab8f722589",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ecos-antiguedad-1h.3mf.xz",
+   "instance_id": "217804",
+   "thumbnail": "previews/profiles/217804.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 83,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "base",
+    "creation_date": "2024-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3591,
+      "weight_g": 17.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#010101"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 630704,
+   "sha256": "a4319a03b921e20cb90aedb07066288419102274832a9a437f12551374b5ed9b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ecos-antiguedad-42min.3mf.xz",
+   "instance_id": "245562",
+   "thumbnail": "previews/profiles/245562.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "Thicker cylinder base",
+    "profile_notes": "TL;DR: I added a thicker cylinder. Since the model hole has a diameter of 21.2mm and the base cylinder is 19.2mm, I modified the cylinder to be 21mm in diameter so it fits better for me. It may be useful for anyone else. I didn't want to modify it too much to avoid any possible tolerance problems, but you can adjust the cylinder diameter in the Objects tab. Additional values: - 0.2mm layer - 3 walls - 15% gyroid infill - No support, no brim",
+    "creation_date": "2024-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2423,
+      "weight_g": 19.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 712960,
+   "sha256": "1a0edc826a85b6e2de05d83fa547ed3928b94ca9f0b9becbd9e9669e01c764ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ecos-antiguedad-5h24.3mf.xz",
+   "instance_id": "229411",
+   "thumbnail": "previews/profiles/229411.jpg",
+   "print_time_h": 5.4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "Separated the heart and made it able to attach to the base",
+    "profile_notes": "Separated the heart for faster printing and to exchange the heart to different colors. Supports adjusted for the base and heart. Printed on a X1C but should work fine on all the other printers. The heart needs a bit force to slide into the base the first time but will work smooth afterwards.",
+    "creation_date": "2024-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13506,
+      "weight_g": 113.21,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2490,
+      "weight_g": 9.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3386,
+      "weight_g": 15.47,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA",
+   "size": 4207620,
+   "sha256": "d1914f2f03d75201cefb2444aef4daafc8bf777713b4cef31b7061f5a7f8c3cd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ecos-antiguedad-8h48.3mf.xz",
+   "instance_id": "227835",
+   "thumbnail": "previews/profiles/227835.jpg",
+   "print_time_h": 8.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 47,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Divided objects & color bleeding tweaked profile",
+    "profile_notes": "This profile's default flushing volumes is set to 0.6 to play safe with color bleeding . It takes a few more minutes and filament, but it's worth it. Thicker cylinder base profile to have a stabler fit. Reminder: These delicate multicolor pieces tend to have some bleeding if the color purge is not tweaked. Remember to make some purge settings tests before printing. After you match/select your AMS colors, go to Flushing Volumes and re-calculate/update the volumes based on your tests, then slice it and print. Tip: Try to avoid flush into objects' infill option on prints with low infill like this one (7% by default) if you use lighter colors. Or at least add some extra wall to the body, just in case. Creators' values remain as set: · 0.2mm layer · 2 walls · 7% infill · Arachne enabled Modified: · On the Objects tab, you have the different model parts divided so you can change the heart , strings and body settings, colors, etc. as you wish. · I've set a default flushing volumes multiplier of 0.6 to play safe with color bleeding. · Created for X1C but should work with others. · Please follow the notes from the original creator: Print it only with suggested settings, arachne enabled, don't scale the model, be sure to find the best speed for your bridging settings! (I included the profile I used but in my print, I use fewer color waste adjustments)",
+    "creation_date": "2025-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 31520,
+      "weight_g": 176.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 4788736,
+   "sha256": "91cebfcc72c11ac8b43b58c0cd734cb4724e94d77c7abb3f46050c5bc45f1a29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ecos-antiguedad-monocolor-4h30.3mf.xz",
+   "instance_id": "217806",
+   "thumbnail": "previews/profiles/217806.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "Monocolor, arachne enabled",
+    "creation_date": "2024-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16174,
+      "weight_g": 122.15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#010101"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Monocromo impresión en PLA",
+   "size": 4328428,
+   "sha256": "f525326b2f3ad949587784a9f82e657f98627fe9957b84395fae508abb05afe5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "197240",
+ "title": "Ecos de la antigüedad: el abrazo del corazón",
+ "slug": "echoes-of-antiquity-the-heart-s-embrace",
+ "url": "https://makerworld.com/en/models/197240-echoes-of-antiquity-the-heart-s-embrace",
+ "author": "Collecticraft",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Ecos de la antigüedad: el abrazo del corazón\nIngrese a un reino donde la elegancia clásica se encuentra con el simbolismo moderno con nuestra última creación, 'Echoes of Antiquity: The Heart's Embrace'. Esta obra maestra reinventa la tradición de la escultura griega clásica con un toque contemporáneo.\nCaracterísticas clave:\nInspiración clásica: Diseño en homenaje a la belleza eterna de la escultura, esta pieza encarna la gracia y la sofisticación del arte antiguo.\nSimbolismo moderno: dentro del corazón de la escultura se encuentra un corazón anatómico humano, suspendido en el aire, que simboliza la intersección de la tradición antigua con temas contemporáneos de amor y emoción.\nImágenes fascinantes: la yuxtaposición del torso clásico y el corazón flotante crea un espectáculo visual cautivador que invita a la contemplación y la reflexión.\nSimbolismo evocador: 'Echoes of Antiquity: The Heart's Embrace' sirve como un poderoso símbolo de amor, pasión y espíritu humano perdurable, inspirando a los espectadores a profundizar en las complejidades de la experiencia humana.\nLicencia comercial: los usuarios obtienen acceso exclusivo a una licencia comercial, lo que les permite llevar 'Echoes of Antiquity: The Heart's Embrace' a sus espacios. Únase a nosotros en Patreon para desbloquear esta fascinante escultura y agregar un toque de elegancia atemporal a su colección.\n\nNOTA: Imprima solo con la configuración sugerida, arachne habilitado, no escale el modelo, ¡asegúrese de encontrar la mejor velocidad para su configuración de puente!",
+ "use_cases": [],
+ "tags": [
+  "torso",
+  "escultura",
+  "moderno",
+  "arte",
+  "espacio",
+  "mínimo",
+  "meditación",
+  "diseño",
+  "estallido",
+  "cultura",
+  "romano",
+  "griego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-02-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US44b5ea398d1b15/design/2024-02-21_1e0328074b54e.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.gif"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.gif": [
+   800,
+   600
+  ],
+  "previews/profiles/217783.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/217804.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/245562.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/229411.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/227835.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/217806.jpg": [
+   512,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

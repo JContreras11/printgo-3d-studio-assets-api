@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/dispensador-soporte.3mf.xz",
+   "instance_id": "1873756",
+   "thumbnail": "previews/profiles/1873756.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 34,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2S",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 457696,
+   "sha256": "19a4a279b95ecc02a823d290622d71d9e883c7eb56fde43dcf329cc79fb390ef",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1761310",
+ "title": "Dispensador/soporte de toallitas de gel para uñas",
+ "slug": "nail-gel-wipes-dispenser-holder",
+ "url": "https://makerworld.com/en/models/1761310-nail-gel-wipes-dispenser-holder",
+ "author": "joedawson",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Un soporte para toallitas/almohadillas de gel para uñas pequeñas (~52x52 mm) sin pelusa, manteniéndolas organizadas y fáciles de agarrar durante manicuras, pedicuras, etc.",
+ "use_cases": [],
+ "tags": [
+  "gel de uñas",
+  "clavo",
+  "gel",
+  "almacenamiento",
+  "dispensador",
+  "titular",
+  "limpiar",
+  "almohadilla",
+  "organización",
+  "belleza",
+  "accesorios de uñas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US12a40a695d397b/design/2025-09-03_b2e2fda36e446.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   800,
+   600
+  ],
+  "previews/02.png": [
+   800,
+   600
+  ],
+  "previews/03.png": [
+   800,
+   600
+  ],
+  "previews/profiles/1873756.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

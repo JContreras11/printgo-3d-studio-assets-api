@@ -1,0 +1,271 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-belleza-3h30.3mf.xz",
+   "instance_id": "3555857",
+   "thumbnail": "previews/profiles/3555857.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "A2L",
+    "A1",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "PLA Basic — Dimension S — 10 cm Height — Recommended",
+    "profile_notes": "Material: PLA Basic Layer Height: 0.20 mm Standard Walls: 2 Infill: 8% Gyroid Supports: Easy to Remove Recommended Size: The 10 cm S version is the most recommended option for most standard makeup brushes , offering a compact size while providing enough height for everyday use. Filament Options: The profile is optimized for PLA Basic , but Silk, Galaxy, Marble and other effect PLA filaments can also be used for different visual finishes.",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22257864,
+   "sha256": "4bfde7b83fac77b7e25fd4c9b2201f2703b843d13de9cc10d0204be06ba8f977",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-belleza-4h30.3mf.xz",
+   "instance_id": "3555894",
+   "thumbnail": "previews/profiles/3555894.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "A1",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "PLA Basic — Dimension M — 12 cm Height",
+    "profile_notes": "Material: PLA Basic Layer Height: 0.20 mm Standard Walls: 2 Infill: 8% Gyroid Supports: Easy to Remove Filament Options: The profile is optimized for PLA Basic , but Silk, Galaxy, Marble and other effect PLA filaments can also be used for different visual finishes.",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22222860,
+   "sha256": "4ce6f5cbd9b4d10c129f00577aa389bae17d4de2347531c795f7f2c2c135b69a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-belleza-6h18.3mf.xz",
+   "instance_id": "3555896",
+   "thumbnail": "previews/profiles/3555896.jpg",
+   "print_time_h": 6.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Dimension L — 14 cm Height",
+    "profile_notes": "Material: PLA Basic Layer Height: 0.20 mm Standard Walls: 2 Infill: 8% Gyroid Supports: Easy to Remove Filament Options: The profile is optimized for PLA Basic , but Silk, Galaxy, Marble and other effect PLA filaments can also be used for different visual finishes.",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22227804,
+   "sha256": "f1cef66bea638f87cacaf3c768db5f39f1420b8ac53b3f0efd4333652d21b8ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-belleza-8h06.3mf.xz",
+   "instance_id": "3555908",
+   "thumbnail": "previews/profiles/3555908.jpg",
+   "print_time_h": 8.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Dimension XL — 16 cm Height",
+    "profile_notes": "Material: PLA Basic Layer Height: 0.20 mm Standard Walls: 2 Infill: 8% Gyroid Supports: Easy to Remove Filament Options: The profile is optimized for PLA Basic , but Silk, Galaxy, Marble and other effect PLA filaments can also be used for different visual finishes.",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22264356,
+   "sha256": "e59d5ddb675cb3c1d88674532657925f06bc7693f4d46e8c62acbcbf6bd1ff9c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3148307",
+ "title": "Organizador de belleza con soporte para brochas de maquillaje Corset",
+ "slug": "corset-makeup-brush-holder-beauty-organizer",
+ "url": "https://makerworld.com/en/models/3148307-corset-makeup-brush-holder-beauty-organizer",
+ "author": "Samo3D",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Membresía ¿Quieres vender este diseño? Este modelo está disponible para uso comercial a través de mi Membresía. ¡Únete, imprime y comienza a vender! Organizador de belleza con soporte para brochas de maquillaje Corset\nTransforme su espacio de maquillaje con un exclusivo portabrochas de maquillaje inspirado en un corsé, que combina un diseño elegante con finos detalles decorativos y una práctica organización diaria. PERFECTO PARA: Brochas de maquillaje, Herramientas de belleza, Cosméticos, Organización de tocador\n\nCARACTERÍSTICAS: Diseño ultrarrealista inspirado en un corsé, finos detalles florales y de encaje en relieve, perfecto para brochas de maquillaje y herramientas de belleza, estable y práctico para el uso diario.\nDisponible en 4 tamaños diferentes:\nS — 10 cm / 3,9 pulgadas M — 12 cm / 4,7 pulgadas L — 14 cm / 5,5 pulgadas XL — 16 cm / 6,3 pulgadas\nIMPRESIÓN\nTodos los perfiles utilizan una altura de capa de 0,20 mm para lograr un excelente equilibrio entre el tiempo de impresión y la calidad visual.\nPara obtener detalles más finos y un acabado más suave, se puede utilizar una altura de capa de 0,16 mm, especialmente para resaltar los intrincados patrones decorativos.\nConfiguraciones recomendadas: 2 paredes, 8 % de relleno giroide, calidad estándar de 0,20 mm, soportes fáciles de quitar\nRECOMENDACIÓN DE FILAMENTO\nPara obtener los mejores efectos visuales, recomiendo Silk PLA, Metallic PLA, Galaxy PLA u otros filamentos brillantes/con efectos que resalten los detalles finos.\nEl modelo que se muestra en las imágenes se imprimió con Galaxy PLA.\nImpulsameImpulsame\n\n¿Te encanta la belleza y los diseños elegantes?\n\nApoya este proyecto con un impulso y ayúdame a traer diseños más hermosos y femeninos a la comunidad MakerWorld.\n\n¡Tu Boost inspira el próximo diseño! ¿Te encanta este estilo? ¡Descubre más!\nExplora más diseños inspirados en corsés de mi colección: haz clic en cualquier imagen a continuación para descubrir el modelo que te gusta.\nDama de Rojo – Elegante soporte para brochas de maquillaje\nPortaescobillas de maquillaje con corsé de Halloween\n\nPortabrochas de maquillaje Corset de lujo – S/M/L\n\nLlavero con soporte para brochas de pestañas y cejas apto para viajes\nSoporte para teléfono con lazo - Edición Corazón\n\nEstuche de viaje Q-Tip Organizador de bastoncillos de algodón",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "brocha de maquillaje",
+  "soporte para brochas de maquillaje",
+  "organizador de maquillaje",
+  "titular de maquillaje",
+  "portaescobillas",
+  "organizador de cepillos",
+  "organizador de belleza",
+  "organizador cosmético",
+  "titular de cosméticos",
+  "almacenamiento de maquillaje",
+  "almacenamiento de belleza"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US324d839f33378d/design/5905822d7165a81f.webp",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3555857.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3555894.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3555896.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3555908.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

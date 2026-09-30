@@ -1,0 +1,153 @@
+{
+ "files": [
+  {
+   "path": "model/caddy-cuidado-4h54.3mf.xz",
+   "instance_id": "3397357",
+   "thumbnail": "previews/profiles/3397357.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "A2L",
+    "X2D",
+    "P2S",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "A1 mini compatible 0.2mm layer, 2 walls, 5% infill Gyroid",
+    "profile_notes": "I only changed the scale to fit A1 mini default PEI plate and Gyroid infill. Also, my wife liked that “Temu double colour PLA Silk ultra cheap plus extra” 😅, so I was experimenting with it on this model. Pretty sure Generic PLA will work nicely here too.",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 986516,
+   "sha256": "94757caad4ea4ce8347c69078b2b9d3033800ad97f759e423ba46cad14606e75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caddy-cuidado-5h48.3mf.xz",
+   "instance_id": "903574",
+   "thumbnail": "previews/profiles/903574.jpg",
+   "print_time_h": 5.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill - PETG",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20963,
+      "weight_g": 324.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 940344,
+   "sha256": "5d2ad666a20d0d34f4518dfc9733401213435f59930b0b2d4ba4ae8d2993b398",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "938298",
+ "title": "Caddy para el cuidado de la piel Tropic",
+ "slug": "tropic-skincare-caddy",
+ "url": "https://makerworld.com/en/models/938298-tropic-skincare-caddy",
+ "author": "N_Insbrok",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Caddy para el cuidado de la piel Tropic\nUna exhibición escalonada para productos de belleza\nMantenga sus productos Tropic Skincare organizados y bellamente exhibidos.\nEste carrito escalonado es la solución perfecta para exhibir sus artículos favoritos para el cuidado de la piel. Diseñado con múltiples niveles, este llamativo expositor es ideal para tocadores, tocadores o cualquier lugar donde desee agregar un toque de elegancia a su rutina de belleza.\nSi bien está diseñado específicamente teniendo en cuenta Tropic Skincare, es lo suficientemente versátil como para contener una variedad de cosméticos, perfumes y otros artículos pequeños.\n\nCaracterísticas clave:\nDiseño escalonado: crea una exhibición visualmente atractiva y organizada.\nAlmacenamiento versátil: adecuado para diversos productos de belleza y otros artículos pequeños.\nConstrucción robusta: garantiza estabilidad y durabilidad.\nFácil montaje/uso: simplemente organiza tus artículos y listo.\nCon este carrito Tropic Skincare, siempre tendrás tus productos a tu alcance, creando una exhibición hermosa y funcional mientras mantienes tu espacio ordenado.\n\n¿Busca otros organizadores del hogar y soluciones de almacenamiento? ¿Por qué no echas un vistazo a los otros modelos de esta colección?\n- Organizadores y caddies",
+ "use_cases": [],
+ "tags": [
+  "trópico",
+  "protección de la piel",
+  "caddie",
+  "baño",
+  "belleza",
+  "almacenamiento",
+  "organizador"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-01-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf95a2f9533c1d/design/2025-01-04_4a413b9500864.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   793
+  ],
+  "previews/02.jpg": [
+   1000,
+   631
+  ],
+  "previews/profiles/3397357.jpg": [
+   600,
+   378
+  ],
+  "previews/profiles/903574.jpg": [
+   600,
+   438
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

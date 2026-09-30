@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/titular-cuidado.3mf.xz",
+   "instance_id": "1150634",
+   "thumbnail": "previews/profiles/1150634.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 57,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Printed with eSun matte PLA “Milky white”",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17879,
+      "weight_g": 97.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 862156,
+   "sha256": "64a2350cf45cd87a8fe508aa4c42946c2d0031a9ea8ef8964eacdb6a9d9e433c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1147160",
+ "title": "Titular del cuidado de la piel",
+ "slug": "skincare-holder",
+ "url": "https://makerworld.com/en/models/1147160-skincare-holder",
+ "author": "user_3831528116",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Hice este soporte para el cuidado de la piel para usarlo en el refrigerador (en el compartimento lateral estrecho). En el compartimento caben algunos artículos + 3 botellas The Ordinary (o similar; el orificio tiene 35 mm de ancho).\n\nMedidas del modelo: 198 x 93 x 50,5 mm",
+ "use_cases": [],
+ "tags": [
+  "protección de la piel",
+  "puesto de cuidado de la piel",
+  "organizador del cuidado de la piel",
+  "lo ordinario",
+  "accesorios para nevera",
+  "accesorio de nevera",
+  "crema",
+  "constituir",
+  "accesorios de maquillaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US795ca58d9a5d30/design/2025-02-24_54764e527f5db8.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   803
+  ],
+  "previews/02.png": [
+   1000,
+   771
+  ],
+  "previews/profiles/1150634.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

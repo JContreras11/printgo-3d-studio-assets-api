@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/portabrocas-manicura.3mf.xz",
+   "instance_id": "2908265",
+   "thumbnail": "previews/profiles/2908265.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "A1",
+    "X1E",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Material: PLA Silk Velocidad pared exterior: 50 mm/s (clave para el brillo) Boquilla: 0.4 mm Textura “Espiral de octagrama” rango 19,80mm - 20mm",
+    "creation_date": "2026-04-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1296552,
+   "sha256": "743160b6cb47a2cca503b19910aba4e61a56fcdb95e561991edb882acdd6d030",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2633344",
+ "title": "Portabrocas de manicura premium + puntas",
+ "slug": "premium-manicure-drill-holder-bits",
+ "url": "https://makerworld.com/en/models/2633344-premium-manicure-drill-holder-bits",
+ "author": "MundoForma",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Boost Me Si te gusta este diseño, ¡tu apoyo me ayudaría mucho! Soporte de manicura diseñado para organizar de manera elegante y eficiente tu taladro eléctrico para uñas y sus puntas. Este modelo combina funcionalidad y estética, ideal tanto para uso profesional en salones como para configuraciones personales.\nFabricado con PLA Silk en oro rosa, este soporte destaca por su acabado brillante y diseño moderno, añadiendo un toque premium a cualquier estación de trabajo.\nCaracterísticas de diseño:\nEspacio dedicado para taladro de manicura.\nSoporte lateral para el bolígrafo (pieza de mano)\nOrganizador frontal para múltiples bits.\nBase estable con diseño ergonómico\nDetalle de acabado especial:\nEste modelo incorpora una textura decorativa “Octagrama Espiral”, aplicada en un rango de 19,8 mm a 20 mm, que crea un efecto visual único y sofisticado.\nPara maximizar el brillo del material PLA Silk se utilizó una reducción de velocidad en la pared exterior a 50 mm/s, consiguiendo un acabado mucho más pulido y reflectante.\n\nLICENCIA COMERCIAL\n¿Quieres vender impresiones físicas de este modelo?\nLa licencia comercial NO está incluida en la suscripción gratuita de Patreon. Debe suscribirse al nivel \"Licencia comercial\":\npatreon.com/FORMA3D_CommercialLicense\nVenta ilimitada de productos físicos.\nAcceso a todos mis diseños.\nNuevos modelos regularmente\nNo comparta, venda ni redistribuya archivos STL\nLa membresía gratuita no incluye derechos comerciales.\n¡Gracias por su apoyo!",
+ "use_cases": [],
+ "tags": [
+  "manicura",
+  "clavos",
+  "taladro de uñas",
+  "titular",
+  "pararse",
+  "organizador",
+  "belleza",
+  "salón",
+  "pedicure",
+  "cosmético"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US30f2846c64f35a/design/c7d82d267c5e4fc9.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   896,
+   1195
+  ],
+  "previews/05.png": [
+   624,
+   662
+  ],
+  "previews/profiles/2908265.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

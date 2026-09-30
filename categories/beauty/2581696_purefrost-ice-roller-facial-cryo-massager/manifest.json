@@ -1,0 +1,168 @@
+{
+ "files": [
+  {
+   "path": "model/rodillo-hielo-48min.3mf.xz",
+   "instance_id": "2847469",
+   "thumbnail": "previews/profiles/2847469.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 65,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "A2L",
+    "X2D",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-03-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8917636,
+   "sha256": "0663f5d627517ce16284816ca037edbb2a4cffa2c08a929793fd492b61c867e1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rodillo-hielo-54min.3mf.xz",
+   "instance_id": "3426759",
+   "thumbnail": "previews/profiles/3426759.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 35,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "X1E",
+    "P1P",
+    "A1",
+    "P1S",
+    "H2S",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Ice Roller V2 - Better Quality",
+    "profile_notes": "Added significant quality improvements.",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8989752,
+   "sha256": "a500024e53f6b4f3cd18c3d7f1f30aa6066fab5546bac6bfaf3ef8271ad413aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2581696",
+ "title": "Rodillo de hielo PureFrost: masajeador criogénico facial",
+ "slug": "purefrost-ice-roller-facial-cryo-massager",
+ "url": "https://makerworld.com/en/models/2581696-purefrost-ice-roller-facial-cryo-massager",
+ "author": "Mariocastri",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Rodillo de hielo PureFrost: herramienta de crioterapia facial\nDespierta tu piel. Reduce la hinchazón, cierra los poros y comienza tu mañana sintiéndote renovado, en solo 5 minutos.\nBoost Me\"Si este Ice Roller hace que tus mañanas sean más frescas, considera darle un Boost\"Cómo funciona\nLlena el rodillo con agua, congélalo durante la noche y deslízalo suavemente sobre tu rostro por la mañana. Eso es todo. Un ritual sencillo con resultados reales.\nProtocolo de uso\nLlenado: Vierta agua dejando un margen superior de 10 mm, fundamental para permitir la expansión del hielo.\nCongelación: Mantener en posición vertical durante 6 a 8 horas.\nAplicación: Deslizar suavemente sobre rostro, cuello y escote.\nDiseño e Ingeniería\nDiseñado en CATIA y optimizado para un perfecto sello de agua y cero fugas. El mango ergonómico presenta una textura antideslizante para un control preciso y el mecanismo de liberación inteligente se abre suavemente cada vez; si se produce resistencia al vacío, aplique agua tibia en el exterior durante 10 a 15 segundos.\nConfiguración de impresión\nMaterial: PLA (fácil de imprimir)\nAltura de la capa: 0,2 mm\nParedes: 2\nRelleno: 15%\nSoportes: No\nMantenimiento\nLavar a mano con agua tibia (máx. 40°C / 104°F) y jabón neutro. No utilice el lavavajillas ni lo exponga a temperaturas superiores a 50 °C/122 °F para evitar deformaciones.",
+ "use_cases": [],
+ "tags": [
+  "protección de la piel",
+  "baño",
+  "belleza",
+  "bienestar",
+  "rodillo de hielo",
+  "masajeador facial",
+  "crioterapia",
+  "rodillo facial",
+  "funcional",
+  "regalo",
+  "regalo para ella"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4d2a5d6f93d0fa/design/02bbdc89e9b8ccd4.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1334
+  ],
+  "previews/02.png": [
+   1000,
+   1334
+  ],
+  "previews/03.png": [
+   1000,
+   1334
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1000
+  ],
+  "previews/06.png": [
+   1000,
+   1000
+  ],
+  "previews/07.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2847469.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3426759.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

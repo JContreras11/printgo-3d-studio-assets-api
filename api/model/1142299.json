@@ -1,0 +1,206 @@
+{
+ "files": [
+  {
+   "path": "model/cepillo-retractil-multicolor-3h42.3mf.xz",
+   "instance_id": "1144823",
+   "thumbnail": "previews/profiles/1144823.jpg",
+   "print_time_h": 3.7,
+   "plates": 4,
+   "rating": 4.7,
+   "rating_count": 66,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D",
+    "X1E",
+    "P1P",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V1: Four plates/multicolor (AMS)",
+    "profile_notes": "This print profile divides the model into four plates (bristles, slider, bottom shell and top shell). 0.08mm layer, 4 walls, 15% rectilinear infill. And some differences depending on the object (see model description).",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1952,
+      "weight_g": 5.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2825,
+      "weight_g": 7.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2782,
+      "weight_g": 13.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5014,
+      "weight_g": 11.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6391392,
+   "sha256": "cfabd6e18be9921ffbde067145ff6238598a81f54139dc2fae20b1288fa22d46",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1142299",
+ "title": "Cepillo retráctil V3",
+ "slug": "retractable-hairbrush-v3",
+ "url": "https://makerworld.com/en/models/1142299-retractable-hairbrush-v3",
+ "author": "Christian_H",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "ImpulsamePor favor envíame un impulso si te gusta este modelo. ¡No te cuesta nada, pero significa mucho para mí!\nUn cepillo para el cabello retráctil creado inspirándome en un cepillo para el cabello de aproximadamente 40 años que tengo, desde que tenía alrededor de 10 años.\n\nComo mi cepillo original estaba en terribles condiciones (ver la última foto), hacía tiempo que quería un reemplazo. Y qué mejor que diseñar uno yo mismo…\n\n------------------------------------------------------------\nActualización 24-04-2025:\nDespués de 5.000 descargas de este modelo, llega el momento de la V3 del cepillo retráctil. V3 tiene estas mejoras:\nCarcasa superior e inferior rediseñada, ahora con ajuste a presión. Ya no es necesario el pegamento. El cepillo ha crecido 1 mm de largo y ancho para acomodar las pestañas y ranuras de ajuste rápido. Es posible que las carcasas superior e inferior necesiten un poco de fuerza para encajar, pero debería ser factible. Por favor, mire el GIF con las instrucciones de montaje.\n\"Logotipos\" de peinado en la parte inferior, solo por diversión. Por supuesto, estos no se verán muy claramente en las versiones de un solo color, pero los contornos seguirán siendo algo visibles (dependiendo del color del filamento).\nPequeños cambios en el mecanismo deslizante para que el control deslizante se mueva un poco más fácilmente fuera de las ranuras de bloqueo.\nTenga en cuenta que las tolerancias en este modelo dependen en gran medida del filamento que utilice. Mis dos modelos terminados se ensamblaron de manera muy diferente. El Bambu Lab PLA Basic dorado se partió muy fácilmente, mientras que el Bambu Lab PLA Basic gris necesitó bastante fuerza.\n\nEl tamaño de V3 es ahora de 152 x 37 x 12 mm.\n\n¡Déjame saber si tienes alguna pregunta o sugerencia!\n------------------------------------------------------------\n\nActualización 03-02-2025:\nAhora he subido perfiles de impresión para la V2 del cepillo retráctil. V2 tiene estas mejoras:\nCarcasa superior completamente rediseñada para una mejor adherencia a la cama y una apariencia mucho más limpia. Gracias a @FlaMtnBkr por sus sugerencias sobre los voladizos.\nBotón más redondeado en el control deslizante para una sensación más agradable. Gracias a @ FunPrinter1 por la sugerencia. Si prefiere el botón deslizante de V1, puede usar ese perfil de impresión en su lugar.\nUn perfil de impresión separado para imprimir las cerdas con orejas de ala. Algunos han tenido problemas porque las cerdas no se pegaban al plato. El nuevo perfil de impresión debería solucionar este problema.\n------------------------------------------------------------\n\nUso y resistencia del filamento.\nEl modelo sólo utiliza entre 40 y 45 gramos de filamento, dependiendo de si imprimes o no la versión multicolor.\n\nEl cepillo retráctil es muy fuerte. Las cerdas se pueden doblar bastante sin romperse debido a la orientación de la impresión.\n\nHe utilizado Gembird PLA para la parte negra y Bambu Lab PLA Basic para las partes gris, naranja y dorada (ver imágenes).\n\nTamaño, piezas y ajustes de impresión.\nEl cepillo retráctil mide sólo 152 x 37 x 12 mm cuando está cerrado, por lo que es muy fácil de guardar en el bolsillo o en el neceser. Cuando está abierto el espesor es de 26 mm.\n\nEl cepillo consta de estas partes:\n11 juegos de cerdas (6 con 4 cerdas y 5 con 5 cerdas), lo que equivale a un total de 49 cerdas\n1 control deslizante\n1 caparazón inferior\n1 caparazón superior\nTodas las piezas tienen diferentes configuraciones de impresión en mis perfiles de impresión:\nCerdas: Ancho de línea estándar. La velocidad se reduce. Si tiene problemas con la adherencia a la cama, hay un perfil de impresión separado para las cerdas que tienen orejas. Estos se pueden quitar fácilmente con una cuchilla afilada.\nControl deslizante: Las paredes tienen un ancho de línea de 0,35 mm para poder imprimir las letras.\nCarcasa inferior: ancho y velocidad de línea estándar.\nCubierta superior: Ancho y velocidad de línea estándar, excepto por un modificador en el área donde se asientan las cerdas, que cambia el ancho de la línea de la pared a 0,3 mm y reduce la velocidad debido a los voladizos.\nTodas las piezas se imprimen con una altura de capa de 0,08 mm (en una boquilla de 0,4 mm) para garantizar una impresión de buena calidad.\n\nColor único o multicolor\nSólo el control deslizante y la carcasa inferior son impresiones multicolores, pero también se pueden imprimir en un solo color, si no tienes un AMS. Si quieres, puedes volverte loco con los colores del control deslizante: Si lo abres en Bambu Studio, puedes configurar el color de cada una de las letras en “PUSH”, las flechas hacia arriba y hacia abajo y el botón.\n\nY si quieres cerdas de varios colores, puedes imprimirlas usando diferentes colores.\n\nLos peinados en la parte inferior pueden ser de otro color, si tienes un AMS.\n\nvoladizos\nLa orientación de impresión de la carcasa superior puede provocar algunas imperfecciones en los voladizos. Pero esto ha mejorado mucho en V2 (y V3).\n\nAsamblea\nPara ensamblar el pincel, siga este orden (consulte el GIF animado para obtener más instrucciones):\nSostenga la carcasa superior con la parte posterior hacia arriba.\nInserte el control deslizante en la posición hacia adelante/abierto.\nInserte los 11 juegos de cerdas; asegúrese de que el \"borde\" de todas las cerdas mire hacia la parte superior de",
+ "use_cases": [],
+ "tags": [
+  "cepillo para el pelo",
+  "retráctil",
+  "cepillar",
+  "belleza",
+  "cabello",
+  "accesorios para el cabello",
+  "ajuste a presión"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbe60da5d45734d/design/2025-04-25_073d8cc1d46af8.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   864,
+   864
+  ],
+  "previews/02.jpg": [
+   1000,
+   676
+  ],
+  "previews/03.jpg": [
+   1000,
+   634
+  ],
+  "previews/04.jpg": [
+   1000,
+   629
+  ],
+  "previews/05.jpg": [
+   1000,
+   1062
+  ],
+  "previews/06.jpg": [
+   1000,
+   1429
+  ],
+  "previews/07.jpg": [
+   1000,
+   1489
+  ],
+  "previews/08.jpg": [
+   1000,
+   1492
+  ],
+  "previews/09.jpg": [
+   1000,
+   1620
+  ],
+  "previews/10.jpg": [
+   1000,
+   692
+  ],
+  "previews/11.jpg": [
+   1000,
+   573
+  ],
+  "previews/12.jpg": [
+   1000,
+   563
+  ],
+  "previews/13.jpg": [
+   1000,
+   563
+  ],
+  "previews/profiles/1144823.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

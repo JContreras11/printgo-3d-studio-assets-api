@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/porta-llavero-2h06.3mf.xz",
+   "instance_id": "3052616",
+   "thumbnail": "previews/profiles/3052616.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 193,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "H2S",
+    "A1",
+    "X1",
+    "H2C",
+    "P1S",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Billow rounded edition"
+   },
+   "name": "Versión estándar",
+   "size": 65466392,
+   "sha256": "984f0c211affa378eafbab7a95c250f9acb5e00b838242b7ce2d8b7106cbcac3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2751306",
+ "title": "Porta llavero para bálsamo labial floral (2 versiones)",
+ "slug": "floral-lip-balm-keychain-holder-2-versions",
+ "url": "https://makerworld.com/en/models/2751306-floral-lip-balm-keychain-holder-2-versions",
+ "author": "Homedesign3D",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Nunca más pierdas tu bálsamo labial! Este elegante llavero mantiene el cuidado de tus labios al alcance de la mano y añade un toque elegante y floral a tu bolso, llaves o mochila.\n\nEl conjunto incluye dos diseños distintos que se adaptan a tu estilo:\nThe Minimalist: Un diseño elegante de tapa plana con una superficie limpia y suave que resalta el relieve floral.\nEdición \"Billow\": un diseño redondeado que utiliza configuraciones de \"piel difusa\" para una sensación táctil premium similar a la de una piedra.\n\nLo más destacado\n100% sin soporte: Diseñado para una impresión rápida e impecable.\nTapa de rosca segura: cuenta con un cierre roscado confiable para garantizar que su bálsamo labial permanezca seguro en el interior, incluso en movimiento.\nPerfecto para viajar: ligero, duradero y compacto. Ideal para uso diario en la escuela, el trabajo o el gimnasio:)\n\nEspecificaciones técnicas\nCompatibilidad: Diseñado para adaptarse a la mayoría de los tubos de bálsamo labial estándar\nHilos suaves: el mecanismo de bloqueo por giro está optimizado para un funcionamiento suave directamente desde la placa de construcción.\nListo para llavero: cuenta con un resistente bucle integrado: solo agregue un pequeño mosquetón o llavero.\n\nColección: Si te gusta este diseño, ¡asegúrate de ver mis otros estuches de viaje en esta colección!\n\nConfiguración de impresión\nAltura de capa de 0,12 mm\n15% de relleno\n2 paredes\nLa versión limpia tiene planchado en la superficie superior.\nPiel ondulada y difusa en la versión redondeada\n\nFilamento usado\nBambu Lab Matte PLA (rosa Sakura)\nElegoo PLA Mate (Beige)\n\nSiempre busco mejorar mis diseños, así que si imprimes uno, ¡no dudes en compartir una foto! Me encantaría ver qué combinaciones de colores se te ocurren.\n\n¡Todos los comentarios, ideas y solicitudes son bienvenidos!",
+ "use_cases": [],
+ "tags": [
+  "llavero",
+  "llave",
+  "labio",
+  "pomada para labios",
+  "funda de bálsamo labial",
+  "soporte para bálsamo labial",
+  "bálsamo",
+  "titular",
+  "flor",
+  "decoración",
+  "'decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb81b6a36744900/design/7c118a9438b49ce3.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1312
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3052616.jpg": [
+   600,
+   795
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

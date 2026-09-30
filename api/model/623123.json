@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/corona-princesa.3mf.xz",
+   "instance_id": "570449",
+   "thumbnail": "previews/profiles/570449.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 119,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2S",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6510,
+      "weight_g": 19.88,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1057972,
+   "sha256": "764f038806e631076cd32c37bca060706f4a0e1bfb8ce3f47e5e2c50a528b88c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "623123",
+ "title": "La corona de la princesa Aurora",
+ "slug": "princess-aurora-s-crown",
+ "url": "https://makerworld.com/en/models/623123-princess-aurora-s-crown",
+ "author": "wif1973",
+ "category": "beauty",
+ "source_category": "Atrezzo y cosplay > Máscaras y cascos",
+ "description": "Corona de la Princesa Aurora - La Bella Durmiente\nAdéntrate en el encantador mundo de La Bella Durmiente de Disney con esta exquisita réplica de la corona de la Princesa Aurora. Esta elegante corona dorada, otorgada a Aurora por el hada buena Flora, simboliza su herencia real y su gracia. Adornada con delicados detalles y un diseño atemporal, esta corona captura la esencia del encanto y la belleza de Aurora. Perfecta para cosplay, fiestas temáticas o como artículo de colección, esta corona te hará sentir como una verdadera realeza. Abraza la magia y la elegancia de la Princesa Aurora con este impresionante accesorio.",
+ "use_cases": [],
+ "tags": [
+  "disney",
+  "corona",
+  "corona de princesa aurora",
+  "aurora",
+  "princesa",
+  "bella durmiente del bosque"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-09-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf267d79a81de62/design/2024-09-04_35ee4b7766d228.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/570449.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,309 @@
+{
+ "files": [
+  {
+   "path": "model/estacion-cabello-4h30.3mf.xz",
+   "instance_id": "1114471",
+   "thumbnail": "previews/profiles/1114471.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16309,
+      "weight_g": 165.93,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1400288,
+   "sha256": "e5ebf117e21a96ad877a59bb1c8d947b895dd3b28216d2832ee38e1da6109b0e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cabello-5h.3mf.xz",
+   "instance_id": "1114635",
+   "thumbnail": "previews/profiles/1114635.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "hair station V2 with tray",
+    "creation_date": "2025-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18041,
+      "weight_g": 180.05,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1475100,
+   "sha256": "e648dc511ab82714f0e8179873f6b6a4254031bcb5b7d6b83ca4474331f5010f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cabello-5h06.3mf.xz",
+   "instance_id": "1114576",
+   "thumbnail": "previews/profiles/1114576.jpg",
+   "print_time_h": 5.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Hair Station V3 with bobble holder",
+    "creation_date": "2025-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18316,
+      "weight_g": 179.32,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1420920,
+   "sha256": "54f50bd132e0a851bd5bc9d34ccbd29aae2de99bf793b9da148a72b3e81409d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-cabello-5h30.3mf.xz",
+   "instance_id": "1114583",
+   "thumbnail": "previews/profiles/1114583.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 1,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Hair Station V4 with all parts",
+    "creation_date": "2025-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19913,
+      "weight_g": 191.41,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1485796,
+   "sha256": "f0e4ce89b6aca84264dccea05f0df4d7ac45187288c3d6d0e26504dbe9b961ac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1116849",
+ "title": "Estación de cabello con 4 estilos.",
+ "slug": "hair-station-with-4-styles",
+ "url": "https://makerworld.com/en/models/1116849-hair-station-with-4-styles",
+ "author": "Seeker3d",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Estación de cabello\n¡Mantén tu espacio de peinado ordenado y todo a tu alcance! Esta estación de accesorios para el cabello montada en la pared contiene todos sus elementos esenciales diarios (secador de cabello, plancha, cepillos y aerosoles) en una configuración compacta y organizada.\nSe adapta a la mayoría de secadores y planchas de pelo estándar.\nPrácticas ranuras para cepillos y peines\nCompartimentos abiertos para aerosoles o botellas.\nDiseño elegante que ahorra espacio, perfecto para el baño o el tocador\n¡Ordena tu encimera y mejora tu rutina capilar!\n\nEs fácil de instalar con solo dos tornillos, o puedes usar ventosas de 50 mm para pegarlo a superficies lisas como azulejos o espejos. (Solo tenga en cuenta el peso: ¡demasiado puede provocar que falle la succión!)\n\n¡Mantén tu espacio ordenado y tus herramientas listas para usar!",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "dormitorio",
+  "baño",
+  "organización",
+  "accesorios para el cabello",
+  "cabello",
+  "belleza",
+  "accesorios de belleza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US68dad87ea7da9/design/2025-02-16_3d37c66f4d6b7.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   588
+  ],
+  "previews/03.jpg": [
+   1000,
+   739
+  ],
+  "previews/04.jpg": [
+   1000,
+   870
+  ],
+  "previews/05.png": [
+   542,
+   268
+  ],
+  "previews/06.jpg": [
+   587,
+   471
+  ],
+  "previews/profiles/1114471.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1114635.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1114576.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1114583.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/peine-desenredante.3mf.xz",
+   "instance_id": "1640952",
+   "thumbnail": "previews/profiles/1640952.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 140,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2C",
+    "H2S",
+    "X1",
+    "A2L",
+    "X1E",
+    "P1P",
+    "P1S",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 826712,
+   "sha256": "3c25f8ff3a946a85addaa8fa5a98e3ead922a432de7adaa6326c4ea9df8d8f81",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1561358",
+ "title": "Peine desenredante inteligente",
+ "slug": "smart-detangle-comb",
+ "url": "https://makerworld.com/en/models/1561358-smart-detangle-comb",
+ "author": "deltaprints_de",
+ "category": "beauty",
+ "source_category": "Herramientas > Herramientas manuales",
+ "description": "Este peine de dientes anchos es tu herramienta ideal para un cuidado del cabello suave y eficaz. Con dientes largos y cortos alternos, desenreda en múltiples niveles y al mismo tiempo es amable con el cabello y el cuero cabelludo.\n\nCaracterísticas:\nDientes escalonados para un desenredado más suave\nLa combinación de dientes largos y cortos se desliza por el cabello de manera más uniforme, solucionando los nudos con menos esfuerzo.\n\nDesenredado suave con fricción reducida\nEl amplio espaciado y las puntas redondeadas reducen la resistencia a la fricción y la tensión mecánica en el cuero cabelludo, lo cual es especialmente importante para el cabello mojado o frágil.\n\nMejora de la distribución de productos para el cuidado.\n\nEl perfil de los dientes escalonados permite una distribución más uniforme de acondicionadores, mascarillas o tratamientos por todo el volumen del cabello.\n\nIdeal para cabellos texturizados, gruesos o rizados.\nEl peine navega por las estructuras volumétricas del cabello de manera más efectiva, reduciendo los tirones y mejorando el control durante el peinado.\n\nLas dimensiones predeterminadas son 152 mm x 60 mm x 5 mm (libremente escalables).\n\nImpreso con la siguiente configuración:\nAltura de capa - 0,2\nParedes - 3\nRelleno: 15% rectilíneo\nVender impresiones: no está permitido, pero con la licencia adecuada, ¡puede estarlo!\nÚnase a mi Patreon y desbloquee más de 580 modelos 3D premium de Deltaprints, con nuevos diseños cada semana para impulsar su tienda o proyecto.\n\nComo miembro, obtendrás:\n\nLicencia comercial para vender legalmente sus impresiones.\nArchivos STL + Fusion 360 para una personalización completa\nPerfiles de impresión optimizados para Anycubic y Bambu Lab\nConjuntos de imágenes de productos profesionales para mostrar sus impresiones\nChats comunitarios exclusivos para comentarios e intercambio de ideas.\nSoporte técnico personal cuando lo necesite\n\nImprima y comience a crear hoy: patreon.com/deltaprints/membership\n\nUtilizo este filamento de alta calidad para todas mis impresiones. Compruébalo aquí: [Enlace]",
+ "use_cases": [],
+ "tags": [
+  "peine",
+  "cabello",
+  "accesorio para el cabello",
+  "accesorios para el cabello",
+  "peine para el cabello",
+  "barba",
+  "cepillar",
+  "cepillo para el pelo",
+  "baño",
+  "accesorios de baño"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2025-06-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6e6f5dd56ddec7/design/2025-06-29_fb9dd1181954e8.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1640952.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

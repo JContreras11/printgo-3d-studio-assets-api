@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-maquillaje.3mf.xz",
+   "instance_id": "3285516",
+   "thumbnail": "previews/profiles/3285516.jpg",
+   "print_time_h": 37.4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "A1",
+    "X2D",
+    "P2S",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Organizer",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1024728,
+   "sha256": "7908f15692c5ba0743d3f6cd87d789bfbbec61936d888047e361461a6d13078c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2934452",
+ "title": "Organizador de maquillaje",
+ "slug": "make-up-organizer",
+ "url": "https://makerworld.com/en/models/2934452-make-up-organizer",
+ "author": "FoersterSepp",
+ "category": "beauty",
+ "source_category": "Modelo 3D generativo > Crear mi organizador de escritorio",
+ "description": "MembresíaAdquiere una licencia comercial AQUÍ ----->Boost MeAgradezco a todos los que me apoyan con un Boost GRATIS Los pies son para pegar\nNo aseguré la parte superior para que aún se pueda girar fácilmente, pero, por supuesto, puedes simplemente pegar las dos partes si lo deseas.\n\nDiviértete imprimiendo\nMe encantaría recibir comentarios amables, imágenes o un impulso.\n\nPara más diseños, simplemente visita mi perfil:",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "constituir",
+  "tocador",
+  "productos cosméticos",
+  "beaty",
+  "fácil",
+  "no ams",
+  "organizar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7f27088bf24e66/design/f18e2bc04d8f670a.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   554,
+   759
+  ],
+  "previews/profiles/3285516.jpg": [
+   554,
+   759
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

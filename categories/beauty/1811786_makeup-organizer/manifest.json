@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-maquillaje.3mf.xz",
+   "instance_id": "1933000",
+   "thumbnail": "previews/profiles/1933000.jpg",
+   "print_time_h": 39.9,
+   "plates": 5,
+   "rating": 4.2,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "A1",
+    "P2S",
+    "P1P",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 27458292,
+   "sha256": "9ad3df423079c6fd3948b5d93812a0c1f76466679de60c3d1a0568804faa632e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1811786",
+ "title": "Organizador de maquillaje",
+ "slug": "makeup-organizer",
+ "url": "https://makerworld.com/en/models/1811786-makeup-organizer",
+ "author": "PrintP",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Organizador de maquillaje para muebles de baño estrechos\n\nPara todo tipo de maquillaje en varios diámetros con un pequeño estante.\n\nPon un poco de orden en los muebles de tu baño:)\n\nSi su impresora tiene problemas con ciertos salientes, agregue soportes\nUsé filamento de Extrudr.\n\nDiviértete imprimiendo",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "accesorios de maquillaje",
+  "lápiz labial",
+  "esmalte de uñas",
+  "organizador",
+  "máscara",
+  "kajal",
+  "estante",
+  "surtido",
+  "real"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9609ddac51afef/design/2025-09-20_89891536dcd37.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   622
+  ],
+  "previews/02.jpg": [
+   1000,
+   563
+  ],
+  "previews/03.jpg": [
+   1000,
+   661
+  ],
+  "previews/profiles/1933000.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

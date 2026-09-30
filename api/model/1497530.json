@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/pendientes-tejidos.3mf.xz",
+   "instance_id": "1566161",
+   "thumbnail": "previews/profiles/1566161.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 43,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X2D",
+    "P1P",
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.12mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-05-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4102672,
+   "sha256": "3a5cb74b2183de09cdced61095b992e49c7b79d97b65573d6b0ccf416356cbb4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1497530",
+ "title": "Pendientes tejidos",
+ "slug": "woven-earrings",
+ "url": "https://makerworld.com/en/models/1497530-woven-earrings",
+ "author": "runrain",
+ "category": "beauty",
+ "source_category": "Moda > Pendientes",
+ "description": "Pendientes tejidos, perfectos para viajes de vacaciones.\nLa parte tejida debe pegarse por ambos lados.\n\nSe proporcionan dos tamaños.\n1. Pequeño: 36 mm\n2. Grande: 41 mm\n\nLos pendientes grandes dan un aire de vacaciones más fuerte.",
+ "use_cases": [],
+ "tags": [
+  "pendiente",
+  "círculo",
+  "regalo",
+  "belleza",
+  "accesorios de belleza",
+  "moda",
+  "vacaciones"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf7b1f0a2cf7cc9/design/2025-06-21_9aefc9fd0f58d8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1566161.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

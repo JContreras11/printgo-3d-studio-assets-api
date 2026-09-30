@@ -1,0 +1,162 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-maquillaje-4h24.3mf.xz",
+   "instance_id": "1371263",
+   "thumbnail": "previews/profiles/1371263.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 106,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X2D",
+    "H2S",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1035664,
+   "sha256": "c1b47d4dd22869dc01a3f4c0ccca2c1a513dd5d89f2ea70916a74fbbe77c5a23",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-2h.3mf.xz",
+   "instance_id": "2185094",
+   "thumbnail": "previews/profiles/2185094.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A1",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Half with one wall removed",
+    "creation_date": "2025-11-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 914248,
+   "sha256": "73b4a4ba618cfa25b6d05c54b079cef0503c3d18cbcfbda192723760f8ccf37d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1332624",
+ "title": "Organizador de maquillaje y brochas",
+ "slug": "organizer-make-up-e-pennelli",
+ "url": "https://makerworld.com/en/models/1332624-organizer-make-up-e-pennelli",
+ "author": "Mark96_3D",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Organizador de brochas de maquillaje y cosméticos\nEste fantástico organizador de maquillaje y brochas te ayudará a mantener tu rutina de belleza ordenada y organizada. El diseño y la personalización hacen que todo sea más lindo:)\nImpulsa Me, si te gusta, ¡impúlsalo!",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "constituir",
+  "cepillar",
+  "cepillos",
+  "organizador de pinceles y bolígrafos",
+  "portaescobillas",
+  "accesorios de belleza",
+  "belleza",
+  "accesorios",
+  "portaescobillas de maquillaje",
+  "cosmético"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd354cd323f1c63/design/e80a64edcd9eb56d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1371263.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2185094.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

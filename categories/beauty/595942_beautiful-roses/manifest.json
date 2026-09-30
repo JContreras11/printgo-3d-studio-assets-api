@@ -1,0 +1,442 @@
+{
+ "files": [
+  {
+   "path": "model/hermosas-rosas-2h12.3mf.xz",
+   "instance_id": "517893",
+   "thumbnail": "previews/profiles/517893.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 799,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D",
+    "H2S",
+    "X1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Rose, 0.16mm layer, 3 walls, 10% infill",
+    "profile_notes": "No Supports Required! The bottom thread is a negative part, so please download the .3MF file.",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8042,
+      "weight_g": 13.54,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 16843332,
+   "sha256": "add57782362e1c7846c0c44b4237514060b57103b9180249fc4c1279d44412af",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hermosas-rosas-24min.3mf.xz",
+   "instance_id": "517899",
+   "thumbnail": "previews/profiles/517899.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 473,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "H2S",
+    "X1",
+    "A2L",
+    "H2D Pro",
+    "X2D",
+    "H2C",
+    "X1 Carbon",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Base, 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "The supports are incredibly easy to remove! Not recommended to print with silk filaments!",
+    "creation_date": "2026-05-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1901616,
+   "sha256": "b1eec483bac9b93f071f0f10546ba74357d29d0057f851b6cd75c8e0fd30c392",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hermosas-rosas-2h54.3mf.xz",
+   "instance_id": "517937",
+   "thumbnail": "previews/profiles/517937.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 363,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1E",
+    "P1S",
+    "A1 mini",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "P1P",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Vase - Vase Mode, 0.16mm layer, 1 walls, 0% infill",
+    "profile_notes": "This profile is suitable for PLA, PLA SILK and PETG Translucent! Size: 180mm High and stable 70mm Bottom. Designed for Vase Mode . If the slicer preview doesn’t show an opening at the top, check your settings before printing.",
+    "creation_date": "2025-10-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9083804,
+   "sha256": "e6d59dab891576ef951e876aeadc018337945eb94acaec93bc804d01841c12d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hermosas-rosas-36min.3mf.xz",
+   "instance_id": "517908",
+   "thumbnail": "previews/profiles/517908.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 546,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P1S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Stem, 0.16mm layer, 2 walls, 10% infill",
+    "profile_notes": "Updated: Easy-to-remove supports (just bend the plate and the stem will pop off)!",
+    "creation_date": "2026-05-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2203280,
+   "sha256": "223b2b1bfebac75e1e971c96bbd01612b696b14a547e2896959861d8ac0d691c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hermosas-rosas-3h30.3mf.xz",
+   "instance_id": "2942226",
+   "thumbnail": "previews/profiles/2942226.jpg",
+   "print_time_h": 3.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "A2L",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "P1P",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "25% Biger Rose + Stem + Base",
+    "profile_notes": "25% Bigger Rose + Stem + Base The stem is the same length as the smaller one and fits the vase normally.",
+    "creation_date": "2026-05-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 18450580,
+   "sha256": "c38cd1efca983bb1c77b066f19e10a47172c37a72445186e9fec3111e9be0a8f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hermosas-rosas-4h12.3mf.xz",
+   "instance_id": "841999",
+   "thumbnail": "previews/profiles/841999.jpg",
+   "print_time_h": 4.2,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 81,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D",
+    "A2L",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill 25% bigger",
+    "profile_notes": "Rose, stem and Base 25% bigger stem is cut down to original length I used the original size vase",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1915,
+      "weight_g": 5.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1814,
+      "weight_g": 3.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11309,
+      "weight_g": 33.61,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 18467964,
+   "sha256": "27d40ffc39ad7b08c0f4763219375e7e980ece6a4cdfe057495f3e89cc086a95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "595942",
+ "title": "hermosas rosas",
+ "slug": "beautiful-roses",
+ "url": "https://makerworld.com/en/models/595942-beautiful-roses",
+ "author": "Besnia_Darvar",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Presentamos hermosas rosas!\nEstas impresionantes rosas son el regalo versátil perfecto para el Día Internacional de la Mujer.\n¡Día de San Valentín, Día de la Madre o cualquier ocasión especial!\n¡Elevan el diseño moderno al mismo tiempo que sirven como una expresión personalizable de amor y aprecio!\n\nCaracterísticas clave:\nIncreíblemente hermosa\nEl regalo perfecto para cualquier ocasión\nConstruido para durar e impresionar\nDurable y realista\nMontaje sin esfuerzo: sin complicaciones, solo diversión (no se requiere pegamento)\nRápido y fácil de imprimir\n\nInstrucciones de montaje:\nImprima cada pieza por separado (cada perfil de impresión está optimizado para garantizar la máxima calidad para cada pieza).\nEl montaje es muy sencillo cuando la mecánica se une al arte: ¡no se requiere pegamento!\nPartes:\nRose: ¡No se necesitan soportes! (El hilo inferior es una parte negativa, así que descargue el archivo.3MF).\nBase: Los soportes son increíblemente fáciles de quitar.\nVástago: Los soportes son increíblemente fáciles de quitar.\nFlorero: eleva el diseño moderno a un nivel completamente nuevo. Tamaño: 180 mm de alto y 70 mm de fondo estable.\nEl perfil de impresión utiliza el modo jarrón, así que descargue el archivo.3MF, que incluye todas las configuraciones necesarias.\nDe lo contrario, es posible que la abertura del jarrón no aparezca después de cortarlo.\n\nSe agregó una rosa un 25 % más grande, junto con el tallo y la base.\nEl tallo tiene la misma longitud que el más pequeño y se adapta normalmente al jarrón.\n\nQuizás también quieras ver este ramo de flores de narciso y rosas tejidas y de cristal\n\n¡Remix de Golub17 Awesome Rose con Stem (remix)!",
+ "use_cases": [],
+ "tags": [
+  "rosa",
+  "tallos de rosa",
+  "provenir",
+  "flor",
+  "siendo fuerte",
+  "san valentin",
+  "regalo",
+  "dia de san valentin",
+  "amar",
+  "corazón",
+  "dulce"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-08-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd8ed3094ed4538/design/9a56a537999e133d.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1066
+  ],
+  "previews/02.jpg": [
+   1000,
+   665
+  ],
+  "previews/03.jpg": [
+   1000,
+   1274
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   856
+  ],
+  "previews/06.jpg": [
+   1000,
+   1353
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   835
+  ],
+  "previews/09.jpg": [
+   1000,
+   943
+  ],
+  "previews/10.jpg": [
+   1000,
+   900
+  ],
+  "previews/11.jpg": [
+   1000,
+   714
+  ],
+  "previews/12.jpg": [
+   1000,
+   822
+  ],
+  "previews/profiles/517893.jpg": [
+   600,
+   393
+  ],
+  "previews/profiles/517899.jpg": [
+   600,
+   413
+  ],
+  "previews/profiles/517937.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/517908.jpg": [
+   600,
+   372
+  ],
+  "previews/profiles/2942226.jpg": [
+   600,
+   417
+  ],
+  "previews/profiles/841999.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,321 @@
+{
+ "files": [
+  {
+   "path": "model/cogsworth-reloj.3mf.xz",
+   "instance_id": "1142787",
+   "thumbnail": "previews/profiles/1142787.jpg",
+   "print_time_h": 133,
+   "plates": 14,
+   "rating": 4.6,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "X1E",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 10% infill",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.1",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 1965,
+      "weight_g": 2.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 70841,
+      "weight_g": 147.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 104632,
+      "weight_g": 226.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 15234,
+      "weight_g": 30.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 25618,
+      "weight_g": 48.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 25143,
+      "weight_g": 51.8,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 32222,
+      "weight_g": 59.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 116408,
+      "weight_g": 253.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 15916,
+      "weight_g": 29.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AD8530"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 29656,
+      "weight_g": 58.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 840,
+      "weight_g": 0.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 21125,
+      "weight_g": 42.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 8477,
+      "weight_g": 15.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.2",
+      "prediction_ms": 7902,
+      "weight_g": 13.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 14
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1722176,
+   "sha256": "c5f6d1d50ad19752529e91935a7248393b913a893685522ff8c39a90d1ff28c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "877332",
+ "title": "Cogsworth - Reloj real",
+ "slug": "cogsworth-real-clock",
+ "url": "https://makerworld.com/en/models/877332-cogsworth-real-clock",
+ "author": "Andrea.Cios85",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "De la película de Disney La Bella y la Bestia, el mayordomo gótico se transformó en un reloj Cogsworth.\nEl modelo impreso aún está en desarrollo.\nPara que funcionara utilicé un kit común para relojes de pared con cuerpo cuadrado de 55X55mm y manecilla de minutos de 75mm + manecilla de hora de 51mm.\nInstrucciones de montaje disponibles aquí:",
+ "use_cases": [],
+ "tags": [
+  "engranaje",
+  "bella y la bestia",
+  "reloj",
+  "dibujos animados"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2024-12-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbdc23aeb81479/design/2024-12-18_380ec8db32f57.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.gif",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.png",
+  "previews/12.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   450,
+   800
+  ],
+  "previews/02.jpg": [
+   927,
+   1440
+  ],
+  "previews/03.jpg": [
+   881,
+   1440
+  ],
+  "previews/04.gif": [
+   450,
+   800
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   888
+  ],
+  "previews/10.jpg": [
+   1000,
+   829
+  ],
+  "previews/11.png": [
+   543,
+   765
+  ],
+  "previews/12.png": [
+   547,
+   773
+  ],
+  "previews/profiles/1142787.jpg": [
+   600,
+   533
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

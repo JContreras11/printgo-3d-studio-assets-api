@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "1343023",
+   "thumbnail": "previews/profiles/1343023.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 30,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "P1S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 845704,
+   "sha256": "4b6968dbd770488dae292598b5002fbd90a020a08e5d6f1185878e7d02f9133c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1112756",
+ "title": "Funda para iPhone 16 Pro Max inspirada en Arc Pulse",
+ "slug": "iphone-16-pro-max-case-inspired-by-arc-pulse",
+ "url": "https://makerworld.com/en/models/1112756-iphone-16-pro-max-case-inspired-by-arc-pulse",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "Para obtener resultados óptimos, recomiendo imprimir la carcasa con PETG, aunque también se puede utilizar PLA. Después de imprimir, simplemente aplique cinta adhesiva de doble cara a la parte impresa para garantizar una fijación segura a su teléfono.\nAumente el número de capas inferior y superior a 5 o más para hacerla rígida y aumente también el porcentaje de relleno.\n\nDescargo de responsabilidad importante:\nTenga en cuenta que esta funda para teléfono está diseñada principalmente con fines estéticos y es posible que no ofrezca una protección sustancial para su dispositivo. No me hago responsable de ningún daño a su teléfono.\n\nComo no tengo un modelo de iPhone 16 Pro Max disponible para probar, le pido que proporcione una imagen de alta calidad para la foto de portada, si es posible.\nSus comentarios son invaluables: las opiniones y sugerencias sinceras son muy apreciadas. ¡Gracias por su apoyo!",
+ "use_cases": [],
+ "tags": [
+  "iphone 16 pro max",
+  "funda del iphone",
+  "cubierta del iphone",
+  "apple",
+  "parachoques del iphone",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1876350b77fed/design/18dec3e4b72a4996.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1343023.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

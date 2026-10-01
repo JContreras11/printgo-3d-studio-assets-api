@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-2h36.3mf.xz",
+   "instance_id": "2809734",
+   "thumbnail": "previews/profiles/2809734.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "P2S",
+    "H2D Pro",
+    "P1S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1 mini",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "iPhone17 Looser Fit (Scaled up 101%)",
+    "profile_notes": "Looser fit version of the standard cover . The model is printed using 0.2mm layer heigth, to achieve better and cleaner result you can reduce this up to 0.12mm. PRINT ONLY IN TPU, the model is designed for flexable materials (Not PLA or PETG) . To add some good side grip and texture you should use fuzzy skin . If possible use a different material for supports (PLA or PETG) to avoid any scars on the final model.",
+    "creation_date": "2026-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 13502860,
+   "sha256": "99fa44dba068012d6bf09271610cfe8df6d9dade123d5c1e6452b57c798d0cd0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2537583",
+ "title": "Funda iPhone 17 Voronoi",
+ "slug": "iphone-17-voronoi-case",
+ "url": "https://makerworld.com/en/models/2537583-iphone-17-voronoi-case",
+ "author": "G.M.I_projects",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Boost MeSiéntete libre de mezclar y mejorar este diseño, ¡la colaboración es fundamental! Una funda de TPU refinada y moderna diseñada específicamente para el iPhone 17, que brinda una protección sólida y mantiene una apariencia delgada y elegante. El material flexible proporciona una durabilidad confiable para el uso diario sin agregar espesor innecesario.\nPara obtener mejores resultados, se recomienda escalar el modelo a aproximadamente 100,5%-101% antes de imprimir. Este ligero aumento ayuda a lograr un mejor ajuste y hace que la instalación en el dispositivo sea más suave.\nUTILICE SÓLO TPU O CUALQUIER OTRO FILAMENTO ELÁSTICO\nPara mejorar la apariencia de la superficie posterior, considere imprimir en una placa de construcción lisa con un patrón de textura sutil y utilizar varias configuraciones de piel difusa.\n¡Un agradecimiento especial a Flemming por la inspiración del diseño!",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 17",
+  "funda del iphone 17",
+  "funda iphone 17",
+  "cubierta del iphone",
+  "funda del iphone",
+  "tpu",
+  "voronói",
+  "caja del teléfono",
+  "cubierta del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7e79d5fda0f2b3/design/df351f0a4fe10b41.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1558
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   329
+  ],
+  "previews/05.jpg": [
+   1000,
+   423
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/2809734.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "3829455",
+   "thumbnail": "previews/profiles/3829455.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.25mm layer, 2 walls, 7.5% infill",
+    "profile_notes": "DEFINITELY USE ADAPTIVE LAYER HEIGHT TO MAX ADAPTIVE SETTING ONLY ADDS 5-10 MINS TO PRINT",
+    "creation_date": "2026-09-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.25",
+    "infill": "7.5%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1260464,
+   "sha256": "a14464269ea1ccfb3d5cdc35b489b9da19cf712828d6a4961621922fc13897d8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3367359",
+ "title": "Funda iPhone 16",
+ "slug": "iphone-16-case",
+ "url": "https://makerworld.com/en/models/3367359-iphone-16-case",
+ "author": "print3dlabs",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda iPhone 16\nFunda para iPhone 16 ideal para imprimir en PLA (aún no he probado PETG).\nOpté por soportes Snug Auto Normal y lo imprimí en una placa texturizada por estética y apariencia.\nTENGA MUCHO CUIDADO AL PONER LA FUNDA - Aún no la he roto pero tuve cuidado al ponerla en el teléfono.\nRecomiendo alturas de capa adaptables para esto, ya que hace que toda la impresión sea mucho más suave y limpia. (Además, solo agrega de 5 a 10 minutos a la impresión y muy poco filamento extra, por lo que definitivamente vale la pena.\nLa impresión tarda aproximadamente una hora y los soportes se desprenden fácilmente.\nStl crudo. Se adjunta el archivo de Fusion. Me encantaría ver adaptaciones de este estuche, ya que estoy muy contento con el mío en mi teléfono.\nLas configuraciones que utilicé están en el Perfil de impresión -…. ¡Disfruta de la impresión!",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone16",
+  "iphone 16",
+  "funda iphone16",
+  "funda iphone 16",
+  "funda del iphone 16",
+  "teléfono",
+  "caja del teléfono",
+  "apple",
+  "apple iphone",
+  "funda pla"
+ ],
+ "license": "Standard Digital File License - Community Use",
+ "release_date": "2026-09-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US92719af25ef4a2/design/983d7a74f8ca10b9.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3829455.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

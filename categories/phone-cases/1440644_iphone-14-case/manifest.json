@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "1499437",
+   "thumbnail": "previews/profiles/1499437.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 27,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.16mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-05-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1030788,
+   "sha256": "3eb1edfd70398d95a93cd0960050a1d8f4e2084a9e37b2797db6627eb39b66a4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1440644",
+ "title": "Funda iPhone 14",
+ "slug": "iphone-14-case",
+ "url": "https://makerworld.com/en/models/1440644-iphone-14-case",
+ "author": "FrSo",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda sencilla para iPhone 14 impresa con una textura de piel ligera y difusa. Hay un pequeño escondite en el interior para 2 o 3 tarjetas: identificación, tarjeta de crédito o algo de efectivo.\n\nDiseñado para imprimirse con TPU 95A, los materiales más rígidos pueden dificultar su colocación y extracción. Hay un saliente en la parte superior, que no requiere impresión con soportes, pero sí necesitará algo de limpieza.\n\nBoost Me¿Disfrutas de mis modelos 3D? ¡Deja un impulso para mostrar tu apoyo!",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "apple",
+  "iphone14",
+  "iphone 14",
+  "funda",
+  "funda iphone",
+  "simple",
+  "estético",
+  "difuso",
+  "piel peluda",
+  "dinero",
+  "alijo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc74552662adaa2/design/2025-05-21_0081466a6eabd.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1091
+  ],
+  "previews/profiles/1499437.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

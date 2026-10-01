@@ -1,0 +1,116 @@
+{
+ "files": [
+  {
+   "path": "model/funda-delgada.3mf.xz",
+   "instance_id": "3569874",
+   "thumbnail": "previews/profiles/3569874.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "A1",
+    "H2C",
+    "A2L",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 845068,
+   "sha256": "dc0c5419f7f5e840f4743fe59b3a2ac58b60f76ba6b9f7258be4ea1c7971cc99",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3159010",
+ "title": "Funda delgada para Samsung Galaxy Z Fold 8: ¡ajuste perfecto!",
+ "slug": "samsung-galaxy-z-fold-8-slim-cover-perfect-fit",
+ "url": "https://makerworld.com/en/models/3159010-samsung-galaxy-z-fold-8-slim-cover-perfect-fit",
+ "author": "antosmondhome",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Esta es una funda súper simple y de ajuste perfecto para el nuevo Samsung Galaxy Z Fold 8, se ajusta perfectamente y se mantiene en su lugar sin ningún adhesivo. Impreso y verificado en Bambu Lab PLA Mate",
+ "use_cases": [],
+ "tags": [
+  "samsung",
+  "zfold8",
+  "plegado en z",
+  "doblar",
+  "teléfono",
+  "funda",
+  "delgado",
+  "mínimo",
+  "teléfono inteligente",
+  "plegable",
+  "galaxy",
+  "con pliegue8"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US42b38bf19015df/design/672d5dc4486d2e8d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   562,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   562,
+   1000
+  ],
+  "previews/06.jpg": [
+   562,
+   1000
+  ],
+  "previews/profiles/3569874.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

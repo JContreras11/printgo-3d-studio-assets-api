@@ -1,0 +1,113 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono.3mf.xz",
+   "instance_id": "1066911",
+   "thumbnail": "previews/profiles/1066911.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 94,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "iPhone11，0.16mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "建议PETG或TPU打印",
+    "creation_date": "2025-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3496,
+      "weight_g": 32.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#DF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 1567400,
+   "sha256": "dfa656c7c9601d33e991a732219b4e2b9dcb9d28497d200a6e8d34d7e9b26e16",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1076091",
+ "title": "Funda para teléfono iPhone 11",
+ "slug": "iphone-11-phone-case",
+ "url": "https://makerworld.com/en/models/1076091-iphone-11-phone-case",
+ "author": "iKun3D",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Una funda para teléfono diseñada para el clásico iPhone 11.\nPrimero inserte el lado del teléfono con los botones de volumen y encendido, luego el borde superior, luego el lado izquierdo hacia abajo y finalmente el inferior. El estuche encajará en su lugar.\nAntes de imprimir, asegúrese de que la cama esté limpia y el filamento esté seco. Si ha imprimido esto con éxito, ¡comparta sus resultados en los comentarios! ¡Gracias!\nBoost MeA parte central, overol, soy un ikun, recuerda eso",
+ "use_cases": [],
+ "tags": [
+  "apple",
+  "teléfono",
+  "iphone 11"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US109bd8dec97e4a/design/5ec26456-b2a9-4dc3-9bf4-d31f276537d9.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   750
+  ],
+  "previews/02.webp": [
+   1000,
+   1333
+  ],
+  "previews/03.webp": [
+   1000,
+   750
+  ],
+  "previews/04.webp": [
+   969,
+   1292
+  ],
+  "previews/profiles/1066911.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

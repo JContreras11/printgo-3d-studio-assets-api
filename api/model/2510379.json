@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/funda-pulso.3mf.xz",
+   "instance_id": "2760662",
+   "thumbnail": "previews/profiles/2760662.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2S",
+    "P1P",
+    "X1",
+    "A1",
+    "A1 mini",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-03-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 448832,
+   "sha256": "4413d012367d8d806eb9238499b41930cedacb98df835a9e8bfa3b1164f8bd75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2510379",
+ "title": "funda de pulso de arco para iPhone 16 inspirada",
+ "slug": "iphone-16-arc-pulse-case-inspired",
+ "url": "https://makerworld.com/en/models/2510379-iphone-16-arc-pulse-case-inspired",
+ "author": "Lo454",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Este es un estuche inspirado en el estuche Arc Pulse para iPhone 16. Recomiendo imprimirlo en TPU para AMS para una máxima protección, pero PLA o PETG también pueden funcionar. Todavía es un prototipo, así que si encuentra algún problema o tiene alguna sugerencia, hágamelo saber en los comentarios.",
+ "use_cases": [],
+ "tags": [
+  "iphone 16",
+  "16",
+  "iphone",
+  "funda",
+  "pulso de arco",
+  "tpu ams",
+  "funda del iphone",
+  "cubierta del iphone",
+  "3d",
+  "lindo",
+  "minimalista",
+  "funda minimalista"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-03-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd305c1f0fa766b/design/fc1af165c95810e6.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2760662.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

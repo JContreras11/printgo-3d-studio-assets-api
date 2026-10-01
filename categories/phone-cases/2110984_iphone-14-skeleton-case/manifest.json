@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto.3mf.xz",
+   "instance_id": "2602177",
+   "thumbnail": "previews/profiles/2602177.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 17,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "A2L",
+    "X1E",
+    "H2S",
+    "H2D",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1884888,
+   "sha256": "b8702f3da76330f3b9914fd8a37036ec134d2b3e1744b20786c5749e96803985",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2110984",
+ "title": "Funda esqueleto para iPhone 14",
+ "slug": "iphone-14-skeleton-case",
+ "url": "https://makerworld.com/en/models/2110984-iphone-14-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Funda esqueleto para iPhone 14 Funda ergonómica para teléfono impresa en 3D\nEsta funda esqueleto para iPhone 14 está diseñada para impresión 3D FDM y combina un perfil delgado con una protección confiable. La estructura ergonómica garantiza un agarre cómodo mientras envuelve con precisión el teléfono para proteger las cuatro esquinas de los impactos cotidianos.\nEl diseño estilo exoesqueleto minimiza el uso de material y al mismo tiempo mantiene la resistencia donde más importa. El estuche se ajusta de forma segura a la mano, se siente equilibrado durante el uso y agrega protección sin volumen innecesario.\nOptimizado para una impresión limpia y sin soporte, este modelo es adecuado tanto para principiantes como para creadores avanzados.\nConfiguración de impresión recomendada\nMaterial: PLA (se imprime fácilmente) Se recomienda PET-G para mayor durabilidad\nRelleno: 10–15%\nParedes/Perímetros: 2–3 (ajustar como se prefiera)\nSoportes: No requerido\nTipo de impresora: FDM\nCaracterísticas clave\nDiseñado específicamente para iPhone 14\nAgarre ergonómico y fácil de usar\nProtección de cuatro esquinas\nDiseño de esqueleto ligero\nImpresión sencilla y sin soporte",
+ "use_cases": [],
+ "tags": [
+  "iphone 14",
+  "funda del iphone",
+  "teléfono",
+  "teléfono móvil",
+  "funda móvil",
+  "funda iphone 14"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-12-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd225faa0e30c0b/design/a7a1d3834be8dcb9.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.webp",
+  "previews/04.webp"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/04.webp": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2602177.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

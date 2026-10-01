@@ -1,0 +1,134 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "442460",
+   "thumbnail": "previews/profiles/442460.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1497,
+      "weight_g": 6.86,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3570,
+      "weight_g": 23.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 4643824,
+   "sha256": "90c7688a16cb415d94a0feba0b37495d63a02c0bf28d95483587dbf83ea00e8d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "525661",
+ "title": "Funda iPhone 15 plus Con soporte",
+ "slug": "iphone-15-plus-case-with-stand",
+ "url": "https://makerworld.com/en/models/525661-iphone-15-plus-case-with-stand",
+ "author": "user_1215717745",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Esta funda para teléfono personalizada impresa en 3D está diseñada para un iPhone 15 Plus. Presenta un diseño elegante y moderno con un acabado texturizado para un mejor agarre y una estética única. El estuche incluye recortes de precisión para las lentes, botones y puertos de la cámara, lo que garantiza una funcionalidad completa sin necesidad de quitar el estuche.\nEl material utilizado es PC-CF, que es duradero y ligeramente flexible, brinda protección contra caídas y rayones mientras mantiene un perfil liviano. También funciona bien con otros materiales como PLA y ABS.\nAdemás, los protectores para proteger la cámara y el soporte deben estar pegados en su lugar, asegurando que permanezcan seguros y brinden una protección óptima.\nEste diseño combina practicidad con una apariencia moderna, lo que lo hace perfecto para usuarios que desean protección y estilo para sus teléfonos.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda",
+  "iphone 15 más",
+  "teléfono",
+  "estilo",
+  "escaparse",
+  "moderno",
+  "botón",
+  "puerto",
+  "elegante",
+  "flexible",
+  "integrado"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-07-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbf650658f6112e/design/2024-07-05_b0200bd019029.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   526
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/442460.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

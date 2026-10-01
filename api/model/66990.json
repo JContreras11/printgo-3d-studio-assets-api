@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/funda-celular.3mf.xz",
+   "instance_id": "70808",
+   "thumbnail": "previews/profiles/70808.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 52,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3180,
+      "weight_g": 24.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1055508,
+   "sha256": "d907ed30d544a9df7e4f42b35f77f1ff46b5114afb6105a891b06c78acd71ae6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "66990",
+ "title": "Funda para celular Samsung A52",
+ "slug": "samsung-a52-cell-phone-case",
+ "url": "https://makerworld.com/en/models/66990-samsung-a52-cell-phone-case",
+ "author": "LinusHenze",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda para teléfono súper moderna y única. Funciona para Samsung A52 y A 52s.",
+ "use_cases": [],
+ "tags": [
+  "teléfono",
+  "caja del teléfono",
+  "soporte para teléfono",
+  "celúla",
+  "teléfono móvil",
+  "soporte para celular",
+  "samsung",
+  "funda",
+  "práctico",
+  "práctico soporte",
+  "electrónica"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2023-11-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfff9c95f43f461/design/2023-11-17_795003e435c89.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/70808.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

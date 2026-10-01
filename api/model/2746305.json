@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "3046196",
+   "thumbnail": "previews/profiles/3046196.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "H2D",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1358888,
+   "sha256": "5d9e1d316d7b4e6a674457e33281c0ee3bc509eb43956ca6debb5510c6a16c9d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2746305",
+ "title": "Funda iPhone SE 2020/2022 - con ranura para tarjetas",
+ "slug": "iphone-se-2020-2022-case-with-card-slot",
+ "url": "https://makerworld.com/en/models/2746305-iphone-se-2020-2022-case-with-card-slot",
+ "author": "HellerKaese",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Adapté el excelente modelo de VincenzoLoretto (iPhone SE 2020/2022 Hülle - dickere Wandstärke – Kostenloses 3D-Druckmodell – MakerWorld) y agregué una ranura para tarjetas de tamaño estándar, como tarjetas de crédito.\n¡Disfruta imprimiéndolo y usándolo!\nImpúlsame, por favor dame un impulso si te gusta mi modelo.",
+ "use_cases": [],
+ "tags": [
+  "teléfono",
+  "caja del teléfono",
+  "iphone",
+  "funda del iphone",
+  "iphone se",
+  "iphone se 2",
+  "iphone se 2020",
+  "iphone se 2022",
+  "funda del iphone se",
+  "funda"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-05-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb4d849b651fe16/design/3fbb0a1e728675a8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3046196.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,199 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h12.3mf.xz",
+   "instance_id": "800312",
+   "thumbnail": "previews/profiles/800312.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "V1",
+    "profile_notes": "0.12 mm layer height Standard strength settings Hilbert curve on the bottom surface to make a cool appearance",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4187,
+      "weight_g": 12.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1993840,
+   "sha256": "5fc5fe0559d34b39bee06e5f64bddb5d6b7b85aa8a681e4f3ac2bf6650cf86ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-1h48.3mf.xz",
+   "instance_id": "1288856",
+   "thumbnail": "previews/profiles/1288856.jpg",
+   "print_time_h": 1.8,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 84,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "V2",
+    "profile_notes": "-New geometry for better fitment -Solid back version has been added",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2646,
+      "weight_g": 10.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3412,
+      "weight_g": 20.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "ABS",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 509,
+      "weight_g": 0.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor",
+   "size": 2316956,
+   "sha256": "251e654f8bd67ff46fbe82a202b256d1049d11ea700a90247be04e3f2e6b967e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "851964",
+ "title": "Funda iPhone 13/14",
+ "slug": "iphone-13-14-case",
+ "url": "https://makerworld.com/en/models/851964-iphone-13-14-case",
+ "author": "Mediocre_Maker",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda híbrida tipo parachoques para iPhone 13 con protección para la cámara. El cristal trasero está expuesto, lo que resulta agradable y lo deja abierto para la mayoría de los accesorios MagSafe. La protección de la cámara y el estuche son componentes separados para permitir que no se necesiten soportes y personalizar el color. Hay secciones acanaladas donde agarras el teléfono que le dan una textura única.\n\nImprime la carcasa principal en PETG, ABS o PLA, y el anillo de la cámara en cualquier material que elijas.\n\n**V2: Ajuste mejorado y eliminación de agujeros en la parte posterior ya que nunca lucieron del todo bien. Ahora disponible con respaldo sólido.",
+ "use_cases": [],
+ "tags": [
+  "iphone 13",
+  "funda del iphone",
+  "funda",
+  "funda de parachoques del iphone",
+  "funda de parachoques"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2ff0aa31906389/design/2024-12-05_273f2b0164b6c8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/800312.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1288856.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

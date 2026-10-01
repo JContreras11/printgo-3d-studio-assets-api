@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "2696417",
+   "thumbnail": "previews/profiles/2696417.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 4.2,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2C",
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "X2D",
+    "P1P",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1440844,
+   "sha256": "30f5bfd0bb6a6d0da0c1b42b0c80cbf40fd882f09aa1e1ca9591678f216f258f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2455774",
+ "title": "Funda iPhone 17 Pro – TPU + PLA",
+ "slug": "cover-iphone-17-pro-tpu-pla",
+ "url": "https://makerworld.com/en/models/2455774-cover-iphone-17-pro-tpu-pla",
+ "author": "zibibbo",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Protección híbrida definitiva para iPhone 17 Pro\nProtege tu iPhone 17 Pro con esta funda híbrida diseñada para ofrecer la máxima protección diaria sin comprometer la elegancia, la ergonomía y la comodidad.\nEl diseño combina un cuerpo de TPU flexible, ideal para absorber golpes y caídas accidentales, con una placa trasera rígida de PLA, creando una estructura sólida, duradera y perfectamente equilibrada en la mano.\nCaracterísticas principales\nDiseño híbrido avanzado\nEl TPU flexible facilita la instalación y protege contra impactos, mientras que el inserto rígido de PLA garantiza una mayor integridad estructural y durabilidad a largo plazo.\nBotones protegidos y responsivos\nLos botones laterales están completamente cubiertos por TPU para una protección total, manteniendo una respuesta táctil precisa y agradable.\nProtección del módulo de cámara\nBordes elevados diseñados para proteger el módulo de la cámara del iPhone 17 Pro contra rasguños, superficies planas e impactos directos.\nProtección de pantalla\nBisel ligeramente elevado para proteger la pantalla cuando el teléfono se coloca boca abajo\nTextura premium\nLa placa posterior está diseñada para imprimirse boca abajo sobre una placa PEI texturizada, logrando un acabado profesional, antideslizante y resistente a huellas dactilares.\nConfiguración de impresión\n1. Cuerpo principal (parachoques)\nMaterial: TPU (se recomienda 95A)\nParedes/Perímetros: 3 paredes para mayor durabilidad\nRelleno: 15–20% (giroide o cuadrícula)\nSoportes: Opcional: Soportes mínimos para la zona del puerto.\nO: Ninguno\n\n2. Placa posterior (inserto)\nMaterial: PLA, PLA-CF o PETG",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "apple",
+  "iphone 17 pro",
+  "cubierta del iphone",
+  "funda iphone",
+  "teléfono inteligente",
+  "funda",
+  "cubrir"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-02-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f9fe2aedf1ce/design/79403eceef8f6746.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/profiles/2696417.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

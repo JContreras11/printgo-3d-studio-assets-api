@@ -1,0 +1,200 @@
+{
+ "files": [
+  {
+   "path": "model/fundas-telefono-2h42.3mf.xz",
+   "instance_id": "449467",
+   "thumbnail": "previews/profiles/449467.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Mandalorian helmet",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9691,
+      "weight_g": 33.75,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 3067224,
+   "sha256": "eb83b34c74f30d5b9f8d9d43bb8eb11e874455d59cf4b30e0209e8dd2e98a8aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fundas-telefono-2h48.3mf.xz",
+   "instance_id": "450347",
+   "thumbnail": "previews/profiles/450347.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "The Millennium Falcon is here!",
+    "creation_date": "2025-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10142,
+      "weight_g": 35.45,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 3402468,
+   "sha256": "3bd12ceae9cac921565883da7f5f07bba6d5d64b584f14ae66456c09211449a9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "532619",
+ "title": "Fundas de teléfono grabadas",
+ "slug": "etched-phone-cases",
+ "url": "https://makerworld.com/en/models/532619-etched-phone-cases",
+ "author": "Btascards",
+ "category": "phone-cases",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Esta es una funda para el iPhone 11. También se adapta a cualquier otro iPhone superior al diez. Para los trece, catorce y quince años, reduzca la escala en un 2 por ciento para un mejor ajuste. El mandaloriano y el Halcón Milenario son los únicos casos ahora, pero agregaré un funda por día a mi perfil, así que si quieres un estilo específico házmelo saber en los comentarios.",
+ "use_cases": [],
+ "tags": [
+  "teléfono",
+  "iphone",
+  "funda",
+  "guerra de las galaxias",
+  "mando",
+  "mandoloriano",
+  "casco",
+  "halcón",
+  "halcón milenario",
+  "han solo",
+  "barco",
+  "iniciar el barco"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-07-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US28969e02fb75e3/design/2024-07-10_298f1e28d042a.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   204,
+   247
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/449467.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/450347.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

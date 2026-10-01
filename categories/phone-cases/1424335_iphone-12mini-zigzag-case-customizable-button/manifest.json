@@ -1,0 +1,152 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-2h24.3mf.xz",
+   "instance_id": "1480252",
+   "thumbnail": "previews/profiles/1480252.jpg",
+   "print_time_h": 2.4,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "PLA",
+    "creation_date": "2025-05-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1564192,
+   "sha256": "6deb595612205263de51f6870c8bb8c7949f3280602c86273f3c4b7b9da1f802",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-4h18.3mf.xz",
+   "instance_id": "1480255",
+   "thumbnail": "previews/profiles/1480255.jpg",
+   "print_time_h": 4.3,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "TPU",
+    "creation_date": "2025-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1567020,
+   "sha256": "ba82b76e4e50df2178740db0d645a7d25868db3e961874a6c5a20177114b4bc2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1424335",
+ "title": "Funda iPhone 12mini Zigzag Botón Personalizable",
+ "slug": "iphone-12mini-zigzag-case-customizable-button",
+ "url": "https://makerworld.com/en/models/1424335-iphone-12mini-zigzag-case-customizable-button",
+ "author": "Printzag",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Características:\nLos colores de los botones y del protector de la cámara son totalmente personalizables.\nAdmite impresión en PLA, PETG y TPU (modelo de vitrina impreso en PLA).\nUtilice el generador de pared Arachne con una boquilla de 0,4 mm para evitar espacios en detalles finos (<0,45 mm).\nProbado físicamente con un prototipo de iPhone para un ajuste preciso.\nLas fundas PLA/PETG pueden romperse al retirar el teléfono.\nEl método de instalación del protector de cámara 12mini es diferente al que se muestra en el vídeo. Consulte las siguientes instrucciones de instalación.\n\nDebido a la contracción del material, los botones pueden quedar demasiado apretados dependiendo del filamento utilizado. Si esto sucede, intente lijar cuidadosamente el borde superior del ojal con una lima pequeña para eliminar cualquier material de soporte sobrante, o escale el eje X del botón a aproximadamente el 98% (como se muestra a continuación) antes de imprimir para un mejor ajuste.\n\nNo quites el faldón exterior del botón; está diseñado para evitar que el botón se caiga.\nOtros casos\nfunda en zigzag\nEstuche con placa posterior personalizable\nExperimental\n16 Pro Max16 Pro MaxEstuche en zigzag\nAirpods2\n16 Pro Dragón Negro\n16 Pro Máximo\nFunda Lite 16 Plus Zigzag\n15 Pro Máximo\nPlaca trasera compatible con 16 legos\n16 Pro Máximo\n15 Pro Max 15 Pro 15 Plus 15 14 Pro Max 14 Pro 14 Plus 14 13 Pro Max 13 Pro 13 Plus 13 12 Pro Max 12 Pro 12 12 Mini",
+ "use_cases": [],
+ "tags": [
+  "teléfono",
+  "práctico",
+  "iphone",
+  "moderno",
+  "minimalista",
+  "modelo",
+  "3d",
+  "impresión 3d",
+  "12 minis",
+  "iphone 12",
+  "caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8e2f2f352c1ce3/design/2025-05-17_41de276e745c4.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1480252.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1480255.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

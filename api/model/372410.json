@@ -1,0 +1,247 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h18.3mf.xz",
+   "instance_id": "272347",
+   "thumbnail": "previews/profiles/272347.jpg",
+   "print_time_h": 1.3,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 272,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3891,
+      "weight_g": 12.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 644,
+      "weight_g": 0.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2668168,
+   "sha256": "b6e17f40b9db604637101a68ce5628e9ac4e006f8b0874835e1869bd2d9e71ec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-42min.3mf.xz",
+   "instance_id": "2046669",
+   "thumbnail": "previews/profiles/2046669.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1610720,
+   "sha256": "997bed9c8b308bb69c6a354fc3ccad27073215ae20519f22a1fb56771a4c0629",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-54min.3mf.xz",
+   "instance_id": "1645413",
+   "thumbnail": "previews/profiles/1645413.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "This variation has three main differences: Large cutout in the back to accommodate a mag wallet Increased perimeter wall height so that it doesn't rest on the glass when face down Larger hole for USB C plugs and rounded edges",
+    "creation_date": "2025-06-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1797124,
+   "sha256": "38e76af2239420b48f6de6c29a797779282aaa9b5790e43ca0a5bad7fab0ceff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "372410",
+ "title": "funda iPhone 15",
+ "slug": "iphone-15-case",
+ "url": "https://makerworld.com/en/models/372410-iphone-15-case",
+ "author": "la3ddanslapoche",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda Boost MeiPhone 15 con protección de lente.\n\nprotección de lentes",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "iphone",
+  "apple",
+  "iphone 15",
+  "cáscara"
+ ],
+ "license": "BY-NC",
+ "release_date": "2024-03-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US89f294ee5ec11/design/2024-03-15_12e2e630a1206.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1044
+  ],
+  "previews/02.jpg": [
+   1000,
+   1090
+  ],
+  "previews/03.jpg": [
+   1000,
+   705
+  ],
+  "previews/04.jpg": [
+   1000,
+   905
+  ],
+  "previews/05.jpg": [
+   1000,
+   981
+  ],
+  "previews/06.jpg": [
+   1000,
+   949
+  ],
+  "previews/07.png": [
+   1000,
+   527
+  ],
+  "previews/08.png": [
+   1000,
+   527
+  ],
+  "previews/09.png": [
+   1000,
+   527
+  ],
+  "previews/profiles/272347.jpg": [
+   600,
+   626
+  ],
+  "previews/profiles/2046669.jpg": [
+   317,
+   536
+  ],
+  "previews/profiles/1645413.jpg": [
+   600,
+   957
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,368 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-v2-1h.3mf.xz",
+   "instance_id": "2421326",
+   "thumbnail": "previews/profiles/2421326.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2C",
+    "P1P",
+    "P2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "15 pro Max - PLA/PETG",
+    "creation_date": "2026-01-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1668052,
+   "sha256": "61a33f2f7ae0289da191da7daee591c001965a88693e974c47bd384704da59f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-v2-1h06.3mf.xz",
+   "instance_id": "2421074",
+   "thumbnail": "previews/profiles/2421074.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "X1 Carbon",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "16 pro Max - PLA/PETG",
+    "creation_date": "2026-01-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1684016,
+   "sha256": "9cb69e4cde35b0b446d7604bc7c840e1a940ba06595d1230b2a5326c7ed0349f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-v2-1h12.3mf.xz",
+   "instance_id": "2421344",
+   "thumbnail": "previews/profiles/2421344.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "14 pro - PLA/PETG",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1667228,
+   "sha256": "08b507421abf8a8fe46fee3e1402e6671791f5d5dcb9e50a828ec668c17269d8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-v2-1h36.3mf.xz",
+   "instance_id": "2421342",
+   "thumbnail": "previews/profiles/2421342.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "X1E",
+    "P1S",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "14 pro - TPU",
+    "creation_date": "2026-01-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1741568,
+   "sha256": "7ed5be2bdc2be92fa259250386ccb82fb1e1eea1ce66784d7fb82b9868034a9e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-v2-1h42.3mf.xz",
+   "instance_id": "2421335",
+   "thumbnail": "previews/profiles/2421335.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2S",
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "15 pro Max - TPU",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1743812,
+   "sha256": "0a11bbe0ebf91bb372321c8397ac9129087efcaacf28eef019abab8ff73a053a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-v2-54min.3mf.xz",
+   "instance_id": "2421338",
+   "thumbnail": "previews/profiles/2421338.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2S",
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "15 pro - PLA/PETG",
+    "creation_date": "2026-01-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1673752,
+   "sha256": "26fe563c8040bc5245dd9dbd129b1d14296d65aaad5d6682eede8d1454a02fcb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2225815",
+ "title": "Estuche v2 iPhone con MagSafe",
+ "slug": "infill-case-v2-iphone-case-with-magsafe",
+ "url": "https://makerworld.com/en/models/2225815-infill-case-v2-iphone-case-with-magsafe",
+ "author": "Mesmar",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Esta es la segunda versión del “Infill Case”, ahora con soporte MagSafe. Disponible con perfiles de TPU y PLA/PETG.\nLa ranura del imán está diseñada para ser compatible con una amplia gama de tamaños de imanes MagSafe.\nImpúlsameGracias:)MembresíaNotas importantes:\nSe recomienda encarecidamente el TPU, ya que proporcionará una mejor protección y confiabilidad. PLA/PETG es rígido y puede agrietar o rayar fácilmente el marco del teléfono.\n\nLos perfiles PLA/PETG sólo deben imprimirse con rellenos cúbicos o alveolares para evitar que el relleno se separe del marco.\n\nModelos de iPhone compatibles:\niPhone 14 Pro\niPhone 15 Pro\niPhone 15 Pro Max\niPhone 16\niPhone 16 Pro Max\n\nImanes probados:\n\nAdemás, si te gusta un diseño más simple, consulta la versión 1 de “Infill Case” sin MagSafe:",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda",
+  "funda del iphone",
+  "cubrir",
+  "tpu",
+  "pla",
+  "petg",
+  "teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4302a009bbc53f/design/2026-01-10_3505bd64eb2c2.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   960,
+   1280
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2421326.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2421074.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2421344.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2421342.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2421335.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2421338.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

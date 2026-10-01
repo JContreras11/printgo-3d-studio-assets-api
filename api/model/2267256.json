@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "2471097",
+   "thumbnail": "previews/profiles/2471097.jpg",
+   "print_time_h": 37.3,
+   "plates": 25,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 25
+   },
+   "name": "Versión estándar",
+   "size": 12046476,
+   "sha256": "2cf162ea4e79e36a6db4f52df01c152f3cc6193c25a6f49d3ac6683c3e08b2f3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2267256",
+ "title": "Funda para iPhone Taking Ape (Bape) - Todos los iPhones 17-11",
+ "slug": "bathing-ape-bape-iphone-case-all-iphones-17-11",
+ "url": "https://makerworld.com/en/models/2267256-bathing-ape-bape-iphone-case-all-iphones-17-11",
+ "author": "LayerLab.Shop",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Se requiere AMS, utiliza aproximadamente 30 g de filamento e imprime en menos de 90 minutos, fundas disponibles para todos los iPhone hasta el iPhone 11.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda del iphone",
+  "bape",
+  "supremo",
+  "blanquecino",
+  "luis vuitton",
+  "gucci",
+  "nike",
+  "adidas",
+  "yeezy",
+  "iphone 17",
+  "iphone 17 aire"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-01-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb94b4f1c8de327/design/2026-01-19_72911200a0af88.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2471097.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

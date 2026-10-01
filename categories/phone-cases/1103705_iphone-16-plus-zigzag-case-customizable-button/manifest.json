@@ -1,0 +1,283 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h42.3mf.xz",
+   "instance_id": "1099199",
+   "thumbnail": "previews/profiles/1099199.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.1,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "PLA/PETG Magsafe 0.2mm",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5345,
+      "weight_g": 31.14,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 650,
+      "weight_g": 1.54,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1135224,
+   "sha256": "6d818cf86906d82bfbb53a0bdc4548753b6bce5d21459e9bcd6112f19777ee04",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-3h.3mf.xz",
+   "instance_id": "1099226",
+   "thumbnail": "previews/profiles/1099226.jpg",
+   "print_time_h": 3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "TPU 0.2mm Magsafe (Widened the top layer edges)",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10115,
+      "weight_g": 32.09,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 650,
+      "weight_g": 1.54,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 1427044,
+   "sha256": "fd4b9c851b20cc00f87bdd1841287c1825e8c81ae81e8aaaab3348d78e651f89",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-3h06.3mf.xz",
+   "instance_id": "1099224",
+   "thumbnail": "previews/profiles/1099224.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "TPU 0.2mm (Widened the top layer edges)",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10620,
+      "weight_g": 34.34,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 650,
+      "weight_g": 1.54,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 1394568,
+   "sha256": "b67b227c1ad24c7d5a08e8994547eb978c54b44cd0ace63ce295041abc18927a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1103705",
+ "title": "Funda iPhone 16 Plus Zigzag Botón Personalizable",
+ "slug": "iphone-16-plus-zigzag-case-customizable-button",
+ "url": "https://makerworld.com/en/models/1103705-iphone-16-plus-zigzag-case-customizable-button",
+ "author": "Printzag",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Actualización del modelo (22/02/2025):\nA la versión subida antes del 22 de febrero le faltaba el agujero de la linterna. Disculpas a quienes ya descargaron e imprimieron el modelo.\nEl problema ya se ha solucionado y la versión actualizada con la apertura correcta está disponible para descargar. ¡Gracias por su comprensión!\n¡Un agradecimiento especial a iTech designs por informarme sobre esto!\nCaracterísticas:\nLos colores de los botones y del protector de la cámara son totalmente personalizables.\nAdmite impresión en PLA, PETG y TPU (modelo de vitrina impreso en PLA).\nUtilice el generador de pared Arachne con una boquilla de 0,4 mm para evitar espacios en detalles finos (<0,45 mm).\nProbado físicamente con un prototipo de iPhone para un ajuste preciso.\nEl área del botón de la cámara es frágil: instálelo con cuidado.\nLas carcasas de PLA/PETG pueden romperse al retirar el teléfono; ábralas desde el área del botón de la cámara si es necesario.\n\nEl método de instalación del protector de cámara del 16 Plus es diferente al que se muestra en el vídeo. Consulte las siguientes instrucciones de instalación.\n\nDebido a la contracción del material, los botones pueden quedar demasiado apretados dependiendo del filamento utilizado. Si esto sucede, intente lijar cuidadosamente el borde superior del ojal con una lima pequeña para eliminar cualquier material de soporte sobrante, o escale el eje X del botón a aproximadamente el 98% (como se muestra a continuación) antes de imprimir para un mejor ajuste.\n\nNo quites el faldón exterior del botón; está diseñado para evitar que el botón se caiga.\nOtros casos\nfunda en zigzag\nEstuche con placa posterior personalizable\nExperimental\n16 Pro Max16 Pro MaxEstuche en zigzag\nAirpods2\n16 Pro Dragón Negro\n16 Pro Máximo\nFunda Lite 16 Plus Zigzag\n15 Pro Máximo\nPlaca trasera compatible con 16 legos\n16 Pro Máximo\n15 Pro Max 15 Pro 15 Plus 15 14 Pro Max 14 Pro 14 Plus 14 13 Pro Max 13 Pro 13 Plus 13 12 Pro Max 12 Pro 12 12 Mini",
+ "use_cases": [],
+ "tags": [
+  "iphone16plus",
+  "iphone",
+  "funda del iphone",
+  "iphone 16",
+  "caja del teléfono",
+  "principado"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa356ee5fc29af1/design/2025-02-24_4c7b19e9433f9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1099199.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1099226.jpg": [
+   600,
+   467
+  ],
+  "previews/profiles/1099224.jpg": [
+   600,
+   412
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h36.3mf.xz",
+   "instance_id": "2517049",
+   "thumbnail": "previews/profiles/2517049.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "TPU 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1259464,
+   "sha256": "ad69c1ebc0efd8a884c582d6a873c0e8b456b347b56a75c1fcbea5878f7fd7d5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-1h30.3mf.xz",
+   "instance_id": "2517066",
+   "thumbnail": "previews/profiles/2517066.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1 mini",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "PLA PETG 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "1% bigger for hard materials",
+    "creation_date": "2026-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1261060,
+   "sha256": "f395a3fe75da1ffd0591efbcb0fa0ebfe05f51074f7742e90caf3682106836c5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2305830",
+ "title": "Funda iPhone 14",
+ "slug": "iphone-14-case",
+ "url": "https://makerworld.com/en/models/2305830-iphone-14-case",
+ "author": "Matteod22",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Impulsame ¡Hola! Si te gusta mi trabajo, considera darme un impulso, realmente me ayudaría a seguir mejorando. <3Membresía¡Apoya mi trabajo y desbloquea una licencia comercial para vender legalmente impresiones 3D de mis modelos!\nFUNDA PARA iPhone 14\n\nYo mismo diseñé esta funda para iPhone 14, con un fuerte enfoque en la protección de la cámara y la pantalla.\nComo puede ver en las imágenes, el estuche presenta protectores elevados alrededor de la cámara y los bordes, lo que ayuda a proteger el teléfono de impactos y rayones cuando se coloca sobre superficies planas.\nPuedes imprimirlo utilizando el material que prefieras. En los archivos encontrará dos perfiles de impresión dedicados:\nuno optimizado para TPU\nuno para PLA, PETG o materiales rígidos en general\nEl modelo tiene una tolerancia de aproximadamente 0,3 mm, lo que es perfecto para impresiones de TPU.\nPara PLA y PETG, el perfil de impresión correspondiente incluye un 1% de mejora, lo que le permite ajustar el teléfono correctamente. Tenga en cuenta que quitar el teléfono de las carcasas de PLA o PETG puede requerir un poco de esfuerzo, ya que el ajuste es muy ceñido y seguro.\n\nEntre las fotos podéis ver los dos prototipos que imprimí:\nel rojo fabricado en PLA Silk+\nel verde fabricado en PETG translúcido, donde se ven las capas internas\nLos soportes que configuro son soportes Normales (en lugar de soportes de Árbol), ya que te permiten ahorrar más de una hora de tiempo de impresión. Están configurados con un desplazamiento en Z de 0,25 mm para facilitar la extracción. Al principio puede parecer difícil quitarlos, pero te recomiendo comenzar por el recorte de la cámara, comienza allí y podrás quitar los soportes de una sola pieza aplicando un poco de fuerza.\nPresta un poco de atención a las zonas más frágiles, como los recortes de los botones, y todo debería salir limpio.\n\nPara impresiones de TPU, es posible que tengas que limpiar los agujeros con una cuchilla o un cuchillo. El TPU tiene una fuerte adherencia de las capas y los soportes no siempre se desprenden perfectamente, por lo que puede ser necesaria una pequeña limpieza manual.\n\nMira también mi otra funda para iPhone:\n\niPhone 14 Pro\niPhone 15\niPhone 16\niPhone 16 Pro\niPhone 17 Pro\niPhone 17\nImpreso en un Bambu Lab P1S con boquilla de acero endurecido y diseñado en Fusion 360.\n\nMaryland",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "apple",
+  "funda",
+  "cubrir",
+  "funda del iphone",
+  "cubierta del iphone",
+  "tpu",
+  "funda de tpu"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb235354d6d799d/design/8064e2d94c5452cc.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   924,
+   634
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1345
+  ],
+  "previews/04.jpg": [
+   989,
+   1571
+  ],
+  "previews/05.jpg": [
+   1000,
+   1575
+  ],
+  "previews/06.jpg": [
+   1000,
+   1401
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1435
+  ],
+  "previews/09.jpg": [
+   1000,
+   970
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   856
+  ],
+  "previews/12.jpg": [
+   1000,
+   1332
+  ],
+  "previews/13.jpg": [
+   1000,
+   958
+  ],
+  "previews/14.gif": [
+   1000,
+   560
+  ],
+  "previews/profiles/2517049.jpg": [
+   600,
+   953
+  ],
+  "previews/profiles/2517066.jpg": [
+   600,
+   575
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

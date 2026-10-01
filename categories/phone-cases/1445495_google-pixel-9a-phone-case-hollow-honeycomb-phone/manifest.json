@@ -1,0 +1,181 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-42min.3mf.xz",
+   "instance_id": "1505168",
+   "thumbnail": "previews/profiles/1505168.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Google Pixel 9a",
+    "creation_date": "2025-05-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5024808,
+   "sha256": "028d356e01bf100f0d02d7f396edeb8c485c6729a0f1555dd5fd8f8be0dfbeef",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-54min.3mf.xz",
+   "instance_id": "1506445",
+   "thumbnail": "previews/profiles/1506445.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1E",
+    "H2D",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Google Pixel 9a Magsafe",
+    "creation_date": "2025-05-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4900704,
+   "sha256": "915c2912d134778db967869535dde40f8087baa55c45215c6ca3969a94feb02e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1445495",
+ "title": "Funda para teléfono Google Pixel 9a, funda para teléfono con forma de panal hueco, impresión rápida en 40 minutos",
+ "slug": "google-pixel-9a-phone-case-hollow-honeycomb-phone",
+ "url": "https://makerworld.com/en/models/1445495-google-pixel-9a-phone-case-hollow-honeycomb-phone",
+ "author": "windy_ma",
+ "category": "phone-cases",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Funda para teléfono Google Pixel 9a\n\nNota: No soy dueño de este teléfono; Este diseño fue encargado. Envíe sus comentarios si encuentra algún problema.\nImpulsameSi te gusta este modelo, considera impulsarme. ¡La creación requiere esfuerzo y agradecemos mucho su apoyo! Imprima usando PLA o PETG. Consulte la imagen a continuación para ajustar el patrón de relleno según sus preferencias.\nLos tres patrones que se muestran a continuación, de izquierda a derecha, son panal, panal 3D y cúbico. (La funda del teléfono en esta imagen es un adaptador de iPhone y se muestra solo con fines ilustrativos).\nA continuación se muestran imágenes que muestran la carcasa del teléfono Pixel 9a.",
+ "use_cases": [],
+ "tags": [
+  "google",
+  "pixel",
+  "caja del teléfono",
+  "hueco",
+  "impresión rápida",
+  "teléfono de google",
+  "funda protectora",
+  "teléfono",
+  "pixel9",
+  "magsafe"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USad0bec83b9f72d/design/2025-05-24_42f3fb68e3941.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   666
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   666
+  ],
+  "previews/06.jpg": [
+   1000,
+   666
+  ],
+  "previews/07.jpg": [
+   1000,
+   666
+  ],
+  "previews/08.jpg": [
+   1000,
+   666
+  ],
+  "previews/09.jpg": [
+   1000,
+   666
+  ],
+  "previews/10.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/1505168.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1506445.jpg": [
+   600,
+   399
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

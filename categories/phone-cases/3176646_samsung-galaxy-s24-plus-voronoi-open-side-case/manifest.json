@@ -1,0 +1,122 @@
+{
+ "files": [
+  {
+   "path": "model/funda-lateral.3mf.xz",
+   "instance_id": "3592281",
+   "thumbnail": "previews/profiles/3592281.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "A2L",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.12mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.12mm High Quality Ironing 4 walls Normal support",
+    "creation_date": "2026-08-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1644800,
+   "sha256": "7d04136f091ac2b5558b81c9ce719c2279ea4f8fd34724d373a6b3d2241e0aac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3176646",
+ "title": "Funda lateral abierta Voronoi para Samsung Galaxy S24+ (plus)",
+ "slug": "samsung-galaxy-s24-plus-voronoi-open-side-case",
+ "url": "https://makerworld.com/en/models/3176646-samsung-galaxy-s24-plus-voronoi-open-side-case",
+ "author": "aleran",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Esta es una funda protectora personalizada impresa en 3D para el Samsung Galaxy S24+ con un patrón Voronoi liviano.\nEl diseño mantiene los lados abiertos, por lo que aún puedes sentir el marco metálico original del teléfono, mientras que la parte posterior y las esquinas permanecen protegidas. Es un estuche liviano y minimalista que equilibra la protección diaria con una sensación táctil más premium.\n\nUna versión similar de este estuche con patrón Gyroid también está disponible aquí\n\nSe incluyen dos versiones:\nVersión estándar: una funda protectora sencilla sin accesorios de montaje adicionales.\nVersión con anillo magnético: incluye una ranura empotrada en el interior del estuche para instalar un anillo metálico del tamaño de MagSafe entre el teléfono y el estuche.\n\nEl anillo de metal integrado sigue el tamaño y diseño estándar del anillo MagSafe. Permite que el Samsung Galaxy S24+ funcione con anillos magnéticos, soportes, soportes para automóvil y otros accesorios magnéticos para teléfonos compatibles.\nEl anillo se instala dentro de la funda, por lo que se sujeta entre el teléfono y la funda y no sobresale de la superficie exterior.\n\nEl estuche está diseñado para usuarios que desean una protección práctica para el día a día sin cubrir completamente los lados del teléfono, y al mismo tiempo tienen la opción de agregar la funcionalidad de montaje magnético.\n\nTenga en cuenta: el anillo de metal y los accesorios magnéticos no están incluidos con los archivos de impresión 3D. El anillo magnético debe instalarse por separado en la ranura empotrada antes de insertar el teléfono en la funda.\n\nFunda lateral abierta Voronoi para iPhone 16",
+ "use_cases": [],
+ "tags": [
+  "samsung galaxy s24 más",
+  "s24 más",
+  "caja del teléfono",
+  "funda protectora",
+  "lado abierto",
+  "diseño minimalista",
+  "funda personalizado",
+  "ligero",
+  "sensación táctil",
+  "diseño funcional",
+  "accesorio para teléfono inteligente"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc6128226ee9c66/design/2ecabb15747475f3.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1775
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1775
+  ],
+  "previews/04.jpg": [
+   1000,
+   1332
+  ],
+  "previews/05.jpg": [
+   1000,
+   1332
+  ],
+  "previews/06.jpg": [
+   1000,
+   1332
+  ],
+  "previews/07.jpg": [
+   1000,
+   1332
+  ],
+  "previews/profiles/3592281.jpg": [
+   600,
+   338
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

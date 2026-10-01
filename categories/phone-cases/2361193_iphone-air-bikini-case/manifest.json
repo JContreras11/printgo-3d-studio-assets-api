@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/funda-bikini.3mf.xz",
+   "instance_id": "2583452",
+   "thumbnail": "previews/profiles/2583452.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4592536,
+   "sha256": "edc064d55e87e102318d81fe89a8ab479fc7f70fa95f01f373ff83e0d03e0ce3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2361193",
+ "title": "Funda bikini para iPhone Air",
+ "slug": "iphone-air-bikini-case",
+ "url": "https://makerworld.com/en/models/2361193-iphone-air-bikini-case",
+ "author": "user_3993466272",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "¡La funda para iPhone Air más sexy de Maker World!\n\nCaracterísticas:\nUltra minimalista, solo cubre las partes importantes.\nSujeta bien el teléfono (ver notas a continuación)\nmuy sexy\nSus manos sentirán principalmente el teléfono en bruto y no el estuche, las mesas y superficies probablemente solo tocarán el estuche.\nCompatible con protector de pantalla\nNota de precaución:\nProtección mínima: no se queje si su teléfono se daña mientras usa este estuche, por favor\nNotas:\nLa parte de la ropa interior necesita un poco de cinta adhesiva de doble cara, solo las estándar servirán, no necesita un nivel de adherencia de súper pegamento. La cinta proporciona suficiente fricción para que no se deslice.\nLa parte del sujetador se sujeta bien al teléfono solo con fricción.\nIntenté dejarlo caer varias veces desde la altura del pecho sobre el suelo de la alfombra y todo permanece en su lugar.\nImpreso en PLA\nEsta impresión tiene muchos ángulos extremos, por lo que pueden aparecer algunos artefactos; se recomienda un ligero lijado de los lados.\nImprima a la altura de capa más pequeña posible con su boquilla (por ejemplo, 0,08 mm para una boquilla de 0,4 mm), no necesita soporte\nEstoy usando uno de los protectores de pantalla más grandes disponibles en el mercado (Flolab) y el estuche encaja\nSin protectores de pantalla, la funda eleva el cristal frontal solo 0,4 mm, los protectores de pantalla de cristal se elevarán por encima de la funda.\nNo soy un modelador 3D profesional, por lo que este es un poco complicado. ¡Los comentarios son bienvenidos! (yo uso Fusion360)\nBoost MeAnímame a mejorar el acabado de este modelo, todavía está un poco tosco en este momento.",
+ "use_cases": [],
+ "tags": [
+  "caja del teléfono",
+  "iphone aire",
+  "funda de aire del iphone"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7e335169f21a44/design/3bb3dce2278e79b3.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2583452.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

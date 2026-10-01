@@ -1,0 +1,128 @@
+{
+ "files": [
+  {
+   "path": "model/protector-iphone.3mf.xz",
+   "instance_id": "2721661",
+   "thumbnail": "previews/profiles/2721661.jpg",
+   "print_time_h": 3.1,
+   "plates": 3,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "3 plates, TPU, Supports, Buttons",
+    "profile_notes": "Follow the directions in the main body for re-adding the supporting blocks",
+    "creation_date": "2026-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 5755020,
+   "sha256": "9173269d7d54ae266375f2af06372384f930fc839af16bb039ea5571a90f2d4c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1717445",
+ "title": "Protector iPhone 13 - TPU+PETG",
+ "slug": "bumper-iphone-13-tpu-petg",
+ "url": "https://makerworld.com/en/models/1717445-bumper-iphone-13-tpu-petg",
+ "author": "hoeppken",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Proteja su iPhone 13 con estilo con esta funda protectora de TPU imprimible en 3D, diseñada para brindar máxima flexibilidad y durabilidad diaria. Este protector minimalista envuelve de forma segura su teléfono mientras mantiene el elegante diseño del iPhone visible y accesible.\nCaracterística única:\nIncluye botones laterales intercambiables que puedes imprimir en cualquier color para combinar con tu estado de ánimo o vestimenta: ¡mezcla, combina y hazlo tuyo!\nCaracterísticas:\nDiseñado para filamento de TPU: flexible, resistente a impactos\nDelgado y liviano: agrega un volumen mínimo a su iPhone 13\nBordes elevados para protección de la pantalla y la cámara.\nDiseño de botones modulares: intercambia colores fácilmente, no se necesita pegamento\nRecortes precisos para puertos y altavoces\n\nInstrucciones para imprimirlo exitosamente\nMateriales:\nParachoques: TPU (se recomienda Shore 95A)\nBotones: PLA o PETG (cualquier color que desees)\nCompatibilidad de la impresora:\nFunciona con cualquier impresora 3D FDM.\n⸻\nConfiguración de archivos:\n1. Abra los archivos STL en su cortadora preferida.\n2. Divida el modelo en 3 lechos de impresión:\nCama 1: Marco de parachoques (TPU)\nCama 2: Insertos de botones (PLA o PETG)\nCama 3: Piezas de soporte internas (PLA o PETG)\nImportante:\nAsegúrese de imprimir las piezas de soporte con anticipación; se insertarán manualmente durante el proceso de impresión del parachoques.\n⸻\nConfiguración de impresión para botones y soportes:\nPersonaliza la configuración como desees (sin requisitos especiales).\nPara obtener la mejor calidad de los botones, utilice una boquilla de 0,2 mm; mejora los detalles de estas piezas pequeñas.\n⸻\nImpresión del parachoques (TPU):\nUtilice la configuración de su TPU (altura de la primera capa de 0,2 mm/luego 0,16 para el resto recomendado).\nEstablezca comandos de pausa en la capa en su cortadora en las siguientes capas (si usa la configuración recomendada):\nCapa 38: admite insertar volumen y botón de encendido\nCapa 43: Insertar soporte para altavoz\nCapa 49: Insertar soporte Silent Switch\nCapa 54: Inserte el soporte del cuerpo principal iPhone\nDependiendo de la superficie de construcción, es posible que necesites un poco de pegamento para mantener los soportes en su lugar durante las pausas.\nConsejo adicional:\nUna vez que los soportes estén impresos y colocados correctamente, puede apagar el ventilador de refrigeración de la TPU durante los voladizos para obtener un mejor acabado y una mayor adhesión de las capas.",
+ "use_cases": [],
+ "tags": [
+  "parachoques",
+  "iphone13",
+  "iphone",
+  "tpu",
+  "petg",
+  "cubrir",
+  "funda",
+  "práctico"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-08-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001717445/design/2025-08-20_84053812d5255.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2721661.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

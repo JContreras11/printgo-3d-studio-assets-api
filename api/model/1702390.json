@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto.3mf.xz",
+   "instance_id": "1866127",
+   "thumbnail": "previews/profiles/1866127.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 51,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1028068,
+   "sha256": "db4bb6323b89254aa0831f16bfc6491ca503f58cc889bbe27961acef9c6a1407",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1702390",
+ "title": "Funda esqueleto para iPhone 16",
+ "slug": "iphone-16-skeleton-case",
+ "url": "https://makerworld.com/en/models/1702390-iphone-16-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Funda exoesqueleto para iPhone 16\n¡Dale a tu iPhone 16 la protección elegante que se merece con el estuche Exoesqueleto! Este marco elegante y moderno mantiene seguras las esquinas de su teléfono mientras deja brillar su belleza natural. Ligero como una pluma y resistente como un clavo, su diseño de marco abierto aporta un estilo minimalista sin sacrificar la funcionalidad. Diseñado para la comodidad diaria, con acceso fluido a todos los botones, puertos y la cámara.\nHecho para: iPhone 16\nListo para impresión 3D: ¡Perfecto para impresión FDM!\nMateriales recomendados: PET-G o PLA\nAltura de la capa: 0,2 mm\nApoyos necesarios: ¡No!\nConsejo profesional: opte por PET-G para obtener un ajuste increíble, mayor durabilidad y resistencia al impacto de primer nivel.",
+ "use_cases": [],
+ "tags": [
+  "iphone 16",
+  "funda del iphone",
+  "funda del iphone 16",
+  "funda iphone 16",
+  "funda",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-08-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4769c2feab5954/design/2025-11-05_428c2e126c9938.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1866127.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

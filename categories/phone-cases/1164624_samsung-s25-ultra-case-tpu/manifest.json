@@ -1,0 +1,128 @@
+{
+ "files": [
+  {
+   "path": "model/funda-samsung.3mf.xz",
+   "instance_id": "1171736",
+   "thumbnail": "previews/profiles/1171736.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 27,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Generic TPU Custom tree support 0.2mm layer 2 walls 15% infill",
+    "creation_date": "2025-03-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10428,
+      "weight_g": 33.23,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 3124456,
+   "sha256": "abfcfa135d47d5994a9889ebe39ca91c3039187cddfe7e1fccd7fdc54a2e042e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1164624",
+ "title": "Funda Samsung S25 Ultra TPU",
+ "slug": "samsung-s25-ultra-case-tpu",
+ "url": "https://makerworld.com/en/models/1164624-samsung-s25-ultra-case-tpu",
+ "author": "CpG_Delivery",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "ImpúlsameHenlo, si encuentras que este modelo es más valioso que el estuche promedio de Aliexpress, no dudes en apoyarme: D Nota: ¡Ten mucho cuidado al quitar los soportes!\n\nHola, esta es mi versión del S25 Ultra Case, es mi primer intento de crear una funda para teléfono y un modelo basado en TPU. Como puede ver, hay pocos objetos en este modelo, el propósito es dividir la parte inferior de la caja, por lo que puedo establecer diferentes direcciones de puente sobre el patrón para evitar voladizos largos. El ajuste no es perfecto, pero para mí es suficiente. Lo he estado usando durante el último mes y lo encuentro bastante cómodo. En cuanto al aspecto de la protección, no tengo la costumbre de tirar mi teléfono al cemento, por lo que su kilometraje puede variar. El estuche es bastante grueso para ocultar los golpes de la cámara y nivelar la parte posterior.\nSi tiene alguna pregunta, no dude en preguntar.\nMi modelo está hecho de SUNLU TPU 95A.\n\nEspero que a algunos de ustedes les resulte útil:)",
+ "use_cases": [],
+ "tags": [
+  "samsung",
+  "caja del teléfono",
+  "funda de teléfono inteligente",
+  "s25",
+  "s25ultra",
+  "s25u",
+  "funda",
+  "funda s25u"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-03-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6bea8812b47b00/design/2025-03-01_f66e837ac935e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   800
+  ],
+  "previews/02.jpg": [
+   1000,
+   800
+  ],
+  "previews/03.jpg": [
+   1000,
+   800
+  ],
+  "previews/04.jpg": [
+   1000,
+   800
+  ],
+  "previews/05.jpg": [
+   1000,
+   801
+  ],
+  "previews/06.jpg": [
+   1000,
+   667
+  ],
+  "previews/profiles/1171736.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

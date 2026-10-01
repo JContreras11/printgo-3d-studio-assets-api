@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "1261289",
+   "thumbnail": "previews/profiles/1261289.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A1 mini",
+    "X1 Carbon",
+    "A2L",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 100% infill",
+    "profile_notes": "tpu profile 0.2 layer height 100% infill",
+    "creation_date": "2025-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6290,
+      "weight_g": 15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#B60023"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 737280,
+   "sha256": "fbb11fc1c78c45cc359123b5de43859b837a4c13f17a165d2d3dfba5b0d4436a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1236868",
+ "title": "Funda iPhone 16 Pro Max Spiderman",
+ "slug": "iphone-16-pro-max-spiderman-case",
+ "url": "https://makerworld.com/en/models/1236868-iphone-16-pro-max-spiderman-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Está inspirado en Spiderman, espero que les guste a todos.\n\nMe encantaría que alguien me enviara una foto después de imprimirla para poder agregarla como foto de portada de mi modelo.\nNo cargue el perfil de impresión hasta que esté satisfecho con el diseño y su ajuste, ya que este es un primer prototipo y es posible que necesite algunos cambios.\n\nPuedes imprimirlo con PLA o PETG pero es preferible PETG.\nNo se necesita apoyo.\n\nHe actualizado el diseño, así que tenga la amabilidad de cortar el nuevo diseño actualizado e imprimirlo.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda del iphone",
+  "cubierta del iphone",
+  "iphone 16 pro max",
+  "hombre araña",
+  "maravilla",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-03-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaa6fcd3e60d792/design/2025-03-24_8c999d4e612c7.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1261289.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,191 @@
+{
+ "files": [
+  {
+   "path": "model/alexa-echo-5h54.3mf.xz",
+   "instance_id": "1371925",
+   "thumbnail": "previews/profiles/1371925.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Pop Version 0.2mm layer, 2 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 22310736,
+   "sha256": "0b4b824a4ace9f418beeb56d283e7d523a2ef1260cd8a78e87de1c1e461f8b11",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/alexa-echo-7h24.3mf.xz",
+   "instance_id": "1371984",
+   "thumbnail": "previews/profiles/1371984.jpg",
+   "print_time_h": 7.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1E",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Echo Dot 4 version 0.2mm layer, 2 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 22284860,
+   "sha256": "81a56a257b53b4ee482776103b459d53157f64f1bae5b4320961ced405885ace",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/alexa-echo-8h12.3mf.xz",
+   "instance_id": "2496927",
+   "thumbnail": "previews/profiles/2496927.jpg",
+   "print_time_h": 8.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "P1S",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Echo Spot 2024 0.2mm layer, 2 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 23684356,
+   "sha256": "fdce2245f891513f895138613deb8a07140514d17c24ed6cf88f7d637e20e617",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1333158",
+ "title": "Alexa Echo Dot pop spot Funda de teléfono antigua",
+ "slug": "alexa-echo-dot-pop-spot-old-phone-case",
+ "url": "https://makerworld.com/en/models/1333158-alexa-echo-dot-pop-spot-old-phone-case",
+ "author": "Eddy16",
+ "category": "phone-cases",
+ "source_category": "Hogar > Decoración",
+ "description": "Bonito estuche para tu asistente de voz.\n2 versiones para pop - spot y pop",
+ "use_cases": [],
+ "tags": [
+  "punto ecológico alexa",
+  "eco",
+  "punto de eco alexa",
+  "alexa eco",
+  "alexa eco pop",
+  "punto de eco de alexa",
+  "echo dot",
+  "eco pop",
+  "punto de eco",
+  "telefono viejo",
+  "vieja caja del teléfono",
+  "caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US15fcce5303bde4/design/2025-04-18_cc920e07b48de8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/05.jpg": [
+   1000,
+   1777
+  ],
+  "previews/06.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/1371925.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1371984.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2496927.jpg": [
+   400,
+   711
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

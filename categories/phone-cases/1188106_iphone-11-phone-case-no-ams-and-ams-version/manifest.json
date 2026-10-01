@@ -1,0 +1,128 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-3h.3mf.xz",
+   "instance_id": "1817310",
+   "thumbnail": "previews/profiles/1817310.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 3.3,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "supports - yes rafts - no 0.4 mm nozzle",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 904532,
+   "sha256": "0c7b669e4c88b7ea2e2c81588496da216d2777a2e99f4643adbc0895de3d0f2e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-4h.3mf.xz",
+   "instance_id": "1817390",
+   "thumbnail": "previews/profiles/1817390.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "supports - yes rafts - no o.4 mm nozzle",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 925672,
+   "sha256": "6b17aef5439971eb5e05be4140c01dbd2af293d4f83574fa83555478ac81d3c5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1188106",
+ "title": "Funda para teléfono iPhone 11 sin versión AMS y AMS",
+ "slug": "iphone-11-phone-case-no-ams-and-ams-version",
+ "url": "https://makerworld.com/en/models/1188106-iphone-11-phone-case-no-ams-and-ams-version",
+ "author": "Weadick",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Este es un estuche iPhone 11 que tiene un símbolo Apple en el medio. Hay un modelo para AMS y un modelo que no es AMS.\nNOTA: DEBE IMPRIMIRSE EN TPU",
+ "use_cases": [],
+ "tags": [
+  "funda para teléfono iphone 11 ams y no modelo ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScaf373c3806e3f/design/2025-03-08_c8ea81fe36bfe8.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1817310.jpg": [
+   600,
+   442
+  ],
+  "previews/profiles/1817390.jpg": [
+   600,
+   442
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-molle.3mf.xz",
+   "instance_id": "538804",
+   "thumbnail": "previews/profiles/538804.jpg",
+   "print_time_h": 4.4,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 45,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.2mm layer, 3 walls, 15% infill Strenght : 3 wall loops; Topsurface : Rectiliniar ; Bottom Surface : Rectilinar ; Support : Type: Tree ( auto ); On buildplate only",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8143,
+      "weight_g": 85.61,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7773,
+      "weight_g": 81.3,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 7275268,
+   "sha256": "e3bfe05a510877b44516a184a7bba2f22d8c7deba69fb717fd6e84bc2aaa98c6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "615409",
+ "title": "Estuche Molle Admin - Estuche para teléfono abierto 90°",
+ "slug": "molle-admin-case-phone-case-90deg-open",
+ "url": "https://makerworld.com/en/models/615409-molle-admin-case-phone-case-90deg-open",
+ "author": "MakeringProgres",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Deporte y aire libre",
+ "description": "funda de administrador Molle\n\nDebido a que tengo un teléfono grande, no pude encontrar una funda adecuada para mi teléfono. Siempre tuve miedo de romper mi teléfono en mi bolsillo o de que me golpeara una bola. Entonces sé que ya hay productos en el mercado que se adaptan a este requisito; o están agotados o son difíciles de pedir. Así que he creado mi propio funda que puede usarse para múltiples aplicaciones.\n\nSe puede montar fácilmente en un sistema Molle, pero no solo. Se puede sujetar a un cinturón, correa de mochila, etc. Requiere 2 correas, pueden ser correas de velcro para facilitar el montaje y desmontaje, y una varilla de 2 mm para la bisagra.\n\nLas decoraciones para la caja tienen una función protectora. Llamo a la armadura. La armadura tiene la función de proteger su teléfono de las municiones durante una partida de airsoft. Es una pared extra de 3 mm que se engancha en el frente. Se puede usar sin armadura pero aún tendrías los agujeros. A pedido puedo hacer el frente sin armadura.\nLa armadura está hecha para engancharse fácilmente. Si el agujero es demasiado pequeño, vuelva a taladrar los agujeros con una broca de 4,5 mm.\n\nMecanismo de bloqueo muy resistente, puede requerir un poco de lijado en los lados para que se deslice suavemente y un poco de aceite de silicona.\n\nSe requieren artículos adicionales.\nVarilla de Acero Inoxidable - 2mmØx160 mm\nSe recomienda 2 x MAX ancho 38 mm con velcro o hebilla para atar\nTrabajando para un chasquido rápido y quitando la correa, pero eso aún está en desarrollo.\n\nBoost Me¡Boost me para hacer más cosas!",
+ "use_cases": [],
+ "tags": [
+  "airsoft",
+  "nota 10",
+  "teléfono",
+  "funda",
+  "armadura",
+  "molle",
+  "combatir",
+  "bisagra",
+  "protección",
+  "mapas",
+  "bolígrafos",
+  "pesca"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfbf89153298712/design/2024-09-06_67c614d3d5a33.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   810,
+   1440
+  ],
+  "previews/04.jpg": [
+   810,
+   1440
+  ],
+  "previews/05.jpg": [
+   810,
+   1440
+  ],
+  "previews/profiles/538804.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

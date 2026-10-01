@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "2758408",
+   "thumbnail": "previews/profiles/2758408.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "No support needed. Pet-g advised.",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 989496,
+   "sha256": "91aae713978467f1a0e3503e9cb8a8de82f0915519464bda9ae5dc92dc7faedf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2508537",
+ "title": "Funda iPhone 15 pro con ranura para TARJETAS integrada",
+ "slug": "iphone-15-pro-case-with-integrated-card-slot",
+ "url": "https://makerworld.com/en/models/2508537-iphone-15-pro-case-with-integrated-card-slot",
+ "author": "rjelaska",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda iPhone 15 pro con ranura para tarjetas integrada.\nImpreso sin soportes.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 15",
+  "iphone 15 pro",
+  "caja del teléfono",
+  "billetera",
+  "funda",
+  "teléfono",
+  "protección",
+  "teléfono móvil",
+  "práctico",
+  "edc",
+  "utilidad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US25152d80a2e086/design/36f1a749380884cf.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   960,
+   720
+  ],
+  "previews/profiles/2758408.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

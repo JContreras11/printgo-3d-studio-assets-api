@@ -1,0 +1,171 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora-1h.3mf.xz",
+   "instance_id": "1011962",
+   "thumbnail": "previews/profiles/1011962.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.08mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3472,
+      "weight_g": 5.33,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#174B35"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1443988,
+   "sha256": "dc2f8de99cf17bf2880356632a917ad6021bb4df894181727b102b01b8bc2e4e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-protectora-24min.3mf.xz",
+   "instance_id": "1230830",
+   "thumbnail": "previews/profiles/1230830.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Updated Iphone Case, better fit and better look",
+    "profile_notes": "I updated the model a little bit to get better accuracy regarding the holes for the Iphone buttons. Additionally I made it less high on the left and right side on the front, to achieve a better handling, and with the updated version it won't sit so wobbly on the Iphone anymore. I also changed the printing profile to the default strength profile, without support (looks much better and isn't necessary with this profile anymore), so the case will hopefully last longer than the first version. But feel free to change the profile as you want :)",
+    "creation_date": "2025-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1365,
+      "weight_g": 4.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1866928,
+   "sha256": "f9ef0f561bdc68866607ce8a3f42cfec57f5f3d7250cee705fe186b728c20af7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1029493",
+ "title": "Funda protectora para iPhone 16",
+ "slug": "iphone-16-bumper-case",
+ "url": "https://makerworld.com/en/models/1029493-iphone-16-bumper-case",
+ "author": "smncnrd",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Se trata de una funda ultrafina para iPhone 16 que ofrece protección sin oscurecer el diseño original del dispositivo. Es especialmente adecuado para usuarios que desean prescindir de una funda por razones estéticas, pero aún desean cierto nivel de protección del teléfono.\nTenga en cuenta que este parachoques no proporciona la misma protección integral que un estuche completo.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 16",
+  "funda del iphone 16",
+  "parachoques del iphone",
+  "funda de parachoques del iphone",
+  "funda",
+  "parachoques",
+  "delgado",
+  "ultrafino"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1fe7486ebc6892/design/2025-01-23_fb1c79787214c8.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   753
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1011962.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1230830.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

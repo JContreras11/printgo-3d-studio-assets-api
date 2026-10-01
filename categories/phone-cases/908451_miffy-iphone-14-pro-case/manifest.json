@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "868850",
+   "thumbnail": "previews/profiles/868850.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 3 walls, 15% infill",
+    "profile_notes": "-0.16mm layer height -3 walls -15% infill -Thick bridges -White case, Black design -Snug Grid Supports",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6428,
+      "weight_g": 57.17,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1184344,
+   "sha256": "cbc249e76e5ef319518cd74e32866adb00b0c182a7d179e69097fdc224f1738c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "908451",
+ "title": "Funda iPhone 14 Pro Miffy",
+ "slug": "miffy-iphone-14-pro-case",
+ "url": "https://makerworld.com/en/models/908451-miffy-iphone-14-pro-case",
+ "author": "alliyah",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Dibujé el ícono de Miffy y lo agregué al diseño, tuve que hacer muchos retoques para que el diseño se imprimiera lo mejor posible y que se adhiriera al resto de la impresión.\nSTL no tiene color, utilicé pintura de color en la cortadora. Recomiendo usar unos alicates para quitar los soportes de la rejilla, una vez que empiezan a desmoronarse se desprende enseguida.\nLas fotos fueron tomadas con un iPod touch antiguo para poder mostrar mi teléfono en el estuche.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda",
+  "caja del teléfono",
+  "miffy",
+  "conejito",
+  "lindo",
+  "iphone14pro"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-12-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2f7fdad59373eb/design/2024-12-23_671aa328da4598.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1338
+  ],
+  "previews/02.jpg": [
+   1000,
+   1338
+  ],
+  "previews/03.jpg": [
+   1000,
+   1338
+  ],
+  "previews/04.jpg": [
+   1000,
+   1338
+  ],
+  "previews/profiles/868850.jpg": [
+   600,
+   698
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

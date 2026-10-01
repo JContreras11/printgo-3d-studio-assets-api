@@ -1,0 +1,142 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-3h06.3mf.xz",
+   "instance_id": "1370422",
+   "thumbnail": "previews/profiles/1370422.jpg",
+   "print_time_h": 3.1,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "PLA/PETG",
+    "creation_date": "2025-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1340000,
+   "sha256": "519c5bb16d9a45ec76ed8c16d3047f896f80c81134f58b6d4ffc610178dcb773",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-5h48.3mf.xz",
+   "instance_id": "1370429",
+   "thumbnail": "previews/profiles/1370429.jpg",
+   "print_time_h": 5.8,
+   "plates": 3,
+   "rating": 4.7,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "TPU",
+    "creation_date": "2025-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1361072,
+   "sha256": "8f575dd0a9f9fee7f450c08841a728e687c155acb873e01086636f995ca76ea7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1331971",
+ "title": "Funda iPhone 15 Plus Zigzag Botón Personalizable",
+ "slug": "iphone-15-plus-zigzag-case-customizable-button",
+ "url": "https://makerworld.com/en/models/1331971-iphone-15-plus-zigzag-case-customizable-button",
+ "author": "Printzag",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Características:\nLos colores de los botones y del protector de la cámara son totalmente personalizables.\nAdmite impresión en PLA, PETG y TPU (modelo de vitrina impreso en PLA).\nUtilice el generador de pared Arachne con una boquilla de 0,4 mm para evitar espacios en detalles finos (<0,45 mm).\nProbado físicamente con un prototipo de iPhone para un ajuste preciso.\nLas fundas PLA/PETG pueden romperse al retirar el teléfono.\nEl método de instalación del protector de cámara del 15 Plus es diferente al que se muestra en el vídeo. Consulte las siguientes instrucciones de instalación.\n\nActualización (21-04): Rediseñé las aberturas laterales para una apariencia más limpia y refinada.\n\nDebido a la contracción del material, los botones pueden quedar demasiado apretados dependiendo del filamento utilizado. Si esto sucede, intente lijar cuidadosamente el borde superior del ojal con una lima pequeña para eliminar cualquier material de soporte sobrante, o escale el eje X del botón a aproximadamente el 98% (como se muestra a continuación) antes de imprimir para un mejor ajuste.\n\nNo quites el faldón exterior del botón; está diseñado para evitar que el botón se caiga.\nOtros casos\nfunda en zigzag\nEstuche con placa posterior personalizable\nExperimental\n16 Pro Max16 Pro MaxEstuche en zigzag\nAirpods2\n16 Pro Dragón Negro\n16 Pro Máximo\nFunda Lite 16 Plus Zigzag\n15 Pro Máximo\nPlaca trasera compatible con 16 legos\n16 Pro Máximo\n15 Pro Max 15 Pro 15 Plus 15 14 Pro Max 14 Pro 14 Plus 14 13 Pro Max 13 Pro 13 Plus 13 12 Pro Max 12 Pro 12 12 Mini",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 15 más",
+  "funda del iphone",
+  "caja del teléfono",
+  "teléfono",
+  "soporte para teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US29bd0a1a0b6746/design/2025-04-18_7ba7f5def1b078.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1370422.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1370429.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora.3mf.xz",
+   "instance_id": "967702",
+   "thumbnail": "previews/profiles/967702.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "TPU 95A (0.2mm layer, 2 walls, 75% infill)",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "75%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7623,
+      "weight_g": 25.22,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 666216,
+   "sha256": "72a48a492e1e2b53d4067b06c7e01d094d3f260aa98c640e9d165dff94064bac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "992010",
+ "title": "Funda protectora para iPhone 16",
+ "slug": "iphone-16-bumper-case",
+ "url": "https://makerworld.com/en/models/992010-iphone-16-bumper-case",
+ "author": "raiqulikesyou",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "POR FAVOR LEA:\n\nHola a todos,\nAquí hay una versión \"lite\" exclusiva de Maker World de la funda protectora para iPhone 16 de mi empresa, para que todos puedan imprimir en casa. Creo en un futuro en el que los productos de consumo se puedan microfabricar más fácilmente en la comodidad de su hogar, así que después de aproximadamente un año de diseño, ingeniería excesiva y pruebas, comencé un negocio minorista y de fabricación de fundas para teléfonos que vendía mis fundas protectoras. La diferencia con esta versión “lite” es que está diseñada para imprimir con TPU 95 Y 95 HF (también TPU para AMS pero es un poco rígido en mi opinión), en lugar del material de mayor calidad que uso, además, tiene lados más estrechos alrededor, reducidos de 3 mm a 2,4 mm para facilitar la impresión. Se han eliminado otras características, como la marca, los orificios para los cordones, los redondeo y chaflanes complejos, el acabado externo texturizado y la capacidad de quitar los botones, lo que no permite cambiar los colores de los botones. Afortunadamente, los botones todavía hacen clic cuando se imprimen con TPU 95A. Esta es una gran hazaña, ya que muchas fundas de teléfonos con botones integrados no permiten hacer clic. La versión “lite” también es menos protectora en general, utiliza menos material y no tiene un núcleo tan grande ni la misma estructura que el funda original. Puede que todo esto suene como si quisiera aumentar las ventas (lo cual sería genial), pero mis intenciones son brindarles el mejor punto de partida con las mejores posibilidades de imprimir de manera consistente con problemas mínimos. He incluido el archivo STEP para aquellos que son lo suficientemente inteligentes como para crear sus propias modificaciones o aquellos que quieren modificar el diseño para que se ajuste a otros estuches (he diseñado estuches para todos los iPhones desde el 12 en adelante, pero no quiero inundar Maker World con diseños para cada uno)... Sugiero ir al sitio web de Apple y calcular la diferencia entre las dimensiones del iPhone 16 y cualquier iPhone que desee modificar para que se ajuste. Si esta publicación recibe mucha atención, consideraré subir versiones \"ligeras\" de todas las dimensiones del funda. ¿Quién sabe? Tal vez, en un futuro cercano, la tecnología de impresión 3D se vuelva aún más confiable y pueda cargar todos mis diseños con todas las funciones donde se puedan realizar, de manera confiable y con una calidad constante, incluso en las impresoras más asequibles.\n\nMis diseños de fundas protectoras te ayudan a lucir la hermosa parte posterior de tu iPhone sin dejar de ser ultraprotectores para el uso diario (las que tienen todas las funciones han superado múltiples pruebas de caídas y golpes de grado militar). Estas fundas protectoras han sido diseñadas para hacer más cómodo el uso diario de una billetera MagSafe, ya que está empotrada en la billetera. También le brindan acceso a los componentes originales de Mag Safe y pueden adaptarse a muchos otros accesorios, como muchos cargadores portátiles inalámbricos de 5k mAh, como el Anker MagGo 5k. Las fundas protectoras en general también pueden ayudar con la disipación de calor, lo cual es especialmente útil para aquellos que pueden hacer trabajos de video o fotografía, aquellos que usan su teléfono mientras vuelan drones o incluso aquellos que simplemente son jugadores de teléfonos celulares y fanáticos de Pokémon Go que lidian con la degradación relacionada con el calor.\n\n¡Recuperemos el parachoques!\n\nSi está interesado, aquí está el enlace a los casos completos...",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 16",
+  "teléfono",
+  "caja del teléfono",
+  "funda de parachoques",
+  "parachoques",
+  "teléfono móvil",
+  "bricolaje",
+  "tpu",
+  "tpu para ams",
+  "tpu 95hf",
+  "impreso en 3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US85067043edb73b/design/2025-03-22_75d3574ea415e.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   505
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1000
+  ],
+  "previews/06.png": [
+   1000,
+   1000
+  ],
+  "previews/07.png": [
+   1000,
+   1000
+  ],
+  "previews/08.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/967702.jpg": [
+   600,
+   303
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

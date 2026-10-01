@@ -1,0 +1,108 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto.3mf.xz",
+   "instance_id": "2141236",
+   "thumbnail": "previews/profiles/2141236.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 38,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 100% infill, Top Ironing, Concentric",
+    "profile_notes": "Updated, Improved design, Concentric pattern, 100 percent infill, top surfaces ironing. 0.16mm layer height",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "100%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2054076,
+   "sha256": "9123675de2d8281451fec30f7b7f86cf9e2c70f0a75b0029a4e3bc9a10a097fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1855434",
+ "title": "Funda esqueleto para iPhone 17/18 Pro Max",
+ "slug": "iphone-17-18-pro-max-skeleton-case",
+ "url": "https://makerworld.com/en/models/1855434-iphone-17-18-pro-max-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Funda para iPhone 17/18 Pro Max impresa en 3D: simple, protectora y duradera\nProteja su iPhone 17/18 Pro Max con esta funda minimalista impresa en 3D diseñada para brindar resistencia, durabilidad y uso diario. Fabricado con PLA o PET-G de alta calidad, el estuche ofrece una protección integral confiable contra rayones, golpes y caídas leves sin agregar volumen. Su diseño limpio y simple lo hace práctico y elegante, además de ser fácil de imprimir en la mayoría de las impresoras 3D.\nPerfecta para creadores y entusiastas del bricolaje, esta funda para iPhone 17/18 Pro Max imprimible en 3D combina funcionalidad con simplicidad: resistente, liviana y diseñada para durar.\n\nUtilice orejas manuales en ambas esquinas de la cámara para una mejor adhesión.",
+ "use_cases": [],
+ "tags": [
+  "iphone 17 pro max",
+  "funda protectora",
+  "cubierta del teléfono",
+  "cubierta del iphone",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-10-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe087f0df1b9c3a/design/2025-12-30_251ed096a74c7.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1406
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   655
+  ],
+  "previews/profiles/2141236.jpg": [
+   600,
+   960
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "files": [
+  {
+   "path": "model/samsung-galaxy.3mf.xz",
+   "instance_id": "2132908",
+   "thumbnail": "previews/profiles/2132908.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "P1P",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill - Galaxy S 25 Ultra",
+    "profile_notes": "This is designed for 4 color AMS printing with Red, White, Black, and Light Blue.",
+    "creation_date": "2025-11-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1816448,
+   "sha256": "1aef8f1115a4e6a8e789cee8c66756e739c166940091a775a8282e0c34fbf26b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1982612",
+ "title": "Samsung Galaxy S25 Ultra Pokédex",
+ "slug": "samsung-galaxy-s25-ultra-pokedex",
+ "url": "https://makerworld.com/en/models/1982612-samsung-galaxy-s25-ultra-pokedex",
+ "author": "Billy3Dguy",
+ "category": "phone-cases",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "Una funda para teléfono Samsung Galaxy S25 Ultra que parece una Pokédex Pokémon.\nLa doble bisagra le permite plegarse alrededor de la parte posterior del teléfono, al mismo tiempo que permite el acceso a los botones laterales.\n\nEl modelo actual es de 4 colores con AMS; rojo, azul claro, blanco y negro.\n\n¿Buscas una funda Pokédex, pero para otro teléfono? ¡Mira mis otros modelos!\nBoost Me¡Gracias por tu consideración!",
+ "use_cases": [],
+ "tags": [
+  "galaxy s25 ultra",
+  "pokédex",
+  "pokémon",
+  "caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US81606f48fea8e8/design/2025-11-10_1d2ccf379788c.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   958
+  ],
+  "previews/02.jpg": [
+   1000,
+   629
+  ],
+  "previews/profiles/2132908.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

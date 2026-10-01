@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "2544272",
+   "thumbnail": "previews/profiles/2544272.jpg",
+   "print_time_h": 44.9,
+   "plates": 25,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 25
+   },
+   "name": "Versión estándar",
+   "size": 24728344,
+   "sha256": "0e6d7ac9d4d0c9d40228e5efc67d13f45eed27eff977af5af28fc0855d5afc2e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2328851",
+ "title": "Funda para iPhone Jordan Brand para todos los iphones12 -17",
+ "slug": "jordan-brand-iphone-case-for-all-iphones12-17",
+ "url": "https://makerworld.com/en/models/2328851-jordan-brand-iphone-case-for-all-iphones12-17",
+ "author": "LayerLab.Shop",
+ "category": "phone-cases",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Todos los casos están marcados por sus placas,\nrequiere aproximadamente 3 g de filamento y poco menos de 2 horas\n\nse requiere AMS\n\nColores necesarios:\nRojo, Gris, Negro",
+ "use_cases": [],
+ "tags": [
+  "funda del iphone",
+  "marca jordania",
+  "jordán",
+  "michael jordán",
+  "funda de teléfono nike",
+  "caja nike",
+  "caja adidas",
+  "adidas",
+  "zapato de la marca jordan",
+  "zapato jordan",
+  "kobe",
+  "fuerza aérea jordana"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-01-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US608f4fe452e75f/design/2df7348586307d7e.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2544272.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

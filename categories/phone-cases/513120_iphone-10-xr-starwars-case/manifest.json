@@ -1,0 +1,212 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-3h06.3mf.xz",
+   "instance_id": "429222",
+   "thumbnail": "previews/profiles/429222.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "XR Case",
+    "profile_notes": "support manual 3 walls should be pretty easy but make sure to change the colors and orientate it the way you like",
+    "creation_date": "2025-02-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9956,
+      "weight_g": 34.87,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1067,
+      "weight_g": 4.95,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 2585620,
+   "sha256": "4d9187f74dd0fe42a25263f202a126adad959e31d3b5093d2441639407a026f5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-2h54.3mf.xz",
+   "instance_id": "605282",
+   "thumbnail": "previews/profiles/605282.jpg",
+   "print_time_h": 2.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Resized for iPhone X",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8679,
+      "weight_g": 30.49,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1590,
+      "weight_g": 4.08,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en TPU",
+   "size": 2621628,
+   "sha256": "58864290d5048b7ffed220eb7d64b17a04facae5102a368a14cb9f9f365e4339",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "513120",
+ "title": "Funda iPhone 10 XR Star Wars",
+ "slug": "iphone-10-xr-starwars-case",
+ "url": "https://makerworld.com/en/models/513120-iphone-10-xr-starwars-case",
+ "author": "SIR_PRINTSALOT",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "MembresíaSi desea vender impresiones de este modelo, suscríbase a mi plan comercial por solo $3 al mes. Hice este modelo después de ver uno muy similar en línea. Puede combinar los dos cuerpos e imprimirlos como partes en una impresora con dos boquillas como Snapmaker J1 o Prusa XL o puede imprimir la carcasa del teléfono en TPU y el logotipo en PLA y pegarlos. Sin embargo, es bastante difícil pegarlos, me di por vencido después de intentar pegarlos, así que simplemente lo imprimí en mi Snapmaker J1. De cualquier manera debería estar bien.\n\nO puedes usar TPU para AMS, aún no lo he probado, pero déjame saber cómo funciona.\n\nNOTA: ESTO ES PARA EL iPhone XR, SI TIENE EL X, XS O XS MAX, INTENTA ESCALAR PARA OBTENER MEJORES RESULTADOS.\n\nImpulsamePor favor, ayúdame a crear más fundas para teléfonos geniales con solo tocar el botón de impulso.",
+ "use_cases": [],
+ "tags": [
+  "imperio",
+  "guerra de las galaxias",
+  "sith",
+  "caja del teléfono",
+  "iphone",
+  "iphone 10",
+  "iphone xr",
+  "caja del teléfono de la guerra de las galaxias",
+  "funda del iphone"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-06-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6ee6dd0b4b71a/design/2024-06-26_f40c496d2518f.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/429222.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/605282.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

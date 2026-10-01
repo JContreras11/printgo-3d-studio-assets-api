@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora.3mf.xz",
+   "instance_id": "1151278",
+   "thumbnail": "previews/profiles/1151278.jpg",
+   "print_time_h": 15.4,
+   "plates": 4,
+   "rating": 4.4,
+   "rating_count": 81,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "X1E",
+    "H2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "P1S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.64",
+    "profile_title": "v4.3 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1558496,
+   "sha256": "49ded7090df45aa27b13b2a916cacba3687675d69c55731bf0ed617ddda8765e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1147646",
+ "title": "Funda protectora para iPhone 13-14-15",
+ "slug": "iphone-13-14-15-protective-case",
+ "url": "https://makerworld.com/en/models/1147646-iphone-13-14-15-protective-case",
+ "author": "user_4043822863",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Actualización 2025.03.16:\n\nEl perfil V4.3 ahora tiene 4 placas. Según una solicitud, subí 2 versiones más: Flatback Camera Flush y Flatback Extra.\n\nCamera Flush tiene una parte posterior lo suficientemente gruesa (2,8 mm) como para quedar al ras con todas las lentes, de modo que no haya golpes en la cámara y sigue siendo compatible con las placas de efectos.\nLa parte posterior adicional está 1,2 mm encima de Camera Flush (4 mm en total), por lo que protege más la parte posterior y la cámara.\n\nSi opta por la versión Extra, puede resultar útil utilizar modificadores para ajustar las paredes laterales y la parte trasera con diferentes espesores y valores de relleno.\n\nActualización 2025.03.10:\n\nEl perfil V4 ahora tiene 2 placas de impresión. La primera plancha de impresión es el diseño original con la parte trasera levantada para compensar el golpe de la cámara. La segunda plancha de impresión es la versión con parte posterior plana que tiene un perfil más delgado y es compatible con planchas de impresión con efecto como Bambu Lab de fibra de carbono, Galaxy y planchas con efecto 3D de diamante.\n\nOriginal:\n\nAquí hay una funda para iPhone 13/14 pensando en la protección y la estabilidad. Es posible que también quepa en el iPhone 15. No se ajustará a los modelos Pro debido a un golpe en la cámara.\n\nLa mayoría de las características son excesivas para una funda de teléfono, sin embargo, quería que fuera gruesa, duradera y estable.\n\nTiene 3 extensiones en cada esquina opuestas a la protuberancia de la cámara para que no se tambalee sobre una mesa.\n\nSi quieres que quede un poco más suave, puedes imprimir con 2 paredes. De lo contrario, 3 paredes podrían dar un mejor resultado general.\n\nLo imprimí con TPU 95A que cambia de color.\n\nSi desea imprimir con soportes para árboles, tenga en cuenta que se necesitan años para quitarlos con un cortador. El soporte estándar podría funcionar mejor. En cualquier funda, no será fácil quitar los soportes, pero los dejé en las superficies interiores para que las cicatrices no molesten.\n\nDebido a que se imprimirá con el reverso hacia arriba, su elección del patrón de la superficie superior definirá el efecto en la parte posterior del estuche. Prefiero los acordes de Arquímedes, pero siéntete libre de experimentar.\n\nSe agradecen todos los comentarios.\n\nSi te gusta el modelo deja un comentario y un me gusta.\n\nBoost Me Espero que disfrutes el modelo.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda",
+  "tpu"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc99fa4f43bef11/design/2025-02-25_a0bd144c3a59a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1151278.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

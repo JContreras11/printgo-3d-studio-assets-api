@@ -1,0 +1,156 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "3675528",
+   "thumbnail": "previews/profiles/3675528.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "iPhone 17 Pro 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Druckeinstellungen Gedruckt wurde das Modell mit: 0,4 mm Düse Material: PETG (PLA oder ABS auch möglich) 0,12 mm Schichthöhe normalen Standard-Einstellungen Stützstrukturen können aktiviert werden geht aber auch ohne Material je nach gewünschter Flexibilität und Optik, z. B. PLA, PETG oder ein geeignetes flexibleres Filament WICHTIG für den Druck: bei Stärke Richtung der Brücken auf ,,1,, stellen, damit das linien Muster gleichmäßig aussieht",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1309536,
+   "sha256": "910c1352a834d75bbf4738b8f7721a3c86a760c9f65b834f40e4b5cf5fff116a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3243813",
+ "title": "funda para iPhone 17 Pro",
+ "slug": "iphone-17-pro-case",
+ "url": "https://makerworld.com/en/models/3243813-iphone-17-pro-case",
+ "author": "xh3ndrlk",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda para iPhone 17 Pro - Diseño forrado\nEsta funda para iPhone 17 Pro es una remezcla de un modelo existente y la modifiqué visualmente y ajusté dimensionalmente.\nLos finos huecos rectos en la parte posterior le dan al diseño un aspecto limpio pero premium. Las líneas recuerdan ligeramente al clásico diseño acanalado que se ve en las maletas de aluminio de alta gama y en las fundas de teléfonos inteligentes a juego, sin parecer abarrotadas.\nEl logotipo de Apple sigue siendo un elemento de diseño central, rompiendo intencionalmente el patrón de líneas en el medio (solo está cubierto en las imágenes de vista previa). El protector de la cámara se inserta después de la impresión y encaja perfectamente; también se puede pegar en su lugar si se prefiere\nCréditos\nMuchas gracias al diseñador original por el modelo base.\nEnlace al modelo original:\n\nConfiguración de impresión\nEl modelo fue impreso usando:\nBoquilla de 0,4mm\nMaterial: PETG (PLA o ABS también son adecuados)\nAltura de capa de 0,12 mm\nconfiguraciones predeterminadas regulares\nEstructuras de soporte habilitadas\nEl material se puede elegir según la flexibilidad y apariencia deseadas, p. PLA, PETG o un filamento más flexible adecuado\nIMPORTANTE para la impresión: establezca la intensidad del puente en,,1, para que el patrón de línea se vea uniforme\nEs posible que se requieran ajustes menores al soporte y la velocidad de impresión dependiendo de su impresora y filamento.\n\nNota: Todos los objetos, teléfonos inteligentes y otros accesorios que se muestran en las imágenes de vista previa tienen fines ilustrativos únicamente y no se incluyen como parte del modelo ni de la descarga.\n\nNota: Este es un diseño personalizado e independiente y no está afiliado de ninguna manera con Apple Inc. ni con ningún producto oficial de Apple.\n\nEl estuche ha sido probado por mí y encaja perfectamente.\n\nSi te gusta este diseño, me encantaría descargarlo, mejorarlo o una foto de tu impresión.\nImpúlsameSi te gusta mi modelo y quieres apoyar mi trabajo, ¡me encantaría recibir un impulso!\nEsto me ayuda a seguir creando nuevos modelos y compartiéndolos con todos ustedes.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda",
+  "iphone17",
+  "iphone 17 pro",
+  "funda iphone17pro",
+  "funda del iphone",
+  "cubrir",
+  "funda de diseño",
+  "práctico funda",
+  "caja del teléfono",
+  "práctico"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US32ee0c2d534b35/design/002d4d58af137c45.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/05.jpg": [
+   1000,
+   1777
+  ],
+  "previews/06.jpg": [
+   1000,
+   1777
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   1777
+  ],
+  "previews/09.jpg": [
+   1000,
+   1777
+  ],
+  "previews/10.jpg": [
+   654,
+   1024
+  ],
+  "previews/11.jpg": [
+   656,
+   1024
+  ],
+  "previews/12.jpg": [
+   616,
+   982
+  ],
+  "previews/13.jpg": [
+   662,
+   1006
+  ],
+  "previews/14.jpg": [
+   652,
+   1096
+  ],
+  "previews/profiles/3675528.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

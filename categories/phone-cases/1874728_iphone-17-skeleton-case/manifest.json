@@ -1,0 +1,179 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto-48min.3mf.xz",
+   "instance_id": "2196782",
+   "thumbnail": "previews/profiles/2196782.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 50,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P1P",
+    "H2D",
+    "H2C",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.16mm layer 2 walls 15% infill",
+    "creation_date": "2025-11-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 933180,
+   "sha256": "3d3a7c9698ce0ea2a1b8c231bfb99db1e65b14c38b418906b72562622985aba7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-esqueleto-42min.3mf.xz",
+   "instance_id": "2670149",
+   "thumbnail": "previews/profiles/2670149.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X1",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "A1",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill with camera bumper",
+    "profile_notes": "File with the camera bumper a little shorter to improve fittment arrounf the camera.",
+    "creation_date": "2026-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1154872,
+   "sha256": "a09f1e1b7a01d1cf64e171efdfccd25b243938c1ed60918520e8206e049ea26f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-esqueleto-54min.3mf.xz",
+   "instance_id": "3568007",
+   "thumbnail": "previews/profiles/3568007.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "A1",
+    "H2C",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Smooth 1 mm rounded edges"
+   },
+   "name": "Versión estándar",
+   "size": 2089516,
+   "sha256": "4e18aed91d7e1a95780022ff1c17139ef2351d594ed797b0ca71049f6d54a046",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1874728",
+ "title": "Funda esqueleto para iPhone 17",
+ "slug": "iphone-17-skeleton-case",
+ "url": "https://makerworld.com/en/models/1874728-iphone-17-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Funda para iPhone 17 impresa en 3D: sencilla, protectora y fácil de imprimir\nEsta funda para iPhone 17 impresa en 3D está diseñada pensando en la simplicidad y la protección. Elaborado con PLA o PET-G duradero, ofrece una defensa confiable contra rayones, golpes y caídas menores mientras mantiene una apariencia elegante y minimalista. El diseño es fácil de imprimir, liviano y se adapta perfectamente, lo que lo hace ideal para el uso diario.\nPerfecta para los fabricantes que valoran la practicidad y la durabilidad, esta funda para iPhone 17 imprimible en 3D combina un diseño moderno con una protección duradera: resistente, limpia y diseñada para funcionar.",
+ "use_cases": [],
+ "tags": [
+  "iphone 17",
+  "funda del iphone",
+  "funda protectora",
+  "cubierta del iphone",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-10-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US94e693dc3ce97f/design/2025-11-05_5472f2bea51318.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2196782.jpg": [
+   600,
+   495
+  ],
+  "previews/profiles/2670149.jpg": [
+   600,
+   702
+  ],
+  "previews/profiles/3568007.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

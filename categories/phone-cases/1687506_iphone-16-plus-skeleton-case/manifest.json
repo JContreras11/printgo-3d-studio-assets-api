@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto.3mf.xz",
+   "instance_id": "2441069",
+   "thumbnail": "previews/profiles/2441069.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2C",
+    "A1",
+    "X2D",
+    "H2S",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill, Concentric Pattern",
+    "profile_notes": "Created a print profile for this model I printed it with a P2S, but the print profile is adequate for all types of printers. Due to the complex shape of the model, the print does go a little slower to ensure good plate adhesion and print quality. Specs: 0.2mm layer for fine but fast details. 2 walls for better strength. 10% infill for faster printing without affecting quality. 53min model print time - 16grams. Concentric Pattern as the bottom layer for a more aesthetic outside look. Added a small and cheap outer+inner brim to avoid the first layer having bad adhesion to the plate.",
+    "creation_date": "2026-01-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1195040,
+   "sha256": "3b270856245315b85e10d667212571672a61a664bc5db67c1a4a3968f2919c17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1687506",
+ "title": "Funda esqueleto para iPhone 16 Plus",
+ "slug": "iphone-16-plus-skeleton-case",
+ "url": "https://makerworld.com/en/models/1687506-iphone-16-plus-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Funda “Exoesqueleto” para iPhone 16 Plus\nEleve su iPhone 16 Plus con el estuche Exoskeleton, una solución protectora minimalista y liviana que presenta un diseño de marco esquelético y atrevido. Diseñado para proteger las esquinas y al mismo tiempo permitir que brille la belleza original de su dispositivo, este estuche ofrece forma y función. Diseñado ergonómicamente para un agarre seguro y cómodo, con acceso completo a la cámara, los botones y los puertos, sin concesiones.\nCompatibilidad: iPhone 16 Plus\nOptimizado para impresión 3D FDM\nMateriales recomendados: PET-G o PLA\nAltura de la capa: 0,2 mm\nSoportes: No requerido\nConsejo profesional: utilice filamento PET-G para una mayor durabilidad y un ajuste cómodo y preciso.",
+ "use_cases": [],
+ "tags": [
+  "funda del iphone",
+  "cubierta del iphone",
+  "iphone 16 más",
+  "apple",
+  "caja del teléfono",
+  "cubierta del teléfono",
+  "teléfono",
+  "teléfono móvil"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-08-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US12d0e6181c76fe/design/2025-11-05_14bb1821c91558.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   609
+  ],
+  "previews/profiles/2441069.jpg": [
+   600,
+   210
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h12.3mf.xz",
+   "instance_id": "1147827",
+   "thumbnail": "previews/profiles/1147827.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Version 2 - PLA CUSTOM DESIGN",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4481,
+      "weight_g": 34.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1015076,
+   "sha256": "08a76bbb752a51bdc08bde8ccf9f841ac9a2bbfe0f90597102aba679c24b7340",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-1h36.3mf.xz",
+   "instance_id": "1120899",
+   "thumbnail": "previews/profiles/1120899.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Version 1 PETG CUSTOM DESIGN",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5654,
+      "weight_g": 39.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       },
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PETG",
+   "size": 4113888,
+   "sha256": "2e355bfe2dda13ccd028077d33dc6863bb712eeba0c2e2afa628b85f1536f3e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-54min.3mf.xz",
+   "instance_id": "1120903",
+   "thumbnail": "previews/profiles/1120903.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Version 1 PETG",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3214,
+      "weight_g": 32.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 818588,
+   "sha256": "b7841a8ed279ab46557e473eacfef8780039e808f0fd353c86b1956f199912f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1119790",
+ "title": "Funda iPhone 15 - No toques mi teléfono",
+ "slug": "iphone-15-case-don-t-touch-my-phone",
+ "url": "https://makerworld.com/en/models/1119790-iphone-15-case-don-t-touch-my-phone",
+ "author": "Dengamleninja",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Una funda para un iPhone 15 normal, imprimí la mía en PETG, es una pelea muy apretada y una vez que se encaja, nunca se suelta.\n\nTPU sería una gran opción, es mucho más fácil de instalar y quitar.\n\nEL ACCESO A LICENCIA COMERCIAL está disponible a través de una membresía de Patreon donde me ayudas y obtienes una licencia comercial que se aplica a todos mis modelos, excepto las remezclas que hice a partir del trabajo de otros.",
+ "use_cases": [],
+ "tags": [
+  "iphone15",
+  "iphone",
+  "15",
+  "funda",
+  "cubrir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd0b0d5eae3de7e/design/2025-02-18_9b01e472ed773.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   495
+  ],
+  "previews/02.jpg": [
+   1000,
+   494
+  ],
+  "previews/03.jpg": [
+   713,
+   1440
+  ],
+  "previews/04.jpg": [
+   713,
+   1440
+  ],
+  "previews/05.png": [
+   854,
+   1118
+  ],
+  "previews/06.png": [
+   580,
+   678
+  ],
+  "previews/profiles/1147827.jpg": [
+   600,
+   507
+  ],
+  "previews/profiles/1120899.jpg": [
+   580,
+   678
+  ],
+  "previews/profiles/1120903.jpg": [
+   600,
+   1211
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

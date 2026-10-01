@@ -1,0 +1,192 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-2h06.3mf.xz",
+   "instance_id": "2377237",
+   "thumbnail": "previews/profiles/2377237.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-01-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 865724,
+   "sha256": "53e498adf19c2346ae2e24c1fc1d7b576bcb27a8a556eefd7ecc9b57c5a797e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-4h.3mf.xz",
+   "instance_id": "2392119",
+   "thumbnail": "previews/profiles/2392119.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2C",
+    "H2S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-01-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1817076,
+   "sha256": "f7a529432ee73d7d13aa5465bf61138ab88a599949203ea39ed7159fa2761784",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-4h06.3mf.xz",
+   "instance_id": "2392106",
+   "thumbnail": "previews/profiles/2392106.jpg",
+   "print_time_h": 4.1,
+   "plates": 2,
+   "rating": 4.3,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "iPhone17promax凹版logo修改版0.2mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "iPhone17promax凹版logo修改版0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-01-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1537336,
+   "sha256": "d93406317b158bf1abaf6b926e22b345ca1dd243e2ebe7d80650631bef5d6a11",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2189618",
+ "title": "Funda para teléfono iPhone17promax LV",
+ "slug": "iphone17promax-lv-phone-case",
+ "url": "https://makerworld.com/en/models/2189618-iphone17promax-lv-phone-case",
+ "author": "wus7788",
+ "category": "phone-cases",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Funda para teléfono iPhone17promax LV. Tenga en cuenta que la impresión vertical da como resultado esquinas imperfectas. La impresión plana da los mejores resultados, pero requiere más soportes. Ajuste la superficie inferior en su software según sea necesario.\nCada funda de teléfono tarda aproximadamente 2 horas. Simplemente elija usted mismo una dirección de impresión. Estrictamente prohibido para uso comercial.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "iphone17promax",
+  "iphone17promax caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe60693d82bb08c/design/2026-01-05_6dda4f0477276.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   720
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2377237.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2392119.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2392106.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

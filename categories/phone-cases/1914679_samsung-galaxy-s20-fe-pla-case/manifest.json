@@ -1,0 +1,93 @@
+{
+ "files": [
+  {
+   "path": "model/funda-samsung.3mf.xz",
+   "instance_id": "2053701",
+   "thumbnail": "previews/profiles/2053701.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 3 walls, 16% infill",
+    "creation_date": "2025-10-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "16%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1924736,
+   "sha256": "f259a8fd9b09923a9694a7e02361ac7bc0869356f922904f3fdeed8f088cbee9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1914679",
+ "title": "Funda Samsung Galaxy S20 FE PLA",
+ "slug": "samsung-galaxy-s20-fe-pla-case",
+ "url": "https://makerworld.com/en/models/1914679-samsung-galaxy-s20-fe-pla-case",
+ "author": "user_2193339041",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Tuve que aplicar mucha fuerza para calentar mi teléfono en el estuche, por lo que recomendaría usar tpa como el modelo original: D, pero PLA funcionará si aplicas MUCHA presión.",
+ "use_cases": [],
+ "tags": [
+  "mascota",
+  "perro",
+  "teléfono",
+  "funda",
+  "pla",
+  "samsung",
+  "galaxy",
+  "pata",
+  "lindo"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-10-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdb4b1d560176b0/design/2025-10-22_efc24ec9252a8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2053701.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

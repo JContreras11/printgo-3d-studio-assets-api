@@ -1,0 +1,179 @@
+{
+ "files": [
+  {
+   "path": "model/carcasa-flexible-40h48.3mf.xz",
+   "instance_id": "1755958",
+   "thumbnail": "previews/profiles/1755958.jpg",
+   "print_time_h": 40.8,
+   "plates": 12,
+   "rating": 3.8,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "tpu iphone case",
+    "creation_date": "2025-08-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 30168364,
+   "sha256": "ef975a5253cd738467b0114bce6831f305253a44c06d3cd2bca790af8177f1e9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/carcasa-flexible-29h.3mf.xz",
+   "instance_id": "1756406",
+   "thumbnail": "previews/profiles/1756406.jpg",
+   "print_time_h": 29,
+   "plates": 12,
+   "rating": 4.5,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "pla iphone case",
+    "creation_date": "2025-08-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 29823988,
+   "sha256": "071156a19f53efe131d51e59b7ee779f07c8530293259ec39bcdca92f4e30875",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/carcasa-flexible-30h06.3mf.xz",
+   "instance_id": "1756409",
+   "thumbnail": "previews/profiles/1756409.jpg",
+   "print_time_h": 30.1,
+   "plates": 12,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 12,
+    "profile_title": "petg iphone case"
+   },
+   "name": "Versión estándar",
+   "size": 29695412,
+   "sha256": "906c4452bbe726491d1f9a671eb8547bc598b7cd54503dd753cad5ceb1bc00b7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1660048",
+ "title": "Carcasa flexible para iPhone con estampado de cota de malla",
+ "slug": "flexible-chainmail-patterned-iphone-casing",
+ "url": "https://makerworld.com/en/models/1660048-flexible-chainmail-patterned-iphone-casing",
+ "author": "user_146232365",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "Boost MeSi encuentra algún problema de impresión o posee sugerencias valiosas de modelado o impresión, no dude en compartirlas en la sección de comentarios. Si aprecias esta creación, considera dejar un me gusta, agregarla a tus favoritos y promocionarla como muestra de tu apoyo. Este modelo fue generado usando un creador de otra plataforma.\nPor favor, absténgase de habilitar la calibración del flujo.\nEste filamento utiliza TPU95A.\nComo medida de precaución, esta configuración de TPU95A emplea parámetros no oficiales, lo que da como resultado una extrusión comparativamente reducida, que es ampliamente compatible con la mayoría de los filamentos de TPU95A disponibles en el mercado.\nEl principio fundamental para imprimir TPU es \"estable, lento y seco\"; por lo tanto, ¡es imperativo un secado meticuloso! Por ejemplo, se recomienda secar a 70°C durante 8 horas.",
+ "use_cases": [],
+ "tags": [
+  "funda del iphone",
+  "caja del teléfono",
+  "apple",
+  "teléfono apple",
+  "iphone 15",
+  "iphone 15 máximo",
+  "iphone 15 plus",
+  "iphone 15 pro",
+  "iphone 14"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa6eaca361fd4c5/design/2025-08-01_05d380e01310b.gif",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1755958.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1756406.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1756409.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

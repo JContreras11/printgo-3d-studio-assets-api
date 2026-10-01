@@ -1,0 +1,239 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-2h.3mf.xz",
+   "instance_id": "3621153",
+   "thumbnail": "previews/profiles/3621153.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "iPhone 17 Pro 0.12mm layer, 2 walls, 25% infill",
+    "profile_notes": "Druckprofil Material: ABS Düse: 0,4 mm (0,2 geht auch) Schichthöhe: 0,12 oder 0,2mm Infill: 15-35 % Support: erforderlich Druckbett: ca. 90–100 °C Geschlossener Bauraum: empfohlen Optional: 0,2-mm-Düse für feinere Details",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4969116,
+   "sha256": "fdadb2cda3e7334eee16913827ec7e9e75518e83ffa07eaab8298f59bcc8c126",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-42min.3mf.xz",
+   "instance_id": "3718719",
+   "thumbnail": "previews/profiles/3718719.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "iPhone 17 Pro 0.2mm layer, 2 walls, 15% infill ohne Löcher",
+    "profile_notes": "🖨️ Meine Druckeinstellungen: Material: ABS (geht auch PLA oder PETG) Düse: 0,4 mm (0,2 wäre vermutlich noch besser) Schichthöhe: 0,2 mm (0,12 mm für saubere Optik) Support: Fürs Phone und einen Brim für den Kameraschutz",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2591668,
+   "sha256": "ba55249e78d909e235b942277dde12950d431ed2e00ae20b04a90fb1e73b13d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-48min.3mf.xz",
+   "instance_id": "3803415",
+   "thumbnail": "previews/profiles/3803415.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "iPhone 16 Pro 0.2mm Schicht, 2 Wände, 15% Füllung",
+    "profile_notes": "🖨️ Meine Druckeinstellungen: Material: ABS Düse: 0,4 mm (0,2 wäre vermutlich noch besser) Schichthöhe: 0,2 mm Support: Fürs Phone und einen Brim für den Kameraschutz",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2541460,
+   "sha256": "ba3bd5d9f1087581c066970b688ce4cd18261f6eae6f8f4b8f210f9e79d461a2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3200109",
+ "title": "Funda iPhone 17 Pro",
+ "slug": "iphone-17-pro-case",
+ "url": "https://makerworld.com/en/models/3200109-iphone-17-pro-case",
+ "author": "xh3ndrlk",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda rígida para iPhone 17 Pro – remezcla\nAquí está mi versión de la funda para el iPhone 17 Pro. Está basado en un modelo existente que adapté en consecuencia para este remix y le agregué algunos de mis propios detalles personalizados.\nLa característica más llamativa es la textura circular en la parte posterior, que le da al estuche un aspecto más técnico y moderno. También hay recortes para los botones y un protector de cámara separado que se puede colocar cómodamente para brindar protección adicional al módulo de cámara elevado.\nMi configuración de impresión:\nMaterial: ABS\nBoquilla: 0,4 mm (0,2 probablemente sería incluso mejor)\nAltura de la capa: 0,2 mm\nSoporte: Soporte para PLA y ala para protector de cámara\nEl estuche se ajusta perfectamente al iPhone 17 Pro y el ABS lo hace agradable y resistente con buena estabilidad dimensional. La textura en la parte posterior también ahorra material y le da al estuche un aspecto único.\n¡Disfruta imprimiendo!\n\nNota: Este es un diseño creado de forma independiente y no está afiliado a Apple Inc. ni a ningún producto oficial de Apple.\n\n¡Por supuesto, me encantaría recibir valoraciones, fotografías de sus impresiones y comentarios!\n\nImpúlsameSi te gusta mi modelo y quieres apoyar mi trabajo, ¡te agradecería mucho un impulso!\nMe ayuda a seguir creando nuevos modelos y compartiéndolos con todos ustedes.",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "iphone",
+  "iphone 17",
+  "funda iphone 17 pro",
+  "iphone 17 pro",
+  "práctico",
+  "funda de teléfono inteligente",
+  "teléfono inteligente",
+  "caja del teléfono",
+  "teléfono"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US67affcce1ac5b9/design/76f63ab7fdd19e2f.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1332
+  ],
+  "previews/02.jpg": [
+   1000,
+   2172
+  ],
+  "previews/03.jpg": [
+   1000,
+   1332
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   650
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/11.jpg": [
+   1000,
+   1332
+  ],
+  "previews/12.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3621153.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3718719.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3803415.jpg": [
+   600,
+   612
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

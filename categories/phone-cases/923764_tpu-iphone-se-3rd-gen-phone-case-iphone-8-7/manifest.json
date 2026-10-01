@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/tpu-iphone.3mf.xz",
+   "instance_id": "886423",
+   "thumbnail": "previews/profiles/886423.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 57,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.24mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print slowly on overhangs and stick to larger layer heights otherwise the TPU can struggle, if you don't have TPU for ams you may have to help push the TPU into the hotend as it loads it.",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8045,
+      "weight_g": 31.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 1019612,
+   "sha256": "4d8f22e90b89752a6791a0d0901f40ad2f155980bda6f8a5cf1432470d84a2da",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "923764",
+ "title": "TPU iPhone SE 3rd gen Phone case iPhone 8, 7",
+ "slug": "tpu-iphone-se-3rd-gen-phone-case-iphone-8-7",
+ "url": "https://makerworld.com/en/models/923764-tpu-iphone-se-3rd-gen-phone-case-iphone-8-7",
+ "author": "Torch122179",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "(Lea primero: TPU para AMS puede ser demasiado difícil para este diseño; si va a imprimirlo, asegúrese de usar un TPU más suave). La funda de TPU para iPhone SE, iPhone 8 o iPhone 7 de tercera generación funciona muy bien, es duradera y está diseñada para imprimirse fácilmente en TPU de la forma más limpia posible. Funciona bien para proteger su teléfono contra caídas considerando que está impreso en 3D.",
+ "use_cases": [],
+ "tags": [
+  "teléfono",
+  "caja del teléfono",
+  "iphone",
+  "hogar",
+  "durable",
+  "tpu",
+  "flexible"
+ ],
+ "license": "BY",
+ "release_date": "2024-12-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe2b4615d8982f9/design/2024-12-28_048cee65106e2.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/886423.jpg": [
+   600,
+   606
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

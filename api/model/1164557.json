@@ -1,0 +1,213 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto-42min.3mf.xz",
+   "instance_id": "1200175",
+   "thumbnail": "previews/profiles/1200175.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 75,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "P2S",
+    "H2D",
+    "X1E",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "perfect fit iphone 15",
+    "profile_notes": "no support I print on the a1 perfect fit",
+    "creation_date": "2025-03-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2394,
+      "weight_g": 11.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1072640,
+   "sha256": "c68e2a8e324c9fb00f4818945c66b7f6201dd2c0d656dc660c486b24250cefc4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-esqueleto-1h06.3mf.xz",
+   "instance_id": "1200091",
+   "thumbnail": "previews/profiles/1200091.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 3.6,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.08 layer height for the smoothest curves",
+    "creation_date": "2025-03-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3851,
+      "weight_g": 12.1,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 1644600,
+   "sha256": "cbc4973ac3b89fcf388a067fa77463fd6653bbb2cef8a7f439ecc28e5925c4ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-esqueleto-36min.3mf.xz",
+   "instance_id": "3490642",
+   "thumbnail": "previews/profiles/3490642.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "H2D",
+    "H2C",
+    "A2L",
+    "P1S",
+    "A1",
+    "X1",
+    "X2D",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Dicker für Kamera-Schutz / Platz für DigiBon",
+    "profile_notes": "Minimal dicker als das Original damit die knapp Kamera mit geschützt wird. Außerdem versteckter Stauraum für Digibon (30 mm Radius). Die original Hülle muss dazu vom DigiBon entfernt werden.",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3743232,
+   "sha256": "fdf71a07cdedbcbe0ed1875417b686aa18071803404f5588e7a8a963a24886fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1164557",
+ "title": "Funda esqueleto para iPhone 15",
+ "slug": "iphone-15-skeleton-case",
+ "url": "https://makerworld.com/en/models/1164557-iphone-15-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Imprima a una altura de capa de 0,1 mm para obtener un mejor aspecto del redondeo.\nNo lo imprimas con TPU, no es preferible.\n\nAgregué un nuevo diseño a una carpeta llamada \"Nuevo Slim Stronger con Camera Bump\". Corta el archivo e imprímelo; Es el último diseño y es delgado y mucho más resistente.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda iphone 15",
+  "funda del iphone",
+  "cubierta del iphone",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US82d1af523c6c62/design/2025-07-29_d55a9f49a0c79.webp",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   660,
+   880
+  ],
+  "previews/profiles/1200175.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1200091.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3490642.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

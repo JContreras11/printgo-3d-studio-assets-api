@@ -1,0 +1,286 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-30min.3mf.xz",
+   "instance_id": "1842245",
+   "thumbnail": "previews/profiles/1842245.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "iPhone 7 Plus",
+    "profile_notes": "此配置适用于 iPhone 7 Plus",
+    "creation_date": "2025-07-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "50%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2827128,
+   "sha256": "8b5980ec0c25001735527120201ea2c6a4a2333b6ff4c97b37aa7737e6757509",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-36min.3mf.xz",
+   "instance_id": "1891421",
+   "thumbnail": "previews/profiles/1891421.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "iPhone X / iPhone Xs",
+    "profile_notes": "2025-09-19：调整了尺寸",
+    "creation_date": "2025-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "45%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2886056,
+   "sha256": "ced6a8cf3ab3373d4d1bd3e2ab7d0de85c54fe1aaaaa52071e615201ad8139d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-42min.3mf.xz",
+   "instance_id": "1842255",
+   "thumbnail": "previews/profiles/1842255.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "iPhone 14 Pro Max",
+    "profile_notes": "2025-10-14：尺寸微调",
+    "creation_date": "2025-10-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "45%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "IPhone 14 Pro Max",
+   "size": 2822640,
+   "sha256": "b7f7dcf2f3c2a9ac93076c53822ad3674b8c687b2cf53b669b57d8a03d37bd77",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-48min.3mf.xz",
+   "instance_id": "1926773",
+   "thumbnail": "previews/profiles/1926773.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "iPhone 16 Plus",
+    "profile_notes": "2025-10-12：调整尺寸",
+    "creation_date": "2025-12-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2703808,
+   "sha256": "5119b1032fc45b128b25ee8f75ca25d5179d3dd86768077aa350e5aae63238b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1733049",
+ "title": "Funda para teléfono iPhone X a 16 Series de 1 mm",
+ "slug": "iphone-x-to-16-series-1mm-phone-case",
+ "url": "https://makerworld.com/en/models/1733049-iphone-x-to-16-series-1mm-phone-case",
+ "author": "Jeanlau",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Impúlsame Si necesitas otros modelos de iPhone, intenta impulsarlos y deja un comentario en la sección de revisión. Los haré y los probaré con maquetas de teléfonos cuando tenga tiempo. Funda para teléfono multimodelo para iPhone\nEl panel posterior tiene un grosor de 1 mm, el marco tiene un grosor de 0,8 mm, el marco de protección de la lente y la funda del teléfono se imprimen por separado, las esquinas están engrosadas para mejorar la protección, no se necesitan soportes, es fácil de imprimir\n\nPara\niPhone 7 Plus\niPhone X iPhone Xs iPhone Xs Máximo\niPhone 11 iPhone 11 Pro iPhone 11 Pro Máximo\niPhone 12 iPhone 12 Pro iPhone 12 Pro Max iPhone 12 mini\niPhone 13 iPhone 13 Pro iPhone 13 Pro Max iPhone 13 mini\niPhone 14 iPhone 14 Plus iPhone 14 Pro iPhone 14 Pro Max\niPhone 15 iPhone 15 Plus iPhone 15 Pro iPhone 15 Pro Máx.\niPhone 16 iPhone 16 Plus iPhone 16 Pro iPhone 16 Pro Max iPhone 16e\n\nSe han lanzado fundas para teléfonos de la serie iPhone 17. Los interesados ​​pueden consultar el siguiente enlace\n\nMateriales de impresión\nSe recomienda utilizar PLA para imprimir. Se admite la impresión PETG. TPU no probado.\n\nConsejos\nSe sacrificó parte de la protección para un mejor agarre. Decida si desea imprimirlo y usarlo usted mismo. No soy responsable de ningún daño causado por el uso de esta funda para teléfono.\n\nEl grosor es de solo 1 mm, es fácil de romper, manipule con cuidado durante la instalación.\n\nRegistro de actualización\n2025-08-21 Subido versión optimizada 16promax\n2025-08-22 Subido modelo 14promax\n2025-08-31 Subido modelos 15pro 15promax 16 16pro\n2025-09-06 Tamaño del modelo 15promax ajustado (impresión probada)\nTamaño del modelo 12 ajustado (no probado)\n2025-09-08 Subido modelo X\n2025-09-09 Subido modelo 11pro\n2025-09-13 Subido modelo 17promax (sin verificar)\n2025-09-15 Subido modelo 16e\n2025-09-17 Subido modelo 15plus\n2025-09-18 Subido modelo 16plus\n2025-09-25 Subido modelo 13promax\n2025-09-25 Tamaño de modelo 12 ajustado adecuado para 12Pro, las dimensiones de estos dos modelos son las mismas que se probaron en 12Pro\n2025-09-25 Subido 13 13pro 15 modelos\n2025-09-27 Subido 14 modelos 14plus 14pro\n2025-09-28 Subido 12mini 13mini modelos\n2025-10-08 Subido 11 modelo\n2025-10-09 Talla 15promax ajustada\n2025-10-09 Ajustado tamaño 12/12pro\n2025-10-09 Subidos modelos XsMax 11promax\n2025-10-12 Ajustado 16talla plus\n2025-10-14 Método de recorte del botón de la cámara modificado con dureza ligeramente aumentada de 16 tamaños",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "12promax",
+  "7plus",
+  "16promax",
+  "funda para iphone",
+  "14promax",
+  "funda de teléfono ultrafina",
+  "protección de lentes",
+  "iphone16",
+  "iphone16pro",
+  "iphone16promax",
+  "iphone15pro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7542cccd5be802/design/2025-09-25_b75965cee04618.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/05.jpg": [
+   1000,
+   1777
+  ],
+  "previews/06.jpg": [
+   1000,
+   1777
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1000
+  ],
+  "previews/10.jpg": [
+   1000,
+   1000
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1842245.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/1891421.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/1842255.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/1926773.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

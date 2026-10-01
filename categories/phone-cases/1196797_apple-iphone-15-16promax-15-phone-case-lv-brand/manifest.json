@@ -1,0 +1,263 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono-1h48.3mf.xz",
+   "instance_id": "1252851",
+   "thumbnail": "previews/profiles/1252851.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "iphone15，0.16mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "iphone15，0.16mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-05-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 786724,
+   "sha256": "38a369d8f1cde8ba4d66ccdc78f0bd9bbe324f6777227bbd513572b8068a08d3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-2h18.3mf.xz",
+   "instance_id": "1440279",
+   "thumbnail": "previews/profiles/1440279.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "16promax修改版0.12mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "16promax修改版0.12mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-02-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 680448,
+   "sha256": "3082ef5142b27f1fd6beebe878dc52f131c5e92e4eaed06c75a799e78cb1a9fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-3h24.3mf.xz",
+   "instance_id": "1263558",
+   "thumbnail": "previews/profiles/1263558.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "iphone15 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "iphone15 0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12190,
+      "weight_g": 36.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 728932,
+   "sha256": "072559311548d2d03e2762ba650d90a5915377e9edcbd6add483578e16c58295",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-telefono-4h30.3mf.xz",
+   "instance_id": "1263562",
+   "thumbnail": "previews/profiles/1263562.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "iphone16promax 修改版0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "iphone16promax 0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16178,
+      "weight_g": 44.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 614492,
+   "sha256": "b452665bc9d6042287d97cbedf691bb1d3a09360e4518706466a0539fe325fde",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1196797",
+ "title": "Funda para teléfono Apple iPhone 15, 16promax+15 marca LV",
+ "slug": "apple-iphone-15-16promax-15-phone-case-lv-brand",
+ "url": "https://makerworld.com/en/models/1196797-apple-iphone-15-16promax-15-phone-case-lv-brand",
+ "author": "wus7788",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda para teléfono Apple iPhone 16promax\nFunda para teléfono Apple iPhone 165promax\nmarca LV\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "iphone16promax",
+  "caja del teléfono de apple",
+  "funda para teléfono iphone 16 pro max",
+  "iphone15promax"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88442236e1ea70/design/55ea014c-13b2-4f02-9b7d-05cfbd6fe159.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   749
+  ],
+  "previews/02.webp": [
+   1000,
+   750
+  ],
+  "previews/profiles/1252851.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1440279.jpg": [
+   134,
+   147
+  ],
+  "previews/profiles/1263558.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1263562.jpg": [
+   134,
+   147
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

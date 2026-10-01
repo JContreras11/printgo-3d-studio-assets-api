@@ -133,46 +133,47 @@
   },
   {
    "path": "model/funda-esqueleto-48min.3mf.xz",
-   "size": 2757796,
-   "sha256": "b3bb1c2a34b992213cdfe92db3b8dc0ac0d9c26784009568fa0296327c091359",
-   "compressed": true,
-   "decompress": "xz -d -k <filename>",
-   "meta": {
-    "application": "BambuStudio-02.02.02.56",
-    "profile_title": "iPhone 14 Pro Max",
-    "creation_date": "2025-09-18",
-    "slicer": "Bambu Studio",
-    "printer": "Bambu Lab A1",
-    "layer_height": "0.2",
-    "infill": "15%",
-    "support_type": "tree(auto)",
-    "photos": 1
-   },
-   "instance_id": "1929044",
-   "name": "IPhone 14 Pro Max",
-   "thumbnail": "previews/profiles/1929044.jpg",
+   "instance_id": "3275904",
+   "thumbnail": "previews/profiles/3275904.jpg",
    "print_time_h": 0.8,
    "plates": 1,
-   "rating": 4.8,
-   "rating_count": 11,
+   "rating": null,
+   "rating_count": 0,
    "by_designer": false,
    "printers": [
     "A1",
-    "X2D",
-    "P1P",
-    "H2D",
-    "X1",
     "P1S",
-    "H2D Pro",
-    "H2C",
     "X1 Carbon",
-    "A1 mini",
-    "X1E",
-    "H2S",
+    "H2D",
+    "H2D Pro",
     "A2L",
-    "P2S"
+    "X1",
+    "X2D",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2S",
+    "A1 mini"
    ],
-   "default": false
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "iPhone 13 Pro Max",
+    "profile_notes": "Optimiert fürs iPhone 13 Pro Max",
+    "creation_date": "2026-06-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "14%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2803692,
+   "sha256": "40a2a60e77db04224a6341200eb7c3cde7f6876c4da4a42e639d30c1b4c36b86",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
   },
   {
    "path": "model/funda-esqueleto-pla-48min.3mf.xz",
@@ -272,9 +273,9 @@
    600,
    800
   ],
-  "previews/profiles/1929044.jpg": [
-   600,
-   905
+  "previews/profiles/3275904.jpg": [
+   450,
+   600
   ],
   "previews/profiles/1151244.jpg": [
    600,

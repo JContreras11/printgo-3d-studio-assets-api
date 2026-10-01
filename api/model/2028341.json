@@ -1,0 +1,89 @@
+{
+ "files": [
+  {
+   "path": "model/iphone-17.3mf.xz",
+   "instance_id": "2187144",
+   "thumbnail": "previews/profiles/2187144.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill - iPhone 17",
+    "profile_notes": "This is designed for 4 color AMS printing with Red, White, Black, and Light Blue.",
+    "creation_date": "2025-11-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1658044,
+   "sha256": "c1e5dd8a6a4c100cc3c302d8e1d5ffdfbf376dc5c16f42223c15f2f16c08b9bf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2028341",
+ "title": "iPhone 17 Pokédex Phone Case",
+ "slug": "iphone-17-pokedex-phone-case",
+ "url": "https://makerworld.com/en/models/2028341-iphone-17-pokedex-phone-case",
+ "author": "Billy3Dguy",
+ "category": "phone-cases",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "Una funda para teléfono iPhone 17 que parece una Pokédex Pokémon.\nLa doble bisagra le permite plegarse alrededor de la parte posterior del teléfono, al mismo tiempo que permite el acceso a los botones laterales.\n\nEl modelo actual es de 4 colores con AMS; rojo, azul claro, blanco y negro.\n¡Mira mi colección si buscas otro teléfono!\nBoost Me¡Gracias por considerar un impulso para mi trabajo!",
+ "use_cases": [],
+ "tags": [
+  "iphone 17",
+  "funda del iphone 17",
+  "pokédex",
+  "caja del teléfono",
+  "pokémon"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3a4fc8e3f7f990/design/2025-11-22_73a3de0f17003.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   677
+  ],
+  "previews/02.jpg": [
+   1000,
+   629
+  ],
+  "previews/profiles/2187144.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

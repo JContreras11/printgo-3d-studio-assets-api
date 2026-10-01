@@ -1,0 +1,161 @@
+{
+ "files": [
+  {
+   "path": "model/coleccion-fundas-4h06.3mf.xz",
+   "instance_id": "1965856",
+   "thumbnail": "previews/profiles/1965856.jpg",
+   "print_time_h": 4.1,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 100% infill",
+    "profile_notes": "Bridge Direction = 45° (for clean bridges on stripe-embed)",
+    "creation_date": "2025-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1938924,
+   "sha256": "d78f00fc82587d08c2563c49dfe2360abd00b6dc575081bb2b3633aedd85e9f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coleccion-fundas-54min.3mf.xz",
+   "instance_id": "2340866",
+   "thumbnail": "previews/profiles/2340866.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "A1 mini",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Magsafe support",
+    "profile_notes": "Added a 1.3mm cutout to add magsafe magnets to you case. Pause is already added at the correct layer, so you just have to start printing, add the magnets when needed and then resume the print.",
+    "creation_date": "2025-12-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.15",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1735992,
+   "sha256": "068195900091fe24102f33975b7e5a5725c4553d4bc4fa521684af08bd7d84bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1840308",
+ "title": "Colección de fundas Fairphone 6",
+ "slug": "fairphone-6-case-collection",
+ "url": "https://makerworld.com/en/models/1840308-fairphone-6-case-collection",
+ "author": "PenguinProto",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Proteja y personalice su Fairphone 6 con este conjunto de fundas imprimibles en 3D, cuidadosamente refinadas en múltiples iteraciones para un ajuste perfecto y una sensación cómoda y con agarre.\nModelos incluidos\nPlano: simple, fluido y minimalista: rápido de imprimir y fácil de personalizar.\nRayas: Rayas totalmente cortadas para una apariencia atrevida, más liviana y textura extra.\nRayas incrustadas: Rayas empotradas que no atraviesan completamente para lograr un patrón más sutil y una sensación agradable al tacto.\nRayas incrustadas (opción de intercambio de color): perfectas para impresión multicolor para resaltar el patrón empotrado.\n\nRecomendaciones de impresión\nMaterial: PETG o PLA\nRelleno: 100 % para resistencia y rigidez.\nAltura de capa: ~0,2 mm\nSoportes: No requerido\nPara franjas incrustadas: establezca la dirección del puente en 45° para un puente limpio\n\nEstos estuches están diseñados para brindar practicidad, durabilidad y comodidad: un compañero ecológico para su Fairphone 6 que puede personalizar por completo.",
+ "use_cases": [],
+ "tags": [
+  "teléfono justo",
+  "teléfono móvil 6",
+  "funda fairphone 6",
+  "funda de teléfono justo",
+  "caja del teléfono",
+  "funda",
+  "petg",
+  "pla"
+ ],
+ "license": "BY",
+ "release_date": "2025-09-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe4780545c8d7c5/design/2025-09-29_ec8b87aaa42ec8.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1965856.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2340866.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

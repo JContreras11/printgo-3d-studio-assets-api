@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "2841823",
+   "thumbnail": "previews/profiles/2841823.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "A1 mini",
+    "P2S",
+    "X1E",
+    "X1",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "J'ai dû le passer à 101 % pour que ça rentre mieux mais il y a un peu de jeu sur la longueur… A vérifier ; il faudrait enlever 1mm sur celle ci.",
+    "creation_date": "2026-03-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2016664,
+   "sha256": "5e679a54b43a2b392942136349acc4b824cb6911a4999ba62479bea08387d872",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "991480",
+ "title": "Funda para iPhone 11 con recorte Porsche G Series 81911",
+ "slug": "iphone-11-case-with-porche-g-series-81911-cutout",
+ "url": "https://makerworld.com/en/models/991480-iphone-11-case-with-porche-g-series-81911-cutout",
+ "author": "samjhlock83",
+ "category": "phone-cases",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Esta es una remezcla con un porche g serie 8911 en la parte posterior. Lo siento por el creador original del modelo por subir esto, pero la licencia no me lo permitió, pero fue el único archivo de pasos que pude encontrar. Lo imprimiré en TPU rojo y lo actualizaré para ver cómo funciona.\nActualización: bien prestado, pero los lados necesitan posprocesamiento, hice un 5% de relleno de giroide iirc y es realmente duradero y bueno para el uso diario.",
+ "use_cases": [],
+ "tags": [
+  "porsche",
+  "porche 911",
+  "porche 911 gt3 rs",
+  "porche 81911",
+  "iphone",
+  "iphone11",
+  "funda del iphone",
+  "iphone11caso",
+  "caja del teléfono",
+  "flexible",
+  "tpu"
+ ],
+ "license": "BY",
+ "release_date": "2025-01-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000991480/design/2025-05-31_b22894c0a9c56.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   877,
+   1440
+  ],
+  "previews/02.jpg": [
+   1000,
+   897
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2841823.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

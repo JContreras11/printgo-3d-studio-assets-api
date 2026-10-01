@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "3122842",
+   "thumbnail": "previews/profiles/3122842.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "X2D",
+    "P2S",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "iPhone 15 Pro Max Diagonal 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 976360,
+   "sha256": "5d3ceac5d78b02b2b961b7411efae2e0cdb681386b1a5213d259cea8e2e1f237",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2806389",
+ "title": "Funda de iPhone personalizable definitiva",
+ "slug": "ultimate-customizable-iphone-case",
+ "url": "https://makerworld.com/en/models/2806389-ultimate-customizable-iphone-case",
+ "author": "colinmd",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "¿Necesitas una nueva funda para teléfono? ¡Pruebe este generador personalizable de sus propias fundas personalizadas para iPhone directamente en MakerWorld! Este estuche flexible estilo parachoques cuenta con un borde frontal protector y una placa posterior duradera. Es totalmente compatible con los modelos de Apple lanzados entre 2022 y 2025, abarcando toda la serie de iPhone 14, 15, 16 y 17.\n\nSimplemente use el menú desplegable integrado del personalizador web de MakerWorld para seleccionar su modelo de teléfono específico, marque sus preferencias e imprima.\nCaracterísticas clave\nPestañas de esquina delgadas: el diseño utiliza pestañas desplazadas y barridas continuas para enganchar de forma segura las esquinas del teléfono mientras mantiene una apariencia elegante moldeada por inyección que combina perfectamente con las paredes laterales.\nRecortes dinámicos: los recortes de la cámara se adaptan automáticamente al dispositivo elegido, generando una forma de pastilla precisa para los modelos básicos 16/17 y una meseta amplia para las versiones 17 Pro/Max. Las asignaciones de botones también son completamente paramétricas para tener en cuenta todas las funciones, incluido el sensor de control de cámara más nuevo.\nDiseño de borde elegante: el estuche presenta un redondeo 3D matemáticamente exacto en los bordes exteriores para una sensación cómoda y premium.\nCanales laterales abiertos: el estuche tiene por defecto un estilo de corte \"Lados abiertos e inferior\", lo que garantiza un acceso sin obstáculos a los botones y cables de carga de gran tamaño. Estos canales abiertos presentan un radio de \"redondeo abocinado\" invertido, que refleja la estética de los estuches transparentes premium oficiales.\n9 diseños de placa posterior: elija entre un respaldo sólido estándar (predeterminado) o diseños estampados llamativos como rejilla de panal, rejillas verticales, rejilla de diamante, anillos concéntricos, mampostería de ladrillo, rayas diagonales y lunares escalonados. Un límite de \"zona segura\" incorporado protege automáticamente su estuche al garantizar que los patrones se dirijan limpiamente alrededor de la protuberancia de la cámara y los bordes estructurales. Los elementos estructurales, como los puentes de soporte radiales en los anillos concéntricos, garantizan una impresión exitosa de una sola pieza.\nTexto personalizado con escala automática: personalice su estuche con texto de varias líneas que se reduce automáticamente para evitar que se desborde por los bordes. Cuando se utilizan placas posteriores estampadas, el generador crea una insignia personalizada de \"borde de burbuja\" que se ajusta a la forma detrás del texto para que siga siendo perfectamente legible.\nDirectrices de impresión 3D y AMS\nElección de filamento: Se recomienda encarecidamente TPU (Flexible), ya que absorbe bien los golpes y se estira fácilmente sobre el teléfono. Si imprime en filamentos rígidos como PLA o PETG, se recomienda mantener la tolerancia predeterminada en 0,2 mm y utilizar el diseño de lados abiertos para que el teléfono pueda encajar fácilmente sin romper el plástico.\nImpresión de dos colores (AMS) de Bambu Studio: ¡La impresión de texto en un color secundario está completamente optimizada! Al seleccionar el estilo predeterminado \"Color secundario (AMS Paint)\", el texto cae exactamente 0,4 mm (dos capas estándar). El guión separa el texto en un volumen positivo distinto, lo que significa que Bambu Studio reconocerá el texto como una parte física separada cuando se exporte. Puedes simplemente hacer clic en el texto en tu lista de \"Objetos\" y asignarle una ranura de filamento AMS diferente sin necesidad de utilizar la herramienta de pintura de color.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "caja del teléfono",
+  "iphone 17",
+  "iphone 16",
+  "iphone 15",
+  "paramétrico",
+  "teléfono",
+  "funda del iphone",
+  "iphone 16 pro",
+  "iphone 14"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb748551ef3d735/design/518455acce43203f.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3122842.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

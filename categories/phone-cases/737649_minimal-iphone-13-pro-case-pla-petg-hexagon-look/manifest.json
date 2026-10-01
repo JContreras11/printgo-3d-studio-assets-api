@@ -1,0 +1,169 @@
+{
+ "files": [
+  {
+   "path": "model/funda-minimalista-1h54.3mf.xz",
+   "instance_id": "669795",
+   "thumbnail": "previews/profiles/669795.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 40,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.12mm layer, 3 walls, 15% infill",
+    "profile_notes": "I went with a very detailed print, but normal 0.20mm layer would probably work as well.",
+    "creation_date": "2025-01-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7337,
+      "weight_g": 19.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2989528,
+   "sha256": "7e20f11c1608a7a4eac7e41ec13bfc9f90ae3727abef94de04115b82cc58249f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-minimalista-2h24.3mf.xz",
+   "instance_id": "3550237",
+   "thumbnail": "previews/profiles/3550237.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "P1P",
+    "H2C",
+    "P1S",
+    "X2D",
+    "A2L",
+    "P2S",
+    "X1E",
+    "A1 mini",
+    "X1 Carbon",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Works With All Printers! No AMS required!",
+    "profile_notes": "Model Info: 0.12mm layer, 3 walls, 15% infill The print profile made by the designer, which was the only choice (at least at the time I am typing this) was not compatible with my A1 printer. That's why I made this print profile so any Bambu Lab printer can print this. Also, it has two separate plates so no AMS is needed and time can be saved because the color/material will not have to be changed every single layer. I also added two plates so you have the option to not print the second plate which is the camera cover.",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3415836,
+   "sha256": "c74262ca5888ff6dd753f5a614f6196be00acfdf020862bcea603a59562c8016",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "737649",
+ "title": "Funda minimalista para iPhone 13 Pro (PLA/PETG) con aspecto hexagonal",
+ "slug": "minimal-iphone-13-pro-case-pla-petg-hexagon-look",
+ "url": "https://makerworld.com/en/models/737649-minimal-iphone-13-pro-case-pla-petg-hexagon-look",
+ "author": "sbehn",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Diseñé este sencillo estuche para el iPhone 13 Pro de mi esposa. Desafortunadamente, no encontré ningún estuche que no sea de TPU que funcione y que se ajuste a nuestras necesidades en términos de apariencia.\n\nPrimero, dibujé rápidamente una funda basada en un modelo de iPhone 13 Pro existente. Luego resultó rápidamente que la mayoría de los modelos no son precisos, así que terminé modelando primero las partes importantes del modelo de iPhone 13 Pro, especialmente la curvatura muy especial alrededor de los bordes. Como resultado, el estuche encaja muy bien.\n\nCurvatura detallada alrededor de los bordes basada en la documentación de Apple\nHay algunos hilos leves debido al saliente, pero nada que no se pueda quitar fácilmente con un cuchillo o un raspador.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "funda",
+  "iphone13pro",
+  "diseño",
+  "electrónico",
+  "apple"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScd31e97f772c07/design/2024-10-28_f3085e224f729.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   826
+  ],
+  "previews/02.jpg": [
+   1000,
+   734
+  ],
+  "previews/03.jpg": [
+   1000,
+   879
+  ],
+  "previews/04.jpg": [
+   1000,
+   1241
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/669795.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3550237.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,248 @@
+{
+ "files": [
+  {
+   "path": "model/funda-kumiko.3mf.xz",
+   "instance_id": "928034",
+   "thumbnail": "previews/profiles/928034.jpg",
+   "print_time_h": 11.7,
+   "plates": 5,
+   "rating": 4.4,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "AMS and no-AMS Plates - 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.12mm layer height throughout. Select sheets based on if you want to use AMS or not. Plate 1 is not for printing but to provide all the objects in a single part. Plate 2 is the case body and camera protector without AMS with single material Plate 3 is the case body and camera protector with AMS from multiple materials. The case has multiple areas to mix colors or add TPU for grip. Plate 4 is the sheet isnert and buttons without AMS. Plate 5 is the buttons to be printed with AMS ans Bambu support.",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18225,
+      "weight_g": 46.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#999999"
+       },
+       {
+        "type": "PETG",
+        "color": "#333333"
+       },
+       {
+        "type": "PLA",
+        "color": "#6666FF"
+       },
+       {
+        "type": "TPU-AMS",
+        "color": "#CCCCCC"
+       },
+       {
+        "type": "PETG",
+        "color": "#408002"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4831,
+      "weight_g": 14.4,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#333333"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16471,
+      "weight_g": 38.21,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA-S",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PETG",
+        "color": "#999999"
+       },
+       {
+        "type": "PETG",
+        "color": "#333333"
+       },
+       {
+        "type": "TPU-AMS",
+        "color": "#CCCCCC"
+       },
+       {
+        "type": "PETG",
+        "color": "#408002"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1294,
+      "weight_g": 6.19,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#6666FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1283,
+      "weight_g": 2.88,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA-S",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#6666FF"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor",
+   "size": 3196900,
+   "sha256": "7d53bc5d3c009b3937c2e4b0b0b38c35e00bd2ac66099f273bb9848062b699c5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "958575",
+ "title": "Funda Kumiko para iPhone 15",
+ "slug": "iphone-15-kumiko-case",
+ "url": "https://makerworld.com/en/models/958575-iphone-15-kumiko-case",
+ "author": "Viltsu",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Esta resistente y cómoda funda para iPhone se puede imprimir con AMS para multimaterial (colores, TPU), pero también sin AMS con colores más simples. Es un ajuste ceñido y seguro con PETG. También imprimí el protector de cámara separado de PETG.\n\nEl inserto de hoja se puede usar tal cual o se puede usar como plantilla para cortar de otro material como lo hice con chapa de abedul.\n\nPara ensamblar, utilicé cinta adhesiva en el exterior para sujetar la hoja y los botones en su lugar al insertar el teléfono.\n\nLos botones deben ser precisos para que funcionen sin problemas. Utilicé soporte PLA y AMS para una impresión precisa. Si imprime sin AMS, es posible que necesite modificar la configuración de soporte o archivar las piezas para hacerlo bien.\n\nMúltiples planchas incluidas en el perfil para imprimir con o sin AMS o para usar como base para tu propio perfil.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "15",
+  "iphone 15",
+  "funda",
+  "protector",
+  "kumiko",
+  "japonés",
+  "ams",
+  "teléfono",
+  "cámara"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US511425f7d45d9e/design/2025-01-06_d615593530efb.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.png",
+  "previews/12.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   694
+  ],
+  "previews/02.png": [
+   1000,
+   717
+  ],
+  "previews/03.png": [
+   1000,
+   647
+  ],
+  "previews/04.png": [
+   1000,
+   649
+  ],
+  "previews/05.png": [
+   1000,
+   746
+  ],
+  "previews/06.png": [
+   1000,
+   746
+  ],
+  "previews/07.png": [
+   1000,
+   608
+  ],
+  "previews/08.png": [
+   1000,
+   720
+  ],
+  "previews/09.png": [
+   1000,
+   751
+  ],
+  "previews/10.png": [
+   828,
+   586
+  ],
+  "previews/11.png": [
+   1000,
+   751
+  ],
+  "previews/12.png": [
+   1000,
+   755
+  ],
+  "previews/profiles/928034.jpg": [
+   600,
+   539
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

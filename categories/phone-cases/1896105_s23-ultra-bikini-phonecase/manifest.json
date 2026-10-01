@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/funda-telefono.3mf.xz",
+   "instance_id": "2031500",
+   "thumbnail": "previews/profiles/2031500.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "P2S",
+    "H2S",
+    "X1",
+    "A1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 912152,
+   "sha256": "a2714394d8a7038d876a96a2609177f43080b8c3d2914493e2dbdd18edc86d63",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1896105",
+ "title": "Funda para teléfono S23 Ultra bikini",
+ "slug": "s23-ultra-bikini-phonecase",
+ "url": "https://makerworld.com/en/models/1896105-s23-ultra-bikini-phonecase",
+ "author": "smoothy",
+ "category": "phone-cases",
+ "source_category": "Impresora 3D > Accesorios para impresoras 3D",
+ "description": "Quería que mi funda para teléfono 3D fuera liviana, personalizada y sexy.",
+ "use_cases": [],
+ "tags": [
+  "galaxy",
+  "s23 ultra",
+  "teléfono",
+  "caja del teléfono",
+  "funda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf4fbef7fb4012/design/2025-10-17_1cf5ccc6160398.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1776
+  ],
+  "previews/02.png": [
+   1000,
+   563
+  ],
+  "previews/03.png": [
+   1000,
+   563
+  ],
+  "previews/04.png": [
+   1000,
+   563
+  ],
+  "previews/05.png": [
+   1000,
+   1776
+  ],
+  "previews/profiles/2031500.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

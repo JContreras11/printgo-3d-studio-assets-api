@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/carcasa-iphone.3mf.xz",
+   "instance_id": "800114",
+   "thumbnail": "previews/profiles/800114.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 3.6,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14695,
+      "weight_g": 138.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 8388896,
+   "sha256": "57a9cbc12f084e02155d83113a72dc367a323ab8fb37f2ed0bc18b6fa2638d3c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "851817",
+ "title": "Carcasa del iPhone 13: ladrillo",
+ "slug": "iphone-13-shell-brick",
+ "url": "https://makerworld.com/en/models/851817-iphone-13-shell-brick",
+ "author": "Monti_Led",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Impulsame",
+ "use_cases": [],
+ "tags": [
+  "caso",
+  "funda",
+  "iphone 13 pro",
+  "iphone13"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USce1c13c0e474cd/design/2024-12-05_565146ebf0fa2.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   450,
+   600
+  ],
+  "previews/02.jpg": [
+   800,
+   600
+  ],
+  "previews/03.jpg": [
+   800,
+   600
+  ],
+  "previews/profiles/800114.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

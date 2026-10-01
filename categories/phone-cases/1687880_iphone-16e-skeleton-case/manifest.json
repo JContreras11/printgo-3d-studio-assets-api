@@ -1,0 +1,97 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto.3mf.xz",
+   "instance_id": "2390028",
+   "thumbnail": "previews/profiles/2390028.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 35,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "A2L",
+    "X1E",
+    "H2S",
+    "H2D",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "STRONG and correct size!",
+    "profile_notes": "0.20 mm layer height 100% rectilinear infil 3 walls",
+    "creation_date": "2026-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 978756,
+   "sha256": "1c5d5393aa25c19cf4a9af8b399e032fbfa807e4c692fceca1500422526b435e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1687880",
+ "title": "Funda esqueleto para iPhone 16e",
+ "slug": "iphone-16e-skeleton-case",
+ "url": "https://makerworld.com/en/models/1687880-iphone-16e-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Funda “Exoesqueleto” para iPhone 16e\nProteja su iPhone 16e con estilo con el estuche Exoskeleton, un marco elegante y moderno diseñado para proteger las esquinas de su teléfono mientras mantiene su estética original. Lightweight yet durable, this open-frame design offers a minimalist look without compromising functionality. Ergonomically designed for everyday comfort, with easy access to all buttons, ports, and the camera.\nCompatibilidad: iPhone 16e\nPerfecto para impresión 3D FDM\nMateriales recomendados: PET-G o PLA\nAltura de la capa: 0,2 mm\nSoportes: No requerido\nPro Tip: PET-G filament provides superior fit, flexibility, and impact resistance.",
+ "use_cases": [],
+ "tags": [
+  "iphone 16e",
+  "funda del iphone 16e",
+  "funda del iphone",
+  "funda iphone 16e",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-08-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb3212fa0601011/design/690d9295a725b793.png",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1333
+  ],
+  "previews/02.webp": [
+   1000,
+   750
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2390028.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

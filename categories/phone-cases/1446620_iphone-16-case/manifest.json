@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "1529405",
+   "thumbnail": "previews/profiles/1529405.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "You can use standard PLA. Layer height of 0.2 and 0.16 work fine, no supports needed",
+    "creation_date": "2025-05-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1982640,
+   "sha256": "677451e9bc354d553bcc7e1f54d2362a7f5e1546f0b0c5e79cc384bb586194d4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1446620",
+ "title": "Funda iPhone 16",
+ "slug": "iphone-16-case",
+ "url": "https://makerworld.com/en/models/1446620-iphone-16-case",
+ "author": "flemmingdelfs19",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Creé una funda sceleton para iPhone 16. Se puede imprimir sin soportes y con muchos materiales diferentes. El tiempo de impresión es de unos 40 minutos con Bambu Lab X1 Carbon",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "16",
+  "funda",
+  "funda esqueleto",
+  "protector",
+  "cubrir",
+  "iphone 16"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001446620/design/2025-05-23_1f98493db1cc98.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/04.jpg": [
+   1000,
+   1328
+  ],
+  "previews/05.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/1529405.jpg": [
+   600,
+   796
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

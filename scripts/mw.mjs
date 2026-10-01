@@ -289,7 +289,9 @@ async function processModel(item, lib) {
     m.images = [];
     await Promise.all(urls.map(async (u, i) => {
       const rel = `previews/${String(i + 1).padStart(2, "0")}.${extOf(u)}`;
-      if (await download(`${u}?x-oss-process=image/resize,w_1000`, path.join(folder, rel))) m.images[i] = rel;
+      // GIFs go untouched: the CDN resize keeps only their first frame and the animation is lost.
+      const source = /\.gif$/i.test(u.split("?")[0]) ? u : `${u}?x-oss-process=image/resize,w_1000`;
+      if (await download(source, path.join(folder, rel))) m.images[i] = rel;
     }));
     m.images = m.images.filter(Boolean);
   }

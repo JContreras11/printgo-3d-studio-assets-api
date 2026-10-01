@@ -1,0 +1,142 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-3h12.3mf.xz",
+   "instance_id": "2659148",
+   "thumbnail": "previews/profiles/2659148.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X2D",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "P1S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "iPhone 11 Case TPU",
+    "profile_notes": "Unbedingt ohne Stützen drucken, sonst kann es zu Fehlern auf der Oberfläche kommen. TPU immer gut trocknen und bei sehr langsamen Einstellungen drucken.",
+    "creation_date": "2026-05-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1794204,
+   "sha256": "296926c2ca4fe8fa8e3171ebd6010e5891ca9f166a3bcee993eb6091927d369f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-12min.3mf.xz",
+   "instance_id": "2659340",
+   "thumbnail": "previews/profiles/2659340.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Knöpfe und Kameraschutz PLA oder PETG",
+    "profile_notes": "PLA oder PETG",
+    "creation_date": "2026-02-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1615320,
+   "sha256": "0f7eaf2ccd515efc608382947d47a79401ed2afb2a63903b039e93c90d8be3ae",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2424498",
+ "title": "Funda para iPhone 11 con protector de cámara",
+ "slug": "iphone-11-case-with-camera-protector",
+ "url": "https://makerworld.com/en/models/2424498-iphone-11-case-with-camera-protector",
+ "author": "3d_Raini",
+ "category": "phone-cases",
+ "source_category": "Hogar > Oficina",
+ "description": "Funda para iPhone 11 impresa en TPU con protección de cámara y botones de control de PLA o PETG\n\nLos botones separados hacen que su funcionamiento sea muy suave. Los diferentes colores pueden añadir aún más brillo.\n\nImprimí el estuche en una placa de PET con textura de carbono. Esto luce muy bien y es mucho más fácil de quitar que en las placas de PEI.\nImpulsameSi te gusta este modelo, ¡déjame un impulso!",
+ "use_cases": [],
+ "tags": [
+  "iphone 11",
+  "funda",
+  "protector de cámara",
+  "botones lisos"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-02-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8db58714f15d15/design/df0da0213d818fa8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2659148.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2659340.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

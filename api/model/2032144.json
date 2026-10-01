@@ -1,0 +1,83 @@
+{
+ "files": [
+  {
+   "path": "model/galaxy-s.3mf.xz",
+   "instance_id": "2191622",
+   "thumbnail": "previews/profiles/2191622.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill - Galaxy S 22 Ultra",
+    "profile_notes": "This is designed for 4 color AMS printing with Red, White, Black, and Light Blue.",
+    "creation_date": "2025-11-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1558424,
+   "sha256": "6c46e1b436bc5f47c87de3fc1c32dd8c6a3cacceb944cab2bbf00a3df3bfa896",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2032144",
+ "title": "Galaxy S 22 Ultra Pokédex Phone Case",
+ "slug": "galaxy-s-22-ultra-pokedex-phone-case",
+ "url": "https://makerworld.com/en/models/2032144-galaxy-s-22-ultra-pokedex-phone-case",
+ "author": "Billy3Dguy",
+ "category": "phone-cases",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "Una funda para teléfono que parece una Pokédex Pokémon, diseñada para adaptarse a un Samsung Galaxy S22 Ultra.\nLa doble bisagra le permite plegarse alrededor de la parte posterior del teléfono, al mismo tiempo que permite el acceso a los botones laterales.\n\nEl modelo actual es de 4 colores con AMS; rojo, azul claro, blanco y negro.\n\n¡Mira mi colección si buscas otro teléfono!",
+ "use_cases": [],
+ "tags": [
+  "galaxy s 22 ultra",
+  "pokédex",
+  "pokémon",
+  "caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3a420edb5ea27d/design/2025-11-23_4d3e37547093c.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   629
+  ],
+  "previews/profiles/2191622.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

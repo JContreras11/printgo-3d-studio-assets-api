@@ -1,0 +1,142 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-3h.3mf.xz",
+   "instance_id": "1395012",
+   "thumbnail": "previews/profiles/1395012.jpg",
+   "print_time_h": 3,
+   "plates": 3,
+   "rating": 4.1,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "PLA",
+    "creation_date": "2025-04-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1651244,
+   "sha256": "76e6876590868c1a59193302cc6d388c47d33af1f644d476e59816eac1e7a158",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-5h54.3mf.xz",
+   "instance_id": "1395026",
+   "thumbnail": "previews/profiles/1395026.jpg",
+   "print_time_h": 5.9,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "TPU",
+    "creation_date": "2025-04-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1655260,
+   "sha256": "477a0cb909f67bff492ddb99d1119a21101c9703e814a99e7664288233614adb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1352184",
+ "title": "Funda iPhone 14 Plus Zigzag Botón Personalizable",
+ "slug": "iphone-14-plus-zigzag-case-customizable-button",
+ "url": "https://makerworld.com/en/models/1352184-iphone-14-plus-zigzag-case-customizable-button",
+ "author": "Printzag",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Características:\nLos colores de los botones y del protector de la cámara son totalmente personalizables.\nAdmite impresión en PLA, PETG y TPU (modelo de vitrina impreso en PLA).\nUtilice el generador de pared Arachne con una boquilla de 0,4 mm para evitar espacios en detalles finos (<0,45 mm).\nProbado físicamente con un prototipo de iPhone para un ajuste preciso.\nLas fundas PLA/PETG pueden romperse al retirar el teléfono.\nEl método de instalación del protector de cámara del 14 Plus es diferente al que se muestra en el vídeo. Consulte las siguientes instrucciones de instalación.\n\nDebido a la contracción del material, los botones pueden quedar demasiado apretados dependiendo del filamento utilizado. Si esto sucede, intente lijar cuidadosamente el borde superior del ojal con una lima pequeña para eliminar cualquier material de soporte sobrante, o escale el eje X del botón a aproximadamente el 98% (como se muestra a continuación) antes de imprimir para un mejor ajuste.\n\nNo quites el faldón exterior del botón; está diseñado para evitar que el botón se caiga.\nOtros casos\nfunda en zigzag\nEstuche con placa posterior personalizable\nExperimental\n16 Pro Max16 Pro MaxEstuche en zigzag\nAirpods2\n16 Pro Dragón Negro\n16 Pro Máximo\nFunda Lite 16 Plus Zigzag\n15 Pro Máximo\nPlaca trasera compatible con 16 legos\n16 Pro Máximo\n15 Pro Max 15 Pro 15 Plus 15 14 Pro Max 14 Pro 14 Plus 14 13 Pro Max 13 Pro 13 Plus 13 12 Pro Max 12 Pro 12 12 Mini",
+ "use_cases": [],
+ "tags": [
+  "iphone14plus",
+  "iphone",
+  "funda iphone 14",
+  "teléfono",
+  "caja del teléfono",
+  "iphone 14"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88b57f6c1ee717/design/2025-04-24_c1fb0eed0cb2b.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1395012.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1395026.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

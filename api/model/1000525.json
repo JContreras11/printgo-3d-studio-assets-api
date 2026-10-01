@@ -1,0 +1,189 @@
+{
+ "files": [
+  {
+   "path": "model/funda-esqueleto-1h24.3mf.xz",
+   "instance_id": "3649199",
+   "thumbnail": "previews/profiles/3649199.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "P1S",
+    "A2L",
+    "A1",
+    "X1E",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.1mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1027768,
+   "sha256": "13aabff30ccf9a74e2aa63d75fcc681c5edb6225f0d7e7963adf56baf109cc90",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-esqueleto-1h12.3mf.xz",
+   "instance_id": "1746248",
+   "thumbnail": "previews/profiles/1746248.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 43,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "P1P",
+    "P2S",
+    "A1",
+    "X2D",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "PETG Profile // 0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": "Version 2 Layers: 0.2mm Supports: NO Color: Black Filament: PLA or TPU",
+    "creation_date": "2025-07-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 943388,
+   "sha256": "40a2a0c15d9350d9288fd3accd62d68d050331b3ecb6c06ea93f21251df14c74",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-esqueleto-42min.3mf.xz",
+   "instance_id": "2084348",
+   "thumbnail": "previews/profiles/2084348.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 32,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layers: 0.2mm Supports: No Colors: Black. Puoi stampare in PLA+, ma il PETG è migliore. E' il profilo di nuova versione di quello più scaricato e votato dagli utenti (che non è più disponibile).",
+    "creation_date": "2025-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1133736,
+   "sha256": "87eba48d63443a552e0e7a17133e471951a36c0300b40913e40c89f04bab40f4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1000525",
+ "title": "Funda esqueleto para iPhone 16 Pro",
+ "slug": "iphone-16-pro-skeleton-case",
+ "url": "https://makerworld.com/en/models/1000525-iphone-16-pro-skeleton-case",
+ "author": "layers_lab",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Hice esto a pedido de un usuario, no tengo el teléfono, por lo tanto no sé cómo encaja (pero estoy seguro de que encajará perfectamente). Cualquier comentario y fotografía son muy apreciados y valiosos para mí.\n\nImprímalo a una altura de capa de 0,1 mm para obtener un acabado mucho mejor.\n\nAgregué un nuevo diseño a una carpeta llamada \"Nuevo Slim Stronger con Camera Bump\". Corta el archivo e imprímelo; Es el último diseño y es delgado y mucho más resistente.\n\nSígueme en:\nInstagram.com: capas_lab\nYoutube: capaslab",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 16 pro",
+  "funda del iphone 16",
+  "apple",
+  "cubierta del iphone",
+  "funda iphone 16 pro",
+  "teléfono",
+  "caja del teléfono",
+  "teléfono móvil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US662b89df1e1e1f/design/40e8b6ab2a0cdbf2.png",
+ "images": [
+  "previews/01.webp",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   660,
+   880
+  ],
+  "previews/profiles/3649199.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1746248.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2084348.jpg": [
+   600,
+   566
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

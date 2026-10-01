@@ -1,0 +1,214 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-2h48.3mf.xz",
+   "instance_id": "2727735",
+   "thumbnail": "previews/profiles/2727735.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "iPhone16",
+    "profile_notes": "iPhone 16 Basic print profile . I STRONGLY ADVICE TO SCALE IT UP TO 100,5% UP TO 101%.",
+    "creation_date": "2026-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9196200,
+   "sha256": "0949ceacbdb3d231c7eb2568445fc79890ae558b642fced2cc5a0be06c29283a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-2h12.3mf.xz",
+   "instance_id": "2820296",
+   "thumbnail": "previews/profiles/2820296.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1",
+    "H2S",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "iPhone16 Smooth-Side (No Fuzzy Skin) Loser Fit (Scaled 101%)",
+    "creation_date": "2026-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 13775936,
+   "sha256": "a1bc983a32c8ce87550444c1b77737f49c35e653da30b8dfe99095bb2188c23f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-2h36.3mf.xz",
+   "instance_id": "2804143",
+   "thumbnail": "previews/profiles/2804143.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "iPhone16 Loser Fit (Scaled up 101%)",
+    "profile_notes": "Bigger dimensions that the standard case design. Due to the fact that it has been scaled up the fit is much Looser and so the overall protection is slighty reduced , compared to tight fittig standard case (Normal size Print Profile)",
+    "creation_date": "2026-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 13913368,
+   "sha256": "dcd4aa56be087ddb13e8b3d8089a4415be54cca738e2da98933e82333a647bd2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2483333",
+ "title": "Funda iPhone 16 Voronoi",
+ "slug": "iphone-16-voronoi-case",
+ "url": "https://makerworld.com/en/models/2483333-iphone-16-voronoi-case",
+ "author": "G.M.I_projects",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Boost MeSiéntete libre de mezclar y mejorar este diseño, ¡la colaboración es fundamental! Una funda de TPU elegante y moderna diseñada para el iPhone 16, que ofrece protección confiable y mantiene una apariencia delgada y estética. El material flexible garantiza durabilidad y protección diaria sin añadir volumen innecesario.\nPara lograr el mejor ajuste, recomiendo encarecidamente escalar el modelo al 100,5 %-101 % antes de imprimir. Esto permite un ajuste ligeramente más holgado y una instalación más sencilla en el teléfono.\nUTILICE SÓLO TPU O CUALQUIER OTRO FILAMENTO ELÁSTICO\nPara mejorar la textura del dorso y la calidad visual, considere imprimir en una placa de construcción lisa con patrones texturizados.\nMás versiones para iPhone 13, 14, 15 y 17 están disponibles ¡échales un vistazo! - ¡Manténganse al tanto!\nUn agradecimiento especial a Flemming por la inspiración artística del diseño de su funda para iPhone 16.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 16",
+  "funda del iphone 16",
+  "caja del teléfono",
+  "tpu",
+  "voronói",
+  "iphone16",
+  "funda del iphone",
+  "cubierta del iphone"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc0527d7b684602/design/26419bf4b658145d.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.png",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.png": [
+   1000,
+   800
+  ],
+  "previews/07.jpg": [
+   1000,
+   329
+  ],
+  "previews/profiles/2727735.jpg": [
+   600,
+   929
+  ],
+  "previews/profiles/2820296.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2804143.jpg": [
+   800,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

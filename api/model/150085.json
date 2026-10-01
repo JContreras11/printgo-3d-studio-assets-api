@@ -1,0 +1,135 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "163726",
+   "thumbnail": "previews/profiles/163726.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 136,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "TPU flexible case (with support), PLA lens protection ring",
+    "profile_notes": "Print the case with a bit of support (for the frame overhang in the front, and the port holes) Print the lens protection ring very slowly, bottom side down on the plate Use classic slicer, I had some issues with Arachne Disable “only one wall on top surfaces”",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13671,
+      "weight_g": 24.81,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 771,
+      "weight_g": 1.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 1505956,
+   "sha256": "1db598664bca0fa8f0f240539cf1b1a54de09e1074741ff62cef5a597d7da66b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "150085",
+ "title": "Funda para iPhone 15 Pro (flexible, MagSafe)",
+ "slug": "iphone-15-pro-case-flexible-magsafe",
+ "url": "https://makerworld.com/en/models/150085-iphone-15-pro-case-flexible-magsafe",
+ "author": "marber",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Esta es una funda flexible para Apple iPhone 15 Pro. Opcionalmente, admite la adición de un anillo MagSafe de metal adhesivo en el bolsillo trasero y tiene un anillo incrustado impreso por separado para proteger la lente.\n\nEl estuche principal está destinado a imprimirse en TPU flexible (obtuve excelentes resultados con Polymaker Polyflex 90A). El anillo de protección de la lente funciona muy bien en PLA.\n\nEl modelo está disponible públicamente en OnShape (también puede crear una cuenta gratuita para modificarlo) con varias opciones de configuración más (sin respaldo hexagonal ni bolsillo MagSafe) disponibles para exportación o modificaciones.\n\nHice un modelo similar para el iPhone 13 Mini.",
+ "use_cases": [],
+ "tags": [
+  "iphone 15 pro",
+  "caja del teléfono",
+  "tpu",
+  "flexible",
+  "carga magnética",
+  "iphone",
+  "accesorios del telefono"
+ ],
+ "license": "BY-SA",
+ "release_date": "2024-01-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc07a0af7063b0/design/2024-01-21_4f5642b3d9dcb8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   679
+  ],
+  "previews/02.png": [
+   1000,
+   668
+  ],
+  "previews/03.jpg": [
+   1000,
+   572
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   608
+  ],
+  "previews/profiles/163726.jpg": [
+   600,
+   343
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

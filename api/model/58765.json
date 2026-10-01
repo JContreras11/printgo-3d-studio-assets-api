@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "76865",
+   "thumbnail": "previews/profiles/76865.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 123,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5398,
+      "weight_g": 34.31,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1533604,
+   "sha256": "ff1ac863ea74bab2471696c5e997fab277c8841378003d3e58ca78cccbee5c47",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "58765",
+ "title": "Funda para iPhone 8/SE: admite diseños voronoi gratuitos (versiones duras y blandas)",
+ "slug": "iphone-8-se-case-support-free-voronoi-designs-hard",
+ "url": "https://makerworld.com/en/models/58765-iphone-8-se-case-support-free-voronoi-designs-hard",
+ "author": "LinkDesigns",
+ "category": "phone-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Ya sea que tengas filamento flexible o no, estos estuches permiten una impresión fácil y un teléfono atractivo.\nDiseñé estos estuches para imprimir sin soporte, por lo que quedan muy limpios. Ambas versiones también proporcionan un amortiguador para el protector de pantalla y el protector de la cámara, por lo que no tendrá que preocuparse por apoyar su teléfono en ninguna de estas áreas.\nEstuche rígido:\nPersonalmente me encanta el aspecto del estuche rígido. Esta es una buena opción para cualquiera que quiera imprimir en PLA, PETG o ABS. Definitivamente no es el estuche más protector, pero creo que su apariencia lo compensa. El mío es PLA y encaja perfectamente.\nConfiguración de impresión:\nResolución: 0,2 mm\nRelleno: 20%\nParedes: 2\nSoportes: no\nFilamento: Overture White PLA\n\nEstuche blando:\nAunque utilicé un TPU malo para el estuche blando, ¡todavía funciona muy bien en términos de ajuste y funcionalidad! El diseño de los botones ocultos fue un desafío divertido y terminó funcionando muy bien.\nConfiguración de impresión:\nResolución: 0,12 mm\nRelleno: 20%\nParedes: 2\nSoportes: no\nFilamento: Overture Black 95A TPU (muy viejo jajaja)\n\n¡Muchas gracias a ryan5sampson por diseñar este modelo de referencia de iPhone SE! Fue fácil de dibujar y resultó ser súper preciso.\n\n¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "voronói",
+  "iphone",
+  "sin soporte",
+  "iphone8",
+  "iphonese",
+  "funda iphone"
+ ],
+ "license": "BY-NC",
+ "release_date": "2023-11-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US79d63db1dc1181/design/2023-11-07_p9zvcr51fi6k.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   800
+  ],
+  "previews/02.png": [
+   1000,
+   800
+  ],
+  "previews/03.png": [
+   1000,
+   800
+  ],
+  "previews/04.png": [
+   1000,
+   800
+  ],
+  "previews/05.png": [
+   1000,
+   800
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/76865.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

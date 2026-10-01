@@ -1,0 +1,304 @@
+{
+ "files": [
+  {
+   "path": "model/iphone-15-1h12.3mf.xz",
+   "instance_id": "413091",
+   "thumbnail": "previews/profiles/413091.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 32,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "A1 mini",
+    "H2S",
+    "A1",
+    "H2D",
+    "P1S",
+    "X2D",
+    "X1",
+    "P2S",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "3D Effect Spiral 0.2mm layer, 2 walls, 25% infill",
+    "profile_notes": "This variation has color change at layer. No AMS is needed. You can color it as you wish. Don't touch the other settings or you will have the back effect lost!",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4449,
+      "weight_g": 56.47,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF5555"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5623988,
+   "sha256": "cc067ffe53bf4578ab654ca606a5f74965f0d47902dbf88522b5a77178917121",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iphone-15-1h18.3mf.xz",
+   "instance_id": "413122",
+   "thumbnail": "previews/profiles/413122.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X2D",
+    "A1",
+    "H2D",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "P1P",
+    "P2S",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.55",
+    "profile_title": "Small Hexagons Case 0.2mm layer, 2 walls, 25% infill",
+    "profile_notes": "**Important note regarding choosing the profile and sending it to the printer through the Handy App. There must be a bug and any profile you choose, will print always the 3D circular one. Thank you for the user that commented on that. This variation has color change at layer. No AMS is needed. You can color it as you wish. Don't touch the other settings or you will have the back effect lost!",
+    "creation_date": "2024-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4890,
+      "weight_g": 58.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 5621772,
+   "sha256": "562f43a0be2dfd397873801027ec5726942c5b6b7f0db9efb0757f9512c42f5d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iphone-15-1h36.3mf.xz",
+   "instance_id": "413128",
+   "thumbnail": "previews/profiles/413128.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X2D",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.55",
+    "profile_title": "Plain Case with Apple Logo 0.2mm layer, 2 walls, 25% infill",
+    "profile_notes": "No AMS is needed. You can color it as you wish.",
+    "creation_date": "2024-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5566,
+      "weight_g": 69.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5833608,
+   "sha256": "678f3864dfbeeead214a8266a6ef0383674800e0c681ff74a5a3bca1a0b087c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "498494",
+ "title": "iPhone 15 Pro Max con soporte incorporado",
+ "slug": "iphone-15-pro-max-with-builtin-stand",
+ "url": "https://makerworld.com/en/models/498494-iphone-15-pro-max-with-builtin-stand",
+ "author": "Square2_3D",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "¿Estás cansado de ver youtube o redes sociales mientras sostienes tu teléfono? ¿Siempre tener que tener ese teléfono contigo todo el tiempo? ¡Entonces no busques más porque te respaldo! O en este funda, tu teléfono está de vuelta con todas las variaciones que se me ocurrieron. Desde espirales con efecto 3D, hexágonos, el famoso Mac “Rallador de queso”, Liso con el logo de Apple y más. ¡Simplemente elige el perfil que más te guste!\n\nContinuando con mi funda para teléfono con efecto 3D que hice para el teléfono de mi esposa, les presento la próxima versión del mismo efecto para su iPhone 15 Pro Max pero con un soporte incorporado. Además de algunas variaciones más en mis perfiles. ¡Elige el tuyo!\n\n(Nota: Esto está impreso en PLA. Es duro pero encaja. Imprimí varios y sigo sacando y metiendo mi propio teléfono para probarlos y hasta hoy no rompí ni uno. Sigo recibiendo malas calificaciones de personas que rompen la carcasa o simplemente porque el PLA es duro. Te aconsejo que pruebes con otra variante en TPU si no quieres esto)\nImpulsameSin obligación de impulso. Pero gracias si me das uno. Mira tus películas, navega por Tiktok o Instagram mientras tu teléfono está frente a ti sin tener que tener a otro parado. Simplemente voltea tu estuche, tira del soporte y “voilá”…\n¡Funciona en modo vertical y horizontal!\n\n*Como se ve en estos pequeños clips, el soporte debe permanecer en su lugar sin importar cómo “mueva” su estuche. Debería hacer clic en su lugar al cerrar el soporte. Si no escucha un clic, significa que el soporte se caerá. Lo descubrí mientras hablaba con otras personas que habían impreso uno en un material diferente (Silk PLA y CF). Se recomienda PLA porque fue lo que probé. Además, el perfil tiene su propia configuración y tocarlo puede provocar fallos. También se agregaron imágenes del teléfono dentro del estuche que muestran que encaja sin problemas.\n\n*Después de terminar la impresión: ¡déjalo enfriar! No intentes forzarlo o puedes dañar la pieza. Después de que se enfríe, abra la parte del soporte con cuidado hasta que escuche un \"chasquido\". Eso significa que los pasadores de retención ahora están sueltos y puede abrir el soporte normalmente. Recuerda, déjalo enfriar!!!\n\n**Nota importante sobre la elección del perfil y su envío a la impresora a través de la Handy App. Debe haber un error y cualquier perfil que elijas imprimirá siempre el circular 3D. Gracias por el usuario que comentó sobre eso.\n\n*No cambie ninguna configuración que no sean los colores. Todos los respaldos de las cajas están diseñados para cortarse con esos efectos. Si quieres un estuche sencillo, lo tienes aquí o puedes imprimir uno de otros creadores.\n\n*¡La carga inalámbrica también funciona! ¡MagSafe no es posible debido al soporte!\n\n¡Diviértete, come un refrigerio! Tienes tus manos libres ahora...",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone15promax",
+  "iphone 15 pro max",
+  "pro max",
+  "funda",
+  "caja del teléfono",
+  "teléfono",
+  "construido en",
+  "apple",
+  "noams",
+  "no ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-06-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd094ed2205ac59/design/2024-06-16_5c2e138649e44.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.gif",
+  "previews/13.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.gif": [
+   562,
+   308
+  ],
+  "previews/13.gif": [
+   734,
+   402
+  ],
+  "previews/profiles/413091.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/413122.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/413128.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

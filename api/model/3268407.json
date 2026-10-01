@@ -1,0 +1,127 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "3705807",
+   "thumbnail": "previews/profiles/3705807.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Druckeinstellungen Mein Druckprofil wurde mit ABS getestet. Empfohlene Einstellungen: 0,4 mm Düse (kleiner geht auch) 0,20 mm Schichthöhe alternativ 0,12 mm für eine feinere Oberfläche Stützstrukturen aktiviert Material: ABS (PETG und PLA gehen auch)",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2833012,
+   "sha256": "9a19bf9f59c6db3e2cf131fbe9d5296295aa7c018932986eb455b53b35365419",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3268407",
+ "title": "funda para iPhone 16 Plus",
+ "slug": "iphone-16-plus-case",
+ "url": "https://makerworld.com/en/models/3268407-iphone-16-plus-case",
+ "author": "xh3ndrlk",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda para iPhone 16 Plus - Diseño perforado\nEsta funda para iPhone 16 Plus es una remezcla de un modelo existente que he revisado tanto en términos de funcionalidad como de apariencia.\nAgregué un nuevo diseño perforado en la espalda. Las aberturas redondas recorren uniformemente la espalda y dejan deliberadamente expuesto el logotipo de Apple, creando un diseño moderno y llamativo.\nCambios respecto al original.\nPara mi remezcla, ajusté las siguientes áreas, entre otras cosas:\nRecortes de botones revisados\ncreó un protector de cámara adicional que se puede insertar por separado\nnuevo diseño perforado en la parte posterior\ndiseño organizado específicamente alrededor del área del logotipo de Apple\nAjustes menores para una mejor apariencia general y funcionalidad.\nConfiguración de impresión\nMi perfil de impresión fue probado con ABS\nConfiguraciones recomendadas:\nBoquilla de 0,4mm\nAltura de capa de 0,20 mm\nalternativamente 0,12 mm para una superficie más fina\nSoportes habilitados\nMaterial: ABS (PETG y PLA también funcionan)\nPor lo general, el modelo también se puede imprimir con PETG o PLA. Dependiendo de la impresora, el material y la orientación, una impresión también puede funcionar sin soportes.\nNota: Este es un diseño creado de forma independiente y no está afiliado a Apple Inc. ni a otros productos oficiales de Apple.\nCréditos\nEste modelo se basa en un diseño existente y lo desarrollé más a fondo como una remezcla.\nMuchas gracias al diseñador original por el modelo base.\nModelo original:\n\nDescargo de responsabilidad\nTodos los objetos mostrados en las imágenes tienen exclusivamente fines ilustrativos y de presentación. Sólo forma parte del modelo la funda para iPhone 16 Plus incluyendo el correspondiente protector de cámara. Los teléfonos inteligentes y otros artículos representados no están incluidos.\n\nEstaré encantado de recibir comentarios. Diviértete imprimiendo:)",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone 16 más",
+  "iphone 16",
+  "teléfono inteligente",
+  "práctico",
+  "cubrir",
+  "funda",
+  "apple iphone",
+  "apple iphone 16 más",
+  "estuche de carga",
+  "cargar",
+  "práctico funda"
+ ],
+ "license": "Standard Digital File License - Community Use",
+ "release_date": "2026-09-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US42c32856876ef9/design/5210524231cac9b5.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3705807.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

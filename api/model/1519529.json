@@ -1,0 +1,137 @@
+{
+ "files": [
+  {
+   "path": "model/fundas-telefonos-1h48.3mf.xz",
+   "instance_id": "1592238",
+   "thumbnail": "previews/profiles/1592238.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "13pro 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "13pro 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1316640,
+   "sha256": "542c1bfc7fbd218e60181d70ac5e6bc4467e8f8d4762248448daa4b92a0926ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fundas-telefonos-1h54.3mf.xz",
+   "instance_id": "1592236",
+   "thumbnail": "previews/profiles/1592236.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "P1S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "14pro 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "14pro 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1242148,
+   "sha256": "bb4a5219000a7e100fe64c33d64131aa78cac6c5cb565ac026c71f3bfe926641",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1519529",
+ "title": "Fundas para teléfonos iPhone 13, 14, 15 y 16 Pro",
+ "slug": "iphone-13-14-15-and-16-pro-phone-cases",
+ "url": "https://makerworld.com/en/models/1519529-iphone-13-14-15-and-16-pro-phone-cases",
+ "author": "wus7788",
+ "category": "phone-cases",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Fundas para teléfonos iPhone 13, 14, 15 y 16 Pro. Fundas para teléfonos iPhone Pro.\nLa selección de filamentos es personalizable; Están disponibles PLA, PETG y TPU.\nSólo con fines de aprendizaje e intercambio.\nNota especial: al imprimir con filamento PLA o PETG, tenga cuidado durante la instalación y extracción, ya que estos materiales son relativamente rígidos y se debe evitar una fuerza excesiva.",
+ "use_cases": [],
+ "tags": [
+  "iphone13 pro",
+  "iphone14 pro",
+  "iphone15 pro",
+  "iphone16 pro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US79bbaed711f476/design/2025-06-15_b735c45386d0c8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1592238.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1592236.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

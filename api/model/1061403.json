@@ -1,0 +1,570 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone-1h36.3mf.xz",
+   "instance_id": "2550426",
+   "thumbnail": "previews/profiles/2550426.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "X1E",
+    "X1",
+    "P1P",
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "improved support around camera button",
+    "profile_notes": "I tried a few cases for my iphone 16 pro max and thought this one was the best. I loved mixing the TPU and the PLA and the way the buttons feel when pressed. The only thing I did not like was that the area for the camera button seemed to have very little support once printed with a thin strand bridging the case on either side of the button. This is an attempt to correct that with access to the button still present but with more support around it to add more strength to the case overall. Thank you to PrintZag for the excellent work.",
+    "creation_date": "2026-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 902540,
+   "sha256": "3670daeaa1e2e6bc20feb5a490d13110898bdcaf40ceddb813bef9aa846fe316",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-1h48.3mf.xz",
+   "instance_id": "1049850",
+   "thumbnail": "previews/profiles/1049850.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Magsafe_PLA",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 702,
+      "weight_g": 1.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5666,
+      "weight_g": 29.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 931656,
+   "sha256": "eb3c3b5e99f65cbd88f626036fac021d2a72c0a61172e25661f1e705084f1233",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-3h.3mf.xz",
+   "instance_id": "1061444",
+   "thumbnail": "previews/profiles/1061444.jpg",
+   "print_time_h": 3,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V2_Magsafe_TPU",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 702,
+      "weight_g": 1.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9914,
+      "weight_g": 31.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 1209652,
+   "sha256": "22e63c32295959c2a21caf81cc06855e3f4d4ccdbf4337908a50773e12877617",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-3h06.3mf.xz",
+   "instance_id": "1061439",
+   "thumbnail": "previews/profiles/1061439.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V2_Flat_TPU",
+    "creation_date": "2025-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 631,
+      "weight_g": 1.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10378,
+      "weight_g": 33.85,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 1202004,
+   "sha256": "4ee3ed91b3d89d2b292707314c19e7cbcaa17fad64f69740357dfaa81c1ed661",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-3h12.3mf.xz",
+   "instance_id": "1181884",
+   "thumbnail": "previews/profiles/1181884.jpg",
+   "print_time_h": 3.2,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 77,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "V3_PLA (Magsafe Version Included)",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5390,
+      "weight_g": 32.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5454,
+      "weight_g": 30.66,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 693,
+      "weight_g": 1.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1257904,
+   "sha256": "aa554cc0b0cfb4f2789b522e15a8d61f64311d50590711cf0a7daa5b4f2cf147",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-5h54.3mf.xz",
+   "instance_id": "1181886",
+   "thumbnail": "previews/profiles/1181886.jpg",
+   "print_time_h": 5.9,
+   "plates": 3,
+   "rating": 4.7,
+   "rating_count": 48,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "V3_TPU (Magsafe Version Included)",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10466,
+      "weight_g": 33.77,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9936,
+      "weight_g": 31.52,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 693,
+      "weight_g": 1.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor",
+   "size": 1237628,
+   "sha256": "4ce0b11811683734c14ef8959d9b4294c9019bd262b774a72f55d3691123683a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-iphone-6min.3mf.xz",
+   "instance_id": "1181909",
+   "thumbnail": "previews/profiles/1181909.jpg",
+   "print_time_h": 0.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Textured_Button_V1",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 465,
+      "weight_g": 0.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7D6556"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 884436,
+   "sha256": "516b19d97535560b5ea2fa4a0936c1e7fdd7c05ecbb3abdfc49ba75f6a5836ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1061403",
+ "title": "Funda iPhone 16 Pro Max Zigzag Botón Personalizable",
+ "slug": "iphone-16-pro-max-zigzag-case-customizable-button",
+ "url": "https://makerworld.com/en/models/1061403-iphone-16-pro-max-zigzag-case-customizable-button",
+ "author": "Printzag",
+ "category": "phone-cases",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Recomendado\nNueva funda para iPhone 16 Pro Max optimizada para PLA con placa posterior personalizable: más resistente, reutilizable y soluciona los problemas del modelo anterior.\nCaracterísticas:\nLos colores de los botones y del protector de la cámara son totalmente personalizables.\nAdmite impresión en PLA, PETG y TPU (modelo de vitrina impreso en PLA).\nUtilice el generador de pared Arachne con una boquilla de 0,4 mm para evitar espacios en detalles finos (<0,45 mm).\nProbado físicamente con un prototipo de iPhone para un ajuste preciso.\nEl área del botón de la cámara es frágil: instálelo con cuidado.\nLas carcasas de PLA/PETG pueden romperse al retirar el teléfono; ábralas desde el área del botón de la cámara si es necesario.\n\nLa instalación del V3 es diferente a la que se muestra en el vídeo. Consulte las siguientes instrucciones de instalación.\n\nDebido a la contracción del material, los botones pueden quedar demasiado apretados dependiendo del filamento utilizado. Si esto sucede, intente lijar cuidadosamente el borde superior del ojal con una lima pequeña para eliminar cualquier material de soporte sobrante, o escale el eje X del botón a aproximadamente el 98% (como se muestra a continuación) antes de imprimir para un mejor ajuste.\n\nNo quites el faldón exterior del botón; está diseñado para evitar que el botón se caiga.\nActualizaciones:\nV2 (versión optimizada de TPU) Se ensancharon los bordes de la capa superior para una mayor durabilidad. Se agrandaron ligeramente las aberturas de los botones para mejorar la flexibilidad. V3. Mejor ajuste con la cámara. Inserción desde el interior. Botón texturizado. V1. Otros estuches.\nfunda en zigzag\nEstuche con placa posterior personalizable\nExperimental\n16 Pro Max16 Pro MaxEstuche en zigzag\nAirpods2\n16 Pro Dragón Negro\n16 Pro Máximo\nFunda Lite 16 Plus Zigzag\n15 Pro Máximo\nPlaca trasera compatible con 16 legos\n16 Pro Máximo\n15 Pro Max 15 Pro 15 Plus 15 14 Pro Max 14 Pro 14 Plus 14 13 Pro Max 13 Pro 13 Plus 13 12 Pro Max 12 Pro 12 12 Mini",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "16promax",
+  "zigzag",
+  "funda del iphone",
+  "pro max",
+  "principado",
+  "caja del teléfono"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1d139b5d3de3e4/design/2025-02-01_06c6eac03e5ab.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2550426.jpg": [
+   600,
+   283
+  ],
+  "previews/profiles/1049850.jpg": [
+   600,
+   412
+  ],
+  "previews/profiles/1061444.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1061439.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1181884.jpg": [
+   600,
+   412
+  ],
+  "previews/profiles/1181886.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1181909.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

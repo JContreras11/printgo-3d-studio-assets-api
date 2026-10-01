@@ -1,0 +1,555 @@
+{
+ "files": [
+  {
+   "path": "model/funda-modular-2h48.3mf.xz",
+   "instance_id": "1153946",
+   "thumbnail": "previews/profiles/1153946.jpg",
+   "print_time_h": 2.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4499,
+      "weight_g": 32.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#4302EE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2394,
+      "weight_g": 16.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#4302EE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2687,
+      "weight_g": 17.13,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#4302EE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 500,
+      "weight_g": 0.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1482936,
+   "sha256": "82c02c6df756cc2b528893f07db24efb8f26191405d4d82b19df2ed5bec4b390",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-modular-1h.3mf.xz",
+   "instance_id": "1158205",
+   "thumbnail": "previews/profiles/1158205.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm 层高, 3 层墙, 100% 填充",
+    "profile_notes": "iPhone15Pro 手机壳",
+    "creation_date": "2025-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3510,
+      "weight_g": 16.76,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#F0F0F0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 679552,
+   "sha256": "d447ecbc67acc0327073302b7fb3b9e0e41aafc3f03889b1fc75f8ac2a35459b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-modular-42min.3mf.xz",
+   "instance_id": "1153982",
+   "thumbnail": "previews/profiles/1153982.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "注意！是开槽用的负模型",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2428,
+      "weight_g": 17.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#808000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 549300,
+   "sha256": "d0b04ab0a5a428cfcae19f3bf9acf2b729a48795ad376fd9e50e179108386406",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-modular-5h.3mf.xz",
+   "instance_id": "1153948",
+   "thumbnail": "previews/profiles/1153948.jpg",
+   "print_time_h": 5,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.12mm 层高, 2 层墙, 25% 填充",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5894,
+      "weight_g": 26.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFCC00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7844,
+      "weight_g": 29.48,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFCC00"
+       },
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PETG",
+        "color": "#F00000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3095,
+      "weight_g": 11.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFCC00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 769,
+      "weight_g": 0.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#F00000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 457,
+      "weight_g": 0.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PETG",
+   "size": 1976576,
+   "sha256": "6597a60ded1007d76181b510d57ca87fa064018412921389aca0354b928c4859",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-modular-6h48.3mf.xz",
+   "instance_id": "1153950",
+   "thumbnail": "previews/profiles/1153950.jpg",
+   "print_time_h": 6.8,
+   "plates": 6,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5978,
+      "weight_g": 31.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13254,
+      "weight_g": 51.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#F00000"
+       },
+       {
+        "type": "PETG",
+        "color": "#000000"
+       },
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PETG",
+        "color": "#D0D0D0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 738,
+      "weight_g": 0.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#D0D0D0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2118,
+      "weight_g": 10.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1310,
+      "weight_g": 4.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1120,
+      "weight_g": 0.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#F00000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PETG",
+   "size": 2346976,
+   "sha256": "f610fc0464cb37cbf2c9ea2db06965ebed087e8baee021a68e2180eafb2c42e0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1149905",
+ "title": "Funda Modular para Teléfono (Jigsaw Marble Run Fidget Toy) - iPhone 15Pro",
+ "slug": "modular-phone-case-jigsaw-marble-run-fidget-toy-ip",
+ "url": "https://makerworld.com/en/models/1149905-modular-phone-case-jigsaw-marble-run-fidget-toy-ip",
+ "author": "user_2427218209",
+ "category": "phone-cases",
+ "source_category": "Juguetes y juegos > Juegos de construcción",
+ "description": "Transformando fundas de teléfonos mundanos en compañeros divertidos\n\nDescripción del modelo\nSe trata de una funda de teléfono modular que presenta paneles de juguetes intercambiables en la parte posterior.\n\nActualmente, hay tres paneles disponibles:\nPanel de rompecabezas: un rompecabezas numérico de 12 piezas que desafía tus habilidades para resolver problemas\nPanel de mármol: debido a limitaciones de espacio, técnicamente cuenta con un control deslizante accionado por resorte, que ofrece un resultado binario S/N, similar al lanzamiento de una moneda.\nPanel antiestrés: inspirado en un tocadiscos de vinilo, este panel cuenta con un mecanismo de trinquete para eliminar el estrés, imitando la acción de rayar un disco.\n\nLa altura de cada panel coincide exactamente con la del anillo de protección de la cámara, asegurando un ajuste perfecto al ras cuando el teléfono descansa sobre una superficie, evitando cualquier desnivel.\n\nActualmente, tomando como ejemplo el iPhone 15 Pro, este principio se puede adaptar a la mayoría de las carcasas de teléfonos; Normalmente basta con crear una ranura para instalar cualquier panel de juguete.\nEl archivo del modelo de corte de ranuras también se proporciona en la configuración de impresión. Utilice la función de modelo negativo de Bambu Studio para crear su propia funda de teléfono modular personalizada.\nSugerencias de impresión\nSe recomienda el filamento PETG por su durabilidad. Esto es particularmente importante para el resorte en forma de S del panel antiestrés, ya que el PETG ofrece resistencia y elasticidad superiores, lo que resulta en un sonido más nítido.\nTanto la configuración de impresión monocromática como la multicolor AMS se proporcionan en el mismo archivo.dmf, pero en placas diferentes, tenga en cuenta la diferencia.\nCompatible con todas las impresoras de la serie Bambu, no requiere soportes\nImpúlsame Si aprecias esto, considera dar un poco de aliento, ¡gracias!",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone15 pro",
+  "funda",
+  "caja del teléfono",
+  "modular",
+  "funda protectora para teléfono",
+  "rompecabezas",
+  "canicas",
+  "alivio del estrés",
+  "edc",
+  "teléfono apple"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7edbdb0e01a462/design/bf17aee8-0731-418d-b7a5-ce884c57f0fd.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.webp",
+  "previews/05.webp",
+  "previews/06.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   750
+  ],
+  "previews/02.webp": [
+   1000,
+   1333
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/04.webp": [
+   1000,
+   1333
+  ],
+  "previews/05.webp": [
+   1000,
+   750
+  ],
+  "previews/06.webp": [
+   1000,
+   562
+  ],
+  "previews/profiles/1153946.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1158205.jpg": [
+   600,
+   374
+  ],
+  "previews/profiles/1153982.jpg": [
+   600,
+   359
+  ],
+  "previews/profiles/1153948.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1153950.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

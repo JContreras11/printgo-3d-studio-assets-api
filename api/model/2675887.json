@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "2962593",
+   "thumbnail": "previews/profiles/2962593.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "H2D",
+    "A1 mini",
+    "X1 Carbon",
+    "H2S",
+    "X1E",
+    "P1P",
+    "H2C",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.1mm layer, 2 walls, 100% infill",
+    "profile_notes": "0.1 mm Layerheight no supports 100 % infill density",
+    "creation_date": "2026-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.1",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1073144,
+   "sha256": "7faca9854db6a1c170b3252a1915eb15d34b1f45316f9db855edfa0a0b433266",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2675887",
+ "title": "Funda iPhone 12 elegante TPU",
+ "slug": "iphone-12-case-sleek-tpu",
+ "url": "https://makerworld.com/en/models/2675887-iphone-12-case-sleek-tpu",
+ "author": "d.kuhbach",
+ "category": "phone-cases",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Una funda minimalista y delgada para el iPhone 12, diseñada específicamente para la impresión de TPU. Este diseño se centra en un ajuste perfecto sin agregar volumen innecesario a su dispositivo.\n\nRecomendaciones de impresión:\nAltura de capa: No exceda 0,1 mm. Las alturas de las capas inferiores son cruciales para la calidad de los voladizos y el acabado general.\nMaterial: Utilice TPU flexible estándar.\nNota sobre el filamento: No recomiendo usar Bambu TPU para AMS, ya que es demasiado rígido para este diseño delgado específico y puede ser difícil de poner o quitar.\nConsejo de placa de construcción: para una apariencia premium, recomiendo usar una placa de efecto Bambu 3D (Diamante). ¡Agrega una textura agradable a la parte posterior del estuche!",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "iphone",
+  "iphone 12",
+  "iphone12",
+  "funda del iphone 12",
+  "funda iphone 12",
+  "iphone 12 realmente",
+  "cubrir",
+  "funda iphone 12 delgada",
+  "funda protectora para iphone 12"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4f7b445990d06b/design/0dac98968fee8c7d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/2962593.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

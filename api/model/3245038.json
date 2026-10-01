@@ -1,0 +1,146 @@
+{
+ "files": [
+  {
+   "path": "model/funda-iphone.3mf.xz",
+   "instance_id": "3677003",
+   "thumbnail": "previews/profiles/3677003.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Druckeinstellungen Gedruckt wurde das Modell mit: 0,4 mm Düse (0,2 mm auf möglich) 0,12 mm Schichthöhe normalen Standard-Einstellungen Stützstrukturen aktiviert ( geht auch ohne ) Material je nach gewünschter Optik und Flexibilität, z. B. PLA, PETG oder ein geeignetes flexibles Filament WICHTIG für den Druck: bei Stärke Richtung der Brücken auf ,,1,, stellen, damit das linien Muster gleichmäßig aussieht",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1550136,
+   "sha256": "a271c4f7fd5ce36b83a7626fdea969b03658ae92adff766a8950f537de02aa24",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3245038",
+ "title": "funda para iPhone 17",
+ "slug": "iphone-17-case",
+ "url": "https://makerworld.com/en/models/3245038-iphone-17-case",
+ "author": "xh3ndrlk",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Funda para iPhone 17 - Diseño forrado\nEsta funda para iPhone 17 es una remezcla de un modelo existente y la he refinado visualmente.\nLas finas hendiduras lineales en la parte posterior le dan al estuche un aspecto sencillo, moderno y de alta calidad. El patrón de líneas añade estructura adicional y recuerda visualmente a los diseños acanalados conocidos, por ejemplo, de maletas de aluminio de primera calidad y accesorios a juego para teléfonos inteligentes.\nEl logotipo de Apple permanece como elemento de diseño central y se deja intencionalmente libre del patrón de líneas.\nCréditos\nMuchas gracias al diseñador original por el modelo base.\nEnlace al modelo original:\n\nConfiguración de impresión\nEl modelo fue impreso con:\nBoquilla de 0,4 mm (es posible 0,2 mm)\nAltura de capa de 0,12 mm\najustes estándar normales\nestructuras de soporte habilitadas (también funciona sin soporte)\nMaterial según el aspecto y la flexibilidad deseados, p. PLA PETG o un filamento flexible adecuado\nIMPORTANTE para la impresión: establezca la fuerza de la dirección del puente en,,1,, para que el patrón de líneas se vea uniforme\nDependiendo de la impresora y el material utilizado, pueden ser recomendables ajustes menores para soportar la velocidad y la temperatura.\nNota: El iPhone que se muestra en las imágenes, así como otros elementos mostrados, tienen fines ilustrativos únicamente y, por supuesto, no forman parte del modelo.\n\nNota: Este es un diseño creado de forma independiente y no está afiliado a Apple Inc. ni a otros productos oficiales de Apple.\n\nSi te gusta el diseño, me encantaría aumentar la descarga o enviar una foto de tu impresión.",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "apple",
+  "iphone 17",
+  "apple iphone 17",
+  "funda",
+  "cubrir",
+  "práctico",
+  "caja del teléfono",
+  "teléfono",
+  "teléfono apple",
+  "accesorios apple"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USef2ea52cb1f2af/design/6819f9b76f6c743a.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/05.jpg": [
+   1000,
+   1777
+  ],
+  "previews/06.jpg": [
+   1000,
+   1777
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   538,
+   980
+  ],
+  "previews/10.jpg": [
+   566,
+   982
+  ],
+  "previews/11.jpg": [
+   586,
+   994
+  ],
+  "previews/12.jpg": [
+   612,
+   992
+  ],
+  "previews/profiles/3677003.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

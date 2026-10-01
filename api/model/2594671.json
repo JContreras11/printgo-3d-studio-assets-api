@@ -1,0 +1,308 @@
+{
+ "files": [
+  {
+   "path": "model/fundas-telefono-3h24.3mf.xz",
+   "instance_id": "2882226",
+   "thumbnail": "previews/profiles/2882226.jpg",
+   "print_time_h": 3.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "iPhone 15 (Textured Blocks)",
+    "creation_date": "2026-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2222060,
+   "sha256": "a66a67b00d1c643c740ba4547b8a19cdb1c220aff9e800af6d947af45e863a4d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fundas-telefono-3h30.3mf.xz",
+   "instance_id": "3647667",
+   "thumbnail": "previews/profiles/3647667.jpg",
+   "print_time_h": 3.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "P1S",
+    "A1",
+    "X1E",
+    "H2D",
+    "P2S",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "H2C",
+    "H2S",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Model with Magsafe and Marlin design on the back",
+    "profile_notes": "This model uses MagSafe magnets. You can find the ones I used on Amazon: MagSafe magnets on Amazon.fr You don't even need to peel off the sticker. A pause is set in the print, so at that point, simply drop the magnet in with the painted side facing up, resume the print, and the printer will take care of the rest. For the TPU part, I think TPU for AMS would be perfect. It is more rigid and should provide a better, tighter fit around your phone. The Marlin design is based on the work of @Fletch_Prints: Marlin Design by Fletch_Prints . It can be easilyremoved if you don't want it. I used ironing parameters for the top surface of the PLA insert. If you want the best possible finish, I recommend adjusting the ironing settings for your printer using an ironing test: Ultimate Ironing Test – DAS Original",
+    "creation_date": "2026-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3402504,
+   "sha256": "0efa99841acd96449fbcda3818feb04f066a601865d3c036fbfb6a40ddff04fe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fundas-telefono-3h48.3mf.xz",
+   "instance_id": "2879633",
+   "thumbnail": "previews/profiles/2879633.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "iPhone 15 Pro Max (Honeycomb)",
+    "creation_date": "2026-04-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2295184,
+   "sha256": "e6f7c5390c026629846a0cf794157d991a93548c72cc6693b702ae62e7638279",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fundas-telefono-3h54.3mf.xz",
+   "instance_id": "2879533",
+   "thumbnail": "previews/profiles/2879533.jpg",
+   "print_time_h": 3.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "iPhone 15 Pro Max (Blocks)",
+    "creation_date": "2026-04-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2426892,
+   "sha256": "ed3646ea5e6dd7ab3ede849140dff37d37cce65528b9530530f035c852af8cc7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2594671",
+ "title": "Fundas para teléfono iPhone 15 /Pro/Max TPU",
+ "slug": "iphone-15-pro-max-tpu-phone-cases",
+ "url": "https://makerworld.com/en/models/2594671-iphone-15-pro-max-tpu-phone-cases",
+ "author": "moss3d",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "¡Hola a todos!\n\n¡Por demanda popular! Después de lanzar los estuches híbridos para la serie 17, recibí muchas solicitudes de personas que pedían una versión compatible con sus dispositivos actuales. Lo preguntaste y aquí está.\nPresentamos la funda híbrida para teléfono serie iPhone 15.\n\nNota importante sobre el material: tenga en cuenta que el parachoques principal de estos estuches ha sido diseñado específicamente para imprimirse con TPU 95A.\n\nEl híbrido perfecto: TPU y PLA\nEstos estuches están diseñados para adaptarse a la línea iPhone 15. El diseño utiliza un sistema híbrido de dos partes para brindarle a su teléfono la mejor protección posible:\nEl parachoques (TPU 95A): el cuerpo principal está impreso en TPU flexible para absorber los golpes y distribuir la fuerza de cualquier impacto.\nEl panel posterior (PLA): un panel posterior independiente impreso en PLA proporciona una resistencia rígida al impacto para proteger la parte posterior de vidrio del teléfono.\nJuntos, crean una combinación realmente agradable de textura, apariencia y sensación en la mano.\n\nInstrucciones de montaje\nEl montaje es sencillo, aunque necesitarás un poco de esfuerzo para colocar el panel trasero rígido en el marco de TPU flexible. ¡Es como volver a colocar una llanta de bicicleta en la llanta!\nFlexione el marco de TPU alrededor del panel posterior de PLA.\nUna vez que esté flojo en su lugar, presione firmemente hacia abajo alrededor de la parte posterior de la carcasa para incrustar y bloquear correctamente el TPU en las ranuras del panel PLA.\n\nPerfil de impresión y consejos\nImprimir TPU requiere un poco de delicadeza, por eso he ajustado el perfil para ayudarte a obtener los mejores resultados:\nVelocidad de la primera capa: He configurado la primera capa para que se imprima a una velocidad lenta de 20 mm/s.\nAjuste de temperatura: Consejo profesional: si aumenta manualmente la temperatura de impresión de TPU en 10 grados solo para la primera capa, obtendrá un acabado maravillosamente suave.\nVoladizos: los puentes y los voladizos se ralentizan intencionalmente en el perfil para garantizar una alta calidad alrededor de la parte superior de la cámara y los puertos de carga.\nPlaca de construcción: Todos estos han sido probados y perfeccionados en la placa Smooth PEI.\nEl panel PLA: puede restablecer de forma segura sus velocidades a su configuración PLA predeterminada para la parte rígida del panel posterior; de lo contrario, tardará unos minutos más de lo necesario.\n\nPróximamente más patrones, descargue casos en blanco mediante descarga STL\n\nGracias a todos los que solicitaron esta versión. ¡Cuéntame qué combinaciones de colores terminas imprimiendo!\n\nTambién te puede gustar",
+ "use_cases": [],
+ "tags": [
+  "iphone",
+  "iphone pro max",
+  "iphone 15 pro max",
+  "iphone 15 pro",
+  "funda de tpu",
+  "funda del iphone",
+  "tpu",
+  "caja del teléfono",
+  "funda",
+  "apple",
+  "accesorio del teléfono",
+  "musgo3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US90cf457872c6a/design/486ebd35e5313c4e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/07.jpg": [
+   1000,
+   752
+  ],
+  "previews/08.jpg": [
+   1000,
+   752
+  ],
+  "previews/09.jpg": [
+   1000,
+   752
+  ],
+  "previews/10.jpg": [
+   1000,
+   752
+  ],
+  "previews/11.jpg": [
+   1000,
+   752
+  ],
+  "previews/12.jpg": [
+   1000,
+   752
+  ],
+  "previews/13.jpg": [
+   1000,
+   752
+  ],
+  "previews/14.jpg": [
+   1000,
+   752
+  ],
+  "previews/15.jpg": [
+   1000,
+   753
+  ],
+  "previews/16.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/2882226.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3647667.jpg": [
+   596,
+   1050
+  ],
+  "previews/profiles/2879633.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/2879533.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

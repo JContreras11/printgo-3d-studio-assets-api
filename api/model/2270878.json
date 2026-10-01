@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/funda-panal.3mf.xz",
+   "instance_id": "2475365",
+   "thumbnail": "previews/profiles/2475365.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.12mm layer, 2 walls, 18% infill",
+    "profile_notes": "0.12mm layer height for sleek May use support, not necessary for TPU with the print I did, may need to trim a stray or 2. Only tested this w/TPU. If you use another filament, please share :)",
+    "creation_date": "2026-01-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "18%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1781092,
+   "sha256": "8d953a20a57d9897fe29dcdb4d0cdca1f1dc352c6e70196c61e8b4da442ec151",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2270878",
+ "title": "Funda tipo panal S22",
+ "slug": "s22-honeycomb-case",
+ "url": "https://makerworld.com/en/models/2270878-s22-honeycomb-case",
+ "author": "cambo",
+ "category": "phone-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Remezcla de una funda para teléfono S22.\nTiene un pequeño respaldo en forma de panal para darle estilo.\nRecomendar TPU, PLA o PETG pueden romperse al intentar colocar el teléfono en él.\nHice esto a petición de un comentarista en otro recurso compartido:)\n\nPor favor, dale me gusta y apoya si te gusta, ¡esa es la motivación para hacer esto para la gente!",
+ "use_cases": [],
+ "tags": [
+  "s22 caja del teléfono",
+  "s22",
+  "panal s22",
+  "funda de panal"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-01-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4381ccc6b429e/design/2026-01-19_c1a07e557e1958.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   677
+  ],
+  "previews/02.jpg": [
+   1000,
+   1142
+  ],
+  "previews/03.jpg": [
+   1000,
+   1077
+  ],
+  "previews/profiles/2475365.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

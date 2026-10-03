@@ -1,0 +1,93 @@
+{
+ "files": [
+  {
+   "path": "model/caja-mini.3mf.xz",
+   "instance_id": "3829697",
+   "thumbnail": "previews/profiles/3829697.jpg",
+   "print_time_h": 1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1639912,
+   "sha256": "bda0aaaca4388a83351aad2b505c07faf9be3beae87c8be0c709daea26b1d5da",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3367534",
+ "title": "Caja de mini consola de juegos portátil CH32V203-NES",
+ "slug": "ch32v203-nes-handheld-mini-game-console-case",
+ "url": "https://makerworld.com/en/models/3367534-ch32v203-nes-handheld-mini-game-console-case",
+ "author": "ohdarling",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Consola de juegos portátil emuladora de NES basada en CH32V203～\nProyecto de PCB:",
+ "use_cases": [],
+ "tags": [
+  "ch32v203",
+  "nintendo",
+  "nep",
+  "consola de juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000003367534/design/f60f33d6679dad5d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/profiles/3829697.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

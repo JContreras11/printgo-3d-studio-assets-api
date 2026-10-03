@@ -1,0 +1,122 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-almacenamiento.3mf.xz",
+   "instance_id": "3845901",
+   "thumbnail": "previews/profiles/3845901.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1E",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.28mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 970532,
+   "sha256": "649d6e815cd50999fed3a183928a18adebf5fc389c29d3bd9050cc13517e7d80",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3380350",
+ "title": "Estuche de almacenamiento para consola PSP",
+ "slug": "psp-console-storage-case",
+ "url": "https://makerworld.com/en/models/3380350-psp-console-storage-case",
+ "author": "user_1130776446",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Estuche de almacenamiento para consola PSP, con capacidad para una consola PSP, probado con buenos resultados\nUtiliza un diseño de bisagra de tornillo de plástico para una rotación suave",
+ "use_cases": [],
+ "tags": [
+  "consola psp",
+  "psp",
+  "caja de almacenamiento de psp",
+  "caja de almacenamiento"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-10-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000003380350/design/dfb8572b387fd9dd.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.png": [
+   1000,
+   444
+  ],
+  "previews/profiles/3845901.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

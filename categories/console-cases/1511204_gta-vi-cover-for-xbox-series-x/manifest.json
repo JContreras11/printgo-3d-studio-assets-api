@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/funda-gta.3mf.xz",
+   "instance_id": "1582305",
+   "thumbnail": "previews/profiles/1582305.jpg",
+   "print_time_h": 11.3,
+   "plates": 6,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-06-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 1636692,
+   "sha256": "0372d032fceab8ac0f7c89aaefcad421e3a6e6d52093531e002a27df090e1bc0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1511204",
+ "title": "Funda GTA VI para Xbox Series X",
+ "slug": "gta-vi-cover-for-xbox-series-x",
+ "url": "https://makerworld.com/en/models/1511204-gta-vi-cover-for-xbox-series-x",
+ "author": "luckyfer",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Dale a tu Xbox Series X un aire de Vice City con esta portada inspirada en GTA VI!\n\n¿Estás cansado de que tu Xbox Series X parezca un minirrefrigerador más? ¡Prepárate para un cambio de imagen radical con esta portada impresa en 3D que diseñé, inspirada en el muy esperado Grand Theft Auto VI!\nHe estado poniendo a prueba mi impresora 3D para crear esta maravilla que veis en la foto. No es una pegatina barata; es una funda que encaja perfectamente en tu consola, dándole esa sensación épica que grita \"¡Soy un fanático acérrimo de GTA!\"\nImagine su sala de estar adornada con esta obra maestra del arte de los videojuegos. Tus amigos quedarán atónitos al ver tu Xbox tuneada al más puro estilo GTA VI. ¡Es el toque perfecto para hacer de tu setup la envidia de todos!\nEntonces, si quieres que tu Xbox Series X se destaque entre la multitud y brille como se merece, ¡esta funda es para ti! Anímate e imprímelo para darle ese toque único a tu consola.\n¿Qué necesitas para imprimirlo?\nUna impresora 3D (obviamente, ¿no?)\nFilamento… ¡tú eliges los colores a tu gusto! El dorado y el blanco de la foto le dan ese toque clásico de Vice City, pero la creatividad no conoce límites.\n¡Un deseo de ser increíble!\n¡No lo dudes! Descarga, imprime y prepárate para tener la Xbox Series X más genial del mercado. Si lo imprimes, ¡no dudes en compartir tu creación!\n\n¡Nos vemos en las calles de Vice City (o en tu sala de estar con tu Xbox sintonizada)!\n\nRecomendaciones:El diseño está pensado para la colocación vertical de la consola.\nSe deben quitar los cuatro pies de goma redondos que sostienen la consola en modo horizontal.\nLos paneles laterales se sujetan de forma segura mediante las piezas superior e inferior. Sin embargo, puedes utilizar una cinta adhesiva de doble cara muy fina.",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "xbox series x",
+  "xboxx",
+  "serie xbox",
+  "gta",
+  "gta vi",
+  "grand theft auto",
+  "grand theft auto 6",
+  "cubrir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1cfd27a7be9e6f/design/2025-06-12_101700d21ef2.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   803,
+   776
+  ],
+  "previews/02.jpg": [
+   665,
+   794
+  ],
+  "previews/03.jpg": [
+   1000,
+   839
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1582305.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

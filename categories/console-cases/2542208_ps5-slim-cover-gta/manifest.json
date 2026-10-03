@@ -1,0 +1,126 @@
+{
+ "files": [
+  {
+   "path": "model/funda-delgada.3mf.xz",
+   "instance_id": "2798992",
+   "thumbnail": "previews/profiles/2798992.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "X1",
+    "H2S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2 mm layer height 2 walls 15% infill Printed in black and white To further enhance the surface quality of your 3D print, you can also choose to enable the ironing option, which helps achieve a smoother and more refined top finish",
+    "creation_date": "2026-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1245244,
+   "sha256": "145daa1fbaeb376d81347c87c0b68c0e154adee010b92a398b2fee1246d73ad4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2542208",
+ "title": "Funda delgada PS5 GTA",
+ "slug": "ps5-slim-cover-gta",
+ "url": "https://makerworld.com/en/models/2542208-ps5-slim-cover-gta",
+ "author": "user_3062202469",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Transforma tu PlayStation 5 Slim en un audaz tributo al universo Grand Theft Auto con esta placa frontal de diseño personalizado. Con un diseño icónico inspirado en GTA, esta placa frontal es perfecta para los fanáticos que desean mostrar su amor por la serie y al mismo tiempo darle a su consola una apariencia llamativa de estilo urbano.\nDiseñada para un ajuste perfecto, esta placa frontal es fácil de instalar y no requiere herramientas ni modificaciones. Se ajusta de forma segura a tu PS5 Slim, ofreciendo una manera perfecta de personalizar tu configuración. El diseño mantiene acceso total a todos los puertos y ventilación, garantizando estilo y rendimiento. Para mejorar aún más la calidad de la superficie de su impresión 3D, también puede optar por habilitar la opción de planchado, que ayuda a lograr un acabado superior más suave y refinado.",
+ "use_cases": [],
+ "tags": [
+  "funda delgada ps5",
+  "cubierta delgada",
+  "gta",
+  "grand theft auto",
+  "logotipo de gta",
+  "cubierta delgada gta",
+  "cubierta grand theft auto",
+  "playstation 5 gta delgada",
+  "playstation gta",
+  "playstation grand theft auto",
+  "ps5 gta",
+  "ps5 delgada"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US92bfd911d4a1a0/design/ee63a5d4e54fce47.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   364,
+   648
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   666
+  ],
+  "previews/07.jpg": [
+   1000,
+   666
+  ],
+  "previews/08.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/2798992.jpg": [
+   364,
+   648
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

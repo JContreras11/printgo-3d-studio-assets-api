@@ -1,0 +1,270 @@
+{
+ "files": [
+  {
+   "path": "model/placa-frontal-1h36.3mf.xz",
+   "instance_id": "3832370",
+   "thumbnail": "previews/profiles/3832370.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2S",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "A2L",
+    "X2D",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Sunset Drive design 4",
+    "creation_date": "2026-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3899216,
+   "sha256": "5a2514fc0f583c4d3a748f256031a6a67fbacf0ac751118b60597bd59d72f02e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/placa-frontal-1h42.3mf.xz",
+   "instance_id": "3832290",
+   "thumbnail": "previews/profiles/3832290.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X2D",
+    "A1 mini",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Neon Croc design 2",
+    "creation_date": "2026-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3896812,
+   "sha256": "27f76883131897df1996abb16a8472236d1f5d0af0c591b7831f42ff456fd6f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/placa-frontal-1h54.3mf.xz",
+   "instance_id": "3832403",
+   "thumbnail": "previews/profiles/3832403.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Vice-Boulevard design 5",
+    "creation_date": "2026-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4919372,
+   "sha256": "a2165833786ba0ff185875bae24f4fa0eef20584d0297cbd5d4682ee7c62ebdd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/placa-frontal-8h42.3mf.xz",
+   "instance_id": "3832437",
+   "thumbnail": "previews/profiles/3832437.jpg",
+   "print_time_h": 8.7,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "All 5 designs = 5 plates",
+    "creation_date": "2026-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 15865180,
+   "sha256": "445e280b4253f1ca61f354bcf2908e63f7ab31559bdb92982f9948df8d367f0a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3302588",
+ "title": "Placa frontal Vice City VI PS5 – AMS de 4 colores",
+ "slug": "vice-city-vi-ps5-front-plate-4-colour-ams",
+ "url": "https://makerworld.com/en/models/3302588-vice-city-vi-ps5-front-plate-4-colour-ams",
+ "author": "BILLYTHREEDEE",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Colección de placas centrales de PS5 inspiradas en GTA VI: 5 diseños\nDale a tu PS5 Disc Edition original un aspecto completamente diferente con este juego de 5 placas centrales inspiradas en GTA VI/Vice City.\nCada modelo es un diseño independiente y ha sido creado para deslizarse perfectamente en el centro frontal de la PS5 original de tamaño completo, encajando entre los dos paneles exteriores blancos como se muestra en las fotos.\n5 diseños incluidos\nCity Drive: diseño de horizonte, helicóptero, automóvil deportivo y VI de gran tamaño\nVice Gator: caimán con gafas de sol y palmeras, escena de ciudad y carretera\nVice Waterfront: gran logotipo de VI con un paseo marítimo de lujo/escenario estilo Miami\nSunset Skyline: enorme puesta de sol, logotipo VI, horizonte de la ciudad y superdeportivo retrovisor\nVice Nights: palmeras, edificios frente al mar, reflejos y autos deportivos\nCada diseño utiliza las mismas dimensiones de placa y sistema de ajuste, por lo que puedes imprimir varios e intercambiarlos cuando quieras un aspecto diferente.\nDiseñado para\nEdición de disco original de PlayStation 5 de tamaño completo\nEsto NO está diseñado para PS5 Slim.\n\nSi imprime uno, publique un Make! Me encantaría ver las diferentes combinaciones de colores que se le ocurren a la gente.\n¡Feliz impresión!\nBoost MeSi te gusta el modelo Los boosts siempre se agradecen",
+ "use_cases": [],
+ "tags": [
+  "ps5",
+  "placa frontal ps5",
+  "cubierta ps5",
+  "funda ps5",
+  "carcasa ps5",
+  "gta vi",
+  "gta 6",
+  "vice city",
+  "juego de azar",
+  "playstation 5",
+  "mod de consola"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US48d0b100553be9/design/65e32e73d6ee3985.jpg",
+ "preview": "previews/01.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.gif"
+ ],
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.gif": [
+   300,
+   300
+  ],
+  "previews/profiles/3832370.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3832290.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3832403.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3832437.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

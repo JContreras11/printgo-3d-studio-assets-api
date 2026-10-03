@@ -1,0 +1,937 @@
+{
+ "files": [
+  {
+   "path": "model/cofre-almacenamiento-33h54.3mf.xz",
+   "instance_id": "650825",
+   "thumbnail": "previews/profiles/650825.jpg",
+   "print_time_h": 33.9,
+   "plates": 10,
+   "rating": 4.9,
+   "rating_count": 25,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6347,
+      "weight_g": 52.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6242,
+      "weight_g": 99.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25390,
+      "weight_g": 240.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11618,
+      "weight_g": 137.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11426,
+      "weight_g": 135.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6081,
+      "weight_g": 71.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6957,
+      "weight_g": 74.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13392,
+      "weight_g": 143.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9380,
+      "weight_g": 115.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25325,
+      "weight_g": 240.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 10
+   },
+   "name": "Impresión en PLA",
+   "size": 3755828,
+   "sha256": "51b34cae902f36f4734142c150644f5ea485e22401dff3784b56cdaaeffc87ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-1h30.3mf.xz",
+   "instance_id": "652054",
+   "thumbnail": "previews/profiles/652054.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "DMG, GBC CARTRIDGE TRAY",
+    "profile_notes": "The exact settings I used to print the cartridge trays as shown. 0.24 LH 20%Infill, Honeycomb 73g each, 130 minutes print time.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5451,
+      "weight_g": 73.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3113380,
+   "sha256": "5566c37f510777ba111886919966aa1d3c8de58f78523c65106b91b7af1a0bf4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-1h36.3mf.xz",
+   "instance_id": "652644",
+   "thumbnail": "previews/profiles/652644.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "DS/3DS CARTRIDGE TRAY",
+    "profile_notes": "0.24 LH 20% Infill Two top and bottom shell layers. Exact settings I used for the reference print. Holds 30 cartridges.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5781,
+      "weight_g": 53.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3129004,
+   "sha256": "4ddf4253814502bf6acb443ab83c6c70891433beab2e8a7493908357d6887e78",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-1h42.3mf.xz",
+   "instance_id": "652632",
+   "thumbnail": "previews/profiles/652632.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "GBA CARTRIDGE TRAY",
+    "profile_notes": "0.24 LH 20% Honeycomb Infill 2 top and bottom shell layers. These are the exact settings I used for the reference tray print. Holds 18 Cartridges.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6242,
+      "weight_g": 77.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3124620,
+   "sha256": "ef05c40b829387559b94ed863700dd066511d616e70d9d57b5f1d477600469fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-24h48.3mf.xz",
+   "instance_id": "652020",
+   "thumbnail": "previews/profiles/652020.jpg",
+   "print_time_h": 24.8,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 95,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Example storage chest, Recommended Settings Profile.",
+    "profile_notes": "0.24 LH 20% infill on main box body. 40% infill on the door latches and handles. 2 top and bottom shell layers. These are the exact settings I used to achieve the Storage chest in the reference pictures. The Gameboy logo is selectable with the paint tool, simply sync your AMS and select which colour you would like to print it in using the fill tool. Remember to remove the Prime tower in your slicer settings otherwise the top plate will print over it.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "40%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10900,
+      "weight_g": 144.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10651,
+      "weight_g": 142.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22600,
+      "weight_g": 248.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22595,
+      "weight_g": 249.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11004,
+      "weight_g": 140.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8856,
+      "weight_g": 121.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1174,
+      "weight_g": 6.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1356,
+      "weight_g": 8.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 8
+   },
+   "name": "Impresión en PLA",
+   "size": 3770600,
+   "sha256": "f6a5b0d28e030eb838093ec0aa663082207dabc1b23deed32d19b9c98e064891",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-2h.3mf.xz",
+   "instance_id": "655161",
+   "thumbnail": "previews/profiles/655161.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Switch cartridge tray",
+    "profile_notes": "0.24 LH 20% Honeycomb infill 2 Top and bottom shell layers. Fits 60 cartridges per tray. This is the profile I used for the tray in the reference image.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7121,
+      "weight_g": 61.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3476348,
+   "sha256": "2eb42e7fef288f52cc12af78ddb02e75bc924dcfcbd26e28f8d25f516263c17f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-2h12.3mf.xz",
+   "instance_id": "804658",
+   "thumbnail": "previews/profiles/804658.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill with DMG - GBC text",
+    "profile_notes": "I added a 1mm thick text (DMG - GBC) to the front tab to easily differentiate trays. I also added paint-on brims for better adhesion and to prevent any warping.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7788,
+      "weight_g": 75.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#19C344"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3495628,
+   "sha256": "0cfe221f324aa2799fee1b24dceed9ae5f42d90ad3375d91ffd837a5052362b9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-2h18.3mf.xz",
+   "instance_id": "741514",
+   "thumbnail": "previews/profiles/741514.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "GBA HORIZONTAL CARTRIDGE TRAY",
+    "profile_notes": "Creator made stl; uploading as print profile & .3mf so people can print through Bambu Handy mobile app. I used default settings with generic PLA",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8137,
+      "weight_g": 72.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3542248,
+   "sha256": "1d485044f2c205c42531d77119d8789a915687e8dd895707aea678fabbbda2f0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-2h36.3mf.xz",
+   "instance_id": "804644",
+   "thumbnail": "previews/profiles/804644.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill with Pokémon Text",
+    "profile_notes": "I added a 1mm thick text to the front tab to easily differentiate trays. Additionally I also added paint-on brims for better adhesion and to prevent any warping,",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9231,
+      "weight_g": 77.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#19C344"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3487552,
+   "sha256": "71f3402ac018cd6cb8253b6e0ea3af96f668fd3cd4e6395aabcab9a587885b48",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-2h48.3mf.xz",
+   "instance_id": "804656",
+   "thumbnail": "previews/profiles/804656.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill with Switch Text and Icon",
+    "profile_notes": "I added a 1mm thick text (Switch) and Icon to the front tab to easily differentiate trays. I also added paint-on brims for better adhesion and to prevent any warping.",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9941,
+      "weight_g": 64.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#19C344"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3558456,
+   "sha256": "378145d2703e0ca0afd23e6c8f7472da73fc31078516b555a9c9b08999d904db",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cofre-almacenamiento-3h.3mf.xz",
+   "instance_id": "1830481",
+   "thumbnail": "previews/profiles/1830481.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Tray for Rumble Carts and Wireless Adapters (AMS for text)",
+    "profile_notes": "Fits 6 Game Boy Color rumble cartridges and 3 Game Boy Advance Wireless Adapters. Only works in the bottom slot (which is taller) in place of the tray NoycePrints included in the original design. The rumble carts have a small protrusion on the bottom, the tray is designed so this bump sits 2mm lower than the bottom of the tray. This is on purpose, so that the battery compartment on top of the cartridge sits low enough to not interfere with the tray above. The cartridges that I know of released in this form factor are 10 Pin Bowling Disney’s The Little Mermaid II: Pinball Frenzy Hole in One Golf Kawa no Nushi Tsuri 4 (Legend of the River King 2 - only Japanese version has rumble) Missile Command NASCAR Challenge Perfect Dark Pokemon Pinball Polaris SnoCross Ready 2 Rumble Boxing Star Wars Episode I: Racer Super Black Bass Real Fight Test Drive Off-Road 3 Top Gear Pocket Tonka Raceway Vigilante 8 Zebco Fishing An AMS is needed for the text label. Or you can remove the text object. Thank you NoycePrints for such an awesome design!",
+    "creation_date": "2025-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3811980,
+   "sha256": "45f1ac47bf4b3ed2c624f7e48ffd90b13e7327692e7f0d8b5e0124b774e42ce7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "718289",
+ "title": "Cofre de almacenamiento de cartuchos de juego definitivo.",
+ "slug": "ultimate-game-cartridge-storage-chest",
+ "url": "https://makerworld.com/en/models/718289-ultimate-game-cartridge-storage-chest",
+ "author": "NoycePrints",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Necesitaba una solución todo en uno para mi creciente colección de cartuchos de Gameboy, así que se me ocurrió este práctico cofre. Actualmente es compatible con cartuchos GB, GBC, GBA, DS y 3DS. La compatibilidad con Switch y GB Rumble Cart llegará en breve. Podría hacerlo compatible con los naipes si hay suficiente demanda. Si tiene alguna sugerencia para consolas que me haya perdido o modificaciones al diseño existente, hágamelo saber en los comentarios. Este será un diseño fluido y que evolucionará con el tiempo, con críticas y recomendaciones tomadas en cuenta para futuras iteraciones/actualizaciones. Planeo agregar diferentes diseños de logotipos principales, como el tipo de consola y posiblemente el logotipo del juego (Pokémon, Zelda), etc. Esté preparado para una impresión larga, calculo que me tomó entre 25 y 30 horas producir un cofre completo + bandejas. Siga la información a continuación, ya que le ayudará a ensamblar e imprimir este diseño como estaba previsto. Para terminar, espero que encuentres este cofre de almacenamiento tan útil como yo (ya estoy imprimiendo un segundo). Feliz impresión y no dudes en ponerte en contacto si tienes alguna pregunta:)\n\n*No imprimible en un A1 mini*\nSe requiere y recomienda una placa de construcción de 25 x 25 cm o más.\n\nPara resaltar el logotipo de Gameboy y los logotipos futuros, use la herramienta de pintura en Bambu Studio para colorearlo con un AMS.\n\nBoost MeCualquier mejora es realmente apreciada. Gracias por todo vuestro apoyo:)\nActualización 1.1\nBandeja de cartuchos Switch ya disponible. 60 carros por bandeja, capacidad máxima 600.\n\nSe agregó una versión horizontal a la bandeja GBA. Sacrifica 3 carros por bandeja (15 en total) para mostrar los carros mirando hacia adelante.\n\nActualización 1.2\nBandeja PSP: 9 PSP UMD por bandeja, capacidad máxima 90 UMD.\nDoor ahora tiene una variante opcional del logotipo de Gameboy, para aquellos que quieren el logotipo en la parte delantera en lugar de en la parte superior.\n\nCaracterísticas\n10 bandejas de cartuchos.\n1 bandeja de accesorios más grande en la parte inferior para manuales/cables, etc.\nMezcle y combine bandejas de cartuchos. ¿Tienes varias colecciones de juegos portátiles? ¡Ningún problema! Las bandejas de cartuchos son intercambiables para que puedas guardar juegos para diferentes sistemas en un solo cofre.\nPuerta frontal con pestillo (sin bloqueo).\nDiseño apilable que ahorra espacio. Guarde más de un cofre de almacenamiento uno encima del otro. En las placas laterales hay huecos para evitar que los cofres se resbalen al apilarlos.\nLaterales enrasados ​​y sin salientes (a excepción de las asas frontales). Útil para guardar varios cofres uno al lado del otro.\nCompatibilidad\nCONSOLA\nCARTUCHOS POR BANDEJA\nCAPACIDAD MÁXIMA\ngameboy\n12\n120\ngameboycolor\n12\n120\nGameboy avance\n18\n180\nGameboy Advance (bandeja vertical)\n15\n150\nDS\n30\n300\n3DS\n30\n300\nSwitch\n60\n600\nCarros Gameboy Rumble\npróximamente\nPSP\n9\n90\nPSVITA\nPróximamente.\nAsamblea\n\nSe necesitan 12 piezas impresas en total para imprimir el cofre vacío, que se enumeran a continuación. Los rellenos recomendados son los que utilicé para imprimir mi cofre de ejemplo y han funcionado muy bien hasta ahora. Si desea acelerar un poco los tiempos de impresión, intente reducir las capas superior e inferior a 2. Esto me redujo hasta 30 minutos en algunas de las partes más grandes, manteniendo la calidad y resistencia de la impresión. Para ensamblar cada cofre necesitará 38 tornillos de máquina avellanados. Estos están disponibles en la tienda MakerWorld que he vinculado. Utilice los tornillos recomendados como se indica. El uso de tornillos más largos o más cortos puede provocar que el tórax no funcione correctamente en términos de resistencia e inserción/extracción de la bandeja.\nSe requieren 36 tornillos avellanados M3x8 mm para ensamblar el cofre\nSe requieren 2 tornillos avellanados M3x25 mm para fijar la puerta principal.\nLISTA DE PIEZAS\nINFIL RECOMENDADO\nTIPO DE INFIL RECOMENDADO\nPestillo parte A\n40%\ngiroide\n2\nParte del pestillo B\n40%\ngiroide\n2\nTapa de caja\n20%\nPanal\n1\nFondo de caja\n20%\nPanal\n1\nLado de la caja izquierda\n20%\nPanal\n1\nLado derecho de la caja\n20%\nPanal\n1\nCaja trasera\n20%\nPanal\n1\nPuerta de caja\n20%\nPanal\n1\nManija de la puerta\n40%\ngiroide\n2\nBandeja de accesorios\n20%\ngiroide\n1\nVarios. Bandejas de cartuchos\n20%\ngiroide\n10\nConsejos/información útil\nAl transportar/transportar el cofre, asegúrese de que la puerta esté nivelada y no inclinada hacia el suelo. El peso de los cartuchos presionando contra la puerta podría forzar su apertura ya que los pestillos no están diseñados para ser un mecanismo de bloqueo.\nNo apriete demasiado los tornillos al realizar el montaje. El cofre está diseñado de tal manera que los tornillos se “roscan por sí solos” en las distintas partes. Apretar demasiado podría provocar que los orificios de ensamblaje pierdan material y, como resultado, no formen una unión segura. Tan pronto como sienta resistencia al apretar y los tornillos estén al ras de las piezas, no apriete más.\nSi imprime una parte superior con una incrustación usando un AMS, no podrá usar una torre principal ya que no hay suficiente espacio en una placa de construcción X1C/P1S. Si no se desactiva la torre principal en la cortadora, se imprimirá directamente en la placa superior (consulte mi cofre de almacenamiento de ejemplo en las imágenes).\nLas incrustaciones se pueden seleccionar en Bambu Studio, si corresponde.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "juegos",
+  "almacenamiento",
+  "ordenado",
+  "limpio",
+  "compacto",
+  "juego de azar",
+  "consola",
+  "chico de juego",
+  "nintendo",
+  "accesorio switch",
+  "funda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf19d11eddbbe12/design/2024-10-20_33ef3b4dd552e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   999
+  ],
+  "previews/04.jpg": [
+   1000,
+   999
+  ],
+  "previews/05.jpg": [
+   1000,
+   875
+  ],
+  "previews/06.jpg": [
+   1000,
+   978
+  ],
+  "previews/profiles/650825.jpg": [
+   600,
+   344
+  ],
+  "previews/profiles/652054.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/652644.jpg": [
+   600,
+   599
+  ],
+  "previews/profiles/652632.jpg": [
+   600,
+   599
+  ],
+  "previews/profiles/652020.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/655161.jpg": [
+   600,
+   506
+  ],
+  "previews/profiles/804658.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/741514.jpg": [
+   600,
+   384
+  ],
+  "previews/profiles/804644.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/804656.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1830481.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

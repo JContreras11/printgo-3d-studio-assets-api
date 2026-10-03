@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/nintendo-switch.3mf.xz",
+   "instance_id": "2856880",
+   "thumbnail": "previews/profiles/2856880.jpg",
+   "print_time_h": 4.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "P2S",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill - Single Color",
+    "profile_notes": "This printing profile includes all the necessary 3d printed parts",
+    "creation_date": "2026-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Monocromo",
+   "size": 23819948,
+   "sha256": "bef2f1b73668fe4b26fee31b5532c26f14714b32694d5084d3ce3dbc536e2072",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2589314",
+ "title": "Nintendo Switch - Carcasa (Kit ReShell)",
+ "slug": "nintendo-switch-shell-reshell-kit",
+ "url": "https://makerworld.com/en/models/2589314-nintendo-switch-shell-reshell-kit",
+ "author": "HESH3D",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "¡Dale una segunda oportunidad a tu querida consola con nuestra exclusiva carcasa para Nintendo Switch! Fabricada con PLA de alta calidad con un acabado mate, esta carcasa es exactamente lo que tu Nintendo Switch defectuosa necesita para volver a la vida y lucir como nueva.\n¿Qué hace que nuestra vivienda sea especial?\nAjuste perfecto: gracias a sus dimensiones precisas, la carcasa se adapta perfectamente a su Nintendo Switch sin afectar la funcionalidad.\nElegante y moderno: con su diseño elegante, nuestra carcasa le da a su Nintendo Switch una apariencia fresca que seguramente llamará la atención.\nFácil de instalar: usted mismo puede reemplazar fácilmente la carcasa sin necesidad de herramientas adicionales ni experiencia técnica.\nRefrigeración optimizada: con espacio adicional para un ventilador adicional de 80 x 10 mm (conectado mediante USB), tu Nintendo Switch se mantiene fresco y silencioso incluso durante los momentos más intensos. (no incluido)\nNota: Esta es la versión MK1 de mi kit ReShell de Nintendo Switch. La versión MK2 mejorada también está disponible en mi tienda de Etsy.\n\nInformación importante:\nTenga en cuenta que esta carcasa solo es compatible con la primera generación de consolas Nintendo Switch. No es compatible con las versiones Refresh u OLED. (La compatibilidad con la versión V2 (no con la versión OLED) debería ser posible, pero no se ha probado.\nTenga en cuenta también que restablecer el Nintendo Switch requiere los rieles Joy-Con y dos Joy-Con. Sin estos, la consola no se puede utilizar. Por lo tanto, no reinicie la consola.\nLa instalación se realiza bajo su propia responsabilidad. Un montaje inadecuado puede provocar daños irreparables a la consola o lesiones personales.\nSe recomienda que la modificación sea realizada por un profesional calificado.\nEste producto no tiene licencia de Nintendo. Modificar la consola anulará su garantía.\nHESH3D no acepta ninguna responsabilidad por los daños causados por un montaje inadecuado, manipulación incorrecta o mal uso del producto.\nEste producto está diseñado exclusivamente como carcasa de reemplazo/modificación para una consola Nintendo Switch. Cualquier otro uso no está previsto por el fabricante y puede provocar daños imprevistos.\nEsta modificación requiere una PCB funcional de Nintendo Switch, una batería y una PCB de estación de acoplamiento.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "caparazón",
+  "reshell",
+  "funda",
+  "switch",
+  "nintendo switch",
+  "costumbre",
+  "modificación",
+  "juego de azar",
+  "consola"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc68ccb500100e1/design/44c0e4eafd51d685.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   883,
+   604
+  ],
+  "previews/02.png": [
+   609,
+   410
+  ],
+  "previews/profiles/2856880.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

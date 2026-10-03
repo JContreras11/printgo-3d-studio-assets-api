@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/empunadura-ergonomica.3mf.xz",
+   "instance_id": "1853109",
+   "thumbnail": "previews/profiles/1853109.jpg",
+   "print_time_h": 5.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1",
+    "X1E",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.12mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "0.12mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3118296,
+   "sha256": "4c92a47de76f0ead50ec8eb25147986b7f28d39af2495af256190859ecbec1c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1743607",
+ "title": "Empuñadura ergonómica dividida para Nintendo Switch 2 compatible con el modelo de funda protectora mostrado (otros tipos de fundas protectoras no probados)",
+ "slug": "nintendo-switch-2-ergonomic-split-grip-compatible",
+ "url": "https://makerworld.com/en/models/1743607-nintendo-switch-2-ergonomic-split-grip-compatible",
+ "author": "user_3763661834",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Se ha aumentado el tamaño del mango ergonómico dividido de Nintendo Switch 2 según el modelo original y se ha ampliado la longitud del gancho superior. Esto permite colocarlo fuera del estilo de funda protectora que se muestra en la figura, lo que permite utilizar la empuñadura con la funda puesta. Sin embargo, solo probé esta funda protectora específica y, en general, no hay problemas de uso significativos. No se han probado otros tamaños ni grosores de fundas protectoras (ya que no las tengo).\nSi está utilizando otras fundas protectoras, puede utilizar la pieza de prueba de la placa 2 para realizar pruebas de ajuste de acuerdo con las dimensiones de su funda protectora, obteniendo así un mango dividido adecuado para su funda protectora.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "consola de juegos",
+  "agarre",
+  "agarre del controlador"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001743607/design/2025-08-29_1f2411fdaa0448.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   450
+  ],
+  "previews/02.jpg": [
+   1000,
+   450
+  ],
+  "previews/03.jpg": [
+   1000,
+   450
+  ],
+  "previews/04.jpg": [
+   1000,
+   450
+  ],
+  "previews/05.jpg": [
+   1000,
+   450
+  ],
+  "previews/profiles/1853109.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

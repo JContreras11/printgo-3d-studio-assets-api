@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-refuerzo.3mf.xz",
+   "instance_id": "1516732",
+   "thumbnail": "previews/profiles/1516732.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm 层高, 3 层墙, 15% 填充",
+    "creation_date": "2025-05-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2106868,
+   "sha256": "b52e2a01f20139a23134cc7a22af7523449e1c7bf8ac333547a02d36b8a365b6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1455392",
+ "title": "Soporte y refuerzo magnético diseñado para la funda protectora Retro TV para Switch",
+ "slug": "stand-and-magnetic-reinforcement-designed-for-the",
+ "url": "https://makerworld.com/en/models/1455392-stand-and-magnetic-reinforcement-designed-for-the",
+ "author": "dafa",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este soporte está diseñado para Retro TV - Nintendo Switch Case, proporcionando un ángulo de visión elegante y ergonómicamente mejorado, y refuerzo magnético para evitar caídas accidentales del Switch.\n\nAspectos destacados del diseño:\nMantiene la estética retro original al tiempo que mejora el ángulo de visión;\nCuenta con protuberancias coincidentes en ambos lados para un centrado preciso de Switch;\nEl soporte trasero no obstruye los puertos de cables.\nTres barras de refuerzo mejoran la sujeción magnética del panel, evitando caídas accidentales cuando la carcasa mira hacia abajo. Las barras de refuerzo tienen por defecto 6*3 imanes; sin embargo, puede modificar las partes negativas del modelo para adaptarse a diferentes tamaños de imanes.\nInstalación:\nInserte las patas y los conectores en la placa base. Asegúrese de que el ángulo sea correcto antes de asegurarlo con adhesivo (el ángulo de las patas se puede ajustar según sus preferencias).\n\nAsegure las dos barras de refuerzo derechas a los orificios internos para tornillos usando adhesivo en la parte inferior. Asegure la barra de refuerzo izquierda con adhesivo en cualquier lugar conveniente e instale los imanes en la parte superior.\n\nFijar los imanes que atraen a las barras de refuerzo a sus posiciones correspondientes en el panel mediante adhesivo.\n\nFinalmente, gracias a @Josh-3D por el diseño original.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "switch",
+  "switch oled",
+  "retro",
+  "televisión",
+  "televisión retra",
+  "pararse",
+  "juego",
+  "consola de juegos",
+  "jugador",
+  "accesorios"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-05-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001455392/design/2025-05-26_70834bec6e5a88.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1250
+  ],
+  "previews/03.jpg": [
+   1000,
+   800
+  ],
+  "previews/04.jpg": [
+   1000,
+   1250
+  ],
+  "previews/05.jpg": [
+   1000,
+   1250
+  ],
+  "previews/06.jpg": [
+   1000,
+   1250
+  ],
+  "previews/profiles/1516732.jpg": [
+   600,
+   750
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

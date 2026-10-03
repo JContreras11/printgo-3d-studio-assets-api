@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/caja-pc.3mf.xz",
+   "instance_id": "191947",
+   "thumbnail": "previews/profiles/191947.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 25% infill",
+    "creation_date": "2025-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5096,
+      "weight_g": 26.22,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1805436,
+   "sha256": "fba9ca74e7c342d519ea5e3ed281067e92ca643c60426fbbd02757d635bbf1a7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "174574",
+ "title": "Caja de PC Meshlicious",
+ "slug": "meshlicious-pc-case",
+ "url": "https://makerworld.com/en/models/174574-meshlicious-pc-case",
+ "author": "PZI3D",
+ "category": "console-cases",
+ "source_category": "Hogar > Oficina",
+ "description": "Caja de PC Meshlicious",
+ "use_cases": [],
+ "tags": [
+  "caja de pc meshlicious",
+  "ordenador personal",
+  "computadora para juegos",
+  "caja de la computadora",
+  "funda",
+  "computadora",
+  "dispositivo de juegos de pc",
+  "decoración de la computadora",
+  "edificio de computadoras",
+  "cubierta de la computadora"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2024-02-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US31d688e06e20f/design/2024-02-06_fe83247e20d12.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.webp"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   577,
+   584
+  ],
+  "previews/02.webp": [
+   904,
+   1200
+  ],
+  "previews/profiles/191947.jpg": [
+   577,
+   584
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

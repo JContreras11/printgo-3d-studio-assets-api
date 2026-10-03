@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/caja-color.3mf.xz",
+   "instance_id": "21588",
+   "thumbnail": "previews/profiles/21588.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 54,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8308,
+      "weight_g": 83.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1420116,
+   "sha256": "e6c22128bbca90917c18c15a9012bade413cb7f17178c41e318e685abafdf753",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "24452",
+ "title": "Caja de color Game Boy con logo.",
+ "slug": "game-boy-color-box-case-with-logo",
+ "url": "https://makerworld.com/en/models/24452-game-boy-color-box-case-with-logo",
+ "author": "dunnoz",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "No es mi modelo.\n\nSimplemente hice algunas ediciones para incluir un logo ya que el original no lo tenía.",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "juegos de los 90",
+  "consola de juegos",
+  "organizador"
+ ],
+ "license": "BY-NC",
+ "release_date": "2023-09-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US83abb4113b5a40/design/2023-09-27_3cf30bf96eb06.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1124
+  ],
+  "previews/02.jpg": [
+   1000,
+   900
+  ],
+  "previews/profiles/21588.jpg": [
+   512,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

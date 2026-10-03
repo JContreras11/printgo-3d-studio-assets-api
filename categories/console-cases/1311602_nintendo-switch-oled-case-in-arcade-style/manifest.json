@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-oled.3mf.xz",
+   "instance_id": "1345993",
+   "thumbnail": "previews/profiles/1345993.jpg",
+   "print_time_h": 17.4,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "I added for the Nintendo Switch OLED, the files are not tested because I don't have the OLED, but its measurements are correct.",
+    "creation_date": "2025-04-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 1317480,
+   "sha256": "aa3f7769fb0c424572c15dac3a73774a71167bd71cccb0491caf417db23a0ebd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1311602",
+ "title": "Estuche OLED para Nintendo Switch en estilo Arcade",
+ "slug": "nintendo-switch-oled-case-in-arcade-style",
+ "url": "https://makerworld.com/en/models/1311602-nintendo-switch-oled-case-in-arcade-style",
+ "author": "CruiseAndShoot",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "ImpulsameJuntos somos más fuertes ¡Tu impulso es un salto de gigante para mis próximos proyectos! Estuche estilo arcade OLED de Nintendo Switch – Archivo de impresión 3D\n¡Dale a tu Nintendo Switch OLED una actualización retro épica!\nEste estuche de diseño único en estilo clásico de gabinete arcade transforma tu consola en una pieza central cautivadora, ¡perfecta para entusiastas, jugadores y creadores retro!\nCaracterísticas:\nEstética arcade única en su tipo Inspirada en las máquinas recreativas clásicas: una delicia nostálgica\nAjuste de precisión moldeado a medida para Nintendo Switch OLED\nGestión de cables Apertura inteligentemente integrada para cargar mientras juegas\nEstructuras de soporte recomendadas Ciertas áreas requieren estructuras de soporte para una calidad de impresión óptima\nConstrucción modular Diseñado en múltiples partes para facilitar la impresión y el montaje.\n\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nEstuche estilo arcade OLED de Nintendo Switch – Archivo de impresión 3D\n¡Dale a tu Nintendo Switch OLED un cambio de imagen retro épico!\nEste estuche de diseño personalizado con el estilo clásico de una máquina arcade convierte tu consola en un atractivo nostálgico: ¡perfecto para fanáticos, jugadores y creadores retro!\nCaracterísticas:\nAspecto arcade único: inspirado en las máquinas recreativas antiguas, imprescindible para los nostálgicos.\nAjuste preciso: Diseñado específicamente para Nintendo Switch OLED.\nRanura de carga: Apertura integrada para facilitar la carga mientras está acoplado en el estuche.\nSoporte requerido: Ciertas áreas necesitan estructuras de soporte para una impresión limpia.\nDiseño modular: Impreso en varias partes para facilitar la impresión y el montaje.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "switch",
+  "oled",
+  "funda",
+  "pararse",
+  "base",
+  "ranura para cables",
+  "cargando",
+  "retro",
+  "arcada",
+  "juego de azar",
+  "consola"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-04-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6cf60dc2d1d119/design/2025-04-12_34293ba889ccc8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1345993.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

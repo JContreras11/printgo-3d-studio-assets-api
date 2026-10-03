@@ -1,0 +1,388 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-rigido-5h18.3mf.xz",
+   "instance_id": "3420737",
+   "thumbnail": "previews/profiles/3420737.jpg",
+   "print_time_h": 5.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "A1",
+    "P2S",
+    "H2C",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "P1P",
+    "X1",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "STANDARD BLU-RAY 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1396912,
+   "sha256": "19589333d4d8dc0f403153ddfbb98933d760b00779c837a074356b415b0342c6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-rigido-4h.3mf.xz",
+   "instance_id": "3420746",
+   "thumbnail": "previews/profiles/3420746.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P2S",
+    "A2L",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "H2D",
+    "P1S",
+    "H2C",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "NINTENDO SWITCH & SWITCH 2 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1391864,
+   "sha256": "ff3fcfb89b05359c0e19c979ba10ce26f4643386e2d683b3cbb51dfa2fad0501",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-rigido-4h36.3mf.xz",
+   "instance_id": "3420747",
+   "thumbnail": "previews/profiles/3420747.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "PSX 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1404480,
+   "sha256": "05b1c2494a3d2f957b413321b10ef946d66e0d62be5238b214aef6aeb0dc22f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-rigido-5h30.3mf.xz",
+   "instance_id": "3420759",
+   "thumbnail": "previews/profiles/3420759.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "H2C",
+    "X1",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "P2S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "NES LONG BOX 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1393424,
+   "sha256": "6510611e30162d60fd021f3b08f4e4ce6ff16f93a674c239dbd628310555e7c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-rigido-5h54.3mf.xz",
+   "instance_id": "3420739",
+   "thumbnail": "previews/profiles/3420739.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "A2L",
+    "H2S",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X1",
+    "P1P",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "STANDARD DVD 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1444400,
+   "sha256": "77fe6d695a28f3be563edf11781836a445f8ed1b18092ba0886e84363b04c91e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-rigido-6h18.3mf.xz",
+   "instance_id": "3420762",
+   "thumbnail": "previews/profiles/3420762.jpg",
+   "print_time_h": 6.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "A1",
+    "H2D",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "PS5 FFXVI DELUXE EDITION 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1393576,
+   "sha256": "af3dd1e0d19c0fc1a67b83b0ce34f0069a6fcda9e8dd9384b232c60e089d14f6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-rigido-7h36.3mf.xz",
+   "instance_id": "3420749",
+   "thumbnail": "previews/profiles/3420749.jpg",
+   "print_time_h": 7.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "MTG BUNDLE 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1459268,
+   "sha256": "9f6b0d7f0230ef1f6145989308b9f2384f1c5b85a3675b44191834bc6b961463",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3038866",
+ "title": "Estuche rígido paramétrico para juegos y coleccionables",
+ "slug": "parametric-hard-case-for-games-collectibles",
+ "url": "https://makerworld.com/en/models/3038866-parametric-hard-case-for-games-collectibles",
+ "author": "tumbl3lol",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Proteja sus juegos y objetos coleccionables favoritos con un estuche rígido totalmente personalizable. Este modelo paramétrico le permite generar una funda protectora de tamaño perfecto simplemente ingresando cuatro dimensiones:\naltura\nAncho\nProfundidad\nEspesor de la pared\nImportante: El modelo agrega automáticamente 1 mm de espacio libre interno a la altura, ancho y profundidad que ingresa. Esto garantiza un ajuste más fácil para su artículo manteniendo una excelente protección.\nCaracterísticas\nDiseño totalmente paramétrico\nTamaño personalizado en tan solo unos segundos\nCompatible con todas las impresoras Bambu Lab\nFácil de imprimir sin soportes\nImprime en cualquier color para combinar con tus juegos y coleccionables.\nConstrucción rígida para máxima protección.\nPerfecto para juegos, ediciones de coleccionista, accesorios en cajas y muchos otros objetos de colección.\nYa sea que necesite un estuche para un juego estándar, una edición especial o un objeto coleccionable único, simplemente ingrese sus dimensiones e imprima un estuche protector personalizado en minutos.\nConsejo: Mida las dimensiones externas máximas de su artículo. El modelo agregará automáticamente 1 mm a la altura, ancho y profundidad ingresados ​​para brindar un ajuste cómodo y al mismo tiempo mantener el estuche protector de forma segura.",
+ "use_cases": [],
+ "tags": [
+  "videojuegos",
+  "juegos",
+  "consolas",
+  "juego de azar",
+  "juegos de vídeo",
+  "ps5",
+  "ps4",
+  "ps3",
+  "ps2",
+  "psx",
+  "retro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US18d4a58fd111d3/design/b29d7c879a6d1da1.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3420737.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3420746.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3420747.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3420759.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3420739.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3420762.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3420749.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

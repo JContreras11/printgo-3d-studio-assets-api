@@ -1,0 +1,155 @@
+{
+ "files": [
+  {
+   "path": "model/q-dexter.3mf.xz",
+   "instance_id": "3838643",
+   "thumbnail": "previews/profiles/3838643.jpg",
+   "print_time_h": 8.4,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 1553820,
+   "sha256": "0822b9b8b239491701d40a2e9983143166e5f95b4912148fd58c30ffdd39ff5a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3374671",
+ "title": "Q-dexter — A Real Handheld Pokédex",
+ "slug": "q-dexter-a-real-handheld-pokedex",
+ "url": "https://makerworld.com/en/models/3374671-q-dexter-a-real-handheld-pokedex",
+ "author": "jzofalltrades",
+ "category": "console-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Q-dex: una Pokédex portátil real (con IA en el dispositivo)\nUna Pokédex portátil real y funcional: no es un accesorio ni una aplicación de teléfono. Apunta a un Pokémon y lo identifica, responde como el Profesor Oak y sigue tu viaje a través de 9 regiones. Construido sobre el Arduino UNO Q, en una cubierta Kanto Gen-1 totalmente impresa en 3D que se abre sobre una bisagra impresa.\nEste modelo = el recinto. Estos son los archivos de impresión para el estuche, los botones, el D-pad, el marco de la pantalla y la lente domo iluminada. La construcción electrónica completa (código, cableado, configuración de IA) se documenta por separado (enlaces a continuación).\n\nGuía de compilación completa, redacción y código\nEste es un proyecto completo, documentado y de código abierto; puedes construirlo todo:\nGuía de construcción paso a paso y sitio web:\nResumen completo del proyecto (Hackster.io):\nTodo el código, firmware, cableado y CAD:\nModelo 3D interactivo: gire y amplíe el recinto completo:\n\nConfiguración de impresión\nMaterial: PLA para todas las piezas, excepto la lente domo; imprímalo en PETG transparente para que el LED de la lente brille\nAltura de capa: 0,20 mm\nSoportes: mínimos: la mayoría de las piezas están diseñadas para imprimirse en plano\nBisagra: impresa, no se necesitan pasadores\nHardware: inserciones termofijadas de latón M2 / M3 + tornillos para montaje\nImpreso en un Bambu Lab A1\nPartes y colores\nCarcasa roja · D-pad y tapas de botones negros · lente domo PETG transparente sobre un detalle azul · botones de teclado ámbar. Los colores son tuyos para elegir: cambia tus favoritos.\nQué hace el dispositivo terminado\nIdentifica Pokémon con IA en el dispositivo (una red neuronal que se ejecuta directamente en el tablero, no se necesita Internet) más un modo de nube completo de 1025 Pokémon.\nHabla con el profesor Oak: habla dentro, respuestas habladas\nAtrapa, gana XP y recolecta 64 insignias de gimnasios en 9 regiones\nUn arcade integrado (Flappy Bird, Tetris, Snake… y sí, ejecuta DOOM)\n\nAcerca de\nConstruido en solitario para el Arduino Physical AI Challenge: un sueño de la infancia hecho realidad. Si construyes uno, ¡me encantaría verlo!\n\nLas sugerencias siempre son bienvenidas: ¡deja un comentario o envíame un mensaje de texto! Si desea obtener más información sobre la compilación, no dude en comunicarse. Y si hay una característica que le gustaría agregar, dígame e intentaré que funcione; este es un trabajo en progreso. Se planea V2: un dispositivo más compacto con componentes electrónicos más ordenados y más pequeños y una estructura portátil que funciona con baterías. Por ahora funciona con un cargador USB-C PD (adaptador de 5V 5A).\nDescargo de responsabilidad: proyecto de fans/no comercial\nEste es un proyecto de fans no oficial y no comercial, creado exclusivamente por amor a Pokémon y con fines educativos y de aficionado.\nPokémon y todos los nombres, personajes, ilustraciones, imágenes, gritos, datos, logotipos y contenido relacionado asociados son propiedad intelectual de Nintendo, Game Freak y The Pokémon Company. Todos los derechos están reservados por sus respectivos dueños.\nEste proyecto no está afiliado, autorizado, respaldado ni conectado oficialmente de ninguna manera con Nintendo, Game Freak o The Pokémon Company. Todos los nombres o referencias relacionados con Pokémon se utilizan únicamente para un uso justo y no comercial de los fanáticos.\nEl diseño del recinto impreso en 3D que compartimos aquí es mi trabajo original. Se ofrece de forma gratuita para uso personal y no comercial. No se puede vender ni utilizar con ningún fin comercial. No se pretende infringir los derechos de autor hacia Nintendo o The Pokémon Company; si algún titular de derechos tiene inquietudes, comuníquese con nosotros y las abordaré de inmediato.\nRespete la naturaleza no comercial de este proyecto y la propiedad intelectual de Nintendo.\n\nAlguna sugerencia",
+ "use_cases": [],
+ "tags": [
+  "pokédex",
+  "pokemon",
+  "pokebola",
+  "arduino",
+  "arduino uno q",
+  "uno q",
+  "portátil",
+  "consola portátil",
+  "artilugio",
+  "electrónica",
+  "bricolaje",
+  "electrónica de bricolaje"
+ ],
+ "license": "BY-NC",
+ "release_date": "2026-09-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US402f92810ac855/design/658502b82768ff9d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.gif",
+  "previews/04.gif",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.png",
+  "previews/12.png",
+  "previews/13.png",
+  "previews/14.png",
+  "previews/15.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1332
+  ],
+  "previews/02.jpg": [
+   1000,
+   1327
+  ],
+  "previews/03.gif": [
+   640,
+   480
+  ],
+  "previews/04.gif": [
+   640,
+   480
+  ],
+  "previews/05.jpg": [
+   1000,
+   1332
+  ],
+  "previews/06.jpg": [
+   1000,
+   1332
+  ],
+  "previews/07.jpg": [
+   1000,
+   1332
+  ],
+  "previews/08.jpg": [
+   1000,
+   1332
+  ],
+  "previews/09.jpg": [
+   1000,
+   1332
+  ],
+  "previews/10.jpg": [
+   1000,
+   1332
+  ],
+  "previews/11.png": [
+   1000,
+   768
+  ],
+  "previews/12.png": [
+   640,
+   480
+  ],
+  "previews/13.png": [
+   640,
+   480
+  ],
+  "previews/14.png": [
+   640,
+   480
+  ],
+  "previews/15.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3838643.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

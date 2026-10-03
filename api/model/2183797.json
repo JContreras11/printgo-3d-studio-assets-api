@@ -1,0 +1,256 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora-3h54.3mf.xz",
+   "instance_id": "2370295",
+   "thumbnail": "previews/profiles/2370295.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": 1,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.24mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "无需支撑，如果是A1机型则建议手动添加brim",
+    "creation_date": "2026-01-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1047200,
+   "sha256": "ec98785bbdf9dfdaea982f14269accc7695ecac4df9ab1c86b1365eca3790782",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-protectora-1h.3mf.xz",
+   "instance_id": "2550537",
+   "thumbnail": "previews/profiles/2550537.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "X1E",
+    "H2S",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "适配外壳的顶盖，请勿修改缩放",
+    "profile_notes": "请 保持缩放为100.1%，不要进行修改！",
+    "creation_date": "2026-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1480776,
+   "sha256": "3925af6300d07e84f2cf6a8100ccb6b8cd18fd0942456461e0490ced21cff0fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-protectora-4h.3mf.xz",
+   "instance_id": "2382871",
+   "thumbnail": "previews/profiles/2382871.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "X1",
+    "P1P",
+    "H2D",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "增加缺口版，方便拔出游戏主机",
+    "profile_notes": "相比之前上传的模型增加一个缺口，方便在包内时直接提出游戏机",
+    "creation_date": "2026-01-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1287412,
+   "sha256": "fd84e1fef1602369fbf028098230bec8e1356209c07de4b3e325715096c6041e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-protectora-5h54.3mf.xz",
+   "instance_id": "3225033",
+   "thumbnail": "previews/profiles/3225033.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "P2S",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Gluable split print with connectors for A1 mini.",
+    "profile_notes": "A1 mini can't print Rog Ally cases or backs due to the 180mm print bed. The model is too thin to meaningfully split, so I added soomthened bars to the middle. The connection is fairly loose, but easily strong enough for aligning the pieces before gluing.",
+    "creation_date": "2026-06-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1403072,
+   "sha256": "8c22b42bf60ffb24fdb02abca7b6aa81841c1495dc0051d195683c2759e351c8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2183797",
+ "title": "La funda protectora de almacenamiento ultrafina ROG Ally evita que el joystick se raye",
+ "slug": "rog-ally-ultra-thin-storage-protective-case-preven",
+ "url": "https://makerworld.com/en/models/2183797-rog-ally-ultra-thin-storage-protective-case-preven",
+ "author": "simotsukiyuki",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "ACTUALIZACIÓN 2026.1.3: Se agregó una versión con una muesca para sacar fácilmente la consola de juegos de la bolsa; en caso contrario, las dimensiones de los dos modelos son las mismas.\nElija cuál de las dos versiones (con muesca y sin muesca) imprimir\n\nSiempre llevo un bolso cruzado cuando salgo a llevar mi teléfono, mi identificación y la consola de juegos portátil ROG Ally. Solía ​​​​usar un estuche de almacenamiento EVA de cierta marca. Aunque este estuche era bastante funcional, cuando ocasionalmente llevaba mi RP Flip 2, el excesivo grosor del estuche se convertía en un obstáculo, impidiéndome llevar dos consolas de juegos a la vez.\nPor lo tanto, pasé una tarde diseñando esta funda protectora específicamente para la computadora de mano ROG Ally. En comparación con el estuche de almacenamiento EVA anterior, reduce el grosor en aproximadamente un 30 %, lo que ahora me permite llevar dos consolas de juegos cuando salgo.\nDebido a que el área de los joysticks está empotrada, incluso si la bolsa se sacude violentamente, no rozará los joysticks, lo que brinda una excelente protección. Si es posible, **se recomienda aplicar una fina capa de cinta de tela de acetato dentro del estuche de almacenamiento** (muy barato para comprar en Taobao) para reducir la fricción entre la computadora de mano y la parte impresa y ayudar a asegurarla, evitando rayones en la carcasa de la computadora de mano.\nImpúlsame. Si te resulta útil, dale un triple como QAQ.",
+ "use_cases": [],
+ "tags": [
+  "rog",
+  "rog ally",
+  "funda protectora",
+  "protección de palanca de mando",
+  "juego",
+  "funda protectora para consola portátil",
+  "consola portátil",
+  "almacenamiento",
+  "consola de juegos",
+  "accesorios para juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US67394a1bbfa2a5/design/2026-01-03_4df6d8555bd82.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2370295.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2550537.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2382871.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3225033.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

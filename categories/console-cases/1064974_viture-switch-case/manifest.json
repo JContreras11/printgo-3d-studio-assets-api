@@ -1,0 +1,119 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-viture.3mf.xz",
+   "instance_id": "1053853",
+   "thumbnail": "previews/profiles/1053853.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Perfil de Impresión: Impreso en PLA Altura de capa 0,2 3 Perimetros Relleno 15% Giroide Borde de adherencia exterior Soportes en arbol",
+    "creation_date": "2025-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12474,
+      "weight_g": 100.09,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#057748"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1106060,
+   "sha256": "a98e372bc30ebdceeec1cac68d247a5f8d4d9f2911d75375f74b1c2a1d5cc75d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1064974",
+ "title": "Estuche Viture-Switch",
+ "slug": "viture-switch-case",
+ "url": "https://makerworld.com/en/models/1064974-viture-switch-case",
+ "author": "Cepheo.",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Un soporte para sujetar la Nintendo Switch y la base Viture Mobile Pro para jugar a la consola en cualquier lugar en una pantalla gigante.\n\nHabía visto el accesorio que venden para este fin en la web pero al tener nuestras máquinas siempre es mejor hacerlo uno mismo, así que me puse a diseñarlo, pero de repente encontré dos diseños que podían funcionar con solo unirlos, cortando algunas partes que no se van a utilizar, así que decidí probar y este es el resultado.\n\nEstá impreso en PLA pero se podría hacer en un TPU rígido de 95A sin problemas, pero lo veo innecesario ya que funciona muy bien con PLA. Tiene aperturas para acceder a todo sin problemas.\n\nBoost MeSi te ayuda... ¿qué tal si me invitas a un boost? No te cuesta nada y se agradece mucho.",
+ "use_cases": [],
+ "tags": [
+  "vidas",
+  "switch",
+  "consola",
+  "accesorios de consola"
+ ],
+ "license": "BY",
+ "release_date": "2025-02-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US60452a154564c2/design/2025-02-02_5fd05a06cfe6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   810,
+   1440
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/03.jpg": [
+   810,
+   1440
+  ],
+  "previews/04.jpg": [
+   810,
+   1440
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1053853.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

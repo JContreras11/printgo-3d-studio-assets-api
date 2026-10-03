@@ -1,0 +1,808 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-control-3h48.3mf.xz",
+   "instance_id": "929753",
+   "thumbnail": "previews/profiles/929753.jpg",
+   "print_time_h": 3.8,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 1208,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "2 Slots - Normal",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7615,
+      "weight_g": 96.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3423,
+      "weight_g": 45.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2720,
+      "weight_g": 35.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2607452,
+   "sha256": "c0de246016a0d957662805d31dc61900a4694484638df71dea3c5ac247b53e2c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-1h36.3mf.xz",
+   "instance_id": "1204362",
+   "thumbnail": "previews/profiles/1204362.jpg",
+   "print_time_h": 1.6,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "1 2 3 Slots Slim Bottom -5mm 0.2mm layer, 2 walls, 10% infil",
+    "profile_notes": "The bottom height is changed by -5mm to save filament and speed up printing . Added 3 plates with 1 slot, 2 slots and 3 slots respectively.",
+    "creation_date": "2025-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1242,
+      "weight_g": 10.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1933,
+      "weight_g": 19.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2697,
+      "weight_g": 28.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA",
+   "size": 1602364,
+   "sha256": "12f6110d006dc6f88193811b37efd1f507a9461c0a54f4434a1d2293b2d05bda",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-1h54.3mf.xz",
+   "instance_id": "1204373",
+   "thumbnail": "previews/profiles/1204373.jpg",
+   "print_time_h": 1.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X2D",
+    "X1E",
+    "P2S",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A2L",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "1 2 3 Slots Normal Bottom -5mm 0.2mm layer, 2 walls, 10% inf",
+    "profile_notes": "The bottom height is changed by -5 mm to save filament and speed up printing . Added 3 plates with 1 slot, 2 slots and 3 slots respectively.",
+    "creation_date": "2025-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1437,
+      "weight_g": 12.88,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2336,
+      "weight_g": 24.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3228,
+      "weight_g": 35.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA",
+   "size": 1596748,
+   "sha256": "ac756ae62eea5a8d81b464cf2410929cdb46c0c6943b331a59ff83869c211503",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-2h.3mf.xz",
+   "instance_id": "1895646",
+   "thumbnail": "previews/profiles/1895646.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1E",
+    "H2C",
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2S",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Smaller Version for Chromecast controller",
+    "creation_date": "2025-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2201304,
+   "sha256": "fa6d8d8b97faaa6dd22d2d8f7c81aac4c3de730bcc3b6a509ff3910ff89788f2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-2h12.3mf.xz",
+   "instance_id": "930154",
+   "thumbnail": "previews/profiles/930154.jpg",
+   "print_time_h": 2.2,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 39,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "1 Slot - Slim",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3959,
+      "weight_g": 45.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2458,
+      "weight_g": 18.97,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1491,
+      "weight_g": 15.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2221308,
+   "sha256": "8f2e0009f616e6a4e244cea3d71a1334670cf910f7bcc0480b6cd0ff5d0245e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-2h24.3mf.xz",
+   "instance_id": "929774",
+   "thumbnail": "previews/profiles/929774.jpg",
+   "print_time_h": 2.4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 178,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "1 Slot - Normal",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4491,
+      "weight_g": 52.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2539,
+      "weight_g": 22.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1695,
+      "weight_g": 19.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2164184,
+   "sha256": "5cc94bd9a5d7222f6c75707bf70684441d0874893bd45a5d8639ad52f2b31506",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-3h18.3mf.xz",
+   "instance_id": "930159",
+   "thumbnail": "previews/profiles/930159.jpg",
+   "print_time_h": 3.3,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 101,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "2 Slots - Slim",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6618,
+      "weight_g": 81.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2983,
+      "weight_g": 37.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2284,
+      "weight_g": 28.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2263056,
+   "sha256": "b9996bf31599e0353e74113eed997a82742a1e783580f4fe311cfcdf09faefe6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-5h30.3mf.xz",
+   "instance_id": "941221",
+   "thumbnail": "previews/profiles/941221.jpg",
+   "print_time_h": 5.5,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 77,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2C",
+    "P1S",
+    "P1P",
+    "X1",
+    "P2S",
+    "X2D",
+    "H2S",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "A2L",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "3 Slots - Slim",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11574,
+      "weight_g": 117.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4984,
+      "weight_g": 56.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3408,
+      "weight_g": 41.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2312936,
+   "sha256": "dc7fb76c37dac138ac31e35d32f703643c7227ec551feb425959f008d6cc58c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-control-5h36.3mf.xz",
+   "instance_id": "1086762",
+   "thumbnail": "previews/profiles/1086762.jpg",
+   "print_time_h": 5.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill 2 Plates",
+    "profile_notes": "Only Difference between this and the profile from the creator is the bottom piece is included on the plate with the 2 sleeves Happy Printing!",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11472,
+      "weight_g": 94.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8738,
+      "weight_g": 79.22,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2703252,
+   "sha256": "c76eee1df4c1f2ab2cf0bbe2756a9a3766c6544fe56163a18b12a14f3e09533e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "959996",
+ "title": "Soporte de control remoto",
+ "slug": "remote-control-holder",
+ "url": "https://makerworld.com/en/models/959996-remote-control-holder",
+ "author": "benjaminkott",
+ "category": "console-cases",
+ "source_category": "Hogar > Decoración",
+ "description": "Soporte de control remoto\nSolía ​​guardar mis controles remotos en mi mesa de noche, pero siempre parecían fuera de lugar sin un lugar exclusivo. Quería algo funcional que también agregara un toque de color y personalidad a mi mesa de noche, no solo un diseño sencillo, sino uno con acentos sutiles. Entonces, diseñé este soporte para control remoto.\n\nEn lugar de centrarme en minimizar el uso de material, di prioridad a darle al soporte el peso suficiente para que pareciera resistente y evitara que se volcara. La base es ligeramente más ancha que la parte superior para mayor estabilidad y garantizar que todo se mantenga seguro y funcional.\n\nEl soporte está diseñado para una impresión 3D eficiente. No requiere soportes ni AMS y presenta piezas separadas para cada sección. Esto simplifica el montaje y permite una fácil personalización con diferentes colores para realzar, creando una apariencia única sin largos tiempos de impresión multicolor.\n\nLa pieza inferior se fija mejor con un poco de pegamento, mientras que las ranuras están diseñadas para encajar cómodamente sin necesidad de sujeción adicional. Esto facilita reemplazar o intercambiar secciones más adelante si es necesario.\n\nPara garantizar la mejor calidad de la superficie, el contenedor se imprime de arriba hacia abajo. Esta orientación oculta cualquier capa que pise la parte inferior, donde no se verá, y proporciona un acabado suave en las superficies visibles. Una pequeña ranura en la parte posterior oculta la costura, añadiendo un toque cuidadoso para mantener el diseño general limpio y pulido.\nDimensiones de la ranura\ndelgado\nLongitud: 45 mm / 42,4 mm (ranurado)\nAncho: 45 mm / 42,4 mm (ranurado)\nnormales\nLongitud: 45 mm / 42,4 mm (ranurado)\nAncho: 58 mm / 55,4 mm (ranurado)\n\nMida sus controles remotos antes de imprimir.\nActualizaciones\n09.01.2025\nAgregué una versión de 3 ranuras como la solicitó @3DOptimus. Tenga en cuenta que solo la versión delgada se puede imprimir en el A1 mini. La versión normal no se ajusta a la Build-Plate.\n¿Completar el look?\nVea mis bandejas personalizables y soporte para computadora portátil",
+ "use_cases": [],
+ "tags": [
+  "accesorio",
+  "accesorios",
+  "mando a distancia",
+  "organizador",
+  "controles remotos",
+  "televisión",
+  "televisor",
+  "año",
+  "palo de fuego",
+  "fuegotv",
+  "appletv"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4980e651dd7b23/design/2025-01-06_e0f34024a92ae.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   753
+  ],
+  "previews/02.jpg": [
+   1000,
+   753
+  ],
+  "previews/03.jpg": [
+   1000,
+   753
+  ],
+  "previews/04.jpg": [
+   1000,
+   753
+  ],
+  "previews/05.jpg": [
+   1000,
+   753
+  ],
+  "previews/06.jpg": [
+   1000,
+   753
+  ],
+  "previews/profiles/929753.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/1204362.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1204373.jpg": [
+   600,
+   464
+  ],
+  "previews/profiles/1895646.jpg": [
+   600,
+   599
+  ],
+  "previews/profiles/930154.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/929774.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/930159.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/941221.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/1086762.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

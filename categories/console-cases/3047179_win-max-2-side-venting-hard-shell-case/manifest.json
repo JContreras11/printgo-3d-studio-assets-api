@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-rigido.3mf.xz",
+   "instance_id": "3427373",
+   "thumbnail": "previews/profiles/3427373.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "A2L",
+    "H2C",
+    "A1",
+    "X1E",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Material: PLA+ Layer Height 0.2mm Supports: Tree (auto) Support blocker: Bottom shell grills (bridging is perfect) Print for the Bottom shell requires some light clean up at the face touching the plate",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1253788,
+   "sha256": "722984650e6af6da3146537b7ec103b678460680ed29251241ae1e32e958c8ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3047179",
+ "title": "Estuche rígido con ventilación lateral Win Max 2.",
+ "slug": "win-max-2-side-venting-hard-shell-case",
+ "url": "https://makerworld.com/en/models/3047179-win-max-2-side-venting-hard-shell-case",
+ "author": "Nosliwx",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Un estuche rígido de diseño personalizado para GPD Win Max 2, que brinda protección duradera en un formato elegante y liviano.\n\nEsta versión Sidegrade que fue solicitada por un miembro de Discord, presenta ventilación lateral adicional para mejorar el flujo de aire cuando el dispositivo se coloca plano sobre un escritorio, cama, sofá u otra superficie que pueda bloquear parcialmente las rejillas de ventilación inferiores.\n\nEl estuche está diseñado para proteger el dispositivo contra rasguños, desgastes y uso diario mientras mantiene un fácil acceso a todos los puertos, botones y controles. El espacio adicional alrededor de los botones del gatillo ayuda a prevenir presión o daños accidentales a los gatillos, y también ayuda a evitar presiones accidentales en los botones inferiores.\n\nEn mis pruebas:\nLas temperaturas se mantuvieron similares al funda original, con una ligera diferencia de 2 grados si la entrada inferior está completamente bloqueada.\nPLA+ se ha mantenido bien durante sesiones de juego prolongadas, incluso cuando el dispositivo reportó temperaturas superiores a 80°C. Los resultados reales pueden variar según el filamento, la configuración de impresión y el entorno operativo.\nPara tener en cuenta:\nMaterial: PLA+\nAltura de la capa 0,2 mm\nSoportes: Árbol (automático)\nBloqueador de soporte: Rejillas de la carcasa inferior (el puente es perfecto)\nLa impresión para la carcasa inferior requiere una ligera limpieza en la cara que toca la placa.\n\nSu apoyo sería muy apreciado. ¡Considere darle un impulso a este modelo! ¡Estoy intentando implementar las funciones que se han solicitado!",
+ "use_cases": [],
+ "tags": [
+  "gpd",
+  "ganar máximo",
+  "wm2",
+  "computadora portátil",
+  "desfogue",
+  "cáscara dura",
+  "funda",
+  "cubrir",
+  "protección",
+  "juego de azar",
+  "portátil"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US434bb4f1dd99a3/design/0c7b13d97fcee710.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   766
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/04.jpg": [
+   685,
+   480
+  ],
+  "previews/profiles/3427373.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

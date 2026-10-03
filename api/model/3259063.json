@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/playstation-1.3mf.xz",
+   "instance_id": "3694421",
+   "thumbnail": "previews/profiles/3694421.jpg",
+   "print_time_h": 20.3,
+   "plates": 9,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 3 walls, 20% infill",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   },
+   "name": "Versión estándar",
+   "size": 1128504,
+   "sha256": "c0f333c53613a00a0b47c0d7814e8901eee0621ef55f6e76e698e70e4273294c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3259063",
+ "title": "PlayStation 1",
+ "slug": "playstation-1",
+ "url": "https://makerworld.com/en/models/3259063-playstation-1",
+ "author": "JasonHutchins",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "ACTUALIZACIÓN: 23 DE SEPTIEMBRE DE 2026\nEliminé la lista de RAM de Ameridroid porque la RAM DDR5 de 16 gb de Silicon Power actual ya no es totalmente compatible con Odroid H4 o H5, luego agregué una lista para RAM DDR5 de 16 gb de Crucial en Amazon.\n-----------\n\nEn 1995, Sony lanzó el futuro de los juegos 3D con la PlayStation, esta no es esa consola. Tenga en cuenta que no lee discos, por lo que está más relacionado con los sistemas modernos que con los clásicos a los que modelé para que se pareciera. El modelo final resultante debe tener alrededor de 7\"x10\"x2.5\"... un poco más grande que el modelo real.\n\nUtilicé el Odroid H5 para esta versión, pero el patrón de pernos del Odroid H4 es exactamente el mismo y también debería ser compatible con esta versión. Prefiero el H5 porque tiene la ranura NVME en la parte superior, directamente debajo del ventilador.\n\nUtilicé PLA Basic Grey para las piezas del cuerpo de color gris más claro, PLA Matte Nardo Grey para la base del cuerpo y los botones, PLA Matte Ivory White para la cubierta de LED y PLA Matte Charcoal [negro] para las piezas internas más oscuras.\n\nLista de piezas:\nBambu parece haber eliminado los hipervínculos en todos los demás proyectos que publiqué anteriormente, así que intenté publicar un poco más de detalles para que puedas intentar encontrar los elementos exactos para completar esta compilación.\n\nProcedente de Bambu:\nPLA Gris Básico\n\nPLA Mate Gris Nardo\n\nPLA Mate Blanco Marfil\n\nCarbón mate PLA\n\nresorte de compresión 1x18x15mm BB021 2pk [necesita 3]\n\nresorte de extensión 0.5x5x10mm BA005 10pk [necesita 1]\n\nProcedente de Ameridroid:\nOdroid H5 [necesidad 1]\n\nFuente de alimentación Odroid [necesidad 1]\n\nProcedente de Ebay:\nDragonWorks Performance: Juego completo de etiquetas para PlayStation 1 [necesita 1]\n\nProcedente de Amazon:\nCrucial 16gb DDR5 RAM, 4800mhz CT16G48C40S5 [necesidad 1]\n\nControlador de juego con cable GAMESIR Tegenaria Lite [necesita 1]\n\nSilicon Power 2tb NVME M.2 PCIE gen 3 [necesidad 1]\n\nCable HDMI UVOOI de 6 pies, paquete de 2 [necesita 1]\n\nCable alargador Fidioto 4USB 1 macho a 4 hembra [necesita 1]\n\nLente esmerilada difusa redonda precableada LED verde Chanzon de 5 mm, paquete de 20 [necesita 1]\n\nRIIEYOCA Cable trenzado UHD 4K macho a hembra en ángulo recto de 90 grados, 2 unidades [necesita 1]\n\nCable de extensión Ethernet IGREELY macho a hembra 1 pie, 2 unidades [necesita 1]\n\nSDLQY Almohadillas protectoras adhesivas x100 [necesita 4]\n\nConector hembra Pzsmocn dupont de 2,54 mm y 2 pines [necesita 1]\n\nresorte de torsión 0,7x7 mm 2 vueltas 120 grados 5 unidades [necesita 2]\n\nPernos necesarios:\nm3x5mm [necesita 12]\nm3x8mm [necesita 4]\nm3x16mm [necesita 2]\nPernos de cabeza plana de 18 mm [necesita 4]\nm3x20mm [necesita 8]\n\nInstrucciones:\n\nPaso 1: Coloque los conectores dupont en los cables del LED verde y conecte la tarjeta RAM a la parte posterior de la placa Odroid.\n\nPaso 2: voltea la placa y conecta el NVME y la batería.\n\nPaso 3: Utilice pernos de 2 m3x20 mm para conectar la pieza delantera del cuerpo a las piezas inferiores, y conecte la pieza inferior central a la izquierda y a la derecha con pernos de 4 m3x5 mm.\n\nPaso 4: Inserte el divisor USB fidioto 1 a 4 y péguelos en su posición.\n\nPaso 5: Conecte la placa Odroid a las piezas de la base conectadas utilizando pernos de 4 m3x5 mm.\n\nPaso 6: Inserte 1 resorte de compresión de 18x15 mm en cada uno de los manguitos del resorte.\n\nPaso 7: Utilice 2 pernos m3x16 y 1 resorte de extensión para conectar cdLidLock y cdLidLockCover.\n\nAquí hay un primer plano de la posición del resorte que funciona mejor.\n\nHay dos puntos de conexión del desarrollo inicial, los dejé allí en funda de que termines usando resortes diferentes que requieran dos en lugar de solo uno.\n\nPaso 8: Inserte un perno m3x20 en cada bisagra izquierda y derecha como se muestra, e inserte el LED verde cómodamente en la pieza superior izquierda del cuerpo.\n\nPaso 9: Utilice pernos de 2 m3x5 mm para conectar cada pieza de bisagra a la pieza superior del cuerpo adecuada.\n\nPaso 10: Utilicé un poco de superpegamento para conectar la cubierta LED a la pieza superior izquierda del cuerpo.\n\nPaso 11: Inserte polePower y poleReset en los manguitos de resorte como se muestra\n\nPaso 12: utilicé otro poco de superpegamento para conectar las piezas del botón de encendido y del botón de reinicio a sus respectivos polos.\n\nPaso 13: Utilice 4 m3x8 mm para conectar la bisagra trasera del cuerpo a la tapa del CD\n\nPaso 14: use 4 pernos de cabeza plana de 18 mm para conectar el ventilador Thermalright a la tapa del CD\n\nPaso 15: metí el cable de alimentación detrás de este perno para ayudar a dirigir el cable en un paso futuro.\n\nPaso 16: Conecta el cable LED verde a la placa Odroid\n\nPaso 17: Aquí hay un primer plano de los pines que se usaron para el LED verde.\n\nPaso 18: Utilice pernos de 2 m3x20 mm para conectar el cuerpo izquierdo a la base, teniendo cuidado con los botones.\n\nPaso 19: Conecte el cable HDMI y el cable Ethernet al cuerpo como se muestra. Antes de colocarlo permanentemente en su lugar, intenta enrollar los cables y conectarlos a la placa Odroid para ver cómo encaja o no.\n\nPaso 20: Asegúrese de que todos los cables USB, HDMI y Ethernet estén conectados, coloque sin apretar la pieza superior derecha del cuerpo en una posición aproximada y coloque 1 resorte de torsión en los pernos de las bisagras izquierda y derecha.\n\nAquí hay un primer plano de dónde deberían estar los resortes con el brazo inferior metido contra la bisagra.\n\nPaso 21: Deslice la tapa del CD sobre los pernos de las bisagras izquierda y derecha mientras se asegura de capturar",
+ "use_cases": [],
+ "tags": [
+  "playstation",
+  "uno",
+  "1",
+  "estación de juegos1",
+  "consola",
+  "odroide",
+  "android h4",
+  "odroid h5",
+  "caparazón",
+  "funda",
+  "sony"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-09-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5ec1ece3215547/design/0f3933f5064a9a5c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3694421.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

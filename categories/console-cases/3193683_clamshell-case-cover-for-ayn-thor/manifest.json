@@ -1,0 +1,381 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-funda-3h.3mf.xz",
+   "instance_id": "3613365",
+   "thumbnail": "previews/profiles/3613365.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A2L",
+    "P2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "H2S",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Caja Ayn Thor Logo",
+    "profile_notes": "Altura de capa 0.2 Impresion sin soportes",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2639008,
+   "sha256": "7d252591e7169dc325c16a6c9619866d37150490198ea68b8556313c387bb7c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-funda-2h48.3mf.xz",
+   "instance_id": "3613676",
+   "thumbnail": "previews/profiles/3613676.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "P1P",
+    "P2S",
+    "A1",
+    "X2D",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Caja Ayn Thor sin Logo",
+    "profile_notes": "Altura de capa 0.2 Modelo basico sin logos",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2581212,
+   "sha256": "93644cdb54f5ddf5bf9955f6364d903dc8dd2b1a0aaad8991b9dec310de734b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-funda-3h06.3mf.xz",
+   "instance_id": "3613639",
+   "thumbnail": "previews/profiles/3613639.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Con AMS Caja Pokedex",
+    "profile_notes": "Altura de capa 0.2 Impresion sin soportes Placa 2 se imprime por objetos separados",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2745872,
+   "sha256": "ef17f1049db491c9da57157bb7d83282fef5a7c4c92fb9fd72fac6e4e9463d26",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-funda-3h18.3mf.xz",
+   "instance_id": "3613644",
+   "thumbnail": "previews/profiles/3613644.jpg",
+   "print_time_h": 3.3,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "SIN AMS Caja Pokedex",
+    "profile_notes": "Altura de capa 0.2 Impresion de color por placa Placa de lente con 1 pausa",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2780588,
+   "sha256": "9b12f1fed2edaa235853548fd6b77eb5eaab8de03552f2e49b8e5fa2112e59ab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-funda-4h12.3mf.xz",
+   "instance_id": "3725415",
+   "thumbnail": "previews/profiles/3725415.jpg",
+   "print_time_h": 4.2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2C",
+    "H2D",
+    "P2S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Caja Basica para A1 mini",
+    "profile_notes": "Altura de capa 0.2",
+    "creation_date": "2026-09-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 2060656,
+   "sha256": "568f5c55edbc87f20247bd9a370191778ef17b053bb1e8eee57e99318f07e068",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-funda-4h54.3mf.xz",
+   "instance_id": "3613625",
+   "thumbnail": "previews/profiles/3613625.jpg",
+   "print_time_h": 4.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Caja Ayn Thor PS1",
+    "profile_notes": "-Altura de 0.2 -2 placas de impresion",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2778520,
+   "sha256": "a3c710aa3d359fe4fe04eeb68c3677434211b1fefccada6238ef484b46b06769",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3193683",
+ "title": "Estuche / Funda tipo concha para Ayn Thor",
+ "slug": "clamshell-case-cover-for-ayn-thor",
+ "url": "https://makerworld.com/en/models/3193683-clamshell-case-cover-for-ayn-thor",
+ "author": "pocedani",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Estuche tipo almeja para Ayn Thor\nFunda protectora diseñada específicamente para la consola portátil Ayn Thor.\n\nEl diseño está pensado para albergar la consola sin ninguna cubierta adicional (sin TPU, sin silicona, nada intermedio): las medidas se toman directamente de las dimensiones de la consola desnuda, por lo que el ajuste es preciso y cómodo.\nImportante: si ya utilizas una funda de TPU u otro tipo de funda blanda, ten en cuenta que no la necesitarás con esta funda. De hecho, como no había ninguna funda de TPU disponible para medir, el diseño no tiene en cuenta ese espacio extra.\nDiseñado para ser liviano y portátil\nEl diseño fue concebido para ser lo más delgado y pequeño posible, logrando un equilibrio entre:\n- Fácil de transportar\n- Duradero\n- Bajo consumo de material\n- Impresión rápida\nCierre magnético\nLa caja se cierra mediante 4 imanes de 5x2 mm (5 mm de diámetro x 2 mm de espesor)\nLos imanes requieren una pequeña cantidad de adhesivo para fijarlos correctamente en su alojamiento y evitar que se muevan con el uso.\n\nModelos incluidos (4 diseños)\n1 Básico/Suave\n\nSin ningún tipo de decoración ni serigrafía. Ideal para quienes prefieren un acabado limpio y minimalista.\n\nEstampado a un solo color, sin complicaciones.\n\n2 Estilo serigrafiado de Ayn Thor\n\nLa cubierta superior incluye un grabado/serigrafía inspirado en el diseño de la propia consola Ayn Thor, junto con el nombre.\n\nImpresión a un solo color, sin dificultad.\n\n3 Pokédex Style\n\nTapa superior con un diseño inspirado en la clásica Pokédex. Se publican 2 versiones:\n\n- Versión con AMS:\n\n- Placa 1 estuche rojo. ¡Atención! En esta placa también se incluye el LED rojo, una pequeña pieza que es fácil pasar por alto al revisar el archivo antes de imprimir.\n\n- Placa 2 LED verde, LED amarillo, triángulo amarillo y lente en azul y blanco.\n\n- Versión sin AMS:\n\nCada pieza está impresa en su propia plancha según su color, para quienes no tienen sistema multicolor.\n\nSe incluyó una pausa de impresión en la placa de la lente (blanca y azul) para permitir el cambio manual del material a azul en el momento adecuado.\n\nMontaje: es necesario pegar las dos mitades entre sí con adhesivo una vez impresas. Utilice una pequeña cantidad para que no se desborde por las juntas.\n\n4 Estilo PS1\n\nDiseño inspirado en la consola PlayStation 1 original. Está impreso en 2 planchas:\n\n- Placa 1 estuche en color liso.\n\n- Tapa de placa 2 con diseño PS1 (requiere AMS para multicolor).\n\nMontaje: al igual que en el modelo Pokédex, es necesario pegar las dos mitades con adhesivo. Aplicar una pequeña cantidad para evitar que se desborde por los bordes.\n\nRecomendaciones de impresión\nAl ser una pieza grande, asegúrate de que la cama de impresión esté limpia y, si es posible, utiliza algún tipo de adhesivo (laca, pegamento en barra, etc.). Al ser una pieza grande, puede desprenderse durante la impresión y provocar *warping*, lo que supondría perder una cantidad importante de material.\n\nNotas finales\nEl ajuste pretende ser preciso, pero si encuentra algún ajuste que pueda mejorarse, cualquier comentario, sugerencia o solución de diseño es bienvenido. Estoy abierto a escuchar mejoras para seguir perfeccionando el modelo.",
+ "use_cases": [],
+ "tags": [
+  "ayn thor",
+  "portátil",
+  "consola",
+  "androide"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc11bd0f7eff3e1/design/3cb4d45f09144d42.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   896,
+   1195
+  ],
+  "previews/02.png": [
+   896,
+   1195
+  ],
+  "previews/03.png": [
+   896,
+   1195
+  ],
+  "previews/04.png": [
+   896,
+   1195
+  ],
+  "previews/05.png": [
+   896,
+   1195
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/11.jpg": [
+   750,
+   1000
+  ],
+  "previews/12.jpg": [
+   750,
+   1000
+  ],
+  "previews/13.jpg": [
+   750,
+   1000
+  ],
+  "previews/14.jpg": [
+   750,
+   1000
+  ],
+  "previews/15.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3613365.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3613676.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3613639.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3613644.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3725415.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3613625.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

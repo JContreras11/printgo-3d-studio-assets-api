@@ -1,0 +1,155 @@
+{
+ "files": [
+  {
+   "path": "model/bmo-h4-13h12.3mf.xz",
+   "instance_id": "2374842",
+   "thumbnail": "previews/profiles/2374842.jpg",
+   "print_time_h": 13.2,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-09-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 1355332,
+   "sha256": "0ada5da3f9df2ca16a0cf0c84832a503598050ee022ebfb97af178fd52365d5d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bmo-h4-24min.3mf.xz",
+   "instance_id": "2374888",
+   "thumbnail": "previews/profiles/2374888.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1462752,
+   "sha256": "ceff258bc8723d43746d582f455ce86c094a27ccd0b425cd5b0c1d7b9186d477",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bmo-h4-30min.3mf.xz",
+   "instance_id": "2374894",
+   "thumbnail": "previews/profiles/2374894.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-01-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1005552,
+   "sha256": "1dbffe8da682e428b14df47d7c8c4ad067911162dfebf823b6de183fc3799445",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2187545",
+ "title": "BMO H4",
+ "slug": "bmo-h4",
+ "url": "https://makerworld.com/en/models/2187545-bmo-h4",
+ "author": "JasonHutchins",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "¡No tengas miedo de ser MÁS! ¡BMO!\nEl modelo final resultante (sin contar las extremidades) mide alrededor de 3\"x6\"x7\".\n\nUtilicé Polymaker Matte PLA Arctic Teal para el cuerpo, PLA Matte Charcoal (negro) para el cuerpo y las etiquetas, PLA Basic Dark Grey para las extremidades, PLA Matte Ash (gris) para los cartuchos, PLA Basic Bambu Green para el botón circular, PLA Basic Yellow para el d-pad, PLA Matte Sky Blue para el botón triangular y PLA Basic Red para el botón de encendido.\n\nOtras partes son las siguientes:\n\nprocedente de Ameridroid:\n\nOdroid-H4 [solo el modelo base ya que los otros modelos tienen diferentes puertos io en la parte posterior]\nfuente de alimentación de 15v\n16 GB de RAMDDR5\n\nAmazonas:\n1: mini monitor táctil elecrow de 5\" con pantalla LCD HD de 800x480\n1: ventilador delgado Thermalright TL-C12015 de 120 mm\n1 por cartucho: Unidad flash SanDisk Ultra Fit USB 3.2 de 400 MB/s\nsdlqy: pies de goma adhesivos (4 almohadillas debajo del modelo)\npzsmocn: Dupont 200 piezas Conector adaptador de 1 pin de paso de 2,54 mm Carcasa hembra Terminal de enchufe negro\n1: areme: adaptador USB 3.0 de 90 grados\n1: dmwd: botón pulsador momentáneo IK09 antivandálico de metal de diseño corto de 22 mm, orificio de montaje de 7/8\"\n1: fidioto: cable alargador USB 1 macho a 2 hembra\n1: chanzón: LED azul de 5 mm\n1: cable de extensión USB 3.0 tan qy de 1 pie tipo A macho a hembra\n1: cable trenzado riieyoca de 90 grados UHD 4K HDMI hembra a HDMI macho\n1: chenyang Cable plano USB C USB 2.0 macho a USB C macho Cable de extensión flexible de cinta en ángulo de 90 grados hacia arriba 0,5 m\n1: cablecc cyfpv fpv HDMI macho a cable plano HDMI macho 90D en ángulo superior de 50 cm\n1: Adaptador de puerto de pantalla activo a HDMI switchflux\n1: papel adhesivo imprimible muy blanco mate\n12: pernos bnuok m3x5 (2 por cartucho)\n10: pernos bnuok m3x8\n4: pernos bnuok m3x20\n\nAsamblea:\nEstas instrucciones asumen que ya has configurado la BIOS del Odroid H4 y Batocera para tus unidades flash USB SanDisk.\n\nConecte la batería RTC y la ram al H4, conecte los conectores de cables dupont a los extremos de los cables para el Switch de alimentación de 22 mm y el LED azul.\n\nRetire los amortiguadores de sonido de goma de las esquinas del ventilador, instálelo en la placa posterior con 4 pernos m3x20, encienda el interruptor de encendido de la pantalla y móntelo con el USB C hacia la parte superior usando 4 pernos m3x5\n\nAtornille el Power Switch de 22 mm al adaptador de alimentación Switch y conecte el adaptador areme USB 3.0 de 90 grados al cable de extensión tan qy USB 3.0.\n\nInserte el LED azul en la placa frontal y péguelo con pegamento caliente en su lugar, luego inserte el adaptador fidioto USB 1 macho a 2 hembra en la parte inferior de la placa frontal y péguelo con pegamento caliente en su lugar.\n\nInserte el botón de encendido rojo en el orificio grande de la placa frontal, luego inserte el adaptador USB 3.0 de 90 grados areme combinado y el cable de extensión USB 3.0 tan qy en la ranura del cartucho en la placa frontal, deslice ambas piezas del soporte USB sobre el cable USB fidioto 1 macho a 2 hembra y atorníllelo en su lugar con 2 pernos m3x8\n\nAtornille el Switch de alimentación de 22 mm a la placa frontal encima del botón de encendido rojo.\n\nConecte la placa odroid h4 a la placa frontal con 4 pernos m3x5, asegúrese de que los cables LED estén enrutados exactamente como los desea\n\nConecte los cables de alimentación Switch de 22 mm y los cables azules LED a la placa H4 como se muestra. El Switch de potencia irá a los pines en el extremo posterior derecho contando hacia el frente como en blanco, en blanco, negro, rojo, y el LED azul irá a los pines cerca del frente izquierdo contando hacia atrás como negro azul en blanco.\n\nConecte el fidioto USB 1 macho a 2 hembra al puerto USB 3.0 inferior y el cable de extensión USB 3.0 tan qy al puerto USB 3.0 superior de la placa H4.\n\nDeslice el brazo de BMO dentro del cuerpo principal y use un m3x5 y la arandela del brazo en el interior del cuerpo para atornillarlo en su lugar. Haga esto para ambos lados en este momento.\n\nConecte los cables planos a sus respectivos extremos como se muestra en las instrucciones que vienen con ellos. Conecte el cable plano USB C de chenyang y el cable plano cyfpv fpv HDMI del cablecc cyfpv fpv al costado de la pantalla con los extremos de 90 grados hacia arriba, lejos de la placa frontal.\n\nConecte el cable trenzado riieyoca 90 grados UHD 4K HDMI hembra a HDMI macho con el cable mirando hacia el Switch de alimentación; es posible que deba apartar los otros cables USB, pero encajará perfectamente. Luego, conecte el cable plano USB C a USB A al USB 2.0 como se muestra y luego enrolle suavemente el exceso de cable plano con una brida o cualquier otra cosa.\n\nConecte el adaptador switchflux Active Display Port a HDMI al puerto de pantalla en el H4 justo encima del puerto HDMI y luego coloque el adaptador al lado del disipador de calor como se muestra. Utilicé una brida giratoria para ayudar a mantenerlo en su lugar y otra para enrollar suavemente el exceso de cable plano después de conectar el cable plano HDMI a ese adaptador.\n\nRetire los dos pernos superiores m3x5 de la parte superior del tablero H4 como se muestra\n\nManteniendo todos los cables y cintas metidos, deslice las paredes del cuerpo hacia abajo sobre la cara para que el soporte de los pernos cerca de la parte superior encaje correctamente nuevamente.",
+ "use_cases": [],
+ "tags": [
+  "bmo",
+  "hora de aventura",
+  "consola",
+  "caparazón",
+  "odroide",
+  "h4",
+  "android h4",
+  "funda",
+  "batocera"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-01-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeeb0612b16d9d7/design/2026-01-01_aa2b3d0f14bb98.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2374842.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2374888.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2374894.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

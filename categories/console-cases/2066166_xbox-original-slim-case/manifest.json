@@ -1,0 +1,146 @@
+{
+ "files": [
+  {
+   "path": "model/funda-delgada.3mf.xz",
+   "instance_id": "2231279",
+   "thumbnail": "previews/profiles/2231279.jpg",
+   "print_time_h": 57,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 3084156,
+   "sha256": "2155170715e608cdeba15910e78f76bd072ed284972273d38c6bced483f064e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2066166",
+ "title": "Funda delgada original de Xbox",
+ "slug": "xbox-original-slim-case",
+ "url": "https://makerworld.com/en/models/2066166-xbox-original-slim-case",
+ "author": "SH3D.",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "SH3D – Funda delgada para Xbox OG\nXbox Slim original: rediseño completo de la carcasa (remezcla) de SH3D\nEste proyecto es un rediseño integral del estuche Original Xbox Slim.\nCreado originalmente por ShinGoutetsu, luego ampliado por PlasticBurner y PrimeRetroGamer, y ahora reconstruido por SH3D como un gabinete de dos piezas completamente nuevo.\n\nNota: Este modelo es una reconstrucción totalmente independiente creada desde cero basada en mis propias medidas. No se reutilizó ni importó ninguna geometría ni archivos de los modelos referenciados. El diseño está inspirado en la cadena remix, pero ha sido rediseñado significativamente tanto técnica como visualmente.\n¿Qué hay de nuevo? – Rediseño completo como estuche de 2 piezas\nEl modelo original estaba formado por muchos componentes individuales.\nEste remix, sin embargo, ha sido reconstruido como un funda unificado y completamente ensamblado.\nNuevo concepto estructural\nSólo dos partes principales:\nCarcasa inferior + cubierta superior\nAdiciones internas:\n– Sudario\n– Montaje del botón de encendido\nEsto da como resultado una carcasa visualmente perfecta, más fácil de imprimir y perfectamente atornillada.\nVariantes de diseño de portada superior\nLa cubierta superior está disponible en cuatro variantes completamente rediseñadas:\nLogotipo con una “X” grande en toda la tapa.\nSólo texto del logotipo\nLogotipo con diseño circular.\nLogotipo con una fina “X” que abarca toda la tapa\nActualizaciones y mejoras técnicas\nLos pilares del botón de encendido realineados garantizan un botón de encendido recto y correctamente asentado\nTopes de PCB reforzados, juego reducido y estabilidad mejorada de los botones.\nOrificios para tornillos de la cubierta superior rediseñados\nahora empotrado para tornillos de cabeza hueca M3, quedando completamente al ras de la superficie\nDos variantes de carcasa inferior:\n– Con ranuras de ventilación redondeadas\n– Sin bordes redondeados\nEstos cambios no hacen que la carcasa sea “más robusta”, sino que garantizan una construcción limpia y funcional y un ensamblaje final cohesivo.\nProyecto Comunitario\nEste modelo pretende crecer junto con la comunidad.\nSi varios usuarios solicitan la misma característica, idea o elemento de diseño, con gusto lo integraré en futuras actualizaciones.\nNo se implementarán solicitudes individuales, pero si hay demanda, el diseño se ampliará en consecuencia.\nGuía de montaje rápido\n1. Imprime todas las partes\nCarcasa inferior, cubierta superior, cubierta, soporte para botón de encendido.\n2. Abre la Xbox original\nNo olvides el tornillo debajo de la pegatina.\nRetire los tornillos debajo de las patas de goma.\n3. Retire y reinstale la fuente de alimentación.\nDesenrosque la fuente de alimentación y retírela de la caja anterior.\nInstálelo en la nueva carcasa inferior.\nReutilizar los tornillos originales.\n4. Transfiera el botón de encendido y la PCB\nRetire el botón de encendido y su PCB.\nInstálalos en el nuevo soporte.\nAsegure con tornillos originales\n5. Transfiera la placa base\nRetire la placa base del funda antiguo.\nMóntalo en la nueva carcasa inferior.\nNuevamente: use tornillos originales\n6. Instale los puertos del controlador (1 y 2)\nPuertos de transferencia 1 y 2\nAsegure con tornillos originales\ninstalar el ventilador\nRecomendado: Noctua 40×40×20 mm, 12V, 3 pines\njunto con la cubierta del ventilador impresa\n7. Monte el SSD en la cubierta superior.\nInstale el SSD en la posición designada\nVuelva a conectar y enrute cuidadosamente todos los cables.\n8. Cerrar el funda\nColoque la cubierta superior sobre la carcasa inferior.\nFijar con tornillos de cabeza hueca M3, completamente empotrados\nCréditos\nEste proyecto no existiría sin el trabajo de los creadores originales:\nCreado originalmente por: ShinGoutetsu\nRemezclas anteriores de: PlasticBurner, PrimeRetroGamer\nRediseño y remezcla actuales por: SH3D.\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nEste modelo fue diseñado y compartido por SH3D.\nCreo mis proyectos por pasión por el diseño 3D, la impresión y la modificación de hardware, y siempre estaré feliz de escuchar sus comentarios, ideas o mejoras.\nSi disfrutas mi trabajo y quieres apoyar futuros diseños, puedes invitarme a un café aquí:\nbuymeacoffee.com/sh3d\n\n¡Gracias por ser parte de la comunidad y ayudar a que estos proyectos crezcan!\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nRegistro de cambios\n\nES:\nv0.3 – Ajuste mejorado y rendimiento de refrigeración\nCorrección de altura de las superficies de apoyo: Todos los puntos de apoyo se llevaron a una altura uniforme para garantizar una instalación más estable y nivelada.\nProfundidad de los orificios ajustada: la profundidad de los orificios para los tornillos se ha corregido para evitar que los tornillos deformen la carcasa en la parte inferior.\nAbertura del ventilador más grande: El orificio de ventilación se ha ampliado para que el ventilador Noctua 40×40×20 recomendado pueda bombear más aire y mejorar el rendimiento de refrigeración.\n\nv0.4 – Ventilador y ajustes opcionales de 60 mm\nNueva tapa con opción de ventilador de 60 mm.\nSoporte para SSD ligeramente desplazado para espacio adicional\nEspaciado interno ajustado para una mejor compatibilidad\n\nv0.5 – Nueva tapa en el estilo Jewel original\nNueva tapa w",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "xbox original",
+  "originalxbox",
+  "xboxog",
+  "funda",
+  "xbox clasico",
+  "xbox y",
+  "xbox originales",
+  "xbox delgado",
+  "funda xbox",
+  "carcasa de xbox"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf46ff12b67bafc/design/1b2d2a3a79bd9364.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/02.png": [
+   1000,
+   425
+  ],
+  "previews/03.png": [
+   1000,
+   531
+  ],
+  "previews/04.png": [
+   1000,
+   733
+  ],
+  "previews/05.png": [
+   1000,
+   722
+  ],
+  "previews/06.png": [
+   1000,
+   732
+  ],
+  "previews/07.png": [
+   1000,
+   726
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.jpg": [
+   1000,
+   1333
+  ],
+  "previews/13.jpg": [
+   1000,
+   1333
+  ],
+  "previews/14.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2231279.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

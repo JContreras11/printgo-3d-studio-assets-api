@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora.3mf.xz",
+   "instance_id": "2405558",
+   "thumbnail": "previews/profiles/2405558.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "P1S",
+    "H2D",
+    "P2S",
+    "A1",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-01-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1464740,
+   "sha256": "2d5971c24142ab9a887b2343af4e31666668e189b10bddfb002383acf0eb877b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2212738",
+ "title": "Funda protectora ultrafina Myo Mini V4",
+ "slug": "miyoo-mini-v4-ultra-thin-protective-case",
+ "url": "https://makerworld.com/en/models/2212738-miyoo-mini-v4-ultra-thin-protective-case",
+ "author": "user_1959413304",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Esta funda protectora es solo para la mini consola portátil miyoo mini V4. Se puede imprimir con material rígido y solo hay que encajarlo firmemente en el dispositivo.",
+ "use_cases": [],
+ "tags": [
+  "miyo",
+  "consola portátil",
+  "funda protectora",
+  "cubierta protectora",
+  "miomini"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002212738/design/2026-01-07_7effade6ec2da8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2405558.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

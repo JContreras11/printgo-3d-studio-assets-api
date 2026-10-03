@@ -1,0 +1,76 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-impreso.3mf.xz",
+   "instance_id": "2125288",
+   "thumbnail": "previews/profiles/2125288.jpg",
+   "print_time_h": 11.2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Altezza layer 0.20mm Almeno 2 pareti, meglio usarne 3 per rigidità.",
+    "creation_date": "2025-11-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1765196,
+   "sha256": "8f39a6fb48c7acfbf74196345370b9fc4ce6209805c6b2dcd0709b32d4e3e711",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1976044",
+ "title": "Estuche impreso en 3D para la consola Steam Machine Asrock BC-250",
+ "slug": "3d-printed-case-for-steam-machine-asrock-bc-250-co",
+ "url": "https://makerworld.com/en/models/1976044-3d-printed-case-for-steam-machine-asrock-bc-250-co",
+ "author": "Giacomorov",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Un estuche impreso en 3D diseñado para albergar la placa base ASRock BC-250, el mismo hardware utilizado en la PlayStation 5. El diseño refleja la estética limpia y compacta de una mini consola de sala de estar, con un diseño optimizado para garantizar un buen flujo de aire y espacio para una fuente de alimentación GaN de 250 W y dos ventiladores Arctic P12 Pro.\nLa caja consta de dos partes principales: cuerpo y tapa, que se unen mediante imanes de 3 mm de diámetro y 2 mm de altura, haciendo que la apertura y el mantenimiento sean sencillos y sin tornillos.\nLos usuarios con una impresora de área de impresión estándar (por ejemplo, 256 × 256 × 256 mm) deberán dividir el modelo en varias secciones para imprimir, que luego se podrán pegar o ensamblar fácilmente.\nEl proyecto está diseñado para un montaje práctico y ordenado, con espacio interno para gestión de cables y aberturas laterales para ventilación y acceso a puertos de E/S.\nPerfecto para quienes quieren crear una consola SteamOS compacta y única, con un aspecto moderno y totalmente casera.\nImpresión recomendada en PLA+ o PETG, capa de 0,2 mm, 15-20% de relleno.",
+ "use_cases": [],
+ "tags": [],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US54f2cbbe6e7190/design/2fc6a1e0adb5d263.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   827,
+   539
+  ],
+  "previews/02.png": [
+   826,
+   543
+  ],
+  "previews/03.png": [
+   823,
+   540
+  ],
+  "previews/profiles/2125288.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

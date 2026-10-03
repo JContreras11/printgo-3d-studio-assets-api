@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/funda-mando.3mf.xz",
+   "instance_id": "3669642",
+   "thumbnail": "previews/profiles/3669642.jpg",
+   "print_time_h": 6.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X2D",
+    "H2D Pro",
+    "H2S",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "XBOX Controller Case"
+   },
+   "name": "Versión estándar",
+   "size": 2248648,
+   "sha256": "5115a7a8a61052da78972057c9ed251a45cf2b3a3e411d214e796db4f4250d19",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3239034",
+ "title": "Funda para mando de Xbox One Cyberpunk 2077 Limited",
+ "slug": "xbox-one-controller-case-cyberpunk-2077-limited",
+ "url": "https://makerworld.com/en/models/3239034-xbox-one-controller-case-cyberpunk-2077-limited",
+ "author": "Hk3ToN",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Boost Me¿Tienes un Boost sin usar? ¡Me encantaría tenerlo!;) Gracias Estuche para controlador Xbox One - Cyberpunk 2077 Edición limitada\nProteja y muestre su controlador con este estuche protector altamente detallado inspirado en el universo de Cyberpunk 2077. Diseñado tanto para creadores como para fanáticos de la franquicia, este modelo combina estética industrial, precisión en el juego y practicidad cotidiana.\n\nLicencia Comercial\nSi estás interesado en vender impresiones físicas de mis diseños en tu tienda local o en línea, o si simplemente quieres apoyar mi trabajo: patreon.com/Hk3ToN3D\n\n¿Por qué descargar e imprimir este modelo?\nEstética de juego de 360°: presenta paneles extruidos inspirados en Cyberpunk e iconografía en todo el exterior para una máxima fidelidad visual.\nDiseño de impresión in situ: imprima piezas articuladas directamente en la cama en una sola ejecución sin necesidad de ensamblaje complejo.\nFuerte mecanismo de bloqueo de clip: bisagra resistente y sistema de bloqueo de clip que es 100% imprimible en 3D y diseñado para soportar el uso diario.\nAjuste personalizado: modelado específicamente para albergar los controladores de Xbox One de forma limpia y segura.\n\nNota de diseño importante\nSe ha dejado intencionalmente un ligero espacio alrededor del controlador dentro de la carcasa. Este espacio le permite pegar almohadillas de espuma suave o tiras de fieltro (no incluidas) a lo largo de las paredes internas para evitar fricción lateral, rayones y desgaste del controlador.\n\nSi te gusta este proyecto, considera dejar un Me gusta, agregarlo a tus Favoritos y compartir tus creaciones. ¡Gracias por el apoyo!\n\nSigue mi perfil para no perderte los próximos lanzamientos.\nSi aprecia el tiempo y el esfuerzo invertido en este proyecto, considere dejar una calificación de 5 estrellas, cargar una foto de su marca o darle un impulso al modelo. Su apoyo me mantiene motivado para diseñar y compartir más proyectos de alta calidad.\n\nBoost Me¿Tienes un Boost sin usar? ¡Me encantaría tenerlo!;) Gracias.",
+ "use_cases": [],
+ "tags": [
+  "microsoft",
+  "controlador xbox 1",
+  "xbox",
+  "controlador xboxone",
+  "xboxone",
+  "xbox uno",
+  "controlador xbox uno",
+  "consola",
+  "controlador",
+  "juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd3a62989b39dc8/design/2879152da06102c1.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3669642.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

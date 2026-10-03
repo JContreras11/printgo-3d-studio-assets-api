@@ -1,0 +1,112 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-raspberry.3mf.xz",
+   "instance_id": "2197255",
+   "thumbnail": "previews/profiles/2197255.jpg",
+   "print_time_h": 13.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 3 walls, 7% infill",
+    "creation_date": "2025-11-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1607668,
+   "sha256": "565576f8278dacad4c6680eae6b9f2ed3ec4117673746aed2417e4f7089ff0e3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2036964",
+ "title": "Estuche Raspberry PI Game Boy",
+ "slug": "raspberry-pi-game-boy-case",
+ "url": "https://makerworld.com/en/models/2036964-raspberry-pi-game-boy-case",
+ "author": "SICHET_3D",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Aquí hay un estuche para Raspberry Pi 2 B que también debería adaptarse a los modelos 1 B+, 3 B y 3 B+.\nAdopta la estética de la mítica Game Boy Color\nSólo necesitas 4 tornillos M2x5, no dudes en calentarlos para atornillarlos a la Game Boy más fácilmente\nLuego solo te quedará montar el resto con un poco de pegamento y ya estará todo listo.\n¡Feliz impresión a todos!\n\nPara aquellos interesados, aquí está el enlace a los controladores que uso.",
+ "use_cases": [],
+ "tags": [
+  "frambuesas",
+  "frambuesa pi",
+  "2",
+  "3",
+  "1",
+  "4",
+  "recinto",
+  "cubrir",
+  "funda",
+  "game boy",
+  "nintendo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US945eb48d17cd90/design/2025-11-24_bd9ee491567e48.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2197255.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

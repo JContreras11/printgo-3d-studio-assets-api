@@ -1,0 +1,136 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-estilo.3mf.xz",
+   "instance_id": "3251820",
+   "thumbnail": "previews/profiles/3251820.jpg",
+   "print_time_h": 14.8,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "A1",
+    "H2S",
+    "X2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "There are designed supports and brims in all of these Build plates, you will need remove them off of the completed prints, but its not very difficult.",
+    "creation_date": "2026-06-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 90435692,
+   "sha256": "75fbea7d162053e92df64dc7cafacd05f90c4099e8f5c45707df935c49330917",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2907957",
+ "title": "Estuche estilo caja para máquina de vapor",
+ "slug": "crate-style-case-for-steam-machine",
+ "url": "https://makerworld.com/en/models/2907957-crate-style-case-for-steam-machine",
+ "author": "user_1116934722",
+ "category": "console-cases",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "Así que he estado trabajando en esto por un tiempo, ¡y finalmente tengo mi estuche Steam Machine estilo caja listo para compartir!\nDado que Steam Machine se lanzó recientemente, tuve que realizar ingeniería inversa en las dimensiones y el diseño de la consola lo más cerca posible de las fotos y videos que Valve ha publicado hasta ahora. Diseñé el estuche en torno a esas referencias, incluidas las aberturas frontales para los puertos y el botón de encendido, pero siempre existe la posibilidad de que algo sea ligeramente diferente en el modelo de producción final.\nSi alguien de alguna manera consigue una Steam Machine antes que yo e imprime este estuche, avíseme lo antes posible si nota algún problema de ajuste, inconsistencia o áreas que deban ajustarse. Quiero solucionar cualquier problema lo más rápido posible una vez que la consola real esté disponible.\nEspero que disfrutes el modelo y me encantaría ver fotos si imprimes una.\n\nBoost Me¡Te desafío triplemente a presionar este botón y ver qué pasa! (Spoiler, ¡me ayuda mucho!) Dale a tu Steam Machine un aspecto más exclusivo con esta carcasa de consola estilo caja. El diseño convierte la consola en una estilizada caja de carga de madera a la vez que la mantiene completamente funcional y fácil de usar.\nLas aberturas de ventilación están integradas en la carcasa para ayudar a preservar el flujo de aire alrededor de la consola. Todos los puertos permanecen abiertos y accesibles, por lo que los cables y accesorios pueden permanecer conectados sin quitar la cubierta.\nEl botón de encendido también es fácil de alcanzar, pero está disfrazado de cabeza de clavo en la esquina inferior derecha de la caja. Esto mantiene la parte frontal del estuche con un aspecto limpio y al mismo tiempo combina el botón de forma natural con el diseño.\nEl resultado es un estuche decorativo para Steam Machine que agrega carácter a una configuración de juego sin bloquear las funciones cotidianas de la consola.\n\nCómo montar\nPaso 1: Retire las áreas de soporte y los bordes diseñados\nPaso 2: conecta las mitades superior e inferior de la caja\nPaso 3: Empuje todas las cabezas de los clavos decorativos hacia las esquinas.\nPaso 4: coloque el último clavo del botón de encendido en la esquina inferior derecha\nPaso 5: Colóquelo encima de Steam Machine y ¡¡¡y juegue!!!",
+ "use_cases": [],
+ "tags": [
+  "máquina de vapor",
+  "consola de vapor",
+  "consola de válvulas",
+  "funda de la consola",
+  "cubierta de la consola",
+  "funda protectora",
+  "caja de caja",
+  "caja de madera",
+  "caja de carga",
+  "caja de juego",
+  "caja de almacenamiento",
+  "cáscara de caja"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-06-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US45f5a94167b06b/design/ac8ba2b93d8601ed.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   666
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   666
+  ],
+  "previews/06.jpg": [
+   1000,
+   666
+  ],
+  "previews/07.jpg": [
+   1000,
+   666
+  ],
+  "previews/08.jpg": [
+   1000,
+   666
+  ],
+  "previews/09.jpg": [
+   1000,
+   666
+  ],
+  "previews/10.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/3251820.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

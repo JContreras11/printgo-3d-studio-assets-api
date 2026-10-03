@@ -1,0 +1,142 @@
+{
+ "files": [
+  {
+   "path": "model/funda-nintendo-2h30.3mf.xz",
+   "instance_id": "3251806",
+   "thumbnail": "previews/profiles/3251806.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "X1E",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "NEW and improved DSi Case",
+    "creation_date": "2026-06-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1268988,
+   "sha256": "e5027b4933b19d30e45334b23ee9d64fcc592fc431abd0b162ed36afcfabf1cd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-nintendo-2h36.3mf.xz",
+   "instance_id": "3190825",
+   "thumbnail": "previews/profiles/3190825.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "X2D",
+    "P2S",
+    "H2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "DSi Case NO AMS",
+    "creation_date": "2026-05-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1054888,
+   "sha256": "7025550aa3d78db11283e74bc7b679face0494240c10826f85320b41d305f67d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2859443",
+ "title": "Funda Nintendo DSi",
+ "slug": "nintendo-dsi-case",
+ "url": "https://makerworld.com/en/models/2859443-nintendo-dsi-case",
+ "author": "MihaiM1",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Estuche de impresión in situ Nintendo DSi\n\nSe recomiendan 3 bucles de pared.\nCapa de 0,20-0,24 mm\n\nSencillo, práctico y fácil de imprimir.\n\nFunda DS Lite:",
+ "use_cases": [],
+ "tags": [
+  "lugar de impresión",
+  "funda",
+  "nintendo",
+  "dsi",
+  "ds",
+  "nintendo ds",
+  "maleta de viaje",
+  "consola"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US28d8378092cc5b/design/673313b4e0509e53.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3251806.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3190825.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

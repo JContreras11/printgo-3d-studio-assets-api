@@ -1,0 +1,140 @@
+{
+ "files": [
+  {
+   "path": "model/caja-disquete.3mf.xz",
+   "instance_id": "1069049",
+   "thumbnail": "previews/profiles/1069049.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6426,
+      "weight_g": 65.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7905,
+      "weight_g": 70.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1765360,
+   "sha256": "bdf8fd2a1a920e1a966461aa19640194b3b6531d4f80e9e85206e8204d0eab45",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1077832",
+ "title": "Caja de disquete - Amstrad",
+ "slug": "floppy-disk-case-amstrad",
+ "url": "https://makerworld.com/en/models/1077832-floppy-disk-case-amstrad",
+ "author": "rob5on",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Aquí está mi modelo de caja para una unidad de disquete. La caja admite unidades de disquete de 3,5\".\n\nEl logotipo de Amstrad se utiliza con el permiso por escrito de @StamatisSarlis, de este proyecto:",
+ "use_cases": [],
+ "tags": [
+  "flexible",
+  "disco",
+  "disquete",
+  "funda",
+  "retro",
+  "consola",
+  "amstrad"
+ ],
+ "license": "CC0",
+ "release_date": "2025-02-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000001077832/design/2025-02-06_2cd3a41ea6cb4.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1069049.jpg": [
+   600,
+   349
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

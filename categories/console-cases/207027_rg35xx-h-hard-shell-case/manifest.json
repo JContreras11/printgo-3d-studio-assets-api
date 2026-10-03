@@ -1,0 +1,217 @@
+{
+ "files": [
+  {
+   "path": "model/rg35xx-h-3h06.3mf.xz",
+   "instance_id": "227149",
+   "thumbnail": "previews/profiles/227149.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 58% infill",
+    "profile_notes": "0.2 Layer Height 2 Wall Loops No rafts or supports 45 - 60% Gyroid infill",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "58%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10980,
+      "weight_g": 85.61,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3379908,
+   "sha256": "766cbe54086ed3b269c494531a38283e8a9fe01ced42ae6192871c1c597c84e3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rg35xx-h-2h18.3mf.xz",
+   "instance_id": "686088",
+   "thumbnail": "previews/profiles/686088.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Golden Triforce on the top part",
+    "creation_date": "2025-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3086,
+      "weight_g": 36.55,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5047,
+      "weight_g": 40.1,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3629484,
+   "sha256": "8ec56eac6ce311292372cf0562a3634678ef88dbfe6d94790e013379d6538f24",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "207027",
+ "title": "RG35XX H Estuche rígido",
+ "slug": "rg35xx-h-hard-shell-case",
+ "url": "https://makerworld.com/en/models/207027-rg35xx-h-hard-shell-case",
+ "author": "333helix",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Remezclé el diseño de @Printit usado originalmente para el RG353M para adaptarlo al RG35XX H\n\nTambién quité la marca para que funcionara mejor al imprimir carcasas estampadas, usando bases térmicas estampadas de alta temperatura como se muestra en las fotos.\n\n[Nota: el patrón que se muestra en la foto se logra con una base térmica específica y no forma parte del diseño]\n\nEl diseño cuenta con una bisagra delgada y resistente, un sistema de seguridad de pestillo único, un corte para cargar USB-C mientras está en el estuche y hendiduras internas en la carcasa para un ajuste perfecto.\n\n________\n\nLo que necesitarás para esta impresión:\n\nHoja de fieltro multiusos autoadhesiva y adhesiva (grosor de 1,5 mm - espesor de 2 mm) cortada a medida\n\nFilamento normal de impresora 3D para las juntas de bisagra (1,75 mm)\n\nCortaúñas o cortaalambres para cortar el filamento después de pasarlo por las bisagras.\n\n_________\n\nComenta como y comparte si te gustó el diseño.\n\nFeliz juego:)",
+ "use_cases": [],
+ "tags": [
+  "anbernico",
+  "rg35xx",
+  "rg35xx h",
+  "cáscara dura",
+  "funda duro",
+  "funda",
+  "portátil",
+  "retroarca",
+  "portátil para juegos",
+  "retrojuego",
+  "consola de juegos cideo",
+  "consola"
+ ],
+ "license": "BY-SA",
+ "release_date": "2024-02-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1b1d7ea11972a3/design/2024-02-26_78148f2ffe8ed.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   450
+  ],
+  "previews/02.png": [
+   1000,
+   628
+  ],
+  "previews/03.jpg": [
+   1000,
+   450
+  ],
+  "previews/04.jpg": [
+   1000,
+   614
+  ],
+  "previews/05.jpg": [
+   1000,
+   526
+  ],
+  "previews/06.jpg": [
+   687,
+   1440
+  ],
+  "previews/07.jpg": [
+   1000,
+   450
+  ],
+  "previews/profiles/227149.jpg": [
+   600,
+   315
+  ],
+  "previews/profiles/686088.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

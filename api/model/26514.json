@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-game.3mf.xz",
+   "instance_id": "22922",
+   "thumbnail": "previews/profiles/22922.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7891,
+      "weight_g": 79.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1418748,
+   "sha256": "ddd83be855571986d625576d411dc6ba95f8510d26129acd8ef95c4b315d6571",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "26514",
+ "title": "Estuche Game Boy Advance Box con Logo",
+ "slug": "game-boy-advance-box-case-with-logo",
+ "url": "https://makerworld.com/en/models/26514-game-boy-advance-box-case-with-logo",
+ "author": "dunnoz",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "No es mi modelo.\n\nSimplemente hice algunas ediciones para incluir un logo ya que el original no lo tenía.\n\neditar: Las disculpas subieron accidentalmente un modelo anterior sin logotipo, pero ya lo hemos solucionado.",
+ "use_cases": [],
+ "tags": [
+  "avance de gameboy",
+  "funda",
+  "juegos de los 90",
+  "consola de juegos",
+  "organizador"
+ ],
+ "license": "BY-NC",
+ "release_date": "2023-09-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf94fa2a0729d54/design/2023-09-27_bc868b952b5d9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   853
+  ],
+  "previews/02.jpg": [
+   1000,
+   1179
+  ],
+  "previews/profiles/22922.jpg": [
+   600,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora-2h54.3mf.xz",
+   "instance_id": "2548611",
+   "thumbnail": "previews/profiles/2548611.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "P2S",
+    "H2C",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.24mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "无需支撑，如果是A1机型则建议手动添加brim",
+    "creation_date": "2026-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1513800,
+   "sha256": "2cdb7bfaf22ce53c2538cff200240905c8ba226f7d65026ec3430e73c3d377cd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-protectora-3h36.3mf.xz",
+   "instance_id": "2593055",
+   "thumbnail": "previews/profiles/2593055.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1P",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "更宽松的版本，适配如图所示的保护壳",
+    "profile_notes": "如果你的Switch使用了 如图所示的这款磨砂/透明一体壳 ，由于壳体有两根用于打开Switch OLED支架的轴，使用原版模型可能会有点难以从斜挎包内抽出。 这个模型牺牲了一点点宽度，可以使游戏机更流畅的从保护套内抽出。 本次的模型包括了保护盖，并分为两盘打印；与原版保护壳不同，这次使用了0.2mm层高以确保更精细的打印效果。",
+    "creation_date": "2026-02-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1735952,
+   "sha256": "4e8c83e2130d0fba36d27e9ee900b77bb23688a59df093080160bfc2bc5449c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-protectora-42min.3mf.xz",
+   "instance_id": "2553793",
+   "thumbnail": "previews/profiles/2553793.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2C",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "适配外壳的顶盖，请勿修改缩放",
+    "profile_notes": "请 保持缩放为100.1%，不要进行修改！",
+    "creation_date": "2026-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1569076,
+   "sha256": "b423a0b2b36ff409c69c8baa061528cd0cf21c0293e475a2664cfe335a8b30cd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2332621",
+ "title": "La funda protectora de almacenamiento ultrafina Switch OLED evita que el joystick se raye, diseño extraíble desde el interior de la funda + apertura inferior para una carga cómoda",
+ "slug": "switch-oled-ultra-thin-storage-protective-case-pre",
+ "url": "https://makerworld.com/en/models/2332621-switch-oled-ultra-thin-storage-protective-case-pre",
+ "author": "simotsukiyuki",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "ACTUALIZACIÓN 2026.2.8: Se agregó una versión más holgada para adaptarse a la funda protectora que se muestra en la imagen a continuación:\n\nSi su Switch usa el estuche todo en uno esmerilado/transparente que se muestra en la figura, debido a que el estuche tiene dos ejes para abrir el soporte OLED del Switch, usar el modelo original puede hacer que sea un poco difícil sacarlo de una bolsa bandolera. Este modelo sacrifica un poco de ancho para permitir sacar la consola de la funda protectora con mayor facilidad.\nIntroducción del modelo\nAlmacenamiento ultradelgado, segunda entrega, que esta vez trae una funda protectora para el Switch OLED.\nMi Switch OLED tiene un estuche todo en uno ultradelgado, por lo que si el Switch no usa un estuche, puede ser relativamente ancho. En este funda, se recomienda colocar otra capa de cinta de tela de acetato dentro del estuche de almacenamiento (muy barato en Taobao) para reducir la fricción entre la consola portátil y la parte impresa y ayudar a asegurarla, para evitar rayar la carcasa de la consola.\nComo antes, el área de los joysticks se ha diseñado con espacio libre, de modo que incluso si la bolsa se agita vigorosamente, no rozará los joysticks, lo que proporciona una excelente protección.\nLa batería extendida de Switch y las versiones estándar no han sido probadas (la consola se vendió), pero también deberían ser utilizables.\nImpulsameHambre, comida, woo hoo",
+ "use_cases": [],
+ "tags": [
+  "switch",
+  "switch oled",
+  "funda protectora",
+  "protección de palanca de mando",
+  "juego",
+  "funda protectora para consola portátil",
+  "consola portátil",
+  "almacenamiento",
+  "consola de juegos",
+  "accesorios para juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91bdafa10d038e/design/42d14bc43539bbe6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2548611.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2593055.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2553793.jpg": [
+   600,
+   220
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

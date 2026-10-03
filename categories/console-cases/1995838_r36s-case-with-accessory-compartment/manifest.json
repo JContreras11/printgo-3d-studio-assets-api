@@ -1,0 +1,191 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-r36s-monocolor-4h36.3mf.xz",
+   "instance_id": "2765153",
+   "thumbnail": "previews/profiles/2765153.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Single-Color 6x2",
+    "profile_notes": "Für 6x2 Magnete 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 1328252,
+   "sha256": "cd85a01c933e4bb8eb1003c0993571fd8f0c3d7225dcb05a10b2e00683953076",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-r36s-multicolor-4h36.3mf.xz",
+   "instance_id": "2148359",
+   "thumbnail": "previews/profiles/2148359.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Multicolor without AMS (built-in pause) 8x3",
+    "profile_notes": "Für 8x3 Magnete 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-11-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1328784,
+   "sha256": "b3272de779f45a07dcd3359de108d74b72614dbc62acec91697eb2f83ffdde61",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-r36s-multicolor-4h42.3mf.xz",
+   "instance_id": "2765149",
+   "thumbnail": "previews/profiles/2765149.jpg",
+   "print_time_h": 4.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Multicolored with AMS 6x2",
+    "profile_notes": "Für 6x2 Magnete 0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1328688,
+   "sha256": "0a7fada9596ffb0a5059f4e3037798a8a6d0c000b98feb64c04c582d767ba393",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1995838",
+ "title": "Estuche R36S con compartimento para accesorios",
+ "slug": "r36s-case-with-accessory-compartment",
+ "url": "https://makerworld.com/en/models/1995838-r36s-case-with-accessory-compartment",
+ "author": "dickenserm",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Por favor considere darme un BOOST para ayudarme a continuar creando archivos gratuitos.\n\nEstuche R36S con compartimento para accesorios\n\nActualización: 2026-03-12: Se agregaron perfiles de impresión para imanes de 6x2\n\nEsta es mi remezcla de un estuche R36S con un compartimento para accesorios para cables USB y ranuras para adaptadores USB Wi-Fi y USB OTG.\nMi agradecimiento a Cyberdyne por su gran modelo y el permiso para este remix, pero también al creador original y su modelo.\n\nPuede elegir entre tres perfiles de impresión diferentes:\nMulticolor con AMS\nMulticolor sin AMS (pausa incorporada)\ncolor único\n\nMis mayores cambios en el remix:\nHueco para botones de hombro mejor impresos (compatibilidad con botones de hombro originales e impresos en 3D)\nReceso para encendido/reinicio (para evitar encendido accidental)\nTodo en una placa de impresión, sin soportes, solo tapa con borde retraído\n\nSe requiere adicionalmente:\n4 imanes (8×3 mm o 6x2 mm)\nUn trozo de filamento como pasador de bisagra (yo usé PLA)\nOpcionalmente un poco de superpegamento para los imanes.\n\nNo dudes en subir perfiles adaptados y siempre estoy abierto a sugerencias de mejora.\n\nNo dudes en ver también mis otras creaciones.\n\nBoost MeMe encantaría recibir un Boost",
+ "use_cases": [],
+ "tags": [
+  "r36s",
+  "consola",
+  "funda",
+  "retro",
+  "viajar",
+  "almacenamiento",
+  "retrojuego",
+  "juegos retro",
+  "juego de azar",
+  "consola de juegos",
+  "roms",
+  "portátil"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-11-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc68c4012678d92/design/2025-11-14_6535e44276daa8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   750,
+   1000
+  ],
+  "previews/02.png": [
+   750,
+   1000
+  ],
+  "previews/03.png": [
+   750,
+   1000
+  ],
+  "previews/04.png": [
+   750,
+   1000
+  ],
+  "previews/05.png": [
+   750,
+   1000
+  ],
+  "previews/profiles/2765153.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2148359.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2765149.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

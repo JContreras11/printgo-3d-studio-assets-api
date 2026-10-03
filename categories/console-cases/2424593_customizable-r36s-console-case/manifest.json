@@ -1,0 +1,133 @@
+{
+ "files": [
+  {
+   "path": "model/caja-consola-2h54.3mf.xz",
+   "instance_id": "2659262",
+   "thumbnail": "previews/profiles/2659262.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "P1P",
+    "P2S",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "X1",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Magnets D8x3 mm / with text",
+    "creation_date": "2026-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1948760,
+   "sha256": "cd4581905ede722de6672e7f8df12595c1406a97fb9a18e8f3df86b13de7ab52",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-consola-2h48.3mf.xz",
+   "instance_id": "2664309",
+   "thumbnail": "previews/profiles/2664309.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "H2C",
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "X1",
+    "P2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Magnets D8x3 mm / without text",
+    "creation_date": "2026-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1778344,
+   "sha256": "13e930123626a78a512c28d285e2777e94e791acceb14d5629146cd80d8c9c1b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2424593",
+ "title": "Caja de consola R36S personalizable",
+ "slug": "customizable-r36s-console-case",
+ "url": "https://makerworld.com/en/models/2424593-customizable-r36s-console-case",
+ "author": "Yordan876",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este es un estuche para almacenar y transportar la popular consola de juegos retro R36S. Considero que un cierre magnético es mucho más duradero que un cierre a presión y quería que el diseño de la consola fuera visible en el frente. Como sólo pude encontrar uno u otro, creé mi propio diseño. El compartimento debajo de la pantalla puede contener accesorios como un cable de carga o una llave Wi-Fi.\n\nPrecaución: No encaja con los botones originales sino con estos botones mejores:\n\nLos archivos incluyen el modelo con y sin texto en formatos STL y OBJ/MTL. Los archivos ZIP con los archivos OBJ/MTL ya contienen los colores de los diferentes elementos.\n\nEl modelo también se puede personalizar utilizando el modelador paramétrico:\nDiámetro y espesor de los imanes redondos (el modelo aumenta el diámetro especificado con una tolerancia de 0,3 mm y la profundidad con una tolerancia de 0,1 mm)\nVisibilidad y tamaño del texto (desactívelo en el Personalizador si desea agregar su propio texto en la segmentación)\nDado que lamentablemente el color se pierde en el Personalizador, aquí tienes una breve guía:\nImporte el archivo STL a Bambu Studio\nAsigna el color de las decoraciones a todo el modelo.\nDividir el modelo en partes (no en objetos)\nEn la pestaña \"Objetos\", asigne el color de la carcasa a las piezas _1 y _2\nUtilice los números de color en la lista de objetos o la herramienta de colorear para sus propios ajustes. Por ejemplo, me gustó el texto blanco en una pantalla negra.\nPara las líneas finas del texto, se debe activar 'Arachne' como generador de muro. También habilité 'Solo una pared en la primera capa'.\n\nPara conectar las piezas de la carcasa, inserte un trozo de filamento del color de la carcasa en la junta.\n\nImpúlsameSi te gusta este modelo, te agradecería que me dieras un me gusta, una calificación o incluso un impulso.",
+ "use_cases": [],
+ "tags": [
+  "arcos",
+  "consola",
+  "juego",
+  "nes",
+  "playstation",
+  "transmisión de sueños",
+  "retro",
+  "n64"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-02-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US301381a79168cc/design/5a4297afd8b4a404.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/2659262.jpg": [
+   600,
+   502
+  ],
+  "previews/profiles/2664309.jpg": [
+   600,
+   502
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

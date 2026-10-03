@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-joy.3mf.xz",
+   "instance_id": "2381996",
+   "thumbnail": "previews/profiles/2381996.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "A1 mini",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-01-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 836052,
+   "sha256": "602122e764046920c9dc3b5d60daef9a1a7441b656359ec4dafa3191be2478d0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2193630",
+ "title": "Estuche Joy-Con para Nintendo Switch",
+ "slug": "nintendo-switch-joy-con-case",
+ "url": "https://makerworld.com/en/models/2193630-nintendo-switch-joy-con-case",
+ "author": "Xiao_doudou",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Funda para Nintendo Switch.\nPuede almacenar hasta 4 controladores Joy-Con, 4 muñequeras y 2 empuñaduras de control.\nEl tamaño y la altura se han modificado varias veces para evitar que se atasquen los botones del controlador.\nEl A1 mini también se puede imprimir utilizando materiales como PLA y PETG. El modelo mostrado utiliza Bambu Lab PLA Basic Red.\nSi tiene alguna sugerencia, no dude en dejar un comentario y hágamelo saber.\nBoost Me ¡Muchas gracias por tu apoyo, significa mucho para mí! ¡Muchas gracias!~~~",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "switch",
+  "joycon",
+  "controlador switch",
+  "almacenamiento",
+  "joy-con",
+  "consola de juegos"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-01-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000002193630/design/2026-01-03_38ab556fb36408.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2381996.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

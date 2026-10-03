@@ -1,0 +1,289 @@
+{
+ "files": [
+  {
+   "path": "model/nintendo-switch-21h42.3mf.xz",
+   "instance_id": "1989256",
+   "thumbnail": "previews/profiles/1989256.jpg",
+   "print_time_h": 21.7,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 46,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "A2L",
+    "H2S",
+    "P1S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "All parts + Switch 2 logo lid",
+    "creation_date": "2025-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 2833468,
+   "sha256": "8dc53c2e0854881b0b8997c4dcb5ad1e44b968656a16a7b4516ab873ff2c0102",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-5h.3mf.xz",
+   "instance_id": "1989293",
+   "thumbnail": "previews/profiles/1989293.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2S",
+    "H2C",
+    "P2S",
+    "A1",
+    "P1S",
+    "A2L",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Logo Mario lid",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1866348,
+   "sha256": "6b9bf8c9bd78e74615e42c43e389c7968ddcf897f4ce6a58cd4bae174627458f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-5h06.3mf.xz",
+   "instance_id": "1989290",
+   "thumbnail": "previews/profiles/1989290.jpg",
+   "print_time_h": 5.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "P2S",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1E",
+    "A1",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "1up mushroom lid",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2040336,
+   "sha256": "4d2f7377bbadb52eb645e942dce52481cdb16d3f8f74578913d0d5cb079a1623",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-5h18.3mf.xz",
+   "instance_id": "1989281",
+   "thumbnail": "previews/profiles/1989281.jpg",
+   "print_time_h": 5.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2S",
+    "X1E",
+    "P1S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Pikachu lid",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2073892,
+   "sha256": "561bbac9f09b943919bb5da5ff729f1050903ab6c0c63c6ecb6c16857f893aff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-5h30.3mf.xz",
+   "instance_id": "1989282",
+   "thumbnail": "previews/profiles/1989282.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "X1",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2S",
+    "X1E",
+    "P1S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Cyberpunk 2077 lid",
+    "creation_date": "2025-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2403508,
+   "sha256": "6d1a791c8966ff0ba51c14bfe5c52fc6b2dfe790cc04691d58c6164af04ab848",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1860024",
+ "title": "Nintendo Switch 2 - Caja de viaje XXL",
+ "slug": "nintendo-switch-2-xxl-travel-box",
+ "url": "https://makerworld.com/en/models/1860024-nintendo-switch-2-xxl-travel-box",
+ "author": "The_magic_squid",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "¡DETENER!\n¡Ya está disponible una versión nueva y mejorada!\nLa Nintendo Switch 2 Travel Case Ultimate Edition ha sustituido oficialmente a este modelo e incluye importantes mejoras:\nMontaje completamente sin tornillos\nDiseño más resistente y duradero\nSistema de retención de cartuchos de juego mejorado\nNueva opción de tapa con ASA de impresión in situ\nVersiones Unified Standard y XXL\nSi planea imprimir este funda, le recomiendo encarecidamente que utilice la Ultimate Edition.\nDescárgalo aquí:\n\nCaja de viaje XXL para Nintendo Switch 2: diseño modular de alta capacidad\nPediste más espacio después de mi versión Slim, ¡aquí está! La XXL Switch 2 Box mantiene el mismo concepto pero con una base mucho más profunda y un gran compartimento interno. Perfecto para llevar tu Switch 2, cargador, Joy-Cons adicionales y hasta dos Pro Controllers. La tapa almacena 24 cartuchos de juego y la pantalla se sujeta de forma segura para que nada toque el cristal.\n\nSi solo necesitas un diseño delgado, mira mis otros modelos:\n\nSwitch 2 delgado Switch 1 y OLED delgado\nQué está incluido (perfil principal = 7 platos)\n1 Switch 2 Base: Sostiene la consola, 2 Joy-Cons y ambas muñequeras.\n2 Tapas con logo de Switch 2: Incluye 24 ranuras para juegos. (Requiere AMS para el color; tapas temáticas como Zelda, Pikachu, Splatoon y Cyberpunk también disponibles como perfiles de impresión separados)\n3 Base XXL: Espacioso almacenamiento para cargador, Joy-Cons o hasta 2 Pro Controllers.\n4 Piezas de fijación: Bisagras, cerraduras y soportes para correas.\n5 Pasador de retención alternativo: ajuste ligeramente más ajustado si es necesario.\n6 inserciones de controlador Pro: funciona con ambas versiones (v1 y v2). Use una banda elástica simple en el anillo provisto; pásela sobre el controlador y dentro de la ranura para fijarlo en su lugar.\n7 divisores de base: un divisor incluido; cabe en 3 posibles ranuras para organizar su configuración.\n\nCaracterísticas clave\nAlmacenamiento adicional: Se adapta al cargador, Joy-Cons y hasta 2 Pro Controllers\nTapa con 24 ranuras para juegos.\nBase segura para pantalla: nada toca el cristal\nCierre mecánico sólido: tornillos reales, bisagras no impresas.\nSistema de pasador reemplazable para fácil mantenimiento\nInserciones y divisores modulares para una personalización completa\nSe requiere AMS solo para la tapa (la base y todas las demás partes son impresiones de un solo color)\nDetalles de montaje\nEste modelo utiliza 6 tornillos M3 × 40 mm para una configuración robusta y confiable:\n2 tornillos = bisagras que conectan la tapa y la base\n2 tornillos = anclajes de clip de tapa\n2 tornillos = anclajes de clip de base donde los clips se traban de forma segura para cerrar la caja\nEl pasador de retención del Switch 2 está impreso por separado para mayor resistencia (impreso en su costado) y fácil reemplazo si alguna vez es necesario.\n\nAquí hay una imagen del montaje del inserto para el Switch 2:\n\nNotas\nBasado en los comentarios de la comunidad sobre mi diseño Slim: más grande, más fuerte y más versátil.\nTodas las piezas están disponibles en planchas organizadas para una impresión cómoda y un posprocesamiento sencillo.\nDiseñado completamente desde cero para garantizar un ajuste perfecto y una protección estable para su Switch 2.\nLa tapa es exactamente la misma que en esta versión Slim, por lo que si ya imprimiste este modelo, ¡puedes actualizar a la base XXL sin volver a imprimir la tapa!",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "switch",
+  "switch 2",
+  "nintendo switch",
+  "caja",
+  "viajar",
+  "apoyo",
+  "joycon",
+  "joy-con",
+  "controlador profesional",
+  "controlador profesional 2",
+  "caja grande"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4b59006a8e513c/design/5ba337a1b0fe0d11.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   512,
+   512
+  ],
+  "previews/02.gif": [
+   1024,
+   768
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1989256.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1989293.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1989290.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1989281.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1989282.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

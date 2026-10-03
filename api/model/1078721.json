@@ -1,0 +1,154 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-magnetico.3mf.xz",
+   "instance_id": "1070061",
+   "thumbnail": "previews/profiles/1070061.jpg",
+   "print_time_h": 4.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print as is. If you need to change the magnet holes you can do it by resizing each magnet on the project",
+    "creation_date": "2025-02-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10830,
+      "weight_g": 69.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#0086D6"
+       },
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6741,
+      "weight_g": 66.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2099780,
+   "sha256": "f4ba302f359de26d4e01b989d7272ffa4766cd99ede8aee4636f0ee3109ce577",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1078721",
+ "title": "Estuche magnético Trimui Smart Pro - Edición Fallout",
+ "slug": "trimui-smart-pro-magnetic-case-fallout-edition",
+ "url": "https://makerworld.com/en/models/1078721-trimui-smart-pro-magnetic-case-fallout-edition",
+ "author": "jpleite",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Alégrate: aquí tienes un estuche rígido magnético con temática de Fallout para la consola de juegos portátil Trimui Smart Pro Retro. Se agregó un tema fallido en la parte superior del estuche para impresión multicolor y orificios magnéticos para un imán de 5x3 mm. Simplemente use un trozo de filamento en la bisagra para conectar la parte superior e inferior. Como beneficio adicional, también puedes colocar la espuma que viene con el dispositivo como protección adicional de la pantalla (ver fotos).",
+ "use_cases": [],
+ "tags": [
+  "trimuismartpro",
+  "por tres",
+  "funda",
+  "juego de azar",
+  "accesorios de juego",
+  "consola",
+  "retro",
+  "retroarcada",
+  "retrojuego",
+  "polvillo radiactivo"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-02-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfba87d66d2e5d1/design/2025-02-06_00a2c1aa420c68.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.png": [
+   1000,
+   561
+  ],
+  "previews/03.png": [
+   1000,
+   561
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/06.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/1070061.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

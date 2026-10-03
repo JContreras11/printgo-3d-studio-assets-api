@@ -1,0 +1,202 @@
+{
+ "files": [
+  {
+   "path": "model/caja-resistente-13h30.3mf.xz",
+   "instance_id": "1612268",
+   "thumbnail": "previews/profiles/1612268.jpg",
+   "print_time_h": 13.5,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "A1",
+    "X1E",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "0.2 Layer 3 Walls Not for A1-Mini",
+    "creation_date": "2025-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 1794836,
+   "sha256": "ceba06bd546fead6b29c96d596771b9423a1a554ee12506b252ab830b244b676",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-resistente-1h06.3mf.xz",
+   "instance_id": "2174915",
+   "thumbnail": "previews/profiles/2174915.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "H2D",
+    "X1",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "wider Insert for Switch-Console",
+    "profile_notes": "The width of the insert has been increased by 0.5mm on both sides to compensate for printing tolerances, if any. Breite des Einsatzes um 0,5mm auf beiden Seiten erweitert, um Drucktoleranzen auszugleichen, falls vorhanden.",
+    "creation_date": "2025-11-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1281756,
+   "sha256": "841e34adf9a0cce71966dc6a8561451da43fedf59e3c31fe515bcc538fa6067a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-resistente-3h30.3mf.xz",
+   "instance_id": "1625140",
+   "thumbnail": "previews/profiles/1625140.jpg",
+   "print_time_h": 3.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Joycon left, bigger insert",
+    "profile_notes": "Put the joycon holder to the left and added a bigger insert to fit the power supply 0,2 layer height 2 walls 15% infill no supports",
+    "creation_date": "2025-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1165232,
+   "sha256": "919f5466aa35e784814a422de0e6ba83bebfc19afa862f1334741a4cd07fda1b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1536795",
+ "title": "Caja resistente Ultimate Nintendo Switch 1 con inserciones",
+ "slug": "ultimate-nintendo-switch-1-rugged-box-with-inserts",
+ "url": "https://makerworld.com/en/models/1536795-ultimate-nintendo-switch-1-rugged-box-with-inserts",
+ "author": "Ambossa3D",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Caja resistente Ultimate Nintendo Switch 1 con inserciones intercambiables\n\nEste funda se basa en el modelo ejemplar de Whity.\n\nTras la creación de una Rugged Box para Switch 2, recibí numerosas solicitudes de una carcasa compatible con el Switch original (no OLED).\nEste estuche acomoda cómodamente la consola, el cargador, los cables y los juegos.\nEl resultado, entregado rápidamente:\n\nLas inserciones que flanquean los controladores son intercambiables, lo que brinda a los usuarios la flexibilidad de utilizar sus inserciones adicionales preferidas.\n\nLa tapa de la caja está disponible en dos versiones: una con el logo y otra sin él.\n\nLa tapa proporciona un amplio espacio para un paño fino de microfibra, lo que ofrece una protección mejorada de la pantalla. Sin embargo, sigo recomendando aplicar un protector de pantalla.\n\nTodos los componentes se imprimen sin problemas y no requieren soportes.\nEl PLA fue mi material preferido, excepto los cierres, que son PETG para una flexibilidad superior. Sin embargo, el PETG debería resultar igualmente adecuado para todos los componentes.\n\nLos cierres exhiben una durabilidad y resistencia a la rotura excepcionales. En caso de rotura, recomiendo un TPU de alta resistencia.\n\nEl montaje requiere seis tornillos M3x30 para los cierres y las bisagras.\n\nDescargo de responsabilidad:\n\nEste es un accesorio no oficial hecho por fans. Nintendo y sus marcas comerciales son propiedad de Nintendo Co., Ltd y se utilizan en este documento únicamente con fines descriptivos. Este producto no tiene licencia, ni está respaldado ni afiliado a Nintendo de ninguna manera.\nÚselo bajo su propio riesgo.\nNo asumo ninguna responsabilidad por daños a su consola o accesorios.\nEl fabricante renuncia a toda responsabilidad por daños al hardware, pérdida de datos u otros problemas derivados del uso. Nintendo y Nintendo Switch son marcas registradas.\n\nSi bien se incorpora un sello, dudo de la integridad impermeable del estuche debido a su construcción de PLA. Otros materiales pueden producir resultados impermeables, aunque no puedo garantizarlo.:)",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "nintendo switch",
+  "accesorios nintendo switch",
+  "accesorio nintendo switch",
+  "funda nintendo switch",
+  "switch",
+  "caja",
+  "funda"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-06-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb04e7d8d693432/design/2025-06-20_9bca0b44df932.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/1612268.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2174915.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1625140.jpg": [
+   600,
+   270
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

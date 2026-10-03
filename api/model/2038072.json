@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/caja-impresion.3mf.xz",
+   "instance_id": "2198552",
+   "thumbnail": "previews/profiles/2198552.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 3 walls, 8% infill",
+    "profile_notes": "0.16mm layer 3 walls 8% infill Printed in PLA Tough+ but Normal PLA is fine",
+    "creation_date": "2025-11-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2525016,
+   "sha256": "62b8ae7369af606b99e923ff0bd2b80defdfc2e812f0b7d510ed100ea0d534c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2038072",
+ "title": "Caja de impresión in situ R36s",
+ "slug": "r36s-print-in-place-box",
+ "url": "https://makerworld.com/en/models/2038072-r36s-print-in-place-box",
+ "author": "Brainer2873",
+ "category": "console-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Esta es la versión 2 de mi consola R36s. Diseñado para ser una caja con pestillo, de una sola pieza, que se puede imprimir en el lugar para mantener su consola R36s dentro y eliminar daños. No requiere ensamblaje. Se puede utilizar para almacenamiento o viaje para mantener su consola protegida.\n\nEste perfil se imprimió en PLA Tough+ para mayor resistencia, pero el PLA normal funcionará igual de bien.\n\nSimplemente imprima la caja, retírela de la placa y afloje las bisagras y el pestillo de los pasadores.\n\nDecidí diseñar esto para que no sea necesario ningún ensamblaje ni piezas adicionales: ¡simplemente imprima y use! La versión actualizada parece más atractiva y los espacios libres para las bisagras permiten un mejor movimiento de las mismas.\n\nTodos los comentarios e ideas que tengas para mejorar son bienvenidos:)",
+ "use_cases": [],
+ "tags": [
+  "artilugio",
+  "caja",
+  "funda",
+  "r36s",
+  "funda r36s",
+  "consola",
+  "almacenamiento",
+  "viajar",
+  "accesorios de viaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7bd85956b1b68b/design/2025-11-24_d385883dfd6308.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2198552.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

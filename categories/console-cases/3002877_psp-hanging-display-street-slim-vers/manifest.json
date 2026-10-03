@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/pantalla-colgante.3mf.xz",
+   "instance_id": "3371658",
+   "thumbnail": "previews/profiles/3371658.jpg",
+   "print_time_h": 18.8,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1S",
+    "A2L",
+    "H2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Display case for PSP street/slim model - Version 1.2 added files for the inclusion of 6x2 mm Magnets.",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 885456,
+   "sha256": "4f2349a265c19887a968a0f2fb1c59ef55b2cce09303527a269a6c426ab8908e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3002877",
+ "title": "Pantalla colgante para PSP (versión Street/Slim.)",
+ "slug": "psp-hanging-display-street-slim-vers",
+ "url": "https://makerworld.com/en/models/3002877-psp-hanging-display-street-slim-vers",
+ "author": "Q313",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Una caja expositora de dos partes para los modelos PSP Street o Slim\n\nDependiendo de la frecuencia con la que se retire la placa superior para su uso, recomiendo instalar los imanes en los bordes. Si se utiliza \"sólo\" como caja de presentación, también es suficiente la fricción del material (ajuste por fricción)\nLos imanes utilizados tienen unas dimensiones de 9 mm x 4,4 mm x 2,5 mm.\nEl vidrio acrílico utilizado tiene un grosor de 2 mm (deben caber hasta 3 mm de grosor, como lo planeé originalmente)",
+ "use_cases": [],
+ "tags": [
+  "psp",
+  "vitrina",
+  "consola",
+  "delgado",
+  "calle"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-07-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USad6e43b307eaaf/design/dd2adbc17edad332.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3371658.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,263 @@
+{
+ "files": [
+  {
+   "path": "model/droide-fundido-9h30.3mf.xz",
+   "instance_id": "1615791",
+   "thumbnail": "previews/profiles/1615791.jpg",
+   "print_time_h": 9.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "P1P",
+    "H2D",
+    "X1E",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-06-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1402668,
+   "sha256": "0da6eaa312330aa77235f3d4301058ad8913706170a04f40c43ebc32cce93197",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/droide-fundido-17h.3mf.xz",
+   "instance_id": "1615796",
+   "thumbnail": "previews/profiles/1615796.jpg",
+   "print_time_h": 17,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 13510740,
+   "sha256": "a4acc7161f21625899d82c7e6aad6258cfd30fedca1064ee4bebed93ac710bd9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/droide-fundido-30min.3mf.xz",
+   "instance_id": "1615797",
+   "thumbnail": "previews/profiles/1615797.jpg",
+   "print_time_h": 0.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "X1E",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-06-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1395376,
+   "sha256": "849f70ef9d8cf2c517a0468985868ec9e0f512aa23b99e9726183370b410b48f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/droide-fundido-6h.3mf.xz",
+   "instance_id": "1615794",
+   "thumbnail": "previews/profiles/1615794.jpg",
+   "print_time_h": 6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "P1P",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-06-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1366148,
+   "sha256": "ca1e3f5f7882760691475926d4188648835252465500e7f26f82b8f37b7fd72e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1539750",
+ "title": "Droide fundido H4",
+ "slug": "droid-cast-h4",
+ "url": "https://makerworld.com/en/models/1539750-droid-cast-h4",
+ "author": "JasonHutchins",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Esta carcasa de forma extraña puede recordar vagamente a las consolas de una época pasada, pero no lo es y definitivamente es completamente diferente y de ninguna manera debería ser considerada similar a ellas por nadie. No DEJES de lado tus SUEÑOS, constrúyelos. El modelo final resultante debe tener alrededor de 8\"x7\"x3\".\n\nUtilicé PLA gris mate (ceniza) para la base y los botones, PLA básico gris (claro) para las paredes y la tapa, PLA mate (marfil) blanco y carbón (negro) para la cubierta del LED de alimentación.\n\nOtras partes son las siguientes:\n\nprocedente de Ameridroid:\nOdroid-H4 [solo el modelo base ya que los otros modelos tienen diferentes puertos io en la parte posterior]\nfuente de alimentación de 15v\nSSD NVME de 2 TB\n16 GB de RAMDDR5\n\neBay:\nRetroStevo: Sega Dreamcast Nuevo conjunto de etiquetas adhesivas de repuesto personalizadas para consola\n\nAmazonas:\n4: sdlqy: almohadillas adhesivas para parachoques pies de goma transparentes\n4: pzsmocn: dupont 200 piezas conector adaptador de 1 pin de paso de 2,54 mm carcasa hembra terminal de zócalo negro\n1: areme: adaptador USB 3.0 de 90 grados\n1: ventilador delgado Thermalright TL-C12015 de 120 mm\n1: dmwd: pulsador momentáneo antivandálico impermeable de metal ultracorto de 16 mm Switch carcasa plateada cabeza alta de 5/8\"\n1: fidioto: cable alargador USB 1 macho a 4 hembra\n1: Saitech: 4 unidades de cable de extensión USB 3.0 de 15 cm a macho a hembra en ángulo recto de 90 grados\n1: chanzón: 5mm naranja LED\n\notras partes:\n4: pernos m3x5\n4: pernos m3x20\n2: pernos m3x8\n6: arandela plana negra m3x7 od.\n\nAsamblea:\nEstas instrucciones suponen que ya configuró la BIOS para Odroid H4 y Batocera para su NVME. No hice esto y tuve que desmontar todo para volver y hacerlo después de haber completado la compilación.\n\nConecte la batería RTC y un adaptador USB de 90 grados al H4.\n\nDa la vuelta al H4 y conecta la RAM y NVME.\n\nEngarce los conectores Dupont en el LED naranja y en el botón pulsador momentáneo.\n\nInserte el cable USB fidioto 1 a 4 a través del interior de las ranuras USB de la base, está ajustado pero usé un poco de pegamento caliente para ayudar a mantenerlos en su lugar.\n\nUsando 4 pernos m3x5, monte el H4 en la base.\n\nUsando 4 pernos m3x20 y 4 arandelas m3x7mm, monte la base en las paredes.\n\nConecte el cable USB de 90 grados de Saitech al adaptador USB Areme 90 en la parte posterior del H4.\n\nConecte el cable saitech de 90 grados al cable USB fidioto 1 a 4, asegúrese de que el cable fidioto 1 a 4 esté enrollado debajo de los puertos hembra en la parte frontal de la carcasa para que los cables no interfieran con el ventilador más adelante.\n\nInserte el LED naranja chanzon de 5 mm en la cubierta del LED, deslícelos a través de la tapa desde la parte superior y luego péguelos en su lugar.\n\nVoltee la tapa y pegue el botón en blanco (expulsión) en el lado derecho de la tapa.\n\nVoltee la tapa una vez que el pegamento se haya secado y monte el ventilador en el interior de la tapa. Parece que debido a que imprimí la tapa de pie, los orificios para los pernos que agregué no se imprimieron al tamaño adecuado. Tuve que usar inserciones roscadas para remediar esto. Los tornillos que utilicé vinieron con el ventilador.\n\nColoque la base/paredes al lado de la tapa y luego conecte los tres juegos de cables al H4. El ventilador es obvio, pero el poder Switch irá a los pines en el extremo posterior derecho contando hacia el frente como en blanco, en blanco, negro, rojo, y el LED naranja irá a los pines cerca del frente izquierdo contando hacia atrás como blanco rojo negro.\n\nCierre la tapa deslizando el frente hacia la pared y la parte posterior más arriba, y baje lentamente la parte posterior asegurándose de que todos los cables estén ordenados a los lados del ventilador y el disipador de calor. Con la parte delantera correctamente encajada en su lugar, puede levantar con cuidado la parte trasera para asegurarse de que nada pellizca, tira o interfiere con cualquier otra cosa. Con todo cerrado, utiliza 2 pernos de m3x8 y 2 arandelas de m3x7 para mantener la tapa en su lugar desde atrás.\n\nVoltee el dispositivo y coloque 4 de las patas de goma adhesivas sdlqy en la base.\n\nAsegúrese de que todo esté funcionando como está ensamblado y, cuando esté satisfecho, pegue el botón de encendido impreso en la parte superior del Switch de energía momentánea real que se puede ver a través del soporte de la tapa.\n\nAplique las etiquetas adhesivas de repuesto Dreamcast como desee\n\n¡Disfruta y publica tus compilaciones! Es un paso en las instrucciones, ¡eso significa que tienes que hacerlo!:p",
+ "use_cases": [],
+ "tags": [
+  "sega",
+  "transmisión de sueños",
+  "consola",
+  "caparazón",
+  "odroide",
+  "h4",
+  "android h4",
+  "funda",
+  "sueño",
+  "elenco",
+  "batocera"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5dd51e5dcbecff/design/2025-08-10_29b87e2c28eba.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1615791.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1615796.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1615797.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1615794.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

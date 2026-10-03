@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-anbernic.3mf.xz",
+   "instance_id": "1422709",
+   "thumbnail": "previews/profiles/1422709.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1406716,
+   "sha256": "ebc0cda7cd51f724978b8460a0312ba11d27a17c14b467da5547d8558ef17d0a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1375266",
+ "title": "Estuche Anbernic RG40XXV",
+ "slug": "anbernic-rg40xxv-case",
+ "url": "https://makerworld.com/en/models/1375266-anbernic-rg40xxv-case",
+ "author": "XmonikerX",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Estuche Anbernic RG40XXV\n\nProteja su consola portátil de juegos retro con algo de estilo.\n\n¡Juega con los colores y haz que combine con el tuyo!\n\nNo se necesitan soportes. AMS es imprescindible. (a menos que solo quieras una tapa sólida)\n\n¡Divertirse!\n\nMembresía¡Un artículo perfecto para tus tiendas de juegos retro online!",
+ "use_cases": [],
+ "tags": [
+  "anbernico",
+  "rg40xxv",
+  "portátil",
+  "juego de azar",
+  "retro",
+  "funda",
+  "consola",
+  "videojuego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe4bf28336e6d7d/design/2025-05-01_ede0431bb8f018.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1422709.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

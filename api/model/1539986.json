@@ -1,0 +1,150 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-transporte-8h18.3mf.xz",
+   "instance_id": "1616117",
+   "thumbnail": "previews/profiles/1616117.jpg",
+   "print_time_h": 8.3,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "profile_notes": "由于需要多色打印，推荐使用光板面板，同时在打印前彻底清洁面板。 由于该模型较大，在多色打印中放不下擦拭塔，所以取消了。同时我将冲刷耗材的倍数调整到了2倍。 需要注意的是，在打印首层时建议观察一下换料时是否有拉丝遗留在面板上，需要及时暂停清楚。",
+    "creation_date": "2025-06-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 5474364,
+   "sha256": "79b738973a6d9fb8da97e91f9c202c6367bcce58177041255f0555076cc3ca03",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estuche-transporte-7h54.3mf.xz",
+   "instance_id": "1640549",
+   "thumbnail": "previews/profiles/1640549.jpg",
+   "print_time_h": 7.9,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "无需AMS，分件打印，迷你丘大头像配置",
+    "profile_notes": "1.盖子打印完拆除支撑需小心 2.眼睛打印时，X-Y内轮廓尺寸补偿+0.2，X-Y外轮廓尺寸补偿-0.2 3.其他图案打印时，X-Y外轮廓尺寸补偿-0.2 4.所有图案打印时，Z方向高度调整为0.8 5.所有配置参数都设置好了，直接打开3mf文件打印即可 6.盖子颜色，我选择的是POLYMAKER LITE的奶油色，供参考",
+    "creation_date": "2025-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 3650284,
+   "sha256": "7a7d85b58891bdca4fa6d06b22a0828431c49ace97ee658d0da198a52b179170",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1539986",
+ "title": "Estuche de transporte para consola Switch 2 con tema de cuco en miniatura",
+ "slug": "miniature-cuckoo-theme-switch-2-console-carrying-c",
+ "url": "https://makerworld.com/en/models/1539986-miniature-cuckoo-theme-switch-2-console-carrying-c",
+ "author": "user_3978883209",
+ "category": "console-cases",
+ "source_category": "Moda > Bolsos",
+ "description": "Basado en el modelo de estuche de transporte de Zentral_E, incorporé un patrón de cuco en miniatura en la tapa y agregué el logo de NS2 en la base, haciéndolo más llamativo.\n\nAl mismo tiempo, he reforzado algunos detalles que se dañan fácilmente en la estructura del modelo original.\n\nSe requieren seis tornillos M3 X 20 y sus correspondientes tuercas.\n\nPara evitar que la consola Switch 2 y los controladores vibren dentro del estuche durante el transporte, se recomienda colocar un acolchado de espuma en la parte superior de la tapa.\n\nLa espuma para el área del controlador debe tener aproximadamente 10 cm de alto y la espuma para el área de la consola debe tener aproximadamente 15 cm de alto.",
+ "use_cases": [],
+ "tags": [
+  "interruptor2",
+  "switch",
+  "almacenamiento",
+  "cuco miniatura",
+  "nintendo",
+  "caja",
+  "bolsa",
+  "pokémon",
+  "sujeto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US653160cf36244/design/2025-06-22_fc5eb72c8cce9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   563,
+   1000
+  ],
+  "previews/02.jpg": [
+   563,
+   1000
+  ],
+  "previews/03.jpg": [
+   563,
+   1000
+  ],
+  "previews/04.jpg": [
+   563,
+   1000
+  ],
+  "previews/profiles/1616117.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1640549.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

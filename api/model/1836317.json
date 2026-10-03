@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-tapa.3mf.xz",
+   "instance_id": "1961363",
+   "thumbnail": "previews/profiles/1961363.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "A1 mini",
+    "X1 Carbon",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "adaptive layerheight helps a ton here",
+    "creation_date": "2025-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1907016,
+   "sha256": "c360ee73fc7367484bbd6e778aa7f99aa0a55d195c446c8ee82118480f26d29e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1836317",
+ "title": "[Nuevo] Estuche con tapa para Nintendo 3DS XL",
+ "slug": "new-nintendo-3ds-xl-lid-shell-case",
+ "url": "https://makerworld.com/en/models/1836317-new-nintendo-3ds-xl-lid-shell-case",
+ "author": "Maker_Laurin",
+ "category": "console-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Sólo una tapa superior para una (nueva) Nintendo 3DS XL. Cubre las cámaras. No los uso de todos modos.\n\nEsto fue creado con la ayuda de los escaneos de:\n\nMe inspiré mucho para crear este modelo en el agarre del soukakudo, que puedes ver en las imágenes.\nEnlace al agarre:",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "3ds",
+  "3dsxl",
+  "juego de azar",
+  "consola",
+  "pokémon"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-09-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US13c004fed3c7f7/design/2025-09-28_12a1e1912465c8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1961363.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

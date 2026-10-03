@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/funda-consola.3mf.xz",
+   "instance_id": "2849197",
+   "thumbnail": "previews/profiles/2849197.jpg",
+   "print_time_h": 82.9,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3,
+    "profile_title": "0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 19562852,
+   "sha256": "f989d2a3885b8375639696b97cc2068bf1ad20e08d0609ec63a4b89f3239cfcf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2583134",
+ "title": "Funda para consola y mando Xbox Oreo Edition modelo 3d",
+ "slug": "xbox-oreo-edition-console-and-controller-cover-3d",
+ "url": "https://makerworld.com/en/models/2583134-xbox-oreo-edition-console-and-controller-cover-3d",
+ "author": "orndynamics",
+ "category": "console-cases",
+ "source_category": "Arte > Esculturas",
+ "description": "Descripción\nLa edición Oreo Inspired Xbox Controller se ha convertido en una de las versiones más icónicas jamás lanzadas por Xbox.\nEste modelo ha sido cuidadosamente recreado en 3D para entusiastas, coleccionistas y creadores que quieran llevar este diseño exclusivo al mundo de la impresión 3D.\n¿Por qué existe esta edición de Xbox?\nOreo Edition nació de una colaboración promocional entre Xbox y la marca Oreo, creada para celebrar el universo de los juegos a través de un diseño divertido y altamente reconocible.\nEl contraste entre el blanco y el negro representa el aspecto clásico de la galleta Oreo, mientras que el efecto de la leche goteando en las empuñaduras transformó el controlador en un artículo coleccionable instantáneo, algo entre tecnología y cultura pop.\nEsta versión se convirtió rápidamente en un artículo codiciado, pero se distribuyó de forma limitada a través de campañas promocionales, lo que la hizo poco común.\nAhora puedes imprimir tu propia versión.\n¿Se ajustará a mi impresora?\nSí.\nEl modelo ha sido adaptado y optimizado para:\nImpresoras grandes\nImpresoras medianas\nImpresoras compactas\nLas partes se han dividido estratégicamente para garantizar:\nmejor calidad de impresión\nmenos apoyo\nmontaje sencillo\nmáxima compatibilidad\nPreguntas frecuentes\n¿El controlador funciona electrónicamente?\nEste modelo es una réplica física para colección, decoración, cosplay o proyectos personalizados.\nTambién puedes usarlo como base para tus propios mods y proyectos electrónicos.\n¿Necesito imprimir en multicolor?\nNo necesariamente.\nPuedes:\nimprimir en piezas separadas por color\nutilizar cambios de filamento manuales\npintar después de imprimir\naplicar acabado automotriz premium\n¿El modelo ya está optimizado para imprimir?\nSí. El diseño se ajustó pensando en los creadores reales:\nsuperficies limpias\najustes revisados\ntolerancias probadas\nposprocesamiento mínimo\nQuieres apoyar el proyecto\nSi este modelo te ayudó o te llamó la atención, considera darle un IMPULSO al diseño.\nTu apoyo:\nBoost Meayuda a seguir desarrollando modelos exclusivos\nFomenta nuevos proyectos gratuitos.\nfortalece la comunidad maker\nCada impulso realmente marca la diferencia.",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "xbox series s",
+  "cubierta de xbox",
+  "carcasa de xbox",
+  "funda xbox",
+  "modo xbox",
+  "personalización de xbox",
+  "controlador personalizado",
+  "capa",
+  "cobertura",
+  "protector"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1fe9cff76b899d/design/1c62ba4f5bc19de5.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.webp",
+  "previews/04.webp",
+  "previews/05.jpg",
+  "previews/06.webp",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   774,
+   761
+  ],
+  "previews/02.png": [
+   749,
+   737
+  ],
+  "previews/03.webp": [
+   640,
+   853
+  ],
+  "previews/04.webp": [
+   504,
+   495
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.webp": [
+   640,
+   480
+  ],
+  "previews/07.png": [
+   755,
+   735
+  ],
+  "previews/profiles/2849197.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

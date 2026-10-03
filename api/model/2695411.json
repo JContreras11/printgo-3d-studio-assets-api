@@ -1,0 +1,147 @@
+{
+ "files": [
+  {
+   "path": "model/caja-consola-39h06.3mf.xz",
+   "instance_id": "2987224",
+   "thumbnail": "previews/profiles/2987224.jpg",
+   "print_time_h": 39.1,
+   "plates": 7,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "P2S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "H2S",
+    "creation_date": "2026-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 6384540,
+   "sha256": "35bd477ebed66c01e0c2ac090736ca0d8452cfa93bf45ad0b683f0d2d422f1b4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-consola-41h48.3mf.xz",
+   "instance_id": "2987254",
+   "thumbnail": "previews/profiles/2987254.jpg",
+   "print_time_h": 41.8,
+   "plates": 7,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "A1 Only",
+    "creation_date": "2026-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 6228660,
+   "sha256": "547650e3288ec00aa7c0658496b650a34f0b7722d497ff8d572bd909329efbee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2695411",
+ "title": "Caja de consola prototipo OG Xbox",
+ "slug": "og-xbox-prototype-console-case",
+ "url": "https://makerworld.com/en/models/2695411-og-xbox-prototype-console-case",
+ "author": "pizonbongo",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "ImpúlsamePor favor, deja un impulso. Esta es una versión remezclada del prototipo original de Xbox (versión 7), inspirada en el icónico diseño conceptual inicial de Xbox. El prototipo original era una famosa pieza de escaparate de aluminio en forma de X revelada en 2000.\nPara esta remezcla, reelaboré el modelo para mejorar la imprimibilidad y el ensamblaje:\nEl modelo se ha dividido en varias partes para adaptarse mejor a los volúmenes de construcción estándar y reducir la dificultad de impresión.\nSe agregaron uniones de clavijas triangulares personalizadas para una alineación precisa durante el ensamblaje.\nLos tacos también proporcionan mayor resistencia estructural y un ajuste más limpio y seguro.\nDiseñado para hacer que el posprocesamiento y el ensamblaje sean más sencillos y confiables\nEsta versión mantiene el aspecto audaz y nostálgico del prototipo original y al mismo tiempo lo hace mucho más práctico para la impresión y visualización en 3D.\nPerfecto para fanáticos de los juegos retro, coleccionistas o cualquiera que busque construir una pieza única de la historia de Xbox.\n\nRemezclado cortando el modelo y añadiendo uniones triangulares para facilitar la impresión y un montaje más resistente y preciso.\n\nDiseño de cubierta de consola Xbox\n\nCubierta del puerto del controlador Xbox de Fallout Vault-Tec\n\nCubierta de la consola Xbox de Fallout\n\nFunda para consola Xbox Peely de Fortnite",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "ps5",
+  "consola",
+  "decoración",
+  "juego de azar"
+ ],
+ "license": "BY",
+ "release_date": "2026-04-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe75e9312e87233/design/3aade4213c9cacf1.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2987224.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2987254.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "files": [
+  {
+   "path": "model/nintendo-switch-17h54.3mf.xz",
+   "instance_id": "2547504",
+   "thumbnail": "previews/profiles/2547504.jpg",
+   "print_time_h": 17.9,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "A1",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Full box - Switch logo lid",
+    "creation_date": "2026-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3485608,
+   "sha256": "fbd43aac03ecccc843d7eadc38a66d94ac5e350d82197ef379239b54b24353d6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-14h18.3mf.xz",
+   "instance_id": "2706066",
+   "thumbnail": "previews/profiles/2706066.jpg",
+   "print_time_h": 14.3,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Full of Joy! - 0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Colori scelti da mia figlia (ma mi piacciono!), materiali scelti solo per colore. LEGGERE BENE! Usato il profilo standard per tutto ma per il PETG accelerato al massimo perche con i parametri standard mi è fallita la stampa sia per adesione che per sforzo estrusione. Stampato quindi a velocità Ludicrous e messo a 280 la temperatura del filamento… perfetto! A questo punto ho simulato con i parametri i risultati di velocità, fatemi sapere come va! Aggiornamento 05-Marzo-26: sistemato meglio le velocità e la distribuzione dei pezzi sui piatti, cambiato i profili di temperature del PETG e lavorato sulle accelerazioni del progetto e sul riempimento, fatemi sapere!!",
+    "creation_date": "2026-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3131632,
+   "sha256": "49fbbb6fc3ca354b125a6866fc4a92d3e9796fa4429f5481ef7a4ba564cdeacc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-4h30.3mf.xz",
+   "instance_id": "2548761",
+   "thumbnail": "previews/profiles/2548761.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2D",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Sheikah slate lid",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2006708,
+   "sha256": "112f5b70be029c9db78d7b7a2605f4cc061cf986d3e41112e74ad14ea10bf9bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-4h36.3mf.xz",
+   "instance_id": "2548744",
+   "thumbnail": "previews/profiles/2548744.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Pikachu lid",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1906264,
+   "sha256": "e645d0f46dff09f93329053481b28254f9cdcd58c16137570a3c26d9b373a00e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-4h48.3mf.xz",
+   "instance_id": "2548749",
+   "thumbnail": "previews/profiles/2548749.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2D",
+    "H2S",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Splatoon lid",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1994204,
+   "sha256": "85e3ffe3a5583c064914f07e1628915865000c207e32cbd24f7a347aad45b7d2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-4h54.3mf.xz",
+   "instance_id": "2548737",
+   "thumbnail": "previews/profiles/2548737.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Zelda lid",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2353652,
+   "sha256": "0d6b67a35ce25155b36f7bc266b82cdd98b45b661044e4620867c79282af771c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nintendo-switch-5h06.3mf.xz",
+   "instance_id": "2548754",
+   "thumbnail": "previews/profiles/2548754.jpg",
+   "print_time_h": 5.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "X1E",
+    "H2C",
+    "X1",
+    "A1",
+    "H2D",
+    "H2S",
+    "H2D Pro",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "1UP lid",
+    "creation_date": "2026-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1840372,
+   "sha256": "fe3fff96d15ada398b867bdd42194e484d2e4b5e37acd22f0ece4a39cfbfe205",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2331536",
+ "title": "Nintendo Switch & Switch OLED - Caja de viaje XXL",
+ "slug": "nintendo-switch-switch-oled-xxl-travel-box",
+ "url": "https://makerworld.com/en/models/2331536-nintendo-switch-switch-oled-xxl-travel-box",
+ "author": "The_magic_squid",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Versión actualizada disponible\nYa está disponible una nueva y mejorada versión V2 sin tornillos de este estuche de viaje.\nPrincipales mejoras:\nNo se requieren tornillos: está completamente ensamblado con clips para una impresión más fácil y una mayor durabilidad.\nRanuras para cartuchos rediseñadas para una retención más segura del juego a lo largo del tiempo\nTapas y clips reemplazables para una personalización y mantenimiento más fáciles\nReducción de la tensión de las bisagras para mejorar la confiabilidad a largo plazo\nSi está imprimiendo este funda por primera vez, le recomiendo encarecidamente que utilice la nueva versión V2.\nEste modelo original sigue estando disponible para usuarios que prefieren específicamente el diseño con tornillos.\n\nEnlace para la nueva versión:\n\nEstuche de viaje Nintendo Switch / Switch OLED XXL\n\nDespués del éxito de mi funda XXL para Switch 2, mucha gente pidió el mismo concepto para Nintendo Switch (V1) y Switch OLED, ¡así que aquí está!\nEsta caja de viaje y almacenamiento XXL está diseñada para transportar todo su equipo de forma segura y al mismo tiempo mantener todo organizado.\n¿Qué cabe dentro?\nLa base grande le brinda espacio para:\nBase del controlador profesional\nCargador\nbase en la estación\nJoy-Cons y correas adicionales\nAmiibo\nAccesorios\n…o incluso tu snack para el viaje\nLa tapa incluye almacenamiento para hasta 24 cartuchos de juego.\nPerfil de impresión principal (6 planchas)\nInterruptor + soporte para correa\nTapa con el logotipo de Nintendo Switch (la misma tapa que mi Switch Slim Case, para que puedas actualizar y ahorrar tiempo de impresión de la tapa)\nbase principal\n2 pestillos + retenedor de soporte del interruptor\nBase del controlador profesional\nDivisor de base\nDiseños de tapa adicionales\nOtros perfiles incluyen tapas temáticas: Zelda, Pokémon, Splatoon y más. ¡Elige tu favorito!\nMontaje (tornillos M3×40 ×6)\nColoque la tapa en la base.\nInserte 2 tornillos en las bisagras traseras (afuera adentro)\nInserte 2 tornillos en los pestillos frontales.\nInserte los últimos 2 tornillos en los puntos de gancho de la base frontal.\nAgregue la base del controlador y/o los divisores\nInserte el retenedor del soporte del interruptor en el soporte.\nColoque el soporte en la base.\nInserte el interruptor (primero la parte superior, luego recorte la parte inferior)\nDesliza las correas en sus ranuras.\nCierra el funda, ¡listo para comenzar!\nSeguridad del controlador profesional\nLa cuna lo sujeta bien, pero para mayor seguridad puedes añadirle una banda elástica:\nSujételo al anillo, páselo por encima del controlador y engánchelo a la pestaña frontal.\nConsejos de impresión\nImprime muy bien en PLA\nEvite Silk PLA (riesgo de rotura de la bisagra de unión de capas más débiles)\nPara mayor durabilidad: se recomienda PETG, ABS o ASA\nSoportes mínimos (principalmente el soporte del interruptor) + borde pequeño para pestillos\nMira mis otros modelos:\nCaja delgada para interruptor (V1/OLED)\nFundas Switch 2 Slim y XXL\nEstuche de viaje delgado para cartuchos de juegos\n¡Disfruta y lleva tu configuración completa de Switch a cualquier parte!",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "switch",
+  "switch clásico",
+  "switch originales",
+  "original",
+  "switch oled",
+  "oled",
+  "nintendo switch",
+  "interruptor1",
+  "caja",
+  "viajar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb14d73bde7de33/design/21cc5b481a7d6041.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   640,
+   480
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2547504.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2706066.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2548761.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2548744.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2548749.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2548737.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2548754.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

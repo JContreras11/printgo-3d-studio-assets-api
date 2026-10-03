@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/psp-vita.3mf.xz",
+   "instance_id": "3102493",
+   "thumbnail": "previews/profiles/3102493.jpg",
+   "print_time_h": 11.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2S",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2C",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "creation_date": "2026-05-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1505616,
+   "sha256": "84824808a20538ebf70bba19c0b3f174a921703b1f210a1729eda31b4a16d202",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2790214",
+ "title": "Serie PSP Vita 1000, ¡estuche Cary resistente!",
+ "slug": "psp-vita-1000-series-rugged-cary-case",
+ "url": "https://makerworld.com/en/models/2790214-psp-vita-1000-series-rugged-cary-case",
+ "author": "ModeledTreasury",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost Me¿Tienes un impulso sin usar? Me encantaría tenerlo;)\n\nSinceramente, agradecería mucho cualquier comentario:)Caja de transporte resistente para PS Vita 1000, diseñada para el modelo PCH-1000 original con un ajuste personalizado y protección para viajes. Cuenta con una carcasa resistente con bisagras, cierre de pestillo seguro y acolchado interno protector para ayudar a proteger la consola contra golpes, rayones y presión durante el transporte. Con un tamaño compacto para su transporte y suficiente espacio para un protector de pantalla, este estuche es una opción práctica para mantener segura una PS Vita 1000 en casa o mientras viaja.\n\nDiseñada para una protección diaria confiable, esta resistente caja de transporte para PS Vita 1000 combina una cubierta exterior resistente con un diseño interno personalizado que sujeta la consola cómodamente y ayuda a evitar el movimiento dentro de la caja. El diseño está pensado específicamente para la PS Vita 1000 original, no para el modelo 2000 más delgado, por lo que las proporciones pueden mantenerse ajustadas y el ajuste puede parecer más diseñado específicamente.\nEs lo suficientemente pequeño como para transportarlo fácilmente y al mismo tiempo brindarle a Vita la protección adecuada contra golpes, raspaduras y presión en una bolsa. El forro de espuma en la parte superior e inferior agrega amortiguación, mientras que el cierre con bisagras y pestillo le brinda una sensación de seguridad y lista para viajar.",
+ "use_cases": [],
+ "tags": [
+  "psp",
+  "psp1000",
+  "consola",
+  "juego de azar",
+  "accesorios de juego",
+  "llevar",
+  "estuche de transporte",
+  "escabroso",
+  "portátil",
+  "electrónico",
+  "accesorio electronico"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US95dd90a7b705f8/design/0a527c6a6de56229.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   936,
+   692
+  ],
+  "previews/02.jpg": [
+   912,
+   692
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3102493.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

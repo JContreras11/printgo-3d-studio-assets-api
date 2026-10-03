@@ -1,0 +1,136 @@
+{
+ "files": [
+  {
+   "path": "model/tapa-bateria.3mf.xz",
+   "instance_id": "3844761",
+   "thumbnail": "previews/profiles/3844761.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P1P",
+    "H2S",
+    "A1 mini",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 624936,
+   "sha256": "a577e937a97b902773163ddfbe1c3b04b354bc92415537a6f07c2972e033f9a7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3379528",
+ "title": "Tapa de batería - Mando Inalámbrico Xbox One 1708",
+ "slug": "battery-cover-wireless-controller-xbox-one-1708",
+ "url": "https://makerworld.com/en/models/3379528-battery-cover-wireless-controller-xbox-one-1708",
+ "author": "user_761730614",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Tapa de batería para un controlador inalámbrico para Xbox One - Modelo 1708.\n\nHabía muchas cubiertas de batería para los controladores de Xbox, pero ninguna que se ajustara correctamente al controlador 1708 de mi hijo. Algunos eran demasiado grandes en la parte de atrás y no me quedaban bien, así que me tomé el tiempo para hacer este. Esto es para el tipo de controlador donde el D Pad tiene forma de cruz.\n\nImpresa verticalmente de lado, necesitarás soportes, pero obtendrás un acabado mucho mejor que si imprimes la portada \"en su parte posterior\". Al ver que este controlador es un tipo más antiguo, es más que probable que el tuyo también se haya perdido.",
+ "use_cases": [],
+ "tags": [
+  "xbox",
+  "controlador",
+  "batería",
+  "cubrir",
+  "funda",
+  "cubre",
+  "reemplazo"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-10-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc4f5cb9a68d058/design/c03ddbcba122f5dd.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   679
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/06.jpg": [
+   1000,
+   562
+  ],
+  "previews/07.jpg": [
+   1000,
+   562
+  ],
+  "previews/08.jpg": [
+   1000,
+   562
+  ],
+  "previews/09.jpg": [
+   1000,
+   562
+  ],
+  "previews/10.jpg": [
+   1000,
+   562
+  ],
+  "previews/11.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/3844761.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

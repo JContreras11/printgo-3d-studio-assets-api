@@ -1,0 +1,475 @@
+{
+ "files": [
+  {
+   "path": "model/nueva-placa-1h18.3mf.xz",
+   "instance_id": "2727022",
+   "thumbnail": "previews/profiles/2727022.jpg",
+   "print_time_h": 1.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Pikatchu Themed - Top & bottom covers",
+    "profile_notes": "V2 - A1 mini compatibility added. supports required for the small nibs only (or just cut them off after printing as plates hold well without)",
+    "creation_date": "2026-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4810696,
+   "sha256": "b4e22683297b7400c10f3e939e7f4087b6f8a3b50b5be9600835f29512eccff4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nueva-placa-2h18.3mf.xz",
+   "instance_id": "2899982",
+   "thumbnail": "previews/profiles/2899982.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Mewtwo Option 1 & 2 - NEW3ds - Top & Bottom Cover plates",
+    "profile_notes": "v2 : A1 mini profile Added. Mewtwo themed Pokemon Cover plates - 2 options (4 colour - Black, Purple, Mid Grey & White (or light grey) Option 1 plate - Plain black background (see Pic) Option 2 plate - Purple Pokeball Background (see pic) My Print - Didnt have mid grey to use - so character looks a bit washed out, (I used smooth plate with pattern texture) 1hr Print on my A1 Supports required for small overhanging nibs on both plates (but I just cut them off as covers hold in place very well without the & they tend to break off on first removal due to PLA brittleness anyway)",
+    "creation_date": "2026-04-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 14486872,
+   "sha256": "25316b54692c5a2109efcb82e50fb82be654c2b537dafa5dce7709d9db37e34e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nueva-placa-2h24.3mf.xz",
+   "instance_id": "3642283",
+   "thumbnail": "previews/profiles/3642283.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Pokemon - Mimikyu N3ds top & bottom plates",
+    "profile_notes": "Pokemon Mimikyu - Removeable Face Plates (top & Bottom) for ‘NEW 3DS’ You can turn Ironing OFF (as its face down), I've included some Ai created colour alternatives for ideas - as who has the right colours to hand right ??! (Sorry - I didnt have the right colours for my test print ) N3ds plates- Make sure supports are on for small nibs on end. (although I just cut off the nips on completion to make it easyer to install and remove - they tend to break on first removal anyway)",
+    "creation_date": "2026-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 5369176,
+   "sha256": "9274f81064485c8ca5983340efcc8b7c95c7f60640269fa3c8335d6e3da8c678",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nueva-placa-2h36.3mf.xz",
+   "instance_id": "2937797",
+   "thumbnail": "previews/profiles/2937797.jpg",
+   "print_time_h": 2.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Snorlax - N3ds Top & Bottom Cover plates",
+    "profile_notes": "‘New 3DS’ Pokemon Themed Cover plates - 4x Colour Snorlax Pokemon with pokeball background. OPTION 1 You'll need these colours for the print - Black, cream, Brown, Turq Blue (Choose the Pokemon characters closest colours for best result (for all non black colours) - You CAN also swap the colours like in the example images using Bambuu Studio. OPTION 2 A simplified version using just 2 colours (eg black and white/silver in my option on plate 2) using BambuStudio you can make Snorlax white/silver outline and infill colour the same as the background contrasting colour eg black, - So, you can use any 2 contrasting colours you like for the covers & no need for precise colours. (black and silver, brown and cream etc - can use an endless amount of combinations.) - POST/SHARE YOUR COMBO RESULTS! Make sure supports are ON, Ironing can be turned off (as top is inside of panels)",
+    "creation_date": "2026-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 6736464,
+   "sha256": "f85e23e437dce00741a793487335f7bc50337dcaf1ca902e7e3af242a8ca226c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nueva-placa-3h36.3mf.xz",
+   "instance_id": "2798021",
+   "thumbnail": "previews/profiles/2798021.jpg",
+   "print_time_h": 3.6,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Opt1&2 - Eevee covers - N3ds",
+    "profile_notes": "v3 - A1 mini compatibility Added. Eevee themed N3ds top cover along with pokeball theme base cover in same contrasting colours. New 3DS only (removable covers). 2 Options included - Eevee full face on top panel, separate base on second plate (so you can alter colour if preferred.) Full body Eevee on top panel, use base panel as above. Supports ON for supporting small nibs (but I just cut the off for ease of installing and removing - they tend to break in PLA anyway on first removal and plates fit really well so theyre not needed.)",
+    "creation_date": "2026-04-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 7237252,
+   "sha256": "a4fdf8c4fab7c6813b7e9698a0e68a0cdf08e977e445ace7cb1526af9d1fbafd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nueva-placa-6h42.3mf.xz",
+   "instance_id": "2802803",
+   "thumbnail": "previews/profiles/2802803.jpg",
+   "print_time_h": 6.7,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Pokemon Pokeball Top & Bottom N3ds & N3dsXL/LL",
+    "profile_notes": "V4 : 21/9/26 : New 3DS XL/LL covers also added as requested. V3 : 14/4/26 : A1 mini plates added for compatibility Pokeball Themed faceplates for 'NEW 3DS' & NEW 3DS XL/LL' ONLY standard size N3ds faceplates - Turn OFF Supports (as they're are only required for the small nibs - but i tend to cut them off before fitting as plates are such a good fit) N3ds XL/LL Covers - Support needs to be ON due to overhangs. (N3ds XL covers are courtesy of Nitrous - https://makerworld.com/en/models/2404196-3ds-xl-pokeball?designId=2404196-3ds-xl-pokeball#profileId-2635368)",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 22037280,
+   "sha256": "5d90b234b750b878be75053243f54590c558fb0601c2f7f0a1090af0c1d4c0fd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nueva-placa-9h12.3mf.xz",
+   "instance_id": "2802786",
+   "thumbnail": "previews/profiles/2802786.jpg",
+   "print_time_h": 9.2,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Gengar face N3ds/N3dsXL",
+    "profile_notes": "V5 - New 3DS XL/LL covers added as requested by user V4 - A1 mini compatibility added. Pokemon Gengar face - Removeable Face Plates for ‘NEW 3DS’ & ‘NEW 3ds XL/LL’ 2 Options Available in the file options 1 has seperate plates for top and bottom - so you can alter bottom colours mix if you wish. option 2 both parts on one plate (Gengar in ‘black with red’ outline - Remainder - ‘white and purple’ colours can easily be altered to any colours you might have available eg Navy with white pokeballs looks nice). (New3ds only) You can turn Ironing OFF (as its face down), N3ds plates- Make sure supports are on for small nibs on end. (although I just cut off the nips on completion to make it easyer to install and remove - they tend to break on first removal anyway) N3ds XL/LL covers - base cover needs tree supports (should be ON already - but check)",
+    "creation_date": "2026-06-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 18951500,
+   "sha256": "8a3943f59a80452224f83b02a2a38672dcaaeca13fb8b34cb45671d6d0a1cf9c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2482732",
+ "title": "NUEVA placa de cubierta superior e inferior 3DS (y XL) - Pokémon",
+ "slug": "new-3ds-xl-cover-plate-top-bottom-pokemon",
+ "url": "https://makerworld.com/en/models/2482732-new-3ds-xl-cover-plate-top-bottom-pokemon",
+ "author": "nealNoEyes",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "¡Placas de cubierta con temática Pokémon perfectamente ajustadas para tu nueva 3DS! Después de descubrir problemas de tamaño con los diseños existentes, modifiqué estas placas existentes específicamente para los nuevos modelos 3DS (no compatibles con versiones XL o 3DS anteriores).\n\nNOTA: ESTOS NO FUNCIONAN EN 'Bambu-HANDY' EN LA APLICACIÓN ANDROID/iOS (LOS COLORES O PATRONES SON 'MODIFICADORES' Y POR LO TANTO NO APARECEN EN LA APLICACIÓN) - DEBE IMPRIMIRLOS DESDE 'Bambu-STUDIO'\n\nVersión de Pikachu: N3ds\nIncluye ilustraciones detalladas de Pikachu.\nVersión completa del personaje de Pikachu: utiliza imágenes con contornos oscuros para obtener mejores resultados: los detalles finos se muestran perfectamente sobre fondos más claros.\nVersión de Eevee: N3ds\nSet completo con Eevee en el plato superior.\nDiseño de Pokéball a juego en la placa inferior en combinaciones de colores a juego.\n\nVersión Gengar: N3ds y N3ds XL/LL\nSet completo con Gengar en el plato superior.\nDiseño de Pokéball a juego en la placa inferior en combinaciones de colores a juego.\n\nVersión Gengar: N3ds y N3ds XL/LL\nDiseño de patrón de Pokéball coordinado en la placa inferior superior en esquemas de color ROJO/BLANCO contrastantes.\n\nVersión Mewtwo: N3ds\nJuego completo con Mewtwo dividido sobre la placa superior e inferior.\n2 opciones, fondo negro liso y fondo de Pokeball alternativo.\nVersión Mimikyu: N3ds\nJuego completo con Mimikyu en la parte superior y placa inferior con pokebolas.\nImprima inteligentemente:\nConsejo para ahorrar tiempo: deshabilite el \"planchado\" en su configuración ya que las planchas se imprimen boca abajo\nOptimizado para una impresión confiable con soportes mínimos (no se requieren soportes para N3ds (puntas cortadas al imprimir), SE requieren soportes para n3dsXL/LL debido a los salientes)\nDiseñado con una ubicación precisa de las pestañas para un ajuste perfecto en los nuevos modelos 3DS (o las corté para que sea más fácil de colocar o quitar, ya que no son necesarias)\nOTRAS PORTADA AQUÍ -\n\nNew3DS con temática de Zelda aquí:",
+ "use_cases": [],
+ "tags": [
+  "3ds",
+  "accesorios 3ds",
+  "nuevo3ds",
+  "nuevos 3ds",
+  "pokémon",
+  "pikatchu",
+  "placa de cubierta",
+  "eevee",
+  "pokemon",
+  "pokémon ir"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-03-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7f56df4f79d349/design/6b075d418aab4cba.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.png",
+  "previews/11.png",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg",
+  "previews/17.jpg",
+  "previews/18.jpg",
+  "previews/19.jpg",
+  "previews/20.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   896,
+   882
+  ],
+  "previews/08.jpg": [
+   1000,
+   1000
+  ],
+  "previews/09.jpg": [
+   1000,
+   1000
+  ],
+  "previews/10.png": [
+   896,
+   1195
+  ],
+  "previews/11.png": [
+   890,
+   886
+  ],
+  "previews/12.jpg": [
+   896,
+   855
+  ],
+  "previews/13.jpg": [
+   758,
+   758
+  ],
+  "previews/14.jpg": [
+   776,
+   776
+  ],
+  "previews/15.jpg": [
+   815,
+   815
+  ],
+  "previews/16.jpg": [
+   896,
+   921
+  ],
+  "previews/17.jpg": [
+   896,
+   896
+  ],
+  "previews/18.jpg": [
+   1000,
+   1333
+  ],
+  "previews/19.jpg": [
+   1000,
+   999
+  ],
+  "previews/20.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/2727022.jpg": [
+   600,
+   616
+  ],
+  "previews/profiles/2899982.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3642283.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2937797.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2798021.jpg": [
+   600,
+   585
+  ],
+  "previews/profiles/2802803.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2802786.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

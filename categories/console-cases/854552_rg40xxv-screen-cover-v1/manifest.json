@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/cubierta-pantalla.3mf.xz",
+   "instance_id": "803532",
+   "thumbnail": "previews/profiles/803532.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5897,
+      "weight_g": 28.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 582396,
+   "sha256": "4fd009d84e8d70fa86dd0f50bca446dce0cf61759123d17047de889c44410223",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "854552",
+ "title": "Cubierta de pantalla RG40XXV V1",
+ "slug": "rg40xxv-screen-cover-v1",
+ "url": "https://makerworld.com/en/models/854552-rg40xxv-screen-cover-v1",
+ "author": "lvalkyrie",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Hola a todos.\n\nEste es mi primer modelo 3D. Estaba buscando una cubierta de pantalla para el RG40XXV y no encontré ninguna, así que hice esto.\n\nSiéntete libre de remezclarlo y mejorarlo.\n\nLo imprimí tanto en PETG (foto) como en PLA para la prueba, ambos temas encajaban bien (no demasiado apretados pero no se desprenden de una bolsa)\n\n¡Espero que te resulte útil!",
+ "use_cases": [],
+ "tags": [
+  "anbernico",
+  "rg40xxv",
+  "accesorio de consola",
+  "funda",
+  "funda de pantalla"
+ ],
+ "license": "BY-NC",
+ "release_date": "2024-12-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4e53d4d42711dd/design/2024-12-06_1329c02a0f3c8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   810,
+   1440
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/profiles/803532.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

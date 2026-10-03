@@ -1,0 +1,112 @@
+{
+ "files": [
+  {
+   "path": "model/caja-consola.3mf.xz",
+   "instance_id": "2313387",
+   "thumbnail": "previews/profiles/2313387.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Supports required",
+    "creation_date": "2025-12-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2072980,
+   "sha256": "5fe19deada89871819659f6d35c95048443979d66da019c0731d40c551fdfc0e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2135920",
+ "title": "Caja de consola táctil RPi-5",
+ "slug": "rpi-5-touch-console-enclosure",
+ "url": "https://makerworld.com/en/models/2135920-rpi-5-touch-console-enclosure",
+ "author": "Kbfly",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Boost Me muestra tu soporteSoporte para pantalla táctil de escritorio Raspberry Pi 5 (7\")\n\nsoftware recomendado\nstream-pi.com\n\nUn soporte de escritorio compacto impreso en 3D diseñado para sostener una Raspberry Pi 5 y una pantalla táctil DSI de 7 pulgadas como una sola unidad limpia. El Pi se monta detrás de la pantalla para una configuración ordenada, un ángulo de visión cómodo y acceso completo a los puertos.\n\nDiseñado alrededor de:\n* Kit Vemico Raspberry Pi 5 de 8 GB de RAM con enfriador activo\n\n*\n* Pantalla táctil IPS DSI de 7\" (800×480, capacitiva)\n\n*\nCaracterísticas\n* Creado para Raspberry Pi 5 (las versiones anteriores funcionarán en pantalla)\n*\n* Se adapta a la pantalla táctil DSI de 7\" listada\n*\n* Ángulo de visión estable y apto para escritorio\n*\n* Acceso abierto a USB, HDMI, GPIO y alimentación,\n* En el futuro podría trabajar en una versión mejor con extensor de tarjeta SD para montaje exterior.\n*\n* Tamaño compacto con enrutamiento de cables limpio\n*\n* Permite el flujo de aire para un enfriamiento activo\n*\nImpresión y hardware\n*Se requieren soportes\n*\n* Imprime bien en PLA, PETG o ABS\n*\n* Utiliza 4 tornillos y arandelas M2.5\nInstalación\n1. Asegúrese de que la Raspberry Pi esté firmemente sujeta a la parte posterior de la pantalla, con el cable plano conectado.\n2. Alinee con cuidado la unidad combinada y deslice la pantalla y la Raspberry Pi hacia el costado de la impresión 3D, teniendo cuidado de no enganchar los puertos USB ni ejercer presión sobre el cable plano. debe quedar bien ajustado.\n3. Instale los tornillos y el cable de alimentación. Utilicé una pistola de calor en el cable de alimentación para crear un ángulo de 90 grados.\n*\nIdeal para tableros, paneles de automatización del hogar, configuraciones de juegos retro y uso general de escritorio Pi.",
+ "use_cases": [],
+ "tags": [
+  "frambuesa pi",
+  "frambuesa pi 5",
+  "funda de frambuesa pi",
+  "soporte de frambuesa pi",
+  "carcasa de frambuesa pi",
+  "pantalla táctil frambuesa pi",
+  "pantalla táctil de 7 pulgadas",
+  "soporte de escritorio",
+  "tablero de iot",
+  "domótica",
+  "pantalla inteligente",
+  "caja electrónica"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2025-12-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US21ca46c2e25ea5/design/1929c727cab0c90f.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   563
+  ],
+  "previews/03.jpg": [
+   1000,
+   1053
+  ],
+  "previews/04.png": [
+   1000,
+   666
+  ],
+  "previews/05.png": [
+   641,
+   729
+  ],
+  "previews/profiles/2313387.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

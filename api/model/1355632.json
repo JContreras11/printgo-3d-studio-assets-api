@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/funda-tableta.3mf.xz",
+   "instance_id": "1399185",
+   "thumbnail": "previews/profiles/1399185.jpg",
+   "print_time_h": 14,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "0.2mm 层高, 3 层墙, 15% 填充",
+    "profile_notes": "0.2层高 H2D双料打印的，外壳是petg，内衬是tpu 支撑主体是petg，接触面是tpu",
+    "creation_date": "2025-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1342152,
+   "sha256": "c055fac529bc5cc52545cba87d14f7a23e4a64e98f559c35ee601ee8d9357d68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1355632",
+ "title": "Funda para tableta Lenovo Y700 Gen 3 con soporte Joy-Con",
+ "slug": "lenovo-y700-gen-3-tablet-case-with-joy-con-support",
+ "url": "https://makerworld.com/en/models/1355632-lenovo-y700-gen-3-tablet-case-with-joy-con-support",
+ "author": "user_4191669599",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Una funda para tableta Y700 de diseño personalizado, transformable en una consola portátil con la adición de Joy-Cons\nUn revestimiento interior de TPU, impreso en 3D con tecnología H2D, protege contra arañazos, mientras que la capa exterior de PETG garantiza una gran durabilidad.\nLas esquinas generosamente redondeadas del modelo crean un ajuste perfecto para la tableta, pero el revestimiento de TPU elimina cualquier riesgo de rayado o desplazamiento.\n\nAsegure los botones a los bordes usando un adhesivo a base de gel (evitando adhesivos líquidos como el 502)\n\nPara experiencias de juego óptimas con títulos como Genshin Impact y Narukami que admiten controladores de forma nativa, se requiere un adaptador Joy-Con (en la foto) para fusionar perfectamente la funcionalidad de dos Joy-Cons en uno.\n\nSe ilustran los puntos de aplicación del adhesivo (el uso de 502 podría provocar derrames y potencialmente adherir botones al estuche). La estética de los botones es algo rudimentaria, pero se prioriza la funcionalidad.",
+ "use_cases": [],
+ "tags": [
+  "accesorios para tabletas",
+  "caja del teléfono",
+  "funda para tableta",
+  "consola de juegos portátil",
+  "legión lenovo",
+  "y700"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5f24860425fa9a/design/2025-04-25_9a91d9f941dbd8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   749
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/1399185.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

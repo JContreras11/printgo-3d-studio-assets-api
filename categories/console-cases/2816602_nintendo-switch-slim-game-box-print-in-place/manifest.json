@@ -1,0 +1,233 @@
+{
+ "files": [
+  {
+   "path": "model/impresion-inmediata-8h36.3mf.xz",
+   "instance_id": "3135856",
+   "thumbnail": "previews/profiles/3135856.jpg",
+   "print_time_h": 8.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A2L",
+    "X2D",
+    "P1S",
+    "H2C",
+    "X1",
+    "P1P",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 12% infill (Organizer)",
+    "creation_date": "2026-05-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 857612,
+   "sha256": "033b734f23f82e0821732eafa2e87ad7750a0c0da52836a2ae9673a5711473b1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/impresion-inmediata-35h18.3mf.xz",
+   "instance_id": "3142154",
+   "thumbnail": "previews/profiles/3142154.jpg",
+   "print_time_h": 35.3,
+   "plates": 15,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 15,
+    "profile_title": "0.2mm layer, 2 walls, 8% infill (Clips Game Box)"
+   },
+   "name": "Versión estándar",
+   "size": 5830252,
+   "sha256": "779f6e10a8f9c1656275cd48eaca52f176b9d27399f7674248327bf7bf334d37",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/impresion-inmediata-37h36.3mf.xz",
+   "instance_id": "3135873",
+   "thumbnail": "previews/profiles/3135873.jpg",
+   "print_time_h": 37.6,
+   "plates": 15,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 15,
+    "profile_title": "0.2mm layer, 2 walls, 10% infill (Magnet Game Box)"
+   },
+   "name": "Versión estándar",
+   "size": 5760012,
+   "sha256": "d8a0f47ad977c8a6d1e89954920fc3e29aa468729a2af9bf7b943a112c339453",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/impresion-inmediata-3h18.3mf.xz",
+   "instance_id": "3135866",
+   "thumbnail": "previews/profiles/3135866.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "X1",
+    "A1",
+    "X2D",
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "X1E",
+    "H2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.16mm layer, 2 walls, 12% infill (Faceplates)",
+    "creation_date": "2026-05-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1157748,
+   "sha256": "d46984d60b42924383f7b5fe0224c31fbd97321a248bcee686549c1930eebf58",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2816602",
+ "title": "Impresión inmediata de la caja de juegos Nintendo Switch Slim",
+ "slug": "nintendo-switch-slim-game-box-print-in-place",
+ "url": "https://makerworld.com/en/models/2816602-nintendo-switch-slim-game-box-print-in-place",
+ "author": "Hk3ToN",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Boost Me¿Tienes un Boost sin usar? ¡Me encantaría tenerlo!;) Gracias.\nOrganizador modular y estuches delgados Ultimate Switch y \"Switch 2\"\n¡Bienvenido a la solución de almacenamiento definitiva para tu Nintendo Switch y tu colección de juegos \"Switch 2\" de próxima generación! Este proyecto completo combina un organizador de escritorio moderno y elegante con estuches delgados ultrapersonalizables y aptos para viajes.\nYa sea que desee exhibir con orgullo su colección en su escritorio de juegos o llevar sus juegos favoritos mientras viaja, este sistema modular se adapta perfectamente a su estilo.\n\nLicencia Comercial\nSi estás interesado en vender impresiones físicas de mis diseños en tu tienda local o en línea, o si simplemente quieres apoyar mi trabajo: patreon.com/Hk3ToN3D\n\nCaracterísticas clave\nEl organizador modular\nUn soporte de escritorio elegante y llamativo diseñado para mejorar su configuración de juego.\n7 ranuras dedicadas: Perfectamente dimensionadas para guardar y organizar tus estuches de juegos personalizados.\nSistema intercambiable: Cuenta con placas frontales intercambiables para que puedas renovar el aspecto de tu organizador al instante.\n11 placas frontales incluidas: una amplia variedad de diseños (logotipos, temas retro, estilos minimalistas) para combinar con su estado de ánimo o la decoración de su habitación.\nFácil montaje: estructura diseñada de forma inteligente para una impresión y un montaje fluidos y sin complicaciones.\n\nEstuches para juegos delgados y personalizados\nCarteras de juegos compactas, duraderas y altamente personalizables.\nTecnología de impresión en el lugar: los estuches se imprimen como una sola pieza, incluida una bisagra completamente funcional. ¡No se requiere ensamblaje complejo!\nCapacidad máxima: cada estuche delgado sostiene de forma segura hasta 8 cartuchos de juego.\nBandejas de cartuchos extraíbles (Snap-In): ¡El núcleo de la personalización! Los insertos interiores encajan y salen fácilmente. Mezcla y combina colores (dos tonos, multicolor) cuando quieras.\n8 diseños de portada diferentes: personalice el exterior de sus estuches con temas de juegos icónicos (Pikachu, Minecraft, Splatoon, Anniversary Edition, Mario, etc.).\n\nEspecificaciones técnicas y hardware requerido\nHardware necesario: imanes de neodimio redondos de 3x3 mm (utilizados para asegurar firmemente las placas frontales intercambiables y garantizar un cierre rápido y seguro de los estuches).\nTolerancias de impresión: las inserciones a presión y las bisagras de impresión en el lugar se han probado y optimizado minuciosamente para un ajuste de fricción perfecto (calibrado suavemente para las impresoras Bambu Lab).\nFilamentos recomendados: PLA. ¡Diviértete usando colores PLA Silk, Matte o neón para las bandejas interiores para hacerlas resaltar!\n\nConfiguración de impresión y consejos\nSoportes: Este modelo está inteligentemente diseñado para imprimir en su mayoría sin soportes (No Supports).\nRelleno: 15% a 20% (se recomienda Gyroid para una resistencia óptima).\nIntercambios de color (placas frontales y cubiertas): los archivos están totalmente optimizados para AMS (impresión multicolor de Bambu Lab). Alternativamente, puedes utilizar fácilmente cambios manuales de filamentos en capas específicas para los logotipos texturizados.\n\nHistorial de revisiones\nV1.0 - 2026-05-18: Versión inicial, que puede contener algunas imperfecciones menores.\nV1.1 - 2026-05-19: Se ha agregado un perfil, no con imanes, sino simplemente con un clip.\n\n¡Comparte tus marcas!\nSi te encanta este modelo, deja un impulso, deja un comentario y sube fotos de tus impresiones mostrando tus combinaciones de colores únicas. Tu apoyo me ayuda a seguir creando y compartiendo increíbles proyectos gratuitos.\n\nNota: Todos los diseños y logotipos relacionados con el juego pertenecen a sus respectivas marcas comerciales. Esta es una creación no comercial hecha por fans.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "nintendo switch",
+  "switch",
+  "switch 2",
+  "switch 2 accesorios",
+  "accesorios switch",
+  "switch oled",
+  "tarjeta",
+  "caja de tarjeta",
+  "tarjeta de juego",
+  "funda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US22e1aaf32b7444/design/7036e20bb9f34ae5.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   749
+  ],
+  "previews/02.png": [
+   1000,
+   749
+  ],
+  "previews/03.png": [
+   1000,
+   749
+  ],
+  "previews/04.png": [
+   1000,
+   749
+  ],
+  "previews/05.png": [
+   1000,
+   749
+  ],
+  "previews/06.png": [
+   1000,
+   749
+  ],
+  "previews/07.png": [
+   1000,
+   749
+  ],
+  "previews/08.png": [
+   1000,
+   749
+  ],
+  "previews/profiles/3135856.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3142154.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3135873.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3135866.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

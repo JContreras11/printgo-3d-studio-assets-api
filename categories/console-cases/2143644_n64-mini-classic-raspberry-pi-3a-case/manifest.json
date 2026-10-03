@@ -1,0 +1,160 @@
+{
+ "files": [
+  {
+   "path": "model/n64-mini-6h06.3mf.xz",
+   "instance_id": "2322055",
+   "thumbnail": "previews/profiles/2322055.jpg",
+   "print_time_h": 6.1,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2S",
+    "X1E",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0,4mm Nozzle (0.12mm layer)",
+    "profile_notes": "PLA Basic “Hellgrau”: 10104 PLA Basic “Dunkelgrau”: 10105 PLA Transluzent “rot”: 13210 PLA Basic “Schwarz”: 10101",
+    "creation_date": "2025-12-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3797096,
+   "sha256": "bbe0ad27859606985cad66dc15fe81083bf2756b1147290a0e9fd73e0e97a16e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/n64-mini-19h54.3mf.xz",
+   "instance_id": "2322496",
+   "thumbnail": "previews/profiles/2322496.jpg",
+   "print_time_h": 19.9,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2C",
+    "H2S",
+    "P1S",
+    "X1",
+    "X2D",
+    "A1",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0,2mm Nozzle (0.10mm layer)",
+    "profile_notes": "PLA Basic “Hellgrau”: 10104 PLA Basic “Dunkelgrau”: 10105 PLA Transluzent “rot”: 13210 PLA Basic “Schwarz”: 10101",
+    "creation_date": "2026-04-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3801304,
+   "sha256": "62c4a41ec15721fe5b556b8e7b4bb6e29ca05fddf543447407b0920977784573",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2143644",
+ "title": "N64 Mini Clásico (Funda Raspberry Pi 3A+)",
+ "slug": "n64-mini-classic-raspberry-pi-3a-case",
+ "url": "https://makerworld.com/en/models/2143644-n64-mini-classic-raspberry-pi-3a-case",
+ "author": "jobil",
+ "category": "console-cases",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un estuche “N64 Mini Classic”.\n\nFue diseñado para Raspberry Pi 3A+ (el Pi 3 B también encajaría si se desoldan los puertos USB)\n\nPLA Básico “Gris Claro”: 10104\nPLA Básico “Gris Oscuro”: 10105\n\nEl inserto de LED se puede imprimir de forma transparente y colocar un LED detrás. O directamente en Rojo.\n\nRecomendaría el emblema delantero en negro. Si tienes la opción, también puedes imprimir una pegatina con el diseño original.\n\nLas piezas pequeñas deben unirse con superpegamento. A continuación, las mitades de la carcasa y la Raspberry Pi se pueden fijar con termoplásticos o tornillos M3.",
+ "use_cases": [],
+ "tags": [
+  "n64",
+  "nintendo64",
+  "frambuesa",
+  "pi",
+  "frambuesa pi",
+  "frambuesa3",
+  "funda frambuesa3",
+  "funda",
+  "mini",
+  "clásico",
+  "consola",
+  "controlador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc2d396754b7cd4/design/2025-12-21_08042db7cb0998.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/2322055.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2322496.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

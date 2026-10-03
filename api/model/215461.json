@@ -1,0 +1,146 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-rg35xx.3mf.xz",
+   "instance_id": "234680",
+   "thumbnail": "previews/profiles/234680.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5174,
+      "weight_g": 20.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 7679300,
+   "sha256": "df1361a6b796f734772ca927991ef91bd1d30598f1011d6e6443e2c996571b23",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "215461",
+ "title": "Estuche RG35XX H, empuñadura",
+ "slug": "rg35xx-h-case-grip",
+ "url": "https://makerworld.com/en/models/215461-rg35xx-h-case-grip",
+ "author": "duck.knapp",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Como no había un estuche que tuviera todo lo que quería, simplemente diseñé el mío propio...\n\nPuedes simplemente poner el estuche en el frente y usarlo como protección.\nCuando juegues, también puedes simplemente colocar el estuche en la parte posterior y usarlo como agarre.\n\nTodos los botones y aberturas están presentes y utilizables.\n\nSi notas algo que se pueda mejorar, dímelo.",
+ "use_cases": [],
+ "tags": [
+  "anbernico",
+  "rg35xx",
+  "rg35xx h",
+  "rg35xxh",
+  "funda",
+  "caso duro",
+  "portátil",
+  "portátil para juegos",
+  "juego de azar",
+  "accesorio de juego",
+  "retrojuego",
+  "consola"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-03-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1fde25428ea91/design/2024-03-01_5d67c42c17bd8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/234680.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

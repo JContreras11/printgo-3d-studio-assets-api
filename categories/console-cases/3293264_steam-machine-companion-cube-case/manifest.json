@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/caja-cubo.3mf.xz",
+   "instance_id": "3737015",
+   "thumbnail": "previews/profiles/3737015.jpg",
+   "print_time_h": 26.2,
+   "plates": 11,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "name": "Versión estándar",
+   "size": 1668680,
+   "sha256": "5274b9f4f11183de9ab8b2231e83aeaf1e0bd84a81fef25dbff64ecc331eba0a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3293264",
+ "title": "Caja de cubo complementaria para máquina de vapor",
+ "slug": "steam-machine-companion-cube-case",
+ "url": "https://makerworld.com/en/models/3293264-steam-machine-companion-cube-case",
+ "author": "LastWindBreaker",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Esta es una versión lista para AMS del estuche Steam Machine de Jaron de Printables. Las instrucciones de ensamblaje siguen la versión de construcción que no es AMS, pero es fácil ver qué pasos omitir. Simplemente use los colores del filamento Switch en el AMS para obtener rosa o azul.\n\nSteam Machine Companion Cube/ Estuche de cubo de almacenamiento ponderado de Jaron Descargar el modelo STL gratis Imprimibles.com\n\nACTUALIZACIÓN: He incluido una Carpeta de piezas preimpresas 3MF para impresoras 3D Multicolor. Úselos si tiene una impresora/rebanadora compatible. De lo contrario, use los archivos originales, agregue una pausa y realice un cambio manual de filamento en la capa correcta donde sea necesario. Deje un comentario si estos funcionaron para usted o si tuvo algún problema con ellos.\n\nSe puede imprimir en una impresora con un solo extrusor si puede hacer una pausa en capas específicas y cambiar el filamento a otros colores.\n\nEl panel posterior se puede imprimir completamente en blanco, pero para una mejor apariencia se requiere una cortadora con soporte multicolor para impresoras de un solo extrusor como OrcaSlicer. Pinte todas las caras y bordes interiores para que sean de color gris claro. Esto se puede hacer con una sola impresora extrusora, pero necesitarás cambiar manualmente el filamento varias veces para las primeras capas.\n\nLista de piezas:\n1x Máquina de vapor - Vapor\n4 tornillos de cabeza plana M3 x L12 mm - Amazon\n4 insertos para juego de calor M3 x D5 x L4 - Amazon\n10 tornillos de cabeza plana M2,5 x L8 mm - Amazon\n10x M2.5 x D3.5 x L4 Insertos de juego de calor - Amazon\nImanes de disco de 12x 10 mm x 2 mm - Amazon\nImanes de disco de 4x 1/4 pulg. x 1/16 pulg. - Amazon\n(Usé diferentes modelos más antiguos que tenía, así que no puedo verificar que el tamaño de los de Amazon se ajuste perfectamente. Debería estar bien, pero los imanes pueden quedar un poco flojos y solo necesitarán una alineación más cuidadosa al pegarlos. Como referencia, el mío mide exactamente: 0,25 pulgadas x 0,062 pulgadas)\nSuperpegamento en gel - Amazon\n\nHerramientas:\nSoldador solo para colocar los insertos heat set.\nLas pinzas ayudarían con las pequeñas piezas del canal de luz.\nDestornilladores Phillips o hexagonales para tornillos m2.5 y M3\nFilamentos que utilicé:\nPLA blanco Sunlu - Amazon\nPLA gris Sunlu - Amazon\nSunlu Plata PLA - Amazon\nPLA Sunlu azul cielo - Amazon\nOverture 95A TPU negro - Amazon\n\nNotas de montaje:\n\nCada nombre de archivo dice cuántos debes imprimir de cada modelo y los colores a usar.\nUtilice el soldador para los insertos termofijados para insertarlos con cuidado. Consulta los vídeos para ver dónde deben ir. 4 de los M3 irán en la parte posterior de los dos paneles laterales, dos en cada panel. Estos se alinean y se utilizarán para el panel posterior. Los dos orificios en el panel superior para los insertos termofijados se pueden ignorar, ya que solo son necesarios en los paneles laterales.\nLuego, los insertos heatset M2.5 irán en las esquinas diagonales con los bordes de alineación que sobresalen de los paneles, y dos en la pieza del panel IO frontal inferior para que los tornillos puedan ir debajo de donde están los pies. Los vídeos mostrarán adónde van.\n\nUtilice filamento de TPU para los pies, los protectores deslizantes y el teclado del botón de encendido. Se utilizan para proteger la carcasa de la máquina de vapor, para que no se raye con el plástico duro de las impresiones 3D.\nRecomendaría 5 paredes y un relleno denso pero no completamente sólido para los pies para que tengan un poco de flexibilidad y puedan amortiguar las vibraciones de la máquina de vapor.\nTodas las demás piezas de TPU deben ser 100% sólidas.\n\nEl logotipo de Vented Aperture para el frente es opcional pero probablemente ayude con un flujo de aire adicional. Pero puedes cambiarlo por el corazón u otras piezas del logotipo de apertura sin ventilación si lo deseas.\n\nMuchos de los archivos requerirán cambiar los colores de los filamentos en capas específicas una vez. En su cortadora, insertaría una pausa en la capa justo encima de la última capa que desea para el color. Luego, cuando estuviera en pausa, cambiaría físicamente su carrete de filamento con el siguiente color, lo purgaría y luego reanudaría la impresión. O si su impresora tiene múltiples extrusores/colores, usaría la cortadora para pintar los colores del modelo como cualquier otro, de modo que coincida con las imágenes renderizadas proporcionadas.\n\nTambién recomendaría Planchar si pudiera configurar bien la configuración de Planchado, ya que la mayoría de las caras están en la parte superior y este funda se beneficiará enormemente de un buen Planchado.\n\nAlgunas partes requerirán algunos soportes.\nAsamblea:\n\nPaneles principales:\nPrimero pegue las piezas del canal de luz de colores en los paneles. Luego, las piezas del Anillo gris central, el Disco de color central y el Logotipo de apertura o Corazón deben pegarse cuidadosamente una a la vez usando sus bordes de alineación. Comience aplicando pegamento en los puntos de la pieza del logotipo central y luego colóquelo con cuidado encima del disco de color. Luego espera a que se seque el pegamento. Luego haz lo mismo con el anillo gris, aplica el pegamento en las ranuras de los bordes y colócalo sobre el disco de color. luego espera a que se seque. Haga esto 4 veces, una para cada panel. Utilice la pieza con ventilación o sin ventilación para que una de estas piezas se utilice más adelante en la placa frontal.\n\nPara la placa frontal, es posible que necesites usar unas pinzas para pegar y colocar la \"pequeña\" pieza del canal de luz.",
+ "use_cases": [],
+ "tags": [
+  "vapor",
+  "máquina de vapor",
+  "caja de la máquina de vapor",
+  "juego de azar",
+  "funda",
+  "caparazón",
+  "consola"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-09-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US31bfd988c0775a/design/8155cf0b1975b449.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   697
+  ],
+  "previews/02.webp": [
+   1000,
+   580
+  ],
+  "previews/03.webp": [
+   1000,
+   725
+  ],
+  "previews/04.webp": [
+   798,
+   960
+  ],
+  "previews/profiles/3737015.jpg": [
+   600,
+   418
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

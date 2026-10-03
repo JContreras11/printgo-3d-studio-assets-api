@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/funda-protectora.3mf.xz",
+   "instance_id": "2005336",
+   "thumbnail": "previews/profiles/2005336.jpg",
+   "print_time_h": 7.6,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.24mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.24mm layer hight for speed but 3 perimeter walls for strength",
+    "creation_date": "2025-10-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1284728,
+   "sha256": "4a3730c035754bdd75a14641079eb1e75f5f9f093ac80bd306d398562267194f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1873361",
+ "title": "Funda protectora para uConsole",
+ "slug": "uconsole-protection-case",
+ "url": "https://makerworld.com/en/models/1873361-uconsole-protection-case",
+ "author": "m.swagga",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Descripción general\nEste estuche está diseñado para uConsole con la placa AIO de HackerGadgets preinstalada. Cuenta con ubicaciones de montaje reforzadas para las cuatro antenas, de modo que cada antena encaje de forma segura y permanezca en su lugar durante el uso.\n\nBisagras\nUtilice pasadores de bisagra de 3 mm de diámetro y 30 mm de largo (ejemplo:\nInserte los pasadores rectos y verifique que la bisagra gire libremente antes del montaje final.\nCalibración de orificios (recomendado)\nMuchos orificios para pasadores de bisagra están impresos o perforados con un tamaño ligeramente inferior o pueden deformarse durante la fabricación. Para garantizar una acción suave de la bisagra, utilice un escariador de 3 mm para abrir y nivelar suavemente los orificios. Ejemplo:\nEscariado en pasadas pequeñas y controladas: pruebe el ajuste del pasador con frecuencia hasta que se deslice suavemente pero sin juego excesivo.\nSoportes de antena\nEl estuche proporciona cuatro posiciones de antena fijas con retención de ajuste a presión. Presione cada antena en su ranura hasta que escuche o sienta el chasquido; deben estar seguras pero removibles si es necesario.\nSi una antena está demasiado apretada, agrande con cuidado la ranura con una lima pequeña hasta que la inserción/extracción sea suave.\nConsejos\nSi desea asegurar los pasadores, considere agregar una gota de fijador de hilos o pegamento CA después de confirmar la tolerancia del orificio.\nMantenga las limaduras o virutas de plástico fuera de los canales de las bisagras para evitar la abrasión.",
+ "use_cases": [],
+ "tags": [
+  "uconsola",
+  "aparato de relojería",
+  "consola",
+  "miniordenador",
+  "computadora",
+  "frambuesa pi",
+  "frambuesa",
+  "módulo de cálculo",
+  "deg",
+  "lora",
+  "wi-fi",
+  "portátil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US67c84bc24ba72b/design/2025-10-10_5402f2e9c48ce8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1333,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2005336.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-anbernic.3mf.xz",
+   "instance_id": "1924112",
+   "thumbnail": "previews/profiles/1924112.jpg",
+   "print_time_h": 4.1,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "All parts on 3 plates - print ready",
+    "profile_notes": "This print profile contains all neccesary parts on 3 plates Plate 1: Box parts (multicolor - can just be printed in one color if you don't have an AMS) Plate 2: Latch V2 (new Version with a more satisfying snap) Plate 3: TPU Display Protector Insert (if needed) Plate 4: Latch V2 (with a small brim; use this one if you have issues printing Plate 2) Plate 5: Latch V1 (for everyone who still prefers the old Latch) Settings vary a bit between plates to fit the parts and materials Overall it uses 0.2mm layer height, 2 walls, and 10% gyroid infill. All parts print without supports. If you have issues printing the latch, try to add a brim",
+    "creation_date": "2026-08-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 1917352,
+   "sha256": "816070722ea1cf993840019d78640457b868490ce0ffbe95000ef7f94efde49b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1804175",
+ "title": "Estuche Anbernic RG34XX",
+ "slug": "anbernic-rg34xx-case",
+ "url": "https://makerworld.com/en/models/1804175-anbernic-rg34xx-case",
+ "author": "Gorroth",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Actualización: mejoré el pestillo y actualicé el perfil de impresión. El pestillo antiguo se puede cambiar fácilmente por el nuevo, sin necesidad de reimprimir todo el estuche. El nuevo pestillo ahora se cierra con un chasquido satisfactorio y se mantiene cerrado mejor que el anterior. Cambié el pestillo del perfil de impresión, pero aún mantuve la versión anterior en una placa adicional para aquellos a quienes les guste más.\n\nRecientemente conseguí un Anbernic RG34XX (que, hasta donde yo sé, tiene el mismo tamaño que un Nintendo GameBoy Advance / GBA). En cuanto a todas mis computadoras de mano, quería tener un estuche para poder guardarlas en mi mochila sin tener que preocuparme de que se dañen. Como este dispositivo ya me parecía muy tanque, decidí optar por una caja lo más delgada posible, pero manteniendo mis estándares mínimos de protección (completamente cerrado, protección adicional en el frente). Y debido a la parte posterior curva del dispositivo, mantuve la parte inferior de la caja plana en lugar de encajar perfectamente, por lo que puedes tocar un lado del dispositivo para levantarlo y sacarlo fácilmente del estuche.\n\nTambién decidí hacerlo utilizable con el acolchado de espuma original que viene con el dispositivo para todos los que no pueden imprimir TPU. Ahora tienes algunas opciones aquí:\nUtilice el acolchado de espuma original del embalaje en el que vino el dispositivo.\nimprimir el acolchado de TPU que viene con el perfil de impresión (lámina 3)\ndescarga el escaneo del acolchado original y úsalo como plantilla para cortar tú mismo una pieza adecuada (la pieza de TPU y la pieza original tienen un grosor de 3,4 mm)\nLuego, la carcasa se ensambla con 4 tornillos M3 de 30 mm y un poco de pegamento o cinta adhesiva de doble cara para pegar la protección de la pantalla.\n\nBoost MeComo siempre, ¡déjame ver tus marcas! Y si realmente te gusta, me encantaría que le das una calificación o incluso una mejora a este modelo.\nFeliz impresión (y juego) a todos:)",
+ "use_cases": [],
+ "tags": [
+  "anbernico",
+  "anbernicrg34xx",
+  "anbernic rg34xx",
+  "rg34xx",
+  "retro",
+  "juegos retro",
+  "consola de juegos retro",
+  "accesorios de juegos retro",
+  "nintendo",
+  "nintendo gameboy avance",
+  "nintendogameboyadvance",
+  "conseguir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa1af5ad151275/design/2025-09-17_19cdac366907c8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   1425
+  ],
+  "previews/profiles/1924112.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

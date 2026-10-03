@@ -1,0 +1,212 @@
+{
+ "files": [
+  {
+   "path": "model/almacenamiento-completo-24h42.3mf.xz",
+   "instance_id": "1011265",
+   "thumbnail": "previews/profiles/1011265.jpg",
+   "print_time_h": 24.7,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm 层高, 6 层墙, 15% 填充",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 88239,
+      "weight_g": 623.74,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 755,
+      "weight_g": 1.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PETG",
+   "size": 673964,
+   "sha256": "b9af34794ae216bb682c3a643e770058f8672c8875681a942ee921b91cf6e54d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almacenamiento-completo-24h30.3mf.xz",
+   "instance_id": "1011739",
+   "thumbnail": "previews/profiles/1011739.jpg",
+   "print_time_h": 24.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "无固定槽版本",
+    "profile_notes": "不同材料打印过程中收缩情况有所差异，固定槽可能会卡住，可选择无固定槽版本",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 87436,
+      "weight_g": 620.04,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 755,
+      "weight_g": 1.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PETG",
+   "size": 725700,
+   "sha256": "1dab31488117162481b28082f4c10b5991991f8721f55d3f4c15b92e239915aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1028644",
+ "title": "Almacenamiento completo Switch",
+ "slug": "complete-switch-storage",
+ "url": "https://makerworld.com/en/models/1028644-complete-switch-storage",
+ "author": "WonJulye",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Estuche de transporte completo para Nintendo Switch\n\nCon la inminente llegada del Switch 2, es hora de guardar tu Switch actual\nTiene capacidad para una consola, dos controladores Joy-Con, cuatro muñequeras y 21 cartuchos de juego (20 se muestran en el frente)\n\nEstuche de transporte completo Switch con ranura para cartuchos - Ranura para cartuchos de WonJulye - MakerWorld\nExisten ligeras variaciones en las dimensiones de los cartuchos entre regiones; Considere dejar algunos soportes intactos y experimentar con la tensión.\nImpulsameGracias por tu apoyo\n\nNotas importantes\n1. Tiene capacidad para dos controladores, no cuatro\n2. Las muñequeras deben organizarse como se muestra antes de guardarlas.\n3. Actualmente no admite el almacenamiento con fundas protectoras.\n4. El estuche es propenso a deformarse durante la impresión; ajuste la configuración de impresión según su filamento; Utilicé Jayo-PETG sin adhesivo, lo que provocó una deformación menor.",
+ "use_cases": [],
+ "tags": [
+  "almacenamiento",
+  "joycon",
+  "joy-con",
+  "funda protectora del controlador joy-con",
+  "controlador joy-con",
+  "joy con",
+  "manejar",
+  "juego",
+  "consola de juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbea5edb486fdef/design/eaa8bcb2-6aa7-4205-881b-a37b2662106a.webp",
+ "preview": "previews/01.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.webp",
+  "previews/05.webp"
+ ],
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   843
+  ],
+  "previews/02.webp": [
+   1000,
+   750
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/04.webp": [
+   1000,
+   750
+  ],
+  "previews/05.webp": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1011265.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1011739.jpg": [
+   550,
+   711
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

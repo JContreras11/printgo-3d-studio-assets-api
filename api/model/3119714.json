@@ -1,0 +1,112 @@
+{
+ "files": [
+  {
+   "path": "model/mal-hecho.3mf.xz",
+   "instance_id": "3519143",
+   "thumbnail": "previews/profiles/3519143.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 1 walls, 15% infill, singe color",
+    "profile_notes": "2mm layer 1 wall should be fine (you can reinforce the hinge with 2 layer if you want) 5-10% infill should be enough",
+    "creation_date": "2026-08-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 719896,
+   "sha256": "7640e686bdfdad51c58abef3892dc10dd811ef059e8b3acc0905ba2b41eef155",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3119714",
+ "title": "(Mal hecho) Estuche RG34xx SP",
+ "slug": "poorly-made-rg34xx-sp-case",
+ "url": "https://makerworld.com/en/models/3119714-poorly-made-rg34xx-sp-case",
+ "author": "Pirkiv_",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "DESCARGO DE RESPONSABILIDAD: ESTE ES UN MODELO 3D MAL HECHO. NO ASUMIRÁ NINGUNA RESPONSABILIDAD POR NINGÚN DAÑO QUE PUEDA HACERSE A SU DISPOSITIVO EN EL FUTURO SI UTILIZA ESTE MODELO 3D PARA PROTEGER SU DISPOSITIVO.\n\nEstuche RG34xx sp mal hecho que hice en aproximadamente 2 días.\nEste modelo está realizado en base a la Caja personalizable con tapa, pestillo y separadores de ledzz con partes agregadas y negativos usando primitivas en Bambu Studio.\n\nImpreso con Filamento ELEGOO PLA (no sé lo de TPU porque no los tengo)\n\nNO ES UN AJUSTE AJUSTADO porque solo los uso cuando salgo y me los quito cuando estoy en casa. Puedes ajustar la tensión agregando capas de cintas adhesivas en la esquina de la parte inferior frontal (yo personalmente agrego 3 capas en cada esquina)\n\nTambién sugiero agregar una capa de cinta adhesiva en la parte inferior del estuche para que no roce directamente con el dispositivo.\n\nPara la tapa superior, PUEDES usar la espuma del embalaje original del dispositivo, pero según mi experiencia, después de cerrarla con esa espuma, el D-Pad dejó un poco marcas en la pantalla (también uso el protector de pantalla incluido, por lo que podría deberse a eso también). Así que uso una espuma normal de un estuche aleatorio que encontré en la casa. Un grosor de 1 a 2 mm debería estar bien, solo para que el dispositivo no vibre fácilmente dentro de la carcasa. SI no desea usar espuma, simplemente agregue un cubo primitivo de 1 a 1,5 mm en la tapa superior y luego agregue un poco de cinta adhesiva, debería estar bien, aunque realmente no quiero arriesgarme.\n\nHay un tope en cada bisagra para limitar la apertura de modo que su dedo aún pueda presionar el botón del hombro con cierta comodidad.\n\nEl orificio en la parte inferior es NECESARIO DE ALTA LLAVE para que pueda quitar el estuche más fácilmente y sí, no hay corte para las luces LED porque realmente no quiero sacrificar el nivel del estuche solo para ver las luces encendidas. Simplemente cárgalo sin el estuche o corta el agujero tú mismo.\n\nY por último, sobre el conector para un cable mini hdmi, puede que se conecte bien o puede que no, no sé porque no tengo uno.",
+ "use_cases": [],
+ "tags": [
+  "anbernico",
+  "consola retro",
+  "retro de mano",
+  "portátil",
+  "rg34xxsp",
+  "funda",
+  "funda duro"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa4706293e11c3/design/392b532bf227a5dc.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   400,
+   300
+  ],
+  "previews/02.jpg": [
+   400,
+   300
+  ],
+  "previews/03.jpg": [
+   400,
+   300
+  ],
+  "previews/04.jpg": [
+   400,
+   300
+  ],
+  "previews/05.jpg": [
+   400,
+   300
+  ],
+  "previews/06.jpg": [
+   400,
+   300
+  ],
+  "previews/profiles/3519143.jpg": [
+   400,
+   300
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

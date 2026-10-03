@@ -1,0 +1,149 @@
+{
+ "files": [
+  {
+   "path": "model/funda-nintendo-7h36.3mf.xz",
+   "instance_id": "3093184",
+   "thumbnail": "previews/profiles/3093184.jpg",
+   "print_time_h": 7.6,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "X2D",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Altura de capa 0.20 Impresión sin soportes Soporta multicolor (se pueden quitar las letras separando los objetos) o reemplazar por cualquier SVG.",
+    "creation_date": "2026-05-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1241856,
+   "sha256": "9355bd9ad3d3b5f9ee1b05a61fa2914441daf1ec00b77eb61f08ac82f7d13a52",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/funda-nintendo-5h54.3mf.xz",
+   "instance_id": "3732819",
+   "thumbnail": "previews/profiles/3732819.jpg",
+   "print_time_h": 5.9,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "A1 Mini no color or AMS",
+    "profile_notes": "Print profile for A1 Mini, no AMS or color due to purge primer tower not allowing for space.",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión mini",
+   "size": 1817816,
+   "sha256": "bf5df16d22ee54a55f1e2ae36cb5f400f318f8389a79585e2e26648b48ff0845",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2782895",
+ "title": "Funda Nintendo 2DS - Caja resistente",
+ "slug": "nintendo-2ds-case-rugged-box",
+ "url": "https://makerworld.com/en/models/2782895-nintendo-2ds-case-rugged-box",
+ "author": "user_1084808551",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Estuche resistente para Nintendo 2DS\nProteja su Nintendo 2DS con este estuche resistente diseñado específicamente para adaptarse a la forma original de la consola. Ideal tanto para almacenamiento en casa como para viajes seguros.\nCaracterísticas del modelo\nAjuste preciso: el interior sigue el contorno de la consola para evitar el movimiento.\nCapacidad adicional: Incluye 3 ranuras dedicadas para tus cartuchos de juegos favoritos.\nCierre seguro: bisagra reforzada y sistema de pestillo para evitar aperturas accidentales.\nLista de materiales (BOM)\nPara el montaje completo de la caja, necesitará el siguiente hardware:\n6 tornillos M3 de 30 mm (utilizados para pasadores de bisagra y pestillos frontales).\nConsejos de uso y ajuste\nProtección adicional: Para un ajuste perfecto y evitar vibraciones, recomiendo pegar pequeños trozos de fieltro o espuma fina en los puntos de contacto interiores. Esto es especialmente importante si piensas transportarlo en mochilas o maletas; para el almacenamiento doméstico estático, no es estrictamente necesario.\nGame Fit: Las ranuras para cartuchos han sido diseñadas para una máxima compatibilidad. Si encuentras que un juego te queda demasiado suelto, un truco sencillo es colocar una tira de cinta adhesiva transparente en el lateral de la ranura para reducir ligeramente el espacio y mejorar el agarre.\nRecomendaciones de impresión\nEste modelo ha sido optimizado para una impresión sencilla y sin complicaciones:\nMaterial: PLA (funciona perfectamente por su rigidez).\nAltura de capa: 0,20 mm es más que suficiente para conseguir un buen acabado y funcionalidad.\nRelleno: Se recomienda un 15-20% para asegurar la resistencia estructural de las paredes.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "2ds",
+  "nintendo 2ds",
+  "escabroso",
+  "caja",
+  "funda",
+  "nintendo2ds",
+  "cartucho"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-05-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USffe44f3674e0f6/design/08d6b0e863454584.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   705
+  ],
+  "previews/02.jpg": [
+   409,
+   623
+  ],
+  "previews/03.jpg": [
+   1000,
+   563
+  ],
+  "previews/04.jpg": [
+   1000,
+   652
+  ],
+  "previews/05.jpg": [
+   999,
+   715
+  ],
+  "previews/profiles/3093184.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3732819.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

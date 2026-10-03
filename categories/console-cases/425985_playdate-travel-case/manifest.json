@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-viaje.3mf.xz",
+   "instance_id": "900503",
+   "thumbnail": "previews/profiles/900503.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Prints well with default settings, but I included auto-tree supports which are minimal.",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5046,
+      "weight_g": 58.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5E43B7"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 926660,
+   "sha256": "a07b967cc9280efd8c420fb0471c1a0e8b7f1c297b2322bca07520a8407edb40",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "425985",
+ "title": "Estuche de viaje Playdate",
+ "slug": "playdate-travel-case",
+ "url": "https://makerworld.com/en/models/425985-playdate-travel-case",
+ "author": "polytrigon",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Me encanta mi Playdate, así que le diseñé un pequeño estuche minimalista.\n\nHay tres archivos, un archivo inferior y luego dos opciones superiores: una con un gráfico de la fecha de juego y la otra está en blanco.\n\nPiezas que necesitarás:\n2x tornillos M3 12mm+ (para la bisagra)\n1x espuma artesanal\n2x imanes de 6 por 3 mm\nUn poco de pegamento\n\nimprime tus piezas\nDiseñé la parte superior para usar un inserto de espuma artesanal para proteger la pantalla, presione la espuma artesanal en el recorte para marcarlo, luego corte la espuma + pegamento en su lugar (yo uso pegamento en aerosol de 3 m)\n\nAjuste a presión los dos imanes, uno en la parte superior y otro en la parte inferior.\nAtornille los tornillos m3 en la bisagra.\n¡Eso debería bastar! ¡Buena suerte!",
+ "use_cases": [],
+ "tags": [
+  "cita para jugar",
+  "funda",
+  "juego de azar",
+  "consola",
+  "pánico",
+  "portátil"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-04-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000425985/design/2024-04-12_70b43ff453d27.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/900503.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

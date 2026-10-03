@@ -1,0 +1,169 @@
+{
+ "files": [
+  {
+   "path": "model/consola-juegos.3mf.xz",
+   "instance_id": "1274574",
+   "thumbnail": "previews/profiles/1274574.jpg",
+   "print_time_h": 3.7,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "I have used 0.2 mm layer height for the back and front case plates (plates 1 and 3). The back case and the battery lid have painted supports. I've used tree manual. Outer brim is also enabled since my plate tends to raise corners for prints that stay too long on it. For plate 2, the one with the buttons, I recommend printing at max 0.16 mm layer height (or lower) to ensure a better quality of the buttons. As always, leave it to cool down. Not just the plate, the prints too.",
+    "creation_date": "2025-03-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8027,
+      "weight_g": 65.87,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1730,
+      "weight_g": 5.74,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3562,
+      "weight_g": 19.41,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 10230964,
+   "sha256": "684ce73df021178142fb2f279ffef6af59b9b3313486b3ce550f4f0087cf5602",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1251877",
+ "title": "Consola de juegos portátil",
+ "slug": "handheld-game-console",
+ "url": "https://makerworld.com/en/models/1251877-handheld-game-console",
+ "author": "ovidiua2003",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Entonces, tenía esta vieja consola de juegos portátil \"chinesium\" que a mis hijos les encantaba, pero la batería BP-5L que llevaba siempre me ponía un poco nervioso. Ya sabes, ¿las historias sobre cómo se hinchaban y representaban un riesgo de incendio? No es exactamente algo que quisiera con los más pequeños.\n\nAdemás, se produjo un desastre cuando unas manos pequeñas rompieron el puerto de carga micro USB. ¡Fue entonces cuando decidí que ya era suficiente y que se necesitaba un cambio!\n\nEste proyecto se trata de darle a esa vieja consola una vida nueva y más segura al deshacerse del BP-5L por baterías AA viejas y buenas. Ahora funciona con algo con lo que me siento mucho mejor, ¡y ya no tengo que preocuparme por puertos de carga complicados! Tenga en cuenta que si su puerto de carga no está desconectado, es posible que deba asegurarse de no cargarlo después de realizar el cambio a baterías AA.\n\nLo que obtienes aquí:\nUn estuche imprimible en 3D: diseñado desde cero en Fusion 360, basado en el original pero con espacio adicional para mi estuche de batería paramétrico AA/AAA diseñado a medida\nNuevos botones: ¿por qué no renovarlos también?\nUna forma de utilizar pilas AA: ¡Por fin! No más BP-5L poco fiable.\nUn protector de pantalla: simplemente lamine una bolsa (más sobre esto a continuación).\nAviso:\nNecesitará saber manejar un soldador. Éste no es un trabajo instantáneo.\nNo voy a dar un paso a paso sobre cómo desmontar la consola original; si lo has hecho antes, podrás volver a armarla en este nuevo funda.\nEl diseño de mi soporte de batería necesitará un poco de cableado para funcionar; las instrucciones están en el modelo original\nPara el protector de pantalla, simplemente laminé una bolsa. Funciona de maravilla y mantiene la pantalla segura (película de hasta 1,5 mm de espesor). También puedes reutilizar el protector de pantalla del donante. Se desprende con bastante facilidad y lo he recortado a medida (para que quepa en el interior de la caja) con unas tijeras.\nBásicamente, tomé todas las agallas de la consola original (la pantalla, la placa base, el altavoz, los botones) y les di un hogar más seguro y práctico. ¡Espero que también te resulte útil!\n\nLo que necesitarás (también conocidos como bits y bobs):\nEl estuche impreso en 3D (dos mitades)\nLos botones impresos en 3D\nMi estuche para pilas AA impreso en 3D\n2 pilas AA\nAlgún cable para el soporte de la batería.\nSoldadura y soldador.\nUna bolsa laminada para el protector de pantalla (grosor máximo de 1,5 mm) - OPCIONAL\nTu consola de juegos portátil original (¡el donante!)",
+ "use_cases": [],
+ "tags": [
+  "consola de juegos",
+  "funda de juego",
+  "botones",
+  "mando",
+  "una consola",
+  "mod portátil",
+  "actualización de batería aa",
+  "consola para niños",
+  "retro de mano",
+  "alternativa bp-5l"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-03-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US293955453ed618/design/2025-03-26_71d0ec4a740d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1274574.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

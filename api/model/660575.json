@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/iphone12-gba.3mf.xz",
+   "instance_id": "587706",
+   "thumbnail": "previews/profiles/587706.jpg",
+   "print_time_h": 11.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "Elegoo Neptune 3 Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.2层高 225温度 2.5抽离",
+    "creation_date": "2025-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Elegoo Neptune 3 Pro",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 42680,
+      "weight_g": 100.8,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 2178872,
+   "sha256": "9a6aa57163376f36c4c6a47fad6501db8771f715a5929e73ea46b4e14017542a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "660575",
+ "title": "iPhone12 GBA funda de mano iPhone modificado GBA",
+ "slug": "iphone12-gba-case-handheld-iphone-modified-gba",
+ "url": "https://makerworld.com/en/models/660575-iphone12-gba-case-handheld-iphone-modified-gba",
+ "author": "Alenbeach",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Estuche GBA modificado para iPhone12, puede colocar el iPhone12 desde la parte superior cuando lo use, el adhesivo conductor y el cable de cobre para los botones deben comprarse por separado, cuesta unos pocos yuanes.",
+ "use_cases": [],
+ "tags": [
+  "conseguir",
+  "iphone12",
+  "consola portátil",
+  "teléfono",
+  "caja del teléfono"
+ ],
+ "license": "BY",
+ "release_date": "2024-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6a73149210252f/design/2024-09-24_1b26f2620fb13.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/587706.jpg": [
+   600,
+   385
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

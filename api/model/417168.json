@@ -1,0 +1,143 @@
+{
+ "files": [
+  {
+   "path": "model/consola-sp.3mf.xz",
+   "instance_id": "319543",
+   "thumbnail": "previews/profiles/319543.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Pre painted with the bottom chamfer and lid logo in a separate colour to the main body and lid.",
+    "creation_date": "2025-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2890,
+      "weight_g": 21.36,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6066,
+      "weight_g": 55.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1040108,
+   "sha256": "b8cf536c22fb28ee80a9d98db033dabac924a964a4a095dc8aee011dad275d05",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "417168",
+ "title": "Consola SP/pequeño estuche de almacenamiento.",
+ "slug": "sp-console-small-storage-case",
+ "url": "https://makerworld.com/en/models/417168-sp-console-small-storage-case",
+ "author": "NoycePrints",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Se me ocurrió esta funda protectora de formato pequeño para consolas portátiles SP. Sus dimensiones son 95x95x38 mm, ocupando poco espacio pero proporcionando un nivel decente de protección para su consola cuando está en movimiento. Un extra opcional sería añadir 4 pies de goma antideslizantes de 6mm de 3M. He proporcionado orificios empotrados en la parte inferior de la caja para ayudar a alinearlos y mantenerlos en su lugar. La lima 3mf incluida viene con el estuche y la tapa “prepintados”. Todo lo que tendría que hacer es seleccionar qué colores desea de su AMS antes de imprimir. Alternativamente, puedes optar por imprimirlo liso, tu elección. Espero que encuentren útil este funda.",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "juego",
+  "juegos",
+  "pokemon",
+  "caja",
+  "pequeño",
+  "almacenamiento",
+  "ordenado",
+  "organizar",
+  "organizador",
+  "juego de azar",
+  "niños"
+ ],
+ "license": "BY-ND",
+ "release_date": "2024-04-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US179df8f7e96d97/design/2024-11-07_4041625ca5c5d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   999
+  ],
+  "previews/02.jpg": [
+   1000,
+   999
+  ],
+  "previews/03.jpg": [
+   1000,
+   999
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/319543.jpg": [
+   600,
+   599
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

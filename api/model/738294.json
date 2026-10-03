@@ -1,0 +1,113 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-rigido.3mf.xz",
+   "instance_id": "670481",
+   "thumbnail": "previews/profiles/670481.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2 mm layer height first layers slow down for adhesion no supports needed printed in bambu pla blue and yellow",
+    "creation_date": "2025-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17896,
+      "weight_g": 141.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0086D6"
+       },
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2385872,
+   "sha256": "53c7110faedf6a5f8088a898caf230cada950c5ac0170d71a10c570339661274",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "738294",
+ "title": "Estuche rígido de mano retro R36S (Fallout multicolor)",
+ "slug": "r36s-retro-handheld-hard-case-fallout-multicolor",
+ "url": "https://makerworld.com/en/models/738294-r36s-retro-handheld-hard-case-fallout-multicolor",
+ "author": "jpleite",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Estuche rígido magnético con temática Fallout para la consola de juegos portátil retro R36S.\n\nNo es mi modelo. Simplemente ensamblé la caja y las imágenes juntas y pinté la caja. Pensé que sería bueno compartir en MakerWorld.\n\nLos créditos de este modelo van a y\n\nMira mis otros modelos para R36S",
+ "use_cases": [],
+ "tags": [
+  "funda",
+  "r36s",
+  "juego de azar",
+  "consola",
+  "polvillo radiactivo"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-10-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc9bcb43136df04/design/2024-10-28_0ef6d3bbbe2448.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   810,
+   1440
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/03.jpg": [
+   810,
+   1440
+  ],
+  "previews/profiles/670481.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

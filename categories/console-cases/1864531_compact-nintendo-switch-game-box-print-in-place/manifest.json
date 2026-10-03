@@ -1,0 +1,346 @@
+{
+ "files": [
+  {
+   "path": "model/caja-compacta-2h.3mf.xz",
+   "instance_id": "2014057",
+   "thumbnail": "previews/profiles/2014057.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "H2S",
+    "P1S",
+    "P1P",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Sheikah slate",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3951084,
+   "sha256": "dce8b3df136544abf7eae25cb5d62f62f30363d25e0f9dbb6450e94fae7cf244",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-compacta-2h06.3mf.xz",
+   "instance_id": "1994739",
+   "thumbnail": "previews/profiles/1994739.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2C",
+    "P1S",
+    "P2S",
+    "P1P",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Zelda",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3904936,
+   "sha256": "9b5ae08aefde58f6b891facd1f9881f642acf2c6eaded2a8110a2e3001dd0b6e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-compacta-2h12.3mf.xz",
+   "instance_id": "2014074",
+   "thumbnail": "previews/profiles/2014074.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2C",
+    "P1S",
+    "P2S",
+    "P1P",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Pokeball",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3759448,
+   "sha256": "1ac7fc0db4e3db3bf4ecf3162366bae39cfc036922c7176947328b420347f105",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-compacta-2h18.3mf.xz",
+   "instance_id": "2014071",
+   "thumbnail": "previews/profiles/2014071.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "H2S",
+    "P1S",
+    "P1P",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Pokemon ZA",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3729688,
+   "sha256": "69b1ae57fe7e96b9f92323848755051880c95a625f58d903251ac47894e45e17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-compacta-2h24.3mf.xz",
+   "instance_id": "1994742",
+   "thumbnail": "previews/profiles/1994742.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "X1E",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Splatoon",
+    "creation_date": "2026-01-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3890916,
+   "sha256": "4389379e52be5292d6e5314d6b492c29c396119fcb0b935911853da5ac3d1242",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-compacta-2h36.3mf.xz",
+   "instance_id": "2309933",
+   "thumbnail": "previews/profiles/2309933.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "MarioKart Shell",
+    "profile_notes": "Has a MarioKart shell on it. In the photo, I printed the pattern upside down; this is fixed in the .3mf file",
+    "creation_date": "2025-12-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2230852,
+   "sha256": "1c8e701719ab5ea885a6b1fcfe5f8d73116d3d0d5ff08e4bdfee40eb83fc2c58",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1864531",
+ "title": "Caja compacta de juegos de Nintendo Switch (impresión in situ)",
+ "slug": "compact-nintendo-switch-game-box-print-in-place",
+ "url": "https://makerworld.com/en/models/1864531-compact-nintendo-switch-game-box-print-in-place",
+ "author": "The_magic_squid",
+ "category": "console-cases",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Caja compacta de tarjetas de juego de Nintendo Switch (impresión in situ)\n¿Estás cansado de llevar voluminosos estuches originales para tus juegos de Switch? Esta caja compacta impresa en 3D está diseñada para almacenar y transportar de forma segura hasta 12 cartuchos de Nintendo Switch, y cabe fácilmente en su bolso, bolsillo o cajón.\nCaracterísticas\nImpresión en el lugar: las 3 piezas (base, tapa y clip de bloqueo) se imprimen completamente ensambladas, ¡no es necesario ensamblar!\nCapacidad para 12 juegos (6 en la base + 6 en la tapa)\nEl clip de bloqueo seguro mantiene todo cerrado durante el transporte\nDiseño ultradelgado: solo 12 mm de grosor, 95 mm de ancho y 104 mm de largo\nMúltiples diseños de tapa: logotipo de Switch, Zelda BOTW, Pikachu, “?”, 1UP Mushroom, Splatoon, ¡y más por venir!\nCompacto, elegante y fácil de imprimir en PLA\nCreé este modelo porque quería una forma sencilla y portátil de mantener mis juegos organizados y listos para jugar, ya sea en casa o mientras viaja.\n¿Tienes una idea para otro diseño?\nDeje sus sugerencias en los comentarios; ¡podría agregarlas en una actualización futura!",
+ "use_cases": [],
+ "tags": [
+  "nintendo",
+  "nintendo switch",
+  "nintendo switch 2",
+  "nintendo switch eres",
+  "switch",
+  "switch 2",
+  "tarjeta",
+  "caja de tarjeta",
+  "tarjeta de juego",
+  "caja de cartas de juego",
+  "mario",
+  "zelda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe27227b1de4d25/design/2025-10-12_751367e7e26da8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1069
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2014057.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1994739.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2014074.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2014071.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1994742.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2309933.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

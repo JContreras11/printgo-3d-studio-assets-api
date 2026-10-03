@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-enchufe.3mf.xz",
+   "instance_id": "2374963",
+   "thumbnail": "previews/profiles/2374963.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2026-01-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 489072,
+   "sha256": "e95dc3b979c99e3d874f9260843b37a2b383e35404b01cd21f9e0dac4c85666d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2187628",
+ "title": "Soporte de enchufe para caja de disco duro de consola central de automóvil eléctrico Xpeng G9 (incluidas las versiones USB-A y TYPE-C)",
+ "slug": "xpeng-g9-electric-car-center-console-hard-drive-en",
+ "url": "https://makerworld.com/en/models/2187628-xpeng-g9-electric-car-center-console-hard-drive-en",
+ "author": "user_4020953115",
+ "category": "console-cases",
+ "source_category": "Herramientas > Gadgets",
+ "description": "La consola central Xpeng G9 tiene dos interfaces: USB-A y USB-C. Este modelo incluye ambos juegos.\nAlgunos amigos podrían preguntarse: una unidad USB sería suficiente, entonces, ¿por qué tomarse la molestia de configurar un disco duro móvil?\n\nHay dos propósitos aquí:\n1. Capacidad suficiente;\n2. Velocidad de rendimiento más rápida (las pruebas de varios internautas muestran que la velocidad aquí afecta directamente el retraso del sistema del automóvil)\n\nUtilizo una carcasa de disco duro Orico ORICO + un disco duro NVME 500G normal.\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "xpeng g9",
+  "pararse",
+  "patinete eléctrico",
+  "caja de disco duro móvil",
+  "accesorios xpeng",
+  "accesorios para el auto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4471c85b1290a3/design/2026-01-02_246f9b2c7456b.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   890,
+   941
+  ],
+  "previews/profiles/2374963.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

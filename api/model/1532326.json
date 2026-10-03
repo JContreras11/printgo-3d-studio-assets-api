@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/estuche-r36s.3mf.xz",
+   "instance_id": "1607065",
+   "thumbnail": "previews/profiles/1607065.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 2,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print without support Print with brim Bambu ABS",
+    "creation_date": "2025-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1113048,
+   "sha256": "6f1a2b6307323b8424a2c5ad6c8c15fc6a03c866aaf341532c844a8451e3ec31",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1532326",
+ "title": "Estuche R36S con disparadores personalizados: ajuste perfecto",
+ "slug": "r36s-case-with-custom-triggers-perfect-fit",
+ "url": "https://makerworld.com/en/models/1532326-r36s-case-with-custom-triggers-perfect-fit",
+ "author": "user_1909238229",
+ "category": "console-cases",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Esta es una remezcla del estuche rígido para la consola portátil R36S creada originalmente por Stumpagness, modificada para adaptarse perfectamente a las consolas utilizando los gatillos traseros personalizados de Vinitlee.\n¿Qué hay de nuevo en este remix?\nAjuste interno optimizado: el estuche ha sido rediseñado para que el R36S se ajuste perfectamente incluso con los botones traseros mejorados, sin oscilaciones ni movimientos en el interior.\nDecoración con temática de juegos: agregué gráficos de estilo arcade, que incluyen una calavera con joystick y una máquina arcade retro, para darle un ambiente de jugador genial.\nCierre magnético: Esta versión utiliza imanes para un sistema de cierre suave y seguro.\nMaterial y perfil de impresión\nActualmente, solo se proporciona un perfil de impresión PETG, ideal por su durabilidad y ligera flexibilidad.\nSi hay interés, puedo subir una versión con clip-lock y perfiles para PLA, ABS, etc.\n¡Déjame saber en los comentarios si te gustaría ver más variantes o usarlo con otras modificaciones!\nPerfecto para fans de consolas retro como GameBoy, PlayStation o Nintendo.",
+ "use_cases": [],
+ "tags": [
+  "retro",
+  "portátil",
+  "estuche",
+  "funda duro",
+  "imán",
+  "costumbre",
+  "juego de azar",
+  "r36s",
+  "funda r36s",
+  "playstation",
+  "nintendo",
+  "gameboy"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-06-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa61265ad7b566b/design/2025-07-23_3f69bc38f780b.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   591,
+   1280
+  ],
+  "previews/02.jpg": [
+   591,
+   1280
+  ],
+  "previews/03.jpg": [
+   591,
+   1280
+  ],
+  "previews/profiles/1607065.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

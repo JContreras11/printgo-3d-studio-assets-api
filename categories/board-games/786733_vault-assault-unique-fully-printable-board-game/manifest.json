@@ -1,0 +1,1882 @@
+{
+ "files": [
+  {
+   "path": "model/vault-assault-19h24.3mf.xz",
+   "instance_id": "724528",
+   "thumbnail": "previews/profiles/724528.jpg",
+   "print_time_h": 19.4,
+   "plates": 18,
+   "rating": 4.9,
+   "rating_count": 323,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Vault Assault - Full",
+    "profile_notes": "0.4mm Nozzle 0.2mm Layer Height 15% Infill (100% Infill for pawls)",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10160,
+      "weight_g": 88.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 24106,
+      "weight_g": 192.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4830,
+      "weight_g": 21.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4365,
+      "weight_g": 18.88,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       },
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1346,
+      "weight_g": 7.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       },
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2396,
+      "weight_g": 11.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2528,
+      "weight_g": 5.01,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2195,
+      "weight_g": 7.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF9016"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2477,
+      "weight_g": 8.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3362,
+      "weight_g": 12.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2219,
+      "weight_g": 8.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#009BF9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2666,
+      "weight_g": 10.4,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#594177"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1379,
+      "weight_g": 3.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1394,
+      "weight_g": 3.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#009BF9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1379,
+      "weight_g": 3.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1421,
+      "weight_g": 4.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1120,
+      "weight_g": 3.63,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 451,
+      "weight_g": 0.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 18
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 15675540,
+   "sha256": "a778367440ca4c1672556561040b7ec20c9f3affff2ec5aa2e262e4337d76404",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-12min.3mf.xz",
+   "instance_id": "958101",
+   "thumbnail": "previews/profiles/958101.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Vault Inner Rod Horizontaly 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print with no support, add a drop of glue when assembling",
+    "creation_date": "2025-01-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 808,
+      "weight_g": 3.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 6949360,
+   "sha256": "780548e89cafcfe8c0ceb55d52c94af3edec1c39b398a8276c841aa44d5cb4f4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-18h12.3mf.xz",
+   "instance_id": "2709317",
+   "thumbnail": "previews/profiles/2709317.jpg",
+   "print_time_h": 18.2,
+   "plates": 12,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D",
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Extend game across multiple boards",
+    "profile_notes": "I am a big fan of the creativeness and possibilities of this game that Applepie created, and many others have shared print profiles on. I thought you could simulate robbers tunneling from the basement of the building next store by combining two boards. Lots of variations: Multiple players on the left try and rob the vault on the right Three players on each side try and rob the vault on the opposite side Three players on one side try and rob two vaults on the opposite side… Lot's more that others can contribute! This print configuration lists the additional components needed to combine two boards. You will need to print out double the components of the main game, plus the items in this print profile. This profile contains: Larger storage box Attachment brackets to store one board below and one board above the storage box A “tunnel” piece that is a bracket that holds the boards together A special gear that transfers movement from one board to the other “through the tunnel” The connecting gear is placed on the middle position of one of the player aids, the assembly is then placed in between two boards. The tunnel bracket holds the two boards relative to each other and against the middle transfer gear. The expanded storage contains room for: Double components Print in place containers to hold Gears 1-4 Stacking trays to hold the double quantity of Player Aids and Gears 5-6 Secure locations for Two vaults with @3Dja's magnetic vault doors and two of his awesome “Jails” Print in place container to hold Axl_print3D's (@axloury) beautiful dice Many thanks to Applepie, 3Dja, and Axl_print3D (axloury).",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 12503412,
+   "sha256": "cbc800f8603cb25344ddc530276bf4635f6ef2223f429bf9fec203ccc588dcce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-1h54.3mf.xz",
+   "instance_id": "1461809",
+   "thumbnail": "previews/profiles/1461809.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Pressure Fit Base Plate to Cover Screws",
+    "profile_notes": "Screws scratched up my table, so I made a base plate to cover them",
+    "creation_date": "2025-05-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6955812,
+   "sha256": "d69eb49b997002c8ea1acab928a241560b68fa2345794cdbc493d67f84302bb9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-20h30.3mf.xz",
+   "instance_id": "724540",
+   "thumbnail": "previews/profiles/724540.jpg",
+   "print_time_h": 20.5,
+   "plates": 7,
+   "rating": 4.7,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.00.87",
+    "profile_title": "Vault Assault - No AMS",
+    "profile_notes": "0.4mm Nozzle 0.2mm Layer Height 15% Infill (100% for Pawls)",
+    "creation_date": "2024-11-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9279,
+      "weight_g": 82.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 33602,
+      "weight_g": 192.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21304,
+      "weight_g": 81.54,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6775,
+      "weight_g": 33.79,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 972,
+      "weight_g": 3.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1320,
+      "weight_g": 3.63,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E4BD68"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 453,
+      "weight_g": 0.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 7
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 15070688,
+   "sha256": "fed6a25e8feec956322efaeb315045a4cd4867ec8d8fa1f5bb8ead94f684c35d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-23h48.3mf.xz",
+   "instance_id": "833950",
+   "thumbnail": "previews/profiles/833950.jpg",
+   "print_time_h": 23.8,
+   "plates": 18,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "No AMS, coloured - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "The version with coloured board and things separated on the plates. Consist two types of board: regular Board with the holes in the places where the graphic should be set Board + Overlay with raised graphics. Board printed in two parts must to be glued together with ‘Overlay’ using ‘Board Alignment Jig’. To use it place ‘Overlay’ upside down and then Board on it.",
+    "creation_date": "2024-12-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9565,
+      "weight_g": 86.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 26531,
+      "weight_g": 203.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3581,
+      "weight_g": 26.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7820,
+      "weight_g": 75.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3176,
+      "weight_g": 11.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5535,
+      "weight_g": 18.08,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1233,
+      "weight_g": 5.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 624,
+      "weight_g": 0.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 479,
+      "weight_g": 0.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1223,
+      "weight_g": 3.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2476,
+      "weight_g": 18.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5653,
+      "weight_g": 21.02,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#ECA013"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2909,
+      "weight_g": 4.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2570,
+      "weight_g": 7.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#ECA013"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2913,
+      "weight_g": 8.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3847,
+      "weight_g": 11.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00DF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2611,
+      "weight_g": 7.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3063,
+      "weight_g": 10.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8080FF"
+       }
+      ]
+     }
+    ],
+    "photos": 18
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 15364856,
+   "sha256": "4723cea5e2d1cab7510abc62a47bb556541b78daffc50941b6ecbf872924a6c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-29h18.3mf.xz",
+   "instance_id": "776737",
+   "thumbnail": "previews/profiles/776737.jpg",
+   "print_time_h": 29.3,
+   "plates": 13,
+   "rating": 4.9,
+   "rating_count": 53,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Complete game, Filled Gears n˚, accessories - on low plates",
+    "profile_notes": "Optimized printing the game and accessories by regrouping same color plates (mainly the player's accessories, figurines and gears)",
+    "creation_date": "2025-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5457,
+      "weight_g": 26.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6383,
+      "weight_g": 29.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#21FF06"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6027,
+      "weight_g": 29.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#46A8F9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5481,
+      "weight_g": 22.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4424,
+      "weight_g": 17.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#594177"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2752,
+      "weight_g": 9.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15907,
+      "weight_g": 124.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 29235,
+      "weight_g": 190.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5023,
+      "weight_g": 18.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       },
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1597,
+      "weight_g": 6.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       },
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2808,
+      "weight_g": 11.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8270,
+      "weight_g": 41.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11998,
+      "weight_g": 135.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 13
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 18790280,
+   "sha256": "8f1bd6c1ce33cd8190c37846b418e3340383cf007162cbefd6b48d77e0cede20",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-30h54.3mf.xz",
+   "instance_id": "788324",
+   "thumbnail": "previews/profiles/788324.jpg",
+   "print_time_h": 30.9,
+   "plates": 19,
+   "rating": 5,
+   "rating_count": 22,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill for A1 Mini",
+    "profile_notes": "A print profile for A1 Mini. Split the large parts into separate parts, that need to be glued together.",
+    "creation_date": "2024-12-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5880,
+      "weight_g": 26.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6728,
+      "weight_g": 29.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#21FF06"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6397,
+      "weight_g": 29.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#46A8F9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5813,
+      "weight_g": 22.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4727,
+      "weight_g": 17.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#594177"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2962,
+      "weight_g": 9.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5513,
+      "weight_g": 39.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2622,
+      "weight_g": 17.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4918,
+      "weight_g": 18.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       },
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1435,
+      "weight_g": 7.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       },
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2990,
+      "weight_g": 11.22,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6070,
+      "weight_g": 24.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12817,
+      "weight_g": 135.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9526,
+      "weight_g": 66.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4004,
+      "weight_g": 23.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7236,
+      "weight_g": 49.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7224,
+      "weight_g": 49.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7230,
+      "weight_g": 49.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7248,
+      "weight_g": 49.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     }
+    ],
+    "photos": 19
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 19115228,
+   "sha256": "8139621b20590ac01f1053337fd1c492cd4fab89e9594d557741e21ab2bde54e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-30min.3mf.xz",
+   "instance_id": "893106",
+   "thumbnail": "previews/profiles/893106.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "TPU feet",
+    "profile_notes": "TPU feet to cover the screws, so there is no scratching",
+    "creation_date": "2024-12-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1649,
+      "weight_g": 1.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 6968040,
+   "sha256": "7bab4f2a4952a868b4219b24d1bee4e89a4c6282519c3b56ce858483f12d6900",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-3h30.3mf.xz",
+   "instance_id": "842469",
+   "thumbnail": "previews/profiles/842469.jpg",
+   "print_time_h": 3.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Storage Case for Extended Vault/Magnetic Door - with Insert",
+    "profile_notes": ".4mm nozzle, 2mm layer, minimal support with support blocker modifier and painted non-support. I finally got around to modifying Applepie's storage case to fit the vault extension/magnetic vault cover that I posted a couple weeks ago. Everything in this case is exactly the same as the original designer's except a longer compartment to allow the extended vault to fit and I also added an insert module that holds the coins, thieves, and die (up to 16mm). The insert has a lower storage compartment that has a jail for the thief player pieces (will hold up to 6 so you can have a couple of additional player colors from the designer's profile). The jail has a gate that safely locks the little criminals away! If 4 optional magnets are used, it will have 2 positions, minimum security and maximum security! The top part of the insert has a compartment that stores the game coins (regular and expanded amount) and it will also hold a die up to 16mm. The coin compartment has a slidable cover to keep these little suckers from bouncing around, can't be risking losing gold coins with the state of the economy and all! The insert assembly has pockets for 3 x 2 disk magnets in the insert body and the gate that are optional - it works a lot cooler with the magnets, but the thieves will be unable to escape even if you decide to forego the magnets. Double check magnet polarity before pressing in, should be able to install them without glue. The lower section of the insert has minimal support - for the 2 slots on the side and the for the roof of the jail cell. Be sure to remove any straggling support material form the cell area so the little fellas don't get hung up when being locked away! Thanks again to Applepie for sharing this phenomenal model!",
+    "creation_date": "2024-12-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9237,
+      "weight_g": 130.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3326,
+      "weight_g": 16.93,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 10111084,
+   "sha256": "cbac7cbeb8cfcb9b6ac20520a472a8fd170043bb63b6c4f9673627878fa4b94c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-5h54.3mf.xz",
+   "instance_id": "753234",
+   "thumbnail": "previews/profiles/753234.jpg",
+   "print_time_h": 5.9,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 28,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Gears Filled, Slow First Layer, 0.2mm layer",
+    "profile_notes": "I filled in the numbers on the gears because I felt that made them much easier to read. I recommend using a lighter color purple if you have one. I also slowed the first layer speed down from the original for more consistent adhesion. I found that going to fast tended to lead to one or two gears being slightly deformed unless I cleaned my print bed between each print.",
+    "creation_date": "2024-11-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3093,
+      "weight_g": 10.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4160,
+      "weight_g": 14.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#21FF06"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3700,
+      "weight_g": 13.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#46A8F9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4428,
+      "weight_g": 17.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#594177"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3111,
+      "weight_g": 6.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2751,
+      "weight_g": 9.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7276064,
+   "sha256": "07e6f74dddc6aa2babf039cf15695cae3dd4a035d6e44e7691f4363ab9b6f155",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vault-assault-7h24.3mf.xz",
+   "instance_id": "2709090",
+   "thumbnail": "previews/profiles/2709090.jpg",
+   "print_time_h": 7.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "P2S",
+    "P1S",
+    "X1E",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Two-Piece Board: Smooth top playing surface",
+    "profile_notes": "A two-piece print profile for the main board. In printing the main board upside down, a smoother playing surface is achieved when using a high-temperature, non-textured plate. Making the board a two-piece reduces the printing time to seven and a half hours, versus printing the one-piece board upside down, which had more than an 11 hour print time, and had a lot of support material to remove. The upside down one-piece board also resulted in a rough surface of mating geometry that contacts the input gear and pawl components. Once the two pieces are printed out, the flange can be attached to the board by super glue. Assembly proceeds normally from there. Added logo to the reverse side of the main board.",
+    "creation_date": "2026-03-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 8884172,
+   "sha256": "dcb097b99868418a823d9649c8d677db97ab7ff899d6b53f360e388451cc7c13",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "786733",
+ "title": "Vault Assault: juego de mesa único y totalmente imprimible",
+ "slug": "vault-assault-unique-fully-printable-board-game",
+ "url": "https://makerworld.com/en/models/786733-vault-assault-unique-fully-printable-board-game",
+ "author": "Applepie",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Actualización 1 (19/11/2024): Reglas V1.1, cambios de piezas menores y paquete de accesorios agregados (consulte a continuación para obtener más detalles)\n\nVault Assault es un emocionante juego de mesa impreso en 3D en el que los jugadores encarnan a atrevidos crackers de bóvedas en una misión de alto riesgo para entrar en una bóveda y apoderarse de sus riquezas doradas. Con hasta cuatro jugadores, de 8 años o más, este juego combina estrategia, astucia y un toque de sabotaje mientras los participantes colocan engranajes estratégicamente en el tablero para conectarse a la bóveda y liberar las monedas que contiene. La emoción se intensifica a medida que los jugadores superan los desafíos, con el objetivo de superar a los oponentes y evitar activar la alarma que podría terminar el atraco abruptamente.\n\nCaracterísticas clave:\nColocación dinámica de equipos: los jugadores usan una variedad de equipos para crear caminos complejos, conectarse a la bóveda y recolectar monedas.\nJuego estratégico: incluye oportunidades para robar estratégicamente y redirigir engranajes para alterar los planes de los oponentes.\nMecánica interactiva: el tablero de juego, los componentes de la bóveda y las tiradas de dados garantizan que no haya dos juegos iguales.\nMúltiples modos de juego: desde el “modo desafío” hasta el “doble problema”, los jugadores pueden disfrutar de variaciones que ajustan la dificultad y la estrategia.\nTema tenso de Heist: la alarma añade una emocionante imprevisibilidad, manteniendo a los jugadores alerta hasta el final.\nVault Assault desafía a los jugadores a pensar en el futuro, adaptar sus estrategias y administrar hábilmente sus equipos para ser más astutos que sus rivales y convertirse en el cracker de bóvedas más rico.\n\nA continuación se incluye un manual de instrucciones completo en PDF para el juego, ¡asegúrate de consultarlo!\n\nDiseño\nDiseñar este juego ha sido EXCELENTE y comencé con solo algunos conceptos clave:\nJuego de 2 a 4 jugadores\nInteracciones mecánicas, aprovechando al máximo el elemento de impresión 3D en el diseño de juegos de mesa.\nEstrategia sobre suerte dentro de la mecánica del juego.\nAlta rejugabilidad (diferentes juegos cada vez, múltiples modos de juego, ampliable con futuras actualizaciones)\nMe aseguré de que el diseño minimizara la necesidad de soporte y limitara el filamento purgado, y aunque en total esta impresión requiere alrededor de 400 g de filamento, solo se usan 0,81 g para soporte y 18,25 g para lavado y torre (para la versión a todo color que se muestra). Para la versión que no es AMS, el desperdicio de flujo y torre es, por supuesto, de 0 g.\n\nPerfiles de impresión\nHe incluido dos perfiles de impresión para este proyecto, una versión a todo color como se muestra en las imágenes y una versión sin AMS/Quick print:\n“Vault Assault Full”: perfil a todo color con la configuración correcta configurada (se requiere filamento de 418 g, 9 colores, tiempo de impresión de 19 h 48 min)\n“Vault Assault No-AMS”: perfil de color limitado sin necesidad de AMS (se requiere filamento de 396 g, 4 colores, tiempo de impresión de 16 h 57 min)\n\nConstrucción de tablero de juego\nDiseñé el tablero de juego para que fuera de construcción simple y requiriera una cantidad mínima de piezas adicionales. Además de las piezas impresas, sólo se necesitan unos pocos tornillos y muelles/bandas elásticas. Puedes optar por construir el mecanismo de trinquete y trinquete para cada uno de los engranajes del jugador con resortes o bandas elásticas, dependiendo de lo que te resulte más fácil; sin embargo, los resortes darán un mejor resultado y durarán más. La lista completa de piezas de suministro del fabricante y piezas adicionales se enumeran como parte de este modelo, pero en resumen:\n12 tornillos avellanados M3 x 10 mm.\n8 tornillos de cabeza de botón M2x4 mm (solo necesarios si se utilizan resortes para trinquete y trinquetes)\n4 x resorte de extensión BA001 (solo se requiere si se usan resortes para trinquete y trinquetes)\n4 bandas elásticas de 12 mm (yo usé las pequeñas bandas para el cabello de mi pareja) (Solo es necesario si se usan bandas elásticas para el trinquete y los trinquetes)\n\nPaso 1\nUna vez que se hayan impreso todas las piezas, separe los elementos necesarios para construir el tablero de juego, que consta del tablero exterior, el tablero de clavijas, 4 x Player Gear (con trinquete), 4 x Player Gear y 4 x Pawl. Puedes identificar los engranajes del jugador buscando los que tienen un agujero en la parte superior.\n\nPaso 2 - (Enfoque con banda elástica)\nToma una de tus bandas elásticas y envuélvela alrededor del pilar plateado con la cabeza biselada en el tablero de clavijas. Descubrí que las tres rotaciones proporcionan la mejor cantidad de presión. Una vez que haya logrado colocar tres bucles alrededor del pilar, mientras mantiene la banda elástica bajo presión, pase el trinquete y anime la banda elástica a asentarse en la ranura cortada en el trinquete. Luego puede bajar la clavija del trinquete en el orificio a la izquierda del pilar y se mantendrá en su lugar. Ahora tome el Player Gear (con trinquete) e insértelo en el otro orificio (deberá quitar ligeramente el trinquete). El engranaje ahora debería mantenerse en su lugar y el trinquete debería encajar con el trinquete. Es posible que tanto el engranaje como el trinquete no queden perfectamente alineados en esta etapa, pero no se preocupe, una vez que agregue la tabla exterior, colocará todo en la posición correcta.\n\nPaso 2 - (Acercamiento de primavera)\nColoque un bucle del resorte sobre el orificio del tornillo adjunto al cuerpo principal del tablero de clavijas (asegurándose de que la bobina del resorte esté fa",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "junta",
+  "juegos de mesa",
+  "engranaje",
+  "diente",
+  "trinquete",
+  "mecánico",
+  "aprendiendo",
+  "educación",
+  "juego",
+  "2 jugadores"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6d03d64ccce143/design/2024-11-14_c3f9b752aea87.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   864,
+   864
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/724528.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/958101.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2709317.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1461809.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/724540.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/833950.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/776737.jpg": [
+   399,
+   299
+  ],
+  "previews/profiles/788324.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/893106.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/842469.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/753234.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2709090.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

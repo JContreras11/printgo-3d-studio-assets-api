@@ -1,0 +1,437 @@
+{
+ "files": [
+  {
+   "path": "model/juego-dispara-8h18.3mf.xz",
+   "instance_id": "1467380",
+   "thumbnail": "previews/profiles/1467380.jpg",
+   "print_time_h": 8.3,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 135,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Whole game set - eyes of the toilet printed separately",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 4100732,
+   "sha256": "8840b1888dcc28f9fc8b3a9d58c1230c52ec72da61193db7fdc86185ad22c777",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-42min.3mf.xz",
+   "instance_id": "1467396",
+   "thumbnail": "previews/profiles/1467396.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Poop only",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3115032,
+   "sha256": "ec226442207a4d3625037689409c65acf450f8f63c9df9a24d44e7badd5bb494",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-48min.3mf.xz",
+   "instance_id": "1467388",
+   "thumbnail": "previews/profiles/1467388.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Launcher only",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1938652,
+   "sha256": "c21400def4f9bd7cbec7971f83bfd8fe3a64e2e954a240eb10063693ae61a60e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-4h36.3mf.xz",
+   "instance_id": "3628447",
+   "thumbnail": "previews/profiles/3628447.jpg",
+   "print_time_h": 4.6,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "X2D",
+    "X1",
+    "P1P",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Triple box for three catapults - box only",
+    "profile_notes": "In response to numerous requests from users, I have converted the file previously uploaded by j7C4n into a Triple Box. I do not hold any rights to this box. The print profile includes only the triple box and no other elements from the Poop game.",
+    "creation_date": "2026-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2637368,
+   "sha256": "b7e02a377fedc685fcaa54ce96b85e345277b791249af6ad84cf5bf70d91dc80",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-5h30.3mf.xz",
+   "instance_id": "2745893",
+   "thumbnail": "previews/profiles/2745893.jpg",
+   "print_time_h": 5.5,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Storage box for 2 launchers and 20+ poops",
+    "profile_notes": "This profile is a modified version of the SnapLock Storage box to securely hold two launchers and 20 (or more) poops for this game. It includes added dividers to keep things organized and prevents the launchers from bouncing around. One of the plates features a poo emoji on the lid for some extra fun. Note that the launchers must be placed in the direction pictured for the lid to close. Box and latch only, no game pieces are included.",
+    "creation_date": "2026-03-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2661628,
+   "sha256": "958a58f41e8b1cf8622393dcd7401046a919c366970d79b5b3374489d8964de5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-6h06.3mf.xz",
+   "instance_id": "1467395",
+   "thumbnail": "previews/profiles/1467395.jpg",
+   "print_time_h": 6.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Toilet only - toilet with eyes in one color",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2619028,
+   "sha256": "b0c8a968e2aad1333accc40849cf98d00e242196586a7ed18b667343cd49d13e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-6h12.3mf.xz",
+   "instance_id": "1467392",
+   "thumbnail": "previews/profiles/1467392.jpg",
+   "print_time_h": 6.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Toilet only - eyes of the toilet printed separately",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2699048,
+   "sha256": "851f2ede6de6948d025c98a3cfbd3da6b95e50edfa967cb8b7be773aad2c72fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-dispara-8h12.3mf.xz",
+   "instance_id": "1467385",
+   "thumbnail": "previews/profiles/1467385.jpg",
+   "print_time_h": 8.2,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Whole game set - toilet with eyes in one color",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 4150368,
+   "sha256": "74fcee043027fbdab0e08cb7df9acb6034805cb7c7d14868a95070c06687348a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1413297",
+ "title": "Juego Dispara a la caca",
+ "slug": "shoot-the-poop-game-no-ams",
+ "url": "https://makerworld.com/en/models/1413297-shoot-the-poop-game-no-ams",
+ "author": "mdadela",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Shoot the Poop Game: ¡la máxima diversión para lanzar caca!\n¡Prepárate para el juego impreso en 3D más ridículamente divertido jamás creado! Presentamos el juego Shoot the Poop: una experiencia familiar (o lista para fiestas) en la que lanzas una caca al inodoro. Sí. Has leído bien. Una caca. Una catapulta. Un objetivo. Risas interminables.\nBoost Me Si disfrutas este proyecto, ¡dejar un Boost es una excelente manera de mostrar tu apoyo! Me ayuda a mantenerme motivado para crear más modelos increíbles y seguir compartiéndolos aquí de forma gratuita. Súper fácil de montar – Máxima diversión\n¿Odias las construcciones complicadas? ¡Perfecto! Shoot the Poop Game es rápido y sencillo de montar. ¡Simplemente imprima, junte y comience a lanzar! Sin tornillos ni instrucciones dignas de una misión espacial: pura (bueno, un poco desordenada) diversión.\n¡No se requiere AMS!\n¿Normas? ¡¿Qué reglas?!\nInstrucciones oficiales:\nColoca la caca en el lanzador.\nApunta al baño.\nPresione la palanca.\nMíralo volar y ríe como loco.\nPero, sinceramente… ¡crea tus propias reglas!\nAleje más el inodoro para afrontar más desafíos\nJuega por puntos, por velocidad o con los ojos cerrados\nOrganiza torneos de lanzamiento de caca con tu familia o amigos\n¿Qué hay en el conjunto estándar?\n2 lanzadores: perfectos para batallas cara a cara\n10 pequeñas y gloriosas cacas: puedes imprimirlas en dos colores para saber quién anotó qué\n1 baño: ¡el poderoso trono, tu objetivo final!\n\nBonificación: ¡Dos versiones de inodoro disponibles!\nEl inodoro, tu noble objetivo, viene en dos versiones descargables:\nInodoro de una sola pieza: imprímelo todo en un solo color, bonito y fácil.\nInodoro de dos partes con ojos: ¡imprime el inodoro y los ojos por separado para darle más personalidad!\nLos ojos vienen con alfileres en la parte posterior para ayudarte a colocarlos exactamente donde pertenecen.\nTambién están etiquetados con L (Izquierda) y R (Derecha) en la parte posterior; solo mire el inodoro desde el frente y péguelos en el lado correcto.\nUn poco de pegamento es suficiente y ¡boom! ¡Tu inodoro está observando cada toma!\n¿Quieres ahorrar filamento? ¡Ningún problema! Simplemente imprima:\n1 lanzador\n1 caca\nY en lugar del inodoro, utiliza... una taza, un bol, un recipiente de yogur... ¡lo que tengas! ¡Mientras la caca caiga, cuenta!\nEn este funda el tiempo total de impresión es de unos 40 minutos y utilizarás menos de 20 gramos de filamento para las piezas. ¡Rápido y eficiente!\nUn juego lleno de risas para todos\nPerfecto para noches de juegos en familia\nDivertidísimo en las fiestas\nGenial como regalo tonto\nO simplemente para esos días en los que tienes ganas de lanzar caca por toda la habitación.\nCómo montar el lanzador de caca\nComience con la base: colóquela sobre una superficie plana.\n\nInserta la palanca en la torre más corta, tal como se muestra en la foto. Necesitarás usar un poco de fuerza. El ajuste es ajustado a propósito, por lo que permanece seguro durante el juego.\n\nInserte la bandeja para excrementos en la torre más alta presionándola firmemente en su lugar. Compruebe si todo se mueve correctamente y no sale nada; si algo sale, presiónelo hasta el fondo.\n\n¡Eso es todo! ¡Estás listo para lanzar caca!\n\n¡Descárgalo ahora y conviértete en el campeón de Poop!\nShoot the Poop Game es la combinación perfecta de impresión sencilla, infinitas variaciones de juego y humor gloriosamente tonto. Es para todos, desde niños hasta adultos con sentido de la diversión.\nPorque la vida es demasiado corta como para no tirar caca al baño.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "juego de mesa",
+  "caca",
+  "catapulta",
+  "divertido",
+  "juego familiar",
+  "juego de fiesta",
+  "juguete",
+  "juguetes",
+  "baño",
+  "juego de baño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa31a443096f611/design/2025-05-13_adff2ed99c2f.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   971
+  ],
+  "previews/03.jpg": [
+   1000,
+   880
+  ],
+  "previews/04.jpg": [
+   1000,
+   960
+  ],
+  "previews/05.jpg": [
+   1000,
+   947
+  ],
+  "previews/profiles/1467380.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1467396.jpg": [
+   600,
+   474
+  ],
+  "previews/profiles/1467388.jpg": [
+   600,
+   508
+  ],
+  "previews/profiles/3628447.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2745893.jpg": [
+   600,
+   591
+  ],
+  "previews/profiles/1467395.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1467392.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1467385.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

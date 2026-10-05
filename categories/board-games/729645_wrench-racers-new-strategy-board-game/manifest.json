@@ -1,0 +1,495 @@
+{
+ "files": [
+  {
+   "path": "model/wrench-racers-16h54.3mf.xz",
+   "instance_id": "661219",
+   "thumbnail": "previews/profiles/661219.jpg",
+   "print_time_h": 16.9,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 144,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Wrench Racers Board Game - 0.2mm , 2 walls, 8% cross hatch",
+    "profile_notes": "Everything is printed at 8% infill except for the dice, which we recommend an infill of at least 70% for dice.",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7570,
+      "weight_g": 61.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12402,
+      "weight_g": 122.97,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 24773,
+      "weight_g": 204.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12245,
+      "weight_g": 77.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1539,
+      "weight_g": 6.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2241,
+      "weight_g": 12.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7209980,
+   "sha256": "49d1a45102b8cefd58e18cf1f09b62e38c049409b8f8b258b99745a84cbafef7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/wrench-racers-18min.3mf.xz",
+   "instance_id": "662737",
+   "thumbnail": "previews/profiles/662737.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "Make Your Own Game Tiles",
+    "creation_date": "2024-10-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1089,
+      "weight_g": 3.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#353535"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2458080,
+   "sha256": "1477bf1e417a48af11ba485820fd61e8f9d1972940c102cb3c996b53489e0fd8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/wrench-racers-1h.3mf.xz",
+   "instance_id": "854881",
+   "thumbnail": "previews/profiles/854881.jpg",
+   "print_time_h": 1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Coloured Dice for Wrench Racers",
+    "profile_notes": "I've taken the Gesture Dice and updated it with the required sides to play Wrench Racers. It's easier to see than the single colour version and prints a lot quicker than if you colour the whole dice. Hope it add a tiny bit to a fun game. The sides don't need a brim but it's worth adding one to the core to make sure it sticks.",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1920,
+      "weight_g": 4.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1716,
+      "weight_g": 6.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2567872,
+   "sha256": "709749be8b8ea6a5e99679927aba2d35451f38024f51de1d7e2d7df152f30f9c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/wrench-racers-30min.3mf.xz",
+   "instance_id": "2328007",
+   "thumbnail": "previews/profiles/2328007.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X1E",
+    "P1P",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Simpler edge for glueing",
+    "profile_notes": "In this profile, the edge that's indicating player color is cut down, allowing it to be glued on rather than screwed on together with the board's feet like in the original profile. The only reason I made this profile, is because I was silly and screwed and glued the feet onto the board, before I had printed the edge. This made me think of this solution, where the edge can simply be glued on after the feet are already attached.",
+    "creation_date": "2025-12-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2570752,
+   "sha256": "686f97234538938e0b7c88b007ffaa3e69c90880f587d17cad96e5b69ab81842",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/wrench-racers-6h30.3mf.xz",
+   "instance_id": "1149203",
+   "thumbnail": "previews/profiles/1149203.jpg",
+   "print_time_h": 6.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 20,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Storage box for game parts and big dice",
+    "profile_notes": "Separate compartments for display stands. Space for tokens, preferably in a bag. The labeling can be customized in the slicer. No support needed.",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17658,
+      "weight_g": 222.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5605,
+      "weight_g": 58.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA versión grande",
+   "size": 4161884,
+   "sha256": "aea98c78da64b345124ea2a8a9cdbe824a66a1f8ea6e611fce657298a7a21670",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "729645",
+ "title": "Wrench Racers - Nuevo juego de mesa de estrategia",
+ "slug": "wrench-racers-new-strategy-board-game",
+ "url": "https://makerworld.com/en/models/729645-wrench-racers-new-strategy-board-game",
+ "author": "ozarkexpedition",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Wrench Racers es un juego estratégico de colocación de fichas de ritmo rápido en el que los jugadores corren para conectar su tubería desde la esquina del tablero hasta el centro. Los jugadores usan una variedad de fichas de tubos (recto, codo, tee y cruzado) junto con piezas bloqueadoras especiales para burlar a sus oponentes. El juego combina el pensamiento táctico con una competencia alegre, ofreciendo estrategias tanto ofensivas como defensivas. Con reglas simples y un juego rápido, es una gran adición a la noche de juegos. En cada turno, los jugadores deben decidir si construir su propia red de tuberías o perturbar a sus rivales, mientras compiten por ser el primero en completar la conexión al centro.\n\n¡Manténgase actualizado con lo que estamos creando y venda impresiones físicas de cualquiera de mis diseños uniéndose a nuestra suscripción de Patreon y apoye más diseños futuros!\nComponentes\n1 tablero de juego\n4 juegos de piezas de jugador (un color por jugador)\n4 soportes para azulejos\nLosetas para tuberías (rectas, acodadas, en T, transversales y bloqueadores)\n1 morir\n1 bolsa blanda para fichas de tubos para que el dibujo de las fichas sea más aleatorio, como Scrabble; aquí hay un ejemplo de nuestro enlace de Amazon:\n16 tornillos autorroscantes de 2,6 x 8 mm de Maker's Supply o equivalente.\nConfiguración del juego\nColoca el tablero de juego en el centro, con cuatro jugadores sentados en cada esquina.\nCada jugador recibe un conjunto de 5 fichas de tubería aleatorias extraídas de la pila compartida.\nEl juego comienza cuando cada jugador inicia su tubería desde su esquina del tablero. El jugador más joven tirará primero, cada persona se turnará en el sentido de las agujas del reloj.\nLos jugadores se turnan para tirar el dado para determinar su acción.\nInstrucciones de juego - Reglas originales - 2-4 jugadores\n\nOrden de turno: en el turno de un jugador, tira el dado para determinar su acción. Según el resultado, pueden: Colocar dos fichas: elegir dos fichas de su mano y colocarlas en la cuadrícula, continuando desde su red de tuberías existente o bloqueando a sus oponentes.\nColoque una ficha: elija una ficha de su mano y colóquela en la cuadrícula.\nSaltarse un turno: Desafortunadamente, pierden un turno y no realizan ninguna acción.\nQuitar la ficha de un oponente: seleccione una ficha de la red de un oponente y elimínela, creando un espacio que luego deberán llenar.\n\nColocar fichas: los jugadores pueden colocar fichas solo si se conectan a su tubería existente. Pueden colocar las fichas en cualquier cuadrado abierto dentro de la cuadrícula.\nLas fichas se pueden girar para adaptarse a la dirección deseada del jugador.\nLos jugadores deben conectar su tubería desde su esquina inicial hasta el centro del tablero.\n\nAcciones especiales: se pueden colocar fichas bloqueadoras para obstruir la ruta de un oponente, obligándolo a desviarse. Sin embargo, los bloqueadores no pueden impedir por completo que un oponente continúe con su canalización; deben dejar al menos una ruta posible disponible.\n\nExtraer nuevas fichas: después de colocar una ficha o fichas, el jugador extrae de la bolsa de fichas compartida hasta tener 5 fichas en la mano.\nSi la mano de un jugador está llena de fichas inutilizables (por ejemplo, que no encajan), puede descartarlas y volver a dibujarlas una vez por turno.\n\nGanar el juego:\nEl primer jugador que conecte con éxito su tubería desde su esquina inicial hasta el centro del tablero gana el juego. Deben tener un recorrido continuo e ininterrumpido de tuberías que vayan desde su esquina hasta la loseta central.\nReglas especiales\nSin punto muerto: las fichas bloqueadoras no se pueden colocar de tal manera que un oponente no tenga movimientos posibles entre su red actual de tuberías y la ficha final.\nSin punto muerto: los jugadores no pueden colocar una pieza en el tablero de una manera que les impida continuar su camino (donde una tubería termina contra una pared o contra otra tubería).\nPrecaución: Mantenga las piezas pequeñas del juego fuera del alcance de los niños pequeños.\nReglas de juego alternativas\nSi se te ocurren nuevas reglas de juego o te gustaría que se agreguen otros tipos de mosaicos, deja un comentario. Si desea crear sus propios mosaicos personalizados, hemos incluido el creador de mosaicos personalizable mediante Make My Sign.\nDificultad personalizable: ajusta el nivel del desafío modificando la distribución de los mosaicos. Para un juego más fácil, incluye piezas más versátiles como conectores de cuatro vías. Para una experiencia más difícil, aumente la cantidad de tubos rectos y mosaicos de bloqueo. También puedes agregar o eliminar espacios de acción especiales en el tablero.\nSprint para dos jugadores: en esta variación, los jugadores comienzan en esquinas opuestas y corren para conectar su tubería a una única pieza final colocada en el borde más alejado del tablero. Esto crea un camino más largo y estratégico y funciona muy bien tanto para 2 jugadores individuales como para 2 equipos que trabajan juntos.\nDos jugadores corren por el tablero.\nEl montaje es sencillo: solo se necesitan 12 tornillos y todo se ensambla rápidamente. Simplemente conecte las dos mitades de las patas con los tornillos autorroscantes. Una vez que las cuatro patas estén juntas, voltea el tablero de juego principal boca abajo y procede a conectar las patas a través de las piezas de las esquinas de colores en los orificios piloto provistos.\nIntención de diseño\nHemos elaborado cuidadosamente cada",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "juego de mesa",
+  "noche familiar",
+  "noche de juegos",
+  "entretenimiento",
+  "estrategia",
+  "suerte",
+  "llave inglesa",
+  "corredor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US20fffb1c8d0aaa/design/2024-10-21_2a66f12e52074.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/661219.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/662737.jpg": [
+   600,
+   435
+  ],
+  "previews/profiles/854881.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2328007.jpg": [
+   543,
+   400
+  ],
+  "previews/profiles/1149203.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

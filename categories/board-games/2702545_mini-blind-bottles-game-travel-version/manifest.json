@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/juego-mini.3mf.xz",
+   "instance_id": "2996164",
+   "thumbnail": "previews/profiles/2996164.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 42,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P2S",
+    "H2C",
+    "P1S",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer 2 walls 15% infill",
+    "creation_date": "2026-04-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2087264,
+   "sha256": "e6eb3588ae2d519da4e2c86f2842cf1c27793f31c35c4f9666d1eb24160c5efc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2702545",
+ "title": "Juego Mini Botellas Ciegos – Versión viaje",
+ "slug": "mini-blind-bottles-game-travel-version",
+ "url": "https://makerworld.com/en/models/2702545-mini-blind-bottles-game-travel-version",
+ "author": "TustiDesign",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Una versión mini y portátil del popular juego viral de TikTok, donde hay que colocar la botella encima de la correspondiente… ¡sin mirar!\nEsta versión de viaje está diseñada para ser compacta, liviana y fácil de transportar, perfecta para jugar en cualquier lugar: en casa, con amigos o mientras viaja.\n¡La jugabilidad es simple pero súper divertida!\nParece fácil… pero no lo es\n\nPerfecto para:\nnoches con amigos\njuegos de fiesta\ndesafíos divertidos\nviajar\ncontenido social\nCaracterísticas\nversión mini/de viaje\ninspirado en el juego viral de TikTok\nfácil de imprimir\ndivertido e inmediato\nadecuado para todas las edades\nBoost Me¡Tu apoyo es mi mayor motivación! ¡¡Gracias por todo!!",
+ "use_cases": [],
+ "tags": [
+  "mesa",
+  "juego de mesa",
+  "juegos",
+  "juego",
+  "botella",
+  "viral",
+  "tiktok",
+  "junta",
+  "accesorios",
+  "viajar",
+  "bolsillo",
+  "versión"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USee36c29a013d7f/design/1fc2eb8231e0a2b5.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2996164.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

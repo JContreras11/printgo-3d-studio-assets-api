@@ -1,0 +1,134 @@
+{
+ "files": [
+  {
+   "path": "model/mini-juego.3mf.xz",
+   "instance_id": "3308667",
+   "thumbnail": "previews/profiles/3308667.jpg",
+   "print_time_h": 22.7,
+   "plates": 10,
+   "rating": 5,
+   "rating_count": 53,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2S",
+    "H2D",
+    "H2C",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión estándar",
+   "size": 2835756,
+   "sha256": "88ef0fe466c6289c3dc22df1d1dc84cc2cb3eed362db85703cef7edebea2a2b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2952718",
+ "title": "Mini juego de fútbol de mesa",
+ "slug": "mini-tabletop-football-game",
+ "url": "https://makerworld.com/en/models/2952718-mini-tabletop-football-game",
+ "author": "klworx",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost MeSi te gusta este modelo y te imprime bien, ¡realmente agradecería un Boost! Tu apoyo me ayuda a seguir creando y compartiendo más diseños. ¡Muchas gracias! Mini juego de fútbol de mesa\n¡Lleva la atmósfera del estadio directamente a tu escritorio o mesa de café! Este minijuego de fútbol de mesa totalmente impreso en 3D es un juego arcade trepidante y lleno de acción diseñado para dos jugadores. ¡Defiende tu portería, lanza tus ataques con las aletas accionadas por resorte y sigue tu puntuación mientras juegas!\nPresenta una estética limpia y modular completa con banderas, porterías, portapelotas y marcador manual.\nCaracterísticas\nAletas accionadas por resorte: los disparadores de reacción rápida te permiten bloquear los tiros entrantes y lanzar poderosos contraataques.\nMarcador incorporado: para realizar un seguimiento fácil de quién gana el partido.\nDiseño modular: dividido en secciones fácilmente imprimibles que caben en impresoras 3D estándar.\nBajo requisito de hardware: ¡No se necesitan tornillos, cojinetes ni componentes electrónicos complejos!\nEspecificaciones y dimensiones\nUna vez completamente ensamblado, el juego tiene una presencia imponente sin ocupar demasiado espacio:\nLongitud: 52 cm\nAncho: 23 cm\nAltura: 13 cm\nHardware requerido\nPara mantener las cosas lo más simples posible, este proyecto está 99% impreso en 3D. Sólo necesitarás un elemento no impreso para que funcione:\nResortes de compresión de 5x30 mm (requeridos para la mecánica de la aleta)\nNo dude en probar el conjunto de prueba básico PLA de Bambu Lab\nAsamblea",
+ "use_cases": [],
+ "tags": [
+  "fútbol americano",
+  "fútbol",
+  "superficie de la mesa",
+  "juego de mesa",
+  "mini juego",
+  "arcada",
+  "juguete",
+  "mecánico",
+  "juego",
+  "interactivo",
+  "deporte"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9fd22887807768/design/3a4552a226b33fe7.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3308667.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

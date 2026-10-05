@@ -1,0 +1,214 @@
+{
+ "files": [
+  {
+   "path": "model/fast-four-14h12.3mf.xz",
+   "instance_id": "1981555",
+   "thumbnail": "previews/profiles/1981555.jpg",
+   "print_time_h": 14.2,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Full Game 0.2mm layer, 2 walls, 10% crosshatch",
+    "creation_date": "2025-10-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 20452440,
+   "sha256": "8100caa6eb0dfaeb9170b35184091261448cde38d1fc1b4ce04170582257dd89",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fast-four-12h42.3mf.xz",
+   "instance_id": "1995523",
+   "thumbnail": "previews/profiles/1995523.jpg",
+   "print_time_h": 12.7,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 98,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P2S",
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "X1",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Multipart X/P/A/A1 mini - 50% base 10% tower crosshatch",
+    "profile_notes": "You spoke, we listened and created a version of this game that can even be printed on an A1 mini with our new multipart profile. Just print the tower and target and slide them together. You can also use a 2.5x6mm machined screw to secure the target top to the base!",
+    "creation_date": "2025-10-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión mini",
+   "size": 20194400,
+   "sha256": "091cf139b686cda201d6fd1b88fe70beca9225d2a7eaeca27a2e69eeafc26856",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fast-four-1h42.3mf.xz",
+   "instance_id": "2070228",
+   "thumbnail": "previews/profiles/2070228.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 34,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Ball 0.2mm layer, 2 walls, 100% infill",
+    "profile_notes": "Balls for this game, print from petg with my settings.",
+    "creation_date": "2025-10-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1839748,
+   "sha256": "0af347ac09bf173909c68d7f9027d24e8d324aa49bf158c55bc04c81e3b7f533",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1853401",
+ "title": "Fast Four: divertido juego de carreras de 4 en raya",
+ "slug": "fast-four-fun-4-in-a-row-race-game",
+ "url": "https://makerworld.com/en/models/1853401-fast-four-fun-4-in-a-row-race-game",
+ "author": "ozarkexpedition",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Imagina tu clásico juego de 4 en raya y luego acelera el ritmo. Fast Four es una carrera cara a cara en la que dos jugadores arrojan canicas en una sola columna alta. Cada gota aumenta la tensión mientras observas cómo se apilan las piezas de colores en la torre, compitiendo por ser el primero en ver cuatro de tu color seguidas. Cuando la torre se llene, tira de la pequeña pestaña en la parte inferior para enviar las canicas a la bandeja y comenzar de nuevo. Es un juego rápido y táctil que se ve muy bien en exhibición y se juega aún mejor.\n\nEn Ozarkexpeditions, intentamos crear juegos atractivos que mantengan a los niños fuera de las pantallas. Ya sea que esté buscando un relleno interesante entre largas noches de juegos de mesa o una forma divertida de mantener a los niños entretenidos, Fast Four lo ofrece. El gran embudo en la parte superior facilita la carga de piezas a gran velocidad y la amplia base recoge todo de forma ordenada. Está fabricado pensando en las impresoras Bambu, por lo que imprime limpiamente en colores vibrantes sin soporte.\nSegún los comentarios, la torre ahora se puede imprimir en A1 mini o más grande. Jugabilidad\nJugadores: 2 juegan mejor, pero también juegan solos o en grupo.\nObjetivo: ser el primero en conectar 4 canicas seguidas verticalmente en la columna. Alternativamente, simplemente juega hasta que un color tenga 4 canicas en la columna.\nCómo funciona: Ambos jugadores dejan caer sus canicas al mismo tiempo, apuntando a manos rápidas y ojos agudos.\nRestablecer: tire de la pequeña pestaña en la parte inferior de la columna para liberar las canicas nuevamente en la bandeja.\nImpresión y montaje\nLa base, la columna y el embudo se imprimen como una sola pieza, no requiere ensamblaje. O puede imprimir la versión A1 mini y más grande que simplemente requiere que empuje la parte superior del objetivo sobre la columna de la base. Puede utilizar un tornillo para metales de 2,5 x 6 mm para asegurarse de que la parte superior del objetivo no se mueva. El lanzador de bolas requiere un montaje rápido como se muestra en la imagen a continuación. ¡Está completamente impreso y es fácil de armar!\n\nNo se necesitan soportes\nDiseñado para usar canicas de plástico de 14 mm, el mismo tamaño que se usa en Hungry Hungry Hippo. Aquí está nuestro enlace de Amazon:\nOpcionalmente, puedes utilizar imanes redondos de 5x2 mm para una sensación más táctil del tope de bola. Aquí está nuestro enlace de Amazon:\nJuega coloreando en Bambu Studio para aprovechar al máximo tu AMS. Cada sección presenta diferentes opciones de filamentos.\nEste diseño es específico para las impresoras Bambu Lab y compatible con H2S y H2D, además de una versión para los tamaños A1 mini y A/X/P.\n¡Simplemente desliza las clavijas hacia adentro y engancha los clips en C y estarás listo para jugar! El tapón-lanzador roscado está diseñado para que puedas cambiar el ángulo de lanzamiento cuando sea necesario. Consejo: aplica un poco de grasa de silicona en las partes móviles para un juego más rápido, si es necesario. Variantes de juego\nClásico 4 en raya: en lugar de correr, túrnense para lanzar canicas. El objetivo es conseguir cuatro en fila verticalmente o los primeros cuatro de su color en cualquier orden.\nDesafío cronometrado: configura un cronómetro de 60 segundos. Mira cuántas veces puedes lograr cuatro seguidos antes de que se acabe el tiempo. El total más bajo gana el siguiente juego.\nMezcla de colores: usa más de dos colores y juega con 3 o 4 jugadores. Sólo puntúan los dos primeros colores al final de cada ronda.\nAdvertencia: Contiene pequeñas canicas e imanes. No apto para niños pequeños: peligro de asfixia y riesgo de lesiones graves si se ingiere. Se requiere supervisión de un adulto.\n\nSi disfrutaste este proyecto, no olvides compartir un impulso para que más creadores puedan descubrirlo y yo pueda seguir dando vida a nuevos juegos como este.\n¡Mira nuestros otros juegos!",
+ "use_cases": [],
+ "tags": [
+  "dos jugadores",
+  "juegos de dos jugadores",
+  "juego de mesa",
+  "juego de canicas",
+  "juego de carreras",
+  "juego familiar",
+  "niños",
+  "competencia",
+  "14mm"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US465baa45d2e404/design/2025-10-07_b1d3e6cc32171.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.png": [
+   1000,
+   741
+  ],
+  "previews/profiles/1981555.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1995523.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2070228.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

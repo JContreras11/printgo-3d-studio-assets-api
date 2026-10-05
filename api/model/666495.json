@@ -1,0 +1,1706 @@
+{
+ "files": [
+  {
+   "path": "model/tetris-balance-multicolor-8h06.3mf.xz",
+   "instance_id": "594043",
+   "thumbnail": "previews/profiles/594043.jpg",
+   "print_time_h": 8.1,
+   "plates": 10,
+   "rating": 4.9,
+   "rating_count": 1331,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "10 plates for easy multicolor printing",
+    "profile_notes": "0.2mm layer 2 walls 15% infill Enable Thin Walls Seam on the backside 10 plates",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 810,
+      "weight_g": 3.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1273,
+      "weight_g": 4.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1232,
+      "weight_g": 3.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1346,
+      "weight_g": 4.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1283,
+      "weight_g": 4.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1271,
+      "weight_g": 4.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1088,
+      "weight_g": 3.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6030,
+      "weight_g": 53.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5177,
+      "weight_g": 47.15,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9966,
+      "weight_g": 46.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 10
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1701516,
+   "sha256": "5b35a8726d128b37073a6f64d99af68134a5a0370bb98dd0565b940a987ec060",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-11h06.3mf.xz",
+   "instance_id": "2323682",
+   "thumbnail": "previews/profiles/2323682.jpg",
+   "print_time_h": 11.1,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Full 8-color print, 100% size, 0.2mm layer, 10.5 hr",
+    "profile_notes": "If you don't mind a fair amount of printer poop, and fairly long print times (5.5 hrs for one dice, 10.5 hrs total), and you have a two AMS set up to be able to print eight colors, this is the print profile for you. Includes: Both bases, six copies of each Tetris piece, Large Box to accommodate both bases, dice. The box has the Tetris piece layout on the bottom in full color. The box cover has the Tetris logo in six colors on the outside, and commemorative text on the inside of the cover that you can change or delete. Each side of the dice is colored to match the Tetris pieces. The end product looks amazing. What else can I say?",
+    "creation_date": "2025-12-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 1890416,
+   "sha256": "f85aa13077f9712ccfd674d0e44765fe377eb36267707470fa37f0818024e2a9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-12h24.3mf.xz",
+   "instance_id": "995370",
+   "thumbnail": "previews/profiles/995370.jpg",
+   "print_time_h": 12.4,
+   "plates": 9,
+   "rating": 4.9,
+   "rating_count": 177,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Complete Game - All Options - Faster Print",
+    "profile_notes": "This is the complete game with all options but faster to print at all. 2 bases Small box for one base (Multicolor and singlecolor) Big Box for 2 bases (Multicolor and singlecolor) two different dice (Multicolor and singlecolor)",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 980,
+      "weight_g": 7.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1751,
+      "weight_g": 7.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#804000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1926,
+      "weight_g": 8.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2013,
+      "weight_g": 8.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17043,
+      "weight_g": 83.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5778,
+      "weight_g": 53.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4478,
+      "weight_g": 47.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6278,
+      "weight_g": 62.13,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4479,
+      "weight_g": 47.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2288444,
+   "sha256": "0736b2a11c27aab2085430e63e1ed4b5a5bae6175dce9917a2586ed00efead4e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-13h12.3mf.xz",
+   "instance_id": "3335961",
+   "thumbnail": "previews/profiles/3335961.jpg",
+   "print_time_h": 13.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "200% (150% die), modified box lid for easy sliding on & off",
+    "profile_notes": "modified box lid bumps for easy sliding on and off 7% infill, aligned rectilinear for box lid only for greater flex allowing a small child to open and close lid 3-color scheme (die with box)",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1560044,
+   "sha256": "57c1d0321ac3372b5db2b4223137434a763b8161f869df01886c0928b84bc68a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-16h54.3mf.xz",
+   "instance_id": "2659426",
+   "thumbnail": "previews/profiles/2659426.jpg",
+   "print_time_h": 16.9,
+   "plates": 11,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2C",
+    "A1",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Complete Set at 175% 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "I scaled this to 175% and created a complete package with insert and both balance levels. I also added little inserts on each color print that can be added to the dice. No AMS needed for the dice.",
+    "creation_date": "2026-02-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "name": "Versión estándar",
+   "size": 1997244,
+   "sha256": "bb2e752dc65e5fa2ec80ec9a70a1a7a5cb2625ce8b6e9c108287daee6aa4e95e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-17h48.3mf.xz",
+   "instance_id": "2007357",
+   "thumbnail": "previews/profiles/2007357.jpg",
+   "print_time_h": 17.8,
+   "plates": 10,
+   "rating": 4.9,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "200% scale for A1 mini",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill, 200% scale",
+    "creation_date": "2025-10-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión mini",
+   "size": 1608672,
+   "sha256": "48e644ae807d91aa2e19d4bf74ea948f592752508e2d0c2b236130d377dd743a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-18h12.3mf.xz",
+   "instance_id": "1075034",
+   "thumbnail": "previews/profiles/1075034.jpg",
+   "print_time_h": 18.2,
+   "plates": 9,
+   "rating": 5,
+   "rating_count": 180,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X2D",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "! 200% ! 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Auf 200% vergrößertes Modell. Das kleinere Modell ist mir persönlich zu klein",
+    "creation_date": "2025-02-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2394,
+      "weight_g": 17.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3925,
+      "weight_g": 32.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3667,
+      "weight_g": 30.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4060,
+      "weight_g": 32.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3872,
+      "weight_g": 32.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3876,
+      "weight_g": 32.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3114,
+      "weight_g": 25.24,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22376,
+      "weight_g": 236.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18577,
+      "weight_g": 97.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1481672,
+   "sha256": "fec735a514923e8c80b74e77f4fb89054e3a70357b119253f2a9493a3ee0e932",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-1h42.3mf.xz",
+   "instance_id": "1138010",
+   "thumbnail": "previews/profiles/1138010.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 124,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Alles auf einer Druckplatte 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Alles auf einer Druckplatte bis auf die Box",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6190,
+      "weight_g": 30.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1768592,
+   "sha256": "609cb2b6e4cdf50580da8af2260bf0bb78e89f5cbf55a6617d1b966c84450649",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-24h06.3mf.xz",
+   "instance_id": "1199115",
+   "thumbnail": "previews/profiles/1199115.jpg",
+   "print_time_h": 24.1,
+   "plates": 11,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "150% size - Complete Game - All Options - Faster Print",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill Enlarged to 150%, everything works well :) 2 dices on separate plate so you can just pick one and print directly from mobile. Resulting dimensions (case) are ~13cm x 6cm x 7cm",
+    "creation_date": "2025-03-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2110,
+      "weight_g": 18.13,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDF4F4"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3201,
+      "weight_g": 25.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#804000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3667,
+      "weight_g": 30.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3877,
+      "weight_g": 31.01,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 24127,
+      "weight_g": 121.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDF4F4"
+       },
+       {
+        "type": "PLA",
+        "color": "#2D2D2D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11848,
+      "weight_g": 128.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDF4F4"
+       },
+       {
+        "type": "PLA",
+        "color": "#2D2D2D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11017,
+      "weight_g": 126.8,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#2D2D2D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13138,
+      "weight_g": 150.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDF4F4"
+       },
+       {
+        "type": "PLA",
+        "color": "#2D2D2D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11015,
+      "weight_g": 126.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#2D2D2D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1483,
+      "weight_g": 9.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDF4F4"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1483,
+      "weight_g": 9.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDF4F4"
+       }
+      ]
+     }
+    ],
+    "photos": 11
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2426916,
+   "sha256": "23bd742026f7e92259209965ff33caa53b31e46a0560cad0e3163bae2536d161",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-24min.3mf.xz",
+   "instance_id": "1396264",
+   "thumbnail": "previews/profiles/1396264.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 54,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "Base Insert, Keeps parts from moving around",
+    "creation_date": "2025-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1197844,
+   "sha256": "c1d10a7d2aed01c444986254f6e5d94e9fa59ae286871c523f1262934ec874ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-27h30.3mf.xz",
+   "instance_id": "3683222",
+   "thumbnail": "previews/profiles/3683222.jpg",
+   "print_time_h": 27.5,
+   "plates": 14,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P2S",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "200% (best) + Colored boxes + Colored die by face",
+    "profile_notes": "Size: I tried all, and 200% plays the best IMO. Box: Added colors to make it more beautiful. Big box to fit both bases; small box to fit only one base Die: Used the one created by WT 3d Print Designs Here",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 14
+   },
+   "name": "Versión estándar",
+   "size": 2056944,
+   "sha256": "0ed35d3c9b3e4c91a794d1d7ce661d4cd2dd1dd2787e6cf39420c2f14c13a4c2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-27h42.3mf.xz",
+   "instance_id": "1781658",
+   "thumbnail": "previews/profiles/1781658.jpg",
+   "print_time_h": 27.7,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 21,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "250% Scale - Complete Game & Base Insert",
+    "profile_notes": "Auf 200% vergrößertes Modell. Das kleinere Modell ist mir persönlich zu klein",
+    "creation_date": "2025-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 1652972,
+   "sha256": "1a7a607b9910e29b2aec899e0e54069bbe66ff916891006b67a99a6177b3ac34",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-2h36.3mf.xz",
+   "instance_id": "1803791",
+   "thumbnail": "previews/profiles/1803791.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Slightly bigger Box; Colorful",
+    "profile_notes": "120% scaled up so the pieces fit easily, and AMS ready",
+    "creation_date": "2025-08-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1585596,
+   "sha256": "891bbf42f98b9246f2f6714adb5c51451431f5a35bbd1300cee1964d2d906cd7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-30min.3mf.xz",
+   "instance_id": "1973496",
+   "thumbnail": "previews/profiles/1973496.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Dice 100% insert for box 150% scale",
+    "profile_notes": "Standard profile settings should be good. I just made simple insert for box (150%) but dice in 100% is better in scale in my opinion. Now itstay in place when in the box. Hope some of you find it usefull.",
+    "creation_date": "2025-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1117724,
+   "sha256": "6a6ea62291fee4515bd28bdf9ba3033ed826b00139d2ae68e6a46c49e4b67bf6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-3h12.3mf.xz",
+   "instance_id": "1010860",
+   "thumbnail": "previews/profiles/1010860.jpg",
+   "print_time_h": 3.2,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 42,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Tetris-Set - Fast Print Edition - 0.2mm, 2 walls, 15%",
+    "profile_notes": "Das Druckprofil ist darauf ausgerichtet, möglichst wenig Druckzeit (ca. 3h) in Anspruch zu nehmen. Für die Mehrfarben-Druckplatten ist ein AMS empfehlenswert. Andernfalls kann man jeder Druckplatte eine einzelne Farbe zuweisen. Viel Spaß mit dem Fast Print!",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1688,
+      "weight_g": 7.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2602,
+      "weight_g": 12.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF9016"
+       },
+       {
+        "type": "PLA",
+        "color": "#7D6556"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2757,
+      "weight_g": 13.74,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DE4343"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4618,
+      "weight_g": 52.48,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1521644,
+   "sha256": "ed63ed420725c4c1c2b9ccba1fc436a1a3657aa3fa342d052883757b0632f377",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-3h42.3mf.xz",
+   "instance_id": "1823944",
+   "thumbnail": "previews/profiles/1823944.jpg",
+   "print_time_h": 3.7,
+   "plates": 3,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "AMS Easy Print Arrangement | Large Box | 2 Dice | 2Bases",
+    "profile_notes": "Made for AMS easy printing, all colours, reduced to 3 plates, full set with 2 dice and 2 bases, colour large box. See print plates.",
+    "creation_date": "2025-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión grande",
+   "size": 1877076,
+   "sha256": "d23db8327687a9cefec00c9c9d21b2f5c7bd78fb8d7f3f6d3f9fa8b750da446b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-3h48.3mf.xz",
+   "instance_id": "599014",
+   "thumbnail": "previews/profiles/599014.jpg",
+   "print_time_h": 3.8,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 110,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "BigBox and second base",
+    "profile_notes": "Big Box, which can hold both bases (easy and medium) in a multicolor and 1-color edition Dimensions: B45mm x L83mm x H40mm 0.2mm 2 Layer 15% Infill Seam on the backside Enabled thin walls",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6616,
+      "weight_g": 62.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5811,
+      "weight_g": 55.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 806,
+      "weight_g": 3.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1367300,
+   "sha256": "84e765b59aa3e487a042f89231bfa7c4611b18a5653ea73a2b36ffcfb0aa1edf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-5h24.3mf.xz",
+   "instance_id": "1772703",
+   "thumbnail": "previews/profiles/1772703.jpg",
+   "print_time_h": 5.4,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Tetris word in 4 colors, rest by Object (4 colors per plate)",
+    "profile_notes": "Kit for on A1 mini with AMS (4 colors per plate, print by object). I painted the word “Tetris” on the black box in 4 colors. The dice is black and white, to be colored with sharpies.",
+    "creation_date": "2025-08-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1502988,
+   "sha256": "6346a52c79497f4ed4dcdc7baa4076eba42dd09dc839f6f94ec15c4e5e52f7de",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-balance-6h.3mf.xz",
+   "instance_id": "896403",
+   "thumbnail": "previews/profiles/896403.jpg",
+   "print_time_h": 6,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 43,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Complete Game: Big Box and Second Base Included",
+    "profile_notes": "I modified the original design to fit on 3 plates instead of 9–10, while also incorporating the big box and the second medium-difficulty base into the main print. This change streamlines the process, saving time. Each plate is set to print by object rather than by layer, which reduces color purging to just once per group. This approach mimics the effect of printing on separate plates but allows everything to be condensed onto 3 plates, significantly reducing the time required for plate swapping.",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3234,
+      "weight_g": 12.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#00FF40"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2981,
+      "weight_g": 11.75,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF80FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15941,
+      "weight_g": 93.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#008080"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA versión grande",
+   "size": 1479372,
+   "sha256": "72a8d89d36bedced69dc58ca9df269a763dd103c3476bc993f34a6c0780f1848",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "666495",
+ "title": "Tetris Balance Mini - Edición de viaje",
+ "slug": "tetris-balance-mini-travel-edition",
+ "url": "https://makerworld.com/en/models/666495-tetris-balance-mini-travel-edition",
+ "author": "Knispel",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Tetris Balance Mini - Edición de viaje\n\nEsta es una versión de viaje muy pequeña del popular juego Tetris Balance con dados y estuche.\n\nDimensiones: B45 mm x L83 mm x H34 mm (puede contener solo 1 base)\nDimensiones-BigBox: B45 mm x L83 mm x H40 mm (puede contener ambas bases)\n\nNo soy el inventor de este juego. Solo necesitaba una versión que pudiera llevarme fácilmente de vacaciones y de viaje.\nBoost Me. Estaría muy feliz por ello.",
+ "use_cases": [],
+ "tags": [
+  "tetris",
+  "juego de equilibrio tetris",
+  "equilibrio tetris",
+  "viajar",
+  "vacaciones",
+  "juegos",
+  "habilidad",
+  "juego de desarrollo de habilidades",
+  "juego",
+  "juego de mesa",
+  "juego de los 80",
+  "juego de habilidad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-09-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9245939caeecd8/design/2024-09-27_abc3a1ca6564f.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/594043.jpg": [
+   600,
+   618
+  ],
+  "previews/profiles/2323682.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/995370.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3335961.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2659426.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2007357.jpg": [
+   600,
+   342
+  ],
+  "previews/profiles/1075034.jpg": [
+   600,
+   484
+  ],
+  "previews/profiles/1138010.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1199115.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1396264.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3683222.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/1781658.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1803791.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1973496.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1010860.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1823944.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/599014.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1772703.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/896403.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

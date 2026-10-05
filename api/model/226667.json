@@ -1,0 +1,300 @@
+{
+ "files": [
+  {
+   "path": "model/torre-inclinada-3h36.3mf.xz",
+   "instance_id": "244395",
+   "thumbnail": "previews/profiles/244395.jpg",
+   "print_time_h": 3.6,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Bottom layer profile",
+    "profile_notes": "First Jenga layer profile 6 puzzle jenga pieces 1 separation piece 1 leaning bottom piece On separate print plates.",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2523,
+      "weight_g": 24.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4606,
+      "weight_g": 29.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5690,
+      "weight_g": 49.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA",
+   "size": 19483320,
+   "sha256": "20f8f9e0c558a86030488e9933ae8c4bbe42dc8c76219912aa92575fc378cc1a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/torre-inclinada-36min.3mf.xz",
+   "instance_id": "841776",
+   "thumbnail": "previews/profiles/841776.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Ring Helper - Easy Placement to setup a new match fast!",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2189,
+      "weight_g": 18.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 809032,
+   "sha256": "112bff2abdf5ec64d50d6dfe053b81cc3ef436b0c6e8e786755e514e7a5dca7f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/torre-inclinada-3h54.3mf.xz",
+   "instance_id": "270937",
+   "thumbnail": "previews/profiles/270937.jpg",
+   "print_time_h": 3.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 Mini 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2641,
+      "weight_g": 24.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5153,
+      "weight_g": 27.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6172,
+      "weight_g": 49.27,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 19723736,
+   "sha256": "a0504af5fdebe6329c497e5cff6d5ba28af08a56dd35566bec0b79e9663757ed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "226667",
+ "title": "Torre Inclinada de Pisa JUEGO JENGA",
+ "slug": "leaning-tower-of-pisa-jenga-game",
+ "url": "https://makerworld.com/en/models/226667-leaning-tower-of-pisa-jenga-game",
+ "author": "VictorS3D",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¡Presentamos el juego Jenga de la Torre Inclinada de Pisa, una versión única del clásico juego de apilamiento inspirado en uno de los monumentos más emblemáticos de Italia!\n\nPrimero construye la torre para configurar el juego.\nLuego, túrnense e intenten quitar una pieza de la torre sin que la torre se caiga.\nLa persona que hace caer la torre pierde.\nEl juego es adecuado para jugadores de todas las edades y ofrece horas de entretenimiento y desarrollo de habilidades mientras prueban su destreza y estrategia para mantener la torre en pie.\n\nYa sea que esté organizando una noche de juegos con amigos o esté buscando una actividad divertida para disfrutar con la familia, el juego Jenga de la Torre Inclinada de Pisa seguramente complacerá a la multitud y será un iniciador de conversación.\n\nSi quieres desafiarte a ti mismo, agrega la pieza inferior inclinada. Inclina la torre 4 grados, como la torre real de Pisa.\nSe puede jugar con o sin la parte inferior inclinada.\n\nPrepárate para apilar, equilibrar e inclinar tu camino hacia la victoria con el juego Jenga de la Torre Inclinada de Pisa: ¡una adición imprescindible a cualquier colección de juegos!\n\nSe necesitan seis piezas de rompecabezas por capa.",
+ "use_cases": [],
+ "tags": [
+  "torre",
+  "pisa",
+  "propensión",
+  "juego",
+  "rompecabezas",
+  "divertido",
+  "desafío",
+  "jenga",
+  "familia",
+  "juego de mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-03-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf71e3a72436f10/design/2024-03-06_73a84ace29818.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   772
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/244395.jpg": [
+   600,
+   463
+  ],
+  "previews/profiles/841776.jpg": [
+   600,
+   797
+  ],
+  "previews/profiles/270937.jpg": [
+   512,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

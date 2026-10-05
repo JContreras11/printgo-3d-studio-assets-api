@@ -1,0 +1,340 @@
+{
+ "files": [
+  {
+   "path": "model/juego-no-6h24.3mf.xz",
+   "instance_id": "782056",
+   "thumbnail": "previews/profiles/782056.jpg",
+   "print_time_h": 6.4,
+   "plates": 6,
+   "rating": 4.3,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "A1 Mini plate",
+    "profile_notes": "Standard print profile perfect for A1 Mini, just added tree support and x-y hole compensation -0.1",
+    "creation_date": "2025-02-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9886,
+      "weight_g": 66.74,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5182,
+      "weight_g": 47.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 890,
+      "weight_g": 3.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1603,
+      "weight_g": 5.71,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2511,
+      "weight_g": 2.49,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1283,
+      "weight_g": 3.65,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Impresión en PETG versión mini",
+   "size": 3218984,
+   "sha256": "412071ac8d872ead499860896f65fa39cbf41c4737257ceac3651e5dc488bb74",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-no-7h30.3mf.xz",
+   "instance_id": "1366877",
+   "thumbnail": "previews/profiles/1366877.jpg",
+   "print_time_h": 7.5,
+   "plates": 3,
+   "rating": 3.5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P2S",
+    "A1",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "0.2mm layer, 2 walls, 12% infill - 3 plates for faster print",
+    "profile_notes": "Just 3 plates and less infil - it is not needed :) Have a nice game !",
+    "creation_date": "2025-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4038640,
+   "sha256": "0d7a6335cbf4932f667027dca7ff46aab219293f82eab877dab93f991c8ff1a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-no-8h18.3mf.xz",
+   "instance_id": "790772",
+   "thumbnail": "previews/profiles/790772.jpg",
+   "print_time_h": 8.3,
+   "plates": 6,
+   "rating": 3.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "for big plates",
+    "profile_notes": "Standard print profile with components organized for big plates, just added tree support and x-y hole compensation -0.1",
+    "creation_date": "2025-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15650,
+      "weight_g": 120.25,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5319,
+      "weight_g": 47.63,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 927,
+      "weight_g": 3.05,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1686,
+      "weight_g": 5.7,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2724,
+      "weight_g": 2.49,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1321,
+      "weight_g": 3.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Impresión en PETG versión grande",
+   "size": 3218860,
+   "sha256": "a044ec1ce7a885738c26fcb3ee56f86d95e529c54d96fb18298f31d34370e80e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "836646",
+ "title": "JUEGO NO EXPLOTAR EL GLOBO - juego de fiesta",
+ "slug": "game-don-t-pop-the-balloon-party-game",
+ "url": "https://makerworld.com/en/models/836646-game-don-t-pop-the-balloon-party-game",
+ "author": "3dhill",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Inspirado en el juego Boom Boom Balloon, este minijuego, imprimible con A1 mini, tiene una regla principal: ¡no explotes el globo!\n\nHay 2 perfiles de impresión, uno para A1 mini y otro para planchas grandes.\nLa impresión requiere varias planchas y he incluido todos los archivos necesarios para imprimir todo directamente desde la aplicación.\n\nPiezas para imprimir:\n3 patas\n2 conectores\n2 titulares\nunos palos\n\nYa ajusté la compensación del orificio x-y a -0,1 para garantizar la cantidad correcta de fricción para todos los componentes.\n\nSe puede utilizar pegamento para fijar las partes fijas, pero no es necesario.\n\nReglas del juego:\nCada turno, el jugador tira el dado.\nDependiendo del número obtenido, el jugador debe insertar uno o más segmentos de palo correspondientes al número.\n¡No explotes el globo o perderás el desafío!\nImpúlsame ¡Gracias por tu apoyo!",
+ "use_cases": [],
+ "tags": [
+  "globo",
+  "mini",
+  "minijuego",
+  "agmes de mesa",
+  "juego de mesa",
+  "juego",
+  "amigo",
+  "estallido",
+  "auge",
+  "fiesta",
+  "juego de fiesta"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd1b0b28e20f0b0/design/02b4d2d4a90c9c34.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/782056.jpg": [
+   600,
+   798
+  ],
+  "previews/profiles/1366877.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/790772.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "files": [
+  {
+   "path": "model/juego-mesa.3mf.xz",
+   "instance_id": "678422",
+   "thumbnail": "previews/profiles/678422.jpg",
+   "print_time_h": 14.2,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16346,
+      "weight_g": 104.18,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15206,
+      "weight_g": 62.77,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19687,
+      "weight_g": 92.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1550152,
+   "sha256": "f4f0d1cbdf5e9654989301a71552799c8fd30a1840fe44b7611a807c9f3b876c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "745518",
+ "title": "Juego de mesa Boogle",
+ "slug": "boogle-board-game",
+ "url": "https://makerworld.com/en/models/745518-boogle-board-game",
+ "author": "user_2363448600",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Piezas necesarias para jugar Boogle.\n\nJuego donde en cada turno se mezclan los dados y todos los jugadores anotan en un papel todas las palabras que encuentran utilizando los dados que están uno al lado del otro para formar palabras. Cuantas más palabras y más largas sean, más puntos obtendrás.\n\nEs fácil encontrar las instrucciones de este juego en Internet.",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US107991b7468ebc/design/2024-10-31_8be0c70c1a07c.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1222
+  ],
+  "previews/profiles/678422.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

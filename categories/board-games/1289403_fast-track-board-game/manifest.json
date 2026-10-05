@@ -1,0 +1,126 @@
+{
+ "files": [
+  {
+   "path": "model/juego-mesa-3h12.3mf.xz",
+   "instance_id": "1319284",
+   "thumbnail": "previews/profiles/1319284.jpg",
+   "print_time_h": 3.2,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.20mm layer, 2 walls, 15% infill",
+    "profile_notes": "3 Plates no AMS needed",
+    "creation_date": "2025-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1284732,
+   "sha256": "96d10bb0d161671642c6b783075d3244c683fb3c346df1bbda2135522e13c9dc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-mesa-4h18.3mf.xz",
+   "instance_id": "3700243",
+   "thumbnail": "previews/profiles/3700243.jpg",
+   "print_time_h": 4.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "P2S AMS",
+    "profile_notes": "3 Plates no AMS needed",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1803896,
+   "sha256": "d13c7ffd7096753681bfdefdcd2e12c9638b86dc2a3ae818685efdc74a61778c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1289403",
+ "title": "Juego de mesa de vía rápida",
+ "slug": "fast-track-board-game",
+ "url": "https://makerworld.com/en/models/1289403-fast-track-board-game",
+ "author": "MaxipadFTW",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "REGLAS:\nFast Track es un juego sencillo para dos jugadores. El objetivo es lanzar todos tus discos a la zona del oponente. Debes usar el elástico (no incluido) para pasar los discos. No hay turnos en este juego, lo que significa que todos los jugadores lanzarán sus discos simultáneamente. Es importante tener en cuenta que si un oponente ha arrojado un disco a tu zona, podrás devolverlo a su zona.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "divertido",
+  "niño",
+  "competencia",
+  "juegos de mesa",
+  "juego de mesa",
+  "hockey",
+  "fácil",
+  "rápido",
+  "multicolor",
+  "honda",
+  "dos jugadores"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-04-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfed0195580826b/design/2025-04-05_8b893eea4c9ee.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1332
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1319284.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3700243.jpg": [
+   600,
+   402
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

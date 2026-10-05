@@ -1,0 +1,339 @@
+{
+ "files": [
+  {
+   "path": "model/torre-dados-4h54.3mf.xz",
+   "instance_id": "914037",
+   "thumbnail": "previews/profiles/914037.jpg",
+   "print_time_h": 4.9,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 48,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1",
+    "P1S",
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "0.2mm Schicht 2 Wände 10% Füllung",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7742,
+      "weight_g": 52.1,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#21FF06"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5614,
+      "weight_g": 46.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#21FF06"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4108,
+      "weight_g": 22.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#996633"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1905092,
+   "sha256": "49c2c1e6e5ee8a0b4f89e4d2f77a60fca167abc6ea3bc4607e478762af9e5623",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/torre-dados-18h48.3mf.xz",
+   "instance_id": "2619067",
+   "thumbnail": "previews/profiles/2619067.jpg",
+   "print_time_h": 18.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "X1E",
+    "H2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "150% Size And More rolling, 2 walls, 15% infill",
+    "profile_notes": "큰 주사위는 작동하지 않았기에 사이즈를 키우고 모델 중간에 모델을 추가해 더욱 회전하도록 했습니다. 2 walls, 15% infill",
+    "creation_date": "2026-04-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1965212,
+   "sha256": "4532eb13503d8adeadbdcb75e0160f951016ae10d35cd4cbaaf4e085c79be8e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/torre-dados-1h30.3mf.xz",
+   "instance_id": "934837",
+   "thumbnail": "previews/profiles/934837.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Alternativer Würfelboden",
+    "profile_notes": "Neues Würfelbodendesign zum alternativen ausdrucken. Es hat einen kleinen “Zaun” vorne dran. 0.2mm layer, 2 walls, 15% infill Bei den Farben handelt es sich einmal um Olivgrün und Braun, beides von eSun PLA+",
+    "creation_date": "2025-02-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5229,
+      "weight_g": 50.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#114F0B"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1849888,
+   "sha256": "ce0333064b5be9e3f50c959ea5de3778df59eca2e02ebcad0c3e5d7c83c0d07b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/torre-dados-36min.3mf.xz",
+   "instance_id": "934889",
+   "thumbnail": "previews/profiles/934889.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "H2D",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Würfelrampe/Bed Scrapper einzeln",
+    "profile_notes": "Würfelrampe freistehend, wenn jemand auf den Würfelboden verzichten will oder muss. Passt unter die im Original Modell enthaltene Würfelrohre. Das Profil beinhaltet nur die Rampe. Fun Fact: Kann man auch gut als Bed Scrapper zum abschaben von Filamentreste auf den Druckbett zweckentfremden. ;) Im Original Modell ist die Rampe auf dem Boden integriert. Sie muss somit nicht zusätzlich gedruckt werden. Fun Fact: Kann man auch gut als Bed Scrapper zum abschaben von Filamentreste auf den Druckbett zweckentfremden. 0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2005,
+      "weight_g": 9.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0C5A01"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1718944,
+   "sha256": "09e33e83e876f0c73775a3941f8d32a62ab29b512b501f832ca041a0a1c20f9b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "947046",
+ "title": "Torre de dados de Super Mario",
+ "slug": "super-mario-dice-tower",
+ "url": "https://makerworld.com/en/models/947046-super-mario-dice-tower",
+ "author": "derian90",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "buymeacoffee.com/derian90\n\nTorre de dados de Super Mario para una acogedora noche de juegos.:)\n\nPara el tubo vertical y los cubos, recomiendo utilizar soportes en los puntos críticos; de lo contrario, es posible que la calidad de impresión en esas áreas no sea óptima. Si está utilizando mi perfil de impresión, sólo necesita configurar la opción de soporte en \"Normal (manual)\".\n\nActualización 01.05.24: Nuevo diseño/diseño para el cubo: ¡ahora se parece más a bloques de ladrillos!\n\nAltura de capa de 0,2 mm\n2 paredes/perímetros\n10% de relleno\n\nNo dudes en dejar un comentario o reseña si te gusta el modelo o tienes alguna sugerencia para mejorar. Trabajo constantemente para mejorar mis modelos.:)\nImpúlsameSi te gusta el modelo, te agradecería un impulso. Me apoyaría para mantener los modelos actualizados y seguir subiendo nuevos modelos en el futuro <3",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "juegos de mesa",
+  "morir",
+  "dados",
+  "torre de dados",
+  "accesorios de dados",
+  "supermario",
+  "3d",
+  "juegos",
+  "noche de juegos",
+  "base de la torre de dados"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USacaa3245b440ef/design/2025-01-27_f2a152bca79fb.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/914037.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2619067.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/934837.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/934889.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

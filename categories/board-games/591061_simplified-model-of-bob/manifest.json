@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/simplificado-bob.3mf.xz",
+   "instance_id": "512683",
+   "thumbnail": "previews/profiles/512683.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill, support (head piece only)",
+    "profile_notes": "All parts can be printed flat on the baseplate, with exception of the head. This part stands upright and needs a bit of support to print.",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2498,
+      "weight_g": 13.03,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 936292,
+   "sha256": "8b27c94da19ad2463e6df5ac14a5027b4d0303531795d38a054edcc3ed47ad45",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "591061",
+ "title": "simplificado de Bob",
+ "slug": "simplified-model-of-bob",
+ "url": "https://makerworld.com/en/models/591061-simplified-model-of-bob",
+ "author": "Mathias_H",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Una versión simplificada de mi figura Bob, de mi modelo original: Juego del ahorcado / Juego de la horca.\nEste modelo tiene todas sus uniones ya impresas en las diferentes piezas, por lo que no es necesario que las montes tú mismo.\nLo único que tienes que hacer es quitar el soporte de la cabeza y ¡la figura estará lista para funcionar!\n\nTambién requiere solo 13 gramos de filamento (para PLA) para imprimir en comparación con los 20 gramos necesarios para la figura original, ¡ahorrándote un poco de filamento!\n\nNota:\nEste perfil de impresión solo contiene la figura simplificada de Bob, NO la base ni el poste como se ve en las imágenes. Si desea imprimir estas piezas, consulte el perfil de impresión en el modelo original (desde el enlace de arriba).\n\nImpulsameSi te gustan mis modelos y mi trabajo, ¡considera impulsar este modelo!",
+ "use_cases": [],
+ "tags": [
+  "verdugo",
+  "horca",
+  "juego",
+  "superficie de la mesa",
+  "figurilla",
+  "modelo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd4063ade88141e/design/2024-08-16_a7ca41d4821b6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   609
+  ],
+  "previews/profiles/512683.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

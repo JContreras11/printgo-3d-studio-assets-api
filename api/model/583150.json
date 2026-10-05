@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/juego-ahorcado.3mf.xz",
+   "instance_id": "504263",
+   "thumbnail": "previews/profiles/504263.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 268,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "This is printed with the standard 0.2mm preset in the Bambu slicer. The connector pieces have a thight fit, so they may need a bit of force to assemble. The connector piece at the top is rotated 45° in this print profile compared to my pictures.",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5873,
+      "weight_g": 43.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 931780,
+   "sha256": "fd09d2d3a0701130066b1183111cedfec9524d91abd61d44d9a85a93990f5be3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "583150",
+ "title": "Juego del ahorcado / Juego de la horca",
+ "slug": "hangman-game-gallows-game",
+ "url": "https://makerworld.com/en/models/583150-hangman-game-gallows-game",
+ "author": "Mathias_H",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Aviso de actualización:\nSi te gusta un modelo simplificado de la figura, puedes encontrarlo aquí: Modelo simplificado de Bob.\nEste modelo tiene todas sus uniones ya impresas en las diferentes piezas, por lo que no es necesario que las montes tú mismo.\n\nDescripción:\nNuestro querido juego infantil ahora se puede jugar en 3D. Juega con tu amigo o familiar para ver quién es mejor adivinando las palabras ocultas y demuestra tu superioridad en el vocabulario. ¡Asegúrate de ser cuidadoso con tus conjeturas porque la vida de Bob está en juego (a Bob no le gusta que lo ahorquen)!\n\nCómo jugar:\nUn jugador piensa en una palabra (y la escribe si es posible). Los otros jugadores se turnan para adivinar una letra de dicha palabra para descubrir la palabra oculta. Si un jugador adivina una palabra equivocada, se arma una pieza de la horca/verdugo. Si todas las piezas están ensambladas, se acabó el juego.\n\nGuía de montaje:\nColoque las piezas de conexión en cada una de las piezas como se muestra en la siguiente imagen. Asegúrese de que las piezas del anillo estén orientadas correctamente en los brazos y las piernas en comparación con las esquinas redondeadas (ver imagen de primer plano).\n¡Diviértete jugando!\nImpulsameSi te gustan mis modelos y mi trabajo, ¡considera impulsar este modelo!Pequeño comentario:\nEl punto de conexión superior entre el poste y el cabezal en el perfil de impresión (modelo 3D) está girado 45° en comparación con las imágenes cargadas. Esto para alinear el cuerpo con el resto del modelo.",
+ "use_cases": [],
+ "tags": [
+  "verdugo",
+  "horca",
+  "juego",
+  "superficie de la mesa",
+  "juguete",
+  "juego familiar",
+  "amigos",
+  "rompecabezas",
+  "juego de palabras",
+  "juego mental",
+  "pensamiento"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa30fda1852b5fc/design/2024-08-11_67624a8466616.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/504263.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

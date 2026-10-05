@@ -1,0 +1,134 @@
+{
+ "files": [
+  {
+   "path": "model/caja-juego-17h24.3mf.xz",
+   "instance_id": "1731738",
+   "thumbnail": "previews/profiles/1731738.jpg",
+   "print_time_h": 17.4,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 87,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "A1",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 6% infill",
+    "creation_date": "2025-07-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 1320668,
+   "sha256": "a3f52a243792effe18a7be751151bd9cc4e53d453716c5305ab485d74c17d434",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-juego-3h54.3mf.xz",
+   "instance_id": "3753415",
+   "thumbnail": "previews/profiles/3753415.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Pokemon Balance Logo Lid, 0.2mm layer, 2 walls, 6% infill",
+    "profile_notes": "I created a logo using AI and added it with Makerworld's Mesh Graffiti. Should print as the original. The colors can be changed, the ones used were the ones I already had.",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1595756,
+   "sha256": "fc16e6a3ca91c455cc093b1410cc446be51a038c7c6b8e001252a9f84c55713c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1639099",
+ "title": "Caja de juego de equilibrio Pokémon",
+ "slug": "pokemon-balance-game-box",
+ "url": "https://makerworld.com/en/models/1639099-pokemon-balance-game-box",
+ "author": "ThibMaker",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Caja para el juego POKEMON Balance disponible: Aquí\n\nTambién puedes descargar la extensión del juego POKEMON: Aquí\n\n¡Divertirse!",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "pokemon",
+  "pokémon",
+  "jeu de societe",
+  "tablero de juego",
+  "juego de mesa",
+  "accesorios para juegos de mesa",
+  "accesorio para juegos de mesa",
+  "organizador de accesorios para juegos de mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8c210a6a33e6ee/design/2025-07-25_dd2e8ec9971e78.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1731738.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3753415.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

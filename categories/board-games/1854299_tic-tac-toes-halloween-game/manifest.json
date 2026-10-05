@@ -1,0 +1,197 @@
+{
+ "files": [
+  {
+   "path": "model/juego-halloween-10h12.3mf.xz",
+   "instance_id": "1982598",
+   "thumbnail": "previews/profiles/1982598.jpg",
+   "print_time_h": 10.2,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "TTT (feet, tombstone parts) 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Includes: feet, toes, tombstones, tombstone base, connectors, and the extra parts for the tombstone that prints in one color 0.2mm Layer Height PLA works great (I used PLA Basic, Glow and Sparkle) No supports 15% Infill Print ‘pause’ added on print plates with feet and tombstones to insert magnets (see more detail below and photos) Print Plate #1: Left foot and toes; one color: pause added to insert magnets at layer 19 Print Plate #2: Right foot and toes; one color; pause added to insert magnets at layer 19 Print Plate #3: Tombstone; two colors; pause added to insert magnets at layer 19 Print Plate #4: Tombstone base; one color Print Plate #5: Connectors (4) to connect tombstone basee and grass pieces; one color Print Plate #6: Tombstone; one color; pause added to insert magnets at layer 84 Print Plate #7: RIP and Grid Lines inserts for single color tombstone; one color",
+    "creation_date": "2025-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 3041392,
+   "sha256": "375ee8aecfc4a2b069339fb099ee03872587643cc5f4a31f939c64f79b970bff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-halloween-8h12.3mf.xz",
+   "instance_id": "1982607",
+   "thumbnail": "previews/profiles/1982607.jpg",
+   "print_time_h": 8.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "TTT (Grass Pieces) 0.24mm layer, 3 walls, 15% infill",
+    "profile_notes": "0.24mm Layer Height PLA works great Arachne wall generator turned on/selected ( very important ) Bridge speed 25mm/s Thick Bridges turned on/selected Wall loops 3 Brim ears applied to corners of each piece No supports needed ( NOTE : for the Back Grass piece it will give you a warning about a floating area of the print. It is referring to one blade of grass. I have looked back over my model and do not see any issues with any blades. I have printed it several times without supports. PLEASE DO NOT ADD SUPPORTS) Print Plate #1: Front Grass piece; two colors, Arachne wall generator ✔️, Thick Bridges ✔️, Wall loops 3, Bridge Speed 25mm/s Print Plate #2: Back Grass piece; one color, Arachne wall generator ✔️, Thick Bridges ✔️, Wall loops 3, Bridge Speed 25mm/s",
+    "creation_date": "2025-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 6521576,
+   "sha256": "7ed3cbadc23be9890e734abcc2977e97a5cbbc2aa94790c39d341166bd206604",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1854299",
+ "title": "Juego de Halloween de tres en raya",
+ "slug": "tic-tac-toes-halloween-game",
+ "url": "https://makerworld.com/en/models/1854299-tic-tac-toes-halloween-game",
+ "author": "3DPmom",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Aquí está mi versión de Halloween de Tic Tac Toe(s). Un jugador usa el pie izquierdo y el otro el derecho. Para hacerlo más espeluznante, imprime los pies con un filamento que brilla en la oscuridad. Además, recomiendo imprimir los pies en dos colores diferentes (para que sean fáciles de distinguir:)\n\nTENGA EN CUENTA: Necesitará (29) imanes de neodimio de 6x3 mm para esta impresión (10 para cada pie y 9 para el tablero de tres en raya de la lápida)\n\nAquí hay un enlace de Amazon a los imanes necesarios:\nBoost MeSi te gusta este modelo, ¡dale un impulso! Muchas gracias\n\nHe incluido dos archivos 3mf (deben estar separados porque la altura de la capa es diferente en cada uno):\n\nTic Tac Toes 3mf (incluye: pies, lápidas, base de lápida, conectores y las piezas extras para la lápida que se imprime en un color)\nAltura de capa de 0,2 mm\nPLA funciona muy bien (usé PLA Basic, Glow y Sparkle)\nSin soportes\n15% de relleno\nImpresión 'pausa' agregada en placas de impresión con pies y lápidas para insertar imanes (ver más detalles a continuación y fotos)\n\nTrozos de pasto para Tic Tac Toes 3mf (incluye trozos de pasto delantero y trasero)\nAltura de capa de 0,24 mm\nEl PLA funciona muy bien\nGenerador de pared Arachne encendido/seleccionado (muy importante)\nVelocidad del puente 25 mm/s\nPuentes gruesos activados/seleccionados\nBucles de pared 3\nOrejas de ala aplicadas a las esquinas de cada pieza.\nNo se necesitan soportes (NOTA: para la pieza Back Grass le dará una advertencia sobre un área flotante de la impresión. Se refiere a una brizna de hierba. He revisado mi modelo y no veo ningún problema con ninguna brizna. Lo he impreso varias veces sin soportes. POR FAVOR NO AGREGUE SOPORTES)\n\nCómo imprimir e insertar los imanes en los pies/dedos de los pies:\nHaga una pausa en la capa 19 (altura de capa 3,80 mm) para que tanto los pies como los dedos de los pies inserten los imanes.\nAsegúrese de que los imanes estén orientados correctamente (asegúrese de que los dedos de los pies se sientan atraídos por los pies Y de que los dedos de los pies se sientan atraídos por la lápida). Me gusta imprimir los pies/dedos de los pies primero y luego la lápida. Utilizo los dedos de los pies para comprobar la orientación de mi imán antes de insertarlos en las lápidas (ver vídeo)\n\nCómo imprimir e insertar los imanes en las lápidas:\nEl Tombstone (dos colores) se imprimirá boca abajo. He insertado una impresión en pausa en la capa 19 (altura de capa 3,80 mm). Cuando la impresión se detenga, inserte los imanes en la orientación correcta (en comparación con los dedos de los pies) y luego reanude la impresión.\n\nTombstone (un solo color) se imprime en posición vertical debido a las áreas empotradas de las letras y las líneas de la cuadrícula. He insertado una impresión en pausa en la capa 84 (altura de capa 16,8).\n\nNOTA: Debido a que estos imanes se insertan más arriba en la impresión, necesitará agregar un poco de pegamento en el orificio de cada imán (puede usar una gota muy pequeña de superpegamento o incluso un poco de pegamento en barra en la parte posterior del imán). Esto les ayudará a permanecer en su lugar cuando se reanude la impresión y se imprima sobre ellos. Si no fija el imán con un poco de pegamento, cuando se reanude la impresión, los imanes pueden \"saltar\" de los orificios y adherirse al cabezal de impresión (consulte el vídeo de arriba).\n\nCómo imprimir y recortar las piezas de césped:\nAmbas piezas de Grass se imprimen en sus lados. Una vez que hayan terminado de imprimir, deberá recortar la cubierta superior del césped. Puedes utilizar tijeras, cortaalambres o incluso cortarlo con cuidado con un cuchillo. Tenga cuidado y tómese su tiempo. Después de quitar la cubierta superior, puedes recortar y darle forma al césped como quieras (ver el vídeo de arriba)\n\nCómo montar:\nDeslice los conectores en la base de la lápida (agregue un poco de pegamento si es necesario)\nDeslice la pieza de césped trasera sobre los conectores.\nDeslice los conectores en la pieza de césped delantera.\nAntes de juntar demasiado estas tres partes, inserte los pies. Se puede agregar pegamento a la parte inferior de los pies para asegurarlos permanentemente en su lugar.\nSi imprimió la lápida (un color), pegue las letras RIP y las líneas de la cuadrícula en su lugar. Inserte la lápida en la base de la lápida, agregue los dedos de los pies y estará listo para jugar (también puede colocar la lápida plana y jugar sobre ella de esa manera también).\n\nMis diseños son gratuitos para uso personal y no comercial. Ofrezco una licencia comercial en Thangs. Aquí te dejo un enlace si quieres verlo\n\nSi te gusta mi trabajo y quieres apoyarlo, puedes comprarme una Coca-Cola Light en\n\n¡Muchas gracias!\n¡Diviértete imprimiendo y jugando!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "tres en raya",
+  "dedo del pie",
+  "pie",
+  "imanes",
+  "lápida sepulcral",
+  "brillar en la oscuridad",
+  "3dpmamá",
+  "concurso"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7bf5501943b9d5/design/2025-10-04_95385b3e8e52d.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.png",
+  "previews/12.png",
+  "previews/13.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   562
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/11.png": [
+   1000,
+   1000
+  ],
+  "previews/12.png": [
+   1000,
+   1000
+  ],
+  "previews/13.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1982598.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1982607.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

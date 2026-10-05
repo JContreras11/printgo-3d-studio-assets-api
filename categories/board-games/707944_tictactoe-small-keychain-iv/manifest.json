@@ -1,0 +1,149 @@
+{
+ "files": [
+  {
+   "path": "model/tictactoe-llavero-1h48.3mf.xz",
+   "instance_id": "638091",
+   "thumbnail": "previews/profiles/638091.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 1045,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Updated 23 Jul 2026",
+    "profile_notes": "Thank you so much for printing! :)",
+    "creation_date": "2026-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1589596,
+   "sha256": "e6cbc6d157ded49a0f488c3b9458084f40544be0f577437429d8937b81e5c3d3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tictactoe-llavero-1h30.3mf.xz",
+   "instance_id": "3269000",
+   "thumbnail": "previews/profiles/3269000.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2S",
+    "P2S",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "P1S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Fixed file so tiles spin freely",
+    "profile_notes": "Modified the settings so that tiles spin freely. Added an extra color; bottom hashes and O's are black, top hashes and X's are white. You can chose the same color for both for a standard look.",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1731468,
+   "sha256": "3f4aea0862252ac98e1faca16753c194c3fc1193161c021e577a08c8e1c5de9b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "707944",
+ "title": "TicTacToe - Llavero Pequeño IV",
+ "slug": "tictactoe-small-keychain-iv",
+ "url": "https://makerworld.com/en/models/707944-tictactoe-small-keychain-iv",
+ "author": "Invexpo",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Boost Me ¡Muchas gracias por el apoyo! ¡Hola!\n\nLa versión anterior fue muy bien recibida. Sin embargo, hubo problemas ocasionales con la movilidad de las articulaciones, especialmente en impresoras económicas. Este modelo presenta una fuente diferente y la tolerancia más alta entre todas mis versiones de modelo, lo que garantiza que cualquier impresora pueda imprimir este modelo sin problemas.\n\nEn mi perfil encontrarás una versión con diferentes íconos, de dominio público y en el futuro podría agregar más diseños.\nSIN VERSIÓN AMS:\nMINECRAFT:\nOTRAS FUENTES: En mi perfil:)\n\n¡Divertirse!\n\n¡MIRA MIS OTROS MODELOS!:)\n\nBoost Me ¡Muchas gracias por el apoyo! ¡Me da mucha motivación para seguir creando más modelos!",
+ "use_cases": [],
+ "tags": [
+  "juegos de mesa",
+  "tictacto",
+  "divertido",
+  "niños",
+  "llavero",
+  "juguete",
+  "ams",
+  "lugar de impresión",
+  "una pieza",
+  "fácil",
+  "rápido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US70aedb7b01dfab/design/2024-10-13_c45491bd15d1f.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1379,
+   1440
+  ],
+  "previews/03.jpg": [
+   1080,
+   1440
+  ],
+  "previews/profiles/638091.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3269000.jpg": [
+   600,
+   810
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

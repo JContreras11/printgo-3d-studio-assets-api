@@ -1,0 +1,998 @@
+{
+ "files": [
+  {
+   "path": "model/pig-hole-6h42.3mf.xz",
+   "instance_id": "696193",
+   "thumbnail": "previews/profiles/696193.jpg",
+   "print_time_h": 6.7,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Mostly default settings: Box and screw: 3 wall lines Dice: 100% infill",
+    "creation_date": "2025-01-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9883,
+      "weight_g": 52.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F55A74"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6935,
+      "weight_g": 100.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6067,
+      "weight_g": 62.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1365,
+      "weight_g": 7.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6196796,
+   "sha256": "fff6e1b46cf2540fe03ef734c6e9552dfcbb3a5cb50d6e153ac5e753d482c3ba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-10h42.3mf.xz",
+   "instance_id": "3271476",
+   "thumbnail": "previews/profiles/3271476.jpg",
+   "print_time_h": 10.7,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "Beautified top and dice with visable eyes",
+    "profile_notes": "Beautified the top, added different filament to dice eyes (requires AMS) and added painted brim to prevent warping. To beautify the top I used Hilbert curve.",
+    "creation_date": "2026-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 6188848,
+   "sha256": "199bba902744a09aad241abdeb65289d5cd7743a57d5217d69d8b3bdaf022e0e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-12h12.3mf.xz",
+   "instance_id": "3084481",
+   "thumbnail": "previews/profiles/3084481.jpg",
+   "print_time_h": 12.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "A2L",
+    "H2S",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Druckplatte mit Frischlingen0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Habe eine Druckplatte mit “Frischlingen” hinzugefügt, ansonsten alles wie bei der optimierten Version beibehalten",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 12392432,
+   "sha256": "0517e138cbb71e219578f691cd08326139e0dc530bcce1777a3e19132f416cfb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-13h36.3mf.xz",
+   "instance_id": "719591",
+   "thumbnail": "previews/profiles/719591.jpg",
+   "print_time_h": 13.6,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 65,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L",
+    "H2S",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 mini profile, both for AMS and not",
+    "profile_notes": "Profile for A1 mini. The box, table and closing are reduced a little to fit the A1 mini plate. There are both the AMS version and the single color one. The table in single color has a pause for changing color (advise: start in white and change to green).",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11848,
+      "weight_g": 52.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF7F98"
+       },
+       {
+        "type": "PLA",
+        "color": "#84620D"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6710,
+      "weight_g": 61.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3703,
+      "weight_g": 21.48,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6403,
+      "weight_g": 69.63,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10608,
+      "weight_g": 50.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF7F98"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6644,
+      "weight_g": 61.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3193,
+      "weight_g": 18.13,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       }
+      ]
+     }
+    ],
+    "photos": 7
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 12689676,
+   "sha256": "98b35d2dbac7cbf199226cc9464a563a38ab05e182952c7f65a032a9737c088d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-18min.3mf.xz",
+   "instance_id": "941988",
+   "thumbnail": "previews/profiles/941988.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Rock Hand Game Figure - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Size ca 15x15x25mm",
+    "creation_date": "2025-01-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1015,
+      "weight_g": 1.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFB7B7"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 9474808,
+   "sha256": "38404398d6529a3766972679e8be7b7694c9b77c66f56158e7cbb5e6314a778a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-1h54.3mf.xz",
+   "instance_id": "1991609",
+   "thumbnail": "previews/profiles/1991609.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Tray & Washer accessories, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Two additions to this fantastic game that I found useful. TPU washer to add to the locking plug to give it a better feel on tightening. A tray insert to hold the dice and 50 pigs, helps keep track of the pigs so that it is obvious when any go missing, sorry couldn't fit 64 pigs but this allows for 5 players with 10 pigs each and segmented into groups of 10 (useful for young players that may not count reliably). Secure the tray to the base with double sided tape.",
+    "creation_date": "2025-10-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2278500,
+   "sha256": "75db7c212648e087de749006fd166673c3a6e2d300818a4fef837ce26f9d085c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-2h42.3mf.xz",
+   "instance_id": "1778426",
+   "thumbnail": "previews/profiles/1778426.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Corrales para cerdos - A1 mini",
+    "profile_notes": "0.4mm nozzle, 0.2mm layers, 2 walls, 15% grid infill, includes modifiers for honeycomb floor, no supports. Printed in Bambu PLA Basic - Black. I have reduced the original one, It is compatible with the A1 mini printer, can be printed on that printer, and fits perfectly with the box printed on the model made for the A1 mini. Great model and great game! The family kept knocking the little squealers all over the place during gameplay so I created some Pig Pens to keep them under control during the game (pens for the pigs, not for the kids - not yet anyways!). The pens hold your pigs during the game and are stored in the original designer's game box with no modifications. There are 6 pens in all, 5 outer pens which are all identical, and 1 inner pen. The inner pen has a cover plate to be put in place (from the inside of the pen) when taken out of the box and removed again when storing the pens in the box. The pen floors are mesh honeycomb for easy clean-up! The model print profiles include modifiers that eliminate the top and bottom surfaces to create the open honeycomb floor. The build plate for the outer pig pens has all 5 pens; if for some reason you need to print fewer than 5, be sure to include the corresponding modifier with its pen to get the honeycomb floor. The second build plate has the inner pen and cover plate, each with their own modifiers. Thanks again to KR_Design for sharing the original game.",
+    "creation_date": "2025-08-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 2508836,
+   "sha256": "37c3f39c71059627f42df495f28f234686b9482e8e8bbcb80c5ee310953882b2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-2h48.3mf.xz",
+   "instance_id": "868934",
+   "thumbnail": "previews/profiles/868934.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 32,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "H2S",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X2D",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Pig Pens for Pig Hole - Board Game (KR_Design edition)",
+    "profile_notes": "0.4mm nozzle, 0.2mm layers, 2 walls, 15% grid infill, includes modifiers for honeycomb floor, no supports. Printed in Bambu PLA Wood - Black Walnut. Great model and great game! The family kept knocking the little squealers all over the place during gameplay so I created some Pig Pens to keep them under control during the game (pens for the pigs, not for the kids - not yet anyways!). The pens hold your pigs during the game and are stored in the original designer's game box with no modifications. There are 6 pens in all, 5 outer pens which are all identical, and 1 inner pen. The inner pen has a cover plate to be put in place (from the inside of the pen) when taken out of the box and removed again when storing the pens in the box. The pen floors are mesh honeycomb for easy clean-up! The model print profiles include modifiers that eliminate the top and bottom surfaces to create the open honeycomb floor. The build plate for the outer pig pens has all 5 pens; if for some reason you need to print fewer than 5, be sure to include the corresponding modifier with its pen to get the honeycomb floor. The second build plate has the inner pen and cover plate, each with their own modifiers. A1 Mini users - the assembly of 5 Outer Pig Pens on build plate 1 is just a hair too big to fit, you can delete one of the pens and its modifier to get it to fit, you just have to also print one on its own. Thanks again to KR_Design for sharing the original game.",
+    "creation_date": "2025-01-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7846,
+      "weight_g": 62.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#4F3F24"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2034,
+      "weight_g": 13.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#4F3F24"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 3563708,
+   "sha256": "795697c95d2f296cf8bb78a2df9283ad8ebd25956f70cd8bced2bffc2da70af5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-5h.3mf.xz",
+   "instance_id": "1297849",
+   "thumbnail": "previews/profiles/1297849.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "P1P",
+    "A1",
+    "A2L",
+    "X1",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Travel Edition (same size Pigs)",
+    "profile_notes": "Attention: The box is not compatible with the other print profiles, due to changed dimensions Mostly default settings. Dice is with 100% infill Screw is with 3 wall lines Game board is with 25% infill",
+    "creation_date": "2025-03-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10197,
+      "weight_g": 52.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7E6DE"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8198,
+      "weight_g": 86.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#68724D"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6281344,
+   "sha256": "c290c031bbd29825a4a480729bdb02f2c98ec0cbf17a8055824afc80fee9ab65",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-6h24.3mf.xz",
+   "instance_id": "705315",
+   "thumbnail": "previews/profiles/705315.jpg",
+   "print_time_h": 6.4,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 66,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "NO AMS Version",
+    "profile_notes": "Mostly default values no support dice with 100% infill",
+    "creation_date": "2025-01-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6935,
+      "weight_g": 100.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00DF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6193,
+      "weight_g": 67.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00DF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8846,
+      "weight_g": 47.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F55A74"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 994,
+      "weight_g": 4.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6137896,
+   "sha256": "340cb39f3218666dff270e913bb5657d4494f34a9199e1547ffa3353c0fe8f18",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-6h54.3mf.xz",
+   "instance_id": "710972",
+   "thumbnail": "previews/profiles/710972.jpg",
+   "print_time_h": 6.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 323,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Optimized AMS Version",
+    "profile_notes": "Attention: The box is not compatible with the other print profiles, due to changed dimensions Mostly default settings. Dice is with 100% infill Screw is with 3 wall lines Game board is with 25% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9883,
+      "weight_g": 52.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F55A74"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15212,
+      "weight_g": 173.04,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6213304,
+   "sha256": "4796cca46f4db3a7fff0b835a3f884758f6390d0d953e04e0270cb9f9449d57c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pig-hole-6min.3mf.xz",
+   "instance_id": "1064152",
+   "thumbnail": "previews/profiles/1064152.jpg",
+   "print_time_h": 0.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "A2L",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Dots for pig dice",
+    "profile_notes": "Add a little glue to the hole in the dice and push printed dot into it with tweezers, tabletop or anything hard as fingers might be to soft for the job.",
+    "creation_date": "2025-02-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 467,
+      "weight_g": 0.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2179392,
+   "sha256": "222ac9d7d923f0b8ee596bd047dbcba2e3915006830c814fc6a0cc64dca06c26",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "761480",
+ "title": "Pig Hole - Juego de mesa (edición KR_Design)",
+ "slug": "pig-hole-board-game-kr_design-edition",
+ "url": "https://makerworld.com/en/models/761480-pig-hole-board-game-kr_design-edition",
+ "author": "kr_design",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "MembresíaSi quieres vender impresiones físicas del juego Pig Hole, ¡ahora puedes unirte a mi membresía comercial por solo 4,99 $ al mes! ACTUALIZACIÓN: Agregué un perfil de impresión para un solo color / sin AMS.\n\nACTUALIZACIÓN II: Agregué un perfil de impresión optimizado para AMS (Atención, esto no es compatible con los otros perfiles de impresión debido al cambio en las dimensiones de la caja)\nEl perfil de impresión optimizado presenta:\nDiseño de dados actualizado con esquinas redondeadas.\nSe redujo la impresión a solo 2 planchas de impresión.\nDiseño de cerdo agregado al tornillo.\nACTUALIZACIÓN III:\n@Quilty_Tina creó instrucciones en inglés y alemán que caben en la caja, puedes descargarlas como PDF en la sección de documentación. ¡Gracias @Quilty_Tina por las muy buenas instrucciones!\n\nImpresión:\nAlgunos tuvieron problemas con el campo de juego levantado en la esquina durante la impresión; para evitar esto, asegúrese de tener una plataforma de impresión limpia y, opcionalmente, reduzca el ventilador AUX.\n\nJuego:\nEste es mi diseño para el clásico juego “pighole”.\n\nModifiqué el diseño común para adaptarlo mejor al juego y utilizar las capacidades de la impresión 3D.\n\nEste modelo incluye todo lo que necesitas para jugar, no requiere hardware adicional:\n60 cerdos (+4 como reemplazo)\ndados personalizados (1-5 + cerdo)\ntablero de juego\ncaja con tornillo impreso para cerrar todo\nEl modelo está diseñado para AMS, pero pronto subiré una “versión sin AMS”.\n\nReglas:\nDistribuya los cerdos a los jugadores:\n2 jugadores: 20 cerdos cada uno\n4 jugadores: 15 cerdos cada uno\n6 jugadores: 10 cerdos cada uno\nEl objetivo del juego es deshacerte de tus cerdos primero.\nLos jugadores tiran los dados por turnos.\nSi un jugador saca un 6 (símbolo del cerdo), puede arrojar uno de sus cerdos al agujero en el centro del tablero.\nSi un jugador obtiene un número del 1 al 5, puede colocar un cerdo en un campo vacío en la sección correspondiente del tablero de juego.\nSi la sección ya está llena de cerdos, el jugador tiene que coger todos los cerdos de esa sección y termina su turno.\n\nRonda 1: Cada jugador tira los dados 1 vez.\nRonda 2: Cada jugador tira los dados 2x.\nRonda 3 y todas las siguientes: cada jugador puede tirar los dados tantas veces como quiera, pero al menos 1 vez.\n\nEl ganador es quien se deshaga primero de todos los cerdos. El juego puede continuar hasta que solo queden cerdos a un jugador.\n\nMontaje para “Versión NO AMS”:\nPuedes añadir las fichas blancas al tablero de juego con una gota de pegamento.",
+ "use_cases": [],
+ "tags": [
+  "cerdo",
+  "juego de mesa",
+  "dados",
+  "agujero",
+  "familia",
+  "divertido",
+  "juego",
+  "suerte"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4655f378f67961/design/2024-11-10_f121fef2bffed.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   746
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   629
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/696193.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3271476.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3084481.jpg": [
+   438,
+   348
+  ],
+  "previews/profiles/719591.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/941988.jpg": [
+   600,
+   1065
+  ],
+  "previews/profiles/1991609.jpg": [
+   277,
+   600
+  ],
+  "previews/profiles/1778426.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/868934.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1297849.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/705315.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/710972.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1064152.jpg": [
+   600,
+   1065
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

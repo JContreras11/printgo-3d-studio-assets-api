@@ -1,0 +1,414 @@
+{
+ "files": [
+  {
+   "path": "model/poke-balance-26h36.3mf.xz",
+   "instance_id": "2517812",
+   "thumbnail": "previews/profiles/2517812.jpg",
+   "print_time_h": 26.6,
+   "plates": 6,
+   "rating": 4.8,
+   "rating_count": 48,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Ich empfehle die Balance Base mit Support Material zu drucken",
+    "creation_date": "2026-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 4874720,
+   "sha256": "b7d1bf62e7474646ca4d3349c1826e2316e392bd7b8875b76497772c773d79a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-14h24.3mf.xz",
+   "instance_id": "2624973",
+   "thumbnail": "previews/profiles/2624973.jpg",
+   "print_time_h": 14.4,
+   "plates": 5,
+   "rating": 4.7,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Profile for A1 Mini, without the Box",
+    "creation_date": "2026-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión mini",
+   "size": 4831752,
+   "sha256": "d01724fadcff14fdd702d65a4181d33230fa011873a046877a4786e2c9a3550c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-19h06.3mf.xz",
+   "instance_id": "2673701",
+   "thumbnail": "previews/profiles/2673701.jpg",
+   "print_time_h": 19.1,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Profil für P2S",
+    "profile_notes": "Since some of you guys requested a p2s profile, here you go :)",
+    "creation_date": "2026-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 7179292,
+   "sha256": "f114a69b9c44cb3c5135932a72fc67f6e806efe597eb9b5a193af8c08002c0cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-25h12.3mf.xz",
+   "instance_id": "2685477",
+   "thumbnail": "previews/profiles/2685477.jpg",
+   "print_time_h": 25.2,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Support that actually comes apart. Also no color bleed",
+    "profile_notes": "Set the support so it actually comes apart easily. the stock one fused the support to the model and ruined the print. Also increased the purge when switching to white so the colors don't bleed. The stock profile the white button cam out grey due to black bleed in.",
+    "creation_date": "2026-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 5005896,
+   "sha256": "e99015a814d71c5eff5f8a554d05a7f39a5b7fc171ef42825d08da423182cf2f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-27h42.3mf.xz",
+   "instance_id": "2624948",
+   "thumbnail": "previews/profiles/2624948.jpg",
+   "print_time_h": 27.7,
+   "plates": 6,
+   "rating": 4.8,
+   "rating_count": 31,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Profile for A1",
+    "creation_date": "2026-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 4917840,
+   "sha256": "cabe164154b3fe4edb1db954e905ac345f60324670a6c659e5c6b71ab879c6be",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-2h18.3mf.xz",
+   "instance_id": "2673677",
+   "thumbnail": "previews/profiles/2673677.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Evoli Set",
+    "profile_notes": "Hier das erste Erweiterungsset - Evoli Edition! Viel Spaß beim drucken und spielen",
+    "creation_date": "2026-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2900168,
+   "sha256": "c0d0cfe9e40bd173503f3b0500d896917225bf19a8facf2c6259e52db7a1bbd4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-30h06.3mf.xz",
+   "instance_id": "2831899",
+   "thumbnail": "previews/profiles/2831899.jpg",
+   "print_time_h": 30.1,
+   "plates": 8,
+   "rating": 4.8,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Complete Set new box, dice & Evoli Set",
+    "profile_notes": "Verbesserte Box, kann jetzt viel mehr Pokemon verstauen und ist auch auf einem A1 Mini druckbar. Neutraler Würfel mit coolem Pokeball Design hinzugefügt.",
+    "creation_date": "2026-03-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 8808148,
+   "sha256": "afdad0d70ae9271466d91d4e0ba2abc5119b82fa66113696536ebc4db5810423",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-33h18.3mf.xz",
+   "instance_id": "2897125",
+   "thumbnail": "previews/profiles/2897125.jpg",
+   "print_time_h": 33.3,
+   "plates": 11,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "A1 mini complet Set",
+    "profile_notes": "Verbesserte Box, kann jetzt viel mehr Pokemon verstauen und ist auch auf einem A1 Mini druckbar. Neutraler Würfel mit coolem Pokeball Design hinzugefügt.",
+    "creation_date": "2026-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 11
+   },
+   "name": "Versión mini",
+   "size": 8046524,
+   "sha256": "d972eba9e5b7c44550d946f2694a2df9aac3ff1a3409d51ec947fa6e02393ecc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/poke-balance-71h54.3mf.xz",
+   "instance_id": "2841960",
+   "thumbnail": "previews/profiles/2841960.jpg",
+   "print_time_h": 71.9,
+   "plates": 9,
+   "rating": 4.3,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "A1",
+    "X1",
+    "P1P",
+    "P2S",
+    "P1S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Snapfit ball and no supports base",
+    "profile_notes": "Snapfit pokeball - NO supports needed now, this is a remix of the base making it easy to print. No ams and easy color change for any printer. The Top (red) is a little tight, dont push too far down / hard on one side. Push each side evenly. The ball is now centered in the middle, the original was a little to far one side. You can store more pieces inside the base. Will make some pokeballs for the top when I find out how to post remixes. 0.4mm nozzle, 0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-03-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   },
+   "name": "Versión estándar",
+   "size": 8798476,
+   "sha256": "9cf74fd5c07a5de4704ee8fab11c1ec73a609d6973055ea64efc95e7a514231f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2306548",
+ "title": "Poké - Balance",
+ "slug": "poke-balance",
+ "url": "https://makerworld.com/en/models/2306548-poke-balance",
+ "author": "user_3272002699",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "ATENCIÓN Después de algunos problemas con los soportes, aquí hay una nota: El soporte configurado está diseñado para imprimirse con soporte para PLA/PETG. Si imprime sin material de soporte adicional, la configuración del soporte debe restablecerse al estándar. Si se inicia la impresión sin el material de soporte adecuado y sin cambiar la configuración, será imposible retirar el soporte. Sin embargo, recomiendo probar este material, ya que produce los mejores resultados.\n\n¿Estás buscando el último desafío de Poke? Entonces prueba este juego de equilibrio de Pokémon.\nPara 1-4 jugadores\n\nNormas:\n\n¿Es tu turno? Tira los dados y toma el Pokémon.\nColócalo con cuidado en la Base de equilibrio: solo puedes tocar el Pokémon que estás colocando actualmente.\n¿La base sigue en pie? Puedes dar un suspiro de alivio. ¿Se ha caído un Pokémon de la base? Entonces pierdes.\n\n¿Conseguiste colocar los 12 Pokémon? Felicitaciones (grupo). Pruébalo con más Pokémon. Habrá nuevos conjuntos de Pokémon disponibles en el futuro.\nIncluye una caja a juego para guardar el juego.\n\nActualización 23 de febrero de 2026\n\nLa primera expansión está en línea Eevee y sus evoluciones Diviértete:)\n\nActualización 25 de marzo de 2026\n\nHe subido el nuevo perfil de impresión “juego completo, nueva caja, dados y juego de Eevee” con una caja completamente rediseñada, que ahora no sólo se puede imprimir en un A1 mini debido a su diseño compacto, sino que también contiene mucho más espacio de almacenamiento para más Pokémon. Además, hay un nuevo dado con un diseño genial de Pokebola y todos los conjuntos de Pokémon actuales ahora se combinan en un perfil de impresión. También se está trabajando en un nuevo conjunto de Pokémon:)",
+ "use_cases": [],
+ "tags": [
+  "pokémon",
+  "balance",
+  "juego",
+  "juego de dados"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5e5621a0f13909/design/399e24aa79f0c7dc.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1334
+  ],
+  "previews/06.jpg": [
+   1000,
+   999
+  ],
+  "previews/07.jpg": [
+   1000,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2517812.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2624973.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2673701.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2685477.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/2624948.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2673677.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2831899.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2897125.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2841960.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

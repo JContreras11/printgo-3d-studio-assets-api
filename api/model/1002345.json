@@ -1,0 +1,536 @@
+{
+ "files": [
+  {
+   "path": "model/juego-carreras-16h54.3mf.xz",
+   "instance_id": "980002",
+   "thumbnail": "previews/profiles/980002.jpg",
+   "print_time_h": 16.9,
+   "plates": 9,
+   "rating": 4.5,
+   "rating_count": 206,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6636,
+      "weight_g": 58.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6961,
+      "weight_g": 63.52,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6936,
+      "weight_g": 63.54,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9976,
+      "weight_g": 96.2,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3191,
+      "weight_g": 20.21,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F4A925"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3191,
+      "weight_g": 20.21,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C8C8C8"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9580,
+      "weight_g": 51.37,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9085,
+      "weight_g": 51.09,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5267,
+      "weight_g": 28.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   },
+   "name": "Multicolor",
+   "size": 3005096,
+   "sha256": "78037cb81402b628ae71ff2031c5799c32aaa3821415507ed5452d0c132f8d4c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-carreras-15h36.3mf.xz",
+   "instance_id": "1121059",
+   "thumbnail": "previews/profiles/1121059.jpg",
+   "print_time_h": 15.6,
+   "plates": 5,
+   "rating": 3.5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill - 5 plates 95% version",
+    "profile_notes": "Hello, I love print saving money and time, so here it is :) 5 plates, 95% scale, working perfect !! have fun !",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16744,
+      "weight_g": 97.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6920,
+      "weight_g": 46.44,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13481,
+      "weight_g": 125.04,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9932,
+      "weight_g": 94.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8966,
+      "weight_g": 81.48,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3916848,
+   "sha256": "6de35fd9bb3e216d42192693ce1d95419cf32b1272fa7b5afe83e1bfb6d39230",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-carreras-17h30.3mf.xz",
+   "instance_id": "1041352",
+   "thumbnail": "previews/profiles/1041352.jpg",
+   "print_time_h": 17.5,
+   "plates": 12,
+   "rating": 4.5,
+   "rating_count": 38,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill A1 mini",
+    "profile_notes": "I have adapted the original model by reducing everything to 90% of its size so that it can be printed on A1 Mini. Plates 11 and 12 need to be printed three times to assemble everything like the original model.",
+    "creation_date": "2025-01-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7920,
+      "weight_g": 33.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10084,
+      "weight_g": 40.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6857,
+      "weight_g": 28.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5794,
+      "weight_g": 38.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4745,
+      "weight_g": 36.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4751,
+      "weight_g": 36.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4795,
+      "weight_g": 31.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4992,
+      "weight_g": 33.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3226,
+      "weight_g": 15.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3226,
+      "weight_g": 15.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3624,
+      "weight_g": 29.48,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3141,
+      "weight_g": 13.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 12
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 3364872,
+   "sha256": "e8c740c35ae8b4f67caf3571bd274cc106ca0bbc61b606e4fb5678328d7414f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1002345",
+ "title": "Juego de carreras de serpientes",
+ "slug": "racing-snake-game",
+ "url": "https://makerworld.com/en/models/1002345-racing-snake-game",
+ "author": "wontonnn",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Juego de mesa Racing Snake\n¡Compite con tus serpientes para celebrar el Año de la Serpiente!\n\nObjetivo del juego:\nCada jugador controla una estación en los extremos opuestos de la pista. Al girar la manija, los jugadores mueven sus serpientes desde el punto de partida hasta la línea de meta. ¡La primera serpiente en cruzar la línea de meta gana!\n\nPersonalización de pistas:\nLa forma de la pista se puede personalizar ya que cada segmento es modular y se puede repetir o conectar de varias maneras.\n\nInstrucciones de impresión 3D:\nMateriales: Utilice PETG para todas las piezas móviles, ya que requieren durabilidad y resistencia.\nUtilice PLA/PLA+ para la carcasa y el mango si lo desea.\n\nPlacas de impresión: Placa 1: Segmento de vía recta: imprima 3 veces.\nPlaca 2 y Placa 3: Segmentos de giro en U reflejados: imprima una vez cada uno.\nLa vía predeterminada que se muestra en la imagen consta de 3 vías rectas y 2 giros en U combinados.\nCada pista requiere 12 marchas. Cada estación de mango requiere 1 engranaje estándar y 1 engranaje especializado más pequeño, con un total de 62 engranajes estándar más 2 engranajes más pequeños.\nApriete suavemente la serpiente justo después de retirarla de la placa de impresión para asegurarse de que las uniones estén libres y flexibles.\n\nPersonalización: siéntete libre de crear tu propio diseño de pista utilizando los tres tipos de segmentos de pista. Primero puede imprimir una sola pista en la placa 1 para realizar experimentos.\nTenga cuidado con la longitud excesiva de la oruga, ya que puede aumentar la fricción y reducir la rotación suave. Al final se atasca.\n\nInstrucciones de montaje:\nImportante: Las piezas están diseñadas para un ajuste perfecto, especialmente las tapas de carril guiadas en el carril. Una vez instalados, pueden ser difíciles de quitar y pueden requerir una herramienta de palanca. Antes de colocar las cubiertas de los rieles guiados, asegúrese de que los engranajes giren libremente y confirme que el riel guiado esté correctamente orientado.\n\nSi no está seguro de la orientación durante el montaje, consulte la siguiente figura como guía. La regla simple es: los \"dientes\" de la cubierta guía siempre deben mirar en la misma dirección, opuesta a la dirección del movimiento de la serpiente.\n\nEnsamble los segmentos de riel recto: conecte las piezas de riel recto entre sí.\n\nEnsamble los segmentos de giro en U: coloque las piezas de giro en U reflejadas. Conectando cada segmento utilizando los conectores proporcionados. Hay dos tipos de conectores, el cuadrado se usa en el centro del giro en U para conectar 3 piezas (1 giro en U y 2 rectas).\nInstale las estaciones de rotación: Asegure las estaciones de manija en cada extremo del riel. Se incluye una pequeña estaca, impresa horizontalmente, para mayor resistencia. Inserte la estaca completamente en la abertura del tubo en la base, asegurándose de que llegue al fondo. La parte superior de la estaca debe quedar al ras de la abertura para que sepas que está insertada hasta la parte inferior.\n\n¡Estás listo para correr! ¡Que las serpientes se deslicen hacia la victoria!\n\n(notas adicionales: he reiterado el diseño muchas veces para mayor resistencia, parece lo suficientemente resistente, pero siempre es posible usar demasiada fuerza para romper los plásticos. Ocasionalmente, la serpiente puede caerse de la pista si gira demasiado fuerte, pero creo que eso es parte de la diversión).",
+ "use_cases": [],
+ "tags": [
+  "serpiente",
+  "juego de mesa",
+  "carreras",
+  "automatización"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd36f03856e7e9c/design/2025-01-18_9b76d1263bfba.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/980002.jpg": [
+   320,
+   240
+  ],
+  "previews/profiles/1121059.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1041352.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

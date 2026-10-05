@@ -1,0 +1,193 @@
+{
+ "files": [
+  {
+   "path": "model/juego-ajedrez-multicolor-69h30.3mf.xz",
+   "instance_id": "1766217",
+   "thumbnail": "previews/profiles/1766217.jpg",
+   "print_time_h": 69.5,
+   "plates": 14,
+   "rating": 4.9,
+   "rating_count": 115,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "P2S",
+    "A2L",
+    "P1S",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1",
+    "H2D",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Chess Pieces multicolor v2",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 14
+   },
+   "name": "Multicolor",
+   "size": 4204280,
+   "sha256": "13f50b3743598612e98cf3c3d94db5acb6b3ab94f06bc4591ab0e770d6684f83",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-ajedrez-10h06.3mf.xz",
+   "instance_id": "1766232",
+   "thumbnail": "previews/profiles/1766232.jpg",
+   "print_time_h": 10.1,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "A1",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Black and White pieces v2",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2720916,
+   "sha256": "9d4f2a80c6a022b4c183628d4f964e2d7e466295db9638e38e54dc3786085448",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-ajedrez-10h12.3mf.xz",
+   "instance_id": "1766228",
+   "thumbnail": "previews/profiles/1766228.jpg",
+   "print_time_h": 10.2,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Chess Board A1 Mini v2",
+    "profile_notes": "Chess board for A1 Mini",
+    "creation_date": "2025-05-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión mini",
+   "size": 1816656,
+   "sha256": "4544820846c4e69003ac747fefeff496c2850958940a46e06c8520cafb44bc5b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1668536",
+ "title": "Juego de ajedrez Pokémon",
+ "slug": "pokemon-chess-set",
+ "url": "https://makerworld.com/en/models/1668536-pokemon-chess-set",
+ "author": "sifusan",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Juego completo de ajedrez Pokémon\nImpúlsameSi te gusta esta impresión, puedes apoyarme dándome un impulso gratis:) ¡Gracias! ¡V2 disponible, incluida la variante Squirtle Knight!\nDespués de muchas solicitudes, finalmente está disponible.\n\n¡Un juego de ajedrez completo para todos los fanáticos de Pokémon y del ajedrez!\n\nHice diferentes perfiles de impresión para que el modelo pueda imprimirse en todas las impresoras Bambu.\nPerfiles disponibles:\ntablero\npiezas de ajedrez\nLos perfiles de piezas de ajedrez contienen una reina adicional para la promoción de peones.\nDebido a que es una impresión multicolor, hay muchos desperdicios debido a las purgas, por lo que recomiendo imprimir varios juegos de las mismas piezas para regalos:)\nPerfiles A1 mini\nDebido al tamaño de cama A1 mini, es necesario imprimir dos placas de cuadrados oscuros y 2 placas de cuadrados blancos (hay un perfil A1 mini específico disponible para eso).\nGuía de montaje\nEnsamble el tablero usando esta imagen como referencia.\n\nEl jugador blanco debe tener la casilla A1 en la parte inferior izquierda de su lado del tablero.\nEl jugador negro debe tener la casilla H8 en la parte inferior izquierda de su lado del tablero.\n\nAquí se puede imprimir una caja con forma de Pokebola para guardar el juego de ajedrez Pokémon:\n\nTambién diseñé fichas con forma de Pokebola que también pueden caber en la caja:\n\nEspero que disfrutes de esta impresión y te diviertas jugando con ella:)",
+ "use_cases": [],
+ "tags": [
+  "pokemon",
+  "pokémon",
+  "ajedrez",
+  "junta",
+  "pokebola",
+  "juego",
+  "multicolor",
+  "tablero de ajedrez"
+ ],
+ "license": "BY",
+ "release_date": "2025-08-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3f8bc9d7614ed6/design/2025-08-04_23e8889d538f.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1766217.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1766232.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1766228.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

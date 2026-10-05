@@ -1,0 +1,143 @@
+{
+ "files": [
+  {
+   "path": "model/ajedrez-enrollable-9h42.3mf.xz",
+   "instance_id": "701434",
+   "thumbnail": "previews/profiles/701434.jpg",
+   "print_time_h": 9.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 303,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Roll Up Chess - non magnetized",
+    "profile_notes": "This is the print profile for the non magnetized version! 0.2mm layer, 2 walls, 15% infill Be careful when first using the hinges",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21852,
+      "weight_g": 136.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#E3A266"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11631,
+      "weight_g": 67.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#E3A266"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 13999164,
+   "sha256": "ae278d892a44bc6adbc72863bca4d8467a489d260d040cc4840f8bde8aabac0b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "766113",
+ "title": "Ajedrez enrollable - Impresión in situ - (sin TPU/ensamblaje)",
+ "slug": "roll-up-chess-print-in-place-no-tpu-assembly",
+ "url": "https://makerworld.com/en/models/766113-roll-up-chess-print-in-place-no-tpu-assembly",
+ "author": "Rossero",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Les presento: ¡mi versión de un juego de ajedrez enrollable!\n\nPara uso comercial, eche un vistazo a mi Patreon.\n\nHe visto muchos modelos de ajedrez enrollables, pero ninguno que se ajuste a mis necesidades. Lo que realmente quería:\nImprimir en el lugar\nCon tapas para almacenamiento seguro\nBisagras mecánicas\nImprimible sin AMS en cualquier impresora 20x20 (ver más abajo)\nDicho esto, ¡con AMS es muy sencillo! Sólo 2 placas y 3 colores para la versión no magnetizada.\n¡Sí, hay una versión magnetizada!\n\nVersión no magnetizada:\nNo hay necesidad de piezas adicionales y es mi preferida. Imprime en dos placas con un desperdicio de purga mínimo. Sin embargo, ten cuidado con la colocación de tus piezas, ¡es un tablero pequeño (del tamaño de un viaje)! Tampoco se recomiendan entornos de juego ventosos y desiguales.\n\nVersión magnetizada:\nComo puedes imaginar, ¡las piezas *encajan* en su lugar! Este perfil de impresión imprime en cuatro placas y tiene pausas integradas para saber cuándo agregar los imanes (5x3 mm). ¡Asegúrate de utilizar la orientación correcta! Todos los imanes en el tablero de ajedrez deben estar orientados de la misma manera, y en las piezas deben estar en lugares opuestos a los del tablero de ajedrez. Marque sus imanes de antemano o utilice otra técnica, ¡pero asegúrese de realizar un seguimiento de esto! Tampoco estoy seguro de cómo actúan las diferentes boquillas sobre los imanes; compare de antemano el atractivo de su boquilla con la superficie de su cama.\n\nAparte de eso, ¡saca el tablero de la placa de construcción y comienza a jugar!\n\nPara impresoras que no sean AMS u otras marcas:\nNecesita al menos una impresora de 20x20 y las impresoras modernas pueden generar más confusión que las más antiguas, así que proceda bajo su propia responsabilidad. La técnica utilizada logra esto la técnica Multipass Multicolor de Make Anything\n\nPara ver los modelos/códigos g de ejemplo para lograr esto, visite el mismo modelo en mi cuenta de Printables (Rossero)\n\n¡Feliz impresión!\n- Rossero",
+ "use_cases": [],
+ "tags": [
+  "ajedrez",
+  "lugar de impresión"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeaf9c263892ddf/design/2024-11-07_9a54e8a639c07.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   600,
+   338
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/701434.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

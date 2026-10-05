@@ -1,0 +1,245 @@
+{
+ "files": [
+  {
+   "path": "model/pinball-copa-10h18.3mf.xz",
+   "instance_id": "2986996",
+   "thumbnail": "previews/profiles/2986996.jpg",
+   "print_time_h": 10.3,
+   "plates": 6,
+   "rating": 4.6,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "V1.",
+    "profile_notes": "70% smaller version",
+    "creation_date": "2026-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 2063236,
+   "sha256": "57c80b20a44bd8c14c7eb138e7f203bc9cd8f10bddf5d9a4272b51ed4eaa7528",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pinball-copa-11h06.3mf.xz",
+   "instance_id": "3046227",
+   "thumbnail": "previews/profiles/3046227.jpg",
+   "print_time_h": 11.1,
+   "plates": 6,
+   "rating": 4.6,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "P2S",
+    "X2D",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "v2.1 Bug Fixes",
+    "profile_notes": "As there was an error in the dimensions, I have corrected them and added a new profile. The bracket has been reduced by 70% and can now be fitted correctly. The fixing caps have also been reduced by 1% and brought down to 4.9 mm for a perfect fit. Thank you for your interest.",
+    "creation_date": "2026-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 2335044,
+   "sha256": "a0673b62a6bb232dfe2bca35416e0d014d0ffcba828b359112c0edff1f46d672",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pinball-copa-11h18.3mf.xz",
+   "instance_id": "2987278",
+   "thumbnail": "previews/profiles/2987278.jpg",
+   "print_time_h": 11.3,
+   "plates": 6,
+   "rating": 4.2,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "V2. Various bug fixes and additions",
+    "profile_notes": "I turned the camera to the back of the goal because you couldn’t see when a goal was scored. I’ll add the scoreboard next time.",
+    "creation_date": "2026-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 2295764,
+   "sha256": "178c1c4681cbd614c8416e200d20e678d0daa0924699c896ffa1095415401bc4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pinball-copa-11h54.3mf.xz",
+   "instance_id": "3028192",
+   "thumbnail": "previews/profiles/3028192.jpg",
+   "print_time_h": 11.9,
+   "plates": 10,
+   "rating": 4.4,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A1",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "a1 mini version",
+    "profile_notes": "a1 mini version",
+    "creation_date": "2026-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión mini",
+   "size": 2471172,
+   "sha256": "22936c73d5826371f5ddd955ff1bf45676084c5f483040140ffef51e174572ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2695205",
+ "title": "Pinball de la Copa del Mundo: Soc mecánico totalmente impreso en 3D",
+ "slug": "world-cup-pinball-fully-3d-printed-mechanical-soc",
+ "url": "https://makerworld.com/en/models/2695205-world-cup-pinball-fully-3d-printed-mechanical-soc",
+ "author": "mahoq2",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Pinball de la Copa Mundial: juego de fútbol mecánico totalmente impreso en 3D (¡no se requiere hardware!)\n\n¡Lleva la emoción del Mundial a tu mesa!\n\nEste diseño es un juego de mesa totalmente imprimible en 3D que combina la mecánica clásica del pinball con la emoción del fútbol. ¡Su característica destacada es que no requiere tornillos, pernos ni piezas metálicas externas!\n\nNo se requiere hardware: todo el diseño (incluidos los mecanismos) consta únicamente de piezas impresas en 3D. No necesitarás buscar ningún material adicional para el montaje.\n\nMecanismo avanzado (cremallera y piñón): las aletas funcionan mediante un sistema de cremallera y piñón de precisión. Esto asegura que los giros sean mucho más controlados y satisfactorios.\n\nTecnología de resorte flexible (mecanismo compatible): en lugar de resortes metálicos, se han integrado diseños especiales de resorte en \"zigzag\" que utilizan la flexibilidad natural del plástico. Esto simplifica el montaje posterior a la impresión y mejora la durabilidad.\n\nRápido y divertido: puedes empezar a jugar inmediatamente con una canica estándar (16 mm) o la bola del archivo impreso.\n\nOptimización de tolerancia de 0,2 mm: todas las piezas móviles se han probado con tolerancias milimétricas (0,2 mm) para garantizar el mejor rendimiento en las impresoras Bambu Lab.\n\nMaterial: PLA (también se puede utilizar PETG para las piezas del resorte, pero el PLA también produce excelentes resultados).\nSoporte: El diseño ha sido optimizado para requerir un soporte mínimo.\nRelleno: se recomienda un relleno 'Gyroid' del 15 al 20 % para las piezas del mecanismo.\n\nV1. Esta es una versión reducida al 70% de los archivos originales. Tuve que reducir el tamaño para que encajara completamente dentro de la mesa.\nV2. Como la parte trasera de la portería estaba bloqueada, no estaba claro cuándo se había marcado un gol, así que corté un agujero en la parte trasera para permitir que la pelota entrara. También extendí los resortes de los brazos móviles hasta el círculo para evitar espacios muertos.\nV2.1. En el perfil V2, el castillo, los brazos móviles y los soportes de montaje no se habían reducido correctamente, lo que podría provocar impresiones defectuosas. Estos ya han sido corregidos y cargados.\n\nLe agradecería mucho si pudiera informarme si hay algún error en los cambios. Puede estar seguro de que estaré encantado de corregirlos.",
+ "use_cases": [],
+ "tags": [
+  "concursos",
+  "espíritu de fanático del fútbol",
+  "juegos",
+  "juego de mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USce3a000d04501/design/8c4556ef9193bb3a.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   635
+  ],
+  "previews/04.png": [
+   1000,
+   604
+  ],
+  "previews/05.png": [
+   1000,
+   631
+  ],
+  "previews/06.png": [
+   1000,
+   580
+  ],
+  "previews/07.png": [
+   1000,
+   603
+  ],
+  "previews/08.png": [
+   1000,
+   567
+  ],
+  "previews/profiles/2986996.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3046227.jpg": [
+   600,
+   309
+  ],
+  "previews/profiles/2987278.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3028192.jpg": [
+   600,
+   409
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

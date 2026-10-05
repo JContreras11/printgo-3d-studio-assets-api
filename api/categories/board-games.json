@@ -1,7 +1,7 @@
 {
  "category": "board-games",
  "label_es": "Juegos de mesa",
- "count": 50,
+ "count": 60,
  "models": [
   {
    "id": "1002345",
@@ -528,6 +528,73 @@
    "variant_hint": "Multicolor"
   },
   {
+   "id": "169180",
+   "title": "Juego de equilibrio: todo en una sola caja",
+   "slug": "balance-game-all-in-one-box",
+   "category": "board-games",
+   "author": "joskabuben",
+   "license": "BY-NC-SA",
+   "release_date": "2024-02-03",
+   "description": "He remezclado el juego de equilibrio para que sea más compacto. Todas las figuras tienen caja separada. El soporte de balanza está formado por dos piezas que encajan en la caja.\nPuedes colocar 8 drago",
+   "use_cases": [],
+   "tags": [
+    "juego",
+    "balance",
+    "juego de mesa",
+    "divertido",
+    "niño",
+    "niños"
+   ],
+   "file_count": 2,
+   "total_size": 9089100,
+   "preview": "categories/board-games/169180_balance-game-all-in-one-box/previews/01.jpg",
+   "preview_size": [
+    1000,
+    750
+   ],
+   "images": [
+    "categories/board-games/169180_balance-game-all-in-one-box/previews/01.jpg",
+    "categories/board-games/169180_balance-game-all-in-one-box/previews/02.jpg",
+    "categories/board-games/169180_balance-game-all-in-one-box/previews/03.jpg",
+    "categories/board-games/169180_balance-game-all-in-one-box/previews/04.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/169180-balance-game-all-in-one-box"
+  },
+  {
+   "id": "1838619",
+   "title": "Tetris analógico",
+   "slug": "analog-tetris",
+   "category": "board-games",
+   "author": "3dpaintlab",
+   "license": "Standard Digital File License",
+   "release_date": "2025-09-29",
+   "description": "Tetris analógico: el juego clásico\nEsta versión especial de Tetris lleva el clásico digital al mundo físico, diseñada para apoyar el desarrollo motor de los niños y al mismo tiempo ofrece a las famili",
+   "use_cases": [],
+   "tags": [
+    "tetris",
+    "juego",
+    "tablero de juego",
+    "juego de mesa"
+   ],
+   "file_count": 2,
+   "total_size": 5293224,
+   "preview": "categories/board-games/1838619_analog-tetris/previews/01.gif",
+   "preview_size": [
+    1024,
+    768
+   ],
+   "images": [
+    "categories/board-games/1838619_analog-tetris/previews/01.gif",
+    "categories/board-games/1838619_analog-tetris/previews/02.png",
+    "categories/board-games/1838619_analog-tetris/previews/03.png",
+    "categories/board-games/1838619_analog-tetris/previews/04.png",
+    "categories/board-games/1838619_analog-tetris/previews/05.png",
+    "categories/board-games/1838619_analog-tetris/previews/06.png",
+    "categories/board-games/1838619_analog-tetris/previews/07.png"
+   ],
+   "url": "https://makerworld.com/en/models/1838619-analog-tetris"
+  },
+  {
    "id": "1853401",
    "title": "Fast Four: divertido juego de carreras de 4 en raya",
    "slug": "fast-four-fun-4-in-a-row-race-game",
@@ -687,6 +754,45 @@
    "url": "https://makerworld.com/en/models/2143880-don-t-break-the-ice-fully-3d-printable-game"
   },
   {
+   "id": "2173248",
+   "title": "Conecte 4 - 4 en fila - piedras autoseparadas",
+   "slug": "connect-4-4-in-a-row-self-separating-stones",
+   "category": "board-games",
+   "author": "MrM.",
+   "license": "Standard Digital File License",
+   "release_date": "2025-12-29",
+   "description": "Un Connect 4 completamente rediseñado.\nEl hilo está diseñado completamente de arriba a abajo sin interrupción.\nEl hilo comienza en la parte superior, por lo que ya no se producen atascos al insertar l",
+   "use_cases": [],
+   "tags": [
+    "conectar 4 - 4 en una fila - 4 gewinnt",
+    "conectar 4",
+    "autoseparándose",
+    "cascada",
+    "juego",
+    "cuatro victorias",
+    "piezas de juego autoseparables",
+    "dos jugadores",
+    "juego de mesa"
+   ],
+   "file_count": 5,
+   "total_size": 35344240,
+   "preview": "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/01.gif",
+   "preview_size": [
+    319,
+    480
+   ],
+   "images": [
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/01.gif",
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/02.gif",
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/03.jpg",
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/04.jpg",
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/05.jpg",
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/06.jpg",
+    "categories/board-games/2173248_connect-4-4-in-a-row-self-separating-stones/previews/07.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/2173248-connect-4-4-in-a-row-self-separating-stones"
+  },
+  {
    "id": "2175464",
    "title": "Caja de tarjetas personalizable simple, paramétrica",
    "slug": "simple-customizable-card-box-parametric",
@@ -810,6 +916,41 @@
    "url": "https://makerworld.com/en/models/226667-leaning-tower-of-pisa-jenga-game"
   },
   {
+   "id": "2273897",
+   "title": "Juego de caza de patos: ¡al escondite!",
+   "slug": "duck-hunt-game-hide-seek",
+   "category": "board-games",
+   "author": "Stag3D",
+   "license": "Standard Digital File License",
+   "release_date": "2026-01-20",
+   "description": "Convierte cualquier espacio en una búsqueda del tesoro instantánea con este juego de búsqueda de patos. Las reglas son simples. Esconde todos los patos. Liberen a los niños. Que comience la caza.\n\nPer",
+   "use_cases": [],
+   "tags": [
+    "búsqueda del tesoro",
+    "caza de patos",
+    "mini pato",
+    "patos",
+    "encontrar el pato",
+    "al escondite",
+    "juguete",
+    "juego de fiesta",
+    "juego familiar"
+   ],
+   "file_count": 5,
+   "total_size": 23336648,
+   "preview": "categories/board-games/2273897_duck-hunt-game-hide-seek/previews/01.png",
+   "preview_size": [
+    1000,
+    750
+   ],
+   "images": [
+    "categories/board-games/2273897_duck-hunt-game-hide-seek/previews/01.png",
+    "categories/board-games/2273897_duck-hunt-game-hide-seek/previews/02.png",
+    "categories/board-games/2273897_duck-hunt-game-hide-seek/previews/03.png"
+   ],
+   "url": "https://makerworld.com/en/models/2273897-duck-hunt-game-hide-seek"
+  },
+  {
    "id": "2306548",
    "title": "Poké - Balance",
    "slug": "poke-balance",
@@ -885,6 +1026,39 @@
    "url": "https://makerworld.com/en/models/2341542-hedronstack-3d-balance-stacking-game"
   },
   {
+   "id": "2346147",
+   "title": "dados de trampa",
+   "slug": "cheating-dice",
+   "category": "board-games",
+   "author": "inosuke_du_44",
+   "license": "MakerWorld Exclusive License",
+   "release_date": "2026-02-03",
+   "description": "Este es un dado que normalmente cae en 6.\nLos ajustes ya están hechos para PLA.\nLos lados están para colorear, pero podría hacer una versión AMS.\nTira el dado desde arriba para tener mejores posibilid",
+   "use_cases": [],
+   "tags": [
+    "juego",
+    "alemán",
+    "engañar",
+    "juego de mesa",
+    "trampa dados",
+    "tramposo",
+    "infiel",
+    "juego de dados"
+   ],
+   "file_count": 1,
+   "total_size": 822724,
+   "preview": "categories/board-games/2346147_cheating-dice/previews/01.jpg",
+   "preview_size": [
+    1000,
+    750
+   ],
+   "images": [
+    "categories/board-games/2346147_cheating-dice/previews/01.jpg",
+    "categories/board-games/2346147_cheating-dice/previews/02.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/2346147-cheating-dice"
+  },
+  {
    "id": "2559326",
    "title": "No rompas el juego inspirado en el hielo",
    "slug": "don-t-break-the-ice-inspired-game",
@@ -951,6 +1125,86 @@
    "url": "https://makerworld.com/en/models/2611531-direction-indicator-for-card-games-and-board-games"
   },
   {
+   "id": "2695205",
+   "title": "Pinball de la Copa del Mundo: Soc mecánico totalmente impreso en 3D",
+   "slug": "world-cup-pinball-fully-3d-printed-mechanical-soc",
+   "category": "board-games",
+   "author": "mahoq2",
+   "license": "Standard Digital File License",
+   "release_date": "2026-04-21",
+   "description": "Pinball de la Copa Mundial: juego de fútbol mecánico totalmente impreso en 3D (¡no se requiere hardware!)\n\n¡Lleva la emoción del Mundial a tu mesa!\n\nEste diseño es un juego de mesa totalmente imprimib",
+   "use_cases": [],
+   "tags": [
+    "concursos",
+    "espíritu de fanático del fútbol",
+    "juegos",
+    "juego de mesa"
+   ],
+   "file_count": 4,
+   "total_size": 9165216,
+   "preview": "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/01.jpg",
+   "preview_size": [
+    1000,
+    1333
+   ],
+   "images": [
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/01.jpg",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/02.jpg",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/03.png",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/04.png",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/05.png",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/06.png",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/07.png",
+    "categories/board-games/2695205_world-cup-pinball-fully-3d-printed-mechanical-soc/previews/08.png"
+   ],
+   "url": "https://makerworld.com/en/models/2695205-world-cup-pinball-fully-3d-printed-mechanical-soc"
+  },
+  {
+   "id": "2743747",
+   "title": "Maze Race - Juego de rompecabezas de laberinto deslizante",
+   "slug": "maze-race-sliding-maze-puzzle-game",
+   "category": "board-games",
+   "author": "Yevhe3D",
+   "license": "Standard Digital File License",
+   "release_date": "2026-05-01",
+   "description": "Boost MeSi te gusta este modelo, no dudes en apoyarlo con BoostMaze Race, un juego dinámico de laberinto deslizante para 2 jugadores.\nConstruye tu camino, bloquea a tu oponente y encuentra la ruta más",
+   "use_cases": [],
+   "tags": [
+    "superficie de la mesa",
+    "juego de mesa",
+    "laberinto",
+    "rompecabezas",
+    "rompecabezas deslizante",
+    "corredizo",
+    "juego de fichas",
+    "modular",
+    "juego de lógica",
+    "interactivo",
+    "estrategia"
+   ],
+   "file_count": 2,
+   "total_size": 17287724,
+   "preview": "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/01.gif",
+   "preview_size": [
+    480,
+    877
+   ],
+   "images": [
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/01.gif",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/02.gif",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/03.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/04.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/05.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/06.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/07.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/08.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/09.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/10.jpg",
+    "categories/board-games/2743747_maze-race-sliding-maze-puzzle-game/previews/11.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/2743747-maze-race-sliding-maze-puzzle-game"
+  },
+  {
    "id": "2768944",
    "title": "Base del cajón del barajador de cartas - V1",
    "slug": "card-shuffler-drawer-base-v1",
@@ -993,6 +1247,42 @@
     "categories/board-games/2768944_card-shuffler-drawer-base-v1/previews/12.jpg"
    ],
    "url": "https://makerworld.com/en/models/2768944-card-shuffler-drawer-base-v1"
+  },
+  {
+   "id": "2837165",
+   "title": "Battle Match: Juego de colores definitivo",
+   "slug": "battle-match-ultimate-color-game",
+   "category": "board-games",
+   "author": "Fatto3D",
+   "license": "MakerWorld Exclusive License",
+   "release_date": "2026-05-23",
+   "description": "Battle Match Challenge: el juego viral de TikTok\n¡Lleva la sensación viral de combinación de colores de TikTok a tu mesa! Este adictivo juego de memoria y lógica es perfecto para niños y noches de jue",
+   "use_cases": [],
+   "tags": [
+    "juego de mesa",
+    "rompecabezas",
+    "familia",
+    "juguete",
+    "memoria",
+    "juego de memoria",
+    "juego 3d",
+    "juego"
+   ],
+   "file_count": 2,
+   "total_size": 4485700,
+   "preview": "categories/board-games/2837165_battle-match-ultimate-color-game/previews/01.jpg",
+   "preview_size": [
+    1000,
+    750
+   ],
+   "images": [
+    "categories/board-games/2837165_battle-match-ultimate-color-game/previews/01.jpg",
+    "categories/board-games/2837165_battle-match-ultimate-color-game/previews/02.jpg",
+    "categories/board-games/2837165_battle-match-ultimate-color-game/previews/03.jpg",
+    "categories/board-games/2837165_battle-match-ultimate-color-game/previews/04.jpg",
+    "categories/board-games/2837165_battle-match-ultimate-color-game/previews/05.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/2837165-battle-match-ultimate-color-game"
   },
   {
    "id": "2841172",
@@ -1138,6 +1428,45 @@
     "categories/board-games/3334728_catapult-board-game/previews/06.jpg"
    ],
    "url": "https://makerworld.com/en/models/3334728-catapult-board-game"
+  },
+  {
+   "id": "508816",
+   "title": "pelea de comida",
+   "slug": "food-fight",
+   "category": "board-games",
+   "author": "RyeBread",
+   "license": "Standard Digital File License",
+   "release_date": "2024-06-24",
+   "description": "Intenté jugar el juego de acorazados original con mi hijo pequeño, sin embargo, estaba horrorizado de que alguien intentara hundir sus barcos y simplemente se negó a jugar. Creé este nuevo juego para ",
+   "use_cases": [],
+   "tags": [
+    "acorazado",
+    "acorazados",
+    "juegos",
+    "niños",
+    "divertido",
+    "ams",
+    "bandera",
+    "juego",
+    "junta",
+    "juego de mesa",
+    "no-acorazados"
+   ],
+   "file_count": 1,
+   "total_size": 7167468,
+   "preview": "categories/board-games/508816_food-fight/previews/01.jpg",
+   "preview_size": [
+    1000,
+    753
+   ],
+   "images": [
+    "categories/board-games/508816_food-fight/previews/01.jpg",
+    "categories/board-games/508816_food-fight/previews/02.jpg",
+    "categories/board-games/508816_food-fight/previews/03.jpg",
+    "categories/board-games/508816_food-fight/previews/04.jpg",
+    "categories/board-games/508816_food-fight/previews/05.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/508816-food-fight"
   },
   {
    "id": "509299",
@@ -1800,6 +2129,41 @@
     "categories/board-games/904087_mechanical-double-dice/previews/05.jpg"
    ],
    "url": "https://makerworld.com/en/models/904087-mechanical-double-dice"
+  },
+  {
+   "id": "933778",
+   "title": "juego de memoria de figuras - juego de mesa",
+   "slug": "figurine-memory-game-board-game",
+   "category": "board-games",
+   "author": "Maer",
+   "license": "Standard Digital File License",
+   "release_date": "2024-12-31",
+   "description": "Impúlsame Si quieres dejar un impulso, ¡te agradecería mucho que me ayudaras a continuar con mi trabajo! ¡Gracias por tu apoyo! Hola,\n\nHice un juego de mesa que mis hijos disfrutaron cuando estaban de",
+   "use_cases": [],
+   "tags": [
+    "junta",
+    "juegos de mesa",
+    "juego",
+    "juegos",
+    "figurilla",
+    "memoria",
+    "pexeso",
+    "montessori",
+    "juego montessori",
+    "rompecabezas montessori",
+    "motor"
+   ],
+   "file_count": 1,
+   "total_size": 1453076,
+   "preview": "categories/board-games/933778_figurine-memory-game-board-game/previews/01.jpg",
+   "preview_size": [
+    1000,
+    1333
+   ],
+   "images": [
+    "categories/board-games/933778_figurine-memory-game-board-game/previews/01.jpg"
+   ],
+   "url": "https://makerworld.com/en/models/933778-figurine-memory-game-board-game"
   },
   {
    "id": "947046",

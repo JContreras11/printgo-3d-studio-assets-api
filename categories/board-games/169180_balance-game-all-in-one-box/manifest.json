@@ -1,0 +1,201 @@
+{
+ "files": [
+  {
+   "path": "model/juego-equilibrio-11h06.3mf.xz",
+   "instance_id": "185770",
+   "thumbnail": "previews/profiles/185770.jpg",
+   "print_time_h": 11.1,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 220,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17700,
+      "weight_g": 198.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10460,
+      "weight_g": 97.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#38CC0A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6884,
+      "weight_g": 35.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000FE"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4759,
+      "weight_g": 20.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#84620D"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 4270112,
+   "sha256": "dbacf1cab73982553ef5b79923086a395b2b5bb19940fbe4f5085dffbb72a9f5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-equilibrio-6h18.3mf.xz",
+   "instance_id": "1883185",
+   "thumbnail": "previews/profiles/1883185.jpg",
+   "print_time_h": 6.3,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 36,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "A1",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "A1 Mini,0.2mm layer, 2 walls, 8% infill",
+    "profile_notes": "Dieses Druckprofil ist so in der Größe angepasst das es auf den A1 Mini passt. Die Schraubverbindungen können etwas strammer sein, also versuchen sie es ruhig mit etwas Kraft. INFO: Da dieses Profil verkleinert ist, passen Nur die beigefügten Figuren auf das Spielfeld. Nicht wie im Ursprung angegeben andere Figuren. Sofern sie doch andere Figuren haben wollen, müssen sie diese dann an diesen Druck anpassen!",
+    "creation_date": "2025-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión mini",
+   "size": 4818988,
+   "sha256": "f6e060aa737b6f9b8b1cd6b1442a2cc9c8efa5bf2cdf9b23d14bec00a8ddae8f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "169180",
+ "title": "Juego de equilibrio: todo en una sola caja",
+ "slug": "balance-game-all-in-one-box",
+ "url": "https://makerworld.com/en/models/169180-balance-game-all-in-one-box",
+ "author": "joskabuben",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "He remezclado el juego de equilibrio para que sea más compacto. Todas las figuras tienen caja separada. El soporte de balanza está formado por dos piezas que encajan en la caja.\nPuedes colocar 8 dragones en el compartimento más pequeño. Usa dragones sin relleno.\nGeometría actualizada de la bola de la punta y el orificio de la esfera dentro de la placa superior para un mejor movimiento.\nNecesitará 2 tornillos hexagonales M3x10(8).\n\nNOTA: Si es necesario, escale la punta del soporte de equilibrio en los ejes X,Y al 99% (pero esto debe incluirse en el perfil)\nDisfruten su tiempo juntos':)\n\nEdición 1: corrija un hexágono con un área plana defectuosa. Gracias por hacérmelo saber.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "balance",
+  "juego de mesa",
+  "divertido",
+  "niño",
+  "niños"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-02-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US18dd10123a7681/design/2024-02-03_6d19d8f5d774d8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/185770.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1883185.jpg": [
+   600,
+   454
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

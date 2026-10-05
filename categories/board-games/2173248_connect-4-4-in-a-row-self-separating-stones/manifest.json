@@ -1,0 +1,301 @@
+{
+ "files": [
+  {
+   "path": "model/conecte-4-7h54.3mf.xz",
+   "instance_id": "2357413",
+   "thumbnail": "previews/profiles/2357413.jpg",
+   "print_time_h": 7.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 671,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "A2L",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "A1",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Tower - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Tower für alle Serien A bis H",
+    "creation_date": "2025-12-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12071988,
+   "sha256": "0eeff9a7750f488728d49f0205ac3c220d2282810f85299a3ed03612c021477c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conecte-4-13h.3mf.xz",
+   "instance_id": "2380614",
+   "thumbnail": "previews/profiles/2380614.jpg",
+   "print_time_h": 13,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 124,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "two plates - all parts - print ready",
+    "profile_notes": "Prints on P1S directly and perfectly (if you have a clean plate). - Added Brim Ears to the corners of the big parts to avoid any warping. They print fine in one go. - Added “print by object” to second plate. Each color is printed as a group. Only one filament change. - Changed Infill to adaptive cubic. Reduced Infill on most parts.",
+    "creation_date": "2026-01-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 17290884,
+   "sha256": "eeb363a43ae3835f555113e6e6a3a20190f3659116521abe2a1b71abaa76c41b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conecte-4-1h42.3mf.xz",
+   "instance_id": "2358031",
+   "thumbnail": "previews/profiles/2358031.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 85,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1E",
+    "P1P",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "A2L",
+    "A1",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "WITH ADHESION Stone Color 1 - 0.2mmlayer, 2 walls, 15%infill",
+    "creation_date": "2025-12-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3397696,
+   "sha256": "a1738573e01975ea18b46dc2722cd1e59dc4476aa129e037fea1fe1016e4095b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conecte-4-30min.3mf.xz",
+   "instance_id": "2357764",
+   "thumbnail": "previews/profiles/2357764.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 140,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Basewing - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Nun als eigenständiges Teil, da die Lasche bei dem vorgänger Modell leicht gebrochen ist bei der Montage",
+    "creation_date": "2025-12-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1279084,
+   "sha256": "f2988364d6194aa7dde60ed5796c547950a181e0453ec6cb9f9ffee0b1c9bfb1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conecte-4-3h12.3mf.xz",
+   "instance_id": "2357755",
+   "thumbnail": "previews/profiles/2357755.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 520,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "A2L",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "A1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Base - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "für alle Serien A-H inkl A1mini",
+    "creation_date": "2025-12-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1304588,
+   "sha256": "31f8edd92d10c507e3e6a7d71d767d75b489891ac9a1f39a7dcc06a45e877699",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2173248",
+ "title": "Conecte 4 - 4 en fila - piedras autoseparadas",
+ "slug": "connect-4-4-in-a-row-self-separating-stones",
+ "url": "https://makerworld.com/en/models/2173248-connect-4-4-in-a-row-self-separating-stones",
+ "author": "MrM.",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Un Connect 4 completamente rediseñado.\nEl hilo está diseñado completamente de arriba a abajo sin interrupción.\nEl hilo comienza en la parte superior, por lo que ya no se producen atascos al insertar las piezas del juego.\nLos tiempos de impresión se han reducido significativamente.\nAhora también se puede volver a desmontar la base.\nAsamblea:\n\nSi quieres una conexión permanente, puedes usar una gota de pegamento PLA.\n\nNota: Verifique el espacio libre de cada fila con una pieza ANTES del ensamblaje.\nSi una o más filas no están libres, proceda como se muestra en el gif a continuación.\nLa razón son las costuras, que lamentablemente son inevitables. ver imagen R a continuación\n\nbases\n2. Colocar la torre en la base.\n3. Insertar pestaña base\n4. Presione la pestaña hacia abajo - Listo\n\nImagen R: Limpiando las filas con ayuda de 8 piezas.\n\nNota: utilicé una piel borrosa al imprimir.\n¡Los perfiles de impresión NO tienen piel borrosa!\nAgregaré perfiles de impresión CON piel borrosa más adelante.",
+ "use_cases": [],
+ "tags": [
+  "conectar 4 - 4 en una fila - 4 gewinnt",
+  "conectar 4",
+  "autoseparándose",
+  "cascada",
+  "juego",
+  "cuatro victorias",
+  "piezas de juego autoseparables",
+  "dos jugadores",
+  "juego de mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US17ace800d290a0/design/2025-12-29_497dc4f07c586.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   319,
+   480
+  ],
+  "previews/02.gif": [
+   480,
+   480
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2357413.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2380614.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2358031.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2357764.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2357755.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

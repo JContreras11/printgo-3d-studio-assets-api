@@ -1,0 +1,192 @@
+{
+ "files": [
+  {
+   "path": "model/juego-memoria.3mf.xz",
+   "instance_id": "898217",
+   "thumbnail": "previews/profiles/898217.jpg",
+   "print_time_h": 6.3,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2335,
+      "weight_g": 9.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#008040"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6818,
+      "weight_g": 67.54,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6428,
+      "weight_g": 45.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3967,
+      "weight_g": 19.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#008040"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2613,
+      "weight_g": 39.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1453076,
+   "sha256": "7e35e86ebcd73f9828e02399b5b421e4eaadc549dba2361283381b6f7e99a06c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "933778",
+ "title": "juego de memoria de figuras - juego de mesa",
+ "slug": "figurine-memory-game-board-game",
+ "url": "https://makerworld.com/en/models/933778-figurine-memory-game-board-game",
+ "author": "Maer",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Impúlsame Si quieres dejar un impulso, ¡te agradecería mucho que me ayudaras a continuar con mi trabajo! ¡Gracias por tu apoyo! Hola,\n\nHice un juego de mesa que mis hijos disfrutaron cuando estaban de visita. Es un juego de rompecabezas con dados.\nSe puede imprimir sin AMS. Las piezas se unen con una gota de superpegamento.\n\nJuego motor montessori\n\nGracias",
+ "use_cases": [],
+ "tags": [
+  "junta",
+  "juegos de mesa",
+  "juego",
+  "juegos",
+  "figurilla",
+  "memoria",
+  "pexeso",
+  "montessori",
+  "juego montessori",
+  "rompecabezas montessori",
+  "motor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US91503bf68910eb/design/2024-12-31_546562900a7a1.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/898217.jpg": [
+   600,
+   558
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

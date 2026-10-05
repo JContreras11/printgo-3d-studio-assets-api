@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/dados-trampa.3mf.xz",
+   "instance_id": "2565213",
+   "thumbnail": "previews/profiles/2565213.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 47,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "dé V2",
+    "profile_notes": "C’est un dé qui retombe le plus souvent sur le 6. Les réglages sont déjà faits pour le PLA. Les côtés sont à colorier, mais je pourrais faire une version AMS. Merci d’avoir choisi mon modèle.",
+    "creation_date": "2026-02-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "100%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 822724,
+   "sha256": "dc9e3526eb8beb812472ca52a1317b6e29d6267c29034f2b8aecd6eb26c24bcb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2346147",
+ "title": "dados de trampa",
+ "slug": "cheating-dice",
+ "url": "https://makerworld.com/en/models/2346147-cheating-dice",
+ "author": "inosuke_du_44",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Este es un dado que normalmente cae en 6.\nLos ajustes ya están hechos para PLA.\nLos lados están para colorear, pero podría hacer una versión AMS.\nTira el dado desde arriba para tener mejores posibilidades.\nGracias por elegir mi modelo.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "alemán",
+  "engañar",
+  "juego de mesa",
+  "trampa dados",
+  "tramposo",
+  "infiel",
+  "juego de dados"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-02-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa70d7e5041ca49/design/968f6d2e1ad6b887.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2565213.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

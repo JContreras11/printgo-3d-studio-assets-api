@@ -1,0 +1,298 @@
+{
+ "files": [
+  {
+   "path": "model/pelea-comida.3mf.xz",
+   "instance_id": "424733",
+   "thumbnail": "previews/profiles/424733.jpg",
+   "print_time_h": 21.6,
+   "plates": 9,
+   "rating": 4.6,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V2 - Thicker hinges and replacement wedge.",
+    "profile_notes": "This print profile assumes the printer has an AMS that contains 4 colors. I recommend changing the filament in the AMS for each plate, thereby allowing you to print the most vibrant pieces and to ensure the colors make sense. Food pieces are printed upside down to not have seams ruin the fine detail of the pieces.",
+    "creation_date": "2025-02-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28708,
+      "weight_g": 168.15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9472,
+      "weight_g": 38.43,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28642,
+      "weight_g": 168.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2050,
+      "weight_g": 6.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1702,
+      "weight_g": 5.32,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1757,
+      "weight_g": 5.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2080,
+      "weight_g": 6.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2048,
+      "weight_g": 6.7,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 890,
+      "weight_g": 2.24,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7167468,
+   "sha256": "d3655c1fc103bdeecccf6cb1f4d8c50824b1c4a1b977c32c2b0a793cf3a09e7a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "508816",
+ "title": "pelea de comida",
+ "slug": "food-fight",
+ "url": "https://makerworld.com/en/models/508816-food-fight",
+ "author": "RyeBread",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Intenté jugar el juego de acorazados original con mi hijo pequeño, sin embargo, estaba horrorizado de que alguien intentara hundir sus barcos y simplemente se negó a jugar. Creé este nuevo juego para que fuera más adecuado para niños más pequeños (tema de comida, tablero más pequeño, reglas tontas). Creé un conjunto personalizado de reglas para mi juego, sin embargo, haz lo que quieras para hacerlo tuyo.\nInstrucciones de impresión:\nEsto requiere un AMS para obtener mejores resultados. El perfil de impresión comprende varias planchas. Recomiendo agregar o quitar carretes en el AMS para cada plato para obtener los trozos de comida con mejor apariencia. Debes evaluar y cambiar colores para cada plato. Cambiar las bobinas de AMS por plato es más rápido que volver a pintar las diferentes piezas de comida, a menos que tengas varios AMS combinados.\nInstrucciones de montaje:\nEl tablero tiene espacio para imanes cilíndricos opcionales con un diámetro de 5 mm y una profundidad de 2 mm que se pueden pegar en su lugar.\n\nSe incluye una cuña en la placa de la caja que se puede colocar en el hueco en la parte posterior del tablero para sostener el tablero superior.\nReglas de pelea de alimentos:\nDiseño: antes de comenzar, los jugadores colocan sus piezas de comida en el tablero.\nLos niños pequeños son quisquillosos con la comida, esto significa que dos alimentos no pueden tocarse entre sí.\nel jugador más joven comienza primero.\nJugabilidad:\nEl jugador cuyo turno es (el que toma el turno) dice una coordenada (letra y número).\nEl otro jugador revisa el tablero inferior y dice si fue un fallo o un mordisco. Si es un fallo, el otro jugador grita la palabra \"fallo\". El jugador que toma el turno marca el tablero superior con una clavija blanca.\nsi es un bocado, el otro jugador grita un sonido de comida (yum, nom nom, munch, etc.) y marca su tablero inferior con una clavija de color. El jugador que toma el turno marca su tablero superior con una clavija de color. Si la ficha de comida tiene todos sus agujeros llenos, el otro jugador debe informarle al jugador que se comió tu (dona/perrito caliente/sushi, etc.).\n\nEl otro jugador se convierte en el que toma el turno.\nUna vez que se han comido todos los alimentos, el ganador debe hacer un sonido humorístico para proclamar su victoria, o al menos frotarse la barriga.\nRegla especial del ají:\nEl ají es una pieza opcional, con reglas especiales. Como los pimientos aparecen en lugares inesperados, se pueden colocar junto a un trozo de comida. Si un jugador muerde un chile, pierde un turno y se ve obligado a hacer sonidos tontos de lengua ardiente. No es necesario comer el chile para ganar el partido, la victoria está determinada por el jugador que se coma todas las fichas de comida del otro jugador (sin chile).",
+ "use_cases": [],
+ "tags": [
+  "acorazado",
+  "acorazados",
+  "juegos",
+  "niños",
+  "divertido",
+  "ams",
+  "bandera",
+  "juego",
+  "junta",
+  "juego de mesa",
+  "no-acorazados"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-06-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US40c9af75b52108/design/2025-01-02_7cb0317417c8a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   753
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/04.jpg": [
+   1000,
+   1328
+  ],
+  "previews/05.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/424733.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

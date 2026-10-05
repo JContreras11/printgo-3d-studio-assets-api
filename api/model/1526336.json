@@ -1,0 +1,197 @@
+{
+ "files": [
+  {
+   "path": "model/apunta-dispara-11h06.3mf.xz",
+   "instance_id": "1600057",
+   "thumbnail": "previews/profiles/1600057.jpg",
+   "print_time_h": 11.1,
+   "plates": 6,
+   "rating": 4.6,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "AMS 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-06-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3141848,
+   "sha256": "6eb1b980a6006cb285df813e096afacd1971e5271f29ca95e21d3ad429deac71",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/apunta-dispara-10h54.3mf.xz",
+   "instance_id": "1600082",
+   "thumbnail": "previews/profiles/1600082.jpg",
+   "print_time_h": 10.9,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "X1E",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "NO AMS 0.2mm layer, 6 walls, 15% infill",
+    "profile_notes": "This profiles requires no ams, but you will need to use a marker to show the target's digits.",
+    "creation_date": "2025-06-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3051540,
+   "sha256": "44d11fb1a59a77691a7e189971238de14add82ef02ac8c92980f7e8523f05cf8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/apunta-dispara-11h.3mf.xz",
+   "instance_id": "1617279",
+   "thumbnail": "previews/profiles/1617279.jpg",
+   "print_time_h": 11,
+   "plates": 7,
+   "rating": 4.2,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "BEGINNER KIT AMS 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Compatible with Maker's Supply beginner kit, AMS.",
+    "creation_date": "2025-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 3161436,
+   "sha256": "4831f9812ebfec199c8dda0e14c387aa3c1682c4c1d7cec2c15ffbf81d0cb8eb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1526336",
+ "title": "Apunta y dispara: minijuego de pelota arcade",
+ "slug": "aim-shoot-mini-arcade-ball-game",
+ "url": "https://makerworld.com/en/models/1526336-aim-shoot-mini-arcade-ball-game",
+ "author": "raskar_kapak",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Este es un minijuego arcade totalmente impreso en 3D inspirado en el skee-ball.\n\nFunciona sin ningún dispositivo electrónico: solo un simple lanzador con resorte que puede girar hacia la izquierda y hacia la derecha para apuntar tus disparos.\n\n¡Solo necesitas una bola de 10 mm o menos y un resorte, que puedes encontrar en Maker's Supply! Puede encontrar el enlace a continuación.\n\nSi desea utilizar la pelota y el resorte del kit para principiantes, ¡use el perfil de impresión del kit para principiantes! Incluye tirador adaptado con tornillo más pequeño compatible con el muelle del kit.\n\nLa pelota rueda por la pista inclinada hasta llegar a los objetivos de puntuación. Está diseñado para ser compacto (aproximadamente 25 cm de largo), divertido de jugar y fácil de imprimir y montar.\n\nEspero que les guste y que se diviertan con el lanzamiento.\n\nAquí está la guía de montaje:\nFigura 1 - Conjunto 1/3\nFigura 2 - Montaje 2/3\nFigura 3 - Montaje 3/3\n\nDependiendo del estado de la impresión, si no queda bien ajustada, ¡aplica un poco de pegamento!\n\n¡¡Gracias y diviértete!!",
+ "use_cases": [],
+ "tags": [
+  "bola de skee",
+  "arcada",
+  "juego",
+  "juego de mesa",
+  "mini sala de juegos",
+  "bola de cuchara",
+  "arcade clasico",
+  "retro",
+  "tanteo",
+  "puntaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4998bc45c2e927/design/2025-06-22_772984a513c9e.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   1280,
+   720
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1600057.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1600082.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1617279.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

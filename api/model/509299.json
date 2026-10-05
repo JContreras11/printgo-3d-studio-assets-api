@@ -1,0 +1,624 @@
+{
+ "files": [
+  {
+   "path": "model/escaleras-castillo-10h48.3mf.xz",
+   "instance_id": "425326",
+   "thumbnail": "previews/profiles/425326.jpg",
+   "print_time_h": 10.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 1088,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "Dice Tower, Standard Profile (0.16mm layer)",
+    "profile_notes": "Standard print profile for the dice tower, setup at a .16 mm layer height for a beautiful finish.",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 39018,
+      "weight_g": 154.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2891424,
+   "sha256": "9825769f2e4d239fd8a869053bd3f949f3a1bcc8ddd569b64100a9a4291387d5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-14h12.3mf.xz",
+   "instance_id": "771120",
+   "thumbnail": "previews/profiles/771120.jpg",
+   "print_time_h": 14.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 31,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "120% Size for a bigger dice",
+    "profile_notes": "The tower is perfect, but I have some games with bigger dice, so this is a scaled version with a 120% size.",
+    "creation_date": "2024-11-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 51219,
+      "weight_g": 232.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3006924,
+   "sha256": "f020d6bc88c2ac980d65bd84f3faeaa61a445ed3e789cb83aa6d27ebc62bf85c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-34h06.3mf.xz",
+   "instance_id": "1400972",
+   "thumbnail": "previews/profiles/1400972.jpg",
+   "print_time_h": 34.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "0.24mm layer, 2 walls, 5% infill",
+    "profile_notes": "This is a scaled up version printed on an A1 with AMS. Its an extremely long print but well worth it. Thankyou Squinn",
+    "creation_date": "2025-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3025140,
+   "sha256": "b70bd64ff19c9236ad25715818c6bb20d4a2b280b3b05465a6dd43758251a207",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-3h36.3mf.xz",
+   "instance_id": "757081",
+   "thumbnail": "previews/profiles/757081.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.8mm nozzle, 0.4mm layer, 2 walls, 15% infill",
+    "profile_notes": "Less than 4H with nozzle 0.8 ;-)",
+    "creation_date": "2024-11-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.4",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.8",
+      "prediction_ms": 12813,
+      "weight_g": 208.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7D6556"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3129464,
+   "sha256": "91db69133cad7d2f118b065266375eaa80b19cf3969bbdcb4a2c87666cce49e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-4h24.3mf.xz",
+   "instance_id": "455944",
+   "thumbnail": "previews/profiles/455944.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 228,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "4,4 hour",
+    "profile_notes": "Super fast print",
+    "creation_date": "2025-01-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15867,
+      "weight_g": 132.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2951704,
+   "sha256": "b269610394c266384ad36b7d34b6ff3b5819936b0ab340d49d8ec3ea48d4be50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-53h06.3mf.xz",
+   "instance_id": "465929",
+   "thumbnail": "previews/profiles/465929.jpg",
+   "print_time_h": 53.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 2 walls, 10% infill",
+    "profile_notes": "A1 Mini, 0.6 Nozzle, AMS",
+    "creation_date": "2024-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.3",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 191324,
+      "weight_g": 804.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       },
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       },
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2981372,
+   "sha256": "37539c8f9c46f0a0b6fdea0b47257f99755af9677782e7aa161b94850e7352da",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-5h24.3mf.xz",
+   "instance_id": "429663",
+   "thumbnail": "previews/profiles/429663.jpg",
+   "print_time_h": 5.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 231,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "For A1 Mini, 0.2mm layer, 2 walls, 10% Gyroid infill",
+    "profile_notes": "A1 Mini Optimised, 0.2mm layer, 2 walls, 10% Gyroid infill (changed from Grid) Outer Wall and first Layer speed reduced. Bambu Copper Silk PLA",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19613,
+      "weight_g": 97.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 3100684,
+   "sha256": "d9f0e747f79df634a30f7cfef1790c31886c54ab1f129f46c4b5143766c88ebd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-7h54.3mf.xz",
+   "instance_id": "514300",
+   "thumbnail": "previews/profiles/514300.jpg",
+   "print_time_h": 7.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 71,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "adaptive layer, 2 walls, 13% Cross Hatch Infill",
+    "profile_notes": "Adaptive layer (0.80) 13% Cross Hatch infill 2 walls top surface ironing",
+    "creation_date": "2024-08-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "13%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28608,
+      "weight_g": 165.36,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3081128,
+   "sha256": "ec44eddb1b7bb5b118c8a20c59d983c3ad4b46d6d8eb2f46cbcde33ed4ab1c3f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/escaleras-castillo-9h48.3mf.xz",
+   "instance_id": "2059868",
+   "thumbnail": "previews/profiles/2059868.jpg",
+   "print_time_h": 9.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "P2S",
+    "H2D",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "PETG , 0.12mm layer , mini compatiable",
+    "profile_notes": "骰子塔的标准打印配置文件，设置在 0.16 毫米层高，以获得精美的效果。",
+    "creation_date": "2025-10-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 2925588,
+   "sha256": "86e6610e7a5e1411d184915647d53307169c2d914eb5f44cbb075d128c7b4df1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "509299",
+ "title": "Escaleras del castillo de la torre de dados",
+ "slug": "dice-tower-castle-stairs",
+ "url": "https://makerworld.com/en/models/509299-dice-tower-castle-stairs",
+ "author": "squinn",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Esta encantadora torre de dados con motivo de castillo incluye una hermosa escalera de caracol envolvente, que permite que los dados choquen y rueden aleatoriamente a medida que descienden. La parte superior de la torre tiene forma de embudo que permite dejar caer los dados fácilmente.\n\nSe trata de una impresión sencilla y ha sido cuidadosamente diseñada para que no se requieran soportes. La torre mide poco menos de 18 cm de altura, lo que permite imprimirla también en impresoras de menor volumen. Tenga en cuenta que también está disponible una segunda edición de este concepto.",
+ "use_cases": [],
+ "tags": [
+  "torre",
+  "castillo",
+  "juegos de mesa",
+  "torre de dados",
+  "dados",
+  "juego de mesa",
+  "sin soporte",
+  "torre del castillo",
+  "porta dados",
+  "no se necesita apoyo"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-06-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US28bcfd534ea382/design/2024-06-24_czdjx7xgz9uc.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/425326.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/771120.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1400972.jpg": [
+   480,
+   853
+  ],
+  "previews/profiles/757081.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/455944.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/465929.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/429663.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/514300.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2059868.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,273 @@
+{
+ "files": [
+  {
+   "path": "model/rompecabezas-numeros-18min.3mf.xz",
+   "instance_id": "3675760",
+   "thumbnail": "previews/profiles/3675760.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1",
+    "A1 mini",
+    "A1",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Top cover",
+    "profile_notes": "If you don't want hexagons just reset the settings in the slicer and it will print the full cover. It's a tight fit try opening it on the corners.",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1657752,
+   "sha256": "7087158ac078fac7853f466ae292abfbe47489b75ff2e710c1277a0c41471af5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-numeros-1h06.3mf.xz",
+   "instance_id": "3785373",
+   "thumbnail": "previews/profiles/3785373.jpg",
+   "print_time_h": 1.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "2 plates, NO AMS, 2 walls, 10% infill",
+    "profile_notes": "due piatti separati, facile da stampare senza AMS",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1097280,
+   "sha256": "7804186c718baa53470e0125ad230c3e070df7a868fdd42610b65e4aa7d82524",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-numeros-2h36.3mf.xz",
+   "instance_id": "3834570",
+   "thumbnail": "previews/profiles/3834570.jpg",
+   "print_time_h": 2.6,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2S",
+    "X2D",
+    "X1",
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "X1E",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "With lid",
+    "profile_notes": "Plain lid matching the original base",
+    "creation_date": "2026-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1265960,
+   "sha256": "791a46954a7a147bc64fa458c36659906b2a6592e81f2e5889acebb3b448ca3b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-numeros-48min.3mf.xz",
+   "instance_id": "2194253",
+   "thumbnail": "previews/profiles/2194253.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 22,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "48min version",
+    "creation_date": "2025-11-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1075188,
+   "sha256": "e7996f13c59a20d0c6817f98c4b7f8db17672026c51d90ffe2838a634150c72d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-numeros-54min.3mf.xz",
+   "instance_id": "3433802",
+   "thumbnail": "previews/profiles/3433802.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Dual_Colour_1Plate_48min",
+    "profile_notes": "Dual_Colour_1Plate_48min You can print the full puzzle in 48 minutes with 2 diferent colous on same plate",
+    "creation_date": "2026-07-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 975556,
+   "sha256": "4e27dc4d9ab8549b734a28f5400ea46064b8e64da274883928412775629efd43",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2008292",
+ "title": "Rompecabezas de números (no se necesita AMS) => Impresión por debajo de la hora",
+ "slug": "numbers-puzzle-no-ams-needed-under-hour-print",
+ "url": "https://makerworld.com/en/models/2008292-numbers-puzzle-no-ams-needed-under-hour-print",
+ "author": "3Dfans",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Todos los números caben en este tablero. Los números se pueden girar, voltear, al revés o al revés. Pero al final todos encajarán. Es bueno frustrar a tus amigos durante una noche de juegos.\nImprime los números y el tablero separados para un mejor contraste. Una letra pequeña, que está lista en menos de 60 minutos.\n¡Disfrutar!",
+ "use_cases": [],
+ "tags": [
+  "números",
+  "rompecabezas",
+  "juego",
+  "juego de numeros",
+  "rompecabezas cerebral"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc0716fe3df30c/design/2025-11-17_9968ffcf8c6778.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   623,
+   558
+  ],
+  "previews/02.jpg": [
+   1000,
+   958
+  ],
+  "previews/profiles/3675760.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3785373.jpg": [
+   600,
+   687
+  ],
+  "previews/profiles/3834570.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2194253.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3433802.jpg": [
+   600,
+   605
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

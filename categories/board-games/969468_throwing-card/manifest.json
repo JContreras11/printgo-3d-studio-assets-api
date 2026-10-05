@@ -1,0 +1,377 @@
+{
+ "files": [
+  {
+   "path": "model/tirando-cartas-18min.3mf.xz",
+   "instance_id": "1827087",
+   "thumbnail": "previews/profiles/1827087.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "H2D",
+    "H2C",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "P1S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Credit card sized, face up",
+    "profile_notes": "Same as original. Just changed size and orientation",
+    "creation_date": "2025-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2165532,
+   "sha256": "d00d375ec7fbd374cf06498fedcbeb75a666839529e73ea81d9b33d51f684132",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tirando-cartas-1h36.3mf.xz",
+   "instance_id": "961508",
+   "thumbnail": "previews/profiles/961508.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Translucent PETG \"like glass\"",
+    "profile_notes": "0.1mm layer, 1 wall, 99% infill, most speed settings reduced drastically - 1.5 hour print time Allow it to completely cool before removing from the build plate to avoid warping",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.1",
+    "infill": "99%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5764,
+      "weight_g": 7.1,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#00000000"
+       },
+       {
+        "type": "PETG",
+        "color": "#61B0FF80"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PETG",
+   "size": 2108192,
+   "sha256": "0256d1a684cbedda87e82ae65f188d8593a20d83af0e6f117dd07d932dc61465",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tirando-cartas-36min.3mf.xz",
+   "instance_id": "950234",
+   "thumbnail": "previews/profiles/950234.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "P1S",
+    "P2S",
+    "H2C",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": "Ironically created this before the current AMS profiles were uploaded, but by the time I got to around uploading it, that one was there. The difference between this one and the existing ones is this still prints text down, and also maintains the textured effect (although harder to tell with different colors). Since the text is so small, 0.08mm layer height is used. The text still is not perfect, but I thought it was acceptable since the card is designed to be thrown and will inevitably break anyways. :D",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2081,
+      "weight_g": 8.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2044220,
+   "sha256": "f6918d9001fd0f2bfb62a11b310807867db44e79899e1cadbc696fc33a161608",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tirando-cartas-multicolor-18min.3mf.xz",
+   "instance_id": "949629",
+   "thumbnail": "previews/profiles/949629.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 164,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "P2S",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "X1",
+    "P1S",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "multicolor 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1084,
+      "weight_g": 6.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2042012,
+   "sha256": "2ee53b280efc6992f4810a3a2fc0a819cfbbce40a82e4208969e02a9e6b3ab60",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tirando-cartas-multicolor-24min.3mf.xz",
+   "instance_id": "949644",
+   "thumbnail": "previews/profiles/949644.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 59,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "H2D",
+    "H2C",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Multicolor + Brim for Bed Adhesion",
+    "creation_date": "2025-01-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1275,
+      "weight_g": 7.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2054684,
+   "sha256": "e7d5fb2f3de830a45ea5b5611312466a5fb73ca4cac9318503db19c9ff64e479",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "969468",
+ "title": "tirando cartas",
+ "slug": "throwing-card",
+ "url": "https://makerworld.com/en/models/969468-throwing-card",
+ "author": "AndrewBrown",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost Meboosts ayuda a mantener mis modelos libres:) Aquí tienes una carta de lanzamiento para entrenar al ninja que llevas dentro. Úselo sabiamente\n\naqui un video de como tirar una carta",
+ "use_cases": [],
+ "tags": [
+  "ninjas",
+  "lanzamiento",
+  "tarjeta",
+  "as",
+  "pala",
+  "naipe",
+  "jugando",
+  "tarjetas",
+  "truco",
+  "habilidad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa06d0263de6919/design/2025-01-12_cbb1312cd9ea2.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   666
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/1827087.jpg": [
+   600,
+   359
+  ],
+  "previews/profiles/961508.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/950234.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/949629.jpg": [
+   600,
+   1331
+  ],
+  "previews/profiles/949644.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

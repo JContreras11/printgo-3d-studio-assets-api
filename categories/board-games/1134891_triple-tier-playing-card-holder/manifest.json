@@ -1,0 +1,191 @@
+{
+ "files": [
+  {
+   "path": "model/tarjetero-triple-1h54.3mf.xz",
+   "instance_id": "2783823",
+   "thumbnail": "previews/profiles/2783823.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "A1",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P1P",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "6% infill, gyroid",
+    "creation_date": "2026-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2472616,
+   "sha256": "70c29867f3e678f81b126cb95a81475dc04e8a00a09ad579d1110f7b18378b2c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tarjetero-triple-2h24.3mf.xz",
+   "instance_id": "1711475",
+   "thumbnail": "previews/profiles/1711475.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 54,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "Lower quality faster print",
+    "creation_date": "2025-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2351300,
+   "sha256": "ba4a7f60b31b28eda4ca6e4831717423e309775a0359ffb68dda97cceb373f37",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tarjetero-triple-2h48.3mf.xz",
+   "instance_id": "3052005",
+   "thumbnail": "previews/profiles/3052005.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2C",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Identique a l'original juste: 0.16mm optimal + impression en PETG HF. Afin que certains paramètres soient pris en compte ne pas imprimé depuis l'application bambu handy mais en téléchargeant le 3MF.",
+    "creation_date": "2026-05-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2627004,
+   "sha256": "2eedff579cefc0e7051d73a9ecbe44431f226fdf2edb4dc71e5a7efa2aadc594",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1134891",
+ "title": "Tarjetero de triple nivel",
+ "slug": "triple-tier-playing-card-holder",
+ "url": "https://makerworld.com/en/models/1134891-triple-tier-playing-card-holder",
+ "author": "MKONAPELSKY",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este modelo más pequeño de soporte para naipes está diseñado para la cama A1 mini.\nVea mi versión de un solo nivel específicamente para la cama A1 mini:\nConsulte la versión de dos niveles específica para la cama A1 mini:\nModelo más grande para camas más grandes:\n\nEste modelo presenta un borde curvo para ayudar a evitar que las cartas se caigan y revelen su mazo.\nNo se necesitan soportes ni AMS.",
+ "use_cases": [],
+ "tags": [
+  "magia la reunión",
+  "uno",
+  "titular de la tarjeta",
+  "soporte de tarjeta",
+  "naipe",
+  "titular de la tarjeta de juego",
+  "soporte para naipes",
+  "tarjetero pequeño",
+  "a1 mini",
+  "pararse",
+  "niños",
+  "juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf2a14f99e2c68a/design/2025-02-21_621f83bc291c6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2783823.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1711475.jpg": [
+   600,
+   597
+  ],
+  "previews/profiles/3052005.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

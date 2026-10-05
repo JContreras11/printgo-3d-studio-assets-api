@@ -1,0 +1,403 @@
+{
+ "files": [
+  {
+   "path": "model/dados-dobles-18min.3mf.xz",
+   "instance_id": "1520516",
+   "thumbnail": "previews/profiles/1520516.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "A1 mini",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": "adaptor for 688zz bearings",
+    "creation_date": "2025-05-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1500704,
+   "sha256": "79bd910488145743d86e06b4ce2f96906616c0e8ac1305408b57799bf7764215",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dados-dobles-1h30.3mf.xz",
+   "instance_id": "962990",
+   "thumbnail": "previews/profiles/962990.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "For MR128zz bearing",
+    "profile_notes": "If you don't have the 625ZZ bearing, this is a version with the MR128zz one. (EA004 maker's supply)",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5338,
+      "weight_g": 45.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1544932,
+   "sha256": "32ab701d7ef2413fa81101955e0ce98a81dccd61331ab28a4cc5cfe1feee061d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dados-dobles-1h36.3mf.xz",
+   "instance_id": "870816",
+   "thumbnail": "previews/profiles/870816.jpg",
+   "print_time_h": 1.6,
+   "plates": 3,
+   "rating": 4.4,
+   "rating_count": 90,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "No AMS",
+    "profile_notes": "This version for those who don't have AMS The dice notches are deeper and allow them to be colored with a marker.",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1555,
+      "weight_g": 8.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 846,
+      "weight_g": 3.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3201,
+      "weight_g": 30.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1618088,
+   "sha256": "2ef278ee12522538091f7090c0d75001310c098da5c1210beb46a459c9b7193f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dados-dobles-1h48.3mf.xz",
+   "instance_id": "870830",
+   "thumbnail": "previews/profiles/870830.jpg",
+   "print_time_h": 1.8,
+   "plates": 3,
+   "rating": 4.3,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "For F625Z bearing",
+    "profile_notes": "If you don't have the 625ZZ bearing, this is a version with the F625Z one",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2095,
+      "weight_g": 11.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1004,
+      "weight_g": 3.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E5B03D"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3233,
+      "weight_g": 31.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#68724D"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1327924,
+   "sha256": "3d5f7858afd626bedf799e77c04ed2e2202f842402258079a9caf154386cfe30",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dados-dobles-30min.3mf.xz",
+   "instance_id": "2226407",
+   "thumbnail": "previews/profiles/2226407.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 2,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Double Dice without Bearing without AMS",
+    "profile_notes": "Simply color the dots with an textmarker",
+    "creation_date": "2025-11-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1369488,
+   "sha256": "42dc14d95b7fa52e8b3ab28b26a4cb83f8e7783906bfda8f1a2ba50421348d22",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "904087",
+ "title": "Dados dobles mecánicos.",
+ "slug": "mechanical-double-dice",
+ "url": "https://makerworld.com/en/models/904087-mechanical-double-dice",
+ "author": "Lossamoal",
+ "category": "board-games",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Boost Me¿Aprecias mi diseño? ¡Su apoyo sería muy apreciado! Esto me permitirá perfeccionar el mecanismo y desarrollar nuevas iteraciones. Inspirándome en un diseño de los años 20, he creado este ingenioso dispositivo en forma de tarjeta de crédito.\nSeleccione el perfil de impresión \"sin rodamiento\" si no tiene rodamientos. Para un rendimiento óptimo y mayor velocidad, se recomiendan dos rodamientos de bolas 625ZZ (EA016 Maker's Supply) (¡muchos fabricantes ya los poseen!), junto con un resorte para bolígrafo.\nPara una rotación sin fricción, los rodamientos deben sumergirse en una solución desengrasante y posteriormente lubricarse con WD-40.\nPara lograr el efecto de fibra de carbono, utilice la placa Fiber Carbon (como se muestra en las fotografías)\nSi necesita ruedas que indiquen más de seis opciones, infórmenos y adaptaré un diseño a sus especificaciones. Por ejemplo, una rueda podría mostrar ocho números, mientras que la otra podría mostrar veinte.\n\nInspiré d'un modèle des années 1920, j'ai créé ce gadget au format carte de crédit Vous aurez besoin, pour un fonctionnement optimal, de deux roulements à billes de type 625ZZ (EA016 Maker's Supply) (je sais que beaucoup d'entre vous, makers, en possèdent!), et d'un ressort de stylo à bille\nLes roulements à billes doivent tourner sans friction; il faudra donc les faire tremper dans une solution dégraissante, puis les lubrifier avec du WD-40\nSi vous souhaitez obtenir l'effet carbone, utilisez la plaque Fiber Carbon (comme illustré sur les photos)\nSi vous désirez que les roues affichent plus de six choix, veuillez me le faire savoir, et je créerai un modèle adapté à vos besoins Par exemple: une roue avec 8 chiffres et l'autre avec 20 chiffres\n\nVídeo de montaje:\nInstrucciones de montaje:\n\nDescubra mi último modelo con velocidad mejorada aquí",
+ "use_cases": [],
+ "tags": [
+  "dados",
+  "doble",
+  "hilandero de dados",
+  "hilandero",
+  "mecánico",
+  "artilugio",
+  "herramientas",
+  "herramienta",
+  "juego",
+  "juego de dados",
+  "divertido",
+  "torre de dados"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa0aa5088688bec/design/2024-12-22_9b103fe1d7a8f.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   524,
+   294
+  ],
+  "previews/02.jpg": [
+   1000,
+   830
+  ],
+  "previews/03.jpg": [
+   1000,
+   686
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1520516.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/962990.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/870816.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/870830.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2226407.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

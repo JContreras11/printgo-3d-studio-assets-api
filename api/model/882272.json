@@ -1,0 +1,765 @@
+{
+ "files": [
+  {
+   "path": "model/smash-torre-10h.3mf.xz",
+   "instance_id": "840138",
+   "thumbnail": "previews/profiles/840138.jpg",
+   "print_time_h": 10,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 25,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "(OLD) A1 mini (2 plates) - 0.2mm layer height",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill This is a two plate version for the A1 mini, settings are the same",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14058,
+      "weight_g": 113.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21606,
+      "weight_g": 174.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 2320852,
+   "sha256": "bff0b2623e48350a8bc7f482046dbd8d8fadebb729b24839fc4bd89800d7edb4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-10h36.3mf.xz",
+   "instance_id": "1908895",
+   "thumbnail": "previews/profiles/1908895.jpg",
+   "print_time_h": 10.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "V3 of Smash dice Tower but with pre defined custom tree support for better print quality. The resot fo the parameters are the same as original",
+    "creation_date": "2025-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2483172,
+   "sha256": "0f0017a15373ea69ca34ef95a7c9e3f4f43e783cd72567042e593e2bbac02068",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-11h42.3mf.xz",
+   "instance_id": "989263",
+   "thumbnail": "previews/profiles/989263.jpg",
+   "print_time_h": 11.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V3 0.4mm A1 PLA, adaptive layers & tree supports",
+    "profile_notes": "gif attached no spring on this plate variable layer height and tuned shell settings for detailed finish hotter nozzle and plate for better bed adhesion and faster printing painted supports and speed/cooling settings for clean overhangs",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 40168,
+      "weight_g": 377.95,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8E9089"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2444980,
+   "sha256": "5d8bf9f096acc3b9e827d5304fce40427f2e239ad85fc9377b719362bb2ad6ac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-12h06.3mf.xz",
+   "instance_id": "2052508",
+   "thumbnail": "previews/profiles/2052508.jpg",
+   "print_time_h": 12.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "PETG",
+    "profile_notes": "0.2mm 层高, 2 层墙, 10% 填充，且 无需支撑 无需支撑这一点非常重要，因此如果Bambu Studio试图说服您使用支撑，您可以直接忽略它。 这是一个改进的打印配置，也适用于A1 mini。 V2改进： 更坚固耐用，弹簧寿命更长 更容易拆卸弹簧 楼梯上的瓷砖图案 更好的迷宫设计（减少使用顶部时骰子跳出的几率） V3改进： 使用圆角增大了卡口连接部分 在楼梯上方增加了一个M3螺丝孔，作为卡口断裂时的备用方案 增加了底部的厚度，防止弹簧突出，并使平台略重一些",
+    "creation_date": "2025-10-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2424396,
+   "sha256": "0cef908f789bf581c327755f0e32748bba0f01112fdd46b2743bd7e8a6c3ea48",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-13h12.3mf.xz",
+   "instance_id": "1781075",
+   "thumbnail": "previews/profiles/1781075.jpg",
+   "print_time_h": 13.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Colored Tiles V3",
+    "profile_notes": "fast two color print unique aesthetics Arachne",
+    "creation_date": "2025-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2802792,
+   "sha256": "9bd281347d052fc307dc065e443c4f6c5ccc44a48933b2fd99914fd499993c28",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-36min.3mf.xz",
+   "instance_id": "840163",
+   "thumbnail": "previews/profiles/840163.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Replacement springs - 0.20mm layer height",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill These are spare springs for if your old ones get fatigued or misshapen. This heavily depends on your filament choice, but the best solution is using steel springs. To replace the spring, remove the op of the tower by pressing in the release clips through the small holes in the side of the bottom.",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2217,
+      "weight_g": 20.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 926572,
+   "sha256": "dfa49563735dfd8202d2c7e49d6d683d89cccbe87da61fa2b2ae7f98b4a292c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-48min.3mf.xz",
+   "instance_id": "859344",
+   "thumbnail": "previews/profiles/859344.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 89,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V2 Replacement springs - 0.20mm layer height",
+    "profile_notes": "These are spare springs for if your old ones get fatigued or misshapen. This heavily depends on your filament choice, but the best solution is using steel springs. To replace the spring, remove the op of the tower by pressing in the release clips through the small holes in the side of the bottom.",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2918,
+      "weight_g": 27.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 908952,
+   "sha256": "cb8ff0cacc5230c72360d9ded5b3e7debbba8a41a37d1c63756a917b246fc50b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-8h36.3mf.xz",
+   "instance_id": "858596",
+   "thumbnail": "previews/profiles/858596.jpg",
+   "print_time_h": 8.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 1611,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P1P",
+    "P2S",
+    "A1",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "V3 - ALL Printers (One plate) 0.2mm layer height",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill and no supports The no supports is quite important, so if Bambu Studio tries to convince you otherwise you can just ignore it. This is an improved print profile which also fits the A1 mini. V2 improvements: Stiffer, longer lasting, spring Easier removal of spring Tiled pattern on the stairs Better Maze (reduce chance of dice jumping out when using the top) V3 improvements: Made tab connection bigger with a fillet Added an M3 grub screw hole above the stairs as backup if your tabs break Added thickness to the bottom prevents spring from protruding and makes the terrace a bit heavier",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 29888,
+      "weight_g": 282.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA una sola placa",
+   "size": 2402008,
+   "sha256": "77076c9d811ce19f3ce5cadd4506e7c087dda87128b48d146260b20b7cb0fa87",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-9h.3mf.xz",
+   "instance_id": "3426707",
+   "thumbnail": "previews/profiles/3426707.jpg",
+   "print_time_h": 9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2D",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "A2L",
+    "H2C",
+    "A1",
+    "P1S",
+    "X1E",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "V4 - Silent slider version",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill This is a slightly more complex version to assemble but it is much more silent than V3. It has stronger hinges and has sliders that need to be inserted to prevent the layer lines from rubbing",
+    "creation_date": "2025-12-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2113724,
+   "sha256": "783cdc55acdcc1c8d2fe258a64690d9a941e5c8c765bf96c6e4e87fa964a08fe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-9h30.3mf.xz",
+   "instance_id": "974848",
+   "thumbnail": "previews/profiles/974848.jpg",
+   "print_time_h": 9.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill, painted supports",
+    "profile_notes": "Painted supports to the inner/upper roof, looks very smooth now Adjusted to gyroid with only 10% infill",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 33272,
+      "weight_g": 271.84,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D6ECFC"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2415084,
+   "sha256": "45581449c82c0c4903c32dafe1ce6ca6a157ff57c7e79cf0b2a480650a35df4a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-9h54.3mf.xz",
+   "instance_id": "1351600",
+   "thumbnail": "previews/profiles/1351600.jpg",
+   "print_time_h": 9.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1E",
+    "H2C",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "same as original except all monotonic top surfaces",
+    "profile_notes": "This profile has a modified base that makes the balcony angle 45° at the back instead of 35°. Also moved the pivot point to increase the strength around the pivot (mine broke around the pivot too easily). Other improvements include a chamfer on the back of the balcony arms to reduce the chance of the base fusing to the arms. Should also make it print cleaner there too.",
+    "creation_date": "2025-04-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2730188,
+   "sha256": "0df243b097db30e2cccfbcb683544e700c7affed1b9117fdf83a3a22227fd2e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-multicolor-20h.3mf.xz",
+   "instance_id": "2657753",
+   "thumbnail": "previews/profiles/2657753.jpg",
+   "print_time_h": 20,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2S",
+    "A1",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Multicolor Smash Dice Tower H2 Series Recommended",
+    "profile_notes": "A friend of mine liked the smash tower I printed when I first got my X1C, but he didn't like how it was all one color. As a birthday gift, and to play with the dual extrusion of my new H2C I colorized all the gaps between bricks to make it look more distinct. I also added a text field to the underside of the part that flips up with his initials so that when he smashes the tower the initials will be right side up. Definitely, adds to the print time, but I can imagine more interesting color combiniations looking very striking.",
+    "creation_date": "2026-02-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2757164,
+   "sha256": "ef8c53721989b046920999bf2377fbc73220a4bc854b5dab6a70cfa993659aac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/smash-torre-multicolor-37h54.3mf.xz",
+   "instance_id": "1374427",
+   "thumbnail": "previews/profiles/1374427.jpg",
+   "print_time_h": 37.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "2 Color AMS, 0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "Original V3 Model with painted brick mortar. Takes a very long time to print, silent speed setting suggested to lower the risk of failure mid-print. Also suggest drying filament and fine-tuning your flow rate before starting. The very beginning of this print's brown color has some rough spots from sub-optimal filament. Same 0.2mm layer height and 10% infill, but added 3 walls to hopefully help strengthen the spring and tower, especially around the pivot points",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2540192,
+   "sha256": "f5d40efb8157c3e987b398cb20127f5555785c7256360b0f49cfe1913799efda",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "882272",
+ "title": "¡Smash! La torre de dados de recarga automática",
+ "slug": "smash-the-auto-reload-dice-tower",
+ "url": "https://makerworld.com/en/models/882272-smash-the-auto-reload-dice-tower",
+ "author": "Rossero",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¡Smash!\n\nPara uso comercial, eche un vistazo a mi Patreon.\n\nLa mayoría de Dice Towers son adiciones increíbles a tu experiencia de juego de mesa. Pero eso no hace que tirar los dados sea más fácil. En todo caso, lo hace más divertido pero también un poco más inconveniente.\n\n¡Smash! resuelve esto al tener una funcionalidad de recarga automática. Simplemente aplasta la parte superior y los dados se volverán a lanzar automáticamente. Aún puedes colocarlos desde arriba o cambiarlos. Pero entonces, ¡solo aplasta!\n\nLa torre de dados debe admitir cualquier dado con una diagonal o diámetro de hasta 30 mm.\n\nHay un resorte imprimible incluido en el archivo de impresión, pero debido al deslizamiento, este resorte puede fatigarse con el tiempo y no volver a levantar la parte superior de la torre de dados (pero se puede reemplazar fácilmente). Por lo tanto, se recomienda utilizar un resorte de 80*8 mm (aún no probado debido al desorden del envío de Bambu, pero debería funcionar).\n\nSi sigue la ruta del resorte imprimible, funciona mejor si lubrica las espiras del resorte y la parte inferior de la parte superior (ptfe/silicona) para reducir la fricción. Dependiendo del filamento utilizado, es posible que tengas que cambiarlo de vez en cuando o actualizar a los resortes helicoidales mencionados anteriormente.\n\nSimplemente deje caer los resortes helicoidales (o deslice el resorte impreso) en su lugar y deslice la parte superior de la torre hacia abajo. Hará clic en su lugar y, si usa el resorte impreso, es posible que deba empujar la parte superior hacia atrás. Si alguna vez quieres volver a desmontar el castillo, hay dos agujeros en el lateral a través de los cuales puedes desbloquear los clips que mantienen el castillo unido.\n\nSi el puente no baja por sí solo, es posible que tengas que trabajar un poco las bisagras antes de que se convierta en una acción suave. Si eso aún no ayuda, use un poco de lubricante en las bisagras. Si las partes superiores tienen problemas para llegar al fondo, lubrique como se describe arriba y asegúrese de que el resorte esté empujado completamente dentro de la ranura. Si no está utilizando el perfil de impresión proporcionado, asegúrese de desactivar los soportes, independientemente de lo que Bambu Studio intente decirle.\n\nMejoras V2:\nMás rígido, más duradero, primavera.\nEliminación más sencilla del resorte impreso\nPatrón de mosaico en las escaleras.\nMejor laberinto (posibilidad reducida de que los dados salten al usar la parte superior)\n\nMejoras V3:\nConexión de pestaña agrandada con un redondeo\nSe agregó un orificio para tornillo prisionero M3 encima de las escaleras como respaldo si las pestañas se rompen.\nEl espesor añadido en la parte inferior evita que el resorte sobresalga y hace que la terraza sea un poco más pesada.\n\nAparte de eso, ¡simplemente Smash! ¡Y diviértete!\n\n¡Feliz impresión!\n\n-Rossi\n\nMuelle helicoidal: BB019",
+ "use_cases": [],
+ "tags": [
+  "torre de dados",
+  "dados"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc1bb596fc33b7b/design/2024-12-15_40339882a576a.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   582,
+   436
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/840138.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1908895.jpg": [
+   600,
+   594
+  ],
+  "previews/profiles/989263.jpg": [
+   600,
+   473
+  ],
+  "previews/profiles/2052508.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1781075.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/840163.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/859344.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/858596.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3426707.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/974848.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1351600.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2657753.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1374427.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

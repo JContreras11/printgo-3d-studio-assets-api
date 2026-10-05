@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/indicador-direccion.3mf.xz",
+   "instance_id": "2881981",
+   "thumbnail": "previews/profiles/2881981.jpg",
+   "print_time_h": 0.6,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 53,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Print profile",
+    "creation_date": "2026-01-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1404588,
+   "sha256": "484647472cebeb1ce063995f7f9043738733e91fc765438db631745bca54cc1e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2611531",
+ "title": "Indicador de dirección para juegos de cartas y de mesa.",
+ "slug": "direction-indicator-for-card-games-and-board-games",
+ "url": "https://makerworld.com/en/models/2611531-direction-indicator-for-card-games-and-board-games",
+ "author": "mgm86",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Especialmente los niños suelen confundirse cuando el sentido del juego cambia varias veces en juegos de cartas o de mesa. Con este pequeño dispositivo, ahora pueden realizar un seguimiento del juego. Simplemente gírelo cada vez que cambie de dirección para evitar confusiones.\n\nLas flechas que sobresalen hacen que el disco sea especialmente fácil de girar.\n\nAsamblea:\nInserte las flechas en el cuerpo principal. Utilice una gota de superpegamento si es necesario.\n\nConfiguración de impresión:\nTodos los valores predeterminados.",
+ "use_cases": [],
+ "tags": [
+  "indicador de dirección",
+  "dirección",
+  "juegos de mesa",
+  "juegos de cartas",
+  "dirección del juego de cartas",
+  "dirección del juego de mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbed388e23f3d46/design/6ad687bf34f86cb1.jpeg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   750,
+   541
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2881981.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

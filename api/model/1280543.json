@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/juego-completo.3mf.xz",
+   "instance_id": "1308325",
+   "thumbnail": "previews/profiles/1308325.jpg",
+   "print_time_h": 19,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 41,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 10565480,
+   "sha256": "ab0f80669eaeca3e6b786648c926e7e5ad6b3f56b2699351d745ae31cbdd3696",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1280543",
+ "title": "Juego completo de Spool Bingo con liberación automática",
+ "slug": "spool-bingo-complete-set-with-auto-release",
+ "url": "https://makerworld.com/en/models/1280543-spool-bingo-complete-set-with-auto-release",
+ "author": "LUCNYX",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Impulsame ¡Por favor considera impulsar! Es gratis y me ayuda a hacer más diseños geniales como este:) Me encantaría ver tus impresiones de este diseño. Por favor comparte algunas fotos en los comentarios <3\nVÍDEO DE MONTAJE\n\nPara las bolas, utilice dos colores que tengan un gran contraste (blanco y negro, por ejemplo). Si usa verde oscuro y verde claro, los números no serán tan visibles.\n\nEste juego de carrete de bingo es mi entrada creativa para el concurso \"Reutilización de carretes de cartón\" de MakerWorld. Transforma sus viejos carretes de filamento en un juego de bingo entretenido y completamente funcional, dándole nueva vida a su carrete que de otro modo estaría destinado a ser desechado.\n\nEl juego ha sido probado con bobinas de cartón de filamento Polymaker, Real y Eleg00. Puede encontrar las medidas de las bobinas a continuación.\n\nEn un futuro se actualizará para admitir bobinas de plástico de marcas como Bambulab y la marca de la casa 123-3D, además de bobinas estándar de 500 gramos.\n\nEl diseño incluye todo lo necesario: bolas numeradas, una práctica bandeja recolectora y un mecanismo automático de liberación de bolas que se activa al girar la rueda.\n\nDiseñado para minimizar la necesidad de soporte, hace que el proceso de montaje sea agradable y sencillo. Todo lo que necesitas para completar tu rueda de bingo es un poco de pegamento y un simple resorte para bolígrafo. (video de montaje a continuación)\n\nEspero que disfrutes montando y jugando con este juego de bingo y dándole a tus carretes de filamento una segunda vida divertida.\n\nSe incluyen algunos cartones de bingo en formato pdf para imprimir.\n\nVÍDEO DE MONTAJE:",
+ "use_cases": [],
+ "tags": [
+  "bingo",
+  "carrete",
+  "reciclar",
+  "cartulina",
+  "juego",
+  "divertido",
+  "jugar",
+  "kit de montaje",
+  "armar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7987a9ebea3f4c/design/2025-04-03_db6f7eee094618.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1308325.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "files": [
+  {
+   "path": "model/minijuego-laberinto-10h30.3mf.xz",
+   "instance_id": "149529",
+   "thumbnail": "previews/profiles/149529.jpg",
+   "print_time_h": 10.5,
+   "plates": 3,
+   "rating": 4.7,
+   "rating_count": 103,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "multicolor → No need for AMS",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6066,
+      "weight_g": 33.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7614,
+      "weight_g": 66.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 23969,
+      "weight_g": 207.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 8050108,
+   "sha256": "12ac3cf7b2222c9928100ac907f3897e6ee6766373623733541f23728f4a7c9f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/minijuego-laberinto-1h.3mf.xz",
+   "instance_id": "173347",
+   "thumbnail": "previews/profiles/173347.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "0.2mm layer, 2 walls, 35% infill",
+    "profile_notes": "n°2 objects (see image) with greater tightening tolerance and positioned on the bed in order to improve quality.",
+    "creation_date": "2024-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "35%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3623,
+      "weight_g": 7.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 5399608,
+   "sha256": "8146eeaeabe51a77ba3debd492236c3cda7ba0052f8603c490837f291333aca8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/minijuego-laberinto-9h06.3mf.xz",
+   "instance_id": "149548",
+   "thumbnail": "previews/profiles/149548.jpg",
+   "print_time_h": 9.1,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "easy print NO AMS (one color)",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6066,
+      "weight_g": 33.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7058,
+      "weight_g": 64.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19617,
+      "weight_g": 195.24,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7695320,
+   "sha256": "7b90fd174be7718d3751802c027702060e559e7e6dfccdff9ee9de651382d5d1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "137411",
+ "title": "Minijuego de laberinto",
+ "slug": "labyrinth-mini-game",
+ "url": "https://makerworld.com/en/models/137411-labyrinth-mini-game",
+ "author": "3DprintK81",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "Consulta mi perfil para ver más juegos divertidos:\nEvolución del TicTacToe por 3Dprint-K81 - MakerWorld\nMinijuego de baloncesto de 3Dprint-K81 - MakerWorld\n\nConsulta otras versiones:\nV.3 Minijuego Labyrinth de 3Dprint-K81 - MakerWorld\nMinijuego Labyrinth V.2 de 3Dprint-K81 - MakerWorld\n\n¿Quieres divertirte con amigos? Todo lo que tienes que hacer es imprimir este rompecabezas imposible.\n\nDesafía a tus amigos, la diversión estará asegurada.\n\nTambién puedes encontrar el archivo stl de la esfera, pero te recomiendo que lleves o compres una esfera de metal (diámetro máximo 8 mm) para una mejor jugabilidad.\n\nPuedes elegir imprimirlo de dos maneras, fácil o multicolor (ver perfil de impresión)\n\nAdemás, adjunto libero un pdf para guía de montaje y cualquier postprocesamiento.\n\nFeliz impresión, les pido que dejen sus comentarios, gracias!!!!",
+ "use_cases": [],
+ "tags": [
+  "laberinto",
+  "minijuego",
+  "mini",
+  "multicolor",
+  "concurso",
+  "ganador del concurso",
+  "oficina",
+  "accesorios de oficina",
+  "niño",
+  "niños",
+  "juego de niños",
+  "pasatiempo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-01-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US87bd108387ec76/design/2024-01-13_107801e4007aa.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.gif",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   562
+  ],
+  "previews/02.gif": [
+   320,
+   240
+  ],
+  "previews/03.png": [
+   1000,
+   562
+  ],
+  "previews/04.png": [
+   1000,
+   562
+  ],
+  "previews/05.png": [
+   1000,
+   562
+  ],
+  "previews/06.png": [
+   1000,
+   562
+  ],
+  "previews/07.png": [
+   1000,
+   562
+  ],
+  "previews/08.png": [
+   1000,
+   562
+  ],
+  "previews/09.png": [
+   1000,
+   562
+  ],
+  "previews/10.png": [
+   1000,
+   562
+  ],
+  "previews/profiles/149529.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/173347.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/149548.jpg": [
+   512,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

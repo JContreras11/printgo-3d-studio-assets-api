@@ -1,0 +1,332 @@
+{
+ "files": [
+  {
+   "path": "model/tablero-rompecabezas-2h48.3mf.xz",
+   "instance_id": "2904117",
+   "thumbnail": "previews/profiles/2904117.jpg",
+   "print_time_h": 2.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "4 plates printable with one ams",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 14638516,
+   "sha256": "77014f18373bbd7cafb2233be9472a454a0c2edaa60b99e9603fd742b8e20ce4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tablero-rompecabezas-1h36.3mf.xz",
+   "instance_id": "2952893",
+   "thumbnail": "previews/profiles/2952893.jpg",
+   "print_time_h": 1.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Larger Spacing for P2S",
+    "profile_notes": "I added more spacing between the tiles to make it printable on the P2S, which seems to have a larger print head.",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 11355324,
+   "sha256": "1e573ab11fef78f0b172009ac1c92e9b46f292c53469c975e050599b9d1c19c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tablero-rompecabezas-1h48.3mf.xz",
+   "instance_id": "2904133",
+   "thumbnail": "previews/profiles/2904133.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "just the puzzle pieces on two plates for 2 ams unit's",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "50%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 11354904,
+   "sha256": "40ee7dde031c38ab6c7c46d9b01f287e0e2dde6889d24b941c4457c8c415f2c1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tablero-rompecabezas-3h24.3mf.xz",
+   "instance_id": "2904129",
+   "thumbnail": "previews/profiles/2904129.jpg",
+   "print_time_h": 3.4,
+   "plates": 11,
+   "rating": 4.7,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "One plate per piece/color for scaling printing",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "name": "Una sola placa",
+   "size": 14614644,
+   "sha256": "828ef0bf4e754e3af17dc968c1eb6b71e5faa61b1f4f3be352dc7e204d9018d6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tablero-rompecabezas-42min.3mf.xz",
+   "instance_id": "3647164",
+   "thumbnail": "previews/profiles/3647164.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "A1 mini simple box cover",
+    "creation_date": "2026-08-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 5470144,
+   "sha256": "7b4daddcfab73e70ca1af3dbca921250085f081565af31c13eb739b64da9bc4b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tablero-rompecabezas-4h54.3mf.xz",
+   "instance_id": "2931993",
+   "thumbnail": "previews/profiles/2931993.jpg",
+   "print_time_h": 4.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 24,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "A1",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Travelbox with and without QR-Code",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 12765796,
+   "sha256": "e1b24de3a245d03d760c956e37b62aea111ae018cd7348a85becf6285bcb17ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tablero-rompecabezas-8h54.3mf.xz",
+   "instance_id": "2923502",
+   "thumbnail": "previews/profiles/2923502.jpg",
+   "print_time_h": 8.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Profile for H2x Printers with larger spacing",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 14477692,
+   "sha256": "a613641e6865e09d75d1176eb90ff40b6b93eb6541ef1f8ec58c02bcf0dccdd8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2630110",
+ "title": "Tablero de rompecabezas 48 desafíos 5 niveles",
+ "slug": "brain-teaser-puzzle-board-48-challenges-5-levels",
+ "url": "https://makerworld.com/en/models/2630110-brain-teaser-puzzle-board-48-challenges-5-levels",
+ "author": "Dingwerk",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "Actualización 3:\n¿No hay suficientes colores?\nTuve la suerte de recibir un juego de prueba básico de PLA de Bambu Lab. Incluye 12 colores diferentes y es ideal para impresiones coloridas sin tener que comprar un carrete completo de cada color.\n¡Consulte la lista de materiales a continuación si está interesado!\nActualización 2:\nEscuché sus comentarios y creé un PDF con los 48 desafíos, incluidas sus soluciones.\nEl PDF ahora se carga aquí junto con los archivos del modelo, para que pueda imprimir o guardar fácilmente los desafíos y verificar la solución cuando sea necesario.\n¡Gracias a todos los que sugirieron esto! ¡Realmente aprecio los comentarios y espero que esto haga que el rompecabezas sea aún más fácil y divertido de usar!\nActualización 1:\nDebido a sus solicitudes, agregué una caja de viaje para imprimir en el lugar para el rompecabezas. Hay dos versiones disponibles: una con código QR que enlaza con los retos y soluciones, y otra sin ahorro de filamento. La caja es muy compacta e incluso puede caber en su bolsillo, lo que la hace perfecta para usarla mientras viaja. Para abrir la caja, sostenga el borde inferior con el pulgar y levante la tapa superior en ambos lados. Lo diseñé de esta manera para que no se abra accidentalmente en tu mochila.\nColoca todas las piezas en el tablero y resuelve 48 desafíos de rompecabezas imprimibles, de fáciles a difíciles.\nTablero de desafío de rompecabezas imprimible\nEste tablero de rompecabezas imprimible en 3D es un divertido desafío para la mente tanto para niños como para adultos.\nEl objetivo es simple:\nColoque todas las piezas del rompecabezas en el tablero rectangular.\nAlgunas piezas ya están colocadas al inicio de cada desafío y las restantes deben encajarse en el espacio vacío.\nEste modelo incluye 48 desafíos de rompecabezas diferentes en 5 niveles de dificultad, por lo que hay mucha variedad y valor de repetición.\nCaracterísticas\n48 configuraciones de rompecabezas únicas\n5 niveles de dificultad diferentes\ndiversión para niños y adultos\nreglas simples, pero sorprendentemente desafiantes\ntotalmente imprimible en 3D\ncomo funciona\nPara cada desafío, comience con la disposición de las piezas dada e intente encajar las piezas restantes en el tablero.\nTambién incluí una tabla de descripción general del desafío:\nel diseño inicial se muestra directamente\nCada desafío también tiene un enlace de solución que conduce a una imagen del rompecabezas completado.\nEsto hace que sea fácil jugar todos los desafíos uno por uno y verificar la solución solo cuando sea necesario.\n¿Para quién es?\nEste rompecabezas es ideal para:\nniños que disfrutan resolviendo problemas\nadultos a quienes les gustan los acertijos de lógica y los acertijos\nfamilias que buscan un juego imprimible sencillo\ncualquiera que disfrute de un desafío de rompecabezas rápido y satisfactorio\nSi lo imprimes, me encantaría saber qué nivel de dificultad te dio más problemas.\n\nDescargo de responsabilidad: Las imágenes de portada fueron alteradas por IA porque no soy muy bueno tomando o editando fotografías. Todo lo demás es contenido original.\nFácil\n\nSolución 1FácilSolución 2FácilSolución 3FácilSolución 4FácilSolución 5FácilSolución 6FácilSolución 7FácilSolución 8FácilSolución 9FácilSolución 10FácilSolución 11FácilSolución 12FácilAnímameExcelente trabajo: ¡completaste todos los niveles fáciles! Si has disfrutado de los rompecabezas hasta ahora, considera darle un impulso a este modelo para admitir más diseños como este.\nMedio\nSolución 1 intermediaSolución 2 intermediaSolución 3 intermediaSolución 4 intermediaSolución 5 intermediaSolución 6 intermediaSolución 7 intermediaSolución 8 intermediaBoost MeBuen trabajo: ¡completaste todos los niveles medios! Si te divertiste hasta ahora, un impulso sería una excelente manera de respaldar más desafíos de rompecabezas.Difícil\nSolución difícil 1Solución difícil 2Solución difícil 3Solución difícil 4Solución difícil 5Solución difícil 6Solución difícil 7Solución difícil 8ImpulsemeBien hecho, ¡has completado todos los niveles difíciles! Si disfrutaste el desafío, considera dejar un impulso para respaldar futuros diseños de rompecabezas.Héroe\nHero 1solutionHero 2solutionHero 3solutionHero 4solutionHero 5solutionHero 6solutionHero 7solutionHero 8solutionBoost MeImpresionante: ¡completaste todos los niveles de héroe! Si te gustó el desafío hasta ahora, un impulso realmente me ayudaría a crear más acertijos como este.Imposible\nImposible 1soluciónImposible 2soluciónImposible 3soluciónImposible 4soluciónImposible 5soluciónImposible 6soluciónImposible 7soluciónImposible 8Solución Imposible 9Solución Imposible10SoluciónImposibleImposible 11soluciónImposible 12SoluciónImpórameIncreíble: ¡completaste todos los niveles de Imposible! Si disfrutó del conjunto completo de rompecabezas, considere darle un impulso para admitir más diseños futuros.",
+ "use_cases": [],
+ "tags": [
+  "rompecabezas",
+  "cerebro",
+  "desafío para la mente",
+  "juego de rompecabezas",
+  "juego de mesa",
+  "lógica",
+  "rompecabezas de lógica",
+  "juguete educativo",
+  "niños",
+  "desafío",
+  "rompecabezas geométrico"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-04-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2597d9c7085e57/design/697aa7f9f14e10e4.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2904117.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2952893.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2904133.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2904129.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3647164.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2931993.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2923502.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

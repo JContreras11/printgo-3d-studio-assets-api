@@ -1,0 +1,157 @@
+{
+ "files": [
+  {
+   "path": "model/super-mario-13h.3mf.xz",
+   "instance_id": "3278505",
+   "thumbnail": "previews/profiles/3278505.jpg",
+   "print_time_h": 13,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 1965220,
+   "sha256": "4547bf1add8130403242c3a891f61989f13f5f7717971e4c96443acc6416ca95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/super-mario-13h18.3mf.xz",
+   "instance_id": "3282182",
+   "thumbnail": "previews/profiles/3282182.jpg",
+   "print_time_h": 13.3,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X2D",
+    "H2S",
+    "H2D",
+    "H2C",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "print by object not turned on to allow for a1 mini",
+    "creation_date": "2026-06-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 1996984,
+   "sha256": "c1db9c502fbdaae3f675b97b5502a40b1793f8ed32e7b4a2ef9fb96da1782a7a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2928849",
+ "title": "Super Mario tres en raya",
+ "slug": "super-mario-tic-tac-toe",
+ "url": "https://makerworld.com/en/models/2928849-super-mario-tic-tac-toe",
+ "author": "Eire3Ddesigns",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Tic-Tac-Toe con temática de Super Mario\n\n¡elige entre 4 piezas de juego!\n\neste es probablemente mi favorito.\n\nTambién subiré algunas cajas de almacenamiento que contendrán el juego y todas las piezas (¡la pieza inferior está en las fotos!)\n\n¡disfrutar!",
+ "use_cases": [],
+ "tags": [
+  "mario",
+  "súper",
+  "súper mario",
+  "nintendo",
+  "switch",
+  "tres en raya",
+  "juego de mesa",
+  "divertido",
+  "2 jugadores",
+  "vs",
+  "equipo",
+  "xs y os"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8452970e933deb/design/1e033cca4aaf2397.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1332
+  ],
+  "previews/02.jpg": [
+   1000,
+   1332
+  ],
+  "previews/03.jpg": [
+   1000,
+   1332
+  ],
+  "previews/04.jpg": [
+   1000,
+   1332
+  ],
+  "previews/05.jpg": [
+   1000,
+   1332
+  ],
+  "previews/06.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3278505.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3282182.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

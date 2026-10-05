@@ -1,0 +1,640 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-orbita-30h24.3mf.xz",
+   "instance_id": "719979",
+   "thumbnail": "previews/profiles/719979.jpg",
+   "print_time_h": 30.4,
+   "plates": 13,
+   "rating": 4.8,
+   "rating_count": 79,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "The Dice tower may need support depending on the printer. If inserts arent fitting try adjusting the elephant's foot.",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6471,
+      "weight_g": 62.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4966,
+      "weight_g": 52.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7956,
+      "weight_g": 53.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5731,
+      "weight_g": 51.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5937,
+      "weight_g": 63.81,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4284,
+      "weight_g": 39.54,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4172,
+      "weight_g": 33.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17924,
+      "weight_g": 176.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9682,
+      "weight_g": 94.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5408,
+      "weight_g": 57.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9799,
+      "weight_g": 102.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10216,
+      "weight_g": 112.52,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16987,
+      "weight_g": 126.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     }
+    ],
+    "photos": 13
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3337156,
+   "sha256": "b1748089994bc1c1d2eaac06c2dfd973b3d4fdcccb7886bc3735dfb39d67339d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-orbita-28h18.3mf.xz",
+   "instance_id": "2487930",
+   "thumbnail": "previews/profiles/2487930.jpg",
+   "print_time_h": 28.3,
+   "plates": 13,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Printable on P1S, tree support against \"hairy armpits\" :-D",
+    "profile_notes": "I could not print the designers profile on the P1S. Made the profile public, so nobody needs to go the their PC to print this :-) Tree support is enabled to counteract the “hairy arm pits” :-D that some users reported with the dice tower.",
+    "creation_date": "2026-01-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 13
+   },
+   "name": "Versión estándar",
+   "size": 3417052,
+   "sha256": "661955a723103c4518386df17d7c0e4b076474f201e2497ddee982ee5445b5da",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-orbita-30h30.3mf.xz",
+   "instance_id": "737685",
+   "thumbnail": "previews/profiles/737685.jpg",
+   "print_time_h": 30.5,
+   "plates": 19,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 Mini - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print profile that supports the A1 Mini plate size. No settings were change just re arranged plates to fit the smaller size.",
+    "creation_date": "2025-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6352,
+      "weight_g": 62.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5117,
+      "weight_g": 51.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4196,
+      "weight_g": 17.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5668,
+      "weight_g": 51.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5808,
+      "weight_g": 63.81,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4095,
+      "weight_g": 39.55,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4093,
+      "weight_g": 33.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16842,
+      "weight_g": 176.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9362,
+      "weight_g": 94.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5243,
+      "weight_g": 51.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2526,
+      "weight_g": 22.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9907,
+      "weight_g": 112.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3015,
+      "weight_g": 14.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3054,
+      "weight_g": 29.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2809,
+      "weight_g": 27.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2013,
+      "weight_g": 13.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7409,
+      "weight_g": 55.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7417,
+      "weight_g": 55.99,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4728,
+      "weight_g": 52.4,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     }
+    ],
+    "photos": 19
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 3489132,
+   "sha256": "a5460db233fe2f9ed3b26952fad3605141f337364d8ad21ffe5316ac35b9cb45",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "782694",
+ "title": "Organizador de órbita",
+ "slug": "orbit-organizer",
+ "url": "https://makerworld.com/en/models/782694-orbit-organizer",
+ "author": "garrenmovius",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Mejora tu noche de juego con nuestro innovador Orbit Organizer, el complemento perfecto para cualquier experiencia de juego de mesa. Esta bandeja giratoria totalmente impresa en 3D presenta un giro suave de 360 ​​grados que facilita el acceso a los componentes del juego.\nCon múltiples compartimentos de diferentes tamaños, puede contener fácilmente piezas de juego, cartas, dados y fichas, manteniendo todo organizado y al alcance.\nIdeal para juegos de mesa, juegos de cartas y noches de juegos familiares, Orbit Organizer mejora el juego minimizando las interrupciones y maximizando la diversión. Ya sea que estés planeando estrategias con amigos o disfrutando de una velada acogedora con la familia, este accesorio esencial hará que tu noche de juego fluya a la perfección.\nHaga que cada turno cuente con Orbit Organizer, ¡donde la conveniencia se une a la creatividad!\n\n¡Múltiples inserciones para acomodar cualquier juego!\nTorre de dados\nBandeja para piezas pequeñas\nBandeja Pieza Mediana\nBandeja para piezas grandes\nMini tarjetero\nSoporte de cubierta\nApilador de fichas\nTitular del dinero\nPara montar la base introducirás el cilindro con el extremo más pequeño hacia el centro.\n\nLuego completa el resto del área.\n\nLa parte superior encaja en la base.\n\nSerá difícil sujetarlo pero se verá así cuando esté terminado.\n\nPara conectar todas las piezas necesitarás imanes redondos de 6x3. Asegúrese de prestar atención a la polaridad al colocar los imanes. Los imanes deben ajustarse a presión, si están flojos, use un poco de superpegamento para mantenerlos en su lugar. Se pueden agregar 64 imanes necesarios para la base. Se pueden agregar imanes opcionales a los insertos para aumentar el poder de sujeción.",
+ "use_cases": [],
+ "tags": [
+  "perezoso",
+  "juego de mesa",
+  "modular",
+  "organizador",
+  "imanes",
+  "juegos",
+  "meeple",
+  "torre de dados",
+  "tarjetas",
+  "titular de la tarjeta",
+  "pieza de juego",
+  "contenedor de piezas de juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb44f14601b409/design/2024-11-11_513c661b9664b.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.gif",
+  "previews/04.gif",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1080,
+   1440
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/03.gif": [
+   1120,
+   840
+  ],
+  "previews/04.gif": [
+   1920,
+   1080
+  ],
+  "previews/05.jpg": [
+   1000,
+   461
+  ],
+  "previews/06.jpg": [
+   1000,
+   461
+  ],
+  "previews/07.jpg": [
+   1000,
+   461
+  ],
+  "previews/08.jpg": [
+   665,
+   1440
+  ],
+  "previews/profiles/719979.jpg": [
+   600,
+   399
+  ],
+  "previews/profiles/2487930.jpg": [
+   600,
+   399
+  ],
+  "previews/profiles/737685.jpg": [
+   600,
+   399
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

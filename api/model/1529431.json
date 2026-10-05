@@ -1,0 +1,211 @@
+{
+ "files": [
+  {
+   "path": "model/juego-fiesta-8h.3mf.xz",
+   "instance_id": "1603761",
+   "thumbnail": "previews/profiles/1603761.jpg",
+   "print_time_h": 8,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 31,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-01-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(manual)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1922852,
+   "sha256": "7b1850835a423c843478ed3245d0c5e50ce6666c68404874e9cd4c80e4f4b0bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-fiesta-6h42.3mf.xz",
+   "instance_id": "1618241",
+   "thumbnail": "previews/profiles/1618241.jpg",
+   "print_time_h": 6.7,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "A1 Mini 0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-06-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(manual)",
+    "photos": 5
+   },
+   "name": "Versión mini",
+   "size": 1800024,
+   "sha256": "6697f435d5fabea0de09200db1960576ee397a4a417bef26b589a5d2b894d7c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-fiesta-7h36.3mf.xz",
+   "instance_id": "1603771",
+   "thumbnail": "previews/profiles/1603771.jpg",
+   "print_time_h": 7.6,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "P2S",
+    "H2D",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "No AMS 0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-01-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(manual)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1922776,
+   "sha256": "5e64366f72b774dffc70eafb6c2e0372558329d83a318a3e14825721d1aa989f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1529431",
+ "title": "Juego de fiesta Beer Pong en miniatura mejorado",
+ "slug": "miniature-beer-pong-party-game-improved",
+ "url": "https://makerworld.com/en/models/1529431-miniature-beer-pong-party-game-improved",
+ "author": "OFF5PRING",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡¡NUEVO!! ¡Echa un vistazo a Booze Pong, una versión modificada para 6 tragos de 2 cl por lado!\n\nDisfruta del clásico juego de mesa en un formato divertido y compacto, ¡completamente imprimible en 3D! Este juego de Beer Pong en miniatura incluye todo lo que necesitas: el estante para juegos, los minivasos e incluso las bolitas diminutas, no se requieren piezas adicionales.\nCaracterísticas:\nTotalmente imprimible en 3D (vasos y bolas incluidos)\nCompacto y portátil: perfecto para escritorios o viajes\nIdea de regalo divertida o iniciador de conversación en una fiesta.\nDiseñado para un montaje rápido y sencillo\nEditar:\nAgregué un segundo modelo para Catapult que es un poco más delgado para que sea más fácil dosificar la fuerza de tus disparos.\n\n¡Salud!",
+ "use_cases": [],
+ "tags": [
+  "pong de cerveza",
+  "bierpong",
+  "apestar",
+  "taza roja",
+  "taza",
+  "miniatura",
+  "fiesta",
+  "dama",
+  "pong de alcohol",
+  "bebida alcohólica"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US67a5c3ab90c79e/design/2025-06-18_d5ac935b0a341.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.gif",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.gif": [
+   800,
+   450
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   749
+  ],
+  "previews/05.jpg": [
+   1000,
+   749
+  ],
+  "previews/06.gif": [
+   800,
+   450
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1603761.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1618241.jpg": [
+   600,
+   352
+  ],
+  "previews/profiles/1603771.jpg": [
+   600,
+   352
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

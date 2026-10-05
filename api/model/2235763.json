@@ -1,0 +1,141 @@
+{
+ "files": [
+  {
+   "path": "model/pokemon-x-22h30.3mf.xz",
+   "instance_id": "2433047",
+   "thumbnail": "previews/profiles/2433047.jpg",
+   "print_time_h": 22.5,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D",
+    "H2S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "H2系列使用，一盘直出（第一盘）",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 39825508,
+   "sha256": "15883055c1527973bf6d1682b18e48ee7039f967f26e14d4718a6bef88ed39a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pokemon-x-23h18.3mf.xz",
+   "instance_id": "2433165",
+   "thumbnail": "previews/profiles/2433165.jpg",
+   "print_time_h": 23.3,
+   "plates": 3,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "APX系列使用,更改方向需要同步更改填充角度",
+    "profile_notes": "因为上传的时候不允许这么激进的切片所以分了3盘 实际上第二盘可以拼到第一盘里一起打印 更改方向需要同步更改填充角度",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 34664368,
+   "sha256": "395d4b58ad43726186d46fdc06dd41f91a52271d86bcee5547cc6fa3cb1decac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2235763",
+ "title": "Pokémon x Mahjong Completa 144 fichas Pokémon x Mahjong",
+ "slug": "pokemon-x-mahjong-complete-144-tiles-pokemon-x-mah",
+ "url": "https://makerworld.com/en/models/2235763-pokemon-x-mahjong-complete-144-tiles-pokemon-x-mah",
+ "author": "byronbai",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "ImpulsameSi te gusta este proyecto, ¡dame un pequeño me gusta y un impulso! 5.29\nTenga en cuenta que el uso de la última versión beta de Studio para cortar puede provocar la pérdida de negro en la parte posterior. Utilice la versión oficial no beta para cortar\n\nActualización 2.26\nAunque recientemente no he tenido mucho tiempo ni buenas ideas para una caja de almacenamiento de mahjong, encontré una solución de caja de almacenamiento relativamente perfecta en MakerWorld y, con el permiso del autor, por la presente hago referencia a ella: Botiquín médico de emergencia para el hogar de Naxiazizao Centro Pokémon Pokémon Diseño de Pokémon Go MB1914-02\nDespués de escalar este botiquín médico estilo Centro Pokémon en un 113%, su interior se adapta perfectamente a las necesidades de almacenamiento de un juego completo de 144 mosaicos. Después de escalar, la cavidad interior mide 215,6* 160,2, cada ficha mide 43*32*21 y cada capa contiene 5*4 para un total de 20 fichas de mahjong, que miden 215*160.\nSolo he verificado que la caja puede contener completamente una capa de 20 fichas de mahjong. Los usuarios interesados pueden verificarlo completamente.\n1.16 Actualización\nSiguiendo las fichas numéricas anteriores, este es el paquete complementario para mahjong con temática Pokémon, que incluye todas las fichas de honor (fichas de viento, fichas de dragón) y fichas de flores. El set completo de mahjong contiene 42 Pokémon diferentes\nFilosofía de diseño:\nDragon Tiles: Pikachu, como núcleo absoluto, encarna el \"Dragón Rojo\" (rayo rojo), Meowth, que trae riqueza, representa el \"Dragón Verde\" (fortuna), y la forma original de Eevee significa las infinitas posibilidades del \"Dragón Blanco\" (pizarra en blanco).\nWind Tiles: Pokémon míticos cuidadosamente seleccionados de las últimas entradas de la Pokédex de las generaciones 1 a 4: Mew (Este), Celebi (Sur), Deoxys (Oeste), Arceus (Norte).\nFlower Tiles: Compuesto por la familia Eevee, los 8 mosaicos de flores corresponden a las 8 evoluciones de Eevee, intentando combinar la esencia de la cultura tradicional china: Primavera Verano Otoño Invierno: Trueno (trueno de primavera), Fuego (fuego de verano), Agua (agua de otoño), Hielo (hielo de invierno)\nCrisantemo de bambú de orquídea ciruela: Sylveon (ciruela de hadas), Umbreon (orquídea oscura), Leafeon (bambú), Espeon (crisantemo dorado)\n\nEste es un conjunto de fichas de mahjong impresas en 3D que combina la cultura tradicional china con elementos Pokémon. Dentro del pequeño espacio del mosaico de mahjong #44, el estilo clásico de Pixel art está altamente restaurado utilizando tecnología de apilamiento multicolor.\nNota importante: en teoría, este proyecto admite impresoras 3D de cualquier tamaño, incluida la A1 mini. Sin embargo, debido al número limitado de colores, se debe utilizar un sistema AMS dual.\nInspiración de diseño: reconstrucción del Pokémon inicial\nEl núcleo del mahjong consta de tres fichas de palo: \"Bambú\", \"Personajes\" y \"Puntos\". Como jugador, esto instintivamente me hizo pensar en los \"Pokémon iniciales\" de Pokémon. En base a esto, construí un nuevo marco lógico:\nFichas de personajes = Tipo de fuego\nAzulejos de puntos = Tipo de agua\nAzulejos de bambú = tipo de hierba\nEtapas evolutivas:\nDentro de un mismo tipo, los números del 1 al 9 corresponden a Pokémon de diferentes generaciones y formas evolutivas. Tomando como ejemplo las fichas tipo fuego:\n1-2-3: Charmander, Cyndaquil, Forma base de Torchic\n4-5-6: Charmeleon, Quilava, Combusken 1ª Evolución\n7-8-9: Charizard, Typhlosion, Blaziken Evolución final\nActualmente, hay 27 diseños diferentes de Pixel art de Pokémon en los 3 mosaicos de trajes. Los íconos de atributos, números y patrones de Pokémon presentan un diseño en relieve con detalles empotrados y bordes biselados para garantizar una sensación cómoda al tocar las fichas.\nProceso de apilamiento multicolor\nEste juego de mahjong utiliza un esquema de apilamiento de 4 capas y 8 colores, con una altura de cada capa de 0,1 mm. Cada píxel tiene sólo 1 mm de ancho\nEl número de cambios de color para H2C es 75 y para una máquina de una sola boquilla, alrededor de 130. Este número de cambios de color es relativamente bajo para un modelo multicolor.\nLos 8 colores de filamentos son Bambu Lab PLA Basic, compuestos de CMYKWRGB, que son:\ncian\nMagenta\namarillo\nnegro\nBlanco Jade\nrojo\nBambú Verde\nazul\nGracias a WoColor8 por brindar soporte técnico para el apilamiento de varios colores.\nLos amigos a quienes les guste pueden agregarlo a su lista de deseos en la página de la tienda Steam.\nRequisitos de hardware y filamentos\nEquipo: cualquier modelo que admita AMS dual (los modelos más pequeños pueden requerir reorganizar las placas)\nBoquilla: Una boquilla de 0,4 mm es suficiente (para una calidad de superficie extrema, puedes probar con una boquilla de 0,2 mm, pero no lo he verificado)\nPlaca de construcción: asegúrese de limpiar la placa de construcción y aplique pegamento si es necesario. En invierno, la probabilidad de deformaciones y problemas de calidad de la primera capa aumenta considerablemente al imprimir.\nImprimir perfil\nPerfil preconfigurado: todos los parámetros están incluidos en el archivo 3mf. Para lograr resultados similares al mío no se recomienda modificar ningún parámetro\nActualmente, sólo hay 27 mosaicos. Para imprimir un juego completo de mahjong, necesitas imprimir 4 veces\nAdvertencia de escala: puede reorganizar libremente las placas, pero si amplía la impresión, no modifique la altura del eje Z, de lo contrario, dañará el mult.",
+ "use_cases": [],
+ "tags": [
+  "pokémon",
+  "dominó chino",
+  "juego de mesa",
+  "multicolor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US585b14e41af64e/design/2026-01-12_67afae2386458.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2433047.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2433165.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,496 @@
+{
+ "files": [
+  {
+   "path": "model/rompecabezas-tetris-1h06.3mf.xz",
+   "instance_id": "593302",
+   "thumbnail": "previews/profiles/593302.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 46,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Cover with solution inside",
+    "profile_notes": "When you ran out of time, you need to store the tetris puzzle and you struggle to find the solution, I have printed one inside the cover that you can easily. Some ingraved lines show one solution.",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4027,
+      "weight_g": 44.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5C5C5C"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1436732,
+   "sha256": "6f27c73f3d285ff21fe1d31e04905120773b28d7d7baec40785f8749ec048020",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-tetris-4h30.3mf.xz",
+   "instance_id": "3105153",
+   "thumbnail": "previews/profiles/3105153.jpg",
+   "print_time_h": 4.5,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2D",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "H2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2097984,
+   "sha256": "e472746ae4d8ebbe922f612a574996cfc8eeec54faed78e2108ead933415fb32",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-tetris-6h06.3mf.xz",
+   "instance_id": "889419",
+   "thumbnail": "previews/profiles/889419.jpg",
+   "print_time_h": 6.1,
+   "plates": 16,
+   "rating": 4.9,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2024-12-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5479,
+      "weight_g": 46.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1067,
+      "weight_g": 5.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1084,
+      "weight_g": 5.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1085,
+      "weight_g": 5.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1214,
+      "weight_g": 6.88,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1094,
+      "weight_g": 5.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1272,
+      "weight_g": 6.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1095,
+      "weight_g": 5.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 600,
+      "weight_g": 1.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 601,
+      "weight_g": 1.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 601,
+      "weight_g": 1.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 596,
+      "weight_g": 1.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 602,
+      "weight_g": 1.44,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 603,
+      "weight_g": 1.44,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 603,
+      "weight_g": 1.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4349,
+      "weight_g": 50.8,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 16
+   },
+   "name": "Impresión en PLA",
+   "size": 2044324,
+   "sha256": "1b1396c426b47bb7afe7cfd8f063b56b155a00a3e094364aec04f7d06821c6d5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-tetris-6h36.3mf.xz",
+   "instance_id": "1377541",
+   "thumbnail": "previews/profiles/1377541.jpg",
+   "print_time_h": 6.6,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Colored Tetris",
+    "profile_notes": "Colored Logo+Colored Pieces Red, White, Blue, Green",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 1573140,
+   "sha256": "487e75d4ce75e29796a7b40651d598e425163c790f873adcb90544864470c55e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-tetris-multicolor-1h36.3mf.xz",
+   "instance_id": "1412565",
+   "thumbnail": "previews/profiles/1412565.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 35,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Base Only with No Pause, 2 Colors, AMS",
+    "profile_notes": "Tetris Base Only with No Pause, 2 Colors, AMS So you can print from Bambu Handy App using AMS and not have to worry about the Pause to change filament as in the original design",
+    "creation_date": "2025-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1554244,
+   "sha256": "5e80c6c8607e8f33160b9a2d062f3b0ba7501c132ec2119d37a40e825acbde4f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "522980",
+ "title": "rompecabezas de tetris",
+ "slug": "tetris-puzzle",
+ "url": "https://makerworld.com/en/models/522980-tetris-puzzle",
+ "author": "Vejstrk",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "Juega tu Tetris favorito en forma física.\nPuedes regalárselo a un amigo o familiar.\nLos rompecabezas no tienen una sola solución.\nImprime más formas y usa tu creatividad.\n\nActualización 14.7.2024\nFunda añadida para almacenamiento y transporte.",
+ "use_cases": [],
+ "tags": [
+  "tetris",
+  "juego",
+  "rompecabezas",
+  "rompecabezas 3d",
+  "viejo",
+  "vieja escuela",
+  "ladrillo",
+  "divertido",
+  "historia",
+  "estilo",
+  "juego mental"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-07-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfe66bca246062f/design/2024-07-03_c15258a6c63f4.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/593302.jpg": [
+   600,
+   629
+  ],
+  "previews/profiles/3105153.jpg": [
+   600,
+   607
+  ],
+  "previews/profiles/889419.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1377541.jpg": [
+   600,
+   589
+  ],
+  "previews/profiles/1412565.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

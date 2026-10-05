@@ -1,0 +1,173 @@
+{
+ "files": [
+  {
+   "path": "model/juego-equilibrio-8h54.3mf.xz",
+   "instance_id": "1951464",
+   "thumbnail": "previews/profiles/1951464.jpg",
+   "print_time_h": 8.9,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 5317040,
+   "sha256": "9d617950a0f609f21ccd6081f173af44e51d103c97cdc9f645609e7a654e0a58",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-equilibrio-10h42.3mf.xz",
+   "instance_id": "1951467",
+   "thumbnail": "previews/profiles/1951467.jpg",
+   "print_time_h": 10.7,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 87,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "A1mini-0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "A1mini-0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3538200,
+   "sha256": "01d7b1d2a88018f919c53cda48b9c9b1bbb0f9b8aefc91143b16b797e3c6dc69",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1827785",
+ "title": "Juego de equilibrio Stickman con caja.",
+ "slug": "stickman-balance-game-with-box",
+ "url": "https://makerworld.com/en/models/1827785-stickman-balance-game-with-box",
+ "author": "3dcrabi",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Hola, creé un juego de equilibrio con una figura, las apilas una encima de la otra en forma de pirámide, el que cae pierde. También viene con una bonita caja con capacidad para unas 80 figuras. Disfrutar",
+ "use_cases": [],
+ "tags": [
+  "hombre palo",
+  "balance",
+  "clasificar",
+  "clasificación",
+  "equilibrio",
+  "juego",
+  "juegos",
+  "caja",
+  "juguete",
+  "juguetes",
+  "niño",
+  "niños"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfbae596de6f4f9/design/2025-09-25_ab2d44d7c21c1.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1951464.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1951467.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "files": [
+  {
+   "path": "model/juego-beber.3mf.xz",
+   "instance_id": "693579",
+   "thumbnail": "previews/profiles/693579.jpg",
+   "print_time_h": 3.9,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 124,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.28mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7823,
+      "weight_g": 89.42,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6337,
+      "weight_g": 64.71,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 517052,
+   "sha256": "36fe6fa8e546e3981cef9202224f9e4b13ca0b4968d70c20dfe923002404d402",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "759099",
+ "title": "Juego de beber Ring Toss",
+ "slug": "ring-toss-drinking-game",
+ "url": "https://makerworld.com/en/models/759099-ring-toss-drinking-game",
+ "author": "Big_Ben_S",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Vi este juego de bar hecho de madera, así que quise diseñarlo en 3D como un proyecto impreso. Todo lo que necesitas es medir la cuerda desde los anillos superiores hasta el anillo más grande que está en el gancho en el medio y atarlo a cada uno. Se coloca un vaso de chupito en el espacio medio y cada movimiento y gancho exitoso mueve el vaso hacia el siguiente espacio. Una vez que el vaso se mueve completamente hacia el lado del otro jugador, este debe realizar el tiro. ¡A mis hijos les encanta jugar con Dr. Pepper! Disfrutar.",
+ "use_cases": [],
+ "tags": [
+  "lanzamiento de anillo",
+  "juegos de beber",
+  "juego de mesa"
+ ],
+ "license": "BY-NC",
+ "release_date": "2024-11-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4932a3bb29a574/design/2024-11-18_8eb1a7237324c.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.gif": [
+   360,
+   202
+  ],
+  "previews/profiles/693579.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/juego-ninos.3mf.xz",
+   "instance_id": "1408396",
+   "thumbnail": "previews/profiles/1408396.jpg",
+   "print_time_h": 12.4,
+   "plates": 9,
+   "rating": 4.9,
+   "rating_count": 42,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 25% infill",
+    "profile_notes": "- 0.2 layer height - 3 wall loops for strength to the pins - 25% infill for the blocks for extra weight - 15% infill for the main board",
+    "creation_date": "2025-04-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "photos": 9
+   },
+   "name": "Versión estándar",
+   "size": 1546792,
+   "sha256": "4536f3be48b7cae8b7c3731ce04b493ba5d20b6070a905575ca64c1d0837a52e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1363218",
+ "title": "Juego para niños estilo Tetris",
+ "slug": "tetris-style-kids-game",
+ "url": "https://makerworld.com/en/models/1363218-tetris-style-kids-game",
+ "author": "Toml2003",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "Juego de apilamiento estilo Tetris para niños. Muy colorido y divertido de jugar.\n\nTodos los bloques originales con forma de Tetris se deslizan muy bien hacia arriba y hacia abajo. Los pies se quitan para encajar en la parte superior y mantener todos los bloques en su lugar para un almacenamiento plano.\n\nLa solución está en la parte posterior para que nunca la olvides para guardarla. Creo que solo hay 2 formas de completarlo (hacia arriba y al revés; 4 formas si lo reflejas horizontalmente, pero necesitarás una pieza adicional del bloque L y del bloque Z, ya que solo se requieren 5 de una mano determinada)\n\nTiene 150 mm de ancho x 236 mm de alto. Desafortunadamente, eso significa que no está disponible para el A1 mini.\nImpúlsamePor favor considera impulsarme. Este es mi primer proyecto y estoy planeando más.",
+ "use_cases": [],
+ "tags": [
+  "niños",
+  "juegos",
+  "juguete",
+  "rompecabezas",
+  "tetris",
+  "apilado"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe058bd9bc426e1/design/2025-04-27_309213627ec608.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1408396.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

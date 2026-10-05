@@ -1,0 +1,364 @@
+{
+ "files": [
+  {
+   "path": "model/juego-futbolin-9h54.3mf.xz",
+   "instance_id": "1314384",
+   "thumbnail": "previews/profiles/1314384.jpg",
+   "print_time_h": 9.9,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 84,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Table Football Game",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill The stadium and the brackets require (easy to remove) supports. They are included in the print profile. Plate with Stadium is needed 2 times Plate with Bar is needed 4 times Plate with Grips&Caps is needed 1 time Players are needed 2 times (in 2 different colors) Plate with Goalkeeper is needed 2 times (shape of goalkeeper and players is identical) Plate with Ball is needed 1 time Plate with Score Bracket is needed 2 times",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 5436368,
+   "sha256": "d9ac829244f641f22ff9575c08672f12719110c6cf9f0379b1546cb887b9bb4a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-17h30.3mf.xz",
+   "instance_id": "3197737",
+   "thumbnail": "previews/profiles/3197737.jpg",
+   "print_time_h": 17.5,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Optimized for H2 Series + Textures added",
+    "profile_notes": "Organized the objects so they print in less plates, some by object to avoid wastes. Also added fuzzy skin to the handles, the GKs and a few other parts for better appearance and handling.",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 6559592,
+   "sha256": "1c276a0d00a7abc7b7ebf461570b69beb9131ffb4dd8a710009335e04301ae35",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-1h24.3mf.xz",
+   "instance_id": "3197735",
+   "thumbnail": "previews/profiles/3197735.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "A1",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Gremio Team Set",
+    "profile_notes": "VAMO GREMIO!",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2027732,
+   "sha256": "5177ae96cd5a40ca1db85468d4f513b4598fd6d07d6fc6ba386c543d31f9e0ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-1h36.3mf.xz",
+   "instance_id": "2155677",
+   "thumbnail": "previews/profiles/2155677.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "足球场 0.2mm layer, 1 walls, 100% infill",
+    "profile_notes": "我给底面增加了足球场，这样球就不会乱跑了。 需要打印两个，然后用胶水粘连在底部。",
+    "creation_date": "2025-11-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1714684,
+   "sha256": "4d5d4c70c596af53427f1dc5eca8b41b4833bc083cab6613e8f8e7b18d2a1c76",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-2h06.3mf.xz",
+   "instance_id": "1602509",
+   "thumbnail": "previews/profiles/1602509.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1 mini",
+    "A1",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Table Football Game - Extension",
+    "profile_notes": "Make your football game longer with 2 bars (or more!), so you can play with multiple people at once. 0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-06-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1764936,
+   "sha256": "23f0dfb4965b05fb72e624154a618affc0822f88cda1de7dd545a55ced639027",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-5h42.3mf.xz",
+   "instance_id": "1499826",
+   "thumbnail": "previews/profiles/1499826.jpg",
+   "print_time_h": 5.7,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P1S",
+    "X1E",
+    "H2D",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "TableFootball A1 mini",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill The stadium and the brackets require (easy to remove) supports. They are included in the print profile. Plate with Stadium is needed 2 times Plate with Bar is needed 4 times Plate with Grips&Caps is needed 1 time Players are needed 2 times (in 2 different colors) Plate with Goalkeeper is needed 2 times (shape of goalkeeper and players is identical) Plate with Ball is needed 1 time Plate with Score Bracket is needed 2 times",
+    "creation_date": "2025-05-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 5
+   },
+   "name": "Versión mini",
+   "size": 5427636,
+   "sha256": "d03343e33231d89d99373945af246ae36a7b22d733e1f398bd2061028ca23092",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1285408",
+ "title": "Juego de futbolín",
+ "slug": "table-football-game",
+ "url": "https://makerworld.com/en/models/1285408-table-football-game",
+ "author": "euosjad",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Disfrute de este divertido juego de futbolín fácil de imprimir, cuidadosamente diseñado para un montaje sencillo y una excelente jugabilidad.\nEl “estadio” consta de dos partes idénticas que se deslizan juntas sin esfuerzo.\nLas barras, los reproductores, las empuñaduras y las tapas son fáciles de ensamblar con 20 tornillos autorroscantes (disponibles en Maker's Supply de Bambu Lab).\nLos soportes de puntuación encajan firmemente en su lugar.\nLa pelota está diseñada en tres partes para una impresión suave y sin soporte.\nPara una mejor estabilidad, aplique 4 tiras de esponja de espuma adhesiva (también disponibles en Maker's Supply) para evitar que se deslice durante el juego.\n\n¡Personaliza los colores para que coincidan con tu estilo y disfruta del juego!\n\nDimensiones:\nEstadio: 450x247x68mm\nLongitud de la varilla con empuñaduras: 415 mm.\nDiámetro de la bola: 25 mm.",
+ "use_cases": [],
+ "tags": [
+  "mini",
+  "fútbol americano",
+  "juego",
+  "juguete",
+  "3d",
+  "imprimir",
+  "descargar",
+  "artilugio",
+  "divertido",
+  "futbolín",
+  "pelota",
+  "fútbol"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa7be9fc6cdc06d/design/2025-04-08_032d0e017e2128.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.gif",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   600,
+   402
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/11.gif": [
+   600,
+   449
+  ],
+  "previews/12.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/1314384.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3197737.jpg": [
+   600,
+   356
+  ],
+  "previews/profiles/3197735.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2155677.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1602509.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1499826.jpg": [
+   800,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

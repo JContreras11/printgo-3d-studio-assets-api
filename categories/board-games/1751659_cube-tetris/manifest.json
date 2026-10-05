@@ -1,0 +1,331 @@
+{
+ "files": [
+  {
+   "path": "model/tetris-cubo-8h54.3mf.xz",
+   "instance_id": "1862258",
+   "thumbnail": "previews/profiles/1862258.jpg",
+   "print_time_h": 8.9,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 49,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Cube Tetris A1 AMSv2",
+    "creation_date": "2025-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 38289900,
+   "sha256": "f4a7d8a55fdf7f8e6502e13e10d553da94f1159bcb746e1d50bd5d61c0904660",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-cubo-1h30.3mf.xz",
+   "instance_id": "2672873",
+   "thumbnail": "previews/profiles/2672873.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "voici un couvercle pour le cube afin de le déplacer sans le casser",
+    "creation_date": "2026-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 38571004,
+   "sha256": "cbadf41aeddc0258d5b6a191f383e4f4353388d14f750264081ba7c72fe30305",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-cubo-2h.3mf.xz",
+   "instance_id": "1862271",
+   "thumbnail": "previews/profiles/1862271.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 66,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Box pieces",
+    "creation_date": "2025-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 38086396,
+   "sha256": "2dac35be1e0b07003e8c89256a4c822186a306b4c7c19bf36b7753658c9e0bc2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-cubo-42min.3mf.xz",
+   "instance_id": "1973630",
+   "thumbnail": "previews/profiles/1973630.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Transparent cover for Cube Tetris",
+    "profile_notes": "I created this lid for the Tetris cube so I can move it without the pieces falling off. Basic profile with a 0.20mm layer height 2 wall layers Easy to print No supports required I printed it with transparent PLA filament; you can also use translucent PTEG.",
+    "creation_date": "2025-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 38084852,
+   "sha256": "608cbe5d21128d9325f02d97928b03897695d36dfd34b723667266d32ce5d95b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-cubo-7h42.3mf.xz",
+   "instance_id": "1862270",
+   "thumbnail": "previews/profiles/1862270.jpg",
+   "print_time_h": 7.7,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 71,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Cube Tetris A1 NO AMSv2",
+    "creation_date": "2025-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 38556000,
+   "sha256": "d3a9b69ee860888d701214d6403d48d494d8f48ac6e6ccc217795b6c8e23a72f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tetris-cubo-9h18.3mf.xz",
+   "instance_id": "1862264",
+   "thumbnail": "previews/profiles/1862264.jpg",
+   "print_time_h": 9.3,
+   "plates": 8,
+   "rating": 4.8,
+   "rating_count": 25,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "A1",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Cube Tetris A1 mini NO AMSv2",
+    "creation_date": "2025-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión mini",
+   "size": 38574204,
+   "sha256": "c5c6dfbcd6b7a6b8ca4f2a5dfd6503e6fe3786ed08d4cf7061982df19ed75bac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1751659",
+ "title": "Tetris cubo",
+ "slug": "cube-tetris",
+ "url": "https://makerworld.com/en/models/1751659-cube-tetris",
+ "author": "StratoLab",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "Cube Tetris: el rompecabezas 3D definitivo\nCube Tetris es un rompecabezas tridimensional que combina el encanto atemporal del Tetris con el desafío de los juegos de lógica en 3D.\nUn cubo colorido formado por 128 bloques, divididos en todas las formas clásicas del Tetris.\n\nCaracterísticas principales\n14 piezas S (verde)\n18 piezas (cian)\n20 piezas O (amarillas)\nPiezas de 17 L (azul)\n18 piezas J (naranja)\n13 piezas Z (rojas)\n28 T piezas (morado)\nCada pieza está formada por 4 bloques de 6,5 × 6,5 × 6,5 mm.\nTotal: 128 bloques de colores.\nImpresión 3D\nOptimizado para perfiles AMS y no AMS.\nRequiere pegar algunas piezas para la versión final.\nBase inclinada diseñada para facilitar el posicionamiento y montaje.\nDiseño compacto con caja de almacenamiento para mantener todas las piezas de forma mixta.\nDiseño y funcionalidad\nExperiencia inmersiva: construye y reconstruye el cubo en infinitas combinaciones.\nColor y creatividad: cada forma refleja la paleta clásica de Tetris.\nJuego + decoración: un rompecabezas estimulante que también funciona como pieza de decoración única.\nDificultad escalable: adecuado tanto para principiantes como para amantes de los rompecabezas.\nPerfecto para\nAmantes de los juegos de lógica y rompecabezas.\nCreadores y diseñadores amantes de los proyectos multicolor.\nCualquiera que busque un regalo original y divertido.\nColeccionistas de objetos únicos impresos en 3D.\nTambién puedes encontrar el archivo PDF con la solución completa.",
+ "use_cases": [],
+ "tags": [
+  "cubetetris",
+  "tetris",
+  "rompecabezas 3d",
+  "caja de rompecabezas 3d",
+  "juego impreso en 3d",
+  "rompecabezas de lógica",
+  "rompecabezas",
+  "acertijos",
+  "tetriscubo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa0f871ab53834/design/2025-08-31_600cb9d09a88c8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1862258.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2672873.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1862271.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1973630.jpg": [
+   600,
+   499
+  ],
+  "previews/profiles/1862270.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1862264.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

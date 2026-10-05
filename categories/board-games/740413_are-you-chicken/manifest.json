@@ -1,0 +1,269 @@
+{
+ "files": [
+  {
+   "path": "model/eres-pollo.3mf.xz",
+   "instance_id": "672801",
+   "thumbnail": "previews/profiles/672801.jpg",
+   "print_time_h": 22.9,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8985,
+      "weight_g": 80.24,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6169,
+      "weight_g": 30.94,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22036,
+      "weight_g": 158.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17792,
+      "weight_g": 72.37,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8750,
+      "weight_g": 40.5,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8546,
+      "weight_g": 38.5,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8747,
+      "weight_g": 37.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7D959"
+       },
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1574,
+      "weight_g": 5.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 8
+   },
+   "name": "Multicolor",
+   "size": 8280236,
+   "sha256": "6297c2ba4cad6bd61fac5f63a291bb0f95b01a2bdff533e1d7ebbfbc61273039",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "740413",
+ "title": "¿Eres pollo?",
+ "slug": "are-you-chicken",
+ "url": "https://makerworld.com/en/models/740413-are-you-chicken",
+ "author": "Dr_Operator",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¿Por qué la gallina cruzó la calle? Para ganar el juego obviamente.\n\n¿Eres pollo? es un nuevo juego de mesa en el que los jugadores compiten para ser el primer pollo en cruzar con vida una concurrida carretera de cuatro carriles.\n\nJUEGO:\n2-5 jugadores\nEl jugador con el mejor baile del pollo va primero.\nUno a la vez, los jugadores tiran un dado y se mueven el número correspondiente de espacios.\nLos jugadores pueden moverse en cualquier dirección.\nSi tu medidor de salud se agota y tu luz se apaga, debes reaparecer en la línea de salida.\nEl primer pollo que cruce la calle gana.\nDivertirse.\n\nCada pieza del juego tiene una luz LED de control magnético Switch única de diferente color ubicada en la base que representa el medidor de salud de esa pieza. Cuanto más rápido parpadee tu luz, más salud tendrás. Si bien la resistencia natural de un pollo al impacto a alta velocidad puede ayudar, no los hace invencibles. Si te atropellan tres autos antes de llegar al otro lado, tu medidor de salud se agotará, tu luz se apagará y tendrás que reaparecer en la línea de salida.\n\nAl colocar el LED en la base, asegúrese de que esté hacia abajo como se ve arriba. Después de colocar la pieza del juego en la base, gírela para fijarla en su lugar.\n\nLos coches están representados por imanes que se insertan en paneles que se deslizan dentro y fuera de la parte posterior del tablero. Antes de cada juego, puedes sacar los paneles, colocarlos boca abajo sobre la mesa y mezclarlos antes de volver a colocarlos sin mirar la posición del imán. Esto asegura que cada juego será diferente.\n\nTan pronto como un jugador coloque su pieza del juego en la línea de salida, su medidor de salud se llenará. Si bien es posible que no puedas ver los autos a medida que avanzas en todos los ámbitos, definitivamente lo sentirás cuando te golpeen. En el siguiente vídeo puedes ver una demostración de cómo se ve afectado el medidor de salud de una pieza del juego cuando es atropellada por un “coche”.",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "juego",
+  "pollo",
+  "juguete",
+  "led",
+  "imán",
+  "dados",
+  "auto",
+  "ams",
+  "bambu lab"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US945db57b5471b3/design/2024-10-29_c19f3f61331b4.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   638
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1013
+  ],
+  "previews/04.jpg": [
+   1000,
+   1078
+  ],
+  "previews/profiles/672801.jpg": [
+   600,
+   590
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

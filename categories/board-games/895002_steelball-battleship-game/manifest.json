@@ -1,0 +1,544 @@
+{
+ "files": [
+  {
+   "path": "model/juego-batalla-3h48.3mf.xz",
+   "instance_id": "852733",
+   "thumbnail": "previews/profiles/852733.jpg",
+   "print_time_h": 3.8,
+   "plates": 6,
+   "rating": 4.5,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "A2L",
+    "P2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "BATTLESHIP PROFILE",
+    "profile_notes": "Improved ball basket and more resistant ship support",
+    "creation_date": "2025-02-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1995,
+      "weight_g": 7.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2699,
+      "weight_g": 27.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2886,
+      "weight_g": 21.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2846,
+      "weight_g": 15.66,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1818,
+      "weight_g": 11.7,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 867,
+      "weight_g": 2.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Impresión en PLA",
+   "size": 6385104,
+   "sha256": "82ce15130e256b14dd22525c7e26abf78734e4741273f64a658dcada7864a93b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-batalla-2h12.3mf.xz",
+   "instance_id": "1118024",
+   "thumbnail": "previews/profiles/1118024.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2S",
+    "P2S",
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "redesigned ship supprt, more stable, compatible ships",
+    "profile_notes": "more robust ship support, printed with 3 layers and PETG, smooth surfaces 5mm higher support, therefor ships must have 5mm higher “flag”. Added all prolonged ships for compatibility.",
+    "creation_date": "2025-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7615,
+      "weight_g": 36.81,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 6131048,
+   "sha256": "7b9d0b0f40859fcb6aa6d72df8af5126f2860760fe5c358cfd2217a17167c7bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-batalla-3h36.3mf.xz",
+   "instance_id": "992421",
+   "thumbnail": "previews/profiles/992421.jpg",
+   "print_time_h": 3.6,
+   "plates": 6,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "P2S",
+    "H2D",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "PROFILE FOR A1 MINI VERSION",
+    "profile_notes": "I cut the long pieces into two pieces to fit on the A1 MINI table.",
+    "creation_date": "2025-02-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1848,
+      "weight_g": 6.44,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2791,
+      "weight_g": 18.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2722,
+      "weight_g": 24.15,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2593,
+      "weight_g": 14.95,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1712,
+      "weight_g": 11.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 839,
+      "weight_g": 2.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 6257892,
+   "sha256": "bc3733a4f9471f28ae4c3140601545e1c3fbf78b5a6a75df0e92b30da7a6aebf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-batalla-5h48.3mf.xz",
+   "instance_id": "1193442",
+   "thumbnail": "previews/profiles/1193442.jpg",
+   "print_time_h": 5.8,
+   "plates": 10,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 Mini Expanded Improved Profile for SBBS",
+    "profile_notes": "SteelBall Battleship is fully blown out for the A1 Mini in this Profile. Default Settings A1 Mini .4mm PLA Basic (any) Changes from the original include: Thicker Sea Bars don't sag and are easier to glue together at the center. Modified Carrier Target Sections to accommodate the thicker Sea Bars. Other ships not affected. Sea Bars are easier to glue together at the center. Changed the “Trunks” or “Gutters” geometry slightly to make them stronger at the gluing points and easier to glue together at the center. Also, lowered the front edge of the Gutters so balls and targets actually go in them! Added Side Rails to keep balls on the base board (you provide this a base board). Added Custom Storage Boxes to fit all game parts in the corners of a base board (you provide this a base board). Included 7mm x 4.5 mm discs to use as Magnet Stands to mount 6x3mm Disc Magnet closures to the Storage Boxes. Added Tweezers to help with picking up and setting Targets on the Sea Bars. Made a cool video to demonstrate:",
+    "creation_date": "2025-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1902,
+      "weight_g": 6.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2846,
+      "weight_g": 20.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2308,
+      "weight_g": 20.47,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2575,
+      "weight_g": 14.87,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1643,
+      "weight_g": 11.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 838,
+      "weight_g": 2.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4944,
+      "weight_g": 46.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 553,
+      "weight_g": 0.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1710,
+      "weight_g": 10.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1095,
+      "weight_g": 6.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 10
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 7749784,
+   "sha256": "f0a454f0f7e6594ee1040b33325bd73357a82a380964a3253caa0d6e03830467",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "895002",
+ "title": "JUEGO DE BATALLA DE ACERO",
+ "slug": "steelball-battleship-game",
+ "url": "https://makerworld.com/en/models/895002-steelball-battleship-game",
+ "author": "mauricioduarte",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Da vida a la emoción de las batallas navales con STEELBALL BATTLESHIP GAME, una versión única del juego clásico. Lanza esferas de acero con precisión desde tu cañón para atacar y hundir barcos enemigos en esta experiencia inmersiva de mesa. Diseñado para adaptarse a cualquier mesa nivelada, este kit adaptable incluye:\nUn potente cañón de esferas de acero para ataques precisos.\nUna flota completa con un portaaviones, dos submarinos y cuatro barcos para un juego estratégico.\nPara mayor personalización y compatibilidad, Steel Battleship Game está completamente integrado con el Maker's Beginner Kit de Maker's Supply, lo que te permite ampliar y personalizar tus batallas.\n¡Libera la emoción de la estrategia naval y los disparos de precisión en este juego de mesa único en su tipo!",
+ "use_cases": [],
+ "tags": [
+  "acorazado",
+  "naval",
+  "batalla",
+  "juego",
+  "bola de acero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9232f23b4c52a/design/33f84779de70edce.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.gif",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   619
+  ],
+  "previews/02.jpg": [
+   1000,
+   583
+  ],
+  "previews/03.jpg": [
+   1000,
+   649
+  ],
+  "previews/04.gif": [
+   1200,
+   800
+  ],
+  "previews/05.jpg": [
+   1000,
+   584
+  ],
+  "previews/06.jpg": [
+   1000,
+   664
+  ],
+  "previews/profiles/852733.jpg": [
+   600,
+   371
+  ],
+  "previews/profiles/1118024.jpg": [
+   600,
+   489
+  ],
+  "previews/profiles/992421.jpg": [
+   600,
+   389
+  ],
+  "previews/profiles/1193442.jpg": [
+   600,
+   418
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

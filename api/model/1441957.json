@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/baloncesto-tic.3mf.xz",
+   "instance_id": "1500964",
+   "thumbnail": "previews/profiles/1500964.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "H2D",
+    "A1",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-05-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1081812,
+   "sha256": "849a17b0079ce82a31567c57a0b3fc7562d67da7191dd5cd40a219ebb82c377a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1441957",
+ "title": "Baloncesto Tic Tac",
+ "slug": "tic-tac-basketball",
+ "url": "https://makerworld.com/en/models/1441957-tic-tac-basketball",
+ "author": "woodbear",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost MeSi te divertiste construyendo o jugando con Tic Tac Basketball, considera dejar una pequeña propina para apoyar diseños más divertidos y creativos en el futuro. Todo ayuda y es realmente apreciado, ¡gracias! Tras el éxito de Tic Tac Basketball, ha nacido un nuevo juego de bolsillo: Tic Tac Labyrinth.\n\nTodo el mundo conoce los dulces Tic Tac. Cuando se anunció el concurso, pensé en lo que pasaría si cambiara las cosas y transformara un dispensador de dulces existente (en este funda, una caja de Tic Tac) en algo genial.\n\nAsí nació Tic Tac Basketball: un pequeño y divertido juego que puedes llevar en el bolsillo.\nPerfecto para viajes o para matar unos minutos de tiempo libre, ya que podrás llevar siempre contigo este juego de bolsillo.\n\nRápido y fácil de imprimir, y diversión garantizada durante mucho tiempo:)\n\nDiseñado para la caja estándar de 18 g.\n\nEl único posprocesamiento necesario es un pequeño corte en la caja.\n(4,5 mm x 8 mm / 0,18 pulgadas x 0,3 pulgadas) — vea la foto para más detalles.\n\nSi estás preparado para un desafío mayor y todavía te queda un Tic Tac, también puedes jugar este juego con eso. Es más difícil de anotar, pero pasa por el aro.;)",
+ "use_cases": [],
+ "tags": [
+  "cesta",
+  "pelota",
+  "tictac",
+  "tic tac",
+  "dulce",
+  "concurso",
+  "bolsillo",
+  "tamaño de bolsillo",
+  "baloncesto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US183ef5b91ae039/design/2025-05-21_9944b621b69c9.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   450,
+   800
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1500964.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

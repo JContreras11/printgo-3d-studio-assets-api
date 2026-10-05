@@ -1,0 +1,89 @@
+{
+ "files": [
+  {
+   "path": "model/descifre-codigo.3mf.xz",
+   "instance_id": "3488541",
+   "thumbnail": "previews/profiles/3488541.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "A2L",
+    "A1",
+    "A1 mini",
+    "P2S",
+    "X2D",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Complete Game + Pins",
+    "profile_notes": "Includes both build plates: the game board & storage box and all required pins. ℹ️ Print the pin plate multiple times using different filament colors to create a complete game set.",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1854796,
+   "sha256": "7c347d61884a22ff85d7e204d9a24c42ce0fc20f24a789920cc138c7fda02496",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3095527",
+ "title": "Descifre el código – Edición de viaje de bolsillo",
+ "slug": "crack-the-code-pocket-travel-edition",
+ "url": "https://makerworld.com/en/models/3095527-crack-the-code-pocket-travel-edition",
+ "author": "TimNooked",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Lleva el clásico juego de descifrar códigos a cualquier lugar! Esta versión de viaje compacta es perfecta para viajes por carretera, vuelos, cafeterías o simplemente para pasar el tiempo en casa.\nEl código oculto se guarda de forma segura dentro del estuche, mientras que el diseño de clavijas de estilo magnético mantiene todo organizado durante el juego. Cuando haya terminado, todas las clavijas encajan perfectamente dentro del compartimento de almacenamiento, lo que facilita su transporte en su bolso o bolsillo.\nCaracterísticas\nDiseño compacto de bolsillo\nJuego clásico de descifrar códigos\nAlmacenamiento incorporado para todas las clavijas\nPerfecto para viajes y viajes\nFácil de imprimir en 3D\nDiversión para todas las edades\nRecomendación de impresión\nPara obtener la mejor experiencia de juego, recomiendo imprimir:\n5 juegos de clavijas de diferentes colores\nClavijas de retroalimentación blancas\nClavijas de retroalimentación negras\nEsto le brinda suficientes piezas para crear cualquier código posible, incluidas combinaciones con colores repetidos.\n\nImpulsame Si disfrutas este modelo, ¡realmente agradecería que me dieras un Me gusta o un impulso! Ayuda a respaldar diseños futuros. Cómo jugar\nUn jugador crea un código secreto usando cuatro clavijas de colores y lo esconde dentro del compartimento.\nEl segundo jugador intenta adivinar el código. Después de cada suposición:\nClavija negra = Color correcto en la posición correcta.\nClavija blanca = Color correcto, pero en posición incorrecta.\n¿Podrás descifrar el código antes de que te quedes sin conjeturas?",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "juego",
+  "rompecabezas",
+  "lógica",
+  "juguete",
+  "minijuego",
+  "viajar",
+  "estrategia",
+  "compacto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4f6464240dddb9/design/85813581cc4e4035.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3488541.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

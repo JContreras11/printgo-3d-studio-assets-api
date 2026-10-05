@@ -1,0 +1,1203 @@
+{
+ "files": [
+  {
+   "path": "model/juego-torre-14h54.3mf.xz",
+   "instance_id": "264234",
+   "thumbnail": "previews/profiles/264234.jpg",
+   "print_time_h": 14.9,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 157,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm AMS version",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12124,
+      "weight_g": 98.69,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#118002"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9398,
+      "weight_g": 101.93,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11546,
+      "weight_g": 102.47,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1012,
+      "weight_g": 8.6,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#B3B3B3"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 18960,
+      "weight_g": 173.15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#191919"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 693,
+      "weight_g": 1.32,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 15446840,
+   "sha256": "3a4106ddc4dff47a90329235e2f853b419f5d5bf8745ddee47c263b8231f5d8e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-11h12.3mf.xz",
+   "instance_id": "268282",
+   "thumbnail": "previews/profiles/268282.jpg",
+   "print_time_h": 11.2,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "A1 Mini NO-AMS Gyroid infil",
+    "profile_notes": "You have to print Sausage Cheese and Pepperoni plate twice",
+    "creation_date": "2024-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6365,
+      "weight_g": 43.68,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#118002"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5178,
+      "weight_g": 45.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6660,
+      "weight_g": 47.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 916,
+      "weight_g": 6.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#B3B3B3"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20250,
+      "weight_g": 143.02,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#191919"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 785,
+      "weight_g": 1.16,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 15490628,
+   "sha256": "f7211a9dc2c7e75e04d556eae9de0f7fb1bd23d456a39881d846492367e4da41",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-11h24.3mf.xz",
+   "instance_id": "267128",
+   "thumbnail": "previews/profiles/267128.jpg",
+   "print_time_h": 11.4,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "A1 Mini AMS Gyroid Infil",
+    "profile_notes": "You have to print Sausage Cheese and Pepperoni plate twice",
+    "creation_date": "2024-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6380,
+      "weight_g": 43.68,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#118002"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5179,
+      "weight_g": 45.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6660,
+      "weight_g": 47.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 916,
+      "weight_g": 6.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#B3B3B3"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21057,
+      "weight_g": 146.1,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#191919"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 785,
+      "weight_g": 1.16,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 15669640,
+   "sha256": "f2dc0e186fc29fd5b00442438a211bc596e645eca79a78ab99a64a3050f54826",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-14h48.3mf.xz",
+   "instance_id": "264238",
+   "thumbnail": "previews/profiles/264238.jpg",
+   "print_time_h": 14.8,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "0.2mm Non-AMS versioni",
+    "profile_notes": "Non-AMS version with words embossed instead of printed in a different color.",
+    "creation_date": "2024-03-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12509,
+      "weight_g": 102.28,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#118002"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9523,
+      "weight_g": 102.66,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11988,
+      "weight_g": 107.24,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 974,
+      "weight_g": 8.5,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#B3B3B3"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17685,
+      "weight_g": 165.15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#333333"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 689,
+      "weight_g": 1.34,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 15501980,
+   "sha256": "2d68167d184fffe6fe2fb0e344797e6a7e87b76784218d83a1e902eb4a498014",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-25h36.3mf.xz",
+   "instance_id": "281127",
+   "thumbnail": "previews/profiles/281127.jpg",
+   "print_time_h": 25.6,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Colored Pizzas and Carrying Case 0.2mm",
+    "profile_notes": "Credit to the designer of this fun game. Uploading this profile as a I painted and colored the pizzas to look realistic. Within the profile is also a carrying case for the game to fit all the pieces within without the need of a box.",
+    "creation_date": "2025-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6452,
+      "weight_g": 32.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       },
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#00358E"
+       },
+       {
+        "type": "PLA",
+        "color": "#057748"
+       },
+       {
+        "type": "PLA",
+        "color": "#FCE300"
+       },
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       },
+       {
+        "type": "PLA",
+        "color": "#BB3D43"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14607,
+      "weight_g": 114.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#FCE300"
+       },
+       {
+        "type": "PLA",
+        "color": "#BB3D43"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19314,
+      "weight_g": 156.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4124,
+      "weight_g": 24.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#057748"
+       },
+       {
+        "type": "PLA",
+        "color": "#FCE300"
+       },
+       {
+        "type": "PLA",
+        "color": "#C00D1E"
+       },
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       },
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       },
+       {
+        "type": "PLA",
+        "color": "#BB3D43"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10665,
+      "weight_g": 109.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#FCE300"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15328,
+      "weight_g": 109.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#D3B7A7"
+       },
+       {
+        "type": "PLA",
+        "color": "#FCE300"
+       },
+       {
+        "type": "PLA",
+        "color": "#9D432C"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13034,
+      "weight_g": 159.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5034,
+      "weight_g": 43.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 8
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 20702328,
+   "sha256": "d518565971a1975b1fd07071a28a5ebaeac31819535d95864ceb1b00bf43351d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-2h.3mf.xz",
+   "instance_id": "272394",
+   "thumbnail": "previews/profiles/272394.jpg",
+   "print_time_h": 2,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "A1 Mini Toppings Gyroid Infil",
+    "creation_date": "2024-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2762,
+      "weight_g": 17.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1E"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1069,
+      "weight_g": 4.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 780,
+      "weight_g": 2.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#19C344"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 835,
+      "weight_g": 3.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#804000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 696,
+      "weight_g": 2.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1098,
+      "weight_g": 4.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1E"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 12002796,
+   "sha256": "7bc1b070ce4a97c1767d1dabecd1bed2920e082853992f319206a05aaa1bbbe8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-3h48.3mf.xz",
+   "instance_id": "308035",
+   "thumbnail": "previews/profiles/308035.jpg",
+   "print_time_h": 3.8,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.51",
+    "profile_title": "Tippy Toppings AMS",
+    "profile_notes": "Colored tippy toppings so you don't have to do the work",
+    "creation_date": "2024-03-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3063,
+      "weight_g": 12.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1943,
+      "weight_g": 9.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2320,
+      "weight_g": 12.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#804040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4292,
+      "weight_g": 21.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2059,
+      "weight_g": 10.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#008000"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12028216,
+   "sha256": "2b6ce3fd3f454ba3b8811e335516b131a3eb2361ef15dc211f2f93ce4dd71722",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-42min.3mf.xz",
+   "instance_id": "271023",
+   "thumbnail": "previews/profiles/271023.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 40,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "New Tippy Toppings Mode!",
+    "profile_notes": "Print these extra toppings to add some extra fun to your game! See instructions included in the notes.",
+    "creation_date": "2024-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2513,
+      "weight_g": 19.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 11744288,
+   "sha256": "ecffd8c5588aee0f82807bc1a841d476e9413364181a62cdea23e4dd97bf161d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-torre-5h24.3mf.xz",
+   "instance_id": "633010",
+   "thumbnail": "previews/profiles/633010.jpg",
+   "print_time_h": 5.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "La version française",
+    "profile_notes": "La version française",
+    "creation_date": "2024-10-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19430,
+      "weight_g": 175.84,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#191919"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 11142232,
+   "sha256": "5a2b8bf5405664b5980e16421801d2c6f4f249cc7477aeb388e3004bcaed766c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "248006",
+ "title": "Juego Torre inclinada de pizza",
+ "slug": "leanin-tower-of-pizza-game",
+ "url": "https://makerworld.com/en/models/248006-leanin-tower-of-pizza-game",
+ "author": "SHDesigns",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Leanin' Tower of Pizza: ¡el loco juego de apilar pizzas! Este divertido y emocionante juego de mesa original se inspiró, por supuesto, en la famosa torre inclinada de Pisa y también en la importación italiana favorita de todos: ¡la pizza! Gira la rueda y descubre qué pizza apilar a continuación y si estará boca arriba o boca abajo. ¿A qué altura puedes apilarlos?\n\nEl juego consta de 8 de cada tipo de pizza, bandeja apilable y rueda para guardar pizza con ruleta. El juego cabe perfectamente dentro de una caja de recambio de filamento Bambu. Se incluye un archivo PDF con la portada de la caja y las instrucciones del juego para completar el juego.\n\nNota: Hay una versión AMS con \"Arriba\" y \"Abajo\" impresas en blanco, o una versión que no es AMS con las palabras grabadas en la rueda giratoria.\n\nEn los perfiles se incluye una mini expansión opcional del juego “Tippy Toppings”. Incluye 5 ingredientes únicos que se agregan a la pila cada vez que la ruleta se detiene en la misma zona 3 veces seguidas. ¡Agrega tocino, piña, jalapeño, champiñones o anchoas a tu pizza! Impresión de reglas actualizada incluida en la documentación.\n\n¡¡Nuevo!! - Puedes encontrar una portada temática del juego aquí:\nCubierta de la torre inclinada de pizza\n\nBoost MeGracias por disfrutar de este modelo. Por favor envíame un impulso para ayudar a apoyar proyectos más divertidos. ¡Gracias! ¡Consulta también el listado oficial en Board Game Geek!",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "juego de mesa",
+  "pizza",
+  "pila",
+  "divertido",
+  "niños",
+  "juguete",
+  "torre",
+  "propensión",
+  "torre inclinada de pisa",
+  "juego de torre inclinada de pizza"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-03-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US20ba0f6fa9c008/design/2024-03-12_8579019fdd6f8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   754
+  ],
+  "previews/02.jpg": [
+   1000,
+   754
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   754
+  ],
+  "previews/05.jpg": [
+   1000,
+   754
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/264234.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/268282.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/267128.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/264238.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/281127.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/272394.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/308035.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/271023.jpg": [
+   600,
+   465
+  ],
+  "previews/profiles/633010.jpg": [
+   484,
+   404
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

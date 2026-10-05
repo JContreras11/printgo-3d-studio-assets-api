@@ -1,0 +1,138 @@
+{
+ "files": [
+  {
+   "path": "model/fideos-tres-4h36.3mf.xz",
+   "instance_id": "3048867",
+   "thumbnail": "previews/profiles/3048867.jpg",
+   "print_time_h": 4.6,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "X1",
+    "A1",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Tic Tac Toe Board",
+    "creation_date": "2026-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 24664332,
+   "sha256": "6b61d10327012772e5aba9be25541c9ea49a8847f4fdb4ecf5dfed95cccbd5a8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fideos-tres-1h18.3mf.xz",
+   "instance_id": "3048894",
+   "thumbnail": "previews/profiles/3048894.jpg",
+   "print_time_h": 1.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Tomato Can",
+    "creation_date": "2026-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3036476,
+   "sha256": "025cd251232871dacd29673be9474d3f52741337fd835f2331d7d532b413789c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2748396",
+ "title": "¡Fideos tres en raya!",
+ "slug": "noodle-tic-tac-toe",
+ "url": "https://makerworld.com/en/models/2748396-noodle-tic-tac-toe",
+ "author": "MochiMakes",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Boost Me¡Boost me para seguir llegando más ternura! Un divertido tablero de tres en raya con temática de fideos servido con trozos de pasta y una pizca de encanto kawaii\n¡También hay un recipiente de pasta de tomate a juego disponible en mi otro perfil para completar el juego completo! ¡Simplemente puedes calentar la etiqueta y pegarla en la lata para guardar tus fideos!\n\n¡Consulte mi Patreon para conocer los lanzamientos mensuales y el acceso anticipado o MyMiniFactory para obtener contenido exclusivo y licencias comerciales!",
+ "use_cases": [],
+ "tags": [
+  "tres en raya",
+  "tictacto",
+  "mochimakes",
+  "mochi",
+  "marcas",
+  "juego de mesa",
+  "frasco",
+  "tomate",
+  "pastas",
+  "fideos",
+  "cabeza",
+  "tabla de cortar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US179a63c32d151/design/2e8e028b5fc512fc.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3048867.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3048894.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

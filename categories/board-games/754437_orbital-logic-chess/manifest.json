@@ -1,0 +1,280 @@
+{
+ "files": [
+  {
+   "path": "model/ajedrez-logico-20h12.3mf.xz",
+   "instance_id": "688489",
+   "thumbnail": "previews/profiles/688489.jpg",
+   "print_time_h": 20.2,
+   "plates": 5,
+   "rating": 4.8,
+   "rating_count": 52,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "profile_notes": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9842,
+      "weight_g": 75.01,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9859,
+      "weight_g": 80.47,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 35144,
+      "weight_g": 267.33,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11222,
+      "weight_g": 61.48,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6736,
+      "weight_g": 40.35,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3509256,
+   "sha256": "b77e232996a9a6ef326aeb712cdeba27b0c71becfe7b647bb53ee416b3e17169",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ajedrez-logico-18min.3mf.xz",
+   "instance_id": "749633",
+   "thumbnail": "previews/profiles/749633.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2024-11-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1085,
+      "weight_g": 4.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 992100,
+   "sha256": "e837d8c6c452de8afc9afab5cac0a95f89504472e6492829289554d19ece5ea5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ajedrez-logico-54min.3mf.xz",
+   "instance_id": "1084471",
+   "thumbnail": "previews/profiles/1084471.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Smooth Game Balls",
+    "creation_date": "2025-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3334,
+      "weight_g": 13.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1144976,
+   "sha256": "6b05361f0c57285877366bffff9826fa2f916c9f7674405864eb2d2a2b085ad2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "754437",
+ "title": "Ajedrez Lógico Orbital",
+ "slug": "orbital-logic-chess",
+ "url": "https://makerworld.com/en/models/754437-orbital-logic-chess",
+ "author": "HaHa",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Ajedrez Lógico Orbital\n\nOrbital Logic Chess, inspirado en el juego para dos jugadores ORBITO, es un juego rápido y estratégico para dos que fomenta el razonamiento espacial y la memoria dinámica, una opción ideal para la participación familiar.\n\nLas instrucciones de montaje se detallan a continuación:\n\nJugabilidad:\n1 Cada jugador utiliza ocho piezas, selecciona un color y determina libremente el orden de los turnos.\n2 Inicialmente, los jugadores se alternan colocando una pieza y concluyen con el segundo jugador activando la columna central para hacer avanzar todas las piezas de manera uniforme.\n3 Posteriormente, los jugadores pueden mover la pieza de un oponente a un espacio vacío, colocar su propia pieza y luego activar el avance de la columna.\nCondición de victoria:\nEl primer jugador que coloque cuatro de sus piezas en una línea (horizontal, vertical o diagonal) gana.\nNota importante: después de retirar el soporte de las piezas esféricas impresas en 3D, alise meticulosamente cualquier residuo restante para garantizar una jugabilidad óptima.\nSi las esferas impresas en 3D presentan características de rodadura subóptimas, considere sustituirlas por bolas sólidas de madera o vidrio de 28 mm de diámetro, ocho de cada color.\nImpúlsame Si aprecias este diseño, tu apoyo impulsa mis esfuerzos creativos.\nSi te gusta mi diseño, por favor anímame. Su apoyo es una fuerza impulsora importante para mi diseño original.\nMejoras y actualizaciones:\nLa estructura de soporte cruciforme ha sido rediseñada como un conjunto de dos piezas para evitar que se desprenda. Esta estructura optimizada está disponible como descarga por separado. Quienes ya hayan impreso el modelo pueden descargar e imprimir sólo este componente; de lo contrario, imprima el modelo completo.",
+ "use_cases": [],
+ "tags": [
+  "ajedrez",
+  "juegos de mesa",
+  "juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US81bc2c7fef0551/design/2024-11-03_35c25df3e4bb2.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/688489.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/749633.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1084471.jpg": [
+   600,
+   631
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

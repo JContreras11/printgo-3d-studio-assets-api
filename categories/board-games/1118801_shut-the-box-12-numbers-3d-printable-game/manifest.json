@@ -1,0 +1,391 @@
+{
+ "files": [
+  {
+   "path": "model/cierra-caja-4h42.3mf.xz",
+   "instance_id": "1116685",
+   "thumbnail": "previews/profiles/1116685.jpg",
+   "print_time_h": 4.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 32,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "All on one big plate with multiple color",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16841,
+      "weight_g": 154.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1145340,
+   "sha256": "d236c24fb6ec7c16220df76330a0ed1544b07efeb334d2ba785b7524cad33ea0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cierra-caja-1h24.3mf.xz",
+   "instance_id": "1376626",
+   "thumbnail": "previews/profiles/1376626.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D",
+    "X1",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "Travel Box 0.3mm layer, 4 walls, 25% infill",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.3",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1074384,
+   "sha256": "62c9248eaac15b51bdf9a3cc9c859b74e47ee6d7ef344e646e1d00becdb1cc70",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cierra-caja-1h36.3mf.xz",
+   "instance_id": "3858772",
+   "thumbnail": "previews/profiles/3858772.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Reisebox für 1 Spieler",
+    "profile_notes": "Da es von einem Nutzer angefragt wurde, habe ich mein bestehendes Modell etwas gekürzt, damit es nur für 1 Spiel funktioniert",
+    "creation_date": "2026-10-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1120764,
+   "sha256": "4dfecc14188d0f0905956910ee5d7e404504ca1797605676dea254844750a889",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cierra-caja-2h12.3mf.xz",
+   "instance_id": "1825914",
+   "thumbnail": "previews/profiles/1825914.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "X1",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Reisebox für 2 Spieler",
+    "profile_notes": "Reisebox für 2 Spiele (bzw. 2 Spieler). Mit Schiebedeckel. Zusätzlich kann der Deckel mit 2 Magneten 4x2 mm (rund) gesichert werden. Im Test hat sich aber gezeigt, dass der eigentlich schon ausreichend fest sitzt.",
+    "creation_date": "2025-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1394288,
+   "sha256": "2e1932a7200fb09880ae8fa814b77e08cd3b46f4b896b8f04cf869d54c8a4d57",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cierra-caja-3h36.3mf.xz",
+   "instance_id": "1116693",
+   "thumbnail": "previews/profiles/1116693.jpg",
+   "print_time_h": 3.6,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "95% Scaled for A1 mini - 3 plates",
+    "profile_notes": "95% Scaled for A1 mini - 3 plates",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6695,
+      "weight_g": 71.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4888,
+      "weight_g": 36.89,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1243,
+      "weight_g": 9.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 1307612,
+   "sha256": "8cb6116840cb14fb733fd713edab2300157f1cdd20c4619c05b38c474b37f003",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cierra-caja-multicolor-4h24.3mf.xz",
+   "instance_id": "3722292",
+   "thumbnail": "previews/profiles/3722292.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "H2C",
+    "A2L",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "single plate, 2 colour, text + dice, 0.2mm layer, 10% infill",
+    "profile_notes": "Two colour, main body and details another. Printed originally on x2d using dual nozzles, also achievable using AMS (studio says +27g filament). Dice are included and solid as I found they would rarely roll 6 when not solid. “SHUT THE BOX” text included on the top of the box. I had some issues with the “O” but worked fine when reprinted.",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor una sola placa",
+   "size": 2216632,
+   "sha256": "ecb2e30c2bf12c42473c964023e34139f1f423b882f8b83a086bb7afbd7cc26d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1118801",
+ "title": "Cierra la Caja (12 Números) - Juego Imprimible en 3D",
+ "slug": "shut-the-box-12-numbers-3d-printable-game",
+ "url": "https://makerworld.com/en/models/1118801-shut-the-box-12-numbers-3d-printable-game",
+ "author": "solxie",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Cierra la caja\n\nEste es un modelo 3D del clásico Shut the Box con 12 números, un divertido y atractivo juego de dados que pueden disfrutar todas las edades. El juego presenta un conjunto de fichas numeradas (del 1 al 9) y un tablero que puedes imprimir fácilmente en 3D. El objetivo del juego es tirar dados y \"cerrar\" fichas según la tirada, con el objetivo de cerrar todas las fichas u obtener la puntuación más baja posible.\n\nEl diseño es totalmente personalizable y fácil de montar, lo que lo hace perfecto tanto para principiantes como para entusiastas experimentados de la impresión 3D. ¡Imprime y arma tu propia versión de Shut the Box para darle vida a este juego clásico de una manera única y divertida!\n\nVER LA VERSIÓN DE 10 NÚMEROS:\n\nINSTRUCCIONES DE IMPRESIÓN:\n\nPara pasar las solapas de izquierda a derecha a través de la caja, necesitarás filamento en bruto. Simplemente córtalo del tamaño correcto y derrítelo por los lados. También agregué algunas almohadillas de espuma en la parte inferior para que se resbalen menos y pinté los números en el interior con un marcador permanente.\n\nDADOS:\n\nAquí están los dados que uso:\n\nCRÉDITOS:\n\nCreador original: Stolli\nQuería diseñarlo yo mismo porque no me gustaba el diseño y el filamento no pasaba muy bien por los agujeros.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "junta",
+  "cerrar la caja",
+  "divertido",
+  "juego de mesa",
+  "dados",
+  "rápido",
+  "números",
+  "no ams",
+  "ams",
+  "multicolor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5d7b311a32ea63/design/2025-02-17_8ff8b35047c3e.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1116685.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1376626.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3858772.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1825914.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1116693.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3722292.jpg": [
+   600,
+   337
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

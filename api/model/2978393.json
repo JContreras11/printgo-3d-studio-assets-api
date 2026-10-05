@@ -1,0 +1,283 @@
+{
+ "files": [
+  {
+   "path": "model/juegos-tiro-12h48.3mf.xz",
+   "instance_id": "3341311",
+   "thumbnail": "previews/profiles/3341311.jpg",
+   "print_time_h": 12.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "P2S",
+    "H2C",
+    "A2L",
+    "X1E",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4,
+    "profile_title": "Knockdown Game 0.2mm layer, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 7023120,
+   "sha256": "91c9524a55cfd3bc6e767d7deb2810303c8b39610b90bb791a30543af6e4bc13",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juegos-tiro-1h54.3mf.xz",
+   "instance_id": "3341338",
+   "thumbnail": "previews/profiles/3341338.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "X1E",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Ground Spike 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print Profile 0.20 mm layer height 5% Gyroid infill No supports required Brim recommended for tall parts Prints in place with minimal material while maintaining excellent strength for normal gameplay.",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4190292,
+   "sha256": "71e7d77454593f39da4e000eb6aa4765509d476ec7ac6953ab744a278b1b1d01",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juegos-tiro-9h42.3mf.xz",
+   "instance_id": "3341330",
+   "thumbnail": "previews/profiles/3341330.jpg",
+   "print_time_h": 9.7,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1",
+    "P1P",
+    "A2L",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Ball Catch 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Print Profile 0.20 mm layer height 5% Gyroid infill No supports required Brim recommended for tall parts Prints in place with minimal material while maintaining excellent strength for normal gameplay.",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 5175436,
+   "sha256": "126e3291a582ec49fc6cb66e91acf0df847ce92db51caa3e930ba5ac12b9faf5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juegos-tiro-9h54.3mf.xz",
+   "instance_id": "3341335",
+   "thumbnail": "previews/profiles/3341335.jpg",
+   "print_time_h": 9.9,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A2L",
+    "X1",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Square Hoop Game 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Print Profile 0.20 mm layer height 5% Gyroid infill No supports required Brim recommended for tall parts Prints in place with minimal material while maintaining excellent strength for normal gameplay.",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4821884,
+   "sha256": "92026902da76f6a8f78b2d0e064a452b76087e7f814e58951c1ae5a1d2fb3277",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2978393",
+ "title": "Juegos de tiro al aire libre 3 en 1 Jardín, Playa",
+ "slug": "3-in-1-outdoor-target-games-garden-beach",
+ "url": "https://makerworld.com/en/models/2978393-3-in-1-outdoor-target-games-garden-beach",
+ "author": "LoganForgeMods",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juguetes al aire libre",
+ "description": "Impulsa Me3 Juegos. ¡Diversión sin fin al aire libre! Imprima una vez y juegue en cualquier lugar. Juegos de tiro al aire libre 3 en 1 Juegos de lanzamiento para jardín, playa y campamento\n¡Lleva la diversión al aire libre con este juego intercambiable de tres juegos de tiro clásicos! Ya sea que estés en el jardín, en la playa, acampando o en una barbacoa familiar, simplemente cambia entre los diferentes módulos de juego en segundos.\nLos juegos se pueden usar en la base independiente incluida o, para mayor versatilidad, se incluye una estaca opcional para usar en césped, arena u otro terreno blando.\nJuegos incluidos\nDesafío del aro cuadrado\nPon a prueba tu puntería lanzando el anillo a través del objetivo cuadrado. Retrocede más en cada ronda para aumentar la dificultad.\nDerribo de barril\nApila los barriles formando una pirámide y derríbalos usando la bola arrojadiza incluida. Ideal para competiciones amistosas y para todas las edades.\nDesafío de captura\nLanza la pelota a la canasta desde distancias cada vez mayores. Sencillo de aprender y sorprendentemente adictivo.\nCaracterísticas\n3 juegos al aire libre intercambiables\nBase independiente\nEstaca de tierra opcional para uso en césped o playa.\nRápido y fácil de cambiar entre juegos\nPiezas grandes y fáciles de imprimir\nNo se requieren soportes para la mayoría de las piezas\nPerfecto para jardines, playas, camping y fiestas.\nDiversión tanto para niños como para adultos.\nImprime el juego de tu elección.\nAtornille el módulo de juego a los postes y luego al soporte.\nSi juega sobre césped o arena, simplemente reemplace el soporte con la estaca opcional.\n¡Estás listo para jugar!\nIdeas de juegos\nAro cuadrado\n1 punto por cada lanzamiento exitoso.\nAumenta la distancia después de cada disparo exitoso.\nEl primer jugador que consiga 10 puntos gana.\nDerribo de barril\nApila todos los barriles formando una pirámide.\nCada jugador realiza tres tiros.\nDerriba todos los barriles para obtener el máximo de puntos.\nDesafío de captura\nLanza la pelota a la canasta.\nAléjate más después de cada lanzamiento exitoso.\nFalla y tu turno termina.\nAmpliaciones futuras\nEl sistema de montaje intercambiable ha sido diseñado para que se puedan agregar más juegos en el futuro, incluyendo:\nLanzamiento de anillo\nObjetivo de disco volador\nLanzamiento de bolsa de frijoles\nObjetivo de minigolf\nObjetivo de diana\nDesafío del cubo\nObjetivo tres en raya\nCanasta de tiro con truco\nSi te gustan los diseños prácticos imprimibles en 3D, asegúrate de seguirme en MakerWorld. Publico regularmente impresiones funcionales, juguetes voladores, accesorios para PC, soluciones para el hogar y proyectos únicos de creadores, para que no te pierdas futuras cargas y actualizaciones.\n\nMembresía ¿Quieres vender estas impresiones? ¡Únase a mi Membresía/Club Comercial para obtener todos los derechos comerciales para vender versiones físicas de este paquete y todos mis otros modelos!",
+ "use_cases": [],
+ "tags": [
+  "concurso",
+  "juguetes al aire libre",
+  "juego de jardin",
+  "juego de césped",
+  "juego de playa",
+  "cámping",
+  "juego familiar",
+  "juego de fiesta",
+  "juego de tiro",
+  "juego de lanzamiento",
+  "caída de botella",
+  "lanzamiento de anillo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc13c1b948d7ecb/design/36ac37ec0c1a7aa6.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1586
+  ],
+  "previews/03.png": [
+   1000,
+   1423
+  ],
+  "previews/04.png": [
+   1000,
+   1475
+  ],
+  "previews/05.png": [
+   1000,
+   1299
+  ],
+  "previews/06.png": [
+   1000,
+   1461
+  ],
+  "previews/07.png": [
+   1000,
+   1530
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3341311.jpg": [
+   600,
+   951
+  ],
+  "previews/profiles/3341338.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3341330.jpg": [
+   600,
+   918
+  ],
+  "previews/profiles/3341335.jpg": [
+   600,
+   779
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

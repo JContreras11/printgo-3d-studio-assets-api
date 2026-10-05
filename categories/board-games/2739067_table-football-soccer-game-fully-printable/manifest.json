@@ -1,0 +1,534 @@
+{
+ "files": [
+  {
+   "path": "model/juego-futbolin-32h12.3mf.xz",
+   "instance_id": "3037057",
+   "thumbnail": "previews/profiles/3037057.jpg",
+   "print_time_h": 32.2,
+   "plates": 11,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2D",
+    "A1",
+    "X2D",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "A2L",
+    "H2S",
+    "P2S",
+    "H2C",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS, A1Mini+",
+    "profile_notes": "original design profile (Version V1.1)",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "name": "Versión estándar",
+   "size": 9623540,
+   "sha256": "7a17bd26396c78b9765093659c7af56abfdbaaef6937b0362019345aa3dcbbcc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-13h30.3mf.xz",
+   "instance_id": "3094267",
+   "thumbnail": "previews/profiles/3094267.jpg",
+   "print_time_h": 13.5,
+   "plates": 13,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Custom Players",
+    "profile_notes": "Pelé, Maradona, Ronaldo, Messi, Dibu Martinez(as goalkeeper), Mbappe, Tim Payne, Lamine Yamal, Neymar (Including springs) and Minions players :) Just replace the normal player with the custom one. No Support! [YYYY-MM-DD] Update 2026-05-15 : Heads are printed with 0.08 layer height for better detail. Update 2026-06-04: Added custom players Dibu Martinez(as goalkeeper), Mbappe, Tim Payne, Lamine Yamal, Neymar Update 2026-07-10: Added custom players minions, like Kevin, Bob, Stuart and Kevin as goalkeeper Current profile version: V1.2 Let me know, who you need :)",
+    "creation_date": "2026-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 13
+   },
+   "name": "Versión estándar",
+   "size": 23357292,
+   "sha256": "60671fe6f78914ccb0bcfffdbb6e741d3635fdc8d91de11f36f3b18655aaef86",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-26h12.3mf.xz",
+   "instance_id": "3063036",
+   "thumbnail": "previews/profiles/3063036.jpg",
+   "print_time_h": 26.2,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS, H2S (two part base)",
+    "profile_notes": "H2S variant with only two part base, just connect them the same way as the assembly instruction. Some plates printed ByObject (just to save time). (Version V1.1)",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 9441180,
+   "sha256": "a0e0160d813c171d9c589d95c729f8a64df013482305e87a35a419d0dcb6235a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-26h54.3mf.xz",
+   "instance_id": "3061296",
+   "thumbnail": "previews/profiles/3061296.jpg",
+   "print_time_h": 26.9,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS, H2+ (two part base)",
+    "profile_notes": "Variant with only two part base, just connect them the same way as the assembly instruction. Some plates printed ByObject (just to save time). (Version V1.1)",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 9446204,
+   "sha256": "9c9229e89021d78e074a8c90f3823dc9c6e674b0aae6a7d05fb78e1f43d839be",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-2h18.3mf.xz",
+   "instance_id": "3085086",
+   "thumbnail": "previews/profiles/3085086.jpg",
+   "print_time_h": 2.3,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "P2S",
+    "A2L",
+    "P1S",
+    "P1P",
+    "A1",
+    "H2S",
+    "X1",
+    "H2D",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Patch 1 (fix goal-man self-goal, for V1.0)",
+    "profile_notes": "These parts will fix self goal when goal-man try to pass the ball, it can do self-goal. This patch is only for version 1.0, other game version already fixed. Print this parts and replace existing on your game-board. Patch: Remove Goal part (gently, you can use flat screwdriver to remove) Remove Pre-Goal part (similart to Plate3) Replace Goal-man part (with the printed one) Put new Pre-Goal part Put back the Goal part. Sorry for trouble, should be now much better. Enjoy and have fun!",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 3492988,
+   "sha256": "87b86061a201d78936c581ea4abf70c71a4215f15d16fe9d782de1850b468d94",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-2h48.3mf.xz",
+   "instance_id": "3066377",
+   "thumbnail": "previews/profiles/3066377.jpg",
+   "print_time_h": 2.8,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Additional Flags (AMS)",
+    "profile_notes": "Additional flags added, plates separated for same four color flags. More flags will be added, just let me know, what you want :)",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 3035684,
+   "sha256": "f1262330a9930b6d740fa655c5a1e3d3f280fce4dcffa2d08b5a0a050570fcf5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-30h18.3mf.xz",
+   "instance_id": "3037714",
+   "thumbnail": "previews/profiles/3037714.jpg",
+   "print_time_h": 30.3,
+   "plates": 9,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X2D",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "No AMS, A1Mini+",
+    "profile_notes": "Without Score Counter (it requires AMS to print numbers) (Version V1.1)",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   },
+   "name": "Versión estándar",
+   "size": 8057136,
+   "sha256": "a78ee60f55cd184b79fd402e3f075b1a8883837d77bc6ac06e3b478f5573772f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-31h54.3mf.xz",
+   "instance_id": "3037088",
+   "thumbnail": "previews/profiles/3037088.jpg",
+   "print_time_h": 31.9,
+   "plates": 9,
+   "rating": 4.4,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "A2L",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS, A1+",
+    "profile_notes": "Profile for A1+ (Version V1.1)",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   },
+   "name": "Versión estándar",
+   "size": 9254016,
+   "sha256": "ceba29d2982cebfb091acce2b6b00d62d89e4cceeaa3152d7cda1848e5b0c3b1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-54min.3mf.xz",
+   "instance_id": "3528752",
+   "thumbnail": "previews/profiles/3528752.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Stronger Player",
+    "profile_notes": "Stronger player with infill between legs. Some filament is too fragile or user just use too much force. This prevent break",
+    "creation_date": "2026-08-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3546744,
+   "sha256": "72d420362ba3d59c707fbc6daea3a109d8bcca06a171a80f9bbd9f31f8d381dd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-futbolin-8h12.3mf.xz",
+   "instance_id": "3385383",
+   "thumbnail": "previews/profiles/3385383.jpg",
+   "print_time_h": 8.2,
+   "plates": 9,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P2S",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Custom Players (0.2mm layer only)",
+    "profile_notes": "The same profile as “Custom Player”, but the various layer height on top removed (the 0.08mm layer detail). Prevent some print failed on the head. But first try the original “Custom Player” if you have no issue. Current Version: V1.1",
+    "creation_date": "2026-07-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 9
+   },
+   "name": "Versión estándar",
+   "size": 18884660,
+   "sha256": "e57622016f36c891444293a0e126ccbae253eb810c74203700ccc4849d146186",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2739067",
+ "title": "Juego de futbolín/fútbol (completamente imprimible)",
+ "slug": "table-football-soccer-game-fully-printable",
+ "url": "https://makerworld.com/en/models/2739067-table-football-soccer-game-fully-printable",
+ "author": "yodovicz",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Juego de futbolín de la vieja escuela para dos jugadores. Juega al partido de la Copa del Mundo antes de que comience con niños o amigos.\n\nOriginal diseñado con resortes imprimibles.\n¡No se requieren artículos adicionales!\n\nEl tamaño del juego ensamblado es de aprox. 60x30cm\n\nVersión actual: V1.1\n\nCaracterísticas:\n¡Totalmente imprimible!\nDiseñado para A1 mini (versión de dos piezas base recientemente agregada para impresoras H2+)\nSin soporte (para cada perfil)\nFácil de imprimir\nDurable\nMontaje sencillo (sólo se necesita un poco de fuerza)\nsin pegamento\nAMS (opcional, perfil diferente para impresión que no sea AMS) con una mínima purga de filamento.\nSe pueden reemplazar figuras de jugadores personalizables (perfil adicional de jugadores personalizados)\nTablero contador de puntuación (con bandera de jugador reemplazable)\n\nJuego:\nColoque la pelota en el medio para comenzar un juego (como en la imagen gif). El jugador (color) intenta pasar el balón a sus otros jugadores e intenta marcar un gol. Cuando llegue el gol, comience de nuevo poniendo el balón en el medio. El que primero marca 10 goles, gana. En una situación en la que la pelota se atasque entre los jugadores, simplemente sacuda el campo. Si la pelota salta fuera del campo de juego, simplemente colóquela del lado por donde sale (como la pelota inicial).\n\nImpresión:\nHay varios perfiles dependiendo de su impresora. A1Mini - P2* (tamaños de cama hasta 256 mm) utiliza una base de 8 partes (área de juegos). H2+ (tamaño de cama 320 mm+) puede utilizar un perfil con una base de solo 2 piezas (construcción más rápida, montaje más sencillo).\nLas placas base utilizan un relleno del 6% con el modo 'Cross Hatch' para proteger el filamento y 4 capas superiores de la carcasa (para mí también funcionan 3).\nRecomendaría utilizar filamento barato para el color blanco, ya que es principalmente relleno.\nLa torre principal está deshabilitada porque no hay ninguna razón para las placas base, pero puedes habilitarla en el marcador, debido a los números en los anillos.\nLas partes de la base son más gruesas debido a la estabilidad de la tabla (durante el juego) y los resortes impresos requieren para su funcionalidad algo de espacio libre en la parte inferior (para un mejor juego de pelota).\n\nAsamblea:\nLas placas de impresión están en el mismo orden de montaje, solo imprima una placa tras otra y siga las instrucciones.\nUne las piezas por orden de ensamblaje (imagen de ensamblaje.jpg), cuando conectes las tablas, usa fuerza fuerte (hasta hacer clic). Recomendaría hacerlo en una mesa plana (por ejemplo, la mesa de la cocina), debes presionar con fuerza para conectar las tablas hasta que haga clic. En el funda de la versión H2+ (solo dos piezas de base), simplemente conecte estas dos piezas hasta que haga \"clic\". El resto del montaje es el mismo.\nOrden de montaje del marcador descrito en la imagen de montaje. Para un clic suave, use lubricante (o aceite), pero es opcional, no es necesario.\nLa bola está impresa en dos partes, simplemente conéctelas con fuerza y ​​​​la parte hexagonal central.\nLos jugadores se pueden reemplazar por jugadores personalizados una vez; consulte el perfil de impresión de Jugadores personalizados. Simplemente retire el reproductor antiguo del tablero (empuje el resorte desde abajo) y reemplácelo con uno nuevo impreso.\n\nNotas:\nEl tablero contiene orificios de 7 mm en la parte inferior para soportes de goma (borrador de lápiz), esto es opcional.\nLa grapa lateral es opcional (pero se recomienda para una mejor estabilidad)\nSi accidentalmente rompes el reproductor, no te preocupes, simplemente imprime otro y reemplázalo (reproductores personalizados ahora disponibles en el perfil adicional Reproductores personalizados)\nSi desea agregar su propio jugador, simplemente abra el perfil de Jugadores personalizados, seleccione uno de ellos y el menú contextual \"Dividir/En objetos\". Ahora tienes disponible el resorte con soporte (player-base.stl) para poner tu reproductor personalizado (desde tu.stl).\n\nActualizaciones (AAAA-MM-DD):\n04/05/2026: Se soluciona un posible autogol cuando el portero intenta pasar el balón (todos los perfiles actualizados)\n2026-05-04: Se agregó el perfil H2+ (cama de impresión grande) para tener solo dos partes de base para conectar\n2026-05-05: Se agregó perfil adicional para Banderas (20 banderas)\n2026-05-08: ERROR-01: Hay un problema con el objetivo: el hombre puede hacer un autogol en algunas situaciones; el problema se solucionará mañana. ¡Perdón por las molestias!\n2026-05-09: Versión V1.1: Se corrigió el ERROR-01, se agregó el parche 1 de perfil adicional para reemplazar piezas pequeñas (para corregir la versión V1.0). Todos los perfiles ya arreglados y actualizados a V1.1.\n2026-05-10: Se agregaron jugadores personalizados: Pelé, Maradona, Ronaldo, Messi (Como perfil adicional)\n2026-06-04: Se agregaron jugadores personalizados Dibu Martínez (portero), Mbappé, Tim Payne, Lamine Yamal, Neymar al perfil de jugadores personalizados\n2026-07-10: Se agregaron minions de jugadores personalizados, como Kevin, Bob, Stuart y Kevin como portero al perfil de jugadores personalizados.\n2026-08-03: Se agregó un perfil adicional con \"Jugador más fuerte\"\n2026-09-08: Agregue la bandera de Canadá al perfil de Banderas adicionales\n\nEste modelo está basado en mi primer diseño de fútbol:\n\nPreguntas frecuentes:\nSi tu reproductor se rompe (piernas), probablemente uses filamento frágil o demasiada fuerza al jugar. Para evitar esto, puedes reimprimir el jugador con uno más fuerte en el perfil \"Jugador más fuerte\".\nSi su reproductor hace espaguetis o parece una masa durante la impresión, la sacudida de la impresora libera el resorte de la placa. Uno de estos podría ayudarle: use pegamento en barra o adhesivo en aerosol para impresora (Blade)\nimprima más lento para evitar sacudidas\nimprimir por objeto un jugador por otro para evitar sacudidas (transferencia)\nimprimir c",
+ "use_cases": [],
+ "tags": [
+  "fútbol americano",
+  "fútbol",
+  "copa del mundo 2026",
+  "copa del mundo",
+  "a1 mini",
+  "sin soporte",
+  "totalmente imprimible en 3d",
+  "completamente imprimible",
+  "copa mundial2026",
+  "fútbol 2026",
+  "juego de mesa",
+  "átame"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3038918ac50560/design/1bf8a55e119d760c.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.gif",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   915
+  ],
+  "previews/02.jpg": [
+   1000,
+   608
+  ],
+  "previews/03.gif": [
+   480,
+   322
+  ],
+  "previews/04.jpg": [
+   1000,
+   1181
+  ],
+  "previews/05.jpg": [
+   1000,
+   1326
+  ],
+  "previews/06.jpg": [
+   1000,
+   929
+  ],
+  "previews/07.jpg": [
+   1000,
+   733
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   735
+  ],
+  "previews/profiles/3037057.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3094267.jpg": [
+   600,
+   350
+  ],
+  "previews/profiles/3063036.jpg": [
+   600,
+   383
+  ],
+  "previews/profiles/3061296.jpg": [
+   600,
+   383
+  ],
+  "previews/profiles/3085086.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3066377.jpg": [
+   600,
+   390
+  ],
+  "previews/profiles/3037714.jpg": [
+   600,
+   532
+  ],
+  "previews/profiles/3037088.jpg": [
+   600,
+   383
+  ],
+  "previews/profiles/3528752.jpg": [
+   600,
+   809
+  ],
+  "previews/profiles/3385383.jpg": [
+   600,
+   567
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

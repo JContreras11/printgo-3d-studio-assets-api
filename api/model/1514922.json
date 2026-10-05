@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/mini-ludo-3h42.3mf.xz",
+   "instance_id": "1586889",
+   "thumbnail": "previews/profiles/1586889.jpg",
+   "print_time_h": 3.7,
+   "plates": 6,
+   "rating": 4.8,
+   "rating_count": 25,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-06-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3202252,
+   "sha256": "799b6b66ac61a05f418dbeb2df8ba053cccab56a8d98725671722a285aeceb78",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mini-ludo-4h24.3mf.xz",
+   "instance_id": "1587107",
+   "thumbnail": "previews/profiles/1587107.jpg",
+   "print_time_h": 4.4,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-06-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 3034464,
+   "sha256": "d4c6344921f0f6c6a1700e4266cc6512d74b1336c70b56a5262c2ff44b6ede92",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1514922",
+ "title": "Mini Ludo",
+ "slug": "mini-ludo",
+ "url": "https://makerworld.com/en/models/1514922-mini-ludo",
+ "author": "Capii",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "ImpúlsameSi te gusta mi trabajo, estaré muy feliz si me das un impulsoLudo: un juego que todos conocen y aman\nEsta versión compacta y portátil del clásico juego Ludo es la elección perfecta tanto para jugadores jóvenes como mayores. Gracias a su diseño inteligente, el tablero se pliega en una práctica caja que almacena todas las piezas del juego y tiene el tamaño perfecto para llevarlo consigo. Es una excelente manera de pasar tiempo de calidad con amigos o familiares, disfrutando de una versión moderna de un clásico querido.\n\nEl conjunto incluye:\nUn tablero de juego en forma de plus de 17x17 cm (plegado: 6x6x6,5 cm con tapa)\n16 piezas de juego en 4 colores diferentes.\nuna tapa\n\nInstrucciones de montaje:\nUna vez que hayas impreso todos los componentes, sigue estos pasos para montar el tablero:\nPrepare las piezas etiquetadas como \"Tablero 1\" y algo de filamento.\nInserta las piezas laterales en la base del cuadrado principal con el logo del dado.\nConecte las piezas deslizando trozos de filamento en las bisagras, luego recorte el exceso de filamento al ras de los bordes de la placa.\nUna vez que el tablero esté ensamblado, coloque los elementos planos de mosaicos de colores con las piezas de juego en sus respectivos lugares, tal como se muestra en las fotos del proyecto. Puedes simplemente deslizarlos o pegarlos para mayor durabilidad.\nEso es todo: ¡disfruta el juego!",
+ "use_cases": [],
+ "tags": [
+  "ludo",
+  "juego de ludo",
+  "mini ludo",
+  "juego",
+  "juego de mesa",
+  "junta",
+  "empeñar",
+  "multijugador",
+  "juego multijugador",
+  "juego casual",
+  "juego familiar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf8f2683b5a52a1/design/2025-06-13_520f4860453bb.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   971
+  ],
+  "previews/02.jpg": [
+   1000,
+   1384
+  ],
+  "previews/03.jpg": [
+   1000,
+   1045
+  ],
+  "previews/04.jpg": [
+   1000,
+   1018
+  ],
+  "previews/profiles/1586889.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1587107.jpg": [
+   600,
+   832
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

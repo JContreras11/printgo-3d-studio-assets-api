@@ -1,0 +1,300 @@
+{
+ "files": [
+  {
+   "path": "model/longitud-onda-6h.3mf.xz",
+   "instance_id": "1576299",
+   "thumbnail": "previews/profiles/1576299.jpg",
+   "print_time_h": 6,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P1P",
+    "H2D",
+    "P1S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Full Game Set",
+    "creation_date": "2025-06-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 2572672,
+   "sha256": "288b44f35dd96db2af98add91cce24dae1383a9c4a5b988e262f8e58764ed5c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/longitud-onda-10h54.3mf.xz",
+   "instance_id": "1778053",
+   "thumbnail": "previews/profiles/1778053.jpg",
+   "print_time_h": 10.9,
+   "plates": 8,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1",
+    "P1P",
+    "H2D",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "Bigger- 150% Size, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "I wanted as bigger game, so I increased everything to 150%. I had to shave down the front pins a bit due to some overextrusion on my part, but overall goes together as expected.",
+    "creation_date": "2025-08-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 2688244,
+   "sha256": "6e21dc7e4fa65bf4742db4ab827d28e60cc24ffa0dac8d34e27407761f553fdb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/longitud-onda-36min.3mf.xz",
+   "instance_id": "1578360",
+   "thumbnail": "previews/profiles/1578360.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Number Disk no AMS",
+    "profile_notes": "This is the model of the Number disk for all you guys, without an ams. I dont know if it adopts the pauses I created in the slicer: Start with White Pause at layer 5 (1,0mm) and change to color for number 2 Pause at layer 6 (1,2mm) and change to color for number 3 Pause at layer 7 (1,4mm) and change to color for number 4 Pause at layer 5 (1,6mm) and change back to white",
+    "creation_date": "2025-06-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1217264,
+   "sha256": "16b6c8f1520136426d68519ef30866aae74c6d510f465dc16bc99cff94703cd7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/longitud-onda-5h12.3mf.xz",
+   "instance_id": "1589673",
+   "thumbnail": "previews/profiles/1589673.jpg",
+   "print_time_h": 5.2,
+   "plates": 2,
+   "rating": 4.1,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Box",
+    "creation_date": "2025-06-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1968112,
+   "sha256": "882ec7335c2971df22fe184cb13884eb98ed66a85cd6e93862c8196ef106b889",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/longitud-onda-5h54.3mf.xz",
+   "instance_id": "1593938",
+   "thumbnail": "previews/profiles/1593938.jpg",
+   "print_time_h": 5.9,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 127,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P1P",
+    "H2D",
+    "P1S",
+    "X1",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "Complete Set - less poop / filament changes",
+    "creation_date": "2025-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 8
+   },
+   "name": "Versión estándar",
+   "size": 2621220,
+   "sha256": "5a2e37494728c6cfc8d7b0a42f65102e6dd52669834403d422fd55a7b2bf52d3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1506167",
+ "title": "Longitud de onda / Combinación perfecta - Juego completo",
+ "slug": "wavelength-perfect-match-complete-game",
+ "url": "https://makerworld.com/en/models/1506167-wavelength-perfect-match-complete-game",
+ "author": "Skytoonic",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Esta es una versión completa del juego “Wavelength” o en alemán se llama “Perfect Match”.\nSiempre veía este juego en las redes sociales y también quería jugarlo, pero el precio era bastante elevado, así que lo construí e imprimí yo mismo.\nSi no sabes cómo se juega el juego:\n\nHay una o dos versiones más en MakerWorld y thingiverse. Pero siempre tuvieron algunos problemas que me molestaron.\nEntonces traté de solucionar todos los defectos que tenían los diseños.\nEl disco numérico tiene un mecanismo que hace ruidos de clic mientras gira y lo mantiene en su lugar.\nEl orificio verde está tan apretado que no se cae y el puntero también está tan apretado que no se mueve.\n\nMontaje:\nColoque la parte trasera sobre la mesa.\nColoque el disco blanco en su lugar.\nPresione la parte verde. (Si está demasiado apretado/suelto, caliéntalo con un encendedor y dobla los brazos)\nColoque el pequeño resorte en la parte inferior de la placa posterior.\nPresione el pequeño soporte en el puntero (puede usar pegamento).\nPresione el puntero firmemente en su orificio.\nPresione la placa frontal (puede usar pegamento).\nTambién hice algunas tarjetas, donde imprimí y pegué algunas categorías.\nPuedes usarlos o simplemente usar notas en papel.\n\nImprimí el Disco Numérico en 4 colores usando mi AMS, pero también coloreé una de las primeras versiones. Entonces puedes imprimir todas las partes en un solo color y luego pintar los números, áreas o flechas como quieras.\n\nDIVERTIRSE:)",
+ "use_cases": [],
+ "tags": [
+  "longitud de onda",
+  "juego",
+  "junta",
+  "juego de mesa",
+  "divertido",
+  "estimar",
+  "izquierda",
+  "bien",
+  "doblar",
+  "girar",
+  "mental",
+  "pensamientos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf7bcfd36e6d9e7/design/2025-06-10_2631614e061588.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.gif": [
+   480,
+   853
+  ],
+  "previews/profiles/1576299.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1778053.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1578360.jpg": [
+   600,
+   546
+  ],
+  "previews/profiles/1589673.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1593938.jpg": [
+   100,
+   75
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

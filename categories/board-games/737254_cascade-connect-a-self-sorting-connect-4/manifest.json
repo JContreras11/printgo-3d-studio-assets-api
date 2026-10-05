@@ -1,0 +1,939 @@
+{
+ "files": [
+  {
+   "path": "model/cascade-connect-25h18.3mf.xz",
+   "instance_id": "669364",
+   "thumbnail": "previews/profiles/669364.jpg",
+   "print_time_h": 25.3,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 6525,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "Cascade Connect - 0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "Default print profile with everything printed at 0.2mm except for the board which is printed at 0.15mm.",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14503,
+      "weight_g": 64.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14505,
+      "weight_g": 64.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 45316,
+      "weight_g": 180.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16650,
+      "weight_g": 199.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Impresión en PLA",
+   "size": 41604780,
+   "sha256": "2612147f63bf5a2e27125be414670b2cba1d78bb2f3e7af76208a7d5dfb9e35a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-14h30.3mf.xz",
+   "instance_id": "674290",
+   "thumbnail": "previews/profiles/674290.jpg",
+   "print_time_h": 14.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 791,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "Alternate Board",
+    "profile_notes": "This profile has the alternate version of the board. Read the Entrance Test/Game Board section of the description for more information.",
+    "creation_date": "2024-11-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.15",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6816,
+      "weight_g": 21.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 45493,
+      "weight_g": 182.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 53509052,
+   "sha256": "409e3ceb74b5e2c8906ad21678aa0901b2c80b2d063e8282e36d5b16830932bd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-16h06.3mf.xz",
+   "instance_id": "1900561",
+   "thumbnail": "previews/profiles/1900561.jpg",
+   "print_time_h": 16.1,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "faster, improved appearance with translucent \\ wooden",
+    "profile_notes": "Parameters related to adjusting overhangs and ensuring wall thickness were optimized, reducing printing time. This results in improved appearance when using translucent or wooden filaments.",
+    "creation_date": "2025-10-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 24750384,
+   "sha256": "224703bd7e41b102c6e03588161d254ad10ce47a351ea0dbba89686a4065e4bf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-16h24.3mf.xz",
+   "instance_id": "1232202",
+   "thumbnail": "previews/profiles/1232202.jpg",
+   "print_time_h": 16.4,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 817,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Efficient - Reduced Print Time Cascade Connect",
+    "profile_notes": "REMAINING CASCADE CONNECT PLATES ADDED — DRASTICALLY REDUCED PRINT TIME Total print time has been reduced by potentially 6 + hours through slicer optimization rather than aggressive speed increases. Actual speed values (mm/s) were not significantly raised, and in some cases were reduced. Most gains came from slicer settings that better complement the model’s geometry and curvature. Below is Plate 1 as a representative example of the changes made. BASE Over 1 hour removed from print time using a more efficient base profile. Why this profile is faster: Changed “Only one wall on top surfaced” from “Top Surfaces” to “Top Most Surface” Prevents slow, forced narrow infill from being applied to every stepped section of the internal bin incline This change alone can save 30+ minutes of print time Added infill modifiers to reduce bridge time in thin, sparse infill regions Optimized line widths Switched to rectilinear infill at a lower percentage to reduce both time and filament usage Additional minor slicer refinements Other Notes Overall speed was reduced , not increased (Some speeds were slightly raised later; original values may differ) No acceleration increases 3 walls retained Structural strength remained a priority Reduced total filament usage Similar optimizations were applied to the Board and Pieces , resulting in a substantial overall reduction in print time without sacrificing strength or print reliability.",
+    "creation_date": "2025-04-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12961,
+      "weight_g": 179.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 31787,
+      "weight_g": 135.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9687,
+      "weight_g": 64.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9735,
+      "weight_g": 65.01,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 21434484,
+   "sha256": "9844e7fa4fc5adaea5f39a076c125892b8c6f5d0e247e35340395173cf203fc8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-17h36.3mf.xz",
+   "instance_id": "692221",
+   "thumbnail": "previews/profiles/692221.jpg",
+   "print_time_h": 17.6,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "0.6mm nozzle version",
+    "profile_notes": "3 plates, great print.",
+    "creation_date": "2024-11-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.3",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 8743,
+      "weight_g": 68.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F95D73"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 8701,
+      "weight_g": 69.93,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 34700,
+      "weight_g": 218.5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 11258,
+      "weight_g": 227.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 41558364,
+   "sha256": "b8861d3436a62e9b0ef7962e07c62ccf7959b3352288b17f39ecce034fffba29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-21h54.3mf.xz",
+   "instance_id": "1006369",
+   "thumbnail": "previews/profiles/1006369.jpg",
+   "print_time_h": 21.9,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 82,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "0% infill Board and pieces, Changed infill patterns",
+    "profile_notes": "Optimized infill and infill patterns",
+    "creation_date": "2025-01-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15721,
+      "weight_g": 64.88,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15761,
+      "weight_g": 64.88,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32809,
+      "weight_g": 152.32,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14539,
+      "weight_g": 191.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Impresión en PLA",
+   "size": 41878180,
+   "sha256": "3b21c2484f20b553753e37ada24d2098062ae82d3f0061a220358a49090cea0f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-26h24.3mf.xz",
+   "instance_id": "1024676",
+   "thumbnail": "previews/profiles/1024676.jpg",
+   "print_time_h": 26.4,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 107,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 3 walls, 15% infill",
+    "profile_notes": "Black/Anthracite board and base, gold and silver pieces. 0.16mm layer 3 walls 15% infill slowed external perimeters at 60 mm/s reoriented board and base plates",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15556,
+      "weight_g": 64.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#CCCCCC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15717,
+      "weight_g": 64.1,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FDBD36"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 41113,
+      "weight_g": 178.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22623,
+      "weight_g": 194.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 41530420,
+   "sha256": "f8d9d198fb5677248122946af5cee971e8b250b9b5172ee37ad41063ee200f64",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-2h18.3mf.xz",
+   "instance_id": "3456633",
+   "thumbnail": "previews/profiles/3456633.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P2S",
+    "A2L",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Boxes for extra sets",
+    "creation_date": "2026-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 844576,
+   "sha256": "9fb64a1a08396dd135523d06dd939f194454cb03a4b85a9c16ce2b620854ec54",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-2h24.3mf.xz",
+   "instance_id": "3031528",
+   "thumbnail": "previews/profiles/3031528.jpg",
+   "print_time_h": 2.4,
+   "plates": 3,
+   "rating": 2.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X2D",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "H2D",
+    "X1E",
+    "A2L",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "81% Closable with magnets only 150g",
+    "profile_notes": "81% Magnet size: 4 x 2 Insert magnets in layers 59-60 only 150g",
+    "creation_date": "2026-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 606884,
+   "sha256": "55b3b290dd2cf9a7ae73f61480959655f235daf4c4ec2385ce6bbede9ed000af",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-30h12.3mf.xz",
+   "instance_id": "2122822",
+   "thumbnail": "previews/profiles/2122822.jpg",
+   "print_time_h": 30.2,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "traditional size - 125%",
+    "profile_notes": "I think the original size is too small, more like a travel size. Increasing to 125% feels more like the size of traditional connect 4. I also added the lock to the board plate (alternative style board). Lite profile of 2 walls/0.8mm perimeters and 15% gyroid infill. You could go down to 10% infill if you want.",
+    "creation_date": "2025-11-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 25938876,
+   "sha256": "318a9791655fecd2c68509c8cba6a9399f88e9c7d480ee9c86d83594e5c79017",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-5h24.3mf.xz",
+   "instance_id": "2605190",
+   "thumbnail": "previews/profiles/2605190.jpg",
+   "print_time_h": 5.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Efficient AMS version - 256mm single plate - print by object",
+    "profile_notes": "A remix of the efficient print by object profile made by Prime Tower Designs. Adjusted to better suit my P2S and similar sized build plates.",
+    "creation_date": "2026-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 2828456,
+   "sha256": "6dda506a8c07ae35042694e590e97b5b129f45eb2cc722736de7c71c57d49f07",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-7h54.3mf.xz",
+   "instance_id": "673635",
+   "thumbnail": "previews/profiles/673635.jpg",
+   "print_time_h": 7.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 480,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Efficient AMS version: 1 plate / 1 color swap",
+    "profile_notes": "All player pieces on 1 plate. Use designer's profile for game board which can fit on 1 non-mini plate. Getting the pieces to fit on a single mini-sized plate in an arrangement compatible with print by object was quite challenging. They barely fit! Other than the piece arrangement + print by object, the only settings change I made was to use gyroid for infill since grid is known for collisions.",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28363,
+      "weight_g": 126.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C12E1E"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 38233864,
+   "sha256": "41a31e3a020d3ac35372cc362a359978185eba3687dadb6228d82689b2eae490",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cascade-connect-multicolor-21h12.3mf.xz",
+   "instance_id": "1439843",
+   "thumbnail": "previews/profiles/1439843.jpg",
+   "print_time_h": 21.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 45,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "AMS - 2 plates, Sequential print, 2 color changes",
+    "profile_notes": "If you want to print over night and not mess too much with clearing the plate. only 2 filament changes on one plate, sequential print. make sure the build plate is clean.",
+    "creation_date": "2025-05-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 58226008,
+   "sha256": "36e77bf595f308ef15bb82a731616521fdc24848147e4eb42e33b660d165d657",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "737254",
+ "title": "Cascade Connect: una conexión de clasificación automática 4",
+ "slug": "cascade-connect-a-self-sorting-connect-4",
+ "url": "https://makerworld.com/en/models/737254-cascade-connect-a-self-sorting-connect-4",
+ "author": "CyberYeti",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Descripción\nCascade Connect reinventa el juego Connect Four con un toque innovador. Su diseño en espiral bidireccional permite que cada pieza caiga en cascada suavemente a través del tablero, clasificándose automáticamente para crear una experiencia de juego perfecta. Combinando el clásico objetivo Connect Four con un movimiento fluido y cautivador, Cascade Connect agrega una nueva dimensión fascinante a este juego atemporal.\n\nActualización 29/10/2024: debido a toda la confusión sobre los 2 tableros, he creado un perfil separado para la segunda prueba de ingreso y el tablero alternativo. He decidido hacer que la entrada de 1 cresta sea la predeterminada, ya que es más fácil de usar. Si desea saber por qué hay 2 tableros en primer lugar, lea la sección Prueba de ingreso/Tablero de juego de la descripción.\n\nActualización 2/11/2024: la orientación de impresión de la placa se ha cambiado para imprimir al revés para una mejor adhesión a la base. Los STL se han modificado ligeramente para mejorar la capacidad de impresión en esta orientación. Si imprimió la versión antes de esta actualización, no es necesario que imprima la nueva versión.\nCómo utilizar\nJuega como de costumbre colocando piezas desde arriba. Cuando termine el juego, levanta un poco el tablero para permitir que las piezas caigan y comienza a clasificar. Cuando hayas terminado, saca la tabla y deslízala sobre la base desde un lado para que actúe como tapa.\n\nPiezas\nPiezas del juego: hay 2 placas de piezas diferentes que se denominan Conjunto de pieza 1 y Conjunto de pieza 2. Si bien pueden parecer iguales, son diferentes entre sí. Imprime una placa en un color y la otra placa en un color diferente. No imprimas la misma plancha dos veces o las piezas no se clasificarán correctamente. Lo mismo se aplica si está utilizando STL. La pieza 1.stl son las piezas de un jugador y la pieza 2.stl son las piezas del segundo jugador.\nLo imprimí con una altura de capa de 0,2 mm sin soportes.\n\nPrueba de entrada/tablero de juego: al diseñar el modelo, se me ocurrieron 2 entradas para las piezas del juego, pero no podía decidir cuál me gustaba más. Así que te dejo la elección a ti. La Prueba de 2 Entradas es una pequeña impresión de prueba que tiene ambas entradas para que puedas jugar con ellas e imprimir la que más te guste. Cuando hayas decidido qué diseño de entrada te gusta, puedes imprimir el tablero con la entrada correspondiente.\nNo requiere soporte, pero lo imprimiría con una altura de capa de 0,15 mm, ya que encuentro que 0,2 mm se hunde un poco en algunos salientes.\n\nBase: esta es una impresión bastante básica y se imprime bien sin soporte a una altura de capa de 0,2 mm.",
+ "use_cases": [],
+ "tags": [
+  "conectar 4",
+  "paso a través",
+  "diseño de paso",
+  "paso imposible",
+  "juego",
+  "juguete",
+  "juego de mesa",
+  "4 seguidos",
+  "espiral",
+  "girar",
+  "vórtice",
+  "autoclasificación"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5725b46ea65cf/design/2024-10-27_12df08f9e0121.gif",
+ "images": [
+  "previews/01.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   600,
+   600
+  ],
+  "previews/profiles/669364.jpg": [
+   320,
+   240
+  ],
+  "previews/profiles/674290.jpg": [
+   320,
+   240
+  ],
+  "previews/profiles/1900561.jpg": [
+   600,
+   1332
+  ],
+  "previews/profiles/1232202.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/692221.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1006369.jpg": [
+   600,
+   1065
+  ],
+  "previews/profiles/1024676.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3456633.jpg": [
+   600,
+   901
+  ],
+  "previews/profiles/3031528.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2122822.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2605190.jpg": [
+   600,
+   544
+  ],
+  "previews/profiles/673635.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1439843.jpg": [
+   600,
+   747
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

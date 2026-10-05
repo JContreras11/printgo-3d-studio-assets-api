@@ -1,0 +1,331 @@
+{
+ "files": [
+  {
+   "path": "model/edicion-completa-19h30.3mf.xz",
+   "instance_id": "3167411",
+   "thumbnail": "previews/profiles/3167411.jpg",
+   "print_time_h": 19.5,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 124,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A2L",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "P1P",
+    "X1",
+    "P1S",
+    "X1E",
+    "P2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "General PLA profile",
+    "profile_notes": "-0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-05-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 6907824,
+   "sha256": "c0d537375e4a2b6fd9ae8a1560c180d9b4b19b1f82c0038bcccabce68047cedf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/edicion-completa-12h42.3mf.xz",
+   "instance_id": "3625986",
+   "thumbnail": "previews/profiles/3625986.jpg",
+   "print_time_h": 12.7,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "A1 Mini profile (CASE AND COVER ONLY)",
+    "profile_notes": "0.2mm layer, 3 walls, 8% infill",
+    "creation_date": "2026-08-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "photos": 3
+   },
+   "name": "Versión mini",
+   "size": 3266844,
+   "sha256": "c536f7c3b48ef0960eb10394795fc8afc014a2370fac1127197bc6414fcbe662",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/edicion-completa-2h36.3mf.xz",
+   "instance_id": "3681784",
+   "thumbnail": "previews/profiles/3681784.jpg",
+   "print_time_h": 2.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "X1E",
+    "P1P",
+    "A1",
+    "P1S",
+    "P2S",
+    "H2S",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "A1 mini aplhabet",
+    "profile_notes": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 3140316,
+   "sha256": "c782e271d4da0d8b8fded3573b52a44437faa189ceaf2919521e4132c4c50e8a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/edicion-completa-4h.3mf.xz",
+   "instance_id": "3782525",
+   "thumbnail": "previews/profiles/3782525.jpg",
+   "print_time_h": 4,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "A1",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Hebrew Alphabet pack",
+    "profile_notes": "-0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4139180,
+   "sha256": "0e91748b5bbbb7b66c146b8d3955493e794d611d1fff4c799f7357e388b6756f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/edicion-completa-4h54.3mf.xz",
+   "instance_id": "3591169",
+   "thumbnail": "previews/profiles/3591169.jpg",
+   "print_time_h": 4.9,
+   "plates": 3,
+   "rating": 4.5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Spanish alphabet",
+    "creation_date": "2026-08-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 3409740,
+   "sha256": "d57ebf73f8c69a703e3fc368b21bfbd1452c537bf2a21c6fbe05b0406aa52e56",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/edicion-completa-5h36.3mf.xz",
+   "instance_id": "3533967",
+   "thumbnail": "previews/profiles/3533967.jpg",
+   "print_time_h": 5.6,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "A2L",
+    "H2D",
+    "A1",
+    "X1E",
+    "P1P",
+    "H2C",
+    "X2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Turkish Alphabet pack",
+    "profile_notes": "-0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-08-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4175008,
+   "sha256": "e9aea78518c98f556ddfe8ba3bfcbe25af0a5e47fbdd896d8d829ec550b2a72f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2841172",
+ "title": "Edición completa del juego Hangman Ultimate",
+ "slug": "hangman-ultimate-full-game-edition",
+ "url": "https://makerworld.com/en/models/2841172-hangman-ultimate-full-game-edition",
+ "author": "LumeMeHome",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¡Antes de imprimir, asegúrese de leer 'Consejos de montaje'!\nHangman Ultimate – Edición completa del juego\n¡Dale vida al clásico juego del Ahorcado con este juego de mesa completo y totalmente imprimible!\nTodos los componentes caben perfectamente dentro de una caja de almacenamiento compacta que mide 172 mm × 240 mm, lo que la hace perfecta tanto para uso doméstico como para viajes.\nEl conjunto incluye:\nUn conjunto completo de letras para crear palabras.\nUn tablero desplegable para mostrar la palabra oculta.\nUn tablero alfabético con marcadores para rastrear las letras usadas.\nModelo plegable de horca y ahorcado.\nRequisitos de montaje\n34× imanes de neodimio de 4×2 mm (46 para A1 mini)\nPegamento necesario para el montaje.\n\nEl modelo fue diseñado con:\nImpresión 3D sencilla y fiable\nAlmacenamiento conveniente\nJuego divertido y satisfactorio.\n\nAdvertencia: Este producto contiene piezas pequeñas e imanes. Mantener fuera del alcance de los niños.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "juego de mesa"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-05-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US30852bf0e24834/design/f6a2fc5826270525.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3167411.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3625986.jpg": [
+   600,
+   590
+  ],
+  "previews/profiles/3681784.jpg": [
+   600,
+   314
+  ],
+  "previews/profiles/3782525.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3591169.jpg": [
+   441,
+   625
+  ],
+  "previews/profiles/3533967.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

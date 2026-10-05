@@ -1,0 +1,430 @@
+{
+ "files": [
+  {
+   "path": "model/hedronstack-juego-6h06.3mf.xz",
+   "instance_id": "2564283",
+   "thumbnail": "previews/profiles/2564283.jpg",
+   "print_time_h": 6.1,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "H2C",
+    "P1S",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.12mm layer, 4 walls, 10% infill",
+    "creation_date": "2026-02-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1294452,
+   "sha256": "6c1d159939d20bf98ca3fbfac4fa34bdffb19069f3c7818bd861b3cc12a2e582",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-13h54.3mf.xz",
+   "instance_id": "2636998",
+   "thumbnail": "previews/profiles/2636998.jpg",
+   "print_time_h": 13.9,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "AMS - 0.2mm layer, 2 walls, 15% infill - All-in-one",
+    "profile_notes": "Wandgenerator: Arachne Oberflächen- und Unterflächenmuster: konzentrisch Wurde für das AMS angepasst, damit zwei Sets und eine Basis direkt in zwei Farben gedruckt werden können per Druck nach Objekt. Ebenso wurden alle Basen bereitgestellt.",
+    "creation_date": "2026-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3397164,
+   "sha256": "dcd0ae3c5ba2c3578bed419e648f2e51743ef3c94ad6675034939c1cb02e082a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-24min.3mf.xz",
+   "instance_id": "2707937",
+   "thumbnail": "previews/profiles/2707937.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "P1P",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Test Piece",
+    "profile_notes": "Quickly and cheaply dial in your print settings using this small test piece. I originally made this after seeing surface scarring with silk filament, and used it to tune print settings and chamber cooling. Originally this model was a 1x1 piece, I updated it to a 2x1 for improved bed adhesion and a more representative surface. If you experience issues with bed adhesion, it's a good idea to clean your build plate with soap and water before printing the full game.",
+    "creation_date": "2026-05-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1300192,
+   "sha256": "062e955b00cf3402c7d04e0cb47354ab583694cafa15f37520092816b0ed5d23",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-48min.3mf.xz",
+   "instance_id": "2739878",
+   "thumbnail": "previews/profiles/2739878.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "P1P",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "base for game! less than an hour!",
+    "creation_date": "2026-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1450592,
+   "sha256": "df43bd74ca83c763a66abb9c670721e80796450e846d928de8d5c28c1959ccb1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-4h30.3mf.xz",
+   "instance_id": "2701192",
+   "thumbnail": "previews/profiles/2701192.jpg",
+   "print_time_h": 4.5,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 29,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Two Player Set - 0.2mm layer, 3 walls, 5% infill",
+    "profile_notes": "Two Player Set - just what you need to play",
+    "creation_date": "2026-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1476520,
+   "sha256": "d8ed593dee86c2f5a22de8a9efe7ac697cfe5f9842be185de9b96176a4a55c86",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-6h18.3mf.xz",
+   "instance_id": "2701703",
+   "thumbnail": "previews/profiles/2701703.jpg",
+   "print_time_h": 6.3,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Three Player Set - 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Two Player Set - just what you need to play",
+    "creation_date": "2026-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1682852,
+   "sha256": "ea53ef84e8a19d979f91c21c56548f3659eb2242f9246ffc75daab299a037b2d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-8h06.3mf.xz",
+   "instance_id": "2636915",
+   "thumbnail": "previews/profiles/2636915.jpg",
+   "print_time_h": 8.1,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 97,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "P1S",
+    "H2S",
+    "A1",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "X1E",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 2429556,
+   "sha256": "d28f32d76b4127fa5ee5b74583cd527668fc85033f5a8d2e713bdd129699ccc0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hedronstack-juego-8h54.3mf.xz",
+   "instance_id": "2702792",
+   "thumbnail": "previews/profiles/2702792.jpg",
+   "print_time_h": 8.9,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 23,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Four Player Set - 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Four Player Set - just what you need to play",
+    "creation_date": "2026-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2173728,
+   "sha256": "b77c365347290a4cc7c1bac7ad2652a4d3b896da83741ca1d9cad623e986ac7a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2341542",
+ "title": "HedronStack (juego de equilibrio/apilamiento en 3D)",
+ "slug": "hedronstack-3d-balance-stacking-game",
+ "url": "https://makerworld.com/en/models/2341542-hedronstack-3d-balance-stacking-game",
+ "author": "LaisVoon",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "Este es un juego de apilamiento en el que los jugadores colocan cuidadosamente piezas tridimensionales complejas en una estructura en crecimiento, juzgando la alineación, la distribución del peso y la estabilidad. Si bien el objetivo es construir más alto que tus oponentes, empujar la estructura demasiado puede provocar un colapso y una derrota instantánea.\n\nEl juego se basa en un octaedro truncado, un sólido de Arquímedes y un poliedro que llena el espacio. Esta forma puede llenar completamente el espacio 3D repitiendo copias de sí misma colocadas cara a cara, formando un patrón de panal. A medida que los jugadores apilan las piezas, descubren cómo estas formas encajan en tres dimensiones.\n\nHedronStack puede parecer intuitivo, pero comprender cómo interactúan las piezas puede requerir algunos intentos. Los primeros juegos se centran en comprender cómo las piezas se alinean y se apoyan entre sí; una vez que esto hace clic, la toma de decisiones se vuelve más estratégica y deliberada. El juego evoluciona naturalmente con la experiencia y la dificultad se puede ajustar cambiando el tamaño de la base y la cantidad de piezas.\nContenidos\n8 piezas únicas y apilables forman un conjunto, cada una compuesta por cuatro octaedros truncados interconectados dispuestos en distintas configuraciones.\n4 opciones de base, según el número de jugadores y el modo de juego. Para 1 o 2 jugadores: use la base pequeña (HedronStack-Base-Small)\nPara 3-4 jugadores: usa la base mediana (HedronStack-Base-Medium)\nPara 5 o más jugadores: usa la base grande (HedronStack-Base-Large)\nBase expandible opcional: una base con muchas posiciones iniciales que ofrece más libertad en la colocación de piezas, más estabilidad estructural y es ideal para construcciones creativas (HedronStack-Base-Expandable)\n\nReglas\nDebe haber una cantidad igual de cada pieza. Idealmente, la cantidad de conjuntos de piezas completas debería aumentar con la cantidad de jugadores. 2 jugadores – 2 sets, 3 jugadores – 3 sets, etc. Además, cada jugador debe tener su propio set de color individual, lo que ayuda a diferenciar qué pieza se coloca más arriba. Si no hay conjuntos de varios colores disponibles, los jugadores pueden mezclar todas las piezas disponibles en un solo grupo y sacar de él; Los jugadores deben entonces prestar mucha atención a qué pieza está colocada más arriba.\n\nAl comienzo del juego, los jugadores sacan dos piezas al azar. Luego, los jugadores se turnan para colocar una pieza en la estructura, asegurándose de que se alinee con los octaedros truncados adyacentes. Alinear significa colocar una pieza de modo que los lados que tocan otras piezas se alineen uniformemente y queden al ras, sin espacios entre ellos. Al colocar una pieza, el jugador no debe tocar ninguna otra pieza excepto la que está colocando. Después de colocar con éxito una pieza, el jugador roba una nueva pieza al azar, si queda alguna.\n\nAl colocar la primera pieza del juego, al menos uno de sus octaedros truncados debe encajar de forma segura en una ranura cóncava inicial de la base. La base pequeña tiene una única ranura central, la base mediana tiene cuatro ranuras iniciales y la base grande tiene ocho.\nModo multijugador\nEl objetivo es que un jugador haga que una de sus piezas alcance el punto más alto antes de que la estructura colapse o se utilicen todas las piezas. Si varias piezas alcanzan la misma altura máxima, gana el jugador que colocó la pieza más reciente a esa altura. El jugador cuyo turno hace que la estructura se derrumbe siempre pierde, incluso si la pieza colocada anteriormente hubiera sido la más alta.\nModo para un jugador\nEn el modo para un jugador, cualquier pieza nueva debe igualar o superar la altura máxima de una pieza colocada previamente. El jugador gana si se colocan todas las piezas disponibles y la estructura permanece en pie. El jugador pierde si la estructura colapsa mientras aún hay piezas disponibles.\nModo creativo\nLos jugadores pueden elegir libremente las piezas disponibles para construir algo hermoso. La base ampliable opcional permite una colocación más flexible y libertad creativa.\nReglas alternativas\nSi el juego es demasiado fácil, utiliza más piezas o prueba con una base más pequeña para tener menos puntos de partida y menos estabilidad.\nSi el juego es demasiado difícil, usa menos piezas o prueba con una base más grande para obtener más puntos de partida y más estabilidad.\nLos jugadores se turnan para construir sus propias torres independientes. El ganador es el jugador que construye la estructura más alta antes de que se acaben las piezas. Cualquier jugador cuya estructura colapse pierde.\nConsejos de juego\nPuede parecer imposible colocar piezas encima sin colapsar la estructura. En su lugar, intente colocar las piezas más abajo; recuerde, el jugador que causa el colapso siempre pierde.\nDebido a que la base es estrecha, construir demasiado hacia un lado puede desestabilizar la estructura. Utilice esto estratégicamente.\nConstruye tu propia rama en lugar de seguir siempre las construcciones de otros jugadores.\nPara impresión 3D\nNo se requieren soportes.\nBoquilla: 0,4 mm\nParámetros: 3 o más\nEnfriamiento: 100%\n\nSi tiene problemas con las esquinas curvadas, evite los perfiles de \"velocidad\": imprima más lento, deje la carcasa abierta, intente reducir la temperatura de la boquilla (por ejemplo, 205 °C para PLA y Silk).\n\n\"Asegurar el grosor vertical de la carcasa\" se puede desactivar para ahorrar filamento\nDespués de imprimir",
+ "use_cases": [],
+ "tags": [
+  "juguete",
+  "rompecabezas",
+  "edro",
+  "poliedro",
+  "pila",
+  "construir",
+  "niño",
+  "adulto",
+  "familia",
+  "junta",
+  "juego",
+  "balance"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb281ab5e4e5675/design/4efe5d5fac3066f1.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   684
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/2564283.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/2636998.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2707937.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2739878.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2701192.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2701703.jpg": [
+   600,
+   820
+  ],
+  "previews/profiles/2636915.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2702792.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

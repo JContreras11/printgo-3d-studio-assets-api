@@ -1,0 +1,222 @@
+{
+ "files": [
+  {
+   "path": "model/vaya-pared-12h48.3mf.xz",
+   "instance_id": "1550656",
+   "thumbnail": "previews/profiles/1550656.jpg",
+   "print_time_h": 12.8,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 53,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 7263700,
+   "sha256": "9c9aade0886b5a4bab30bfe52f2f2cf3ce3a6ad5fed13f2b29cd98b55c16e3fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vaya-pared-11h18.3mf.xz",
+   "instance_id": "3567799",
+   "thumbnail": "previews/profiles/3567799.jpg",
+   "print_time_h": 11.3,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill - A1 mini version",
+    "profile_notes": "Simplemente escale todo para poder imprimir en una A1 mini",
+    "creation_date": "2026-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión mini",
+   "size": 5207564,
+   "sha256": "b2d9a2f618e0260ac3b6ea20005ef525902a26589f6afb190d2eb9988ea8a92b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vaya-pared-7h36.3mf.xz",
+   "instance_id": "2839450",
+   "thumbnail": "previews/profiles/2839450.jpg",
+   "print_time_h": 7.6,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "Reducido 70% (Con Goma TPU)",
+    "creation_date": "2026-03-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 5743084,
+   "sha256": "6f19a0b46d6ecf8fd623cf0361932e8128438250cc6e7af747168ae7cf2f4844",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1484481",
+ "title": "¡Vaya pared! (Juego de mesa para 2-4 jugadores) - El plan del diablo",
+ "slug": "wall-go-2-4-player-board-game-the-devils-plan",
+ "url": "https://makerworld.com/en/models/1484481-wall-go-2-4-player-board-game-the-devils-plan",
+ "author": "andwoh",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Wall Go – Juego de mesa (inspirado en The Devil’s Plan T2)\nTapa disponible aquí\n\nMe encantaron tanto las rondas de \"Wall Go\" en la temporada 2 de The Devil's Plan que tuve que crear mi propio set. Después de algunas sesiones de CAD nocturnas y algunas impresiones de prueba, aquí está...\nLo que obtienes:\nTablero de 7 × 7 con un borde ordenado: los estantes de pared y los base de empeño encajan perfectamente\nEstante de pared y base de empeño: imprima uno por color\nSegmento de pared: imprime 25 por jugador\nPawn: háptica sencilla pero agradable\nPróximamente tapa con clip: siga el modelo para obtener la actualización\nLas reglas se pueden encontrar a continuación (recomiendo encarecidamente ver la parte respectiva en el episodio 10 para comprender las reglas más fácilmente y con más detalle)\nConsejo rápido para sacar las piezas fácilmente:\nSi tienes dificultades para sacar los estantes de la pared y los base de peones, simplemente toma dos peones diagonalmente opuestos y apriétalos entre sí de esta manera:\nPara los estantes de pared, simplemente agarre dos paredes por el borde y levante el estante de esta manera:\n\nImpulsameSi te gusta mi diseño, me encantaría recibir un impulso. ¡Muchas gracias!\nReglas:\nIntroducción\nWall Go es un juego de mesa de control territorial estratégico para 2 a 4 jugadores que se juega en un tablero de cuadrícula de 7×7. Cada jugador controla un conjunto de peones y usa paredes para dividir áreas del tablero. Al mover peones y colocar muros, los jugadores intentan cercar territorios y aislar a sus oponentes. El objetivo es controlar el área más grande del tablero al final del juego, utilizando movimientos inteligentes de peones y colocación táctica de muros.\nComponentes\nTablero de juego: 7×7 casillas.\nPeones: 2 jugadores: cada uno recibe 4 peones.\n3-4 jugadores: cada uno recibe 2 peones.\nCada jugador usa un color diferente.\n\nMuros: 25 segmentos de muro, colocados en las líneas de la cuadrícula entre cuadrados.\nRompemuros: (solo juegos de 3 a 4 jugadores) Cada jugador recibe una ficha de Rompemuros.\nConfiguración\nDeterminar el orden de turno\nSorteo para decidir el primer jugador.\nColocación de peones\n3-4 jugadores:\nLos jugadores se turnan para colocar un peón a la vez en cualquier casilla vacía, hasta que todos hayan colocado ambos peones.\nEl segundo peón de cada jugador se coloca en orden inverso (draft de serpiente), por lo que el orden de colocación es justo.\n2 jugadores:\nDos peones para cada jugador están preestablecidos (según el escenario o acuerdo). Por ejemplo: Jugador 1 – B2, F6; Jugador 2: B2, F2 (si se usa notación de letras y números).\n\nLos dos peones restantes de cada jugador se pueden colocar libremente, uno tras otro, según lo elijan los jugadores en orden alterno.\nCada casilla sólo puede contener un peón.\nSecuencia de giro\nCada jugador se turna. En tu turno, haz lo siguiente en orden:\nMover un peón: selecciona cualquiera de tus peones.\nMuévelo 1 o 2 espacios ortogonalmente (arriba, abajo, izquierda, derecha).\nUn peón puede moverse 1 o 2 espacios en su turno, moviéndose ortogonalmente (arriba, abajo, izquierda o derecha) pero no en diagonal. Los peones se mueven una casilla a la vez, y un peón que se mueve 2 espacios puede cambiar de dirección después del primer paso. (Esto significa que puede doblar una esquina con un movimiento de dos espacios, logrando efectivamente un camino diagonal con dos pasos ortogonales, o incluso regresar a su posición original).\nNo puedes moverte a una casilla que ya esté ocupada por otro peón.\nNo puedes atravesar una pared que bloquee el camino.\n\nConstruye un muro: después de moverte, coloca un muro en cualquier borde abierto del cuadrado donde tu peón terminó su movimiento.\nSi ya existe un muro en ese lado, no se puede construir allí.\nLas paredes son permanentes y no se pueden mover una vez colocadas.\n\nTemporizador de giro (opcional pero recomendado):\nCada jugador tiene 90 segundos para su turno.\nSi se acaba el tiempo, se coloca un muro al azar para ese jugador.\nAcción especial: Rompemuros (solo 3 o 4 jugadores)\nCada jugador puede, una vez por partida, eliminar un muro que bloquee directamente el movimiento de su peón.\nEsto sólo se puede utilizar para eliminar un muro que impide que el peón se mueva fuera de su área.\nEl uso del rompemuros reemplaza la ubicación de la pared para ese turno.\nNo hay rompemuros en juegos de 2 jugadores.\nFin del juego\nEl juego termina cuando todos los peones están completamente aislados en sus propios territorios amurallados; ningún peón puede avanzar más.\nEl juego también termina incluso si no se utilizaron todos los rompemuros.\nAnotar y ganar\nPara cada jugador, cuenta todos los cuadrados (incluidos los espacios vacíos y los peones) dentro de las áreas donde se encuentran sus peones.\nSuma todos esos cuadrados para obtener tu puntuación total.\nGana el jugador con el territorio total más alto.\nDesempate: si las puntuaciones son iguales, gana el jugador con el territorio más grande. Si continúa empatado, el juego es un empate.\nResumen rápido\nMueve un peón hasta 2 espacios (ortogonalmente, no diagonalmente y no hacia una casilla ocupada o bloqueada).\nDespués de moverte, coloca una pared en un borde abierto alrededor de la última casilla de tu peón.\nLos muros no pueden superponerse y son permanentes.\nCada jugador tiene 90 segundos por turno.\nEn juegos de 3 a 4 jugadores, cada jugador puede usar un rompemuros una vez, reemplazando su ubicación de muro para ese turno.\nEl juego termina cuando todos los peones están aislados. Cuente el territorio de cada jugador; el total más grande gana.",
+ "use_cases": [],
+ "tags": [
+  "junta",
+  "juego de mesa",
+  "estrategia",
+  "juego de mesa de estrategia",
+  "juego de estrategia",
+  "el plan del diablo",
+  "juego",
+  "muro",
+  "pared ir",
+  "loco"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa6f0a31bb43c80/design/2025-06-03_7385816f540788.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.gif",
+  "previews/09.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.gif": [
+   600,
+   338
+  ],
+  "previews/09.gif": [
+   600,
+   338
+  ],
+  "previews/profiles/1550656.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3567799.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2839450.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

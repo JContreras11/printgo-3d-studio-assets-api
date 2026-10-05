@@ -1,0 +1,290 @@
+{
+ "files": [
+  {
+   "path": "model/no-caigas-14h30.3mf.xz",
+   "instance_id": "1022165",
+   "thumbnail": "previews/profiles/1022165.jpg",
+   "print_time_h": 14.5,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 41,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "H2S",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Don't Fall Through! The Game - 0.2mm, 2 walls, 8% crosshatch",
+    "profile_notes": "For X-series printers, do not use lidar flow calibration for this print as the calibration lines will conflict with the game plates.",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14754,
+      "weight_g": 172.37,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2184,
+      "weight_g": 16.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12273,
+      "weight_g": 118.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12901,
+      "weight_g": 93.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AA6443"
+       },
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       },
+       {
+        "type": "PLA",
+        "color": "#008040"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5104,
+      "weight_g": 37.97,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#008040"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5251,
+      "weight_g": 39.33,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 10610528,
+   "sha256": "83d86eb407a172c8f7b1a75a444653cda6fa9829b791b1073500be36176c45f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/no-caigas-2h54.3mf.xz",
+   "instance_id": "1022374",
+   "thumbnail": "previews/profiles/1022374.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "P1P",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Original Game Plate Only - 0.2mm layer, 2 walls, 15% Cross",
+    "profile_notes": "For X-series printers, disable the lidar flow calibration.",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10395,
+      "weight_g": 79.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 5291408,
+   "sha256": "3fc1d679de716fbb1794695af9cec6acf1659a3207eac948305b9b903b7acfb0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1037936",
+ "title": "¡No caigas! - Juego de mesa estratégico",
+ "slug": "don-t-fall-through-strategic-board-game",
+ "url": "https://makerworld.com/en/models/1037936-don-t-fall-through-strategic-board-game",
+ "author": "ozarkexpedition",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Entra en el mundo de \"¡No te caigas!\" ¡Una emocionante reinvención del clásico juego de mesa que agrega nuevos y emocionantes giros y elementos estratégicos! Este atractivo juego combina suerte, estrategia y un toque de travesura mientras los jugadores navegan por una traicionera cuadrícula de 7x7 mientras intentan evitar caer por agujeros inesperados.\n\n¡Un juego de estrategia totalmente personalizable para familias, amigos y mentes creativas! Construye, modifica y juega a tu manera a través de esta cuadrícula de desafíos de 7x7. Con infinitas posibilidades de diseño y cambios en la jugabilidad, este es un juego que evoluciona a medida que tú lo haces. En Ozarkexpeditions, siempre intentamos diseñar nuestros juegos y juguetes teniendo en cuenta el valor de repetición.\nMembresía ¡Hola creadores! ¿Quieres vender copias impresas de todos nuestros juegos, incluido Don't Fall Through? Considere suscribirse a nuestra licencia comercial MakerWorld y comience a vender juguetes y juegos de calidad. ¡Salud! ¡Archivos de pasos personalizados ahora disponibles! - Crea tu propio juego personalizado descargando los archivos STEP para el tablero de juego y los controles deslizantes. Es muy fácil usar los negativos donde le gustaría crear un agujero y simplemente eliminarlo de la pieza en forma booleana. Tienes mi permiso para publicar tus propias creaciones desde tu tablero de juego en MakerWorld, pero solo el tablero de juego; incluye un enlace para que la gente descargue el juego base aquí. ¡Gracias!\nCaracterísticas de diseño\nTablero de juego imprimible en 3D con filas y columnas deslizantes\nCrea tus propios juegos\nMúltiples modos de juego para experiencias de juego variadas\nPerfecto para noches de juegos familiares o competiciones amistosas.\nDiseñado para 2-4 jugadores, de 6 años en adelante\nComponentes del juego\n1 tablero de juego principal (cuadrícula de 7x7)\n14 piezas deslizantes de fila/columna\n4 juegos de canicas de 3 colores (3 por jugador)\n1 dado de seis caras\nVarias placas de juego intercambiables.\nNotas del fabricante y montaje\nHemos incluido archivos STEP para el diseño del plato de juego, lo que permite a los creadores crear y compartir sus propias variaciones personalizadas. Ya sea que quieras modificar los patrones de agujeros, agregar espacios especiales o crear versiones temáticas, ¡las posibilidades son infinitas! Comparta sus diseños de placas de juego personalizadas cargándolas como nuevos perfiles de impresión.\nReglas básicas del juego\nConfiguración\nMonta el tablero de juego con la placa de juego elegida: El jugador más joven elegirá la posición de los controles deslizantes para el primer juego.\nEn cada juego posterior, el siguiente jugador elegirá el patrón deslizante inicial.\n\nCada jugador recibe 3 canicas (también conocidas como \"Vidas\")\nEl primer espacio del tablero está marcado con un círculo verde, que indica dónde los jugadores colocan su canica después de su primera tirada. Este espacio se cuenta como el punto de partida para el movimiento según la tirada del dado.\nEl jugador más joven va primero y luego el juego continúa en el sentido de las agujas del reloj.\nJugabilidad principal\nLos jugadores se turnan para lanzar un único dado de seis caras.\nMueve tu pieza el número de espacios que se muestran en el dado.\nEl movimiento sigue un camino serpenteante a través del tablero.\nDespués de moverse, el jugador PUEDE deslizar cualquier fila o columna una posición. (Para evitar que las canicas salten, mueva suavemente los controles deslizantes usando ambas manijas)\nNo puedes mover un control deslizante a la posición desde donde lo acaba de mover el último jugador.\nAterrizar en la canica de otro jugador hará que ese otro jugador retroceda dos espacios.\nEspacios Especiales\nEspacio Switch rojo: Debes posicionarte Switch con un jugador detrás de ti. Si no hay ningún jugador detrás de ti, tendrás que empezar de nuevo con esa pelota desde el espacio inicial.\nEspacio Switch verde: puedes posicionar Switch con cualquier jugador delante de ti.\nEspacios verdes hacia adelante (3): Puede avanzar 2 espacios adicionales.\nEspacios traseros rojos (3): Debe retroceder 3 espacios.\nAgujeros y seguridad\nAlgunos orificios están permanentemente cubiertos (espacios seguros), pero aún puedes mirar a través de ellos para ver la posición del control deslizante.\nOtros agujeros pueden revelarse o cubrirse mediante movimientos deslizantes.\nAterrizar en un hoyo abierto: Pierde una \"vida\" de canica.\nComplete el movimiento del control deslizante como de costumbre.\n\nCondiciones ganadoras\nEl primer jugador que llegue al espacio de meta gana.\nSi todos los jugadores pierden sus 3 vidas, gana el jugador que haya progresado más.\nVariaciones del juego\nModo clásico\nJugabilidad de estilo tradicional\nAmplía estas reglas con tus propias reglas de movimiento de canicas.\nCentrarse en evitar agujeros y movimientos deslizantes tácticos.\nJuega varias canicas al mismo tiempo desde el principio\nDesafío de equipo\nForme equipos de dos, comparta “vidas” entre compañeros de equipo, turnos para moverse y deslizarse\nGana el primer equipo que consiga que ambos jugadores lleguen al final.\nModo de carrera\nUna variante de juego rápido en la que comienzas con 2 vidas en lugar de 3 y solo usas la mitad del tablero.\nDesafíos personalizados\nCrea tus propias variaciones de juego diseñando platos personalizados con:\nDiferentes patrones de agujeros\nNuevos diseños de espacios especiales.\nDiseños temáticos\nCaminos alternativos\nIntención de diseño\n\"Don't Fall Through\" se creó para reunir a las familias y disfrutar de una diversión estratégica y atractiva, al tiempo que ofrece a los creadores la oportunidad de ampliar y personalizar su experiencia de juego. El diseño modular permite muchas variaciones manteniendo la emoción central del concepto original. Hay mucho que explorar aquí y estamos delgados.",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "estrategia",
+  "juego en solitario",
+  "cuatro jugadores",
+  "juego de dos jugadores",
+  "noche de juegos",
+  "competencia",
+  "familiar",
+  "apto para niños",
+  "suspense",
+  "acción",
+  "mármol"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USce519fefd6ebb1/design/2025-01-25_2d910ebdfc5b1.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   633
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1022165.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1022374.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

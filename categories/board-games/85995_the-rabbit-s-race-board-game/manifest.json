@@ -1,0 +1,441 @@
+{
+ "files": [
+  {
+   "path": "model/carrera-conejo-15h.3mf.xz",
+   "instance_id": "92710",
+   "thumbnail": "previews/profiles/92710.jpg",
+   "print_time_h": 15,
+   "plates": 11,
+   "rating": 4.9,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2C",
+    "P1S",
+    "A1",
+    "P1P",
+    "X1",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 12% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 578,
+      "weight_g": 1.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F95D73"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2887,
+      "weight_g": 22.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9245,
+      "weight_g": 97.04,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1481,
+      "weight_g": 8.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F330F9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1249,
+      "weight_g": 2.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 495,
+      "weight_g": 0.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0ACC38"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3890,
+      "weight_g": 37.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1457,
+      "weight_g": 8.08,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       },
+       {
+        "type": "PLA",
+        "color": "#0ACC38"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13375,
+      "weight_g": 119.4,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F330F9"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9714,
+      "weight_g": 121.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9083,
+      "weight_g": 95.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       },
+       {
+        "type": "PLA",
+        "color": "#0ACC38"
+       },
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     }
+    ],
+    "photos": 11
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2084856,
+   "sha256": "d61fd200ba6c51c8ce81688335e4f423727c430bac765fce29d0c1f620f3e3ae",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/carrera-conejo-20h18.3mf.xz",
+   "instance_id": "1101253",
+   "thumbnail": "previews/profiles/1101253.jpg",
+   "print_time_h": 20.3,
+   "plates": 9,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "A1",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 12% infill",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1199,
+      "weight_g": 5,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 25193,
+      "weight_g": 178.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10885,
+      "weight_g": 97.04,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1910,
+      "weight_g": 11.36,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4029,
+      "weight_g": 37.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5934,
+      "weight_g": 38.89,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7C4B00"
+       },
+       {
+        "type": "PLA",
+        "color": "#0ACC38"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16968,
+      "weight_g": 119.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13440,
+      "weight_g": 121.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AF7933"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10748,
+      "weight_g": 97.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       },
+       {
+        "type": "PLA",
+        "color": "#0ACC38"
+       },
+       {
+        "type": "PLA",
+        "color": "#DCDCDC"
+       }
+      ]
+     }
+    ],
+    "photos": 9
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2159268,
+   "sha256": "353fdad800ad47b11214bf19607746a76c5f44e92bb14f2a194a2c84af64b357",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "85995",
+ "title": "La carrera del conejo - Juego de mesa",
+ "slug": "the-rabbit-s-race-board-game",
+ "url": "https://makerworld.com/en/models/85995-the-rabbit-s-race-board-game",
+ "author": "Sparks3D",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¿Estás buscando un nuevo juego de mesa que involucre a toda la familia en momentos de pura diversión y desafío estratégico? ¡\"La carrera del conejo\" es la respuesta que has estado buscando! Este innovador y emocionante juego promete convertirse en el nuevo favorito para veladas familiares, fiestas y reuniones con amigos.\n¿Qué es La carrera del conejo?\nThe Rabbit's Race es un juego de habilidad y estrategia, diseñado para 2-6 jugadores, donde tu objetivo es mantener a un lindo conejito en equilibrio sobre una pared de bloques de colores. El juego consta de una pared formada por 45 bloques: 5 representan la hierba, 16 naranjas (las zanahorias) y los restantes representan el suelo. Cada jugador tiene la tarea de empujar suavemente los bloques fuera de la pared, teniendo cuidado de no dejar caer al conejito.\n¿Cómo jugar?\nEn cada turno, los jugadores usan una pequeña pala para mover un bloque de la pared. Si eliges mover una \"zanahoria\", deberás afrontar un desafío adicional lanzando un dado de color que puede cambiar drásticamente el curso del juego. Los dados tienen caras numeradas y coloreadas, cada una de las cuales corresponde a diferentes acciones, como mover el conejo, quitar otros bloques o, en algunos casos, reconstruir parte de la pared. La tensión aumenta con cada movimiento, ya que los jugadores deben considerar cada elección para mantener el equilibrio de la pared. En esta descarga se incluye un archivo con el folleto del juego en inglés e italiano.\n¿Por qué es especial \"La carrera del conejo\"?\nEste juego combina la emoción de la estrategia y la suerte con un componente físico de habilidad manual. Apto para todas las edades, fomenta el pensamiento crítico, la planificación y la paciencia, lo que lo hace perfecto para jugadores de todas las edades.\n¿Qué materiales debería utilizar para imprimirlo?\nEste juego está diseñado para ser impreso íntegramente en PLA+.\n¿Cómo imprimirlo?\nUtilizar boquilla 0.4, capa 0.1/0.2, no se necesitan soportes ni balsas en ninguna parte del producto. El proyecto también incluye archivos de impresión para la caja de almacenamiento del juego: para imprimir la tapa, importe el archivo \"Lid\" al cortador, divídalo en objetos y coloree las partes por separado. Si no desea imprimir las flores en la tapa, mantenga el archivo intacto después de importarlo e imprima con un solo color. Para el conejito, los dados, los soportes, recomiendo un relleno rectilíneo del 15/20%. Los tres círculos de colores deben estar pegados a los dados. Para imprimir los bloques de césped, utilicé marrón y verde con un cambio de color (eres libre de elegir cuándo cambiar el color). Todas las piezas y las cantidades necesarias para el juego se enumeran en el folleto del juego en PDF adjunto al proyecto.",
+ "use_cases": [],
+ "tags": [
+  "conejo",
+  "juego",
+  "juegos",
+  "jugador",
+  "juegos de mesa",
+  "juego de mesa",
+  "estrategia",
+  "juegos familiares",
+  "juego de estrategia"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2023-12-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US134a5ef993e503/design/2023-12-08_1ao8nnyh07n2.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   571
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/92710.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1101253.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

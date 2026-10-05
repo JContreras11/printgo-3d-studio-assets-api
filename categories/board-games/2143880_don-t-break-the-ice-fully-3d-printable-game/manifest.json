@@ -1,0 +1,122 @@
+{
+ "files": [
+  {
+   "path": "model/no-rompas.3mf.xz",
+   "instance_id": "2322340",
+   "thumbnail": "previews/profiles/2322340.jpg",
+   "print_time_h": 11,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 53,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 4,
+    "profile_title": "Don't Break The Ice Fully 3d Printed Best Result Settings"
+   },
+   "name": "Versión estándar",
+   "size": 8865616,
+   "sha256": "d7cdbaf40e894771fc48b72620f00efdbb877b807d16671b71415a65901b044b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2143880",
+ "title": "No rompas el hielo: juego totalmente imprimible en 3D",
+ "slug": "don-t-break-the-ice-fully-3d-printable-game",
+ "url": "https://makerworld.com/en/models/2143880-don-t-break-the-ice-fully-3d-printable-game",
+ "author": "kayson_3d",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "No rompas el hielo: juego totalmente imprimible en 3D\n\nMantenga la configuración que tengo en 3mf para obtener mejores resultados.\n\nEsta es una versión totalmente imprimible en 3D del clásico juego de mesa Don't Break the Ice, rediseñada para una impresión confiable, una jugabilidad fluida y un fácil montaje.\n\nEl modelo incluye una estructura modular, cubitos de hielo extraíbles, una figura de pingüino y martillos. Los jugadores se turnan para derribar bloques de hielo; si el pingüino cae a través del hielo, ese jugador pierde.\n\n2-3 jugadores, un juego familiar/amigos\n\nSi te encanta, deja un comentario y una imagen.\n\nJugué este juego con algunos amigos y al instante pensé que debería hacer una versión impresa en 3D y salté a Blender y ¡¡¡aquí está ahora!!!\n\nUN GRITO A: Impresión y aprendizaje 3D: Para el DISEÑO DEL CUBO DE HIELO:\n\nImpulsarme Un impulso sería increíble. Pasé mucho tiempo trabajando en ello, espero que lo disfrutes.",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "totalmente imprimible en 3d",
+  "totalmente impreso en 3d",
+  "sin ams",
+  "noams",
+  "hielo",
+  "no rompas el hielo",
+  "no rompas el cubito de hielo",
+  "frío",
+  "regalo de navidad",
+  "pingüino",
+  "juego de escritorio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7baf5a977ad369/design/2025-12-21_e1717938b1e85.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2322340.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

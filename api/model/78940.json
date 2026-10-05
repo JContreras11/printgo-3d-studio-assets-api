@@ -1,0 +1,984 @@
+{
+ "files": [
+  {
+   "path": "model/hora-punta-9h30.3mf.xz",
+   "instance_id": "83233",
+   "thumbnail": "previews/profiles/83233.jpg",
+   "print_time_h": 9.5,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 134,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Parking lot",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16096,
+      "weight_g": 159.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#7F7F7F"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 13449,
+      "weight_g": 141.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4880,
+      "weight_g": 34.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#1E1E1E"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5109316,
+   "sha256": "ba9a9975dfe2f8191e260f663fe651b8c9f9278fcdafef7078f28242c78d2290",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-11h06.3mf.xz",
+   "instance_id": "403226",
+   "thumbnail": "previews/profiles/403226.jpg",
+   "print_time_h": 11.1,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "H2C",
+    "H2S",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.52",
+    "profile_title": "QR-Code in Lid 0.2mm layer, 3 walls, 15% Gyroid-Infill",
+    "creation_date": "2024-06-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17453,
+      "weight_g": 163.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       },
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17714,
+      "weight_g": 166.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4837,
+      "weight_g": 35.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5207648,
+   "sha256": "fbbc31aea4e1024caa10dab7a6c00122c01612531218d4e5fe5be0ecd5b00307",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-11h18.3mf.xz",
+   "instance_id": "421007",
+   "thumbnail": "previews/profiles/421007.jpg",
+   "print_time_h": 11.3,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 34,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "QR code added to the lid and a cone added",
+    "profile_notes": "QR code added to the lid and a cone added",
+    "creation_date": "2024-06-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19300,
+      "weight_g": 160.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#898989"
+       },
+       {
+        "type": "PLA",
+        "color": "#F98C36"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 20593,
+      "weight_g": 163.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#898989"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5338,
+      "weight_g": 34.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1489,
+      "weight_g": 6.71,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1995,
+      "weight_g": 8.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F98C36"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5443708,
+   "sha256": "6ed31e4636dad8cc411b1d6a514c3ac33881f11829b997b95b50d946e63a8769",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-13h30.3mf.xz",
+   "instance_id": "364269",
+   "thumbnail": "previews/profiles/364269.jpg",
+   "print_time_h": 13.5,
+   "plates": 8,
+   "rating": 4.6,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "H2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.52",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill, no magnets necessary",
+    "profile_notes": "Alternative to the magnets to hold it together. No AMS needed. Less Purge. A bit smaller",
+    "creation_date": "2024-05-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12403,
+      "weight_g": 112.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#7F7F7F"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10550,
+      "weight_g": 99.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3396,
+      "weight_g": 20.75,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#1E1E1E"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5732,
+      "weight_g": 31.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4743,
+      "weight_g": 25.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1732,
+      "weight_g": 6.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7F7F7F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5757,
+      "weight_g": 31.89,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5741,
+      "weight_g": 31.89,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     }
+    ],
+    "photos": 8
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 8673384,
+   "sha256": "5f091a2f7aa0b54dd188019664bb3f3183e76b3056f3198e727789db46741c29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-4h06.3mf.xz",
+   "instance_id": "768479",
+   "thumbnail": "previews/profiles/768479.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1S",
+    "X1",
+    "H2D",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Couvercle avec Logo Français",
+    "profile_notes": "Version du couvercle avec logo en Français",
+    "creation_date": "2024-11-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15525,
+      "weight_g": 143.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5007664,
+   "sha256": "4164315d12a181b085ea73b70bda506a34d58e6c60b51b7eeb0f7b186cc49125",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-4h54.3mf.xz",
+   "instance_id": "768489",
+   "thumbnail": "previews/profiles/768489.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Color Red Car",
+    "profile_notes": "Version colorée de la voiture rouge",
+    "creation_date": "2024-11-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 17816,
+      "weight_g": 68.57,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#333333"
+       },
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2829648,
+   "sha256": "9d842353a08bb2cd419562f90fbdd5f38f811f52bcc24e66d7d685401f9f7a2a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-5h24.3mf.xz",
+   "instance_id": "2508217",
+   "thumbnail": "previews/profiles/2508217.jpg",
+   "print_time_h": 5.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Alternative front cover with 2 qr codes. AMS compatible",
+    "creation_date": "2026-01-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3961168,
+   "sha256": "bf77a479d24a18ddb848abf5a8ed438565a3763e06923c8a13ffc4f240fba13a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-6h36.3mf.xz",
+   "instance_id": "95863",
+   "thumbnail": "previews/profiles/95863.jpg",
+   "print_time_h": 6.6,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 118,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "P1S",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Cars. Print plate 2 in red color",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22134,
+      "weight_g": 170.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1604,
+      "weight_g": 8.06,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5101264,
+   "sha256": "e59922b98f0277cc6dea7ab86faeb915e100ef3d141bb54ae99dbfbed33acadd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-8h06.3mf.xz",
+   "instance_id": "399543",
+   "thumbnail": "previews/profiles/399543.jpg",
+   "print_time_h": 8.1,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 38,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.52",
+    "profile_title": "Rush Hour Cars & Cabrio - Print by Object",
+    "creation_date": "2024-06-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5714,
+      "weight_g": 33.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#408002"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF0A"
+       },
+       {
+        "type": "PLA",
+        "color": "#0F80FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5729,
+      "weight_g": 33.37,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#333333"
+       },
+       {
+        "type": "PLA",
+        "color": "#108080"
+       },
+       {
+        "type": "PLA",
+        "color": "#CC66FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5732,
+      "weight_g": 33.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       },
+       {
+        "type": "PLA",
+        "color": "#B3B3B3"
+       },
+       {
+        "type": "PLA",
+        "color": "#804003"
+       },
+       {
+        "type": "PLA",
+        "color": "#FECC66"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10850,
+      "weight_g": 80.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#800040"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#66FF66"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5525892,
+   "sha256": "64227bfa09e6842949406108fb2c5b7178df97f68672d306df76f53e3263b0d3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hora-punta-8h30.3mf.xz",
+   "instance_id": "2127281",
+   "thumbnail": "previews/profiles/2127281.jpg",
+   "print_time_h": 8.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "P1P",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6745604,
+   "sha256": "ce33a5be2ac24d950f080fb083183f07a06a4927f091390db72304ca91c1ec79",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "78940",
+ "title": "Hora punta: juego de lógica con coches",
+ "slug": "rush-hour-logical-game-with-cars",
+ "url": "https://makerworld.com/en/models/78940-rush-hour-logical-game-with-cars",
+ "author": "MartinKozak",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Las reglas de las horas pico son fáciles. Despeja el camino para que el coche rojo pueda salir del aparcamiento. Los autos solo pueden moverse hacia adelante o hacia atrás, ¡sin levantarlos!\n\nImpresión:\nDependiendo de la dificultad del desafío, necesitarás imprimir hasta 4 camiones y 12 autos pequeños. Uno de los coches pequeños (preferiblemente descapotable) debe estar impreso en rojo.\nEl estacionamiento se puede imprimir usando diferentes colores para resaltar carriles y flechas: Opción A: use el cambio de color del filamento en una capa. De 0 a 3,8 mm color blanco, desde 4 hasta arriba color gris.\nOpción B: utilice el archivo 3mf y AMS proporcionados.\n\nEl asfalto es un modelo separado para una mejor visión.\nAltura de capa de 0,2 mm.\nNo se necesitan soportes.\nOtro hardware y montaje:\nAdemás del filamento, también necesitarás 72 imanes cilíndricos de neodimio de 5x1 mm (diámetro x alto). No es obligatorio, pero sí mucho más cómodo jugar con coches magnéticos. Puedes comprarlos directamente en Bambu. Utilice superpegamento para fijar los imanes en su lugar.\nNuevo diseño apto para viajes: la tapa ahora también sirve como soporte y se mantiene en su lugar (tanto en estado cerrado como abierto) mediante 8 piezas de imanes de neodimio de 8x3.\nTrozos de filamento para conectar bisagras con tapa y estacionamiento.\nPuedes generar desafíos usando un generador en línea, por ejemplo aquí. Adjunté varios desafíos de ejemplo.",
+ "use_cases": [],
+ "tags": [
+  "hora punta",
+  "juego",
+  "lógico",
+  "juguete",
+  "niños",
+  "divertido",
+  "auto",
+  "carros"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2023-11-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa0e3e2e6d9dc2/design/2023-11-30_f79ecae4328a6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/83233.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/403226.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/421007.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/364269.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/768479.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/768489.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2508217.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/95863.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/399543.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2127281.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

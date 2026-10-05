@@ -1,0 +1,343 @@
+{
+ "files": [
+  {
+   "path": "model/juego-duelo-7h.3mf.xz",
+   "instance_id": "668561",
+   "thumbnail": "previews/profiles/668561.jpg",
+   "print_time_h": 7,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 141,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "PLA Profile - TESTED",
+    "profile_notes": "Base PLA profile with light supports on the sticks for best results",
+    "creation_date": "2025-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8463,
+      "weight_g": 67,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8101,
+      "weight_g": 93.68,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8507,
+      "weight_g": 67.01,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 856748,
+   "sha256": "2789d17a37b0f3965fcda53162bccf8a3396c44f39d7067a7709b139f48caac9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-duelo-5h12.3mf.xz",
+   "instance_id": "690298",
+   "thumbnail": "previews/profiles/690298.jpg",
+   "print_time_h": 5.2,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill for a1 mini",
+    "profile_notes": "Base need to be super glued",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7606,
+      "weight_g": 54.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1778,
+      "weight_g": 10.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4626,
+      "weight_g": 48.52,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4533,
+      "weight_g": 47.33,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 947436,
+   "sha256": "1a421458c22e12be3af67cbd584279b0e2907efcfc6d0de145b088c983440c39",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-duelo-5h24.3mf.xz",
+   "instance_id": "1117215",
+   "thumbnail": "previews/profiles/1117215.jpg",
+   "print_time_h": 5.4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "A1 mini",
+    "profile_notes": "Changed base for a larger print.",
+    "creation_date": "2025-02-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7563,
+      "weight_g": 52.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7523,
+      "weight_g": 52.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4379,
+      "weight_g": 44.59,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 939428,
+   "sha256": "7def89c4235f439f395b1a459ccdb7f0ac08eae7447672ea9c47165e45c78af2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "736538",
+ "title": "Juego de duelo de globos",
+ "slug": "balloon-duel-game",
+ "url": "https://makerworld.com/en/models/736538-balloon-duel-game",
+ "author": "SimpleSol3D",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Membresía Para comprar derechos comerciales, consulte mi Suscripción de licencia comercial a través de MakerWorld. Esta licencia no permite la venta del archivo o las impresiones.\n\n¡Te esperan horas de diversión con este adictivo juego de duelo de globos!\n\nPiezas adicionales necesarias:\n1 palillo de dientes (cortado por la mitad)\nFilamento o cuerda de TPU\nGlobos pequeños (los globos de agua funcionan mejor\n\nCómo montar:\nImprime las tres placas.\nPresiona el escudo en el palo desnudo.\nHaz un nudo en un extremo de la cuerda (los nudos en forma de 8 funcionan mejor)\nPásalo por la parte inferior del tablero.\nPase la cuerda a través de 2 bloques largos, a través de la cadera del cuerpo, a través de otros 2 bloques largos y de regreso a través del tablero.\nHaz otro nudo\nHaga un nudo en otra cuerda y páselo a través del escudo, 1 bloque largo, a través de los hombros del cuerpo, otro bloque largo y a través de la lanza.\nhacer un nudo\nColoque un globo inflado en el cuello tirando del nudo a través de la hendidura.\nTire hacia arriba del globo para alinear la cabeza hacia arriba.\nRepetir para el segundo jugador.\n\n¡¡¡¡ADVERTENCIA!!!! Los niños deben ser supervisados ​​cuando juegan. Los globos y los palillos pueden causar lesiones. Asegúrese de mantener las manos al final del palo para reducir la posibilidad de lesionarse.",
+ "use_cases": [],
+ "tags": [
+  "globo",
+  "batalla",
+  "duelo",
+  "defensor",
+  "estallido",
+  "juego",
+  "equipo",
+  "niños",
+  "divertido",
+  "actividad",
+  "bricolaje",
+  "construir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc3567097f53fd8/design/2024-10-27_20fc73fb72019.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   810,
+   1440
+  ],
+  "previews/02.jpg": [
+   810,
+   1440
+  ],
+  "previews/03.jpg": [
+   810,
+   1440
+  ],
+  "previews/04.jpg": [
+   1000,
+   562
+  ],
+  "previews/05.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/668561.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/690298.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1117215.jpg": [
+   600,
+   551
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

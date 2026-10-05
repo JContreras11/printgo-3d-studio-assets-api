@@ -1,0 +1,251 @@
+{
+ "files": [
+  {
+   "path": "model/carrera-canicas.3mf.xz",
+   "instance_id": "832628",
+   "thumbnail": "previews/profiles/832628.jpg",
+   "print_time_h": 9.2,
+   "plates": 8,
+   "rating": 4.9,
+   "rating_count": 47,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Pac-man marble run",
+    "profile_notes": "Stainless Steel 8mm size The printing file include a stand for display purpose. The ghost colour can change to suit your preference. This printing exceed A1 mini printing plate.",
+    "creation_date": "2025-01-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7615,
+      "weight_g": 56.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7723,
+      "weight_g": 106.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1007,
+      "weight_g": 3.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7142,
+      "weight_g": 64.13,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 759,
+      "weight_g": 1.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3862,
+      "weight_g": 18.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1250,
+      "weight_g": 3.74,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3169,
+      "weight_g": 38.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 8
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 4750388,
+   "sha256": "33a3b95235d4cb858526630b315a1b2f8c7f3a817fbc7371726655bc0f59057b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "878965",
+ "title": "Carrera de canicas del laberinto de Pac-Man",
+ "slug": "pac-man-labyrinth-marble-run",
+ "url": "https://makerworld.com/en/models/878965-pac-man-labyrinth-marble-run",
+ "author": "rocketlab",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este juego de mesa interactivo reinventa el clásico laberinto de Pac-Man. Ofrece una experiencia divertida y desafiante con múltiples opciones de dificultad. Las características clave incluyen:\nParedes del laberinto azul 3D: el laberinto está rodeado por resistentes paredes azules que guían el mármol a través de intrincados caminos.\nTrampas para fantasmas: cada fantasma (rojo, rosa, azul y naranja) guarda una trampa oculta debajo. Si la canica cae en una trampa debajo de un fantasma, cae en un agujero, creando un obstáculo único que superar.\nJugabilidad de principio a fin: navega por el laberinto desde el punto de \"Inicio\" hasta el \"Final\" mientras evitas obstáculos y trampas.\nCilindros funcionales: se pueden colocar estratégicamente cuatro piezas de cilindros azules para bloquear ciertos agujeros, lo que permite a los jugadores personalizar la dificultad del laberinto.\nDesafío personalizable: la inclusión de trampas y bloqueadores de caminos personalizables garantiza la rejugabilidad con distintos niveles de dificultad.\nEsta pista de mármol laberíntica con temática de Pac-Man es perfecta para los fanáticos del juego retro que disfrutan de los desafíos interactivos. ¡Es una deliciosa mezcla de nostalgia y diversión práctica!\n\nEl tamaño de la bola de metal es de 8 mm.\n\nImpúlsame Si te gusta mi diseño, por favor, impulsame para obtener apoyo. Gracias",
+ "use_cases": [],
+ "tags": [
+  "pacman",
+  "hombre pac",
+  "bola de laberinto",
+  "laberinto",
+  "fantasma",
+  "rompecabezas",
+  "carrera de canicas",
+  "pinball"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf75a3afb9eb004/design/2024-12-14_ae10d5c8914c4.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.gif",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.gif": [
+   300,
+   300
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1000
+  ],
+  "previews/06.png": [
+   1000,
+   1000
+  ],
+  "previews/07.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/832628.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

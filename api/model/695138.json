@@ -1,0 +1,192 @@
+{
+ "files": [
+  {
+   "path": "model/connect-4.3mf.xz",
+   "instance_id": "624040",
+   "thumbnail": "previews/profiles/624040.jpg",
+   "print_time_h": 16.5,
+   "plates": 6,
+   "rating": 4.9,
+   "rating_count": 27,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.4mm nozzle 0.2mm layer height default settings for rest. Enjoy",
+    "creation_date": "2025-02-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6873,
+      "weight_g": 22.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 21312,
+      "weight_g": 122.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2816,
+      "weight_g": 24.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 22679,
+      "weight_g": 176.74,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2729,
+      "weight_g": 18.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2816,
+      "weight_g": 24.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Impresión en PLA",
+   "size": 1620128,
+   "sha256": "67f6f9afbf6f9a4a50500210245f54cb6835be45a34a3dc66b8eca690547985f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "695138",
+ "title": "Connect 4 - Juego de mesa con estuche de libros",
+ "slug": "connect-4-book-case-board-game",
+ "url": "https://makerworld.com/en/models/695138-connect-4-book-case-board-game",
+ "author": "Cosmin.solo",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este es el segundo juego de mi serie de juegos \"Book Case\".\nEl primer juego de la colección es Batleships.\nEs el clásico juego Connect 4, un juego de 2 jugadores, donde compiten para formar la primera línea recta de 4 piezas (horizontal, vertical o diagonal). Los jugadores colocan una sola pieza a la vez, hasta que uno de ellos hace la línea y gana.\nHay 6 placas para imprimir, pero la quinta debe imprimirse 4 veces (2 placas de cada color, para hacer 20 piezas para cada jugador).\nDebido a las estrictas tolerancias, agregué 2 orificios en el costado de la caja para poder sacarla fácilmente de la caja.",
+ "use_cases": [],
+ "tags": [
+  "conectar 4",
+  "conectar4",
+  "juego",
+  "2 jugadores",
+  "divertido",
+  "disfrutar",
+  "juego de niños"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US66ae419be417f1/design/2024-10-11_06c9c94e5a7a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/624040.jpg": [
+   600,
+   434
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

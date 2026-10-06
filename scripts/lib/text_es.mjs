@@ -92,6 +92,13 @@ const FIXES = [
   [/\bcase\b/i, /\b(caja|estuche) (esqueleto|protectora)\b/gi, "funda $2"],
   [/\bcase\b/i, /\bcaso\b/gi, "funda"],
   [/\bcase\b/i, /\bCaso\b/g, "Funda"],
+  // Juguetes de escritorio y antiestrés (reglas del dueño): fidget→antiestrés, print in place→impresión sin ensamblaje
+  [/fidget/i, /\bfidget spinners?\b/gi, "spinner antiestrés"],
+  [/fidget/i, /\bfidgets?\b/gi, "antiestrés"],
+  [/fidget/i, /\binquiet[ao]s?\b/gi, "antiestrés"],
+  [/print.?in.?place/i, /\bimprim\w+ en (su|el) lugar\b/gi, "impresión sin ensamblaje"],
+  [/print.?in.?place/i, /\bin situ\b/gi, "sin ensamblaje"],
+  [/\bdesk toys?\b/i, /\bjuguete (del|para el) escritorio\b/gi, "juguete de escritorio"],
 ];
 const fix = (src, es) => {
   let t = FIXES.reduce((acc, [when, re, to]) => (when.test(src) ? acc.replace(re, to) : acc), es).replace(GLOSS_RE, canon);

@@ -1,0 +1,674 @@
+{
+ "files": [
+  {
+   "path": "model/inquietud-cinetica-2h18.3mf.xz",
+   "instance_id": "1219522",
+   "thumbnail": "previews/profiles/1219522.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 2989,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1E",
+    "H2C",
+    "H2S",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4387,
+      "weight_g": 16.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3822,
+      "weight_g": 26.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1231280,
+   "sha256": "c09e0fa547f9989f0f096959ede6630b83b1c3d6077c8133236eafc1db2f4b60",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-1h.3mf.xz",
+   "instance_id": "2189345",
+   "thumbnail": "previews/profiles/2189345.jpg",
+   "print_time_h": 1,
+   "plates": 2,
+   "rating": 4.2,
+   "rating_count": 38,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X1",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "60% Redesign with same tolerances 0.2mm, 2 plates, 11.8grams",
+    "profile_notes": "Redesigned with 0.2mm tolerances. Print with 0.2mm layer height, no supports and 15% infill. Micro SD card is shown for scale. Enjoy a mini optical illusion!",
+    "creation_date": "2025-11-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1688496,
+   "sha256": "d89b627e62ba975d5f6a47db85a55a2145ab8427a573862ac1727a862bf8f2ed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-1h06.3mf.xz",
+   "instance_id": "1222134",
+   "thumbnail": "previews/profiles/1222134.jpg",
+   "print_time_h": 1.1,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 544,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "X1E",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "More Patterns & removal tool",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1265,
+      "weight_g": 4.89,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1688,
+      "weight_g": 8.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 809,
+      "weight_g": 3.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1174308,
+   "sha256": "a976596bd536100f89d4d636e0228393abd0eafb8486ecff248a5dc941a6c8cc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-1h42.3mf.xz",
+   "instance_id": "1441080",
+   "thumbnail": "previews/profiles/1441080.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 41,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "A1 mini",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Spiral Fidget!",
+    "profile_notes": "Additional print profile with a new spiral design!",
+    "creation_date": "2025-05-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1640120,
+   "sha256": "f4ef68c8ea75561d50245bcc0d58d505e44777c6d9f18649c54c613cd9a9ac7a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-2h.3mf.xz",
+   "instance_id": "2783957",
+   "thumbnail": "previews/profiles/2783957.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2C",
+    "H2S",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill, all PETG",
+    "profile_notes": "Love this design!! Added a version with PETG for all parts. One plates for box and inner gears and the other for the rest.",
+    "creation_date": "2026-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1468472,
+   "sha256": "5f29cd574ebb00d6f695f7efae52090ea44e5b3ef17ae4d3590c32e574486477",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-2h24.3mf.xz",
+   "instance_id": "2103209",
+   "thumbnail": "previews/profiles/2103209.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X1E",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "2 plates: PLA spinners, visible gear + PETG housing, gears",
+    "profile_notes": "Designed to fit on P1S plate. Plate 1: PETG Housing and internal gears Plate 2: Silk PLA+ Spinning plates (3 sets) and visible gear",
+    "creation_date": "2025-11-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1499980,
+   "sha256": "b8bf863366143df3cc7cd548ae1d28a96227d39569026ca5331bc1daae332ad5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-2h30.3mf.xz",
+   "instance_id": "2462745",
+   "thumbnail": "previews/profiles/2462745.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 21,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "X1E",
+    "H2C",
+    "P1P",
+    "P2S",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill HIGH QUALITY",
+    "profile_notes": "0.2mm High Quality profile !!",
+    "creation_date": "2026-01-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1316824,
+   "sha256": "b7ac2dfd107f4eda3845ae23746c5b5b804c68b2161beb3a6d533980183674e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-5h.3mf.xz",
+   "instance_id": "2004271",
+   "thumbnail": "previews/profiles/2004271.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "H2S",
+    "P1P",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "1 piatto, AMS senza sprechi",
+    "creation_date": "2025-10-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1311732,
+   "sha256": "3bac0ed15d727d1b1be218a9658c81cc2b2b2ff6bca01350c25aeb6779c7c565",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-multicolor-1h42.3mf.xz",
+   "instance_id": "1245171",
+   "thumbnail": "previews/profiles/1245171.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 31,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "双色旋转，一盘搞定",
+    "creation_date": "2025-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6351,
+      "weight_g": 44.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1638104,
+   "sha256": "78655a81462af7b3521bf7e1ca1bc2404df28acf5c583dc6fc96da5be9b1786b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-multicolor-1h48.3mf.xz",
+   "instance_id": "1227874",
+   "thumbnail": "previews/profiles/1227874.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 219,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "1 Plate, Multicolor, no Poop - 0.2mm, 2 walls, 15% infill",
+    "profile_notes": "Print by object, objects grouped by color for minimal filament waste 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6525,
+      "weight_g": 43.7,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1401436,
+   "sha256": "f179693843a9fd05145cdd1778357e1f69a3724801a38b8d0b1ce07019fc85a6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-cinetica-multicolor-1h54.3mf.xz",
+   "instance_id": "1245302",
+   "thumbnail": "previews/profiles/1245302.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 23,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "A1_双色旋转，一盘搞定",
+    "creation_date": "2025-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6957,
+      "weight_g": 44.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFF144"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1467568,
+   "sha256": "4644091f24bfbbd9f5f172a362439b1db3bae1d20d8d840c44ccb50e3deab124",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1205691",
+ "title": "inquietud cinética",
+ "slug": "kinetic-fidget",
+ "url": "https://makerworld.com/en/models/1205691-kinetic-fidget",
+ "author": "omulet",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¿Te encanta el diseño? Respete la licencia: NO reventa, NO uso comercial.\n\nKinetic antiestrés: ¡una ilusión giratoria tan fascinante que podrías olvidar lo que estabas haciendo! Dos ruedas que se mueven en direcciones opuestas y crean una ilusión hipnótica que te hará cuestionar la realidad (o al menos tu productividad). Inspirada en la magia cinética de David C. Roy, esta maravilla impresa en 3D es tan divertida de ver como de jugar.\n¿La mejor parte? Sin tornillos, sin pernos, sin pegamento, ¡simplemente júntalos y deja que comience la magia!\n\n19 de marzo: ¡Muchísimas GRACIAS!\n¡Estoy absolutamente impresionado por la increíble respuesta a este modelo! ¡Poder crear un modelo que permaneció #1 en Top Trending durante tres días seguidos es algo que nunca podría haber imaginado! Ver todas sus increíbles impresiones, opciones de colores creativas y críticas entusiastas ha sido realmente inspirador.\nUn enorme GRACIAS a esta increíble comunidad por su apoyo, comentarios y entusiasmo. Ya sea que lo imprimiste, lo mejoraste o simplemente pasaste por aquí para verlo, ¡tú lo hiciste posible!\n¡Sigue girando, sigue creando y sigamos haciendo cosas increíbles juntos!\n\n14 de marzo - actualización: se agregaron más patrones y herramienta de eliminación (nuevo perfil de impresión)\n\nDar vida a un modelo requiere tiempo, esfuerzo y mucho filamento. Si este diseño te ayudó, tu impulso me da 43 gramos de filamento: combustible para la siguiente idea. ¡Gracias por tu apoyo!\nImpulsame\nEl movimiento llega a tu antiestrés cinético favorito\nActualmente se está desarrollando un base motorizado universal.\n\nFeliz de anunciar mi último modelo: OrbLoop: Marble Run antiestrés",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "cinético",
+  "juguete inquieto",
+  "espejismo",
+  "juguete",
+  "rápido",
+  "hilandero antiestrés",
+  "hilandero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US93c60ae3e3b8a1/design/2025-03-13_e742d2d857a1a.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.gif": [
+   800,
+   600
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1219522.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2189345.jpg": [
+   600,
+   387
+  ],
+  "previews/profiles/1222134.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1441080.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2783957.jpg": [
+   600,
+   509
+  ],
+  "previews/profiles/2103209.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2462745.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2004271.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1245171.jpg": [
+   600,
+   693
+  ],
+  "previews/profiles/1227874.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/1245302.jpg": [
+   600,
+   622
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

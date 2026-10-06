@@ -1,0 +1,184 @@
+{
+ "files": [
+  {
+   "path": "model/tela-nasa-11h06.3mf.xz",
+   "instance_id": "3391582",
+   "thumbnail": "previews/profiles/3391582.jpg",
+   "print_time_h": 11.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 61,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "A1",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "AMS Version (Color Swaps Added)",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 11103036,
+   "sha256": "71852d5e2be707639acf08ef0af50a2313faa2e4259130274354bd53f7945078",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tela-nasa-10h48.3mf.xz",
+   "instance_id": "3530510",
+   "thumbnail": "previews/profiles/3530510.jpg",
+   "print_time_h": 10.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "A2L",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "SANS AMS 0.16mm layer, 4 walls, 35% infill"
+   },
+   "name": "Versión estándar",
+   "size": 11006964,
+   "sha256": "efe28ef0fb62a68006eb096d638b5601193e1f9eaf4f839a7b6c06502094f535",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tela-nasa-10h54.3mf.xz",
+   "instance_id": "3466088",
+   "thumbnail": "previews/profiles/3466088.jpg",
+   "print_time_h": 10.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "X1E",
+    "P1S",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X1",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "6 Separated Lobes (Fits A1 MINI)",
+    "creation_date": "2026-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 11361548,
+   "sha256": "8078253c71ec312f5b8f483e4052cf37d29e4d36009a57a3698c1954c3aa4b60",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3018899",
+ "title": "Tela de la NASA: Globo (no se necesita AMS)",
+ "slug": "nasa-fabric-globe-no-ams-needed",
+ "url": "https://makerworld.com/en/models/3018899-nasa-fabric-globe-no-ams-needed",
+ "author": "MeasureOnce",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Impulsame¡Por favor, impulsa si te gusta mi modelo!Licencia comercial -\nColección de telas de la NASA -\n¡POR FAVOR LEA! Notas importantes:\n¡LIMPIA TU PLACA DE CONSTRUCCIÓN Y UTILIZA PEGAMENTO ANTES DE IMPRIMIR! LA ADHESIÓN DE LAS CAPAS ES MUY MUY IMPORTANTE\nUTILICE PLA MATE o PLA BASIC. Este modelo no ha sido probado con filamentos de seda. No recomiendo usarlos debido al potencial de sobreextrusión que puede causar que las capas se fusionen.\nSi está utilizando la versión NO AMS, utilice una altura de capa de 0,16 mm. No cambie este valor. Si se cambia, los cambios de color no se aplicarán a la capa apropiada y la pieza quedará mal.\n--------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nEste modelo utiliza 62 imanes 4x2.\n\nTienda de suministros del fabricante -\nEnlace de Amazon -\nConfiguración de impresión:\nFilamento: Sólo PLA mate o PLA básico\nAltura de capa: 0,16\nParedes: 4\nGenerador de pared: Aracne\nIntercambios de colores:\n************** ¡¡ADVERTENCIA!! LAS CAPAS CORRESPONDEN A UNA ALTURA DE CAPA DE 0,16. SI CAMBIA LA ALTURA DE LA CAPA, ESTOS CAMBIOS DE CAPA NO SE APLICARÁN Y SU IMPRESIÓN NO SE VERÁ COMO SE DESEA. **********************\n\nEmpieza: Negro\nCapa 54: Azul\nCapa 58: Verde\nCapa 60: Blanco\n\nConjunto de imán:\nSerá necesario pegar los imanes. Comience a colocar imanes de la misma polaridad en un lado de cada lóbulo. Trabaja en el sentido de las agujas del reloj, colocando únicamente imanes de la misma polaridad en el mismo lado de cada lóbulo. Una vez que todos los imanes con la misma polaridad hacia afuera estén ensamblados, voltéelos y repita. Ver imagen a continuación\nTome un grupo de imanes y colóquelos en un imán más grande para realizar un seguimiento de la polaridad.\nAplique pegamento a los agujeros del imán.\n\nColoca los imanes en el agujero.\n\nBolsillo inferior opcional. Puede ser difícil de montar pero así es como lo hice",
+ "use_cases": [],
+ "tags": [
+  "tela nasa",
+  "nasa",
+  "tierra",
+  "agitarse",
+  "juguete inquieto",
+  "juguete",
+  "globo",
+  "inquietarse 2 clic",
+  "tela-nasa",
+  "juguete para adultos",
+  "oficina"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5d62c2366998be/design/1035d4323acd51e1.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1332
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3391582.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3530510.jpg": [
+   556,
+   678
+  ],
+  "previews/profiles/3466088.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

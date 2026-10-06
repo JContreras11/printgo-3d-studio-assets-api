@@ -1,0 +1,194 @@
+{
+ "files": [
+  {
+   "path": "model/espada-retractil-5h36.3mf.xz",
+   "instance_id": "3411790",
+   "thumbnail": "previews/profiles/3411790.jpg",
+   "print_time_h": 5.6,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 219,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "A2L",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "X1",
+    "H2S",
+    "P2S",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "McDonald's Ice Cream Cone Latest Optimized Version"
+   },
+   "name": "Versión estándar",
+   "size": 6184084,
+   "sha256": "f7c0794a76f9c139eee6eb77ea7a1404ca4696a01b85222dae7f6e74e94d5c4e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/espada-retractil-1h54.3mf.xz",
+   "instance_id": "3438656",
+   "thumbnail": "previews/profiles/3438656.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2C",
+    "A2L",
+    "X2D",
+    "X1",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Separately reinforced screw, invert cone to shorten print time"
+   },
+   "name": "Versión estándar",
+   "size": 4490092,
+   "sha256": "69684ec2979deb34a223098a83535766532d7e4dde352927a0a2dae40d0a8ad2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/espada-retractil-7h18.3mf.xz",
+   "instance_id": "3419240",
+   "thumbnail": "previews/profiles/3419240.jpg",
+   "print_time_h": 7.3,
+   "plates": 4,
+   "rating": 4.7,
+   "rating_count": 43,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "A2L",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "X1",
+    "H2S",
+    "P2S",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 4,
+    "profile_title": "Flat-head version: no supports, saves time and material"
+   },
+   "name": "Versión estándar",
+   "size": 10334564,
+   "sha256": "fd1c9c42c700504471adb9a7921b30b70e4cfa8744ba13a731e97b7fc492073d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3033622",
+ "title": "Espada Retráctil Ice Cream Assassin",
+ "slug": "ice-cream-assassin-retractable-sword",
+ "url": "https://makerworld.com/en/models/3033622-ice-cream-assassin-retractable-sword",
+ "author": "user_319589551",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Juegos de construcción",
+ "description": "Boost MeEste es mi primer diseño, ¡tu apoyo sería el mayor estímulo para mí! Muchas gracias. ¿Quién no querría un verdadero \"apuñalador de helado\"? Es el mismo cono de McDonald's, verifique si su filamento está seco antes de imprimir, el filamento húmedo evitará que las piezas se retraigan. La versión sin soportes y con tornillos separados están disponibles en otros perfiles, el montaje es rápido y sencillo. También hay un expositor especialmente diseñado para este helado, puedes consultar mi perfil para más detalles~",
+ "use_cases": [],
+ "tags": [
+  "asesino de helado",
+  "espada retráctil de helado",
+  "espada retráctil",
+  "juguete antiestrés",
+  "cono de helado de mcdonald's",
+  "espada de helado",
+  "helado",
+  "alivio del estrés",
+  "chiflado",
+  "divertido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8e2ee30d3ac54d/design/2540f6eaeb4e4d75.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.gif",
+  "previews/04.jpg",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   240,
+   426
+  ],
+  "previews/02.gif": [
+   240,
+   426
+  ],
+  "previews/03.gif": [
+   240,
+   426
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1193
+  ],
+  "previews/profiles/3411790.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3438656.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3419240.jpg": [
+   600,
+   754
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "files": [
+  {
+   "path": "model/inquietud-fresca-multicolor-1h.3mf.xz",
+   "instance_id": "1653234",
+   "thumbnail": "previews/profiles/1653234.jpg",
+   "print_time_h": 1,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 109,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "X1",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "双色版本-A",
+    "creation_date": "2025-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 13911456,
+   "sha256": "918bb10ed13dc80596aeff4bdc35ad2c15a097a28b3c1d5dd0167c3bf96322c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-fresca-1h.3mf.xz",
+   "instance_id": "3130076",
+   "thumbnail": "previews/profiles/3130076.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "P2S",
+    "H2D",
+    "A1",
+    "P1S",
+    "A1 mini",
+    "H2S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "SILK optimized. 0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 15001624,
+   "sha256": "74d118edef8a76e3c01825ea3051f8bb436817d4ecc4c6176b5897012b7378eb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-fresca-1h12.3mf.xz",
+   "instance_id": "2667050",
+   "thumbnail": "previews/profiles/2667050.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X1E",
+    "A1",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Toleranzen leicht angepasst.",
+    "creation_date": "2026-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 14848380,
+   "sha256": "91c9998afb09b433add487503e5255b19dca7ae57419bbdf900bc165435e21ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-fresca-30min.3mf.xz",
+   "instance_id": "1676741",
+   "thumbnail": "previews/profiles/1676741.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 3.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "环状配件需要添加支撑的请下载这份！",
+    "profile_notes": "环状配件需要添加支撑的请下载这份！",
+    "creation_date": "2025-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 13448652,
+   "sha256": "ace164287169b0e303022c8520bb35eab333e495fc67adddb8c34ba2f0160889",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-fresca-48min.3mf.xz",
+   "instance_id": "1653243",
+   "thumbnail": "previews/profiles/1653243.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 68,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "单色版本-A",
+    "creation_date": "2025-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 13887144,
+   "sha256": "33088e6ffe08820376be6268c05696375e8a6f056ddf60521d8605d629e8c8ef",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-fresca-54min.3mf.xz",
+   "instance_id": "3581515",
+   "thumbnail": "previews/profiles/3581515.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "1 Plate AMS 0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "1 Plate Dual Color AMS",
+    "creation_date": "2026-08-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 14059732,
+   "sha256": "cb141a41b3adec8c38bb2e56acf5d331ba3239a245ec497f0d242065204dcdf0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-fresca-multicolor-1h06.3mf.xz",
+   "instance_id": "2747057",
+   "thumbnail": "previews/profiles/2747057.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "2 color 1 plate No prime tower",
+    "profile_notes": "1 plate print by object no prime tower",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 14845384,
+   "sha256": "bcab534848e52a65e73a37449d9289472f1f83d7126c991d551237f1f34404b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1571798",
+ "title": "INQUIETUD FRESCA",
+ "slug": "cool-fidget",
+ "url": "https://makerworld.com/en/models/1571798-cool-fidget",
+ "author": "user_1895919908",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Monta libremente tu propio juguete antiestrés personalizado\nUtilice superpegamento si alguna pieza se afloja",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguetes antiestrés",
+  "analgésico para adultos",
+  "frío",
+  "genial 3d",
+  "juguete sensorial",
+  "rotación",
+  "juguete con rodamiento de bolas",
+  "juguete giratorio",
+  "placa giratoria",
+  "juguete"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc85e35849e64f4/design/2025-07-03_9f5adabde22b8.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   712,
+   400
+  ],
+  "previews/02.gif": [
+   712,
+   400
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1653234.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3130076.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2667050.jpg": [
+   600,
+   401
+  ],
+  "previews/profiles/1676741.jpg": [
+   600,
+   405
+  ],
+  "previews/profiles/1653243.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3581515.jpg": [
+   600,
+   407
+  ],
+  "previews/profiles/2747057.jpg": [
+   337,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

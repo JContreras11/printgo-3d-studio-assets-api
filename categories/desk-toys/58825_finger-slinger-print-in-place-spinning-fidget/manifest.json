@@ -1,0 +1,408 @@
+{
+ "files": [
+  {
+   "path": "model/finger-slinger-48min.3mf.xz",
+   "instance_id": "63053",
+   "thumbnail": "previews/profiles/63053.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 3.4,
+   "rating_count": 82,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "profile_notes": "0.2mm BBL Strength-Profile The unsupported overhang doesn't look great but the finger-swinger works great.",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2785,
+      "weight_g": 18.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#898989"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2253908,
+   "sha256": "a8ce5fbb42c33ff39c97f219ada40e40bc751760b18b70646b0bd85b86ba5507",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/finger-slinger-1h24.3mf.xz",
+   "instance_id": "2005871",
+   "thumbnail": "previews/profiles/2005871.jpg",
+   "print_time_h": 1.4,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "P1S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "OPTIMIZED 3 plates",
+    "profile_notes": "use plate one for single color plates 2 and 3 for multi. This profile has eliminated the overhang and support problem. works on all printers.",
+    "creation_date": "2025-10-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.3",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 3019224,
+   "sha256": "f29237212a9e21c2e854b69d53ae7fdf64c363cc47c19cc05129014ef7e13038",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/finger-slinger-2h12.3mf.xz",
+   "instance_id": "3669545",
+   "thumbnail": "previews/profiles/3669545.jpg",
+   "print_time_h": 2.2,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Additional support & height range modifier",
+    "profile_notes": "Give this profile a try if you have problems with the top section moving during print. I had problems with the top section rotating during print and the layers getting all messed up. I even tried adding supports but this wasn't enough. Instead I put in a height range modifier from 4.5-7mm to slow down to 50mm/s. I also added extra supports for bed adhesion.",
+    "creation_date": "2026-08-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2921560,
+   "sha256": "8055f926acccb73f5bea4dc6046cbb3250a1d93bce3d11de575a35ce3603066a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/finger-slinger-monocolor-1h.3mf.xz",
+   "instance_id": "537806",
+   "thumbnail": "previews/profiles/537806.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 66,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "Single Colour - 0.2mm layer, 4 walls, 30% infill",
+    "profile_notes": "Support for the Bambu A1 Mini.",
+    "creation_date": "2024-08-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3701,
+      "weight_g": 19.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Monocromo impresión en PLA",
+   "size": 2267120,
+   "sha256": "008dbba4078cf5835b38b714329ff438625f9dbec017903f9db537914a5127d7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/finger-slinger-multicolor-1h.3mf.xz",
+   "instance_id": "312725",
+   "thumbnail": "previews/profiles/312725.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 157,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Finger Slinger - Dual Color",
+    "profile_notes": "Sequential print: only one filament swap Weight prints with full infill Initial layer and gap layer slowed for better quality Ironing enabled for a cleaner look and better part separation",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3553,
+      "weight_g": 19.91,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA-CF",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#DE4343"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2705684,
+   "sha256": "c92ff08de0d16542226871945f91a9244ed92443bb3bd039f10043ec27f61a3e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/finger-slinger-multicolor-1h06.3mf.xz",
+   "instance_id": "537805",
+   "thumbnail": "previews/profiles/537805.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 87,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "Multicolour - 0.2mm layer, 4 walls, 30% infill",
+    "profile_notes": "Support for the Bambu A1 Mini.",
+    "creation_date": "2024-08-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3864,
+      "weight_g": 19.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       },
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2265904,
+   "sha256": "03d3ba85beafb72abef012aaa77472809a4c067495ae668545b65256eade803e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "58825",
+ "title": "Finger Slinger - antiestrés giratorio impreso en el lugar",
+ "slug": "finger-slinger-print-in-place-spinning-fidget",
+ "url": "https://makerworld.com/en/models/58825-finger-slinger-print-in-place-spinning-fidget",
+ "author": "LinkDesigns",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Diseño\nEste antiestrés tiene características similares a un cuchillo mariposa, pero en un paquete simple, suave y tolerante. Está diseñado para impresión sin ensamblaje sin soportes y tiene dos opciones de peso dependiendo de qué tan “sencillo” quieras que sea.\nImpresión\nResolución: 0,2 mm\nParedes/Perímetros: 3-4\nRelleno: 20%\nSoportes: no\nPesos\nSe requiere algo de peso para darle impulso al Finger Slinger, por lo que hay dos opciones.\nPeso impreso: una inserción atractiva que proporciona un gran equilibrio y agilidad. (imprimir al 100% de relleno)\n\nRodamiento de monopatín: para un rendimiento increíble y una velocidad increíble, se puede utilizar un rodamiento de 22x7x8 mm.\n\nLiberando el antiestrés\nPara soltar el modelo, siga estos pasos:\n*no tengas miedo de usar un poco de fuerza\n\nPrimero, dóblalo ligeramente hasta que los brazos se separen entre sí:\n\nLuego empuje el brazo superior hacia afuera para liberar el cojinete:\nNotas\nAmbas opciones de peso deben encajar bien en el brazo superior, pero un poco de pegamento no es una mala idea si parecen flojos.\nEscalado: Mis manos están en el lado más grande, por lo que la inquietud puede ser un poco grande para algunas personas. Si necesita aumentar o reducir la escala, +/- 20% es el umbral antes de que las tolerancias se vuelvan confusas.\nMe encantaría escuchar comentarios sobre este diseño y continuar desarrollándolo, ¡así que déjame saber lo que piensas!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "lugar de impresión",
+  "cojinete",
+  "sin soporte",
+  "dedos"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2023-11-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6dd69d2b13cb87/design/2023-11-07_vdpfzr49logx.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   799
+  ],
+  "previews/02.jpg": [
+   1000,
+   799
+  ],
+  "previews/03.jpg": [
+   1000,
+   799
+  ],
+  "previews/04.jpg": [
+   1000,
+   799
+  ],
+  "previews/05.jpg": [
+   1000,
+   800
+  ],
+  "previews/profiles/63053.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/2005871.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3669545.jpg": [
+   600,
+   285
+  ],
+  "previews/profiles/537806.jpg": [
+   600,
+   343
+  ],
+  "previews/profiles/312725.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/537805.jpg": [
+   600,
+   343
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

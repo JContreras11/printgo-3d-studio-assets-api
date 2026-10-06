@@ -1,0 +1,463 @@
+{
+ "files": [
+  {
+   "path": "model/increible-inquietud-6h24.3mf.xz",
+   "instance_id": "1762106",
+   "thumbnail": "previews/profiles/1762106.jpg",
+   "print_time_h": 6.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 326,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "OPTIMIZED SIZE 100% STANDS ABOUT 7IN TALL",
+    "profile_notes": "🖨️ Print Profile Description – Spinning Expanding Star Fidget Toy (Silk PLA) This print profile is dialed in for smooth, reliable prints of the Spinning Expanding Star Fidget Toy , optimized for silk PLA filament to achieve a glossy finish and fluid movement straight off the bed. ✅ Designed for single-piece, no-assembly printing ✅ Supports: Not required ✅ Fully articulated right after print (no post-processing needed) ⚙️ Recommended Print Settings: Material: Silk PLA (or standard PLA for easier first-time prints) Layer Height: 0.2 mm Wall Line Count: 2 Top/Bottom Layers: 3 Infill: 10–15% (Gyroid or Lines recommended – minimal infill required) Print Speed: 45–60 mm/s for optimal detail and articulation Nozzle Temp: 220–225°C (adjust per your filament brand) Bed Temp: 55–60°C Cooling: 100% fan after the first few layers 🛏️ Bed Adhesion: Brim: Optional – helpful for smaller build plates or drafty environments Adhesion Type: Smooth PEI, glass, or glue stick on standard bed Bed leveling: Critical for proper articulation – use Z offset tuning if needed 🛠️ Tips for Best Results: Use well-tuned retraction settings to avoid stringing between internal gears Allow the model to cool fully before removing from the bed to preserve tolerances Give the toy a gentle twist and flex after print to loosen up the moving parts Tested on Bambu P1S with excellent results. Works well on most modern FDM printers with proper calibration. ✨Print it, spin it, expand it — and don’t forget to share your make!",
+    "creation_date": "2025-08-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1141340,
+   "sha256": "7f5e53c1bd94b79440fdf00baaebddf1835c0d76eccec851b3e370b63d4017a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-11h06.3mf.xz",
+   "instance_id": "1772352",
+   "thumbnail": "previews/profiles/1772352.jpg",
+   "print_time_h": 11.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 38,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "X1E",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "LARGER SIZE 125%",
+    "profile_notes": "same great fidget just 125% scale",
+    "creation_date": "2025-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1075968,
+   "sha256": "f4e779bfbb8e041805d4da0f52155d11f81ff0bee976231c87f12f022c006813",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-13h30.3mf.xz",
+   "instance_id": "2328212",
+   "thumbnail": "previews/profiles/2328212.jpg",
+   "print_time_h": 13.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2S",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "profile_notes": "🎄 Print Profile – Christmas Edition Expanding Fidget Star (4-Up Vendor Plate) 📦 Model Setup Quantity on Plate: 4 fidget stars Orientation: Flat on build plate Supports: ❌ None Brim/Raft: ❌ None 🖨️ Printer Settings Printer Type: Bambu Lab (H2D,H2C,H2S compatible Scale down to fit P1S,X1C,A1) Nozzle Size: 0.4 mm AMS: Optional (recommended for multi-color Christmas versions) 🧵 Filament Material: PLA / PLA+/PLA Silk+ Brand: Any quality PLA (Bambu Lab, Overture, Hatchbox, etc.) Colors: Christmas Red Christmas Green White Gold / Silver (optional accent) ⚙️ Print Settings Layer Height: 0.20 mm Initial Layer Height: 0.20 mm Line Width: 0.42 mm Wall Loops: 3 Top Layers: 5 Bottom Layers: 5 Infill: 15% Infill Pattern: Gyroid 🌡️ Temperature Nozzle Temp: 205–215°C (adjust per filament) Bed Temp: 55–60°C 🚀 Speed Outer Wall: 60 mm/s with silk for the shine Inner Wall: 120 mm/s Infill: 200 mm/s Initial Layer Speed: 30 mm/s 🎯 Quality & Reliability Seam Position: Aligned or Rear Z-Hop: Enabled (0.2 mm) Cooling Fan: 0–20% first 2 layers 100% after layer 3 🔧 Tolerance & Fit Notes Designed to print in place No post-processing required If movement feels tight: Slightly increase flow calibration accuracy Ensure filament is dry 🛍️ Vendor Notes Optimized for batch printing Durable enough for market handling Bright holiday colors attract attention on vendor tables Makes a great stocking stuffer / impulse buy",
+    "creation_date": "2025-12-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1242224,
+   "sha256": "2ae43785392cf482bde566ce21770c5027f4304e1d19d258004b256bf230e311",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-1h30.3mf.xz",
+   "instance_id": "2863612",
+   "thumbnail": "previews/profiles/2863612.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 57,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Z height only has been reduced by 50%",
+    "profile_notes": "Z height only has been reduced by 50% 0.2mm layer, 3 walls, 12% infill",
+    "creation_date": "2026-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1815416,
+   "sha256": "09aa7c34f7f168cf5f71d0cc68d5d4abe4d36a03c8e1700a7dd21d49f9aa460b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-1h36.3mf.xz",
+   "instance_id": "3063055",
+   "thumbnail": "previews/profiles/3063055.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Mini Fidget PLA Speed optimized A1 mini compatible",
+    "profile_notes": "I've optimized the settings to achieve perfect balance between speed and quality ! Thank you for th model !",
+    "creation_date": "2026-05-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1208472,
+   "sha256": "fb046ece5c3ac7c4fbea6eea5dba72b32e0fe2c9daf2c24448bf8ebe3774d020",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-1h48.3mf.xz",
+   "instance_id": "3461963",
+   "thumbnail": "previews/profiles/3461963.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V2/ Faster and Less Filament",
+    "profile_notes": "Layer Height: 0.25 mm Infill: 1% Wall Loops: 2 NO AMS OR SUPPORTS",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.25",
+    "infill": "1%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1578268,
+   "sha256": "69ba831b27d8deb3bcc6cc0606ecb31e0d407d5c331039087a9d712302fb1700",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-2h12.3mf.xz",
+   "instance_id": "1941548",
+   "thumbnail": "previews/profiles/1941548.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 681,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "MINI FIDGET 2.5 HOUR PRINT",
+    "profile_notes": "same great fidget just half the size.",
+    "creation_date": "2025-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1109776,
+   "sha256": "ad4d3ef4642efb7d02939ef2aa045198b2f0d57d85fc6692c0257f9531acf21f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/increible-inquietud-3h06.3mf.xz",
+   "instance_id": "2918042",
+   "thumbnail": "previews/profiles/2918042.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Stronger pole / Magnetic hole ( deletable with ease )",
+    "profile_notes": "I have edited this profile to allow a magnet in the base - and a stronger upright pole / finger stick. Print time on Bambu PLA is 2hr19 - Silk PLA 3Hrs 10 Magnet is a 15mm x 3mm round magnet. negative cylinder added ( you can delete if not needed ) if needed don't move the model or hole will be in wrong place! wall height + initial layer = 0.19 Bottom layers 3 Top layers 5 Locked Zag Cross Zag 30% density 35% infill on skeleton density ( see last photo )",
+    "creation_date": "2026-04-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.19",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1965612,
+   "sha256": "5aa91937e51c54756fd18be83b380ea60ed4da76afc2193c77aba0e8d4d7417a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1665158",
+ "title": "Increíble inquietud estrella**LICENCIA COMERCIAL GRATUITA**",
+ "slug": "amazing-star-fidget-free-comericial-licence",
+ "url": "https://makerworld.com/en/models/1665158-amazing-star-fidget-free-comericial-licence",
+ "author": "MonsterWRX",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost MeBoosts es una forma de agradecer al creador. Sólo en MakerWorld. Obtienes mejoras de forma gratuita descargando proyectos de MakerWorld e imprimiéndolos con Bambu Slicer. Recibirás 1 o 2 aumentos por semana o ninguno, según lo decida el algoritmo de Bambu. Los das por un proyecto que imprimiste, por un proyecto que te gusta, donde quieras. Tienen una validez de un mes a partir de la fecha de recepción, si no se los das a nadie se perderán. ¡Considere aumentar esta inquietud! Juguete antiestrés de estrella giratoria y expansiva - Edición Silk PLA\n@@@@ ¡¡¡CONSIDERE UN IMPULSO SI IMPRIMISTE ESTO Y TE ENCANTÓ!!!@@@@@@\n\nCategoría: antiestrés Toy / Mecánico / Impresión articulada\nEtiquetas: antiestrés, juguete con engranaje, estrella en expansión, cinético, PLA de seda, sin ensamblaje, impresión única, impresión 3d\nAgregue un poco de brillo y movimiento satisfactorio a su colección de impresiones con este juguete antiestrés giratorio y expansible: un modelo cinético fascinante que es divertido de imprimir, suave de girar e imposible de dejar. Mientras juegas con este antiestrés y haces algunos ruidos increíbles, asegúrate de compartir mi diseño y seguirme para obtener más información.\n\nAspectos destacados del diseño:\nDiseño de estrella que se expande y colapsa con acción giratoria.\nImprime completamente ensamblado: no necesita soporte ni pegamento.\nDiseñado para un movimiento suave desde la cama\nOptimizado para PLA seda para mejorar el efecto visual con su acabado brillante.\nGenial para:\nAmantes antiestrés\nAlivio del estrés\nAbanicos de escultura cinética\nCreadores que aman las impresiones mecánicas geniales\nInformación de impresión:\nMaterial: Mejor con Silk PLA (para una sensación suave y brillo)\nNo se requieren soportes\nAltura de capa: 0,2 mm recomendado\nVelocidad de impresión: Moderada (45–60 mm/s) para una articulación limpia\nAdhesión a la cama: borde opcional, pero generalmente no es necesario con una cama limpia\nPruebe en una impresora sintonizada para obtener el mejor movimiento\nConsejo profesional: Las tolerancias de impresión están ajustadas para la mayoría de las impresoras FDM bien calibradas. Si sus articulaciones están tensas después de la impresión, una ligera flexión generalmente las afloja.\nYa sea que esté imprimiendo por diversión, para regalar o para mostrar lo que su impresora puede hacer, esta estrella en expansión seguramente llamará la atención y mantendrá las manos ocupadas.\n\n¡Muestra tus marcas! Bienvenidos comentarios\n¿Disfrutando de mis modelos?\n¿Quieres ver más de lo que estoy creando?\nAcabo de comenzar mi Patreon, donde lanzaré nuevos modelos imprimibles en 3D cada mes, incluidos diseños exclusivos y acceso anticipado a algunas de mis creaciones más recientes.\n¡Tu apoyo me ayuda a seguir diseñando, imprimiendo y dando vida a nuevas ideas!\n¡Únase a mí en Patreon y forme parte de la comunidad Big-D-SyneS!\n\nPatreón:\n\nGracias a todos los que me han apoyado aquí en MakerWorld. ¡Realmente aprecio cada descarga, me gusta, comenta y sigue!\n— Big-D-SyneS\n*\"Grandes diseños\": se escribe un poco diferente.\n\nBoost MeGRACIAS POR DESCARGAR MI NUEVO MODELO, POR FAVOR DAME UN ME GUSTA Y UN IMPULSO SI DISFRUTASTE IMPRIMIENDO ESTO.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "hilandero",
+  "asombroso",
+  "nuevo",
+  "girar",
+  "escritorio",
+  "sensorio",
+  "tdah",
+  "relajante",
+  "visual",
+  "antiestrés fabricante de ruido"
+ ],
+ "license": "BY-SA",
+ "release_date": "2025-08-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2d334d8024bdfc/design/2025-08-25_ca09741fe1714.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.png",
+  "previews/07.gif",
+  "previews/08.png",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1500
+  ],
+  "previews/05.jpg": [
+   1000,
+   1500
+  ],
+  "previews/06.png": [
+   1000,
+   1500
+  ],
+  "previews/07.gif": [
+   357,
+   640
+  ],
+  "previews/08.png": [
+   1000,
+   1500
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1762106.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1772352.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2328212.jpg": [
+   600,
+   900
+  ],
+  "previews/profiles/2863612.jpg": [
+   600,
+   670
+  ],
+  "previews/profiles/3063055.jpg": [
+   455,
+   486
+  ],
+  "previews/profiles/3461963.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1941548.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2918042.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

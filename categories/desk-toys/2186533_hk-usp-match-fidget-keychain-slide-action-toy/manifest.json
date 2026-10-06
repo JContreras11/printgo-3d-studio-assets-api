@@ -1,0 +1,321 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-hk-2h06.3mf.xz",
+   "instance_id": "2373647",
+   "thumbnail": "previews/profiles/2373647.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 221,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A1 mini",
+    "H2D",
+    "X1",
+    "A1",
+    "P1P",
+    "P2S",
+    "X2D",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1827240,
+   "sha256": "42cb6cf25fd2826ec19a0b894e7a3d6b34bb30f687c349bec9b5648681a8199c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-hk-18min.3mf.xz",
+   "instance_id": "2390797",
+   "thumbnail": "previews/profiles/2390797.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "P1S",
+    "H2D",
+    "H2S",
+    "X1E",
+    "H2C",
+    "P1P",
+    "P2S",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Halter für die Modelle",
+    "creation_date": "2026-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1364508,
+   "sha256": "beacb00c5950b15346d49ae16239eb481e2cf65db8afefa8800d54e397893120",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-hk-23h06.3mf.xz",
+   "instance_id": "2816078",
+   "thumbnail": "previews/profiles/2816078.jpg",
+   "print_time_h": 23.1,
+   "plates": 24,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "X2D",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "P1P",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "ALL MILITECH GUNS IN ONE PRINT PROJECT",
+    "profile_notes": "ALL MILITECH GUN KEYCHAIN FIDGETS IN ONE FILE",
+    "creation_date": "2026-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 24
+   },
+   "name": "Versión estándar",
+   "size": 7484064,
+   "sha256": "de8e601a1d4f86876efa47712740a9b2df41144c84375be2889a3d23bac2ca05",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-hk-36min.3mf.xz",
+   "instance_id": "2439170",
+   "thumbnail": "previews/profiles/2439170.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X2D",
+    "A1",
+    "X1",
+    "H2C",
+    "P1S",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill, 6g",
+    "profile_notes": "Support for Skadis",
+    "creation_date": "2026-01-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1199096,
+   "sha256": "64c8218d7e51c2fb50bd66921291d838072d5a3cb99efb16f0b354310265f0a5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-hk-multicolor-2h.3mf.xz",
+   "instance_id": "2693142",
+   "thumbnail": "previews/profiles/2693142.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 23,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "One Plate - 2 Colors - By Object",
+    "profile_notes": "- Single plate layout of 2 color parts - Print by object enabled for AMS printing and zero waste - All other print profile settings remain the same",
+    "creation_date": "2026-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor una sola placa",
+   "size": 1750996,
+   "sha256": "6d4f6e890a4a01d454a11e35e199347c3a52cba43a6f5d9257870cf9bc761c63",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2186533",
+ "title": "Llavero HK USP Match antiestrés - Juguete de acción deslizante",
+ "slug": "hk-usp-match-fidget-keychain-slide-action-toy",
+ "url": "https://makerworld.com/en/models/2186533-hk-usp-match-fidget-keychain-slide-action-toy",
+ "author": "user_4145208453",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un llavero antiestrés compacto y satisfactorio de Heckler & Koch USP Match con una parte superior deslizante suave y funcional. Diseñado para aliviar el estrés, exhibirlo o llevarlo todos los días, este mini modelo mantiene el aspecto icónico y al mismo tiempo es completamente seguro, no funcional y apto para llaveros.\n\nEste modelo es puramente decorativo.\nNo es un arma y no se puede convertir en una.\nNota de montaje\nPara el correcto funcionamiento del mecanismo\nasegúrese de insertar una pequeña banda elástica (de 20 a 30 mm de diámetro).\nMira mis otros llaveros antiestrés con armas\nLlavero Desert Eagle antiestrés - Juguete de acción deslizante\nLlavero antiestrés compacto HK USP - Juguete de acción deslizante\nLlavero CZ Shadow antiestrés - Juguete de acción deslizante\nLlavero Glock antiestrés - Juguete de acción deslizante\nLlavero Makarov PM antiestrés - Juguete de acción deslizante\nNota de montaje\nPara que el mecanismo funcione correctamente, asegúrese de insertar una pequeña banda elástica (20-30 mm)\nCaracterísticas\nAMS no es necesario\nNo se requiere pegamento (opcional)\nMovimiento deslizante funcional.\nDiseño limpio en capas de dos tonos.\nAgarre cómodo para inquietarse\nPiezas duraderas diseñadas para una fácil impresión\nJuguete decorativo seguro y sin armas.\nPunto de fijación del llavero\nConfiguración de impresión\nAltura de la capa: 0,16–0,20 mm\nParedes: 2–3\nRelleno: 10–15 % (cuadrícula/giroide)\nSoportes: No requeridos (todas las piezas diseñadas con voladizos limpios)\nMaterial: PLA recomendado\nTolerancia: no es necesario escalar\nMontaje: inserte una pequeña banda elástica (o haga un nudo para acortarla) para un retorno suave del deslizamiento.\nEtiquetas\nantiestrés, pistola, HK, USP Match, llavero, llavero antiestrés, llavero de pistola, mini pistola, juguete de escritorio, llavero edc, alivio del estrés, acción deslizante, pistola de juguete, impreso en 3D, impresión en el lugar, coleccionable",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "hk",
+  "articulado",
+  "alivio del estrés",
+  "usp",
+  "partido usp",
+  "apuntalar",
+  "nerfeo",
+  "coleccionable"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US57e20a5b93727e/design/2026-01-02_072992a4243a38.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.gif",
+  "previews/11.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   749
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.png": [
+   1000,
+   750
+  ],
+  "previews/09.png": [
+   1000,
+   750
+  ],
+  "previews/10.gif": [
+   543,
+   407
+  ],
+  "previews/11.gif": [
+   600,
+   450
+  ],
+  "previews/profiles/2373647.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/2390797.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/2816078.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2439170.jpg": [
+   1536,
+   2048
+  ],
+  "previews/profiles/2693142.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

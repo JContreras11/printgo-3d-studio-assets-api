@@ -1,0 +1,199 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-1h.3mf.xz",
+   "instance_id": "1139120",
+   "thumbnail": "previews/profiles/1139120.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 49,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "A2L",
+    "X1",
+    "X2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "MERGED 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "This profile is recommended for those who have issues with printing the buttons and body in the correct position. The bodies are merged to a single part with multiple geometries. The downside is that the buttons and body need to be printed in same layer height.",
+    "creation_date": "2025-02-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3701,
+      "weight_g": 17.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#43403D"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1586688,
+   "sha256": "bd3b9529db2569975b975480ee19b4baffad9468158638807f8acfedbca743a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h06.3mf.xz",
+   "instance_id": "3242813",
+   "thumbnail": "previews/profiles/3242813.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "P1P",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Zweifarbig",
+    "profile_notes": "Buttons made with different layer height than the body to reduce binding. Lever with high infill for stiffness.",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1428452,
+   "sha256": "05990006cd6527a57192d49dd94f5cd5d7b44342437823fe8229e12f62141486",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-48min.3mf.xz",
+   "instance_id": "1913109",
+   "thumbnail": "previews/profiles/1913109.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "P1P",
+    "X2D",
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Didn't work that good.",
+    "creation_date": "2025-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1348104,
+   "sha256": "0ada2c4232e4b2768d35011722c2e6f3df9df3769f54e4b91c63cc4a3eec31ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1122798",
+ "title": "Juguete antiestrés emergente infinito",
+ "slug": "infinite-pop-up-fidget-toy",
+ "url": "https://makerworld.com/en/models/1122798-infinite-pop-up-fidget-toy",
+ "author": "Viltsu",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡SE LANZA NUEVA VERSIÓN! ENCUÉNTRALO AQUÍ:\n\n¡Lea las instrucciones de impresión y montaje!\nDescripción:\n¡Devolución automática! Divertida, relajante y satisfactoria. Disfruta presionando botones sin fin con este antiestrés.\nImpulsame¿Te gusta esta impresión? ¡Mira mis otros diseños y considera dejar un impulso! ¡Gracias!Imprimir:\n¡Importante! Elija un filamento rígido que no se una ni se doble fácilmente. Probado para funcionar mejor con PLA Metal y PLA Basic. PLA Matte y PETG-HF funcionan bien, pero es necesario aflojar más los botones antes del montaje. No se recomiendan PLA Silk ni otros filamentos cosméticos. También se sabe que los colores provocan diferencias en la precisión de la impresión y la rigidez de las piezas. Experimenta con diferentes materiales si al principio no lo consigues.\n\nUtilice los perfiles proporcionados. Si imprime a través de la aplicación Bambu Handy, no aumente la cantidad de copias. Esto puede hacer que los botones se muevan fuera de la carcasa, imposibilitando el montaje. Si debe imprimir varias copias o los botones no se imprimen dentro de la carcasa por algún otro motivo, utilice el perfil \"FUSIONADO\". La razón de esto es que los botones no están fusionados en un solo conjunto con el cuerpo principal en el perfil predeterminado. Esto se hace porque permite que los botones tengan una altura de capa diferente a la del cuerpo, lo que reduce la fricción entre las partes. El perfil “FUSIONADO” no tiene esta característica.\n\nEl diseño utiliza tolerancias pequeñas y asume que su impresora funciona con precisión normal (las impresiones de prueba se realizaron con un A1 mini bastante nuevo). Verifique la calibración del filamento y la tensión del eje y la correa de la impresora si las piezas de impresión en el lugar se pegan.\n\nSi te cortas:\na) Utilice el archivo STL (no 3MF) proporcionado para asegurarse de que todas las piezas estén colocadas correctamente. Los botones/pines se impresión sin ensamblaje y no se pueden instalar si se imprimen por separado.\nb) Si es posible, imprima el cuerpo y los botones y diferentes alturas de capa para reducir la unión. Usé 0,2 mm y 0,15 mm.\nc) Imprima la palanca del medio con relleno alto. (~100%)\n\nAsamblea:\n¡Asegúrese de que los botones/pasadores se muevan libremente antes del montaje! Muévalos hacia arriba y hacia abajo hasta que se muevan suavemente y haga clic hacia arriba y hacia abajo con poca fuerza.\nUna vez que los pasadores se muevan libre y suavemente, empuje todos los pasadores hacia arriba y coloque el primer extremo de la palanca hacia adentro.\nEmpuje el segundo extremo de la palanca hacia adentro. Se necesita algo de fuerza además de encontrar la alineación correcta.\nEmpuje los primeros dos botones hacia abajo con los extremos de la palanca. Coloque los dos extremos de la palanca en las ranuras de los botones inferiores para obtener más espacio para el siguiente paso.\nAsegúrese de que el último botón todavía esté en la posición superior. Empuje el último extremo de la palanca hacia adentro.\nUna vez que la palanca esté dentro, presione el tercer botón hacia abajo.\nCombina las dos mitades.\n¡Hecho! Si al principio los botones no regresan con facilidad, ayúdalos un poco a aflojar el mecanismo. Una vez que funciona sin problemas, el mecanismo mejora aún más con el uso.\nMira también estas increíbles impresiones:\nTESSERA FLEX - Paneles de construcción Flexi ChainmailPro Cutter V2 para filamentos y tubos de PTFECUBY - CyberBrick Robot BuddySoporte de pared inclinable para AMS 2 PRO y AMS HT Infinite Pop-Up EVO antiestrés ToyOMNIBOT- El explorador multidireccional CyberBrickInfinite Foldagon FidgetInfinite Cogs Magnetic FidgetShape Changing Marble antiestrés",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "botón",
+  "taconeador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa8fffa54cb9fe8/design/2025-02-18_79010b95c30d6.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   500,
+   282
+  ],
+  "previews/02.png": [
+   768,
+   722
+  ],
+  "previews/profiles/1139120.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3242813.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/1913109.jpg": [
+   582,
+   545
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

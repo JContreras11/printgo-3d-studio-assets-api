@@ -1,0 +1,181 @@
+{
+ "files": [
+  {
+   "path": "model/cheez-it-30min.3mf.xz",
+   "instance_id": "1800927",
+   "thumbnail": "previews/profiles/1800927.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 498,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Single Cheez-It (Not Edible)",
+    "profile_notes": "Single color 0.16 mm layer height Cross Hatch infill, 15%",
+    "creation_date": "2025-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3292972,
+   "sha256": "c3f5e34b52a0ce076ad7345d98094954c7b3f7bea3b8d2fed58163cfaff3a788",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cheez-it-54min.3mf.xz",
+   "instance_id": "1818825",
+   "thumbnail": "previews/profiles/1818825.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "P2S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "A1",
+    "X1E",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "150% scale - 0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Single color 0.16 mm layer height Cross Hatch infill, 15%",
+    "creation_date": "2025-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3355516,
+   "sha256": "ecd8e1e982634a534b78f129d594e24f5aaf2bd2783c5ef9ee3aadf7d2926ae1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1698420",
+ "title": "Cheez-It deslizante antiestrés (30 min)",
+ "slug": "cheez-it-slip-and-slide-fidget-30-mins-cheese",
+ "url": "https://makerworld.com/en/models/1698420-cheez-it-slip-and-slide-fidget-30-mins-cheese",
+ "author": "Paulyg7",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Deje que esto se enfríe completamente después de imprimir (puede retirarlo de la placa de construcción) y gire las bisagras, NO el pasador, y luego presione el pasador entre sus dedos para romper los soportes (no gire el pasador, vea la imagen a continuación). Si tiene el filamento y los ajustes configurados, también puede girar suavemente el pasador hasta que sienta un poco de resistencia (no lo gire demasiado), luego gírelo suavemente hacia el otro lado hasta que se afloje por completo. Las bisagras deberían moverse bien. Cuanto más juegues con él, más se aflojará. El PLA funcionará muy bien. Algunos filamentos permitirán el movimiento inmediatamente después de la impresión. Si tiene problemas, comuníquese conmigo y estará encantado de ayudarle.\n\nantiestrés deslizante y deslizante Cheez-It\nEsta inquietud es cursi en todos los sentidos. Inspirado en uno de nuestros bocadillos favoritos y el nombre de una de nuestras impresoras 3D (sí, de verdad), Cheez-It Slip & Slide está aquí para llevar la alegría salada y crujiente a tu alcance. Se desliza, se desliza, gira y gira más rápido de lo que puedes decir \"¡pasa la caja!\"\n\nUn solo color e impresiones en <30 minutos y 9 gramos, que es mucho menos que la cantidad de Cheez-Its que comerás mientras se imprime.\n\nAdvertencia: Puede causar antojos repentinos de refrigerios. Merienda responsablemente.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "juguete 30 min",
+  "taconeador",
+  "queso",
+  "alimento",
+  "accesorios de comida",
+  "mini"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7aeaa8f5790e50/design/2025-08-13_49ae35b7cfd25.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   388,
+   388
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   1000
+  ],
+  "previews/09.jpg": [
+   1000,
+   1000
+  ],
+  "previews/10.gif": [
+   384,
+   384
+  ],
+  "previews/profiles/1800927.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1818825.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,444 @@
+{
+ "files": [
+  {
+   "path": "model/girar-antiestres-2h.3mf.xz",
+   "instance_id": "372718",
+   "thumbnail": "previews/profiles/372718.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 123,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2 layer height, 0.4 nozzle, 2 walls, 15% infill.",
+    "creation_date": "2025-03-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7323,
+      "weight_g": 27.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF0A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 32549904,
+   "sha256": "007bacdeacd4a66bb0ee210fb84c7a5c61c318975e67915f90f48c6e2d363d71",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/girar-antiestres-1h18.3mf.xz",
+   "instance_id": "374955",
+   "thumbnail": "previews/profiles/374955.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 77,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.01.64",
+    "profile_title": "0.2mm layer, 2 walls, 15% cross hatch infill",
+    "profile_notes": "clean and easy print without brim or support, slowed the first layer for better adhesion, 0.2mm layer, 2 walls, 15% cross hatch infill",
+    "creation_date": "2024-05-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4791,
+      "weight_g": 28.05,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#80FF80"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 32812808,
+   "sha256": "37eee14df58aeb98f33f16157abb161797b2005ab326c4d321e18ba6fe23e173",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/girar-antiestres-2h06.3mf.xz",
+   "instance_id": "374970",
+   "thumbnail": "previews/profiles/374970.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 1017,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "same twist but with 100% infill on the nut making it heavier",
+    "profile_notes": "the same twist fidget however i have made the nut 100% infill and therefor heavier. ive also seperated the stl into 3 objects.",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7680,
+      "weight_g": 31.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF0A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 33254376,
+   "sha256": "ea6c37b75d52b8d0b4de4e859e026fed40d49d7b1fbf56088a6cfd4b7f85853c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/girar-antiestres-2h12.3mf.xz",
+   "instance_id": "1903073",
+   "thumbnail": "previews/profiles/1903073.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer 2 walls 15% infill prints perfectly",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7871,
+      "weight_g": 16.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 3686060,
+   "sha256": "7379d408b75ddcccb06f65a5848e7ba04cb51e00b66d95c2db1cafe037aa2d75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/girar-antiestres-30min.3mf.xz",
+   "instance_id": "393492",
+   "thumbnail": "previews/profiles/393492.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 103,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.01.69",
+    "profile_title": "small keychain",
+    "profile_notes": "added a hole and scaled it down now u have a fidget keychain",
+    "creation_date": "2024-06-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1770,
+      "weight_g": 3.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF0A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 33177336,
+   "sha256": "18942d25271fad95be899a92ec66029b58986f2981e70293e2ba50a320e98a01",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/girar-antiestres-7h48.3mf.xz",
+   "instance_id": "388405",
+   "thumbnail": "previews/profiles/388405.jpg",
+   "print_time_h": 7.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.01.64",
+    "profile_title": "Giant twist fidget, maxes build plate on a1, p1p, p1s, x1c",
+    "profile_notes": "same twist fidegt with modified tolerances on the nut for large printing",
+    "creation_date": "2024-05-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28224,
+      "weight_g": 200.13,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 28453296,
+   "sha256": "9f32d57c1ebf21728557a2de007312e46260acb460ba0780970c82d2a130e772",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "464041",
+ "title": "girar antiestrés",
+ "slug": "twist-fidget",
+ "url": "https://makerworld.com/en/models/464041-twist-fidget",
+ "author": "Enique3d",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Giro antiestrés\n\nimpreso en 3 partes, coloque el perno y luego sujete la parte superior. Si desea agregar una gota de pegamento para mantenerlo en su lugar, adelante.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "accesorio antiestrés",
+  "girar",
+  "giro antiestrés",
+  "juguete",
+  "violín",
+  "sensorio"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-05-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US63c25b319c6634/design/2024-05-14_f8c8a69787ab.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/372718.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/374955.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/374970.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1903073.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/393492.jpg": [
+   253,
+   450
+  ],
+  "previews/profiles/388405.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "files": [
+  {
+   "path": "model/coctelera-huevos-8h.3mf.xz",
+   "instance_id": "2991173",
+   "thumbnail": "previews/profiles/2991173.jpg",
+   "print_time_h": 8,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "photos": 2,
+    "profile_title": "0.16mm layer, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4034656,
+   "sha256": "ad095df63ed0edce2c25aa43d0b36626b37c59709c64f2474c588a38603c2182",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coctelera-huevos-8h06.3mf.xz",
+   "instance_id": "3020483",
+   "thumbnail": "previews/profiles/3020483.jpg",
+   "print_time_h": 8.1,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "P1P",
+    "H2D",
+    "H2C",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "photos": 2,
+    "profile_title": "Reinforced Handle  0.16mm layer, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4046648,
+   "sha256": "04c063d8450e38fddf641bc424b6b8f11599ab1f16f68d8a148b132dbd381c4b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coctelera-huevos-8h18.3mf.xz",
+   "instance_id": "2991210",
+   "thumbnail": "previews/profiles/2991210.jpg",
+   "print_time_h": 8.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2S",
+    "X1E",
+    "X1",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "photos": 2,
+    "profile_title": "Fuzzy_Perlin_0.16mm layer, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4342644,
+   "sha256": "18f029b18f449b1b1372f9c4639181817b0d660206dbabbf7b6c5122184a56aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coctelera-huevos-8h30.3mf.xz",
+   "instance_id": "3020491",
+   "thumbnail": "previews/profiles/3020491.jpg",
+   "print_time_h": 8.5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "X1",
+    "H2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "photos": 2,
+    "profile_title": "0.16mm layer, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4360268,
+   "sha256": "94f6e23b0cef3a46f2d1d2a6df37f6b4a40f4e2a77387694085c71a6fc58a4d5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coctelera-huevos-8h54.3mf.xz",
+   "instance_id": "3052911",
+   "thumbnail": "previews/profiles/3052911.jpg",
+   "print_time_h": 8.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1E",
+    "P2S",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(manual)",
+    "photos": 2,
+    "profile_title": "NO AMS!!!     ORIGINAL PRINTPROFILE! 0,16mm layer, 2 walls,"
+   },
+   "name": "Versión estándar",
+   "size": 4037004,
+   "sha256": "955d1ad1305907da240607dc5cc2af7781dd5d64fdfa342eee3d183a61c47aab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coctelera-huevos-9h30.3mf.xz",
+   "instance_id": "3006973",
+   "thumbnail": "previews/profiles/3006973.jpg",
+   "print_time_h": 9.5,
+   "plates": 2,
+   "rating": 4.3,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "X1",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "A1_Mini_0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 5159012,
+   "sha256": "bf5dfc0a952a4e856eb05bb3b1253b0eccb26141f5262a20f1eb385c0388c4ca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/coctelera-huevos-9h36.3mf.xz",
+   "instance_id": "3020502",
+   "thumbnail": "previews/profiles/3020502.jpg",
+   "print_time_h": 9.6,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "X1",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4304456,
+   "sha256": "65b5ad9618f317ea7ac21815b11a18b67f43ce5b44e2f1d7402cf7fd0455b6ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2698481",
+ "title": "Coctelera de huevos modular (reutilización de caca de filamento)",
+ "slug": "modular-egg-shaker-filament-poop-reuse",
+ "url": "https://makerworld.com/en/models/2698481-modular-egg-shaker-filament-poop-reuse",
+ "author": "Gergo",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Una coctelera de huevos divertida y reutilizable impresa en 3D con un diseño que se abre con rosca.\n¡Llénelo con restos de filamentos (“excremento”), frijoles o cualquier cosa que haga ruido!\nPerfecto para niños, música o simplemente un batido satisfactorio.\nImpúlsame ¡Gracias!",
+ "use_cases": [],
+ "tags": [
+  "huevo",
+  "criba vibradora",
+  "traqueteo",
+  "juguete",
+  "2026",
+  "filamento",
+  "caca",
+  "agitarse",
+  "sonido",
+  "musical"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd0be9a13079413/design/cb36a36d8ebdd07c.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2991173.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3020483.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2991210.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3020491.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3052911.jpg": [
+   600,
+   723
+  ],
+  "previews/profiles/3006973.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3020502.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

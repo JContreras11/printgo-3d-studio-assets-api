@@ -1,0 +1,127 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-42min.3mf.xz",
+   "instance_id": "1565299",
+   "thumbnail": "previews/profiles/1565299.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 42,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "A1 Series Print by Object, Cubic infill",
+    "profile_notes": "Changed to the print by object so AMS owners can print it all on 1 plate. Cubic infill for no nozzle “bumps” during infill process.",
+    "creation_date": "2025-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5452400,
+   "sha256": "bd987d5e94f56c7c42319aa52513c3ece36b5b2a250313c74c7e64b0cc4873ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-48min.3mf.xz",
+   "instance_id": "1563275",
+   "thumbnail": "previews/profiles/1563275.jpg",
+   "print_time_h": 0.8,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 112,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Variante 2, Big Base",
+    "creation_date": "2024-12-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión grande",
+   "size": 5649912,
+   "sha256": "6c3e4ccb87f5aa728f4f1ecff7a64e8492caf2b552c703e23b2e0e94a2129c4e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "839560",
+ "title": "Juguete antiestrés",
+ "slug": "fidget-toy",
+ "url": "https://makerworld.com/en/models/839560-fidget-toy",
+ "author": "Yoshman1984",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¿Te sientes un poco ansioso? ¡Entonces este podría ser el juguete adecuado para ti! ¡Hay 2 perfiles de impresión!\nbase pequeña y base grande con más agarre\n\nEs rápido de imprimir y montar.\n\nActualización 06.12.2024\n+ Versión 2\nHe añadido una nueva versión con una zona de agarre más grande.\n\nSimplemente siga paso a paso las instrucciones de montaje ilustradas.\n\nBoost Me¿Te gusta este modelo y te gustaría tener más modelos míos? Entonces por favor apóyame con un impulso:)\ngracias\nPaso 1: imprima todas las piezas y reserve\n\nPaso 2: inserte los pernos en los controles deslizantes\n\nPaso 3: inserte ambos controles deslizantes en la base\n\nPaso 4: coloque las palancas en los controles deslizantes\n\nPaso 5: monte los anillos de retención\n\n¡Finalizado!\n\nDivertirse:)",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "accesorios antiestrés",
+  "juguete antiestrés",
+  "juguetes antiestrés",
+  "juguete",
+  "niños",
+  "nervioso"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9fcbd36946e1a1/design/2024-12-01_cfa6dcd7f854f.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   942
+  ],
+  "previews/profiles/1565299.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/1563275.jpg": [
+   600,
+   578
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

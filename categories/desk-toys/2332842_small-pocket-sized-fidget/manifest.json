@@ -1,0 +1,175 @@
+{
+ "files": [
+  {
+   "path": "model/pequeno-antiestres-3h18.3mf.xz",
+   "instance_id": "2548843",
+   "thumbnail": "previews/profiles/2548843.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 200,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "print with lots of support for best result",
+    "creation_date": "2025-10-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1651180,
+   "sha256": "d22b9a7e87c9152241642dc67b22f2a9f7a6fbab64f8a7a1069adf929a2b31a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pequeno-antiestres-1h30.3mf.xz",
+   "instance_id": "3588365",
+   "thumbnail": "previews/profiles/3588365.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 3.7,
+   "rating_count": 30,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "A1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "SMALLER PRINT 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "print with lots of support for best result",
+    "creation_date": "2026-08-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1750864,
+   "sha256": "07f9824ce64d61d93688296a92a40d44f56781e1380201c72ec9739d15e2337b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pequeno-antiestres-2h24.3mf.xz",
+   "instance_id": "3688404",
+   "thumbnail": "previews/profiles/3688404.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 3.5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "X2D",
+    "X1",
+    "A1 mini",
+    "X1E",
+    "P1S",
+    "A2L",
+    "A1",
+    "H2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "FAST (2.5HRS) OG Size Fidget",
+    "profile_notes": "print with lots of support for best result",
+    "creation_date": "2026-09-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.25",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1730964,
+   "sha256": "96179146cc88fdae6b2bf71cf410765f98f0f95c77268ffb4977b683dc0c84a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2332842",
+ "title": "pequeño antiestrés de bolsillo",
+ "slug": "small-pocket-sized-fidget",
+ "url": "https://makerworld.com/en/models/2332842-small-pocket-sized-fidget",
+ "author": "rosedoesthings",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Esta es la bola orbe morf de tendencia. También imprimiré 1 corazón flexible para cada impresión.\nImpulsame",
+ "use_cases": [],
+ "tags": [],
+ "license": "BY-NC",
+ "release_date": "2026-02-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa69d829070100f/design/08c503995ca06ad1.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2548843.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3588365.jpg": [
+   600,
+   848
+  ],
+  "previews/profiles/3688404.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

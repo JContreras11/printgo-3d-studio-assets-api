@@ -1,0 +1,246 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-4h18.3mf.xz",
+   "instance_id": "1044772",
+   "thumbnail": "previews/profiles/1044772.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 245,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Larger model (TPU filament)",
+    "profile_notes": "Print it with TPU!",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15355,
+      "weight_g": 53.64,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "TPU",
+        "color": "#46A8F9"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en TPU",
+   "size": 969384,
+   "sha256": "b1aa8f255e47516df34f7a92f3c5f3d15bf287f5f4fc6329bf6d4479bfece784",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h36.3mf.xz",
+   "instance_id": "1638788",
+   "thumbnail": "previews/profiles/1638788.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "small grid 6×6 (TPU)",
+    "creation_date": "2025-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1131600,
+   "sha256": "03cbff83f1f213182c7f3b27f567fd0976cc860a9a6191b013d7f177bb2aafc0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h30.3mf.xz",
+   "instance_id": "1533449",
+   "thumbnail": "previews/profiles/1533449.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "2.5 Hour Print 0.28mm layer, 1 walls, 9% 3D honeycomb infill",
+    "profile_notes": "Full size - Prints in 2.5 hours Using 1 wall and 3D Honeycomb infill at 9% makes it soft feel like dense foam where you can squish in your hand",
+    "creation_date": "2025-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "9%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1114280,
+   "sha256": "c2426897604462e479866a100990626f5685520e1a1a3f5a082b07efb4b2f684",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-30min.3mf.xz",
+   "instance_id": "1382442",
+   "thumbnail": "previews/profiles/1382442.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 159,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Smaller model for keychain (TPU filament)",
+    "profile_notes": "This model is much smaller than original version and it has a hole for keychain. You need to print it with TPU",
+    "creation_date": "2025-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 739128,
+   "sha256": "fc96a7f3d70642516875174ea025c5dae956db527e2cdb70fe6a2da146655611",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1057119",
+ "title": "Juguete antiestrés de TPU",
+ "slug": "tpu-fidget-toy",
+ "url": "https://makerworld.com/en/models/1057119-tpu-fidget-toy",
+ "author": "KeishiroUeki",
+ "category": "desk-toys",
+ "source_category": "Educación > Matemáticas",
+ "description": "¡¡Imprimelo con TPU!!\n\n2025/04/21\nSe agregó un modelo más pequeño para llavero.\n\nSe trata de una estructura de mosaico con bisagras diseñada para la impresión de materiales flexibles.\nEn el estado neutral, un tipo de figura plana está dispuesto regularmente, y los espacios entre ellos también comprenden esa figura plana, formando un patrón de relleno plano con una sola figura. Los agujeros se rellenan cuando se transforman y aparece un patrón de relleno de plano similar.",
+ "use_cases": [],
+ "tags": [
+  "arte matemático",
+  "agitarse",
+  "geometría"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US77f10b8ee12f3a/design/2025-01-31_8183c85cb2b2d.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   399,
+   399
+  ],
+  "previews/02.gif": [
+   301,
+   301
+  ],
+  "previews/profiles/1044772.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1638788.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1533449.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1382442.jpg": [
+   399,
+   399
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

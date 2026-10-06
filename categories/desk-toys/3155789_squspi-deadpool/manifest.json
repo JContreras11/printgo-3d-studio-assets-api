@@ -1,0 +1,122 @@
+{
+ "files": [
+  {
+   "path": "model/deadpool-3h06.3mf.xz",
+   "instance_id": "3565580",
+   "thumbnail": "previews/profiles/3565580.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P1P",
+    "P1S",
+    "P2S",
+    "H2S",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "A1",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3629564,
+   "sha256": "767152254966c5e915b989f5ee4309f91ace581161dee12f137b78de6e051f07",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/deadpool-multicolor-2h30.3mf.xz",
+   "instance_id": "3822258",
+   "thumbnail": "previews/profiles/3822258.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，提高打印效率，适配A1和P系列",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2619876,
+   "sha256": "7bb30a05b0bf9a4a3576c840724f5bc7373c0d47cc84496969d1ee4495924587",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3155789",
+ "title": "Deadpool",
+ "slug": "squspi-deadpool",
+ "url": "https://makerworld.com/en/models/3155789-squspi-deadpool",
+ "author": "just_make3d",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Si una parte está demasiado floja o demasiado apretada, cambie la escala de esa parte.\n\nBoost MePara más productos similares",
+ "use_cases": [],
+ "tags": [
+  "dead pool",
+  "maravilla",
+  "agitarse",
+  "hilandero",
+  "pelota",
+  "estrés",
+  "divertido",
+  "chapotear"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb22f10e6b924b4/design/8a11268e3925154e.gif",
+ "images": [
+  "previews/01.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   576,
+   1024
+  ],
+  "previews/profiles/3565580.jpg": [
+   576,
+   1024
+  ],
+  "previews/profiles/3822258.jpg": [
+   600,
+   570
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,573 @@
+{
+ "files": [
+  {
+   "path": "model/manta-antiestres-5h18.3mf.xz",
+   "instance_id": "849470",
+   "thumbnail": "previews/profiles/849470.jpg",
+   "print_time_h": 5.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 793,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 3 walls, 5% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19034,
+      "weight_g": 59.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 4024396,
+   "sha256": "4fe81fd53645e75e25caf2fd24122997bd7e4092fb65ba2fd2408441d1493b3c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-10h.3mf.xz",
+   "instance_id": "2437435",
+   "thumbnail": "previews/profiles/2437435.jpg",
+   "print_time_h": 10,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "A1",
+    "H2C",
+    "P2S",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Max size for A1mini print plate and optimised filament usage",
+    "profile_notes": "Enlarged so that it is as big as it can be on the A1 mini's plate 0.16mm layer, 1 walls, 5% infill",
+    "creation_date": "2026-01-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4799220,
+   "sha256": "61e938dff31009086c122a9ee3d6e466e990ac63a3545a71ccaa0f5ad4972217",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-11h12.3mf.xz",
+   "instance_id": "3250450",
+   "thumbnail": "previews/profiles/3250450.jpg",
+   "print_time_h": 11.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "18x18 squares / 150% of the original",
+    "profile_notes": "This profile was made using Claude It has 18x18 squares instead of 12x12 squares Print settings are all the same as the original",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19034,
+      "weight_g": 59.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ]
+   },
+   "name": "Impresión en PLA",
+   "size": 6478480,
+   "sha256": "4653a73d42c513005b1fdf70b6a039d597cf88cf8f82770f76d797a974203d27",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-12h18.3mf.xz",
+   "instance_id": "2640819",
+   "thumbnail": "previews/profiles/2640819.jpg",
+   "print_time_h": 12.3,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "A1",
+    "H2D",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Big Blanket - Full Bed 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Larger version of my model that nearly fills an X1C, P1P or P1S bed. Not scaled up, its a model with more rows/columns. 0.20 mm 2 walls 5% infill",
+    "creation_date": "2026-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 12161888,
+   "sha256": "09fe7489146ed017be1c26c5b26bdd7010580d08ed85ff06b06361504a7612a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-13h42.3mf.xz",
+   "instance_id": "3199672",
+   "thumbnail": "previews/profiles/3199672.jpg",
+   "print_time_h": 13.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Full A1 Mini Print Bed with a little larger grids."
+   },
+   "name": "Versión mini",
+   "size": 11666660,
+   "sha256": "81a54e4101e84a02c31cc5bb78ed5b96cc21a06701af7a0a7654269f1b92c154",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-19h18.3mf.xz",
+   "instance_id": "2786244",
+   "thumbnail": "previews/profiles/2786244.jpg",
+   "print_time_h": 19.3,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "All three sizes in one.",
+    "profile_notes": "All three sizes in 1. All printers print the large except A1 mini Optimized for best flexibility and quality 0.20mm No support Seperate plates Easy printing",
+    "creation_date": "2026-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 19625872,
+   "sha256": "90775e84726708ed49b47ac35682dbab8739c7cfa8798a9bfacf815706fa5e65",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-1h42.3mf.xz",
+   "instance_id": "2317932",
+   "thumbnail": "previews/profiles/2317932.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 100,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Mini Blanket",
+    "profile_notes": "We love this fidget so much we wanted a mini version. This one is much more pocket sized.",
+    "creation_date": "2025-12-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 4374380,
+   "sha256": "b00b21374cc62fb688dcb58ef1d349f47d3d23f15b53d3b471a89f712c5073b8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-4h48.3mf.xz",
+   "instance_id": "3599162",
+   "thumbnail": "previews/profiles/3599162.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "P1P",
+    "X1",
+    "A1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "P1S",
+    "X1E",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Symmetrical Corners 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "This print profile provides a modified, perfectly symmetric version of the original model. What's Changed: Perfect Symmetry: To ensure the pattern is completely balanced, I extracted exactly 1/4 of the original model and mirrored it across the axes to generate the remaining three quadrants. Unified Corner Style: By using this precise mirroring technique, all four corners now share the exact same edge style and segment pattern, resolving the asymmetry found in the original design. Seamless Alignment: The four individual pieces have been carefully aligned on the build plate. Please note that while they are not merged using the software's Assemble function, their coordinates are matched perfectly so they will slice and print seamlessly as a single, cohesive object. Printing Notes: Slicer Preview: Before sending it to the printer, I highly recommend checking the first layer in your slicer's Preview tab just to verify that the seams where the four quadrants meet are tight and continuous. Standard printing parameters apply. Happy printing!",
+    "creation_date": "2026-08-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2621816,
+   "sha256": "a26ac2a08acadb48c45bc66a414d3772fd5c8dace253a1bc097e791e76b4d692",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-8h54.3mf.xz",
+   "instance_id": "863305",
+   "thumbnail": "previews/profiles/863305.jpg",
+   "print_time_h": 8.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 77,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.12mm layer, 3 walls, 50% infill, ironing",
+    "profile_notes": "smaller layer height (0.12mm), with a concentric infill of 50%, and added ironing for a smooth surface.",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "50%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32115,
+      "weight_g": 62.09,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#76D9F4"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 4173112,
+   "sha256": "c704a1a8b1a09611ff82d67967ff570bb3304127394fa78f25fc43e58aa5151f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/manta-antiestres-multicolor-4h54.3mf.xz",
+   "instance_id": "2910984",
+   "thumbnail": "previews/profiles/2910984.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2C",
+    "X1",
+    "A1",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "H2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "2 Color (AMS), 0.16mm layer, 3 walls, 5% infill",
+    "profile_notes": "Changes the color about halfway through so the top and bottom are different colors",
+    "creation_date": "2026-04-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 5255036,
+   "sha256": "b6e10671380db94ea0d5db62d55a2d7ca019a369b7504902d48590d2c80305b1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "892608",
+ "title": "Manta antiestrés",
+ "slug": "fidget-blanket",
+ "url": "https://makerworld.com/en/models/892608-fidget-blanket",
+ "author": "ken.puchosic",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "antiestrés Blanket: un juguete sensorial relajante y un posavasos funcional\n\nActualización 241221: Se agregó una \"Manta grande\" de las solicitudes que recibí. Si no cargó un perfil de impresión, necesitará obtener el STL y el corte. Disfrutar\n\n¡Esta manta antiestrés es la combinación perfecta de diversión, funcionalidad y concentración! Ya sea que necesite una herramienta táctil para ayudar con la concentración o simplemente algo para mantener las manos ocupadas, este juguete antiestrés ofrece una experiencia increíblemente relajante tanto para niños como para adultos.\n\nSobre el diseño:\nInspirándome en modelos como Bessie the Starfish de STLFlix, me desafié a mí mismo a recrear ese estilo de diseño y el resultado es este encantador juguete antiestrés. Su textura y flexibilidad lo hacen irresistible para jugar, y también sirve como posavasos para mayor versatilidad.\n\nEspecificaciones:\nTamaño: Aproximadamente 4\" x 4\"\n¡Asegúrate de que tu cama esté limpia! ¡La capa inferior necesita una buena adherencia para salir!\nConfiguración de impresión:Altura de capa: cualquier altura de capa funciona bien, usé 0,16\nParedes/Relleno: Recomiendo 3 paredes y un 10% de relleno, pero siéntete libre de usar tu configuración habitual: este modelo es muy indulgente.\n\nPor qué es asombroso:\nProporciona una experiencia táctil atractiva para calmar y concentrarse.\nCompacto y liviano, perfecto para moverse antiestrés o para uso en el escritorio\nAdecuado para todas las edades: ¡desde niños hasta adultos les encantará la sensación y el funcionamiento de este juguete!\nMe encantaría escuchar lo que piensas y ver cómo otros disfrutan de esta creación. ¡Comparte tus impresiones y cuéntame si te gusta!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "barco de cabotaje",
+  "táctil",
+  "sensorio"
+ ],
+ "license": "BY-SA",
+ "release_date": "2024-12-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2e230a38334cc9/design/2024-12-18_9d3f332e4405b.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   725
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   778
+  ],
+  "previews/05.jpg": [
+   1000,
+   1255
+  ],
+  "previews/profiles/849470.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2437435.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/3250450.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2640819.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3199672.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2786244.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2317932.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3599162.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/863305.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2910984.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

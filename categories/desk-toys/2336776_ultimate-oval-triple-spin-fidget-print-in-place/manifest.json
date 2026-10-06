@@ -1,0 +1,299 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-definitivo-24min.3mf.xz",
+   "instance_id": "3833305",
+   "thumbnail": "previews/profiles/3833305.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 917932,
+   "sha256": "d29773a7762d1ea5f988bc4d1d139ba7205aba1d30824324fc048363a01a756a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-definitivo-30min.3mf.xz",
+   "instance_id": "2577817",
+   "thumbnail": "previews/profiles/2577817.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "P2S",
+    "H2S",
+    "A1",
+    "H2D Pro",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "A1 mini",
+    "H2C",
+    "X1",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Modelo bicolor para ser impresso com AMS Configurações originais mantidas",
+    "creation_date": "2026-02-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1036288,
+   "sha256": "90c178f14380e9889929aac1fca0f301b7196de844ea98e76cb01b5b87e6b93e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-definitivo-48min.3mf.xz",
+   "instance_id": "3404437",
+   "thumbnail": "previews/profiles/3404437.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2C",
+    "X1",
+    "P2S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "X2D",
+    "P1P",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "SHINY SILK",
+    "profile_notes": "Setting optimized for shiny prints with silk PLA. Lower Initial Layer Speed Lower Outer Wall Speed Lower Acceleration",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1108012,
+   "sha256": "04d89b10e1701ee89565e457417c398a3a06d245625152e5345c24903ea61369",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-definitivo-multicolor-24min.3mf.xz",
+   "instance_id": "2592998",
+   "thumbnail": "previews/profiles/2592998.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 115,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1 mini",
+    "A1",
+    "X1",
+    "H2D",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "2 Color 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 928384,
+   "sha256": "0d9aa921b32a32a0c310a32649fa583fadf1ac88b3c9a819fba057837147d517",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-definitivo-multicolor-36min.3mf.xz",
+   "instance_id": "2676913",
+   "thumbnail": "previews/profiles/2676913.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2C",
+    "P1P",
+    "X1E",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "A1 mini",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "2 colors, AMS, 3 changes, minimal waste",
+    "profile_notes": "Top and bottom 5 layers color change. 3 filament changes, minimal waste. Initial layer slowed down. Walls slowed down.",
+    "creation_date": "2026-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 893532,
+   "sha256": "2cbfff80434a0c7cfa7d33f23008bacef819b5a9e949ae591412117def3515c1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2336776",
+ "title": "antiestrés definitivo de triple giro ovalado (impresión sin ensamblaje)",
+ "slug": "ultimate-oval-triple-spin-fidget-print-in-place",
+ "url": "https://makerworld.com/en/models/2336776-ultimate-oval-triple-spin-fidget-print-in-place",
+ "author": "AbyssalCactus",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este juguete antiestrés de forma ovalada es perfecto para cualquiera que aprecie un hilandero suave y satisfactorio. Utiliza 3 capas giratorias, cada una con espacios cuidadosamente marcados para que la sensación sea lo más suave posible. Con un aspecto moderno y estéticamente agradable, el Ultimate Oval Triple Spin antiestrés destaca dondequiera que lo guardes. También es un modelo muy rápido de imprimir, ya que solo tarda 9,12 gramos y 25 minutos. Este antiestrés de triple giro es un complemento perfecto para la colección de juguetes antiestrés de cualquier fabricante.\nBoost MeSi te gusta este modelo, ¡considera potenciarlo! Ayuda muchísimo:) Membresía ¿Quieres vender mis juguetes antiestrés impresos en 3D? ¡Forme parte de mi programa de membresía de licencia comercial! Instrucciones de impresión:\nPrepare la base de impresión Limpie minuciosamente la base de impresión con alcohol isopropílico para garantizar una adhesión adecuada.\n¡Se recomienda encarecidamente adhesivo adicional para la cama de impresión! Sugiero usar spray 3D-Lac o una barra de pegamento.\n\nDescargue el perfil de impresión Envíe el perfil de impresión preconfigurado a su impresora Bambu Lab a través de la aplicación Bambu Handy o descargue y abra el perfil de impresión preconfigurado en Bambu Studio.\n\nSeleccione sus opciones de impresión Elija su tipo y color de filamento.\nSeleccione su tipo de cama de impresión (por ejemplo, texturizada o lisa).\nConfirme la configuración de su impresora, idealmente para una impresora Bambu Lab.\n\nIniciar impresiónComience el trabajo de impresión. No son necesarios soportes.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "juguete inquieto",
+  "divertido",
+  "frío",
+  "mejor",
+  "el mejor",
+  "mecanismo",
+  "girar",
+  "hilandero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US52e23d1ba669b6/design/9a6a5c227548cb9f.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3833305.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2577817.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3404437.jpg": [
+   600,
+   811
+  ],
+  "previews/profiles/2592998.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/2676913.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

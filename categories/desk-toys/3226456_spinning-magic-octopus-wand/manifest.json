@@ -1,0 +1,268 @@
+{
+ "files": [
+  {
+   "path": "model/varita-magica-3h30.3mf.xz",
+   "instance_id": "3653948",
+   "thumbnail": "previews/profiles/3653948.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 183,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1E",
+    "X1",
+    "X2D",
+    "P1S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "A1 mini optiimized",
+    "creation_date": "2026-08-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 8253956,
+   "sha256": "4aedca4fc0b35c1ec41f10e0e4a34ab4b5044b028050e93f5c917cef675620ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/varita-magica-1h36.3mf.xz",
+   "instance_id": "3653953",
+   "thumbnail": "previews/profiles/3653953.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 40,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2C",
+    "A1",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "only longer stick, A1, P2S, X2D and H2 series",
+    "profile_notes": "ONLY LONGER STICK",
+    "creation_date": "2026-01-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2767640,
+   "sha256": "d52b7c9b652d0e4b64938f8874a5b5a094c8465beaed4a76b602735ec10d7239",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/varita-magica-48min.3mf.xz",
+   "instance_id": "3798938",
+   "thumbnail": "previews/profiles/3798938.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Impact-resistant flat stick, fast print",
+    "profile_notes": "Thanks to the horizontal orientation of the layer lines, the stick is exceptionally strong. It is compatible with all other parts from the main print profile.",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2180420,
+   "sha256": "cfd20db144d3329e257d4929b9a6f82678de7b715e495bbe956f6edbd84b28ec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/varita-magica-4h48.3mf.xz",
+   "instance_id": "3795330",
+   "thumbnail": "previews/profiles/3795330.jpg",
+   "print_time_h": 4.8,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 83,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P1S",
+    "P2S",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.03.66",
+    "profile_title": "Separate plates",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 8376416,
+   "sha256": "0594188f536e805cb4592e64e30fd8910b7f0128ff465b9118a25ecd99e4ba18",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3226456",
+ "title": "Varita mágica giratoria de pulpo",
+ "slug": "spinning-magic-octopus-wand",
+ "url": "https://makerworld.com/en/models/3226456-spinning-magic-octopus-wand",
+ "author": "gobotoru",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "La Varita Mágica del Pulpo es un encantador accesorio mágico que presenta un pulpo giratorio y un palo en espiral. Perfecto para impresión multicolor sin AMS, está diseñado para imprimirse en partes separadas para que puedas personalizar completamente los colores del mango, el pulpo, el palo y el adorno.\n\nPerfil de palo más largo opcional incluido.\n\nMira también las nuevas varitas de Halloween\n\nConsejos de impresión\nEstabilidad: Para partes altas y verticales, se recomienda utilizar un ala. Esto evita que el modelo se vuelque durante el proceso de impresión.\nAdhesión: asegúrese de que su placa de construcción esté completamente limpia antes de comenzar para garantizar la mejor adhesión posible a la primera capa.\nUsuarios de la serie A1: para impresoras como Bambu Lab A1, recomiendo reducir la velocidad de impresión en aproximadamente un 50%. Esto minimiza el movimiento de \"caza de la cama\" de la base térmica, que de otro modo podría derribar modelos altos y delgados.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "hilandero",
+  "magia",
+  "varita mágica",
+  "princesa",
+  "san valentin",
+  "varita magica",
+  "pulpo",
+  "juguete",
+  "costumbre",
+  "hilado",
+  "a1 mini"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US63900c4579332f/design/4bd6bdf4bd125eac.jpg",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.webp",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1000
+  ],
+  "previews/02.webp": [
+   1000,
+   1333
+  ],
+  "previews/03.webp": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1000
+  ],
+  "previews/07.jpg": [
+   1000,
+   1499
+  ],
+  "previews/08.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3653948.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3653953.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3798938.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/3795330.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

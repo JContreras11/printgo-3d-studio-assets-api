@@ -1,0 +1,148 @@
+{
+ "files": [
+  {
+   "path": "model/bucle-flexible-36min.3mf.xz",
+   "instance_id": "3193798",
+   "thumbnail": "previews/profiles/3193798.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 160,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "Squishy Fidget Loop - 0.2mm layer, 1 walls, 0% infill",
+    "profile_notes": "Use smooth vase mode.",
+    "creation_date": "2026-05-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3053552,
+   "sha256": "d0306cd90b82a16c4982332ad7b2bf5fbb797679d3b1285d12a05f8af9ba43f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bucle-flexible-42min.3mf.xz",
+   "instance_id": "3340784",
+   "thumbnail": "previews/profiles/3340784.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "X1",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "transparent PETG profile",
+    "profile_notes": "i designed special slicer settings that allow your transparent filament to be printed much slower and clearer in order to have a more transparent look.",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3142352,
+   "sha256": "8c06d94f0dce49c9038507531d040de863f917b8835b6fea3334cf1d2921f15f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2861823",
+ "title": "Bucle flexible y blando para inquietudes",
+ "slug": "flexible-squishy-fidget-loop",
+ "url": "https://makerworld.com/en/models/2861823-flexible-squishy-fidget-loop",
+ "author": "fifindr",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Usa el generador de pared de aracne + modo jarrón liso!\n\nAnímame si te gusta mi diseño. ¡Gracias!\nBoost MeBoost = 43 g de filamento:)MembresíaLicencia comercialUn bucle flexible y blando diseñado para apretarse, estirarse, agitarse, doblarse y manipularse con la mano.\n\nEl modelo se imprime en modo jarrón con una estructura de una sola pared, lo que lo hace liviano, flexible y lo suficientemente suave para un uso táctil satisfactorio.\n\nDespués de imprimir, deje que la placa de construcción se enfríe antes de retirar el modelo. Esto ayuda a evitar que la primera capa se separe durante la eliminación.\n\nDiseñado como un simple juguete sensorial, un juguete para aliviar el estrés, un juguete de escritorio o un objeto de mano flexible para el uso diario.",
+ "use_cases": [],
+ "tags": [
+  "flexible",
+  "blando",
+  "agitarse",
+  "juguete",
+  "juguetes",
+  "divertido",
+  "niño",
+  "niños",
+  "jugar",
+  "juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf49bd7770f6d8e/design/be9f548800e744c2.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   364,
+   647
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3193798.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3340784.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

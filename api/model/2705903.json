@@ -1,0 +1,272 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-triple-2h48.3mf.xz",
+   "instance_id": "3150426",
+   "thumbnail": "previews/profiles/3150426.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 21,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Universal Profile with all on one plate, filament saving",
+    "profile_notes": "Universal Profile, works with all Bambu printers. All parts on one plate, even for A1 Mini. Filament saving by clever print-by-object use, with only 1 filament change. 0.2mm layer height 2 walls 0% infill",
+    "creation_date": "2026-05-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 14017692,
+   "sha256": "8158f550bc286ec7d0fd0cb1f7913f2cb665e18496d28697696f7b90f202670e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-triple-3h06.3mf.xz",
+   "instance_id": "2999230",
+   "thumbnail": "previews/profiles/2999230.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 115,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "One Plate - 0.2mm layer, 2 walls, 0% infill",
+    "profile_notes": "Everything on one plate, print-by-object",
+    "creation_date": "2026-04-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 13741644,
+   "sha256": "3fc28466d74138bc1673b104f11bbff639da2edb8175652dff6e586dc98f5e7d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-triple-3h30.3mf.xz",
+   "instance_id": "3496244",
+   "thumbnail": "previews/profiles/3496244.jpg",
+   "print_time_h": 3.5,
+   "plates": 5,
+   "rating": 4.8,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "A2L",
+    "P2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 0% infill",
+    "profile_notes": "Each part on own plate",
+    "creation_date": "2026-04-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 13927244,
+   "sha256": "875c9738cfaf667cd92c7f8cff6533519fd1cf63fa28fe75f1c1eba49adbec13",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-triple-4h48.3mf.xz",
+   "instance_id": "3791033",
+   "thumbnail": "previews/profiles/3791033.jpg",
+   "print_time_h": 4.8,
+   "plates": 3,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "X1E",
+    "P2S",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A2L",
+    "A1",
+    "P1S",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "RESIZED 120%, 0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Each part on own plate",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 15719404,
+   "sha256": "155ae3700b87a250061e1f233479fa36925692f64acb2e1b40259a1c49c80253",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-triple-7h06.3mf.xz",
+   "instance_id": "3023277",
+   "thumbnail": "previews/profiles/3023277.jpg",
+   "print_time_h": 7.1,
+   "plates": 6,
+   "rating": 4.7,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6,
+    "profile_title": "Gyroid Infill"
+   },
+   "name": "Versión estándar",
+   "size": 22864076,
+   "sha256": "bff5f8be9e85939e2eb531292439902232d31f7b294f15fe9f936ecca9c852a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2705903",
+ "title": "antiestrés de triple hélice de paso imposible",
+ "slug": "impossible-passthrough-triple-helix-fidget",
+ "url": "https://makerworld.com/en/models/2705903-impossible-passthrough-triple-helix-fidget",
+ "author": "delphir",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "antiestrés de triple hélice de paso imposible\n\nDescripción:\nEste Impossible Passthrough Triple Helix antiestrés es una escultura cinética diseñada para imprimir de forma limpia y confiable sin necesidad de soportes. Su geometría crea un efecto visual intrigante: una hélice priple que parece contener un canal de paso imposible.\nLa triple hélice en sí es una estructura estática. En su interior, un canal interno continuo forma un camino de paso imposible donde las formas internas se deslizan a través de la hélice, creando la ilusión de que pasan a través de una geometría sólida mientras se mueven suavemente a lo largo de la espiral.\n\nCaracterísticas:\nGeometría imposible de triple hélice\nmecanismo de deslizamiento en espiral\nCuatro formas interiores intercambiables: Esfera\ncono\nCilindro\nCilindro biselado\n\nDiseñado para cortes limpios e impresión confiable\nImpresión:\nimpresión sin ensamblaje\nNo se requieren soportes\nSe puede imprimir en un solo color o con configuraciones de varios colores para lograr un mayor efecto visual.\nDeje que la placa de construcción se enfríe antes de retirarla.\nDimensiones:\n40x40x150mm\n\nConsulte también el Gyro spinner antiestrés (4 anillos anidados):\nSi te gusta este diseño, también puedes disfrutar del Gyro spinner antiestrés que presenta cuatro anillos completamente anidados impresos como una sola pieza. Lleva el concepto de paso imposible a una dirección giroscópica más mecánica, permitiendo que cada anillo gire libremente en todos los ejes. El resultado es un movimiento suave e hipnótico con una limpia estética de ciencia ficción. Imprima ambos modelos para comparar cómo la libertad de rotación y la estructura influyen en la sensación y la interacción generales.\n\nGyro spinner antiestrés aquí:",
+ "use_cases": [],
+ "tags": [
+  "triple hélice",
+  "doble hélice",
+  "hélice",
+  "agitarse",
+  "cono",
+  "esfera",
+  "pelota",
+  "girar",
+  "retorcido",
+  "imprimir en el lugar",
+  "juguete"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa7a2bc4322294d/design/8374f8262398676b.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.gif",
+  "previews/04.gif",
+  "previews/05.gif",
+  "previews/06.gif"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.gif": [
+   800,
+   1334
+  ],
+  "previews/04.gif": [
+   800,
+   1422
+  ],
+  "previews/05.gif": [
+   800,
+   1291
+  ],
+  "previews/06.gif": [
+   800,
+   450
+  ],
+  "previews/profiles/3150426.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2999230.jpg": [
+   600,
+   438
+  ],
+  "previews/profiles/3496244.jpg": [
+   600,
+   503
+  ],
+  "previews/profiles/3791033.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3023277.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

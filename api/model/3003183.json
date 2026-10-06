@@ -1,0 +1,156 @@
+{
+ "files": [
+  {
+   "path": "model/pequenos-pinguinos-5h48.3mf.xz",
+   "instance_id": "3372059",
+   "thumbnail": "previews/profiles/3372059.jpg",
+   "print_time_h": 5.8,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 59,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 6509232,
+   "sha256": "72eebdd8679edadb67c809dd89fbdba488e4f4cec1876350ccfec0712d17fb2a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pequenos-pinguinos-monocolor-18min.3mf.xz",
+   "instance_id": "3432731",
+   "thumbnail": "previews/profiles/3432731.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Penguins ONLY - Single Color",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 3333268,
+   "sha256": "0bb2ee177c195182b35621224b961c3a78c3e6dd42367d98df9859743e1650e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3003183",
+ "title": "Pequeños pingüinos - Mundos de bolsillo",
+ "slug": "tiny-penguins-pocket-worlds",
+ "url": "https://makerworld.com/en/models/3003183-tiny-penguins-pocket-worlds",
+ "author": "PocketWorlds",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este diseño es un modelo articulado de impresión sin ensamblaje que NO necesita soportes e imprime muy bien con PLA.\nEstá disponible en formato.3MF y.STL. La versión.3MF viene precoloreada para impresión multicolor.\n\nPara más Pocket Worlds puedes visitar:\n\nConfiguración de impresión y filamentos utilizados para las imágenes de arriba:\nTamaño de la boquilla: 0,4 mm\nAltura de capa: 0,16 mm – Calidad estándar\nBucles de pared: 2\nRelleno: 15% giroide\nFilamentos: Los filamentos utilizados para las imágenes de arriba son filamentos PLA de Bambu Lab únicamente.",
+ "use_cases": [],
+ "tags": [
+  "flexible",
+  "articulado",
+  "imprimir en el lugar",
+  "pepita",
+  "sin soportes",
+  "soporte gratuito",
+  "partes móviles",
+  "impresión fácil",
+  "pingüino",
+  "pingüinos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5745231f184aa5/design/68bf596aef75c147.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3372059.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3432731.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,660 @@
+{
+ "files": [
+  {
+   "path": "model/almohadilla-antiestres-3h.3mf.xz",
+   "instance_id": "2902758",
+   "thumbnail": "previews/profiles/2902758.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 125,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Medium Size - 140x140x3.7 mm",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3761416,
+   "sha256": "a176bb0e1eb6a8896d856a6ba75fc7153b835f2d6ee33857601c10fecec7a1cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-16h06.3mf.xz",
+   "instance_id": "3220598",
+   "thumbnail": "previews/profiles/3220598.jpg",
+   "print_time_h": 16.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Extra Big Size - 320x320x3.06 mm",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A2L",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 9268156,
+   "sha256": "5d9e8cc769088c5f42783837771eab2840de58a45e89e34ae33f887d0cf2aec0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-24min.3mf.xz",
+   "instance_id": "3546671",
+   "thumbnail": "previews/profiles/3546671.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Smaller | Fast Print - TPU AMS",
+    "creation_date": "2026-08-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2594024,
+   "sha256": "4f75bdec581aa6ea1b534861bce4727460e386ef256d725b1f4b558d1dbd2d25",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-36min.3mf.xz",
+   "instance_id": "2915738",
+   "thumbnail": "previews/profiles/2915738.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 281,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Small Size - 68x68x3.6 mm",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 2516940,
+   "sha256": "d4a33bb9ea39f45dab135a4e49422d261dda03d4cfa5a6de3a6aaaf5790573fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-42min.3mf.xz",
+   "instance_id": "2916657",
+   "thumbnail": "previews/profiles/2916657.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Keychain - 75x75x3 mm",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2881100,
+   "sha256": "086fdedeab1e89ee0e1cea537541211e46300c266f5505e46bd7c49c1a82afff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-4h48.3mf.xz",
+   "instance_id": "2947748",
+   "thumbnail": "previews/profiles/2947748.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 96,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X2D",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Large Size - 173x173x3.7 mm",
+    "profile_notes": "A1 Mini",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 4612016,
+   "sha256": "a0e7a882ff9c79aa283a6067d105752d028104234ff3032ee5a0efc2c0545120",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-9h54.3mf.xz",
+   "instance_id": "3013041",
+   "thumbnail": "previews/profiles/3013041.jpg",
+   "print_time_h": 9.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "A2L",
+    "P2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Big Size - 250x250x3.7 mm",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 6118140,
+   "sha256": "22a7b9ea6f2ac5d570be050e2eb1ad9e888c0343a0e0d188b0da5cdcc8e88cf2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-multicolor-10h30.3mf.xz",
+   "instance_id": "3620369",
+   "thumbnail": "previews/profiles/3620369.jpg",
+   "print_time_h": 10.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Big Size - 250x250x3.7 mm - 2Color",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor versión grande",
+   "size": 6858644,
+   "sha256": "4526e0c7e901ee30b20fe9bb9ce8dc6b77740036beb04f407376de0d620f9291",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-multicolor-16h24.3mf.xz",
+   "instance_id": "3620405",
+   "thumbnail": "previews/profiles/3620405.jpg",
+   "print_time_h": 16.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Extra Big Size - 320x320x3.06 mm - dual color",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A2L",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor versión grande",
+   "size": 10337084,
+   "sha256": "89f6d977cdcbfea4703a0eb4cf8476805f4134f20854e3854946cafbd44a9046",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-multicolor-3h12.3mf.xz",
+   "instance_id": "2916458",
+   "thumbnail": "previews/profiles/2916458.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Medium Size - 140x140x3.7 mm - dual color",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 4076576,
+   "sha256": "f76306b3a1db73d110637bebffbae7c72e4d8a3d85a7413ae90b9ab2f2d736e1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-multicolor-42min.3mf.xz",
+   "instance_id": "2916404",
+   "thumbnail": "previews/profiles/2916404.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Small Size - 68x68x3.6 mm - dual color",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor versión mini",
+   "size": 2736728,
+   "sha256": "e91fdb20950c1739a27e92cf8ce9070598672d8b63faab5a4369601caefdbecf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/almohadilla-antiestres-multicolor-54min.3mf.xz",
+   "instance_id": "3220674",
+   "thumbnail": "previews/profiles/3220674.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Keychain 2 color - 75x75x3 mm | AMS",
+    "creation_date": "2026-06-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2653340,
+   "sha256": "8146919a18aa8e6034d3e786e0d33f8aacc3a7c461b0b3113587e56d6933d90f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2629018",
+ "title": "Almohadilla antiestrés de malla flexible (impresión sin ensamblaje)",
+ "slug": "flexible-mesh-fidget-pad-print-in-place",
+ "url": "https://makerworld.com/en/models/2629018-flexible-mesh-fidget-pad-print-in-place",
+ "author": "creonic.net",
+ "category": "desk-toys",
+ "source_category": "Herramientas > Gadgets",
+ "description": "Tejido de impresión sin ensamblaje altamente flexible inspirado en la estructura de cota de malla.\n\nImportante: Este modelo fue desarrollado y probado en impresoras Bambu Lab.\nSi está utilizando otra impresora o cortadora, asegúrese de que su máquina esté calibrada y que la configuración esté ajustada correctamente.\nNo puedo garantizar resultados idénticos en todas las configuraciones de terceros.\nCalifique el modelo según el diseño en sí, no los problemas causados ​​por la calibración de la impresora, la configuración de la cortadora o las limitaciones del hardware.\n\nDesactive los soportes y el borde. El modelo está diseñado para imprimir sin ellos.\n\nEste modelo se imprime como una sola pieza sin necesidad de soportes. El patrón entrelazado crea un comportamiento suave similar al de una tela mientras mantiene la integridad estructural.\nTambién funciona muy bien como objeto táctil antiestrés (antiestrés): es agradable doblarlo, doblarlo y manipularlo en las manos.\n\nConsejo: Si la primera capa parece nerviosa o comienza a curvarse, ajuste la velocidad de la impresora al modo Silencio / 50% para las primeras capas. Una vez que la base esté estable, puede volver a Switch a Estándar/100%.\n\nPerfecto para:\n- uso antiestrés / antiestrés\n- superficies flexibles\n- alfombras antideslizantes\n- elementos decorativos\n- cosplay o accesorios\nProbado en Bambu Lab A1 mini con PLA y PLA+.\nNotas:\n- Una ligera rigidez al principio es normal: la estructura se vuelve más flexible después del movimiento inicial.\n- Mejores resultados con flujo correctamente calibrado y filamento seco.\nNo se requieren soportes.\nImpresión en el lugar.\n\nDiseño original de Creonic Lab, creado desde cero en Plasticity. Esto no es una remezcla ni una copia de otro modelo.\n\nMás de mis diseños de impresión en el lugar:",
+ "use_cases": [],
+ "tags": [
+  "antiestrés",
+  "sensorio",
+  "relajarse",
+  "calmante",
+  "agitarse",
+  "flexible",
+  "cota de malla",
+  "imprimir en el lugar",
+  "malla",
+  "patrón",
+  "táctil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US46689f00d95cea/design/2bf4375af434201f.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.gif",
+  "previews/05.gif",
+  "previews/06.gif",
+  "previews/07.gif",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg",
+  "previews/17.jpg",
+  "previews/18.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   450
+  ],
+  "previews/02.jpg": [
+   1000,
+   1296
+  ],
+  "previews/03.jpg": [
+   1000,
+   2222
+  ],
+  "previews/04.gif": [
+   208,
+   462
+  ],
+  "previews/05.gif": [
+   188,
+   334
+  ],
+  "previews/06.gif": [
+   170,
+   302
+  ],
+  "previews/07.gif": [
+   184,
+   328
+  ],
+  "previews/08.jpg": [
+   1000,
+   2222
+  ],
+  "previews/09.jpg": [
+   1000,
+   450
+  ],
+  "previews/10.jpg": [
+   1000,
+   1296
+  ],
+  "previews/11.jpg": [
+   1000,
+   2222
+  ],
+  "previews/12.jpg": [
+   1000,
+   2222
+  ],
+  "previews/13.jpg": [
+   1000,
+   2222
+  ],
+  "previews/14.jpg": [
+   1000,
+   2222
+  ],
+  "previews/15.jpg": [
+   1000,
+   2222
+  ],
+  "previews/16.jpg": [
+   1000,
+   450
+  ],
+  "previews/17.jpg": [
+   410,
+   911
+  ],
+  "previews/18.jpg": [
+   410,
+   911
+  ],
+  "previews/profiles/2902758.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3220598.jpg": [
+   600,
+   379
+  ],
+  "previews/profiles/3546671.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2915738.jpg": [
+   600,
+   379
+  ],
+  "previews/profiles/2916657.jpg": [
+   410,
+   911
+  ],
+  "previews/profiles/2947748.jpg": [
+   600,
+   778
+  ],
+  "previews/profiles/3013041.jpg": [
+   600,
+   379
+  ],
+  "previews/profiles/3620369.jpg": [
+   600,
+   379
+  ],
+  "previews/profiles/3620405.jpg": [
+   600,
+   379
+  ],
+  "previews/profiles/2916458.jpg": [
+   600,
+   270
+  ],
+  "previews/profiles/2916404.jpg": [
+   600,
+   270
+  ],
+  "previews/profiles/3220674.jpg": [
+   170,
+   302
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

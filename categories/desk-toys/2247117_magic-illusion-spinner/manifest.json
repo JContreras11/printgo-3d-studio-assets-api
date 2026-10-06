@@ -1,0 +1,340 @@
+{
+ "files": [
+  {
+   "path": "model/hilandero-ilusion-54min.3mf.xz",
+   "instance_id": "2446657",
+   "thumbnail": "previews/profiles/2446657.jpg",
+   "print_time_h": 0.9,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 998,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "P2S",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "PLA silk/PLA normal 0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 673732,
+   "sha256": "8e9c547123d5a931c9165ce2b92a53f6a0bc9a49f36da7a46d6405124e06db66",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hilandero-ilusion-1h.3mf.xz",
+   "instance_id": "3861539",
+   "thumbnail": "previews/profiles/3861539.jpg",
+   "print_time_h": 1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "SILK and special filament finish optimized",
+    "creation_date": "2026-10-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.16",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 704060,
+   "sha256": "4ec181bcc51d20467dc19ba9524288de9ca32edbcd898854032f659dd8459e2f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hilandero-ilusion-1h12.3mf.xz",
+   "instance_id": "3771654",
+   "thumbnail": "previews/profiles/3771654.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "RESIZED 130%, 0.2mm layer, 3 walls, 100% infill",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4112744,
+   "sha256": "4d36c06d08d748f3bbaa8c5e54e6d2f55d33740aeb29ba10974ff140166fcb4a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hilandero-ilusion-36min.3mf.xz",
+   "instance_id": "2654221",
+   "thumbnail": "previews/profiles/2654221.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 319,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "X2D",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1 mini",
+    "P2S",
+    "A2L",
+    "P1S",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "27 MINUTES PRINT!! | 0.24mm layer, 2 walls, 7% infill",
+    "profile_notes": "PLEASE RATE THE PRINT PROFILE IF YOU LIKE IT (or even if you dont :)) TO-DO: FIX FIXATION TRIANGLES (you dont actually need them) 11g, 35 minutes print",
+    "creation_date": "2026-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 772860,
+   "sha256": "88c5696738d7552d47974fc79107bf612bd7391b80e47e9bc1e3ffc6df52950a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hilandero-ilusion-42min.3mf.xz",
+   "instance_id": "3397514",
+   "thumbnail": "previews/profiles/3397514.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2S",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "10 GRAMS / LIGHTER | 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "SPINS LONGER BECAUSE ITS LIGHTER PERFECT TOY FOR KIDS OR ADULTS",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 817572,
+   "sha256": "8291f05b6ae258ccf134bda41318bd7f15b32a8b5586fc6c5cedc0b9a41473b7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/hilandero-ilusion-multicolor-1h18.3mf.xz",
+   "instance_id": "2666166",
+   "thumbnail": "previews/profiles/2666166.jpg",
+   "print_time_h": 1.3,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 47,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "[AMS] 2 colors|0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "added color to the model adding to the “floating” effect of the magic spinner",
+    "creation_date": "2026-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 865628,
+   "sha256": "5f75c5fdd0641962cda4e5b7f529149fae24ed61a41ffb6aac08c0cca27bbec3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2247117",
+ "title": "Hilandero de ilusión mágica",
+ "slug": "magic-illusion-spinner",
+ "url": "https://makerworld.com/en/models/2247117-magic-illusion-spinner",
+ "author": "AeroDesigns_",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Una peonza que crea un efecto visual único mientras gira.\nEquilibrado con una geometría especial para tiempos de giro prolongados y movimientos suaves, lo que lo hace divertido de ver y satisfactorio de usar.\nSe imprime fácilmente y funciona bien como juguete de escritorio o como juguete antiestrés.\n\nadvertencia:\nEs posible que el conector no encaje correctamente si la identificación del modelo se amplía o reduce.\n\nNotas:\nImprime en dos mitades con una pieza de conexión separada.\nNo es necesario pegamento pero se recomienda para una buena conexión entre piezas.\nTiene dos tamaños diferentes de conector para acomodar filamentos con diferentes tolerancias, por ejemplo. Seda PLA.\n\nMembresía¿Disfrutando de mis modelos? Si desea apoyar proyectos futuros o vender impresiones físicas de mis diseños, considere unirse a una de mis membresías. Tu apoyo me ayuda a continuar creando y compartiendo nuevos modelos con la comunidad. Impulsame Si te gusta el modelo, considera impulsarlo gratis. Ayuda a llegar a más personas.",
+ "use_cases": [],
+ "tags": [
+  "juguetes",
+  "juguete",
+  "hilandero",
+  "hilado",
+  "peonza",
+  "arriba",
+  "agitarse"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-01-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb7b116c066a3e7/design/2026-01-15_976a47fa93e7c.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   664
+  ],
+  "previews/02.jpg": [
+   1000,
+   664
+  ],
+  "previews/03.jpg": [
+   1000,
+   664
+  ],
+  "previews/04.png": [
+   1000,
+   696
+  ],
+  "previews/profiles/2446657.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3861539.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3771654.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2654221.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/3397514.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2666166.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

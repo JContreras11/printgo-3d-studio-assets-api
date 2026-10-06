@@ -1,0 +1,180 @@
+{
+ "files": [
+  {
+   "path": "model/flush-antiestres-1h18.3mf.xz",
+   "instance_id": "631019",
+   "thumbnail": "previews/profiles/631019.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 53,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Small Flush Fidget",
+    "profile_notes": "Small Flush Fidget 1.5 x1.5 (38mm) Holds 20 to 40g waste. Default settings are .20 layer, 2 wall, 10% gyroid.",
+    "creation_date": "2025-02-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4485,
+      "weight_g": 24.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 1599876,
+   "sha256": "6371c126e1eac07d212f6d9b60e763ce5a374578c9b969eb883430bf3f63add7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flush-antiestres-5h.3mf.xz",
+   "instance_id": "1362114",
+   "thumbnail": "previews/profiles/1362114.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1S",
+    "X1E",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "Large Flush Fidget",
+    "profile_notes": "Larger version, 2.5 (65mm) x 2 (50mm) Holds up to 100g of flushed waste. Default profile is 2 wall, .20 layer, 10% gyroid.",
+    "creation_date": "2025-04-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 1501820,
+   "sha256": "6d8bddcaa6a3f5faa469d9c085f7189cf8b6e1fe3bc20330879fdb8f47155b27",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "701489",
+ "title": "Flush antiestrés - ¡Escalas Z!",
+ "slug": "flush-fidget-z-scales",
+ "url": "https://makerworld.com/en/models/701489-flush-fidget-z-scales",
+ "author": "lotts_creations",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¿Por qué simplemente hacer caca en un balde cuando puedes usarlo para hacer algo divertido?\n\nEste Flush antiestrés vertical fue diseñado para compensar el costo y reducir la frustración del desperdicio de filamentos. Tiene un tamaño pequeño de solo 1,5\" x 1,5\" (38 mm), pero la altura se puede escalar en z para que coincida con la altura de su modelo, de 1 pulgada a 10 pulgadas (25,4 mm a 254 mm), para maximizar la absorción. Con la configuración de impresión típica, cada pequeño antiestrés con descarga puede contener aproximadamente 30 g de residuos.\n\nimpresión sin ensamblaje sin necesidad de soportes ni perfiles de impresión especiales. Simplemente arrastre y suelte sus impresiones y cambie la configuración que desee, ¡solo asegúrese de que la función Flush en este objeto esté habilitada!\n\nEl perfil de impresión predeterminado proporcionado es exactamente cómo imprimimos todos nuestros flexi, un equilibrio de tiempo y material teniendo en cuenta el juego moderado de los niños. También se puede imprimir con un soporte de bandeja abierta opcional. Un ala no es necesaria ni útil. Si tiene problemas de adherencia, se recomienda Bambu Glue o laca para el cabello.\n\nNota: El tamaño mínimo de impresión para que sea funcional es del 100%. Sólo se debe cambiar la escala Z, del 100% al 1000%. La configuración de Flush into object no será visible a menos que esté habilitada una torre principal.\n\nActualización 15/04/2024: Se ha agregado un antiestrés de descarga grande. Sus dimensiones predeterminadas son 2,5\"(65 mm) por 2\"(50 mm). Puede contener más de 100 g de residuos.\n\nInstrucciones detalladas para una impresión mínima de excremento con Bambu Studio sin afectar la calidad: abra el antiestrés y arrastre la impresión que desee. Haga clic en los volúmenes de descarga, cambie de 1,00 a 0,65 si uno de sus colores es el blanco, o 0,55 si no se utiliza el blanco. Habilite la torre principal en Otros y disminuya su ancho de costilla a 1. Cambie el tamaño de Flush antiestrés desmarcando la escala uniforme y arrastre el cuadro azul del eje Z hacia arriba para que coincida con el último cambio de color de la impresión deseada. Haga clic derecho en Flush antiestrés y seleccione todas las opciones de descarga. ¡Rebanada! Si todavía tienes una cantidad considerable de caca y espacio vacío en la cama, clona el Flush antiestrés, ajusta la altura a las capas más ocupadas, cambia de color y vuelve a comprobarlo. El objetivo es disminuir la caca tanto como sea posible sin aumentar mucho el filamento total utilizado.\n\n¡Nos encantaría ver la increíble belleza aleatoria de tus Flush antiestrés y las críticas constructivas para mejorar siempre son bienvenidas!\n\nBoost MeSi a usted o a un ser querido le gustó este Flush antiestrés, nos encantaría que sus tokens de impulso nos ayudaran a ganar una nueva impresora para probar diseños futuros. Siéntete libre de seguirnos y observar cómo crecen nuestras habilidades de diseño.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "enjuagar",
+  "caca",
+  "cubo de caca",
+  "dinero",
+  "desperdiciar",
+  "divertido",
+  "bonito",
+  "popular",
+  "vertical",
+  "comercial",
+  "vender"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US607c9eeb1ff7d6/design/2024-10-13_10f6c90bdf5a6.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   600,
+   434
+  ],
+  "previews/02.jpg": [
+   1000,
+   916
+  ],
+  "previews/03.png": [
+   1000,
+   661
+  ],
+  "previews/04.png": [
+   1000,
+   707
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/631019.jpg": [
+   600,
+   420
+  ],
+  "previews/profiles/1362114.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

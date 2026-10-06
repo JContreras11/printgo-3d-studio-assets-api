@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/mini-rueda-4h18.3mf.xz",
+   "instance_id": "1455750",
+   "thumbnail": "previews/profiles/1455750.jpg",
+   "print_time_h": 4.3,
+   "plates": 3,
+   "rating": 4.5,
+   "rating_count": 82,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Wheel All Plates 0.2mm layer",
+    "profile_notes": "Use tree suports for some parts No brim",
+    "creation_date": "2025-05-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1348900,
+   "sha256": "93ff4706e1b8e0a733de277e565a7da073c4d27a24301c27bc203fe4f20b82f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mini-rueda-4h54.3mf.xz",
+   "instance_id": "2830598",
+   "thumbnail": "previews/profiles/2830598.jpg",
+   "print_time_h": 4.9,
+   "plates": 5,
+   "rating": 4.8,
+   "rating_count": 26,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Fixed Triangles + More w/ Printed Bearings (AMS Opt.)",
+    "profile_notes": "Added the missing triangles when downloading via Handy/Studio Fixed selector by shortening it, fixed collisions with the stand with some bump deflectors Included 4 different tolerance bearings (remixed from EdgeFlo ) Colored the triangles with print by object so you can manually swap filament or use AMS with minimal waste Set colors for all remaining parts",
+    "creation_date": "2026-03-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 2728436,
+   "sha256": "7e4fdbd87589fc20489e8b52dd8da948720c855e2cf4f9eae029ac45382cb511",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1403296",
+ "title": "Mini rueda de premios en color: impresión 3D sencilla para fiestas",
+ "slug": "color-mini-prize-wheel-easy-3d-print-for-parties",
+ "url": "https://makerworld.com/en/models/1403296-color-mini-prize-wheel-easy-3d-print-for-parties",
+ "author": "ChillGuyDesign",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "NUEVA VERSIÓN CON TRIÁNGULOS DE COLOR\n\nMembresía ¿Quieres vender este modelo? ¡Obtenga ganancias! ¡Esta mini rueda de premios es un gran éxito! ¡Vende impresiones físicas de este (y TODOS mis otros modelos) en tu tienda o en ferias uniéndote a mi nivel de Vendedor autorizado por $8 al mes! Obtienes: Licencia comercial: vende las impresiones físicas. Derechos de los medios: utilice mis fotos para sus listados. Modificar: ajuste la escala según sea necesario. ¡Consulta mi perfil para unirte y comenzar a vender hoy! Mini rueda de premios: ¡divertida, colorida y fácil de hacer!\n¡Esta mini rueda de premios compacta impresa en 3D es perfecta para fiestas, noches de juegos, aulas o simplemente por diversión! Diseñado pensando en la simplicidad, solo requiere un rodamiento 625zz y un poco de pegamento para ensamblarlo.\nSin tornillos, sin complicaciones: ¡simplemente imprima, júntelo y comience a girar! Con su diseño brillante y colorido y su movimiento suave, es un éxito garantizado en cualquier evento.\nYa sea que la utilice para obsequios, toma de decisiones o exhibiciones interactivas, esta rueda aporta un toque divertido a cualquier ocasión. Imprime fácil y rápidamente, lo que lo convierte en un gran proyecto tanto para principiantes como para profesionales.\n\nImpúlsame ¡Gira la rueda y dale un IMPULSO!\n\nSi esta mini rueda de premios resultó ganadora en tu fiesta o noche de juegos, ¡considera darle un impulso!\n\nSu apoyo mantiene el engranaje creativo en marcha y me ayuda a diseñar proyectos más divertidos. ¡Cada impulso es un premio mayor para mi impresora 3D!",
+ "use_cases": [],
+ "tags": [
+  "rueda de premios",
+  "juegos",
+  "juegos y juguetes",
+  "concurso de juegos",
+  "rueda",
+  "fiesta",
+  "fiesta 2025",
+  "divertido",
+  "divertido 2025",
+  "juego de fiesta",
+  "hilandero del juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US43322ca98eb5f0/design/2025-05-10_f16abae76ec5a8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1455750.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2830598.jpg": [
+   580,
+   750
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

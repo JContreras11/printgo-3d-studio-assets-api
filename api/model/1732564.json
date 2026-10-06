@@ -1,0 +1,280 @@
+{
+ "files": [
+  {
+   "path": "model/pista-canicas-monocolor-2h48.3mf.xz",
+   "instance_id": "1840403",
+   "thumbnail": "previews/profiles/1840403.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 298,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2D",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Single Color Marble Run",
+    "profile_notes": "Requires no support material. .2mm layer height, back seam alignment, slower speeds for overhangs.",
+    "creation_date": "2025-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 2128720,
+   "sha256": "e23d37db1891e3e29b4541008c11e2b443a7b78ccd6d82f4f25da9e4f968f640",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pista-canicas-24min.3mf.xz",
+   "instance_id": "1840425",
+   "thumbnail": "previews/profiles/1840425.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 158,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Parts for 3 printable marbles (12mm)",
+    "profile_notes": "Print settings: Arachne wall generator .05mm elephants foot compensation Concentric top and bottom layers Gyroid infill Marble Hemispheres (6): .12mm layer height Marble Pins (3): .2mm layer height",
+    "creation_date": "2025-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1762684,
+   "sha256": "2270d87f1481cc24e2de4a3c15e9cbe0e7630d9382b6c3f310703c3f642c4017",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pista-canicas-2h48.3mf.xz",
+   "instance_id": "1861001",
+   "thumbnail": "previews/profiles/1861001.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2D Pro",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.58",
+    "profile_title": "pista compatibile con motore 003",
+    "profile_notes": "compatibile con motore kit 003 bambulab",
+    "creation_date": "2025-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1930588,
+   "sha256": "d904fc6ff2ca80a4eeaf87e614e78ce6ccbc66020e0adaf1e6730a984678fef5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pista-canicas-multicolor-4h30.3mf.xz",
+   "instance_id": "1841307",
+   "thumbnail": "previews/profiles/1841307.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 40,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2D",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Multi Color Profile",
+    "profile_notes": "Same settings as the single color version with the exception of lowering the flushing multiplier value to .7 for less waste. If you print with a very light color, I recommend raising it back to 1. (To change back, go to flushing volumes located above the project filaments tab)",
+    "creation_date": "2025-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2141872,
+   "sha256": "7c3394b8d1da707459e6b45536c49309cec3f7e4e607dcf6d5f13bb40a8e0a2f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1732564",
+ "title": "Pista de canicas de autómata de escalera de impresión sin ensamblaje",
+ "slug": "print-in-place-staircase-automaton-marble-run",
+ "url": "https://makerworld.com/en/models/1732564-print-in-place-staircase-automaton-marble-run",
+ "author": "WillCAD",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Se trata de una pista de mármol impresa en el lugar que utiliza un autómata de escalera como mecanismo de elevación. La característica principal de la pista es un circuito en espiral, mientras que el elevador consta de cuatro escalones móviles que elevan la bola 49 mm en 42 mm de distancia horizontal, aproximadamente una inclinación de 50°. El elevador utiliza vínculos similares a los de mis modelos de motor antiestrés y funciona con una perilla de manivela que lleva las canicas a la parte superior de la pista. Aunque es más pequeña, esta pista para canicas puede manejar sin problemas 3 canicas (de 12 mm de diámetro) a la vez. La base presenta una rejilla hexagonal que sirve a la vez de soporte estructural del mecanismo y de bandeja para sujetar las canicas.\nBoost MeSi te gusta este modelo o quieres apoyar mi trabajo, considera impulsarlo. ¡Gracias! Montaje de mármol simple:\nInserta un alfiler en 1 hemisferio/mitad de la canica, luego coloca la otra mitad en el otro lado del alfiler.\n\nSi los pines no encajan debido a diferencias en las tolerancias entre las impresoras, utilice la función de escala en Bambu Studio para escalar las dimensiones x e y. Recomiendo escalar 0,05 o 0,1 mm a la vez.\nImprimir perfiles y notas:\nCanicas de un solo color: se imprime de lado para permitir que el mecanismo se imprima sin soporte. Las costuras están alineadas con la parte posterior para una mejor apariencia.\nCanicas: Piezas para 3 canicas imprimibles de 12mm de diámetro. Los hemisferios se imprimen en capas de 0,12 mm para un mejor acabado de la superficie junto con más configuraciones enumeradas en la página del perfil de impresión.\nPista de canicas multicolor: una versión de 2 colores de la pista de canicas.",
+ "use_cases": [],
+ "tags": [
+  "mármol",
+  "carrera de canicas",
+  "escalera",
+  "escaleras",
+  "autómatas",
+  "autómata",
+  "imprimir en el lugar",
+  "sin apoyo",
+  "agitarse",
+  "juguete"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US440ba09f0d61f0/design/2025-08-25_144593de83797.jpeg",
+ "preview": "previews/01.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "image_sizes": {
+  "previews/01.gif": [
+   588,
+   436
+  ],
+  "previews/02.jpg": [
+   1000,
+   766
+  ],
+  "previews/03.jpg": [
+   1000,
+   1246
+  ],
+  "previews/04.jpg": [
+   1000,
+   949
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1054
+  ],
+  "previews/07.jpg": [
+   1000,
+   1242
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1160
+  ],
+  "previews/10.jpg": [
+   1000,
+   1142
+  ],
+  "previews/profiles/1840403.jpg": [
+   600,
+   696
+  ],
+  "previews/profiles/1840425.jpg": [
+   600,
+   783
+  ],
+  "previews/profiles/1861001.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1841307.jpg": [
+   600,
+   685
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

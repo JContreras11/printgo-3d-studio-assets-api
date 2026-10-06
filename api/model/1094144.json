@@ -1,0 +1,276 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-flick-1h24.3mf.xz",
+   "instance_id": "1124384",
+   "thumbnail": "previews/profiles/1124384.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Keychain and Normal Plate",
+    "profile_notes": "30% infill, gyroid infill, 3 walls. Includes both versions",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2454,
+      "weight_g": 11.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2482,
+      "weight_g": 11.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1198748,
+   "sha256": "e6ff614bea66fee17bb160a5ba53fac3cba06c84c1aafc53ca528d6f5eff9a0a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-flick-36min.3mf.xz",
+   "instance_id": "3845131",
+   "thumbnail": "previews/profiles/3845131.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "参数细节优化版",
+    "creation_date": "2026-04-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 718280,
+   "sha256": "0ba22395243c297257054a75f650a89672ce844cf4a1ec0f58a0ba2f9de76c19",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-flick-42min.3mf.xz",
+   "instance_id": "1939058",
+   "thumbnail": "previews/profiles/1939058.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1",
+    "A1",
+    "P1P",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.58",
+    "profile_title": "straw keychain, magnets, 0.2mm, 3 wall, 30% infill",
+    "profile_notes": "added the keychain hole to the straw, and room for magnets on the back, 2 spaces for 5x2 and 1 for a 6x3 which will work for 5x3 or 5x2 as well.",
+    "creation_date": "2025-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 756156,
+   "sha256": "5ecd1b2726382f275e3a164fa1ffd4c3b3487ec3bdc164410e201e17cddf238d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-flick-48min.3mf.xz",
+   "instance_id": "1327594",
+   "thumbnail": "previews/profiles/1327594.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 61,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Mirrored - 0.2mm layer, 3 walls, 30% infill - purge in model",
+    "profile_notes": "Mirrored pair so you can glue them together and have a full rounded cup of boba.",
+    "creation_date": "2025-04-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 862716,
+   "sha256": "54d63fbae644d183fea18fdec4b86cd224cef410bdc426395bc734e9f3637e6a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1094144",
+ "title": "antiestrés Flick Boba Tea - ¡impresión sin ensamblaje!",
+ "slug": "fidget-flick-boba-tea-print-in-place",
+ "url": "https://makerworld.com/en/models/1094144-fidget-flick-boba-tea-print-in-place",
+ "author": "CybZoo3d",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Mira mis diseños divertidos exclusivos en Patreon:\n\nESTE PROYECTO (COMO TODOS LOS PROYECTOS CYBZOO3D) ESTÁ PROTEGIDO POR COPYRIGHT. LO QUE SIGNIFICA QUE, DESPUÉS DE LA DESCARGA, NO TIENES DERECHO A VENDER COMERCIALMENTE.\n\nSI QUIERES VENDERLOS COMERCIALMENTE LEGALMENTE, DEBES SER MIEMBRO DE CYBZOO3D.\n\nÚNETE A LA COMUNIDAD DE AMIGOS DE CYB",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "clicker inquieto",
+  "hacer clic",
+  "película",
+  "palanca",
+  "impresión antiestrés en su lugar",
+  "imprimir en el lugar",
+  "juguete",
+  "divertido",
+  "té de boba",
+  "té de burbujas",
+  "silbido"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2025-02-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US48d565e35f837b/design/2025-02-10_1465c6778d4a9.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1124384.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3845131.jpg": [
+   332,
+   269
+  ],
+  "previews/profiles/1939058.jpg": [
+   577,
+   1280
+  ],
+  "previews/profiles/1327594.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

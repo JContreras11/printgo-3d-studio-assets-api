@@ -1,0 +1,227 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-pocket-30min.3mf.xz",
+   "instance_id": "1077774",
+   "thumbnail": "previews/profiles/1077774.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 256,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Original Size",
+    "profile_notes": "These are the setting I used and are included in the profiles: 0.2mm layer, 2 walls, 15% infill Supports Enabled: Yes (changes specified below will need to be adjusted) Type: tree auto Style: tree slim On build plate only: checked Support critical regions only: checked Raft Layers: 6 Top Z distance: .24 Top interface layers 3",
+    "creation_date": "2025-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1896,
+      "weight_g": 6.87,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 964112,
+   "sha256": "23b18f13d9875fae7d8dc98afc54141fdb8289a83bc3b75dd7cf223c164219de",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-pocket-1h18.3mf.xz",
+   "instance_id": "1385691",
+   "thumbnail": "previews/profiles/1385691.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "Creality Ender-3 V2"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-04-21",
+    "slicer": "Bambu Studio",
+    "printer": "Creality Ender-3 V2",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1323868,
+   "sha256": "ed71c5ea0f1501fe8048ef1b319117bea41e57fd57b441d1ebee7d7f09e511ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-pocket-36min.3mf.xz",
+   "instance_id": "1077809",
+   "thumbnail": "previews/profiles/1077809.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 54,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Larger Size (110%)",
+    "profile_notes": "These are the setting I used and are included in the profiles: 0.2mm layer, 2 walls, 15% infill Supports Enabled: Yes (changes specified below will need to be adjusted) Type: tree auto Style: tree slim On build plate only: checked Support critical regions only: checked Raft Layers: 6 Top Z distance: .24 Top interface layers 3",
+    "creation_date": "2025-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2161,
+      "weight_g": 8.4,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 964720,
+   "sha256": "230c68a437e7d3f2b5bf818e472a04bf246fbb7db03d2dfd9ce555c8822d3ae7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1085122",
+ "title": "antiestrés Pocket Link - impresión sin ensamblaje",
+ "slug": "pocket-link-fidget-print-in-place",
+ "url": "https://makerworld.com/en/models/1085122-pocket-link-fidget-print-in-place",
+ "author": "virtubob",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "**Nuevas configuraciones de impresión y soporte realizadas tanto en el perfil original como en el de mayor tamaño. Esta configuración proporciona mejores resultados de impresión en general.\n*Aunque se puede utilizar filamento de seda, recomiendo utilizar PLA básico regular para lograr mejores resultados.\n\n¡Esta sencilla cadena de bicicleta es ideal para llevarla contigo a cualquier lugar! El diseño de impresión sin ensamblaje está listo para imprimir en el tamaño original o en un tamaño un poco más grande. Esta impresión requiere algunos soportes, pero si utiliza los perfiles aquí, deberían ser fáciles de quitar. Todavía estoy aprendiendo Fusion 360 y este será mi segundo diseño de impresión sin ensamblaje. ¡Espero que lo disfrutes!\nImpúlsame Si te gustó este diseño, ¡califícame y/o dame un impulso! ¡Gracias!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "divertido",
+  "frío",
+  "bicicleta",
+  "cadena",
+  "anillo",
+  "anillos",
+  "imprimir en un solo lugar",
+  "imprimir en el lugar",
+  "lugar de impresión"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US935b599856f25e/design/2025-02-07_38d7892aea85e8.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1077774.jpg": [
+   400,
+   225
+  ],
+  "previews/profiles/1385691.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1077809.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

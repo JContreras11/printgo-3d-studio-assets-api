@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres.3mf.xz",
+   "instance_id": "3207655",
+   "thumbnail": "previews/profiles/3207655.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 131,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "H2D",
+    "P2S",
+    "A2L",
+    "X2D",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2250624,
+   "sha256": "7b94ef4fb50ec787ef47aa0dfd543ef2a5eeb6109b2ea9955b0f69ad72762faa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2872869",
+ "title": "Juguete antiestrés de rana saltarina",
+ "slug": "jumping-frog-fidget-toy",
+ "url": "https://makerworld.com/en/models/2872869-jumping-frog-fidget-toy",
+ "author": "Niski",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Linda rana articulada diseñada como un divertido juguete antiestrés que realmente salta cuando presionas su espalda!\nSimplemente presiona el lomo de la rana y suéltala: se lanza hacia adelante como una rana saltadora real. Súper satisfactorio para jugar y perfecto como juguete de escritorio, juguete de bolsillo o coleccionable.\nEl colorido diseño luce increíble en filamento multicolor, lo que hace que cada rana sea única. Ideal para niños, amigos y cualquier persona a la que le gusten las divertidas impresiones 3D y los juguetes interactivos.\n¡Perfecto para realizar competiciones y divertidos minijuegos con amigos!\nIdeas de minijuegos\nVariante 1 - Lanzamiento de rana\nColoque un tazón, recipiente o objetivo pequeño en el piso o la mesa.\nLos jugadores se turnan para presionar sus ranas para hacerlas saltar al objetivo.\n¡La mayor cantidad de ranas adentro gana!\nVariante 2 - Salto de longitud\nCada jugador lanza su rana presionando su espalda.\n¡La rana que salte más lejos gana!",
+ "use_cases": [],
+ "tags": [
+  "saltando",
+  "modelo 3d de rana",
+  "juguete de rana",
+  "agitarse",
+  "juguete inquieto",
+  "rana articulada",
+  "rana flexible",
+  "juguete para saltar",
+  "juguete de escritorio",
+  "juguete sensorial",
+  "linda rana",
+  "juguete de animales"
+ ],
+ "license": "CC0",
+ "release_date": "2026-05-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US98c3a55c95e57d/design/b0f76cd29a49b6d4.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3207655.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

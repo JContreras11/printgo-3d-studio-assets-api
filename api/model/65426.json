@@ -1,0 +1,1373 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-1h24.3mf.xz",
+   "instance_id": "68762",
+   "thumbnail": "previews/profiles/68762.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 5964,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "no texture, light (15% infill)",
+    "creation_date": "2026-05-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1893160,
+   "sha256": "21335f4a8cafc39f41bae7f1fa82fda146983b15c1640e34fbf51f37959c1851",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-14h18.3mf.xz",
+   "instance_id": "3464538",
+   "thumbnail": "previews/profiles/3464538.jpg",
+   "print_time_h": 14.3,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Dual Color for all three cube types",
+    "creation_date": "2026-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 3355080,
+   "sha256": "ea59d3b5478890dcd405180dc6f73e655b6588a4d2a03de28e2b75b1eece1fc3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h.3mf.xz",
+   "instance_id": "3316388",
+   "thumbnail": "previews/profiles/3316388.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X2D",
+    "X1 Carbon",
+    "P2S",
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "A2L",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.6mm nozzle, >1hour, 15% infill",
+    "profile_notes": "IMPRESO EN MENOS DE UNA HORA misma calidad, mismo acabado en menos tiempo. Si tienes boquilla 0.6mm este es tu perfil! Valora o comenta para seguir ajustándolo.",
+    "creation_date": "2026-06-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2235572,
+   "sha256": "e80758950497c9d84746096b9c8c6cfcd74e246f2aa1c0fee5345269ebc5a068",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h12.3mf.xz",
+   "instance_id": "3213787",
+   "thumbnail": "previews/profiles/3213787.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "5% de remplissage motif de remplissage: gyroide",
+    "creation_date": "2026-06-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1882928,
+   "sha256": "c5b634d49997a82b8ad36e2dd5e0073f49bc34e741e559f4cde21a4d0603fa10",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h18.3mf.xz",
+   "instance_id": "3535917",
+   "thumbnail": "previews/profiles/3535917.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "A1",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Fast print, great result!",
+    "creation_date": "2026-08-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1981544,
+   "sha256": "55e40dc4b45287c9a3fbb6a28bb0a203704aba6df1c5b7026d5095517cc54a4f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h42.3mf.xz",
+   "instance_id": "286181",
+   "thumbnail": "previews/profiles/286181.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 56,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "[knurled] 0.2mm layer, 3 walls, 10% infill, gyroid",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6259,
+      "weight_g": 28.76,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2190408,
+   "sha256": "3f0965511ac50bfcd02f922914b96fdf53081e2c69679ec728ecc6847fe353ab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h48.3mf.xz",
+   "instance_id": "915045",
+   "thumbnail": "previews/profiles/915045.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 848,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "honeycomb, 2 stripes, light (15% infill)",
+    "creation_date": "2025-02-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6386,
+      "weight_g": 33.73,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A6A9AA"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2337920,
+   "sha256": "1d159318c9ee4af2193a33daa2a2a7cf5f80631c9afdf9882c5283cad6bd1546",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h54.3mf.xz",
+   "instance_id": "2848554",
+   "thumbnail": "previews/profiles/2848554.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "P1P",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "(NO AMS) 2 Stripes - Honeycomb",
+    "profile_notes": "WITH PAUSES TO CHANGE THE FILAMENT 0.2mm layer height 3 walls 2 Coloured stripes added across the hinge mechanism",
+    "creation_date": "2026-03-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "16%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2255036,
+   "sha256": "79f3152cd154379df487dbd9b3846b6495ad7cff33cd0136a4a233efc1859d92",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-25h42.3mf.xz",
+   "instance_id": "3535180",
+   "thumbnail": "previews/profiles/3535180.jpg",
+   "print_time_h": 25.7,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "A2L",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6,
+    "profile_title": "No Texture 1-6 Cubes on One Plate"
+   },
+   "name": "Una sola placa",
+   "size": 9094108,
+   "sha256": "ae8a1456da2e165deb4bf911fc9b48d8bc0db1a265516387aaa21cbc270d5820",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h.3mf.xz",
+   "instance_id": "3350050",
+   "thumbnail": "previews/profiles/3350050.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X2D",
+    "H2C",
+    "H2D",
+    "A1 mini",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "A2L",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Mario & Kirby Variant - fun version for Nintendo",
+    "profile_notes": "Normal for the fidgets. 0.2 layer height. No support. Few tweaks. Dual color to print the Nintendo figure. Includes Bullet Bill, Kirby, Yoshi, Waddle Dee, Toad, and the Star",
+    "creation_date": "2026-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2556216,
+   "sha256": "f8504785af61df1b935eda3d5ba8873aac768ac6569c089131c8cf764109e01c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h06.3mf.xz",
+   "instance_id": "72829",
+   "thumbnail": "previews/profiles/72829.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 429,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "2 Stripes - Honeycomb - 0.2mm layer, 3 walls, 16% infill",
+    "profile_notes": "0.2mm layer height 3 walls 2 Coloured stripes added across the hinge mechanism",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "16%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7564,
+      "weight_g": 43.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000FE"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2293764,
+   "sha256": "0c23a3e977129f38666d8e5e698385f8f423ad464469f578c1081649837a1023",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h18.3mf.xz",
+   "instance_id": "222108",
+   "thumbnail": "previews/profiles/222108.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "Voron 0.1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 5 walls, 15% infill (voron 0.2)",
+    "profile_notes": "0.2 mm layer hight 15% infill 5 walls (bottom and top) and 3 walls loop Voron specific profile, fast and clean",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Voron 0.1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8208,
+      "weight_g": 35.97,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2053200,
+   "sha256": "ae5d83fa96a19705d4bc25db490fb3fc4401bb64b4caa16e6f0f8b2a2e36d541",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h24.3mf.xz",
+   "instance_id": "3225414",
+   "thumbnail": "previews/profiles/3225414.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "X1E",
+    "A2L",
+    "A1 mini",
+    "P2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "H2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "colorized fidget",
+    "creation_date": "2026-06-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2278716,
+   "sha256": "0d80471f725f925fff366f11323bca27ea948e8300c0995d36ddbf787f2f2066",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-36min.3mf.xz",
+   "instance_id": "2722893",
+   "thumbnail": "previews/profiles/2722893.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 134,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "No Texture & carfully tuned for minimal waist of material",
+    "profile_notes": "carefully tuned for material waist minimized many many substantial value adding adjustments also that result in low filament material waist and quick print time with reasonably good strength… see the specifics below… 0.2mm layer, 1 walls, 0.6mm wall width, 1mm initial wall, 1mm solid infill for first 2mm of height range, 0% infill, wall generator classic, detect over hang walls off, detect narrow internal solid infill off, ensure vertical shell thickness disabled, acceleration speed [ short travel , initial layer travel, initial layer, outer wall, top surface ] all turned up to 10000mms. max volumetric speed for PLA, and PETG both set to 30mm3/s, cooling for over hangs set to 100%, minimum fan for layers less than 4 seconds 100% and for the other layer times 100% and auxiliary part cooling fan 70%. note that filament flow, and cooling settings will likely revert to default and acceleration speed will also likely revert to default if you use a different bambu printer.",
+    "creation_date": "2026-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1983784,
+   "sha256": "10292590a508a7b1df582adc5355cd4999077c82d42eba9a1faad5466d19bf30",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-3h12.3mf.xz",
+   "instance_id": "1808960",
+   "thumbnail": "previews/profiles/1808960.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "P2S",
+    "P1S",
+    "X1",
+    "X1E",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "High Resolution",
+    "creation_date": "2025-08-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2615224,
+   "sha256": "3b39a5b8eaf612041dfb8b7c8aa3071280a0aeda581f3e4eb7bab8120b15f834",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-42min.3mf.xz",
+   "instance_id": "3797770",
+   "thumbnail": "previews/profiles/3797770.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Print in 40 minutes!!!",
+    "profile_notes": "white textured fidget toy settings: 0.24mm standard @BBL H2S Quality: 0.15 initial layer height, everything under line width set to 1, 0.045 slice gap closing radius, 0.02 resolution, wall generator arachne. Strength: 1 wall loop, 3 top shell layers, 97% bottom surface density, 1 bottom shell layer,1 bottom paint penetration layer, 7% sparse infill density, rectilinear sparse infill pattern, partial vertical shell thickness Speed: 200mm/s=25% 60mm/s = 50% 15mm/s = 75%,\\ Support: 0 support wall loops Other: 100% infill gap, no rib wall",
+    "creation_date": "2026-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.24",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2196944,
+   "sha256": "3ff949bf70642ef61ac67fc0d97cb270632751f504af7645012c6abd654156dc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-4h.3mf.xz",
+   "instance_id": "195436",
+   "thumbnail": "previews/profiles/195436.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 90,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Knurled Heavy 0.2mm layer, 3 walls, 95% infill",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "95%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14487,
+      "weight_g": 65.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2016168,
+   "sha256": "df4a80d6b4214114ccdcd6ff05a608021e7b6139a12140ec4033d820f232c016",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-54min.3mf.xz",
+   "instance_id": "3079412",
+   "thumbnail": "previews/profiles/3079412.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2D",
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.28mm layer, 2 walls, 5% infill",
+    "profile_notes": "very fast printed in less than a hour",
+    "creation_date": "2026-05-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.28",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2115792,
+   "sha256": "35b2184275b08066fedbf7fcec7a9c724d81ca0067f7414302b1e79a6e65de7c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-7h42.3mf.xz",
+   "instance_id": "3394861",
+   "thumbnail": "previews/profiles/3394861.jpg",
+   "print_time_h": 7.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "A2L",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "200% 0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2549884,
+   "sha256": "4b8c1c203ce67367afabecef3090e08678698f045f835a97fc275f141d5e6e22",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-8h12.3mf.xz",
+   "instance_id": "3121278",
+   "thumbnail": "previews/profiles/3121278.jpg",
+   "print_time_h": 8.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2S",
+    "P1S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "X1E",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Giant (20cm) honecomb version, 11% infill",
+    "profile_notes": "20cm giant honeycomb infinity cube.",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "11%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3015604,
+   "sha256": "85e67450750d56db0790cff87592c4fe4c6c603f044915f44002a1a3bc58d4af",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-9h42.3mf.xz",
+   "instance_id": "3213237",
+   "thumbnail": "previews/profiles/3213237.jpg",
+   "print_time_h": 9.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X2D",
+    "X1 Carbon",
+    "P1S",
+    "X1E",
+    "A2L",
+    "P1P",
+    "H2C",
+    "A1",
+    "H2S",
+    "H2D",
+    "X1",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2018872,
+   "sha256": "2f1177a91369ba159bf3c2a91710e9f09f9f96ef5fe05de49804fc7206efb8f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-multicolor-19h24.3mf.xz",
+   "instance_id": "3464527",
+   "thumbnail": "previews/profiles/3464527.jpg",
+   "print_time_h": 19.4,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "X2D",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "H2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "All fidget cubes combined (3 styles + Dual color)",
+    "profile_notes": "Prints on all printers. Normal, Honeycomb and Knurled Dual color of all three are there too. Total 6 cubes",
+    "creation_date": "2026-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Multicolor",
+   "size": 4959940,
+   "sha256": "cad94de2b4912775c1fd6c23b1d0f605eccd3fc9d657cb8a4503362ddc956434",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-multicolor-1h30.3mf.xz",
+   "instance_id": "2485173",
+   "thumbnail": "previews/profiles/2485173.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 51,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "X1E",
+    "A1",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Original mit Waben 10%Füllung nur 2 Farben Waagerecht",
+    "profile_notes": "Ich habe bei den Orginal Würfel mit 10% Füllung, einfach einen Waagerechten schnittverpasst und 2 Farben Eingestellt, einfacher Druck, 1 mal Farbwechsel.",
+    "creation_date": "2026-01-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2399792,
+   "sha256": "40590635b0381f43da5ba4f5af82e4c8688fa8910040a50f2ab7a63f91ee6dd3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-multicolor-3h48.3mf.xz",
+   "instance_id": "84600",
+   "thumbnail": "previews/profiles/84600.jpg",
+   "print_time_h": 3.8,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 121,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "MULTICOLOR - Multiple versions! - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Different variations of colors on different plates! 1 Color 2 Colors 3 Colors",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4173,
+      "weight_g": 31.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#6E3FA3"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4640,
+      "weight_g": 34.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#6E3FA3"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4816,
+      "weight_g": 35.68,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#6E3FA3"
+       },
+       {
+        "type": "PLA",
+        "color": "#EC008C"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2139856,
+   "sha256": "5dc68bc795910e631da67d3bb3b5b626f588d0831da88a1e3a25e5593ed6c857",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-multicolor-6h24.3mf.xz",
+   "instance_id": "355962",
+   "thumbnail": "previews/profiles/355962.jpg",
+   "print_time_h": 6.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 30,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Dual Colored - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Filled in the texture with some color to add some Pop!",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 23188,
+      "weight_g": 112.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F55A74"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2263432,
+   "sha256": "1dd33dcba6af81856f9088a17c40f0455ef0770669893da629a2799960430427",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "65426",
+ "title": "Juguete antiestrés Cube: en ángulo",
+ "slug": "fidget-cube-toy-angled",
+ "url": "https://makerworld.com/en/models/65426-fidget-cube-toy-angled",
+ "author": "austinvojta",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un cubo antiestrés que se impresión sin ensamblaje con bordes en ángulo y 3 texturas. Diseñado con precisión para un movimiento suave directamente desde la cama de impresión. ¡No requiere ningún soporte ni montaje!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "infinidad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2023-11-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9a6f7ab9cda059/design/2025-09-11_7ae60a50cbf4a8.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/68762.jpg": [
+   540,
+   540
+  ],
+  "previews/profiles/3464538.jpg": [
+   546,
+   669
+  ],
+  "previews/profiles/3316388.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3213787.jpg": [
+   124,
+   88
+  ],
+  "previews/profiles/3535917.jpg": [
+   600,
+   448
+  ],
+  "previews/profiles/286181.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/915045.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2848554.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3535180.jpg": [
+   600,
+   396
+  ],
+  "previews/profiles/3350050.jpg": [
+   600,
+   292
+  ],
+  "previews/profiles/72829.jpg": [
+   600,
+   593
+  ],
+  "previews/profiles/222108.jpg": [
+   600,
+   553
+  ],
+  "previews/profiles/3225414.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2722893.jpg": [
+   600,
+   452
+  ],
+  "previews/profiles/1808960.jpg": [
+   600,
+   334
+  ],
+  "previews/profiles/3797770.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/195436.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/3079412.jpg": [
+   1080,
+   1920
+  ],
+  "previews/profiles/3394861.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3121278.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3213237.jpg": [
+   600,
+   284
+  ],
+  "previews/profiles/3464527.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2485173.jpg": [
+   600,
+   277
+  ],
+  "previews/profiles/84600.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/355962.jpg": [
+   600,
+   367
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

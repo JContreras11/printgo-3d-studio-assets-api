@@ -1,0 +1,261 @@
+{
+ "files": [
+  {
+   "path": "model/signo-exclamacion-36min.3mf.xz",
+   "instance_id": "204556",
+   "thumbnail": "previews/profiles/204556.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 155,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "2 parts (needs gluing)",
+    "creation_date": "2025-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2120,
+      "weight_g": 10.8,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 998212,
+   "sha256": "c580b378637ea3ac60281cbf64357ecd18d9940a0fc7057c084f192b53e22aff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/signo-exclamacion-1h06.3mf.xz",
+   "instance_id": "3773258",
+   "thumbnail": "previews/profiles/3773258.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "RESIZED 120%, 0.2mm layer, 3 walls, 100% infill",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "100%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2839492,
+   "sha256": "9efdcd8c68a2b39493f0c84da1745df318dbb46cf270c05b4e6412c71086fc4f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/signo-exclamacion-1h24.3mf.xz",
+   "instance_id": "204564",
+   "thumbnail": "previews/profiles/204564.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 224,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "One spinner (NO assembly needed)",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5187,
+      "weight_g": 16.11,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8DBB7"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1010812,
+   "sha256": "dbf6643bf7a91ace2b8137a7b73c145ce169d4fb113189838fad94472f04ba61",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/signo-exclamacion-42min.3mf.xz",
+   "instance_id": "3874173",
+   "thumbnail": "previews/profiles/3874173.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "AMS",
+    "profile_notes": "Viel spass damit. Ich würde mich sehr freuen wenn sie das Model bewerten.",
+    "creation_date": "2026-10-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1055900,
+   "sha256": "ef8ad72ef4c52a3bd40b964cef4510f5a0296dcf96efa89a6515869fef41e05e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "185771",
+ "title": "Signo de exclamación flotante",
+ "slug": "spinner-hovering-exclamation-point",
+ "url": "https://makerworld.com/en/models/185771-spinner-hovering-exclamation-point",
+ "author": "FlorinV",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "El signo de exclamación flotante para aliviar el estrés es una forma divertida e interactiva para que los niños (no solo) alivien el estrés y la ansiedad.\nEsta característica flotante única y su forma que se asemeja a un signo de exclamación brindan una experiencia visualmente atractiva y atractiva para los niños.\nPara un juego más desafiante, intenta girarlo al revés, ¡funciona!\nFácil de imprimir. Hay 2 perfiles, dependiendo de lo que quieras: El primer perfil contiene 2 partes que deben pegarse entre sí. Imprimiéndolo así, el juguete quedaría mejor, pero hay que pegarlo.\nAl pegar, asegúrese de alinear el brazo de la parte inferior (que sostiene la esfera) con las ranuras de la parte superior, como en la imagen de abajo. Debes pegarlos con precisión y formar un ángulo de 180 grados entre los brazos.\n\nEl segundo perfil imprime la ruleta en una sola pieza (no se necesita pegamento ni montaje), pero tiene más soportes y el resultado no se ve tan bien como el primer perfil.\n\nRetire con cuidado el modelo de la plancha de impresión, eventualmente después de que la plancha se haya enfriado.\nRetire con cuidado los soportes de las partes delgadas, para no romperlas. Sujete bien las piezas e intente retirar el soporte con facilidad y lentamente. No los fuerces de una sola vez, ya que podrías frenar el modelo.\n\nPara otra ruleta divertida, puedes probar esta:",
+ "use_cases": [],
+ "tags": [
+  "girar",
+  "hilandero",
+  "juguete",
+  "divertido",
+  "niño",
+  "niños",
+  "agitarse",
+  "mesa"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-02-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe472966fa11659/design/2024-02-14_d0d6e4a0f279d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/204556.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3773258.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/204564.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3874173.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

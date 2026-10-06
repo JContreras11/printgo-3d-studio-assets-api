@@ -1,0 +1,240 @@
+{
+ "files": [
+  {
+   "path": "model/rana-percusion-1h54.3mf.xz",
+   "instance_id": "1152178",
+   "thumbnail": "previews/profiles/1152178.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 869,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Standard Profile",
+    "creation_date": "2025-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4017,
+      "weight_g": 18.3,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2711,
+      "weight_g": 3.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 5936556,
+   "sha256": "d049f30f2e189284add7ba868a15303d24209b6e7e631cb3726c2be52036317e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-percusion-2h48.3mf.xz",
+   "instance_id": "1181716",
+   "thumbnail": "previews/profiles/1181716.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 106,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "High quality version, different orientation, painted seam.",
+    "profile_notes": "Different print orientation for fewer supports and much better detail Adaptive layer height for even more smoothness painted seam on less visible parts where possible.",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7173,
+      "weight_g": 19.37,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2725,
+      "weight_g": 3.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 6220536,
+   "sha256": "3d6a14a47958d933eac212ddaa32dc47e914721bb1e711575f549780bd70f50e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-percusion-5h12.3mf.xz",
+   "instance_id": "3582393",
+   "thumbnail": "previews/profiles/3582393.jpg",
+   "print_time_h": 5.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "P2S",
+    "H2D",
+    "P1P",
+    "A2L",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "RESIZED 200%, 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 7485740,
+   "sha256": "c26990b18c3198dfaecfbeb75dd867f8a581b442ed5f95cb5b8c3264b26f9550",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1148402",
+ "title": "Rana de percusión: instrumento de croar impreso en 3D",
+ "slug": "percussion-frog-3d-printed-croaking-instrument",
+ "url": "https://makerworld.com/en/models/1148402-percussion-frog-3d-printed-croaking-instrument",
+ "author": "UniversalMaker",
+ "category": "desk-toys",
+ "source_category": "Herramientas > Gadgets",
+ "description": "¡Convierte tu rana impresa en 3D en un divertido instrumento de percusión! Esta rana de percusión crea un sonido realista cuando frotas el palo incluido a lo largo de su parte posterior texturizada. Un instrumento sencillo pero fascinante, perfecto para amantes de la música, niños y cualquiera que disfrute de aparatos de sonido únicos.\nDiseñado para una fácil impresión sin necesidad de soportes. ¡Simplemente imprime, toma el palo y comienza a hacer sonidos de rana!\nInstrucciones de montaje y juego:\nFrote el palo a lo largo de las crestas del lomo de la rana. ¡El movimiento debe ser hacia la cabeza mientras lo sostienes en la mano!\nAplique la velocidad y presión adecuadas para producir un croar realista.\nRecomendaciones de materiales:\nPETG/ASA para mayor durabilidad y longevidad.\nEl PLA también funciona, pero puede desgastarse más rápido con el tiempo.\nImpúlsame ¿Te encanta la rana de percusión? ¡Dale un empujón y ayuda a más creadores a descubrir este divertido juguete sonoro! ¡Avísame si tu rana croa como esperaba! Más diseños de ranas míos:",
+ "use_cases": [],
+ "tags": [
+  "percusión",
+  "rana",
+  "música",
+  "juguete",
+  "agitarse"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8b3b28bdf32664/design/2025-02-23_82023ff3ff809.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1152178.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1181716.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3582393.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

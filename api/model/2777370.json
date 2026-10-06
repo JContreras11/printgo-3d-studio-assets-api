@@ -1,0 +1,425 @@
+{
+ "files": [
+  {
+   "path": "model/pentaspin-clicker-6h12.3mf.xz",
+   "instance_id": "3086091",
+   "thumbnail": "previews/profiles/3086091.jpg",
+   "print_time_h": 6.2,
+   "plates": 6,
+   "rating": 4.7,
+   "rating_count": 141,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2C",
+    "X1E",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "No AMS Default profile, Optimized settings",
+    "profile_notes": "Choose the right tolerance center pieces. Use the tolerance tester if you are unsure!",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 4529412,
+   "sha256": "1502cc5f494b9ee51e24ae12f6079e7d0c0251dbe1d3483cdd02cb9745bf3242",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-1h18.3mf.xz",
+   "instance_id": "3118317",
+   "thumbnail": "previews/profiles/3118317.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2S",
+    "X1",
+    "P2S",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "H2C",
+    "X2D",
+    "X1 Carbon",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Looser joints, higher tolerance side pieces",
+    "profile_notes": "I recommend using this profile only if the original profile side pieces get fused together",
+    "creation_date": "2026-05-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2117636,
+   "sha256": "8a17ae77d7beb014add156aa86a189474ddc74deca8d5674a7b6da19ebdc37ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-1h42.3mf.xz",
+   "instance_id": "3116954",
+   "thumbnail": "previews/profiles/3116954.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 17,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Fast AMS print profile 0,06 bearing size"
+   },
+   "name": "Versión estándar",
+   "size": 3211000,
+   "sha256": "b959b2a92c75e86ec64bba0236b6a35558a0a9480b00559c3bc7bfdc1f71fa17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-2h.3mf.xz",
+   "instance_id": "3118231",
+   "thumbnail": "previews/profiles/3118231.jpg",
+   "print_time_h": 2,
+   "plates": 3,
+   "rating": 3.4,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.02mm & 0.04mm tolerance center pieces",
+    "profile_notes": "Very small tolerances to the few who need it :)",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2074664,
+   "sha256": "b076db54b23349ecea198850b69dfc4669b6ee228d54f2217566a3ce57f6dcbd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-54min.3mf.xz",
+   "instance_id": "3086129",
+   "thumbnail": "previews/profiles/3086129.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 43,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Bearing tolerance tester",
+    "profile_notes": "Test which tolerance is good for your setup. Use the smallest tolerance that still allows free movement!",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1857140,
+   "sha256": "cf5ec600f4be29cfa06d8e943b6d04c2e2f2d0ec86bc19f00432648cfa25a920",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-7h06.3mf.xz",
+   "instance_id": "3086121",
+   "thumbnail": "previews/profiles/3086121.jpg",
+   "print_time_h": 7.1,
+   "plates": 6,
+   "rating": 4.7,
+   "rating_count": 103,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "A1",
+    "X2D",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "AMS Default profile, Optimized settings",
+    "profile_notes": "Choose the right tolerance center pieces. Use the tolerance tester if you are unsure!",
+    "creation_date": "2026-05-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 4651784,
+   "sha256": "811c8a2ca3e32de5143ef6ed666bab3c4724c2547884e37b141f0d2850182c6a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-multicolor-1h36.3mf.xz",
+   "instance_id": "3737893",
+   "thumbnail": "previews/profiles/3737893.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "多色一盘打印，适配A1和P系列",
+    "profile_notes": "Choose the right tolerance center pieces. Use the tolerance tester if you are unsure!",
+    "creation_date": "2026-05-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2546284,
+   "sha256": "ec9fcc9937c13220f52ac0580feb58d0e54bf278b8a6d3fd51dbb78132fa53d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pentaspin-clicker-multicolor-6h12.3mf.xz",
+   "instance_id": "3122406",
+   "thumbnail": "previews/profiles/3122406.jpg",
+   "print_time_h": 6.2,
+   "plates": 6,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "A1",
+    "X2D",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "multicolor no ams needed (pause print)",
+    "profile_notes": "for people who doesn't have an ams but want the multicolor look! paused at the layers where the colors are different, simply go to filament, unload, then manually change the color then load it again",
+    "creation_date": "2026-05-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Multicolor",
+   "size": 5044144,
+   "sha256": "dfbed0f149f7b70183a47ea3d3c1034f3846c080648dcf4500a28bb9e9b399cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2777370",
+ "title": "PentaSpin: el clicker giratorio",
+ "slug": "pentaspin-the-spinning-fidget-clicker",
+ "url": "https://makerworld.com/en/models/2777370-pentaspin-the-spinning-fidget-clicker",
+ "author": "YosaNatural",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "PentaSpin: el clicker giratorio\nSquishy, Spinny, Satisfactorio: pura perfección antiestrés\n\nTolerancias de rodamientos\nLas tolerancias correctas pueden variar dependiendo de su impresora, filamento y muchos otros factores, por eso he incluido versiones con diferentes tolerancias. Recomiendo utilizar el probador de tolerancia de rodamientos para encontrar el mejor ajuste para su configuración. Utilice la tolerancia más pequeña que aún permita el libre movimiento.\n\nTamaño de la banda de goma\nRecomiendo usar una banda elástica de 1,4x20 mm o 1,4x16 mm si desea una sensación más ágil. Si los compras a través de Lista de Materiales el costo es el mismo y me apoyas en el proceso.\n\nAsamblea:\nAgregue una gota de lubricante en los rodamientos para que funcionen más suavemente.\nPara facilitar el montaje, presione y gire los pasadores en su lugar en un ligero ángulo como se ve en el vídeo.\n\nBoost MeConsidera dejar un impulso para apoyarme:)\n\n¡Mira mis otros antiestrés Clickers!\nPentaClick: el clicker definitivo con banda elástica MagClick: el clicker accionado por imán\n\nMembresía¡Únase a la membresía comercial para vender mis modelos y apoyarme!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "taconeador",
+  "hilandero",
+  "goma",
+  "juguete",
+  "escritorio",
+  "zorra",
+  "pentaclic",
+  "pentaspin"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65ea0744fda435/design/8b5aec1b12034365.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3086091.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3118317.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3116954.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3118231.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3086129.jpg": [
+   600,
+   592
+  ],
+  "previews/profiles/3086121.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3737893.jpg": [
+   600,
+   598
+  ],
+  "previews/profiles/3122406.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

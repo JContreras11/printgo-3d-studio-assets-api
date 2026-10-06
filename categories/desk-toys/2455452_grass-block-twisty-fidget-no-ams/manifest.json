@@ -1,0 +1,147 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-retorcido-8h36.3mf.xz",
+   "instance_id": "2696076",
+   "thumbnail": "previews/profiles/2696076.jpg",
+   "print_time_h": 8.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "A2L",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P1P",
+    "A1",
+    "H2D",
+    "H2C",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "No AMS (0.2mm layer, 2 walls, 10% infill)"
+   },
+   "name": "Versión estándar",
+   "size": 4485148,
+   "sha256": "3acd48ff9bed24f8411e052652e6176fdbef9ae115cdb5b7a3aa30b84c4d080f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-retorcido-8h54.3mf.xz",
+   "instance_id": "2696112",
+   "thumbnail": "previews/profiles/2696112.jpg",
+   "print_time_h": 8.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 139,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "AMS (0.2mm layer, 2 walls, 10% infill)"
+   },
+   "name": "Versión estándar",
+   "size": 4128892,
+   "sha256": "d2ec45d0b472f23ee3359b7f6628533927b68f82dc38efe56c0566cd3efb9a74",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2455452",
+ "title": "antiestrés retorcido con bloques de hierba",
+ "slug": "grass-block-twisty-fidget-no-ams",
+ "url": "https://makerworld.com/en/models/2455452-grass-block-twisty-fidget-no-ams",
+ "author": "3DMakerSpace",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Rompecabezas",
+ "description": "¡Mira todos los demás antiestrés nuevos aquí! COLECCIÓN ÚNICA DE antiestrés\n\nantiestrés retorcido de bloques de hierba\nA primera vista, es un bloque de pasto familiar; Luego se mueve.\n\nEste diseño reinventa el cubo icónico como un objeto mecánico transformador. Con un movimiento de rotación suave, el bloque compacto se expande en una formación de terreno escalonada verticalmente, revelando una geometría en capas inspirada en paisajes de acantilados. Contraigalo y volverá a ser un cubo limpio.\nEs una pieza de exhibición, una escultura cinética y un rompecabezas táctil a partes iguales.\n\nBoost Me Este modelo requirió un diseño, ajuste e iteración cuidadosos para lograr la rotación suave y las tolerancias de ajuste a presión perfectas. Su apoyo me ayuda a seguir diseñando construcciones más desafiantes, mecánicas y satisfactorias como esta.\n\nCada impulso realmente marca la diferencia: gracias por apoyar el trabajo.\nIntención de diseño\nEl objetivo no era sólo generar inquietud, sino diseñar una transformación controlada:\nAlineación precisa del segmento para un recorrido rotacional consistente\nTolerancias internas equilibradas para un movimiento suave\nContinuidad visual entre el cubo y la forma de terreno expandido.\nFuerte integridad estructural una vez ensamblado\nLa transformación es deliberada y satisfactoria: ni suelta ni rebuscada.\n\nConfiguraciones de impresión\nVersión AMS (impresión integrada multicolor)\nVersión sin AMS (pegue el césped al bloque de barro inclinado)\nAmbas versiones son dimensionalmente idénticas en movimiento y función.\nAtribución: Me inspiré en este modelo: MakerWorld.com/en/models/29010",
+ "use_cases": [],
+ "tags": [
+  "minecraft",
+  "impresión 3d de minecraft",
+  "minecraft 2d",
+  "bloque de minecraft",
+  "bloques de minecraft",
+  "hierba minecraft",
+  "césped",
+  "girar",
+  "girar antiestrés",
+  "juguete giratorio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7ac2aedacdb934/design/c8bca425861bfde1.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   324,
+   480
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2696076.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2696112.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

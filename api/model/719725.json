@@ -1,0 +1,655 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-clic-1h.3mf.xz",
+   "instance_id": "2032802",
+   "thumbnail": "previews/profiles/2032802.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "P1S",
+    "A1",
+    "H2S",
+    "X1E",
+    "A2L",
+    "P2S",
+    "H2D",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "High Detail",
+    "profile_notes": "Optimized model, with looser print tolerances, so easier to print Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-10-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2425164,
+   "sha256": "0522ea3ac720c8e75fa6179a052dd1e774d308d69ccda5191f63c1d5a157e433",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-1h36.3mf.xz",
+   "instance_id": "2750482",
+   "thumbnail": "previews/profiles/2750482.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "P2S",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "X1E",
+    "A1 mini",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Silent mode with wheel moved.",
+    "profile_notes": "Didn't like how it held in my hand so I moved the wheel. I also use it in the office so would be better silenced.",
+    "creation_date": "2026-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1341400,
+   "sha256": "6fbe36865bc041937e62a9af3cad95af4081a3302cc1e5e6d07477a82a2e6f73",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-24min.3mf.xz",
+   "instance_id": "1994494",
+   "thumbnail": "previews/profiles/1994494.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P2S",
+    "A2L",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Optimized profile (loose tolerances)_PLA_SPEED_Optimized",
+    "profile_notes": "I’ve fine-tuned the settings to achieve the ideal balance of speed, efficiency, and strength—with minimal compromise on quality.",
+    "creation_date": "2025-10-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.28",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2104352,
+   "sha256": "914f5c91ec31708b932e9419c37894c88f5c8c92b8771e301f098913678362e1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-30min.3mf.xz",
+   "instance_id": "909466",
+   "thumbnail": "previews/profiles/909466.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 22,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1S",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2D",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.28mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1776,
+      "weight_g": 13.79,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8847"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1985632,
+   "sha256": "3aaf5163147bc3fedcfba9cdbbf47936f49249e553ce9701b2010c13aca38c9d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-36min.3mf.xz",
+   "instance_id": "1482486",
+   "thumbnail": "previews/profiles/1482486.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 3 walls, 0% infill",
+    "profile_notes": "Material: PLA Extruder temperature: 220°C Bed temperature: 55°C",
+    "creation_date": "2025-05-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2006016,
+   "sha256": "61f3d870f6e675abb95a531d0223fc218d45f218e6b19a58d98556e02e945617",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-42min.3mf.xz",
+   "instance_id": "673242",
+   "thumbnail": "previews/profiles/673242.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 116,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "A1",
+    "X1E",
+    "A1 mini",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Fixed Push Button 3MF",
+    "profile_notes": "This is an updated print profile that fixes the fidget's push button. It was failing as the other print profiles do not print the compliant bar on the first layer. If you are using PLA, I recommend waiting for the print and bed to cool down before removal, to avoid any problems with the button.",
+    "creation_date": "2025-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2362,
+      "weight_g": 15.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2012928,
+   "sha256": "3bd6ac792a89414eaefefb520659b483921437c531740d2c83cf68e77e7eedbb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-48min.3mf.xz",
+   "instance_id": "657791",
+   "thumbnail": "previews/profiles/657791.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 101,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "P1S",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "A2L",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "(Optimized, Strength and Smoothed) 0.2mm layer, 3 walls",
+    "profile_notes": "Updated for Optimized settings Slowed down for Strength and Ironed for Smoothing.",
+    "creation_date": "2025-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2947,
+      "weight_g": 14.81,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2265016,
+   "sha256": "1e8b15a9c9bd845bb06c845460e60d6272fec203b45d71130775fb5ff6367f7c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-4h24.3mf.xz",
+   "instance_id": "3776381",
+   "thumbnail": "previews/profiles/3776381.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "P1P",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X2D",
+    "A2L",
+    "A1",
+    "H2D Pro",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Biggest Possible size on A1 Mini",
+    "profile_notes": "Biggest possible size on A1 Mini",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 2068008,
+   "sha256": "25aee81cde279576f706b7e14278d4c80c461a1d6bdecd528d3a25defc8a11d5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-54min.3mf.xz",
+   "instance_id": "1675762",
+   "thumbnail": "previews/profiles/1675762.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "H2S",
+    "H2D",
+    "X1",
+    "P1P",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.08mm layer, 3 walls, 0% infill",
+    "profile_notes": "Optimized model, with looser print tolerances, so easier to print Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.08",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2008808,
+   "sha256": "f420621ef92b91a30ecd78cef01002391baee08e7bed3be34ee749c0be42d496",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-multicolor-2h18.3mf.xz",
+   "instance_id": "1303312",
+   "thumbnail": "previews/profiles/1303312.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 42,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Multicolor Highlights (0.2mm layer, 3 walls, 0% infill)",
+    "profile_notes": "Version of the original print in two colors that colorizes the main parts of the print, which includes the spinning wheel (and its spring), the button (and spring), and the rotating circles. Requires an AMS or AMS lite.",
+    "creation_date": "2025-04-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8211,
+      "weight_g": 42.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2083620,
+   "sha256": "312cd10ac3bae145f51022cf5bd33410f9e5e2e3d1437231465eeb5d885c26e0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-clic-multicolor-36min.3mf.xz",
+   "instance_id": "1298850",
+   "thumbnail": "previews/profiles/1298850.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.1,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "A2L",
+    "P2S",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Multicolor Halves (0.2mm layer, 3 walls, 0% infill)",
+    "profile_notes": "Version of the original print the utilizes an AMS or AMS lite to add another color. This version has two colors - one for the top, and one for the bottom. Prints in one piece, and has very minimal waste (one color swap).",
+    "creation_date": "2025-04-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2329,
+      "weight_g": 15.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2089540,
+   "sha256": "f6c653d00f65f4c19bf0f76383a4312301298d34bec78204df366aead57125bd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "719725",
+ "title": "¡antiestrés Clic Clac Swoosh! impresión sin ensamblaje: 32 min.",
+ "slug": "fidget-click-clack-swoosh-print-in-place-32-min",
+ "url": "https://makerworld.com/en/models/719725-fidget-click-clack-swoosh-print-in-place-32-min",
+ "author": "louisdesigns",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "MembresíaSi te gustan mis modelos y quieres ganar dinero con ellos, ¡mira mi licencia comercial! Actualización al 23/10/24:\nCambié ligeramente el modelo para que el mecanismo de clic se imprima mejor y haga mejor clic.\nSe han agregado dos perfiles de impresión optimizados, uno normal y otro con tolerancias más flexibles para facilitar la impresión.\n\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n¡Mi último juguete divertido que hace clic, chasquea y silba!\n\nPara obtener mejores resultados, utilice filamento seco, calibre su filamento y calibre su impresora.\nRecomiendo usar filamento Bambulabs.\n\n¡Mira mis otros antiestrés!\nBombilla antiestrés\nIris antiestrés\nYour Boost me ayuda a diseñar, experimentar e imprimir nuevas creaciones, por lo que agradezco mucho un impulso.\nImpúlsame ¡Muchas gracias!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "clicker inquieto",
+  "juguete inquieto",
+  "charla",
+  "haga clic en clac",
+  "tdah",
+  "silbido",
+  "antiestrés",
+  "hilandero antiestrés",
+  "hilandero",
+  "divertido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb3716c1f295a31/design/2024-10-26_68ae23883c6d48.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/2032802.jpg": [
+   600,
+   334
+  ],
+  "previews/profiles/2750482.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1994494.jpg": [
+   482,
+   399
+  ],
+  "previews/profiles/909466.jpg": [
+   336,
+   313
+  ],
+  "previews/profiles/1482486.jpg": [
+   600,
+   501
+  ],
+  "previews/profiles/673242.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/657791.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3776381.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1675762.jpg": [
+   600,
+   665
+  ],
+  "previews/profiles/1303312.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1298850.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

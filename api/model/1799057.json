@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-clicker.3mf.xz",
+   "instance_id": "1918303",
+   "thumbnail": "previews/profiles/1918303.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 117,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2107840,
+   "sha256": "3c8be945997d625c7687782f8910cb94c18caaec7295c1e6ae1a49134713cab7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1799057",
+ "title": "antiestrés con clicker para tartas de Harry Potter",
+ "slug": "harry-potter-cake-clicker-fidget",
+ "url": "https://makerworld.com/en/models/1799057-harry-potter-cake-clicker-fidget",
+ "author": "R.ai3D",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Impúlsame Si te gusta el modelo, dale me gusta, síguelo y mejora enormemente, ¡apóyanos e inspíranos a hacer más cosas para la comunidad! ¡Muchas gracias y Dios los bendiga!\nClicker antiestrés para tartas de Harry Potter\n¡Celebra la magia y la dulzura con este encantador Cake antiestrés Clicker \"HAPPEE BIRTHDAE HARRY\"! Inspirado en el caprichoso pastel de cumpleaños del mundo mágico, este clicker es divertido y alivia el estrés, brindándote un poco de diversión cada vez que lo presionas.\nCaracterísticas:\nAdorable diseño inspirado en un pastel con vibraciones mágicas de Harry Potter.\nClics suaves y táctiles para aliviar el estrés y concentrarse\nCompacto y liviano: perfecto para escritorios, bolsos o magia mientras viaja\n¡Gran regalo para los Potterheads y los amantes de los antiestrés por igual!\nConsejo de montaje:\nRequiere interruptores de teclado mecánicos (no incluidos). Para una construcción resistente, simplemente agregue un toque de pegamento para asegurar las llaves en su lugar.\nAlivia el estrés, mantente concentrado y aporta un poco de encanto mágico a tu día: ¡un clic a la vez!\n\nLicencia Comercial o Apoyame@\n\nOtros modelos que te pueden gustar:",
+ "use_cases": [],
+ "tags": [
+  "acosar",
+  "harry potter",
+  "mago",
+  "pastel",
+  "pastel de harry potter",
+  "torta de cumpleaños",
+  "clicker inquieto",
+  "pastel antiestrés de harry potter",
+  "feliz cumpleaños harry",
+  "pastel de hogwarts",
+  "hermione",
+  "varita mágica"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd1915a130d8c4f/design/2025-09-16_611874def1d56.jfif",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1536,
+   2048
+  ],
+  "previews/profiles/1918303.jpg": [
+   1080,
+   810
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

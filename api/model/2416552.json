@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres.3mf.xz",
+   "instance_id": "2649941",
+   "thumbnail": "previews/profiles/2649941.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 179,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "H2S",
+    "P1P",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "A1",
+    "X1E",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "I'd recommend the following settings in Bambu Studio: Material - PLA Order of Walls - outer/inner Speed Outer Wall - 100 mm/s Infill Gap - 100% Don't change the scale of the model, or it may not print correctly.",
+    "creation_date": "2026-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1833376,
+   "sha256": "a0993f7b21c799230024b1efdfef57bdad6be5ef23c9102fb1b6c1d6d2178bba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2416552",
+ "title": "Juguete antiestrés múltiple 21 en 1",
+ "slug": "21-in-1-multi-fidget-toy",
+ "url": "https://makerworld.com/en/models/2416552-21-in-1-multi-fidget-toy",
+ "author": "CalmBee",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este juguete sensorial incluye 21 elementos interactivos en un diseño satisfactorio. Tiene al menos el doble de tamaño que la mayoría de los multi-antiestrés del mercado, y cada lado ofrece algo diferente para explorar: desde botones e interruptores en los que se puede hacer clic hasta engranajes giratorios, formas de giroscopio giratorio, un lanzador de proyectiles y texturas variadas para mantener los dedos ocupados y la mente en calma.\n\nLos antiestrés incluyen lo siguiente:\nengranaje planetario\n2 tipos de pulsadores\n2 tipos de interruptores de palanca\nEngranaje de clic\n5 tipos de texturas sensoriales\nHexágonos con pomo\n3 tipos de botones de joystick\nEquipo grande y pequeño\ncontrol deslizante\nBotón de clic\nBotones de control arriba/abajo\nAnillos giroscópicos\nLanzador\nRecomendaría las siguientes configuraciones en Bambu Studio:\nMaterial-PLA\nOrden de las paredes: exterior/interior\nVelocidad pared exterior - 100 mm/s\nEspacio de relleno: 100%\nNo cambies la escala del modelo o es posible que no se imprima correctamente.\n\nPor favor no lo venda con fines comerciales.",
+ "use_cases": [],
+ "tags": [
+  "inquietud múltiple",
+  "agitarse",
+  "juguete inquieto",
+  "gran inquietud",
+  "engranajes",
+  "botones",
+  "taconeador",
+  "giroscopio",
+  "sensorio",
+  "juguete sensorial",
+  "engranaje planetario"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd750e8df94299c/design/a0dd8b53dcbd79e0.jpeg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   400,
+   225
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2649941.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

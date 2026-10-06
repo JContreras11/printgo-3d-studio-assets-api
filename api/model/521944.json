@@ -1,0 +1,503 @@
+{
+ "files": [
+  {
+   "path": "model/giro-hexagonal-2h36.3mf.xz",
+   "instance_id": "438546",
+   "thumbnail": "previews/profiles/438546.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 1839,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Large Fidget",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9763,
+      "weight_g": 60.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AE96D4"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA versión grande",
+   "size": 621060,
+   "sha256": "bf069a0dbe8c2c43c48d8444ea73ac98958ab2f27b1783c1cdbed961bb3031eb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-18min.3mf.xz",
+   "instance_id": "2725197",
+   "thumbnail": "previews/profiles/2725197.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 77,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "A1",
+    "X1E",
+    "P1P",
+    "H2S",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Hex Fidget Small carefully tuned 2 minimizing material waste",
+    "profile_notes": "carefully tuned saving material waste and time. many many substantial value adding adjustments also that result in low filament material waist and quick print time with reasonably good strength… see the specifics below… 0.28mm layer, 1 walls, 1mm wall width, 0% infill, wall generator acrache, detect over hang walls off, detect narrow internal solid infill off, ensure vertical shell thickness disabled, acceleration speed [ short travel , initial layer travel, initial layer, outer wall, top surface ] all turned up to 10000mms. max volumetric speed for PLA, and PETG both set to 30mm3/s, cooling for over hangs set to 100%, minimum fan for layers less than 4 seconds 100% and for the other layer times 100% and auxiliary part cooling fan 70%. note that filament flow, and cooling settings will likely revert to default and acceleration speed will also likely revert to default if you use a different bambu printer.",
+    "creation_date": "2026-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 976408,
+   "sha256": "0b0f2220a2f1d232d180ea666b4d2983c3cfdef1e6d9643db2b2a8f190da0a6b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-1h.3mf.xz",
+   "instance_id": "1725128",
+   "thumbnail": "previews/profiles/1725128.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "Keychain version",
+    "creation_date": "2025-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1006816,
+   "sha256": "881b4ff01211803002768da6bcbdac9857916a088315766084239317394a412c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-2h30.3mf.xz",
+   "instance_id": "1964555",
+   "thumbnail": "previews/profiles/1964555.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 1 walls, 2% infill",
+    "profile_notes": "I am just printing a lot of fidgets especially the hexagon ones",
+    "creation_date": "2025-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "2%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 650352,
+   "sha256": "7e920689e152fb03efffe2f654814bccc17f13fecbdde571d8d38de6e5b61fd6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-42min.3mf.xz",
+   "instance_id": "3398671",
+   "thumbnail": "previews/profiles/3398671.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.24mm layer, 1 walls, 15% infill",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 672052,
+   "sha256": "0710f1c3246344b06382a1292306920b0df27b81ff068889658f45abc3550519",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-5h30.3mf.xz",
+   "instance_id": "1861028",
+   "thumbnail": "previews/profiles/1861028.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 3.4,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "X1",
+    "X1 Carbon",
+    "H2C",
+    "H2D",
+    "H2S",
+    "P1P",
+    "P2S",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Fine detail - 0.08mm layer, 1 walls, 15% infill",
+    "profile_notes": "CHngaes settings to give it smoother details.",
+    "creation_date": "2025-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 705236,
+   "sha256": "83109583e15f229b3cde046554215bb59bac54fca30c402b410391a5d570a3ec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-5h36.3mf.xz",
+   "instance_id": "1673859",
+   "thumbnail": "previews/profiles/1673859.jpg",
+   "print_time_h": 5.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm nozzle, 0.06mm layer, 1 walls, 15% infill",
+    "profile_notes": "multicolouer hypnotize",
+    "creation_date": "2025-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.06",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 653700,
+   "sha256": "4a672736a0d32057dd024f1bd20adefb70cf652b8ca33cf1bfeba7511dd8c521",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-multicolor-1h.3mf.xz",
+   "instance_id": "1322173",
+   "thumbnail": "previews/profiles/1322173.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 192,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "2 colors split in the middle, 1 color change!!",
+    "profile_notes": "Split color change!! only 1 color change!! All settings are the same as print profile!",
+    "creation_date": "2025-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 747508,
+   "sha256": "e3e2fb64b001124cd46d8201cfdf2bca9c60f665ccc9f9103953b2f0d19e8251",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/giro-hexagonal-multicolor-2h.3mf.xz",
+   "instance_id": "583479",
+   "thumbnail": "previews/profiles/583479.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 236,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "P2S",
+    "X1E",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Two Color - Generic PLA",
+    "profile_notes": "Two Color Print (Grey + Black) Simple PLA (No Silk)",
+    "creation_date": "2024-12-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7678,
+      "weight_g": 29.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1490856,
+   "sha256": "5ed95b0eba848e49fef32d532f886dd083462c11235fef2eb7df7ab6beed78aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "521944",
+ "title": "Giro hexagonal antiestrés",
+ "slug": "fidget-hexagon-twist",
+ "url": "https://makerworld.com/en/models/521944-fidget-hexagon-twist",
+ "author": "Zammer3D",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "(o haga clic aquí)\nImpúlsame ¡Deja un impulso y una reseña si te gustó! Este modelo fue diseñado por Zammer 3D y publicado aquí en MakerWorld.com bajo la licencia de archivo digital estándar. Siéntase libre de imprimirlo usted mismo, pero no venda este modelo. ¡Gracias por respetar la licencia y apoyarme!\n\nLicencia Comercial y Consejos\nConsulte mi página Buy My a Coffee para dejar una propina, convertirse en miembro o comprar una licencia comercial.\n\n¡Feliz impresión!\n-Z",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "superinquieto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-07-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2dfd77924d2c78/design/2024-07-02_525aa8812178d.gif",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/438546.jpg": [
+   600,
+   338
+  ],
+  "previews/profiles/2725197.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/1725128.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1964555.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3398671.jpg": [
+   533,
+   533
+  ],
+  "previews/profiles/1861028.jpg": [
+   600,
+   334
+  ],
+  "previews/profiles/1673859.jpg": [
+   240,
+   320
+  ],
+  "previews/profiles/1322173.jpg": [
+   480,
+   640
+  ],
+  "previews/profiles/583479.jpg": [
+   600,
+   1065
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

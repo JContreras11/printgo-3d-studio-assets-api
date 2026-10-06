@@ -1,0 +1,166 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-helado-2h30.3mf.xz",
+   "instance_id": "519977",
+   "thumbnail": "previews/profiles/519977.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 332,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Multi plate",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4043,
+      "weight_g": 18.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5129,
+      "weight_g": 20.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1824236,
+   "sha256": "e84d62a18d0e88ec38c93625738e66467f0d9a02bbe9d295c1468a034e85d9f2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-helado-2h48.3mf.xz",
+   "instance_id": "1408995",
+   "thumbnail": "previews/profiles/1408995.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "Color Matched Cone",
+    "profile_notes": "Added a color change at layer 185 so that the cone matches at the bottom. If you already have the cone, just print plate 2.",
+    "creation_date": "2025-04-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2127816,
+   "sha256": "1ae675ab485093bad4f288f17115dba0b14131c843af0d9cddf519137878b1ea",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "597925",
+ "title": "antiestrés de helado de paso",
+ "slug": "passthrough-ice-cream-fidget",
+ "url": "https://makerworld.com/en/models/597925-passthrough-ice-cream-fidget",
+ "author": "Jalu",
+ "category": "desk-toys",
+ "source_category": "Arte > Esculturas",
+ "description": "Boost MeSi te gusta el heladoLa versión 2 ya está disponible (Con 3 partes)\n\n¡SÍ! Un nuevo Ice Cream antiestrés.\n\nUna pieza destacada que es a la vez interesante de ver y divertida de interactuar.\n¡Intenta imprimirlo!:) Libera el estrés en los días calurosos.\n\nOtras inquietudes interesantes:\nantiestrés esqueleto:\nantiestrés fantasma:\n3 partes imposibles de pasar a través de antiestrés:\n\nPuedes apoyarme dándome un empujón. ¡Gracias por aparecer!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "espejismo",
+  "matemáticas",
+  "hélice",
+  "de paso",
+  "aprobar",
+  "girar",
+  "imposible",
+  "juguete",
+  "pasar por"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfa541aefd8f538/design/2024-08-20_aa705d9bf1e6d.jpg",
+ "images": [
+  "previews/01.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   600,
+   450
+  ],
+  "previews/profiles/519977.jpg": [
+   600,
+   483
+  ],
+  "previews/profiles/1408995.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,387 @@
+{
+ "files": [
+  {
+   "path": "model/bola-retorcida-2h12.3mf.xz",
+   "instance_id": "3521949",
+   "thumbnail": "previews/profiles/3521949.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 1.4,
+   "rating_count": 24,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.22mm layer, 1 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 2806452,
+   "sha256": "0e9cb2d1026dcb7858dede874211d63601b63b93870688a59631646a01dd723a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-retorcida-3h.3mf.xz",
+   "instance_id": "2990814",
+   "thumbnail": "previews/profiles/2990814.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 256,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "V3 Print Profile/All Printers"
+   },
+   "name": "Versión estándar",
+   "size": 2915412,
+   "sha256": "c39866d7016e3f3a45286a39a24c80b91ebcf93e8b59ab61d5377096746322d4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-retorcida-3h18.3mf.xz",
+   "instance_id": "2965680",
+   "thumbnail": "previews/profiles/2965680.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 62,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "P2S",
+    "A1",
+    "A2L",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X2D",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "All Printers V2 Print profile, 2 walls, 3% infill",
+    "profile_notes": "Print profile for all printers. Faster print Good quality Second update to profile",
+    "creation_date": "2026-04-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2843060,
+   "sha256": "1b637e2abdebe5e52f5a46871af5cdc6100625922d13272b851e573dbfde90c8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-retorcida-3h48.3mf.xz",
+   "instance_id": "3527533",
+   "thumbnail": "previews/profiles/3527533.jpg",
+   "print_time_h": 3.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X1",
+    "H2D",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "A1",
+    "P2S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 1 walls, 5% infill PetG"
+   },
+   "name": "Versión estándar",
+   "size": 2820228,
+   "sha256": "9a249379eac6886dce073950ff1e021c7aad6ab8e6acb13cfebc807b57541ec4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-retorcida-4h12.3mf.xz",
+   "instance_id": "3795468",
+   "thumbnail": "previews/profiles/3795468.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "faster and more cost-effective printing"
+   },
+   "name": "Versión estándar",
+   "size": 2867252,
+   "sha256": "e44ed197fa6cddfc540a4709f4aed2bad62a62d0922103cf9fcd21b398b1b2b4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-retorcida-4h18.3mf.xz",
+   "instance_id": "3685988",
+   "thumbnail": "previews/profiles/3685988.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "X1E",
+    "X2D",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "V4/ Stronger and Smoother",
+    "profile_notes": "This V3 is improved by making it stronger and better. The original one had lots of ratings of if falling apart once people used it for a while. So I redesigned this to make it stronger and more sturdy so it wouldn't fall apart. Also people found it took way too long to print so I made it a little bit faster. Supports were also optimized for them to fall of easier and make them better. Print Settings: Infill: 5% Layer Height: 0.25 mm Wall Loops: 2 SUPPPORTS NEEDED NO AMS",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.25",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2951532,
+   "sha256": "dddd8820d33ace2ca4151f2419e4ba05166dee194cc536273d44a33dc1517157",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-retorcida-4h30.3mf.xz",
+   "instance_id": "3363558",
+   "thumbnail": "previews/profiles/3363558.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 22,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "P1S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "SILK and quality optimized",
+    "profile_notes": "This print profile is a lot better. It uses 40 grams less filament and saves almost 2 hours! You should print this.",
+    "creation_date": "2026-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3015608,
+   "sha256": "afd0fca9a09ea2df3b35fa18fa6ac082a1d79e490b7ff93c268b335ec3ccd906",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2658901",
+ "title": "Bola retorcida de la persona agitada",
+ "slug": "twisty-fidget-ball",
+ "url": "https://makerworld.com/en/models/2658901-twisty-fidget-ball",
+ "author": "B.schenk",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Agregue movimiento y satisfacción a su escritorio o llavero con esta Big Twisty antiestrés Ball. Diseñado para una articulación suave e impresa en el lugar, este antiestrés esférico presenta segmentos curvos entrelazados que se tuercen y giran en la mano, creando una experiencia táctil fascinante. Su geometría limpia y proporciones equilibradas hacen que sea divertido jugar con él y visualmente impactante.\nCaracterísticas\nDiseño articulado de impresión sin ensamblaje (sin montaje)\nForma grande y ergonómica para girar y girar cómodamente\nArticulaciones duraderas para un movimiento suave y satisfactorio\nIdeal para inquietudes, exhibiciones o regalos.\nImprime limpiamente en la mayoría de las impresoras FDM\nRecomendaciones de impresión\nAltura de la capa: 0,2 mm\nApoyos necesarios\n3% de relleno\nFunciona muy bien en PLA, PETG o resina.\nIdeas de personalización\nImprima en dos colores para lograr un efecto de giro dinámico\nUse filamento de seda o degradado para una apariencia premium\nReduce la escala para divertirte en tamaño de bolsillo o aumenta para convertirla en un centro de mesa de escritorio.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "pelota",
+  "girar",
+  "retorcido",
+  "imprimir en el lugar",
+  "juguete",
+  "divertido",
+  "girar antiestrés",
+  "girar la bola antiestrés",
+  "juguete giratorio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-14",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc888f086d09ca3/design/47aa957fba48e0e8.gif",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1500
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3521949.jpg": [
+   344,
+   300
+  ],
+  "previews/profiles/2990814.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2965680.jpg": [
+   600,
+   900
+  ],
+  "previews/profiles/3527533.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3795468.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3685988.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3363558.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

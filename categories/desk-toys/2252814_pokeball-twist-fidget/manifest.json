@@ -1,0 +1,250 @@
+{
+ "files": [
+  {
+   "path": "model/pokeball-twist-6h48.3mf.xz",
+   "instance_id": "2453596",
+   "thumbnail": "previews/profiles/2453596.jpg",
+   "print_time_h": 6.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 878,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1",
+    "H2S",
+    "H2C",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "A1",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 0% infill",
+    "profile_notes": "Simply select your printer & play",
+    "creation_date": "2026-01-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 46087248,
+   "sha256": "c8c555d8c1e0f5e6e7413146e67e87618c5c37a60541159d4f1159072ab2f103",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pokeball-twist-10h06.3mf.xz",
+   "instance_id": "2515777",
+   "thumbnail": "previews/profiles/2515777.jpg",
+   "print_time_h": 10.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "PETG材料，修改外补偿，展开更顺滑 0.2mm layer, 2 walls, 0% infill",
+    "profile_notes": "PETG直打，展开顺滑",
+    "creation_date": "2026-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 46153732,
+   "sha256": "82ef4910df3e32c3cf2b7b5f47ea5bc6154b468e48afdb71b9e98a1d775b9ca2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pokeball-twist-16h12.3mf.xz",
+   "instance_id": "2472502",
+   "thumbnail": "previews/profiles/2472502.jpg",
+   "print_time_h": 16.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 66,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "X1",
+    "P1S",
+    "H2D",
+    "P1P",
+    "H2C",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.16mm Layer Height – Detail Oriented"
+   },
+   "name": "Versión estándar",
+   "size": 46339216,
+   "sha256": "cfd28147f9303db73760852b712308a44919e0c00006ea0e2398353c3270629d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pokeball-twist-7h18.3mf.xz",
+   "instance_id": "3861617",
+   "thumbnail": "previews/profiles/3861617.jpg",
+   "print_time_h": 7.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "模型优化，减少无效面数，调整参数，提高打印效率",
+    "profile_notes": "Simply select your printer & play",
+    "creation_date": "2026-07-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5938108,
+   "sha256": "b6feb43d386125f4a3ed18d03d5b3b04aaa26f006e7d9125fdbe6a0f1d2dfa95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2252814",
+ "title": "Pokéball Twist Fidget",
+ "slug": "pokeball-twist-fidget",
+ "url": "https://makerworld.com/en/models/2252814-pokeball-twist-fidget",
+ "author": "FilliFuu",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "El último antiestrés giratorio: el Pokéball Twist antiestrés\n\nFácil de imprimir, 100% impreso en el lugar sin necesidad de borde ni soporte, solo imprime y juega\n\nNuevo núcleo interno que es fuerte y simple.\n\n¡Funciona muy bien con la mayoría de los filamentos, incluida la seda!\n\nMi nuevo giro antiestrés con más sorpresas en camino pronto\n\nIncluye perfil pintado y archivo STL para mayor comodidad.\n\nLa pequeña pelota antiestrés perfecta\n\nPara cualquiera que imprima con el archivo STL, la configuración predeterminada funciona muy bien; sin embargo, habilite la opción sin borde en su cortadora y también recomiendo un relleno del 0 %.\n\n¡Divertirse!",
+ "use_cases": [],
+ "tags": [
+  "pokebola",
+  "pokémon",
+  "pelota",
+  "girar",
+  "juguete",
+  "agitarse",
+  "ansiedad",
+  "estrés"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2026-01-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US39174c5e819d54/design/2026-01-16_ad4b55f1262cb8.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   800,
+   800
+  ],
+  "previews/02.jpg": [
+   1000,
+   734
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2453596.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2515777.jpg": [
+   600,
+   473
+  ],
+  "previews/profiles/2472502.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/3861617.jpg": [
+   600,
+   640
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

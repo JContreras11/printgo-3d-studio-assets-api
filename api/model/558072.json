@@ -1,0 +1,446 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-iris-multicolor-1h42.3mf.xz",
+   "instance_id": "477162",
+   "thumbnail": "previews/profiles/477162.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 650,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Original Files - 2 Colors, 2 Plates - 0.2mm layer, 2 walls",
+    "profile_notes": "Normal 0.2 mm profile, just did 2 things: Split the parts into two plates to print with different colors. The Sliders sit right infront of the big housing fan in the X1C",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4520,
+      "weight_g": 21.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C00D1E"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1700,
+      "weight_g": 8.21,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8BD5EE"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3693316,
+   "sha256": "340ca0c618bee2c53551a57f19ff84da061e3d051b1ddf23b88d292b5e253503",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-iris-1h06.3mf.xz",
+   "instance_id": "2806232",
+   "thumbnail": "previews/profiles/2806232.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill - a1 mini compatible - fast",
+    "profile_notes": "Hello, specially for a1 mini 1 plate (90%). I optimized infil and resistance, have fun !!",
+    "creation_date": "2026-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 4617072,
+   "sha256": "041fed426db162f1c0231adca8ac7774b8aae7e6d4d99fa46d54450cc499d383",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-iris-2h30.3mf.xz",
+   "instance_id": "706954",
+   "thumbnail": "previews/profiles/706954.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Ironing on top surfaces turned on. Speeds slowed down for more consistent finish. Color change based on height for reduced waste from swaps.",
+    "creation_date": "2024-11-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8914,
+      "weight_g": 28.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E05028"
+       },
+       {
+        "type": "PLA",
+        "color": "#893044"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3845016,
+   "sha256": "f68c0b09278d4d61247f778b8b703f260444afff10bb8d4dee101baa9a368994",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-iris-monocolor-1h54.3mf.xz",
+   "instance_id": "481791",
+   "thumbnail": "previews/profiles/481791.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 136,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Single color on 1 plate, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Single color, all on a one plate for printing it at once, used 0.2mm layer height, 2 walls, 15% infill, slowed down first layer speed for better adhesion, tested on the A1 mini",
+    "creation_date": "2025-03-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6739,
+      "weight_g": 28.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C00D1E"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Monocromo impresión en PLA",
+   "size": 4003812,
+   "sha256": "99ff5dc6d307e13c074e5a9643db8df32a796c62485d19a798bf0e75d966117b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-iris-multicolor-1h48.3mf.xz",
+   "instance_id": "1660015",
+   "thumbnail": "previews/profiles/1660015.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 80,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "2025 Revision - 2 Color AMS Profile",
+    "profile_notes": "Print Profile for 2025 revised Geometry 0.2 mm layer height with slower out walls Object Printing sequence → only 1 color change 1 extra slider in case one turns out imperfect",
+    "creation_date": "2025-07-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 3728116,
+   "sha256": "8e5fd68df855d700049f95871b2cf564729874fc301b9b88d36381b46931cf9b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-iris-multicolor-1h54.3mf.xz",
+   "instance_id": "487840",
+   "thumbnail": "previews/profiles/487840.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 87,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.02.58",
+    "profile_title": "2 colors - 1 plate, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "2 colors - 1 plate",
+    "creation_date": "2024-08-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6882,
+      "weight_g": 28.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5B6579"
+       },
+       {
+        "type": "PLA",
+        "color": "#E05028"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3956828,
+   "sha256": "829ad74be6f31971ef5ae4a883d78601ee8a71270b24a101ac10dd78f848cf08",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-iris-multicolor-2h.3mf.xz",
+   "instance_id": "1660136",
+   "thumbnail": "previews/profiles/1660136.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 46,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "2025 Revision - 2 Plates 2 Colors",
+    "profile_notes": "Print Profile for 2025 revised Geometry 0.2 mm layer height with slower out walls 2 Plates - 1 color each 1 extra slider in case one turns out imperfect",
+    "creation_date": "2025-07-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 3588736,
+   "sha256": "2ae6627384866eb35805052fb64f8272cd856918678655d812969b3f354bea82",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "558072",
+ "title": "antiestrés Iris - 8 controles deslizantes Snapfit",
+ "slug": "fidget-iris-8-sliders-snapfit",
+ "url": "https://makerworld.com/en/models/558072-fidget-iris-8-sliders-snapfit",
+ "author": "Kaburuk",
+ "category": "desk-toys",
+ "source_category": "Educación > Ingeniería",
+ "description": "Un pequeño y divertido juguete antiestrés.\nNo se requieren piezas adicionales, simplemente ensamblelas\nEl modelo está optimizado para una altura de capa de 0,2 mm. Imprimalo con esa altura de capa.\n\nFunciona mejor con PLA normal; tuve mayor fricción con mate o PLA-tough\n\nActualización de julio de 2025: he subido 2 perfiles nuevos con una geometría ligeramente modificada y voladizos más pronunciados en el snapfit. Las piezas deberían deslizarse más fácilmente y requerir menos fuerza. Utilice PLA normal para una fricción más baja (no PLA mate)\n\nActualización 2024 09 de diciembre: Creé algunos mangos para este Iris si quieres jugar con él como una tijera.\n\nImpulsameSi te divertiste con esta impresión, un impulso es una excelente manera de demostrarlo:)Ensamblaje: para ver instrucciones en video, desplázate hacia abajo.\nLibere los brazos de ajuste rápido empujándolos hacia adentro; esto solo hace que se requiera menos fuerza más adelante.\nRetire las pestañas de los controles deslizantes triangulares.\nLimpiar los bordes si es necesario.\nColoque los controles deslizantes en la posición abierta.\nAlinee el pasador del control deslizante con el corte correcto y junte las piezas de la carcasa.\n\nDurante las primeras vueltas el iris puede tener un poco más de fricción. Si ese es el funda, simplemente junte las dos mitades con las palmas y gírelas unas cuantas veces. Generalmente, cuanto más lo uses, mejor debería girar.\n\nVideo:",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete antiestrés",
+  "complemento",
+  "artilugio",
+  "juguete",
+  "iris"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-07-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb744feabf6caa8/design/2024-07-26_096dae22d259f.gif",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   829
+  ],
+  "previews/02.png": [
+   1000,
+   812
+  ],
+  "previews/03.png": [
+   1000,
+   819
+  ],
+  "previews/04.png": [
+   991,
+   618
+  ],
+  "previews/profiles/477162.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2806232.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/706954.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/481791.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1660015.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/487840.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1660136.jpg": [
+   285,
+   215
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

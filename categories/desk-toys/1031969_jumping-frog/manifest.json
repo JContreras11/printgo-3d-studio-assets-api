@@ -1,0 +1,719 @@
+{
+ "files": [
+  {
+   "path": "model/rana-saltadora-12min.3mf.xz",
+   "instance_id": "1021678",
+   "thumbnail": "previews/profiles/1021678.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 490,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "connectors",
+    "creation_date": "2025-01-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 673,
+      "weight_g": 0.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 561436,
+   "sha256": "46ff6791a42228d03e6da9ed73f578104669258d2cf4765abca3076cd3edd8d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-1h12.3mf.xz",
+   "instance_id": "3844199",
+   "thumbnail": "previews/profiles/3844199.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.04.57",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "An updated jumping frog print profile with added supports for cleaner prints, easy assembly, and a reduced weight of approximately 13 grams . Configured for a 0.4 mm nozzle, 0.20 mm layer height, 2 walls, and 10% gyroid infill . Both body pieces and two ribbed pegs are arranged on one plate. Feet: Added slim tree supports and mouse-ear brims to improve adhesion and prevent sagging or misshapen feet. Body: Added supports in the leg cutouts to prevent drooping overhangs and keep the openings clean. Assembly: Included ribbed pegs that securely lock the top and bottom together—no glue needed. Remove the supports and brims before assembly, then get hopping! The pictured frog was printed in rainbow filament for a fun, colorful finish.",
+    "creation_date": "2026-09-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 19859236,
+   "sha256": "2bf811c490bd69982151fb762508e7e840ffc3d02feeaafe65b4ed4f113c68d2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-1h18.3mf.xz",
+   "instance_id": "1020056",
+   "thumbnail": "previews/profiles/1020056.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 258,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill with pegs + good print time",
+    "profile_notes": "Pegs are essential to easy assembly, not sure why they were not on the original. The other profile with pegs is labelled with a long print time, this is closer to the original Designer's time. It also has a gyroid infill (no good reason other than gyroid looks great while its printing ;-). I'm presenting the points to the original designer because this is such a great toy.",
+    "creation_date": "2025-01-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4520,
+      "weight_g": 17.56,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#174B35"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 17622052,
+   "sha256": "7aa0f30a1225c3b75b5eda18d032a8cdc7315a1805bbe3d462716f1c3ea5a725",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-1h24.3mf.xz",
+   "instance_id": "3667415",
+   "thumbnail": "previews/profiles/3667415.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "with connectors and support, better printing time",
+    "profile_notes": "with support, and with connectors on same plate",
+    "creation_date": "2026-08-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 18576928,
+   "sha256": "59a10413f10c7402eab7090b0d523b8b0688c44d1494e937f4cc85613c6f3b92",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-1h30.3mf.xz",
+   "instance_id": "1613161",
+   "thumbnail": "previews/profiles/1613161.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 23,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "0.2mm layer, 3 walls, 20% infill",
+    "profile_notes": "I've manually drew the supports, so the slicer won't fill in the “connector” holes and the empty space between the springs. Despite what anyone says, you'll definitely need glue.",
+    "creation_date": "2025-06-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 17361388,
+   "sha256": "290c3af900ac76a8cb2ce07523fc0e74a1a97797c3ef94025daed69ac9f77d70",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-1h48.3mf.xz",
+   "instance_id": "2011419",
+   "thumbnail": "previews/profiles/2011419.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "4x45 mm frogs, 4 different colors, snug connector",
+    "profile_notes": "Print profile for 4x45 mm frogs printed in high speed PETG. The frogs have decent jump on a smaller footprint. Makes sure to properly separate the spring segments by moving the legs up/down and in/out. Use a screw driver or pliers if necessary. The connectors are very snug. Insert the pins to the bottom section first. Push the body of the top section first and then press the head tightly. Use AMS to print 4 frogs, in different colors, at once.",
+    "creation_date": "2025-10-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 17270348,
+   "sha256": "1327e4cad9ce13ee348aea9c23162899290523983de48d86975fb82fdc01a0c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-2h12.3mf.xz",
+   "instance_id": "3375589",
+   "thumbnail": "previews/profiles/3375589.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "P2S",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "A1",
+    "X1",
+    "A2L",
+    "H2D Pro",
+    "X2D",
+    "H2C",
+    "X1 Carbon",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "SILK and quality optimized. Added support where needed.",
+    "creation_date": "2026-06-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 18632412,
+   "sha256": "4596072fb6b1ea49458b88b3f6189860540dcda036ac2592c22eb1ee6000432e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-3h48.3mf.xz",
+   "instance_id": "1018850",
+   "thumbnail": "previews/profiles/1018850.jpg",
+   "print_time_h": 3.8,
+   "plates": 4,
+   "rating": 4.6,
+   "rating_count": 150,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "With pegs, supports, and variable layer height",
+    "profile_notes": "Includes pegs for mounting the two frog halves together. The pegs have a tight fit, so glue shouldn't be needed. Variable layer height is used to give the top of the frog more detail. Supports used for frog feet, optimized for easy removal. 0.2mm layer, 3 walls, 20% infill",
+    "creation_date": "2025-01-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2900,
+      "weight_g": 9.44,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3719,
+      "weight_g": 12.1,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 649,
+      "weight_g": 0.43,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6277,
+      "weight_g": 21.76,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Impresión en PLA",
+   "size": 17594460,
+   "sha256": "bb11e56949c30310c820b5f222321d16302bb991f49895e3a6695e26da8eb9a7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-42min.3mf.xz",
+   "instance_id": "2502978",
+   "thumbnail": "previews/profiles/2502978.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X1",
+    "H2D",
+    "H2C",
+    "P1S",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Jumping frog 75% scale",
+    "profile_notes": "fully functional very tuff",
+    "creation_date": "2026-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 18652984,
+   "sha256": "b02ad4c5ae665ae3ed26df8bf7f3af31fb9c706fea154727340c3cb02e6cd743",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-4h24.3mf.xz",
+   "instance_id": "1043808",
+   "thumbnail": "previews/profiles/1043808.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "4 colors, pins included, 0.2mm layer, 3 walls, 20% infill",
+    "profile_notes": "4 colors, pins included",
+    "creation_date": "2025-01-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16012,
+      "weight_g": 64.51,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#61C680"
+       },
+       {
+        "type": "PLA",
+        "color": "#F7E6DE"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 17627964,
+   "sha256": "35119683598a3e1e5aef1d7bd97064a0027bfcda9cb7f76470b804388fe16705",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-5h06.3mf.xz",
+   "instance_id": "1045483",
+   "thumbnail": "previews/profiles/1045483.jpg",
+   "print_time_h": 5.1,
+   "plates": 4,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Dynamic layer, 3 walls, 4 plates",
+    "profile_notes": "Optimized polygonal mesh Dynamic height Optimized ligament sizes Connectors have been increased by 1% to fit properly into the frog without glue It looks good in different colors.",
+    "creation_date": "2025-02-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3718,
+      "weight_g": 7.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5681,
+      "weight_g": 10.17,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 544,
+      "weight_g": 0.44,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9098,
+      "weight_g": 17.48,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Impresión en PLA",
+   "size": 17985344,
+   "sha256": "121f2baf9dec90e0393a3c59100a514dee4cfecc1f2d0bde82fe80aca3933f1a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1031969",
+ "title": "¡Rana saltadora!",
+ "slug": "jumping-frog",
+ "url": "https://makerworld.com/en/models/1031969-jumping-frog",
+ "author": "SEVALS2",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "ImpulsameSi te gusta mi trabajo, ¡¡¡impulsame para ver más modelos!!! Hola compañeros de imprenta!! ¡Te presento una rana saltadora! ¡Juguete adictivo!\n\nPARA SALTO ADICIONAL UTILICE PTGE!!!\n¡El montaje es muy fácil! Si la junta está demasiado floja, ¡recomiendo usar pegamento para obtener más! Las juntas son tu elección, si las necesitas, si no, ¡puedes usar pegamento!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "rana",
+  "juguete",
+  "saltar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f24ef2a5b0599/design/2025-01-24_2dc93539f60db.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1297
+  ],
+  "previews/03.jpg": [
+   1000,
+   713
+  ],
+  "previews/profiles/1021678.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3844199.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/1020056.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3667415.jpg": [
+   600,
+   469
+  ],
+  "previews/profiles/1613161.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2011419.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/3375589.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1018850.jpg": [
+   600,
+   502
+  ],
+  "previews/profiles/2502978.jpg": [
+   600,
+   481
+  ],
+  "previews/profiles/1043808.jpg": [
+   600,
+   1065
+  ],
+  "previews/profiles/1045483.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

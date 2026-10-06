@@ -1,0 +1,1123 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-cock-1h30.3mf.xz",
+   "instance_id": "1816939",
+   "thumbnail": "previews/profiles/1816939.jpg",
+   "print_time_h": 1.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 40,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Mini (75%) Quick Print Version",
+    "profile_notes": "A scaled-down version that fits in the palm of your hand. Much more compact, but just as satisfying to play with. Uses 3x walls instead of 5 for faster prints, but maintains a 25% cubic infill for strength and a nice, sturdy feeling. Keep supports enabled--it's a tiny amount of material that will guarantee a clean overhang. Print with PETG for best results!",
+    "creation_date": "2025-08-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 33130120,
+   "sha256": "0019b48bfcf419241f76ed3ff5c614fdbeb47ee81ab5022025a4766e4dc890e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-2h.3mf.xz",
+   "instance_id": "1004514",
+   "thumbnail": "previews/profiles/1004514.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Single plate 0.6mm nozzle, 0.3mm layer, 5 walls, 25% infill",
+    "profile_notes": "I made this as a single plate with 2 colors. Hopefully this makes it easy to print on single plate from phone. Use PETG for the flexible part.",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.3",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 7063,
+      "weight_g": 103.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F4D976"
+       },
+       {
+        "type": "PETG",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor una sola placa",
+   "size": 33125840,
+   "sha256": "4d82457d61000e98e9f045bd17793de17c29a292f551b7eb20bd43024db7f0e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-2h06.3mf.xz",
+   "instance_id": "143905",
+   "thumbnail": "previews/profiles/143905.jpg",
+   "print_time_h": 2.1,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 5 walls, 25% infill",
+    "profile_notes": "调整大小为75% change size into 75%",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1477,
+      "weight_g": 6.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3497,
+      "weight_g": 25.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2432,
+      "weight_g": 13.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#46A8F9"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor",
+   "size": 33154588,
+   "sha256": "a4e2cf6c3c791e7e94ced552ff917b013eb4c731d4612d406bbededeb5fd05c8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-2h24.3mf.xz",
+   "instance_id": "96241",
+   "thumbnail": "previews/profiles/96241.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 3 walls, 25% infill",
+    "profile_notes": "All on one plate, no waste! .6 nozzle X1 carbon .3 layer height 3 walls, 20%gyroid",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.3",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.6",
+      "prediction_ms": 8575,
+      "weight_g": 94.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#2850E0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 33035852,
+   "sha256": "122f25ebdb355c178e0b837598141b991fd4271ab4f0ef4e7aff23e0bd350dc7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-2h30.3mf.xz",
+   "instance_id": "490269",
+   "thumbnail": "previews/profiles/490269.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 24,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "80% scale, 2 plates, 0.16mm layer, 5 walls, 25% infill",
+    "profile_notes": "The original right-handed profile, scaled down to 80% size. For folks with smaller hands.",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4553,
+      "weight_g": 29.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4374,
+      "weight_g": 21.45,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 33112748,
+   "sha256": "d3b5f2bd6b3b6b225ff04a21087986a3d3704f06f8def74c38d9e264ed7970e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-2h42.3mf.xz",
+   "instance_id": "95181",
+   "thumbnail": "previews/profiles/95181.jpg",
+   "print_time_h": 2.7,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 62,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Save time and filament with less walls and infil, just as sturdy as before",
+    "profile_notes": "Used less wall layer because 5 seemed excessive. Did 2 walls with 10% and 15% layer height, seems to be working fine. Saved some filament and some time. Also changed the layer height to 0.2mm. I used petg for the second plate with springs.",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7185,
+      "weight_g": 54.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2593,
+      "weight_g": 12.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 33158252,
+   "sha256": "79f95217431e622932c8ae6243815616ed9534fdefbe7191fbc960609e288e2c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-2h48.3mf.xz",
+   "instance_id": "462358",
+   "thumbnail": "previews/profiles/462358.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 28,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 5 walls, 15% infill",
+    "profile_notes": "This is a version made to work for single color, single plate, single print sessions.",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10209,
+      "weight_g": 79.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 33005472,
+   "sha256": "73d98ca85ddc2260d8926e2b113029e8a8effe718924068bda84effdfe1b9d06",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-3h.3mf.xz",
+   "instance_id": "81017",
+   "thumbnail": "previews/profiles/81017.jpg",
+   "print_time_h": 3,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 69,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "A1 - Quicker - Right Hand - 2 Plates - 0.2mm layer",
+    "profile_notes": "I made this profile compatible with the A1 Mini. I also made it about an hour faster than the original by moving the trigger and hammer to the same plate as the stock, using less infill where it was a little overkill in my book since it is already using 5 walls, and upping the layer height to a more common 0.2mm. A1 Compatible Quicker by 1hr 0.2mm layer height Adaptive Cubic infill 15%-25% 5 walls",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8585,
+      "weight_g": 67.48,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2390,
+      "weight_g": 11.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 33131396,
+   "sha256": "085f5080571c4197925f38bcb75dc92703b8d86cefd0dac893b7b67a0504c802",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-3h18.3mf.xz",
+   "instance_id": "3039029",
+   "thumbnail": "previews/profiles/3039029.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "X1 Carbon",
+    "H2D",
+    "P1P",
+    "X1E",
+    "P2S",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Best Profile",
+    "profile_notes": "Gyroid infill for better durability and larger layer height for more speed",
+    "creation_date": "2026-05-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 33174336,
+   "sha256": "d1ab78c4f314ad70db84a6c667c42140dfd2594cf43e83cff772e193ca6c867a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-3h36.3mf.xz",
+   "instance_id": "244818",
+   "thumbnail": "previews/profiles/244818.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 5 walls, 25% infill",
+    "profile_notes": "Printed in PLA+ from Sunlu Body Hammer Trigger Printed in generic PETG Springs Clips",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10544,
+      "weight_g": 79.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2593,
+      "weight_g": 12.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 33115196,
+   "sha256": "62c607e49f460b18941ef000a99dc82c8b151992705d5c9a134bdec2e09f820f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-3h48.3mf.xz",
+   "instance_id": "83548",
+   "thumbnail": "previews/profiles/83548.jpg",
+   "print_time_h": 3.8,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 5 walls, 25% infill",
+    "profile_notes": "Printed on the P1P with a .4mm nozzle, .12mm LH, 100% infill",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4245,
+      "weight_g": 25.82,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6675,
+      "weight_g": 53.65,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2582,
+      "weight_g": 12.63,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor",
+   "size": 33260508,
+   "sha256": "6d64ceb741472246309073a6587a5cc15e97bc4db70184f28d01449aecb56ca7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-4h12.3mf.xz",
+   "instance_id": "381790",
+   "thumbnail": "previews/profiles/381790.jpg",
+   "print_time_h": 4.2,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "For A1 mini, left-handed version, 0.16mm layer, 5 walls, 25%",
+    "profile_notes": "This profile is specifically for use on the A1 mini, for the left-handed version. Plates 1 and 2 are to be printed with PLA while Plate 3 to be printed with PETG.",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "25%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4846,
+      "weight_g": 25.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7479,
+      "weight_g": 53.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2865,
+      "weight_g": 12.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor versión mini",
+   "size": 33037156,
+   "sha256": "7e22ad75445d26ef1adc328bd37a5112360299c56a0faa0241814e54c15da027",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-4h42.3mf.xz",
+   "instance_id": "342694",
+   "thumbnail": "previews/profiles/342694.jpg",
+   "print_time_h": 4.7,
+   "plates": 4,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.16mm layer, 5 walls, 30% infill",
+    "profile_notes": "弹簧易损位置增加圆片，更耐用。",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "30%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7621,
+      "weight_g": 54.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4510,
+      "weight_g": 25.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2733,
+      "weight_g": 12.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1976,
+      "weight_g": 6.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor",
+   "size": 33355740,
+   "sha256": "1bf8b92d7c5cdc53ca29c8c5b5f4147b02dd2391d9ae689b5dd73d51c2d7753e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-6h.3mf.xz",
+   "instance_id": "2066378",
+   "thumbnail": "previews/profiles/2066378.jpg",
+   "print_time_h": 6,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Correct size trigger/hammer+spring tension (mini can print)",
+    "profile_notes": "[Plates one and two are for the right-handed, plates 3 and 4 are for the left-handed. A1 mini can print without modification ] The original file had an unrealistically sized trigger and hammer, and the recoil spring was a bit too stiff. I have adjusted the width of the trigger and hammer to match that of an M1911, and I modified the spring tension to be closer to that of a real revolver. This should provide a more realistic dry fire experience. However, I recommend practicing with a real firearm for the best experience, but this version offers a degree of realism compared to the original design. Additionally, I have created another version that further modifies the shape of the trigger and hammer, and added a Picatinny railto more closely resemble those of a real firearm, and it works great, but I worry that some people might use it as a tool for dry fire practice. It’s important to note that grip technique is as crucial as trigger pull when practicing, so I suggest using a more accurate representation for training, so I choose not to upload that version. However, if you are interested in the version with the Picatinny rail, please let me know.",
+    "creation_date": "2025-10-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión mini",
+   "size": 33667988,
+   "sha256": "7ffb503291ef38faa7009e2644508cb54a7750b8effa4b055240f76e2153c6d0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cock-multicolor-2h12.3mf.xz",
+   "instance_id": "208560",
+   "thumbnail": "previews/profiles/208560.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 75,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "***2HOURS DUAL COLOR*** (Print by object) 0.2mm layer, 5 walls, 10% infill",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8078,
+      "weight_g": 66.7,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0A2989"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 33039932,
+   "sha256": "fa844af76ef8e3d3b9369b144fa69663b6b66f8fde754a92d10dd2bff09bd359",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "71654",
+ "title": "antiestrés Cock_N_Pull",
+ "slug": "fidget-cock_n_pull",
+ "url": "https://makerworld.com/en/models/71654-fidget-cock_n_pull",
+ "author": "DWdesigns",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Experimente la sensación y los sonidos de amartillar el martillo y apretar el gatillo con este sencillo juguete antiestrés. No parece un arma. De hecho, por un lado la forma parece una ballena de juguete saltando fuera del agua.\n\nLo he hecho con el diseño más simple que se me ocurre. Sólo consta de 6 piezas y el montaje lleva menos de un minuto. El diseño abierto hace visible el mecanismo de disparo.\n\nAunque diseñé esto para las acciones de amartillar y tirar, me encontré jugando con él de las siguientes maneras adicionales, tres de las cuales no emiten sonidos.\n\nTire del martillo hacia abajo ligeramente, pero no lo suficiente, hasta la posición amartillada, deje que el pulgar se deslice y el martillo vuelva a subir. Repetir. Esta acción produce un sonido de clic nítido. La sensación del resorte y los sonidos nítidos son muy agradables y satisfactorios, y algo adictivos:). Una variación de esto es no dejar que el pulgar se resbale, sino sujetar el martillo mientras retrocede para sentir el resorte. Esta variación hace algo de ruido.\nSin el martillo en la posición amartillada, apriete ligeramente el gatillo y deje que el dedo índice se deslice y el gatillo vuelva a su posición natural. Repetir. Esta acción produce un sonido de clic nítido. Una variación de esta acción es no dejar que el dedo índice se resbale, sino sujetar el gatillo mientras retrocede para sentir el resorte. Esta variación casi no hace ruido.\nAlterne entre 1 y 2 anteriores.\nGire el pulgar sobre el pasador de anclaje del gatillo, o sobre la parte superior del pasador de anclaje del martillo, o alternando entre los dos. Esta acción no emite ningún sonido. Si la parte superior de los pasadores no está lo suficientemente lisa, lije ligeramente o use una pistola de calor para alisarla.\nEmpuje el resorte del martillo en el espacio entre el martillo y el gatillo, luego gírelo hacia afuera. Esta acción hace ruido.\nDesmontar y volver a montar el juguete. El desmontaje no necesita herramientas y es fácil de hacer, por lo que resulta tentador desmontarlo y volver a montarlo, sólo por diversión.\nEste último es un poco complicado pero lo he hecho sentado en una silla con reposabrazos: cuelga este juguete boca abajo con el pulgar sujetando la parte superior del pasador de anclaje del resorte y el dedo índice o medio presionando en el lado opuesto del mango, luego gíralo suavemente. Es complicado porque el dedo índice o medio no tiene un lugar fácil donde agarrarse y el juguete quiere caer mientras se balancea. No lo he hecho lo suficiente hasta el punto de poder hacerlo sin prestar atención.\nImprime fácilmente con PLA y PETG (los resortes y el anillo elástico). Sin soporte, sin borde. 100% impreso en 3D. Fácil montaje (y desmontaje). No se necesitan herramientas, ni gomas, ni tornillos, ni pegamento.\n\nHay dos versiones, una para diestros y otra para zurdos. Se proporcionan perfiles de impresión para cada uno.\n\nSin embargo, una buena advertencia: los resortes están impresos en 3D con plástico. Por lo tanto, no durarán mucho, sino que se desgastarán y romperán después de un cierto uso. Viene con el territorio de hacer algo 100% impreso en 3D. Afortunadamente tienes una impresora 3D:). Se recomienda imprimir algunos resortes de martillo adicionales para un reemplazo rápido y sencillo. En cualquier funda, déjeme saber cuáles son sus experiencias y pensamientos y tal vez considere modificarlo la próxima vez para usar resortes de acero.\n\nSe proporcionan instrucciones para el montaje, desmontaje y uso. Las fotografías se utilizan ampliamente en las instrucciones paso a paso para facilitar su seguimiento.\n\nElija sus propias combinaciones de colores favoritas para diferentes partes. Sin embargo, al menos una parte fácilmente visible debe imprimirse con un color brillante. Si una billetera puede confundirse con un arma a distancia, esto también puede serlo.\n\nSígueme para recibir notificaciones cuando se agreguen nuevos modelos. ¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "juguete inquieto",
+  "juguetes antiestrés",
+  "sonidos antiestrés",
+  "pistola de juguete inquietante",
+  "inquietud sensorial",
+  "sonido antiestrés",
+  "alivio del estrés",
+  "alivio de la ansiedad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2023-11-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US179973a4ced0b6/design/2024-03-11_ad8ae7a494786.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1816939.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1004514.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/143905.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/96241.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/490269.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/95181.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/462358.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/81017.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3039029.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/244818.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/83548.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/381790.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/342694.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2066378.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/208560.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

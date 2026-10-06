@@ -1,0 +1,350 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-monocolor-36min.3mf.xz",
+   "instance_id": "3391586",
+   "thumbnail": "previews/profiles/3391586.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 31,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P1S",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "12 segments single color",
+    "profile_notes": "0,28 layer height concentric top pattern slow first layer.",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 5154824,
+   "sha256": "b026e21d0a1572adb63b1c60c94d3f4ccd05a9d4561627d7595b1b1fdedc1505",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h06.3mf.xz",
+   "instance_id": "3563150",
+   "thumbnail": "previews/profiles/3563150.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P1P",
+    "H2D",
+    "H2C",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "加固模型，提高强度，适配A1和P系列",
+    "profile_notes": "0,28 layer height concentric top pattern slow first layer.",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5841272,
+   "sha256": "e5c4ecbf4398939b7df7c8917afc3ac71ec25dd3b0890cbf9bf254a1f5d0c1d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h30.3mf.xz",
+   "instance_id": "3434778",
+   "thumbnail": "previews/profiles/3434778.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "X1",
+    "X2D",
+    "P1P",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "20 segments color layer stuck",
+    "profile_notes": "0,28 layer height concentric top pattern slow first layer. 12 fillament changes",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6782832,
+   "sha256": "770378cd7805fea4c48419d4eef2c4086ab3a38952a56470399770940c9ae49d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h06.3mf.xz",
+   "instance_id": "3391625",
+   "thumbnail": "previews/profiles/3391625.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 72,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "P1P",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "20 segments dual color",
+    "profile_notes": "0,28 layer height concentric top pattern slow first layer.",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 5941152,
+   "sha256": "42d436f3989aa5ead25b5d0a97f7919ed872f7943542aeb58153756bd5d7f84b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-monocolor-1h.3mf.xz",
+   "instance_id": "3391620",
+   "thumbnail": "previews/profiles/3391620.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 144,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "20 segments single color",
+    "profile_notes": "0,28 layer height concentric top pattern slow first layer.",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 5953236,
+   "sha256": "ff3522276c708fbbd84b5fe2cb8cd3567aa2d68d9f41fddbb1cbc6f9838bc43a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3018902",
+ "title": "Juguete antiestrés de serpiente enredada: impresión sin ensamblaje",
+ "slug": "tangled-snake-fidget-toy-print-in-place",
+ "url": "https://makerworld.com/en/models/3018902-tangled-snake-fidget-toy-print-in-place",
+ "author": "oramafanis",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "actualización 27/07/26:\nHe subido una versión muy grande con 52 segmentos y también quiero echarle un vistazo:\n\nUn antiestrés articulado sencillo y satisfactorio que se impresión sin ensamblaje y está diseñado teniendo en cuenta el movimiento suave y la durabilidad.\nTangled Snake presenta segmentos vinculados que se flexionan y giran en todas direcciones, lo que hace que sea divertido de manejar y no requiere ensamblaje después de la impresión.\nEl modelo está disponible en dos tamaños:\nVersión de 12 segmentos: compacta, de bolsillo y rápida de imprimir.\nVersión de 20 segmentos: más larga, más flexible y proporciona una experiencia de inquietud diferente.\nEl diseño se imprime como una sola pieza con uniones completamente articuladas, por lo que una vez que se completa la impresión, está listo para usar directamente desde la placa de construcción.\nCaracterísticas\nDiseño de impresión sin ensamblaje\nNo se requieren soportes\nNo se necesita ensamblaje\nMovimiento articulado suave\nDisponible en versiones de 12 y 20 segmentos\nIdeal como juguete de escritorio, para aliviar el estrés o como regalo.\n¡Articulaciones inteligentes ocultas y realmente fuertes!\nSobre los perfiles:\nHay 4 perfiles.\nA1 mini amigable también.\n0,28 de altura de capa con patrón superior concéntrico y primera capa lenta.\nel modelo está vacío por dentro, por lo que no se aplica ningún relleno.\nun solo color 12 segmentos\n\nun solo color 20 segmentos\n\nColor de capa pegado 20 segmentos.\n\nImprime los 12 segmentos al principio, es decir, alrededor de media hora y algunos gramos para probar si tu impresora puede hacerlo.\n¡Multicolor tarda sólo 2 horas y es mucho más satisfactorio!\n\nSi las articulaciones se sienten ligeramente rígidas después de imprimir, flexione suavemente cada segmento unas cuantas veces para liberar completamente el movimiento.\nMire el vídeo de demostración a continuación para ayudarle mejor:\n\nSI TIENE PROBLEMAS CON TODOS LOS SEGMENTOS COMPLETAMENTE APILADOS, SIGA ESTE CONSEJO DE BenRussoUSA\n\nDiseñé este modelo para que fuera simple, confiable y agradable de imprimir. Si te gusta, considera dejar una calificación, compartir tu marca o publicar una foto de tu versión impresa. Sus comentarios ayudan a mejorar los diseños futuros.\n\n¡Feliz impresión!\n\nagregado en nuestra colección de juguetes y juegos:",
+ "use_cases": [],
+ "tags": [
+  "serpiente",
+  "juguete",
+  "agitarse",
+  "lugar de impresión"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5a45a9e6b9c4f1/design/c8ad387f172453be.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.webp",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.gif",
+  "previews/10.gif",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.webp": [
+   400,
+   533
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/07.jpg": [
+   1000,
+   752
+  ],
+  "previews/08.jpg": [
+   1000,
+   752
+  ],
+  "previews/09.gif": [
+   800,
+   600
+  ],
+  "previews/10.gif": [
+   800,
+   599
+  ],
+  "previews/11.jpg": [
+   1000,
+   1328
+  ],
+  "previews/12.jpg": [
+   1000,
+   1328
+  ],
+  "previews/13.jpg": [
+   1000,
+   1328
+  ],
+  "previews/14.jpg": [
+   1000,
+   752
+  ],
+  "previews/15.jpg": [
+   1000,
+   752
+  ],
+  "previews/16.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3391586.jpg": [
+   796,
+   600
+  ],
+  "previews/profiles/3563150.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3434778.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3391625.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3391620.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

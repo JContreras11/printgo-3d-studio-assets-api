@@ -1,0 +1,654 @@
+{
+ "files": [
+  {
+   "path": "model/planeadores-bolsillo-2h.3mf.xz",
+   "instance_id": "3366002",
+   "thumbnail": "previews/profiles/3366002.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 4,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A1",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "9.5 mm wheels",
+    "creation_date": "2026-07-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1691692,
+   "sha256": "817a22f077d2d52316a3882e0fb316b0913dfefccd1bf90594040ba3c6415ced",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-12min.3mf.xz",
+   "instance_id": "3366788",
+   "thumbnail": "previews/profiles/3366788.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "P2S",
+    "A1",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "STRONGER BEARING CAP",
+    "creation_date": "2026-07-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "50%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1384476,
+   "sha256": "d86bfdde646dea4577dff47b128d64cd900b2fa89952558d486f0a80b04e3a12",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-1h06.3mf.xz",
+   "instance_id": "3375908",
+   "thumbnail": "previews/profiles/3375908.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "A1",
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Optimised for 8mm steel balls from Beginner Hardware Kit",
+    "creation_date": "2026-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "35%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1576264,
+   "sha256": "bb0087f16e83a8d647ad349dbb5570d3e6af7beb66da921ad0ff1daa0b3f268b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-1h12.3mf.xz",
+   "instance_id": "3366099",
+   "thumbnail": "previews/profiles/3366099.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 45,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A1",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Print In Place wheels",
+    "creation_date": "2026-07-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1680880,
+   "sha256": "ba4262035cf656d83146cdeec45a7d46097ab82ecc45587d41dbe3fcce53821f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-1h36.3mf.xz",
+   "instance_id": "3778954",
+   "thumbnail": "previews/profiles/3778954.jpg",
+   "print_time_h": 1.6,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Version with printable wheels and no supports",
+    "profile_notes": "Assemble the wheels with a piece of 1.75 mm filament and/or super glue.",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1814712,
+   "sha256": "9da15af3826146696c9fb5634d1d31f918cf0ee634f3cee64c3832d0878c6312",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-24min.3mf.xz",
+   "instance_id": "3476172",
+   "thumbnail": "previews/profiles/3476172.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "DRIFTING CONES! NO AMS! ALL PRINTERS!",
+    "profile_notes": "0.24mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-08-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1421080,
+   "sha256": "973754b8ec3707751a25aba191c6aaba2d9bc46079eeeb62214afdf8eebffb72",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-2h06.3mf.xz",
+   "instance_id": "3707886",
+   "thumbnail": "previews/profiles/3707886.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "RealmRomer-PocketGlider",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1836688,
+   "sha256": "256d82881f74d2bd18778b9e2d1e0f26ecb49c2abc13a601e0946ae29d5602a0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-2h12.3mf.xz",
+   "instance_id": "3501403",
+   "thumbnail": "previews/profiles/3501403.jpg",
+   "print_time_h": 2.2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "X1",
+    "P1P",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "PocketGame- A game for PocketGliders",
+    "creation_date": "2026-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1527952,
+   "sha256": "27f5067a8c77d6b0d1785b884d1038cc286c10b5a6d9b42bc5e6a0260bb21bfd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-2h18.3mf.xz",
+   "instance_id": "3592570",
+   "thumbnail": "previews/profiles/3592570.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X1E",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "P1S",
+    "A2L",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "bmw m4 version 0.12mm layer, 3 walls, 15% infill",
+    "profile_notes": "I would mainly highly recommend support, but you might have to speed up and minimize slow down time in the filiments section. also the spoiler needs some work, sometimes failing no matter how hard i try and fix it. I might just have to make a whole diff spoiler 3mf if i have to. anyway, hope you enjoy it :) pls tell me if it is not working so i can fix it :)",
+    "creation_date": "2026-08-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1637548,
+   "sha256": "a21b9e3edfe22702fd80bc9ee70ea3c3150090be84300e41b3e4664e2ba1c9ab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-42min.3mf.xz",
+   "instance_id": "3458967",
+   "thumbnail": "previews/profiles/3458967.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "A1 mini",
+    "X2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "6MM WHEELS VERSION - GloryGliderI",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1563856,
+   "sha256": "a5f559ee2fffefdc513c2be6d8a34f3faafeb2474b3ee465bef0ef4d6c894242",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-48min.3mf.xz",
+   "instance_id": "3506655",
+   "thumbnail": "previews/profiles/3506655.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "P2S",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "10.51mm POM wheels",
+    "creation_date": "2026-07-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1542360,
+   "sha256": "75f8364e66eea0bf65d8c6d2d3ac425e68592ae2cf6e85d90302e34fd5f8fc4f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/planeadores-bolsillo-6h30.3mf.xz",
+   "instance_id": "3436154",
+   "thumbnail": "previews/profiles/3436154.jpg",
+   "print_time_h": 6.5,
+   "plates": 4,
+   "rating": 4.5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "A1 mini",
+    "X2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Dextrous Drifter V1(HAS PRINT IN PLACE AND EXTERNAL WHEELS)",
+    "profile_notes": "PLS PRINT BEARING CAP PRINT PROFILE WITH THIS MODEL!! THIS IS MADE FOR 10.51MM POM/ANY OTHER MATERIAL BALLS PLS print print in place version is you do not have 10.51/10.50mm balls Edit* Added 9.5mm wheel editions",
+    "creation_date": "2026-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2149640,
+   "sha256": "016046750b00a8c8219f318865ee73255e608cbdce85d03841fc206ecb9e6af2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2998322",
+ "title": "Planeadores de bolsillo",
+ "slug": "pocketgliders",
+ "url": "https://makerworld.com/en/models/2998322-pocketgliders",
+ "author": "MiniMankey",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Planeador de bolsillo\n¡Sé tu rey de la deriva!\nEl Pocket Glider es un coche de deriva del tamaño de la palma de la mano diseñado para una diversión infinita en el escritorio y la mesa. Simplemente coloque el dedo en el cojinete montado en el capó y empújelo: el automóvil se desliza suavemente mientras se desvía sin esfuerzo en las esquinas.\nCaracterísticas\nDiseño compacto de bolsillo\nRodamiento de bolas montado en el capó para un control suave con los dedos\nDerrape fácil en superficies planas\nCuerpo duradero impreso en 3D\nIdeal para juegos de escritorio, inquietudes y desafíos amistosos de deriva.\nVariantes disponibles\nEdición estándar\nRuedas ligeras impresas en 3D\nDerrape suave y controlado\nEconómico\nEdición Premium\nRuedas metálicas de precisión.\nMayor impulso para derrapes más largos y suaves\nSensación y durabilidad premium\nPerfecto para\njuguetes de escritorio\nEntusiastas de la inquietud\nAmantes de los coches\nRegalos\nCompeticiones de mini drift\n\n\"Deslizarse. Deriva. Repetir\".",
+ "use_cases": [],
+ "tags": [
+  "chirria",
+  "deriva",
+  "juguete",
+  "divertido",
+  "nuevo",
+  "de oficina",
+  "rápido",
+  "cojinete",
+  "auto",
+  "construir"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US12f5a139839d83/design/324dc2320b3366bb.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.gif",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1250
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.gif": [
+   800,
+   1066
+  ],
+  "previews/08.png": [
+   1000,
+   401
+  ],
+  "previews/09.png": [
+   1000,
+   401
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3366002.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3366788.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3375908.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3366099.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3778954.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/3476172.jpg": [
+   600,
+   776
+  ],
+  "previews/profiles/3707886.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3501403.jpg": [
+   600,
+   848
+  ],
+  "previews/profiles/3592570.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3458967.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3506655.jpg": [
+   600,
+   391
+  ],
+  "previews/profiles/3436154.jpg": [
+   600,
+   240
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

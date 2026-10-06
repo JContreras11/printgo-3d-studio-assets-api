@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/bob-esponja-multicolor-2h.3mf.xz",
+   "instance_id": "3568973",
+   "thumbnail": "previews/profiles/3568973.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 51,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "P2S",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "ams多色打印",
+    "creation_date": "2026-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 11447744,
+   "sha256": "86ce529b6a12f0bc763052fdde41a22e391e97890d15ebdd0d7f210e039ffeb9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3158402",
+ "title": "Bob Esponja Clicker ¡Juguete clicker súper antiestrés!",
+ "slug": "spongebob-clicker-super-fidget-clicker-toy",
+ "url": "https://makerworld.com/en/models/3158402-spongebob-clicker-super-fidget-clicker-toy",
+ "author": "BAKU_BUG",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Bob Esponja Clicker Juguete antiestrés impreso en 3D\n¡Lleva la alegría de Bikini Bottom al mundo real!\nEsta vez, he rediseñado el personaje clásico Bob Esponja en un pequeño juguete interactivo: un clicker simple y divertido que no puedes evitar seguir presionando.\nNo solo puede servir como adorno de escritorio, sino también como elemento impreso en 3D adecuado para coleccionar y jugar.\nPiezas necesarias: Teclado cruzado Switch x1",
+ "use_cases": [],
+ "tags": [
+  "clicker 2026",
+  "agitarse",
+  "bob esponja",
+  "juguete antiestrés",
+  "taconeador",
+  "botón",
+  "ams",
+  "personaje animado",
+  "divertido",
+  "interacción",
+  "juguete"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5a806f42530e89/design/2175ec6b48ad00d1.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1332
+  ],
+  "previews/profiles/3568973.jpg": [
+   600,
+   449
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

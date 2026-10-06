@@ -1,0 +1,474 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-plegable-22h36.3mf.xz",
+   "instance_id": "1288278",
+   "thumbnail": "previews/profiles/1288278.jpg",
+   "print_time_h": 22.6,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2S",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "AMS-Support for PLA - 0.15mm layer, 2 walls, 15% infill",
+    "profile_notes": "ONLY use with “Support for PLA” or “Support for PLA/PETG” as interface material. Profile 2: AMS-Support for PLA - The best surface with easy to remove supports. 3pcs in one plate. Support interface printed with “Support for PLA” -material.",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.15",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 80377,
+      "weight_g": 176.83,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AE96D4"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       },
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       },
+       {
+        "type": "PLA-S",
+        "color": "#00000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 17247936,
+   "sha256": "72a568d98934b3cd5cbed850487906171fbd022025e7810cbb76f18cd45b1efb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-plegable-13h30.3mf.xz",
+   "instance_id": "1288304",
+   "thumbnail": "previews/profiles/1288304.jpg",
+   "print_time_h": 13.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2S",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "AMS - 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Profile 3: AMS - Three colors but without dedicated interface support material. Less supports that are still easy to remove with okay supported surface quality.",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 48818,
+      "weight_g": 106.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AE96D4"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       },
+       {
+        "type": "PLA",
+        "color": "#F99963"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 18606676,
+   "sha256": "96b263ca6ec90d5d1dfb1f800e4848350feaea61cf8250058fcf79b3768d7340",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-plegable-1h06.3mf.xz",
+   "instance_id": "1288920",
+   "thumbnail": "previews/profiles/1288920.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "No support ! No AMS ! BUT ... Glue",
+    "profile_notes": "Attention profil un peu particulier : Le fidget a été découpé en 6 morceaux qu'il faut ensuite recoller pour obtenir le résultat attendu. Si vous ne vous sentez pas capable de faire cela, n'imprimer pas ce profil. Cela permet de se passer de support et d'AMS (je l'ai néanmoins utilisé pour une impression par objet sur un seul plateau, si vous ne possédez pas d'AMS il suffit d'imprimer les 3 parties sur 3 plateaux différents et pourquoi pas essayer une version à 6 couleurs !) Des cubes ont été ajouté de chaque coté pour simplifier l'alignement. Attention le “cube” est moins haut que large, il faut l'insérer dans le sens le moins haut. J'ai simplement utilisé le profil 0.16 optimal. Avec du filament bambulab, le n'ai eu aucun problème. Ainsi l'impression prends un peu plus d'une heure seulement !",
+    "creation_date": "2025-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4319,
+      "weight_g": 16.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7393148,
+   "sha256": "b49e3f6a278ce8964cc3c500ee0140b41827e6d11d24b8db2c4214f8974a438c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-plegable-1h30.3mf.xz",
+   "instance_id": "1292450",
+   "thumbnail": "previews/profiles/1292450.jpg",
+   "print_time_h": 1.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "6 colors with GLUE",
+    "profile_notes": "Attention profil un peu particulier : Le fidget a été découpé en 6 morceaux qu'il faut ensuite recoller pour obtenir le résultat attendu. Si vous ne vous sentez pas capable de faire cela, n'imprimer pas ce profil. Imprimer en 6 couleurs, un effet étonnant apparait en le manipulant : les couleurs n'alternent pas à chaque tour mais tous les deux tours ! ATTENTION : bien réfléchir a vos couleurs avant, les deux parties n'étant pas parfaitement identique. Un objet “LEFT” va uniquement avec un objet “RIGHT” (vérifier le nom dans les objets). L'impression peut échouer avec un filament mal réglé. Je n'ai pas eu de problème avec du filament Bambulab et leurs profils configurés.",
+    "creation_date": "2025-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3494,
+      "weight_g": 11.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       },
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF9016"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1898,
+      "weight_g": 5.67,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0086D6"
+       },
+       {
+        "type": "PLA",
+        "color": "#EC008C"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7954320,
+   "sha256": "d0615f75c507fcbd98f18a6303272883e8e9dc8a6dda5bdb38ae91848e0e7de3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-plegable-monocolor-1h36.3mf.xz",
+   "instance_id": "1288310",
+   "thumbnail": "previews/profiles/1288310.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 520,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2S",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2D",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Single Color - 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Profile 1: Single Color - Single material print. Less supports that are still easy to remove with okay supported surface quality.",
+    "creation_date": "2025-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6017,
+      "weight_g": 16.2,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#43403D"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Monocromo impresión en PLA",
+   "size": 18187156,
+   "sha256": "aa0ade208e5ba27ded876ba253fcefc346436a391938caab7f4ffefd78b1ad45",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-plegable-multicolor-1h30.3mf.xz",
+   "instance_id": "1292654",
+   "thumbnail": "previews/profiles/1292654.jpg",
+   "print_time_h": 1.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "X1",
+    "A1",
+    "H2D",
+    "H2S",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Two Color GLUED - 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Two color version without AMS. Read instructions for assembly! Video of assembly in profile pictures. Print the two plates with two different colors. Remove the parts carefully, they are easy to break in unglued state. I suggest using smooth or cool plate to minimize visible gap between the parts. Assemble the fidget without glue first. Use the cubes as alignment aid. Add pieces of tape to hold the parts in place if this feels tricky. You may now add superglue between the parts one pair at a time with a toothpick or similar and wait for them to set before moving to the next pair of parts. You may also attempt to glue it in pieces during assembly but be sure to know how to complete the assembly without missing any parts from between. Video of assembly in profile pictures.",
+    "creation_date": "2025-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2821,
+      "weight_g": 9.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#7D6556"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2821,
+      "weight_g": 9.11,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#68724D"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3392140,
+   "sha256": "3e32124b3854d6f2a700c26f450c519483cb0511ce3f2d74ac929dac9a04779c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1263152",
+ "title": "antiestrés plegable infinito",
+ "slug": "infinite-foldagon-fidget",
+ "url": "https://makerworld.com/en/models/1263152-infinite-foldagon-fidget",
+ "author": "Viltsu",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este fue un diseño alucinante para conceptualizar y modelar; considere dejar un Boost para mostrar soporte para modelos gratuitos de alta calidad como este. ¡Deje una calificación positiva cuando su impresión sea exitosa! Estaré feliz de poder ayudarte si tienes algún problema:)\n\nEl juguete antiestrés definitivo: Foldagon se pliega infinitamente sobre sí mismo con un movimiento suave y continuo. Este diseño utiliza sólo tres piezas idénticas entrelazadas, pero crea fascinantes patrones repetitivos a medida que se abre y se cierra en un bucle sin fin. Hasta ahora he oído que a la gente le recuerda a serpientes peleando, flores floreciendo, extraterrestres abriendo la boca y mirando por un caleidoscopio. ¿A qué te recuerda?\nMembresíaApoye y únase para obtener una licencia comercial aquíImprimir:\nEste caleidociclo fácil de imprimir no es exigente con los filamentos. Probado para funcionar bien con PLA Basic, PLA Matte y PLA Metal. Si imprime con soportes del mismo material, elija un filamento del que sepa que puede quitar los soportes limpiamente.\n\n¡Elige un perfil, imprime, elimina los soportes y disfruta! No es necesario realizar un rodaje una vez que los soportes se retiran por completo.\nProf. 1: Monocolor - Impresión monomaterial. Menos soportes que aún son fáciles de quitar con una buena calidad de superficie de soporte.\nProf. 2: AMS-Support for PLA - La mejor superficie con soportes fáciles de quitar. 3 piezas en un plato. Interfaz de soporte impresa con material “Support for PLA”.\nProf. 3: AMS - Tres colores pero sin material de soporte de interfaz dedicado. Menos soportes que aún son fáciles de quitar con una buena calidad de superficie de soporte.\nPara diferentes variaciones multicolores que no sean de AMS, consulte los perfiles de impresión de Bichopebitou y yo, pero lea las instrucciones específicas del perfil.\n\nConsejos para quitar los soportes: corte los soportes del árbol por la mitad con unos alicates y luego retire la balsa. Rompa los soportes restantes girándolos y haciendo palanca con una hoja sin filo o un destornillador. Deje el centro al final; la pequeña parte del interior de la impresión se caerá una vez que comience a doblar la impresión hacia adelante y hacia atrás.\nImpulsame¿Te gusta esta impresión? Mira mis otros diseños y considera dejar un impulso, ¡ayuda mucho y se agradece cada uno! ¡Gracias! También echa un vistazo a estas increíbles impresiones:\nPro Cutter V2 para filamentos y tubos de PTFE Infinite Pop-Up EVO antiestrés ToyOMNIBOT: CyberBrick All-direction ExplorerBB-8 RC BotInfinite Cogs Magnetic FidgetShape Changing Marble antiestrés",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "girar",
+  "cinético"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc63a36b8044ca1/design/2025-04-24_c50584a2890aa8.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.png",
+  "previews/04.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.gif": [
+   800,
+   600
+  ],
+  "previews/03.png": [
+   1000,
+   743
+  ],
+  "previews/04.gif": [
+   800,
+   640
+  ],
+  "previews/profiles/1288278.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1288304.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1288920.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1292450.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1288310.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1292654.jpg": [
+   600,
+   446
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

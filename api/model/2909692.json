@@ -1,0 +1,568 @@
+{
+ "files": [
+  {
+   "path": "model/mantarraya-deslizante-3h12.3mf.xz",
+   "instance_id": "3265104",
+   "thumbnail": "previews/profiles/3265104.jpg",
+   "print_time_h": 3.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 275,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2D",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "H2S",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Monochrome printing",
+    "creation_date": "2026-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 9354496,
+   "sha256": "38cde5d1f491f1dc89ba60417bfe6ea73b7d651fedda532d900436858bc7fa2f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-12h18.3mf.xz",
+   "instance_id": "3430438",
+   "thumbnail": "previews/profiles/3430438.jpg",
+   "print_time_h": 12.3,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X2D",
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "X1",
+    "P1P",
+    "P2S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 6 walls, 15% infill",
+    "profile_notes": "My kids loved the original sooo much I decided to go big or go home with this remix. All I did was split the parts up and fit them (reoriented the main body and the fins) on 4 separate plates then did a uniform scale of 185% for all pieces. This was printed on my P1S using Bambu Translucent Blue PLA without any failure. A permanent marker was used for the eyes. This guy glides a further distance. All thanks goes out to the original maker of this cool model for fun in the sun (above ground pool)! 30 July 2026: I've added a photo showing how acrylic permanent markers were used to customize the coloring to add a unique (subtle) touch for only a slighter ability to see the guy glide in the water; a single googly eye was added using JB Weld Clear Epoxy (also coated the outside of the googly eye for waterproof using the epoxy). I allowed both the acrylic marker and epoxy to dry/settle for more than 24 hours per the instructions. After MANY uses in the pool all unique touches remain the same as initially designed / painted. Highly recommend doing exactly what I did but customize it how you want it!",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 9766392,
+   "sha256": "cd1ed4d4339ce9bc3f5428ee072ee62ef0a2593bad8c3840ea7bad118da7e6e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-3h24.3mf.xz",
+   "instance_id": "3285841",
+   "thumbnail": "previews/profiles/3285841.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2S",
+    "A2L",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "HQ Profile - 0.2mm layer, 2 walls, 15% gyroid infill",
+    "profile_notes": "clean and easy print without brim or support, slowed down first layer for better adhesion, arachne wall generator",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9678632,
+   "sha256": "82965e4ce6210ef509dc3e600702471bd128086de849567f7f66d494817e5fc6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-4h06.3mf.xz",
+   "instance_id": "3474044",
+   "thumbnail": "previews/profiles/3474044.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "A2L",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P1P",
+    "A1",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "1 plate bath size",
+    "profile_notes": "My son wanted another one for the bath , have also optimized the print for PLA",
+    "creation_date": "2026-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9640732,
+   "sha256": "78fb189376f95eec51deb4c655baa920eb3ba5842c088e6e6533d38c26877cea",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-5h12.3mf.xz",
+   "instance_id": "3543989",
+   "thumbnail": "previews/profiles/3543989.jpg",
+   "print_time_h": 5.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2C",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2S",
+    "P2S",
+    "P1S",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "一盘打印缩小版",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9455924,
+   "sha256": "2490c508f51a49da4fa16b100d2099c259f7ae77b6af34574913f747a03009ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-6h42.3mf.xz",
+   "instance_id": "3265177",
+   "thumbnail": "previews/profiles/3265177.jpg",
+   "print_time_h": 6.7,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 29,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X2D",
+    "X1",
+    "P2S",
+    "A1",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "P1S",
+    "H2D",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "All printers compatible (Manual Color Swap with pauses)",
+    "creation_date": "2026-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 7570076,
+   "sha256": "38dee6be4bb1b988196531a01d15ef995c830f323f9605609b497e2557ce3f6d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-7h48.3mf.xz",
+   "instance_id": "3259229",
+   "thumbnail": "previews/profiles/3259229.jpg",
+   "print_time_h": 7.8,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 324,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "A1",
+    "P1S",
+    "X1E",
+    "X2D",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "All printers compatible (AMS version)",
+    "creation_date": "2026-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 9478092,
+   "sha256": "f4cd07a83abccf3da02be1cd5c7c2cd36e9a656ccc6a1f2b5906bf36fe0160f3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-monocolor-2h48.3mf.xz",
+   "instance_id": "3352305",
+   "thumbnail": "previews/profiles/3352305.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 21,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2S",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2C",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "One-piece, single-color - FASTEST VERSION :)",
+    "creation_date": "2026-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 9323020,
+   "sha256": "d85a5d0e2d02a64d047f4d1eaad923891a4d78804ca3f7a5120ed68c2937a350",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-multicolor-5h30.3mf.xz",
+   "instance_id": "3254153",
+   "thumbnail": "previews/profiles/3254153.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 59,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2D",
+    "H2D Pro",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "H2C Optimized Multi-Color Profile",
+    "creation_date": "2026-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 9754364,
+   "sha256": "44b4e38afc59eaf24b662e5a3ac5ef13de59ef05c487b70107ca8e43d62f21a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-multicolor-6h54.3mf.xz",
+   "instance_id": "3264941",
+   "thumbnail": "previews/profiles/3264941.jpg",
+   "print_time_h": 6.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 54,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Articulated Stingray - Multi-Color Optimized",
+    "profile_notes": "This profile has been meticulously fine-tuned specifically for this articulated multi-color model. The default settings have been adjusted to ensure the print-in-place hinges articulate freely right off the build plate, and the dual-color surface details remain crisp and clean. Key Optimization Changes: Wall Generator: Arachne (Changed from Classic) The Arachne engine dynamically adjusts line width during slicing. This produces cleaner perimeters around the intricate white spots and the delicate hinge mechanisms, eliminating tiny gaps and ensuring tighter surface details without over-extrusion. Order of Walls: Outer/Inner (Changed from Inner/Outer) Printing the outer wall first locks in the exact external dimensions of the model. This is essential for print-in-place articulated joints, ensuring the tolerances remain precise so the segments do not fuse together and can move freely immediately. Avoid Crossing Wall: Enabled (Changed from Disabled) Forcing the nozzle to travel within the boundaries of the printed parts rather than across empty space drastically reduces stringing. This prevents dark filament streaks from oozing and ruining the bright white spots on the stingray's back. Initial Layer Speed: Slower extrusion on the very first layer gives the filament more time to bond securely with the build plate. Articulated models have many small, disconnected first-layer footprints that are prone to detaching and failing if printed too quickly.",
+    "creation_date": "2026-06-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 9534132,
+   "sha256": "69d6a7912f9641e182b5d7007aa2d6267381684ed1592c7259993d5fdabc1046",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mantarraya-deslizante-multicolor-7h24.3mf.xz",
+   "instance_id": "3256241",
+   "thumbnail": "previews/profiles/3256241.jpg",
+   "print_time_h": 7.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "X2D",
+    "P1S",
+    "P1P",
+    "H2S",
+    "H2C",
+    "P2S",
+    "A2L",
+    "A1",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "All Printers Full Color",
+    "creation_date": "2026-06-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 9690572,
+   "sha256": "02d853f0c26c09238aaab10662ba3172411295c8dc58318dde3f3dda060b2a8d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2909692",
+ "title": "Mantarraya deslizante: ¡simplemente déjate caer y listo!",
+ "slug": "gliding-manta-ray-just-drop-go",
+ "url": "https://makerworld.com/en/models/2909692-gliding-manta-ray-just-drop-go",
+ "author": "Armengol13",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Juguetes al aire libre",
+ "description": "Déjalo caer en el agua... y observa cómo se desliza como una mantarraya real.\n\nDa vida al océano con este juguete interactivo de mantarraya deslizante.\nCuando lo dejas caer al agua, se eleva suavemente y “nada” hacia adelante, imitando el movimiento natural de una manta raya en el mar. Sin motores ni electrónica, sólo física pura y diseño inteligente.\n\nPerfecto para:\njuego de agua para niños\nExperimentos en piscina\nDemostraciones educativas STEM\nVisualización relajante del movimiento cinético\nEntusiastas de la impresión 3D amantes de los juguetes funcionales\nManual de montaje: 'Piénsalo dos veces, imprime una vez':\n\ncomo funciona\nEl diseño está cuidadosamente equilibrado para que, cuando se sumerge, el aire atrapado + la flotabilidad + la interacción de la forma con el agua crean un movimiento de deslizamiento suave hacia adelante a medida que regresa a la superficie.\n\nAjusta las \"alas\" para controlar cómo se desliza; cambia su dirección y velocidad con un simple ajuste.\n\nImprimir notas\nNo se requieren soportes\nMaterial recomendado: PLA / PETG (PETG mejora la durabilidad)\nConsejos profesionales\nPara mejorar la resistencia al agua y la durabilidad a largo plazo, aplique 1 o 2 capas ligeras de barniz transparente al cuerpo principal.\nSi prefiere no tratarlo, simplemente déjelo secar en un lugar donde el agua atrapada pueda drenar de manera segura después de su uso.\nEsto no es sólo un modelo, es una mini experiencia de física submarina.",
+ "use_cases": [],
+ "tags": [
+  "mantas",
+  "juguete de agua",
+  "juguete para nadar",
+  "juguete impreso en 3d",
+  "juguete cinético",
+  "juguete de física",
+  "juguete de tallo",
+  "modelo acuático",
+  "juguete flotante",
+  "juguete de piscina",
+  "juguete de baño",
+  "juguete interactivo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US259ca5a3154f29/design/8616a881467b2a5e.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   678
+  ],
+  "previews/02.jpg": [
+   1000,
+   654
+  ],
+  "previews/03.jpg": [
+   1000,
+   675
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3265104.jpg": [
+   600,
+   323
+  ],
+  "previews/profiles/3430438.jpg": [
+   600,
+   408
+  ],
+  "previews/profiles/3285841.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3474044.jpg": [
+   600,
+   391
+  ],
+  "previews/profiles/3543989.jpg": [
+   600,
+   357
+  ],
+  "previews/profiles/3265177.jpg": [
+   600,
+   407
+  ],
+  "previews/profiles/3259229.jpg": [
+   600,
+   405
+  ],
+  "previews/profiles/3352305.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3254153.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3264941.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3256241.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

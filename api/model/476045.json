@@ -1,0 +1,181 @@
+{
+ "files": [
+  {
+   "path": "model/transformando-bola-51h54.3mf.xz",
+   "instance_id": "386925",
+   "thumbnail": "previews/profiles/386925.jpg",
+   "print_time_h": 51.9,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 95,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "H2D",
+    "X1E",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": ".2 mm layer height Uses supports",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 185006,
+      "weight_g": 1145.68,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 7887488,
+   "sha256": "e5474af534e196bcc63406c8df1f4fa8be7e8342259ec0308afbb9f76c70d8bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/transformando-bola-51h18.3mf.xz",
+   "instance_id": "1216606",
+   "thumbnail": "previews/profiles/1216606.jpg",
+   "print_time_h": 51.3,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "A2L",
+    "P1S",
+    "A1",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2C",
+    "P1P",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "This is a bit smaller and fits on a a1 Mini 350g",
+    "creation_date": "2025-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 186411,
+      "weight_g": 1155.83,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 7722692,
+   "sha256": "cc88e80dfdf9ae0f2445cfc88052a7bdc44aad518fcbd68229b52e8c8fdbdc23",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "476045",
+ "title": "Transformando la bola antiestrés",
+ "slug": "transforming-fidget-ball",
+ "url": "https://makerworld.com/en/models/476045-transforming-fidget-ball",
+ "author": "macjfll",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Esta es una versión 3D del popular antiestrés transformador que, cuando es más compacto, es una bola pero se puede aplastar hasta formar un haz largo.\n\nLa versión mini ya está disponible.\n\nLa versión micro se puede encontrar aquí.\n\nBoost Me ¿Disfrutaste el modelo? Un pequeño impulso es de gran ayuda: ¡gracias por el apoyo! Membresía Si desea vender mis modelos, puede comprar una licencia comercial aquí.",
+ "use_cases": [],
+ "tags": [
+  "estirar",
+  "agitarse",
+  "juguete",
+  "frío",
+  "lugar de impresión",
+  "imprimir",
+  "entrelazado",
+  "transformando",
+  "doblar",
+  "cerrar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-05-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3a7e7bde835e11/design/2024-05-26_ecf9a9c03850c8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/386925.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1216606.jpg": [
+   447,
+   414
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

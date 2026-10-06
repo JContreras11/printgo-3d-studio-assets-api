@@ -1,0 +1,514 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-multifidget-2h.3mf.xz",
+   "instance_id": "3846319",
+   "thumbnail": "previews/profiles/3846319.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2S",
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "A2L",
+    "X2D",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "参数优化，提高打印效率",
+    "creation_date": "2026-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1910084,
+   "sha256": "b78b96474bdcc07e0ec9187595c5a875200120171f33e8234c3fbc04f4fd18b8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-2h06.3mf.xz",
+   "instance_id": "3806301",
+   "thumbnail": "previews/profiles/3806301.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "参数优化，加快一点打印速度",
+    "creation_date": "2026-07-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1908044,
+   "sha256": "63f56cc9fa50bd480aee3c3309acecb4570f5038b1cfe94a43a83aaa3b9761bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-2h18.3mf.xz",
+   "instance_id": "3555530",
+   "thumbnail": "previews/profiles/3555530.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "顶面优化版，部分使用同心图案，0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "顶面线宽0.3mm，更多细节。 部分圆形顶面使用同心图案。",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2253344,
+   "sha256": "0448ed3ae5c5c934635ed8680dcab540168cb32bccc19122756233c5cc2b7190",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-2h36.3mf.xz",
+   "instance_id": "3443833",
+   "thumbnail": "previews/profiles/3443833.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2C",
+    "X1E",
+    "H2D",
+    "P1S",
+    "H2S",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "A2L",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "One color - high quality - 0.2mm layer, 2 walls, 9% infill",
+    "profile_notes": "One color - high quality 2h 34min, 42,19g improved parameters for quality",
+    "creation_date": "2026-07-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "9%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1945004,
+   "sha256": "b062c7e1e8543e57f240294d4dc05b486891821c3f5e5adf46a51c99ed221b74",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-3h.3mf.xz",
+   "instance_id": "3451199",
+   "thumbnail": "previews/profiles/3451199.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "X2D",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2C",
+    "H2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Optimised for A1",
+    "creation_date": "2026-07-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1920528,
+   "sha256": "34651f11946e9c025f780d372d035c625fc166470bd60ca9ec1670ef2eae1a25",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-4h48.3mf.xz",
+   "instance_id": "3462938",
+   "thumbnail": "previews/profiles/3462938.jpg",
+   "print_time_h": 4.8,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "H2C",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "A1",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Ultra-Smooth 0.08mm Extra Fine Profile|Crisp Details",
+    "profile_notes": "Ultra Smooth Finish: Optimized 0.08mm layer height virtually eliminates visible layer lines for a sleek, premium feel in your hand. Top-Layer Ironing: Enabled on top surfaces for a smooth, clean finish. Tuned Speeds: Slower outer walls reduce ghosting and ensure smooth, satisfying surface textures. Strong and Accurate: Balanced perimeter and infill settings maintain tight tolerances so moving parts fit and spin smoothly. Tested and Ready: Pre-configured and tested for clean overhangs and hassle-free printing.",
+    "creation_date": "2026-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2004460,
+   "sha256": "e83c0cf2d22ca5b7013dbe0d190909bb5b06c4d110ffb46d972be22db27109c0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-5h24.3mf.xz",
+   "instance_id": "3494870",
+   "thumbnail": "previews/profiles/3494870.jpg",
+   "print_time_h": 5.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "modelo españa",
+    "creation_date": "2026-07-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2010120,
+   "sha256": "1280dbd986bbb95344ba8718fe3be44c3d973a2d9ed166f7f7be3419c8aca33b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-multicolor-1h54.3mf.xz",
+   "instance_id": "3392571",
+   "thumbnail": "previews/profiles/3392571.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 230,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P2S",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "P1S",
+    "X1E",
+    "H2S",
+    "H2D",
+    "X2D",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Dual color, Optimized filament and time consumption",
+    "profile_notes": "Faster print, less filament , and stronger ! Instead of having two thin walls, there is now one thick wall which takes less time and is stronger. Color switch to add contrast.",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2112324,
+   "sha256": "686f268fd46336c86be2e226a549b1421bb8999861dba4f00c885eb15e350ffc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-multicolor-2h30.3mf.xz",
+   "instance_id": "3555551",
+   "thumbnail": "previews/profiles/3555551.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "H2D",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A1",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "多色的，顶面优化版，部分使用同心图案，0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "部分顶面涂色。 顶面线宽0.3mm，更多细节。 部分圆形顶面使用同心图案。",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2195728,
+   "sha256": "955ceba70bc323c20aa2894c4933f6632a4c273ef669f960ec921f95b4775028",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3012887",
+ "title": "Juguete multifidget definitivo 12 en 1 (impresión sin ensamblaje)",
+ "slug": "12-in-1-ultimate-multi-fidget-toy-print-in-place",
+ "url": "https://makerworld.com/en/models/3012887-12-in-1-ultimate-multi-fidget-toy-print-in-place",
+ "author": "AbyssalCactus",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este juguete antiestrés 12 en 1 reúne una docena de mecanismos cuidadosamente perfeccionados en un satisfactorio rectángulo impreso en el lugar. Con tantas opciones sobre con qué interactuar, las posibilidades de inquietud son realmente infinitas. Sin ningún orden en particular, este antiestrés incluye:\nHaga clic en la rueda\nPerilla de trinquete\nClicker de palanca\nEstallido de burbujas\npalanca de mando\nPulsador de botón\nHaga clic en diapositivas\nVoltear Switch antiestrés\nClicker de rueda interna\ngiroscopio de 3 anillos\nbotón vertical\n2 pines antiestrés\nEl modelo se imprime completamente en el lugar y sale de la placa de construcción listo para moverse sin necesidad de ensamblaje ni soporte. El Ultimate Multi antiestrés Toy 12 en 1 es la impresión perfecta para cualquiera que no pueda conformarse con un solo antiestrés, ya que incluye doce fascinantes mecanismos en un único y satisfactorio multifidget.\nBoost MeSi te gusta este modelo, ¡considera potenciarlo! Ayuda muchísimo:) Membresía ¿Quieres vender mis juguetes antiestrés impresos en 3D? ¡Forme parte de mi programa de membresía de licencia comercial! Instrucciones de impresión:\nPrepare la base de impresión Limpie minuciosamente la base de impresión con alcohol isopropílico para garantizar una adhesión adecuada.\n¡Se recomienda encarecidamente adhesivo adicional para la cama de impresión! Sugiero usar spray 3D-Lac o una barra de pegamento.\n\nDescargar el perfil de impresión\nEnvíe el perfil de impresión preconfigurado a su impresora Bambu Lab a través de la aplicación Bambu Handy o descargue y abra el perfil de impresión preconfigurado en Bambu Studio.\n\nSeleccione sus opciones de impresión Elija su tipo y color de filamento.\nSeleccione su tipo de cama de impresión (por ejemplo, texturizada o lisa).\nConfirme la configuración de su impresora, idealmente para una impresora Bambu Lab.\n\nIniciar impresiónComience el trabajo de impresión. No son necesarios soportes.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete inquieto",
+  "multi",
+  "grande",
+  "masivo",
+  "gigante",
+  "inquietud múltiple",
+  "último",
+  "12",
+  "12 en 1"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc20979a625bd/design/90d5df7063735dae.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.png": [
+   1000,
+   750
+  ],
+  "previews/09.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3846319.jpg": [
+   600,
+   627
+  ],
+  "previews/profiles/3806301.jpg": [
+   497,
+   438
+  ],
+  "previews/profiles/3555530.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3443833.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3451199.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3462938.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3494870.jpg": [
+   1024,
+   953
+  ],
+  "previews/profiles/3392571.jpg": [
+   600,
+   445
+  ],
+  "previews/profiles/3555551.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

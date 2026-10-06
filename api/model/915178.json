@@ -1,0 +1,372 @@
+{
+ "files": [
+  {
+   "path": "model/vortice-marmol-7h12.3mf.xz",
+   "instance_id": "876576",
+   "thumbnail": "previews/profiles/876576.jpg",
+   "print_time_h": 7.2,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 39,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "P1P",
+    "H2D",
+    "X1E",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "All 3 Parts 0.4mm Nozzle",
+    "creation_date": "2025-07-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.26",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4883684,
+   "sha256": "132169758b183c97deac98ce48b772ffd86f02d1034890506a26af165df8b834",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vortice-marmol-11h24.3mf.xz",
+   "instance_id": "949648",
+   "thumbnail": "previews/profiles/949648.jpg",
+   "print_time_h": 11.4,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "All Parts - 0.2 Layer - 0.4 Nozzle - Brim - Gyroid - 11.5h",
+    "profile_notes": "All 3 Parts 0.2mm Layer height 0.4mm Nozzle Brim on inside spiral 10% Gyroid 11.5h Print time I've slightly adjusted the parameters for a slightly smoother layering and better overhangs. Also changed Infill to Gyroid for a more efficient printing. Note: If you print in gradient filament remember that the inner spiral has to be turned 180° for the effect to match (I found out the hard way…)",
+    "creation_date": "2025-01-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 41167,
+      "weight_g": 321.96,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A7A9AA"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 5155468,
+   "sha256": "5db9f2630f3972adb254d4c92c2fdd8061f861a829a9b0095f935e9fa5391280",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vortice-marmol-18min.3mf.xz",
+   "instance_id": "1512301",
+   "thumbnail": "previews/profiles/1512301.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "A suggestion for the marbles - print in half and then click together. Can be printed without any problems, but require a little more pressure when assembling, for example by using pliers. But it worked quite well for me and holds together really well. However, before you clone hundreds of them, try it out with one example and scale the pen smaller if necessary.",
+    "creation_date": "2025-05-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 411296,
+   "sha256": "c7860a62e39833e9e874eb50e3e9627d83c4fd077080ed3ae22f357049b32e4b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vortice-marmol-1h.3mf.xz",
+   "instance_id": "876635",
+   "thumbnail": "previews/profiles/876635.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 3.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "9 Marbles 12mm",
+    "profile_notes": "These have 100% infill to make them roll a bit better.",
+    "creation_date": "2025-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.15",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3604,
+      "weight_g": 10.28,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 514716,
+   "sha256": "312d2a11a6aea9033f9aaf1692a97c10d9b6463875838073b2089c05388eb4ec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vortice-marmol-8h12.3mf.xz",
+   "instance_id": "876626",
+   "thumbnail": "previews/profiles/876626.jpg",
+   "print_time_h": 8.2,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "P1S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "A1 Mini .4 Nozzle",
+    "creation_date": "2025-07-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.26",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 4898676,
+   "sha256": "c4346caf01f9e9e14a6a069e5f4b683ce1535a278f51385ae4a20ef5391a85e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/vortice-marmol-9h.3mf.xz",
+   "instance_id": "914795",
+   "thumbnail": "previews/profiles/914795.jpg",
+   "print_time_h": 9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "All 3 parts w/ brim on screw, gyroid for ramp, temp bridging",
+    "profile_notes": "The screw has a habit of falling during print so I added a brim reduce failure risk. Changed just the ramp to gyroid infill and lowered the default temperature and increased fan settings to assist with the printing of bridging for the ramps. These settings allowed me to get a cleaner more reliable print, hope it can help someone else out if they are having any issues.",
+    "creation_date": "2025-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.26",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 32334,
+      "weight_g": 306.49,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#5E43B7"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 5035120,
+   "sha256": "ade78d8347aa11d317fb7d740643b29fc4bdc7b92fd7694bb21c2d2325b37667",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "915178",
+ "title": "El vórtice de mármol de retorno automático definitivo",
+ "slug": "the-ultimate-self-returning-marble-vortex",
+ "url": "https://makerworld.com/en/models/915178-the-ultimate-self-returning-marble-vortex",
+ "author": "Botannik",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este modelo se imprime prácticamente sin soportes, solo hay unos pocos árboles en la parte inferior de la rampa, pero incluso ellos son opcionales. He utilizado canicas impresas en 3D al diseñar esto y los archivos para ellas están incluidos en un perfil de impresión. Para ensamblar, simplemente coloque el motor TT en la ranura del soporte del motor, empuje el tornillo de Arquímedes hacia abajo en la rampa y sobre el eje del motor. Yo personalmente uso el controlador de velocidad que vende Bambu para que las canicas regresen aún más rápido pero esa parte es opcional. Este modelo debería funcionar con canicas de 10 mm a 15 mm, aunque lo he diseñado principalmente para canicas de 12-14 mm. Si decide imprimir las piezas sin utilizar los perfiles de impresión incluidos, le recomiendo utilizar un borde en el tornillo, ya que es propenso a caerse.\n\n¡Me encantaría ver a alguien imprimir esto en uno de los filamentos degradados de Bambu!\n\nSi te gustó este modelo, considera revisar mi antiestrés de caja de cambios diferencial\n\nImpulsameSi te gustan mis modelos, ¡considera darme un impulso!",
+ "use_cases": [],
+ "tags": [
+  "mármol",
+  "carrera de canicas",
+  "castillo",
+  "vórtice",
+  "emocionante",
+  "no ams",
+  "agitarse",
+  "juguete antiestrés",
+  "regalo",
+  "hilado",
+  "regalos",
+  "motor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USec403b08dfc321/design/2024-12-26_131cea4d64f14.gif",
+ "images": [
+  "previews/01.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   444,
+   592
+  ],
+  "previews/profiles/876576.jpg": [
+   260,
+   349
+  ],
+  "previews/profiles/949648.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1512301.jpg": [
+   600,
+   530
+  ],
+  "previews/profiles/876635.jpg": [
+   600,
+   269
+  ],
+  "previews/profiles/876626.jpg": [
+   444,
+   592
+  ],
+  "previews/profiles/914795.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

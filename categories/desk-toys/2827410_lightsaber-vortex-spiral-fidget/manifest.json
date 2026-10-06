@@ -1,0 +1,255 @@
+{
+ "files": [
+  {
+   "path": "model/sable-luz-9h06.3mf.xz",
+   "instance_id": "3149905",
+   "thumbnail": "previews/profiles/3149905.jpg",
+   "print_time_h": 9.1,
+   "plates": 3,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Lightsaber Vortex Spiral Fidget All Versions",
+    "profile_notes": "Print Notes AMS and Non-AMS Versions Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-05-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4724752,
+   "sha256": "2f5e493a382d62f233f5619c08cc235bf81ec5fb743a7b832c19fbea9af94350",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sable-luz-5h54.3mf.xz",
+   "instance_id": "3171215",
+   "thumbnail": "previews/profiles/3171215.jpg",
+   "print_time_h": 5.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Longer Saber on the Lightsaber and Scaled Down by 25%"
+   },
+   "name": "Versión grande",
+   "size": 6774808,
+   "sha256": "9f669c87098b8adcdae4e5d39378e1b8c1de4b1d8e3d7cd6025e613762fdc28c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sable-luz-monocolor-3h.3mf.xz",
+   "instance_id": "3149965",
+   "thumbnail": "previews/profiles/3149965.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Lightsaber Vortex Spiral Fidget Single-Color",
+    "profile_notes": "Print Notes AMS Not Needed Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-05-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 2707488,
+   "sha256": "bd0f05bafcbbc3b17f1df0707a6c6525a7f6678383f2f44d6ea85f3719fd70b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sable-luz-multicolor-3h.3mf.xz",
+   "instance_id": "3149930",
+   "thumbnail": "previews/profiles/3149930.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "P1P",
+    "A1",
+    "X2D",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Lightsaber Vortex Spiral Fidget Multi-Color For No AMS",
+    "profile_notes": "Print Notes AMS Not Needed (added pauses) Supports needed 0.2mm layer, 2 walls Update: Pause Glitch Has Been Fixed (pause is there now)",
+    "creation_date": "2026-06-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2770296,
+   "sha256": "136de70d405a9715cc961a9f67537a127fa5a333f6fc50683d7360dda697ab5d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2827410",
+ "title": "Sable de luz Vortex Espiral antiestrés",
+ "slug": "lightsaber-vortex-spiral-fidget",
+ "url": "https://makerworld.com/en/models/2827410-lightsaber-vortex-spiral-fidget",
+ "author": "Distel3D",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Entra en un Galaxy de inquietud sin fin con este antiestrés en espiral Lightsaber Vortex! Inspirado en los sables de luz de Star Wars, este diseño combina una elegante espiral de vórtice con una acción de giro satisfactoria con la que es divertido jugar. Mientras gira, la espiral crea un efecto visual sorprendente. Si eres fanático de Star Wars, te gusta coleccionar objetos antiestrés únicos o simplemente quieres una impresión divertida y llamativa, este modelo es ideal para ti. Es un calmante para el estrés perfecto o una pieza de exhibición para cualquier entusiasta de Star Wars. Esta impresión es ideal para cualquier persona, ya sea un principiante sin AMS o un experto con todos los conocimientos.\nCaracterísticas:\nDiseño de espiral de vórtice suave\nDiseño inspirado en sables de luz\nDiversión para girar, girar y moverse\nExcelente para aliviar el estrés y concentrarse\nImprime fácilmente y funciona directamente desde la impresora.\nVersiones AMS y No-AMS\nElige tu color favorito para la hoja.\nImprimir notas:\nFunciona muy bien con PLA\nPuedes usar PLA Glow para que la hoja obtenga una apariencia satisfactoria en la oscuridad.\nVersiones AMS y No-AMS\nVersiones multicolor y monocolor.\nSe necesitan soportes, pero son fáciles de quitar.\nSin torre principal\nEste modelo es una excelente impresión rápida que ofrece estilo y funcionalidad. Ya sea que lo imprimas con filamento brillante, colores duales, tonos metálicos o colores clásicos inspirados en sables de luz, luce increíble desde todos los ángulos.\nImpúlsame Si te gusta el modelo, considera dejar un me gusta, un comentario y un impulso. ¡Realmente ayuda a respaldar creaciones futuras y me permite seguir diseñando más modelos divertidos como este!\nAquí hay un enlace para un soporte para mostrar todos sus movimientos con sables de luz de Windig89:",
+ "use_cases": [],
+ "tags": [
+  "sable de luz",
+  "sable de luz completo",
+  "hoja de sable de luz",
+  "guerra de las galaxias",
+  "guerra de las galaxias sable de luz",
+  "sable de luz de la guerra de las galaxias",
+  "espada",
+  "cuchilla",
+  "agitarse"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3bf7a17622414e/design/0e75bffead0cf97d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.gif": [
+   360,
+   202
+  ],
+  "previews/profiles/3149905.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3171215.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3149965.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3149930.jpg": [
+   600,
+   451
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

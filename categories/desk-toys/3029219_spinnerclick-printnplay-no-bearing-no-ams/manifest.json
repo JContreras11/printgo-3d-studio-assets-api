@@ -1,0 +1,206 @@
+{
+ "files": [
+  {
+   "path": "model/spinnerclick-printnplay-1h.3mf.xz",
+   "instance_id": "3430715",
+   "thumbnail": "previews/profiles/3430715.jpg",
+   "print_time_h": 1,
+   "plates": 3,
+   "rating": 3.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "A1",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS - 3 Plates - All Printers",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1032472,
+   "sha256": "d5132cbb98704393cf05bfa9832eb039d18d441df144cf8663ed03cc66b02994",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinnerclick-printnplay-1h06.3mf.xz",
+   "instance_id": "3502474",
+   "thumbnail": "previews/profiles/3502474.jpg",
+   "print_time_h": 1.1,
+   "plates": 3,
+   "rating": 4.3,
+   "rating_count": 39,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L",
+    "A1",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Finer Tolerance (Print this if default fails)",
+    "profile_notes": "For those who have precise printers :)",
+    "creation_date": "2026-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1045992,
+   "sha256": "9119892c458c41c375b50557945c36b07873e3d3004cb58cbf6264f74aec5647",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinnerclick-printnplay-multicolor-42min.3mf.xz",
+   "instance_id": "3415802",
+   "thumbnail": "previews/profiles/3415802.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS - By Object - MultiColor - H2S",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 952120,
+   "sha256": "38dc9870a5b00bd80d90c3eceded525d0a2bab4b30815225d3306d9f1eaaf3e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinnerclick-printnplay-multicolor-48min.3mf.xz",
+   "instance_id": "3415806",
+   "thumbnail": "previews/profiles/3415806.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "AMS - By Object - MultiColor - X2D",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 960048,
+   "sha256": "fac5735f787a1f518250677f81c5f99bf7c79fe82b6a5e3db77c62fc7c8ab5d1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3029219",
+ "title": "SpinnerClick - PrintnPlay - Sin rodamiento",
+ "slug": "spinnerclick-printnplay-no-bearing-no-ams",
+ "url": "https://makerworld.com/en/models/3029219-spinnerclick-printnplay-no-bearing-no-ams",
+ "author": "emcdog",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este es un rediseño completo del popular Pentaclick V2 (muestre algo de amor al diseñador dándole me gusta a su publicación).\n\nMe encantó el modelo original y he visto algunas variantes del mismo, todas las cuales requerían comprar rodamientos. Entonces diseñé este modelo desde cero para agregarle un sistema de rotación sin rodamientos. También hice que el modelo fuera más duradero, para que las piezas no se desprendan fácilmente.\n\nPara un centrifugado más largo añade un poco de lubricante dentro de la parte que sujeta la tapa del spinner. Usé lubricante a base de silicona.\nAsamblea GIF",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "sensorio",
+  "taconeador",
+  "juguete",
+  "girar",
+  "hilandero",
+  "juguete inquieto",
+  "3d",
+  "impresión 3d",
+  "divertido"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US23f44ba41f994f/design/90024785ac63e787.gif",
+ "images": [
+  "previews/01.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   997,
+   747
+  ],
+  "previews/profiles/3430715.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3502474.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3415802.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3415806.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

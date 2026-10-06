@@ -1,0 +1,127 @@
+{
+ "files": [
+  {
+   "path": "model/bola-clicker-3h48.3mf.xz",
+   "instance_id": "3197077",
+   "thumbnail": "previews/profiles/3197077.jpg",
+   "print_time_h": 3.8,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 114,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2D",
+    "H2S",
+    "P1P",
+    "H2D Pro",
+    "A2L",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6084548,
+   "sha256": "e99d6882ddb08e123319b3bf304ba608475c4526cf0974dbd858fe224e0642d2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bola-clicker-4h06.3mf.xz",
+   "instance_id": "3842939",
+   "thumbnail": "previews/profiles/3842939.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "AMS One Color Change 0.16mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6233496,
+   "sha256": "74aad2eb3ce9749c0b8fd0d87def434ad1ff526879d3141613c7b6d03af79de1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2864475",
+ "title": "Bola de clicker satisfactoria",
+ "slug": "satisfying-clicker-ball",
+ "url": "https://makerworld.com/en/models/2864475-satisfying-clicker-ball",
+ "author": "Gibbs3408",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Este modelo fue diseñado específicamente alrededor de los interruptores de teclado mecánicos Kailh Low Profile.\n\n¿Buscas el juguete de escritorio táctil definitivo? El Satisfying Clicker Ball combina la sensación adictiva de los interruptores de teclado mecánicos con un diseño elegante y suave. Ya sea que necesite concentrarse durante una reunión larga o simplemente desee satisfacer sus antojos antiestrés, esta pelota ofrece clics nítidos y ágiles en todas las direcciones.\n¿Lo mejor de todo? Cuenta con un diseño completamente a presión: ¡sin pegamento, sin hardware y sin necesidad de herramientas para el ensamblaje!\nCaracterísticas\nEnsamblaje 100% sin herramientas: cada pieza se ensambla perfectamente desde la base de impresión.\nInterruptores Real Clicky: Diseñados para adaptarse perfectamente a los interruptores de teclado mecánicos Kailh Low Profile.\nTapas exteriores extraíbles: intercambie entre los interruptores mecánicos expuestos o coloque las tapas exteriores lisas para transformarla en una bola geométrica limpia y apta para el bolsillo.\nElegante y portátil: Tamaño perfecto para colocarlo en su escritorio o guardarlo en su bolsillo para moverse mientras viaja.\n\nCompatibilidad Switch\nEste modelo fue diseñado específicamente alrededor de los interruptores de teclado mecánicos Kailh Low Profile.\nEnlace:\nOtros estilos de Switch no han sido probados y es posible que no encajen correctamente.\n\nAsamblea\nImprima todas las piezas, instale los interruptores y coloque los paneles exteriores en su lugar. El diseño es totalmente mecánico y no requiere pegamento.\nSi construyes uno, me encantaría ver tu marca y escuchar qué tipo de Switch usaste.\n\nConfiguración de impresión\nRecomendado:\nAltura de capa de 0,16 mm (para una suavidad optimizada en la mano)\nPLA recomendado\n\nSi imprimes uno...\n¡Me encantaría ver tu construcción!\nPor favor considere:\nCalificando el modelo\nPublicar fotos\nImpulsando si lo disfrutas",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "mecánico",
+  "teclado",
+  "switch",
+  "divertido",
+  "juguete",
+  "portátil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe6af1f26a56f4d/design/f7dcd32f7d7d4d1c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   1776
+  ],
+  "previews/03.jpg": [
+   1000,
+   1776
+  ],
+  "previews/profiles/3197077.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3842939.jpg": [
+   600,
+   370
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

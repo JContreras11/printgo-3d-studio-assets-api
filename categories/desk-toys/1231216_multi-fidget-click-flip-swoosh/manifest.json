@@ -1,0 +1,203 @@
+{
+ "files": [
+  {
+   "path": "model/multi-antiestres-54min.3mf.xz",
+   "instance_id": "1250049",
+   "thumbnail": "previews/profiles/1250049.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 646,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "P2S",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2D",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Optimised profile",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3234,
+      "weight_g": 19.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1811904,
+   "sha256": "f6a5258b5535818ecc705610853e042ee02f9bc0d40ce0cbcbb117e30c2c824b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/multi-antiestres-1h.3mf.xz",
+   "instance_id": "3342183",
+   "thumbnail": "previews/profiles/3342183.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill + key chain",
+    "profile_notes": "0.2mm layer 2 walls 10% infill -key chain",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2946072,
+   "sha256": "0e21d32b98884468af29eb753d3d489893cc2fb79bda3e6f4dd341838adc4a53",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/multi-antiestres-multicolor-1h.3mf.xz",
+   "instance_id": "3657767",
+   "thumbnail": "previews/profiles/3657767.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "dual color ohne AMS",
+    "profile_notes": "Dies ist eine mehrfarbige Version des Fidgets, welche nur einen Filamentwechsel benötigt und dadurch nicth länger braucht und keinen Müll macht. Sie benötigen kein AMS dan der Drucker an der gewünschten Stelle ein Pause einlegt und dann das Filament gewechselt werden kann.",
+    "creation_date": "2026-08-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2028796,
+   "sha256": "5816eba033ab1f0f93caba5c2913e70fe047e042d88872b047ea8ca5504265f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1231216",
+ "title": "Multi antiestrés Haga clic en Flip Swoosh",
+ "slug": "multi-fidget-click-flip-swoosh",
+ "url": "https://makerworld.com/en/models/1231216-multi-fidget-click-flip-swoosh",
+ "author": "louisdesigns",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "MembresíaSi te gustan mis modelos y quieres ganar dinero con ellos, ¡mira mi licencia comercial! ¡Un divertido antiestrés multifunción!\nBombilla antiestrés\nIris antiestrés\nYour Boost me ayuda a diseñar, experimentar e imprimir nuevas creaciones, por lo que agradezco mucho un impulso.\nImpúlsame ¡Muchas gracias!",
+ "use_cases": [],
+ "tags": [
+  "divertido",
+  "juguete",
+  "jugar",
+  "estrés",
+  "agitarse",
+  "frío",
+  "relajarse",
+  "antiestrés",
+  "imprimir",
+  "en",
+  "lugar",
+  "imprimir en el lugar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8e7f1a30a0314d/design/2025-03-20_8c6bb92aa38e2.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1250049.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3342183.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3657767.jpg": [
+   600,
+   1066
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

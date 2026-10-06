@@ -1,0 +1,253 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-1h36.3mf.xz",
+   "instance_id": "1208397",
+   "thumbnail": "previews/profiles/1208397.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 586,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5900,
+      "weight_g": 33.12,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 7882640,
+   "sha256": "e48c172f8418cb1c4c930f47db7d6fce2b53f700a976d704a44867cc72f5c270",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h12.3mf.xz",
+   "instance_id": "3746319",
+   "thumbnail": "previews/profiles/3746319.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "H2C",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "only 21 grams no AMS",
+    "profile_notes": "A satisfying fidget toy in the shape of a spiral cone that slides smoothly in and out thanks to its layered telescopic structure. Perfect for reducing stress improving concentration during work or study or just fidgeting around on your desk You are allowed to sell it!!! we print it with an AMS but it is not necessary to print with an AMS see print profiles Print in Place design Smooth spiral movement Compact size fits easily in your hand or pocket Durable and reusable no supports needed",
+    "creation_date": "2026-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1119124,
+   "sha256": "091c5e944835e571f465b6ff341e7828db0ad455ee2ff77a6ecfc7dd8af9c1fe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h48.3mf.xz",
+   "instance_id": "3596073",
+   "thumbnail": "previews/profiles/3596073.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Extra AMS für P2S",
+    "profile_notes": "Ich wünsche ihnen viel spass mit dem Model. Ich würde mich freuen wenn Sie das Model bewerten.",
+    "creation_date": "2026-08-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8878280,
+   "sha256": "fe81e7db6ea3046f96b760260d4d6ac1f87f03fd0fcba333f272a9a1e68991fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-multicolor-2h18.3mf.xz",
+   "instance_id": "3650993",
+   "thumbnail": "previews/profiles/3650993.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1E",
+    "X1",
+    "P2S",
+    "X2D",
+    "P1P",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.01.55",
+    "profile_title": "2 plates 2 colors",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 9297680,
+   "sha256": "6a95ed39b1a090fc7b7022195b8b49f39c767db321ca32dd019a2cb3e49c38fc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1195780",
+ "title": "Juguete antiestrés Espiral",
+ "slug": "fidget-toy-spirale",
+ "url": "https://makerworld.com/en/models/1195780-fidget-toy-spirale",
+ "author": "NAIKLabs",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Juguete de relajación, Juguete antiestrés",
+ "use_cases": [],
+ "tags": [
+  "juguetes",
+  "agitarse",
+  "juguete",
+  "juguete de figura",
+  "espiral",
+  "espiral antiestrés",
+  "relajación",
+  "juguete de relajación"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-03-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USde6bb0feb77118/design/2025-03-10_efae1a50d6795.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1165
+  ],
+  "previews/03.jpg": [
+   1000,
+   866
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1208397.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3746319.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3596073.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3650993.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

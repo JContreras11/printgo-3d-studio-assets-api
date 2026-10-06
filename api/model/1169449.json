@@ -1,0 +1,372 @@
+{
+ "files": [
+  {
+   "path": "model/plaza-antiestres-2h.3mf.xz",
+   "instance_id": "1177489",
+   "thumbnail": "previews/profiles/1177489.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 318,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Easily print with PLA. It is print-in-place. No assembly is needed. If the pins don’t move as freely at first, give them some playtime. The more the toy is played, the better it operates.",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7183,
+      "weight_g": 28.87,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 821640,
+   "sha256": "c428bc87c0763b2cf71caea4e3f85688de8f0bd26c3d5ea38fc7503a8a0ea234",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/plaza-antiestres-1h42.3mf.xz",
+   "instance_id": "1376970",
+   "thumbnail": "previews/profiles/1376970.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "A1 mini",
+    "P1S",
+    "X1",
+    "H2D",
+    "X1E",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "Braille Cell, 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "This is a user-requested addition for braille training and to have fun while learning. It has 6 pop pins in two columns as a braille cell has 6 dots in two columns. Easily print with PLA. Please use the provided print profile to ensure a good balance of strength and flexibility. This model is print-in-place. No assembly is needed. If the pins don’t move as freely at first, give them some playtime and it will smooth out.",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 834972,
+   "sha256": "caaa1e43150dffd2bdd0ad73caca1dca26166f58fa31d4822f55a0bdf0397858",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/plaza-antiestres-1h48.3mf.xz",
+   "instance_id": "1376977",
+   "thumbnail": "previews/profiles/1376977.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "For A1 mini, Braille Cell, 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "This profile is for use on A1 mini. This model is a user-requested addition for braille training and to have fun while learning. It has 6 pop pins in two columns as a braille cell has 6 dots in two columns. Easily print with PLA. Please use the provided print profile to ensure a good balance of strength and flexibility. This model is print-in-place. No assembly is needed. If the pins don’t move as freely at first, give them some playtime and it will smooth out.",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 848788,
+   "sha256": "42c25764600f15fce866f292bfd299dd2ce8403d9bc45742fc256c7482d5dc26",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/plaza-antiestres-2h06.3mf.xz",
+   "instance_id": "1177497",
+   "thumbnail": "previews/profiles/1177497.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "For A1 mini, 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "This profile is for printing on A1 mini. Easily print with PLA. This model is print-in-place. No assembly is needed. If the pins don’t move as freely at first, give them some playtime. The more the toy is played, the better it operates.",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7512,
+      "weight_g": 28.66,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA versión mini",
+   "size": 823172,
+   "sha256": "e2e84f69e99872bb27c42c01cd874b854d2bc09f96775c95eceed82de53ff452",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/plaza-antiestres-multicolor-1h42.3mf.xz",
+   "instance_id": "1698207",
+   "thumbnail": "previews/profiles/1698207.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "2 Colors 0.16mm layer, 2 walls, 15% infill For A1 Mini",
+    "profile_notes": "2 Colors. I made it so only one color shows from each side when you “pop” them!",
+    "creation_date": "2025-07-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor versión mini",
+   "size": 934276,
+   "sha256": "0fd3c267004c43731cb25cfd37079274430afc2a6e42fa0bf24a87e4046dfedf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/plaza-antiestres-multicolor-2h12.3mf.xz",
+   "instance_id": "3421176",
+   "thumbnail": "previews/profiles/3421176.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "P2S",
+    "A2L",
+    "P1P",
+    "X1E",
+    "X2D",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "2 Color Optimized - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "This is a 2 color optimized print profile with minimal waste and time.",
+    "creation_date": "2026-07-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 914664,
+   "sha256": "aaed21c7d772c24213060235ccef982cdec55b394a9ae9e4c9afd80ff38be375",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1169449",
+ "title": "Plaza antiestrés Pop",
+ "slug": "fidget-pop-square",
+ "url": "https://makerworld.com/en/models/1169449-fidget-pop-square",
+ "author": "DWdesigns",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un cuadrado antiestrés con pines pop diseñados específicamente para emular la alegría de hacer estallar burbujas. El juguete tiene 9 pines pero tiene una acción de estallido infinita: después de empujar todos los pines, dale la vuelta al otro lado y hazlo de nuevo:).\n\nNuevo: por solicitud del usuario, se agregó una versión de llavero, vinculada a continuación.\n\nTambién nuevo: a petición del usuario, se agregó una versión celular braille para entrenar braille mientras se divierte. Se agrega como un nuevo perfil de impresión. La versión de celda braille tiene 6 pines pop en dos columnas, ya que una celda braille tiene 6 puntos en dos columnas.\n\nImprime fácilmente con PLA. Utilice el perfil de impresión proporcionado para garantizar un buen equilibrio entre resistencia y flexibilidad.\n\nEste modelo se imprime sin ensamblaje. No se necesita montaje. Si los bolos no se mueven tan libremente al principio, dales algo de tiempo para jugar. Cuanto más se juega con el juguete, mejor funciona.\n\nUn consejo: sostener el juguete de modo que una esquina quede entre los dos dedos índices y apuntando hacia adelante (de modo que el juguete mire al usuario en forma de diamante en lugar de cuadrado) puede proporcionar más espacio para sostener el juguete mientras empuja los alfileres hacia adentro.\n\nEl modelo tiene 2,6 pulgadas (66 mm) de ancho y 0,55 pulgadas (14 mm) de grosor (altura del pasador).\n\nSígueme para recibir notificaciones cuando se agreguen nuevos modelos. ¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "juguete inquieto",
+  "estallido de burbujas antiestrés"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US449bf34194b9eb/design/2025-03-03_04bd05e029419.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1177489.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1376970.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1376977.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1177497.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1698207.jpg": [
+   600,
+   465
+  ],
+  "previews/profiles/3421176.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

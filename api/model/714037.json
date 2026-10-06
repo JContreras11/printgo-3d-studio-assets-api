@@ -1,0 +1,208 @@
+{
+ "files": [
+  {
+   "path": "model/violin-antiestres-1h12.3mf.xz",
+   "instance_id": "647173",
+   "thumbnail": "previews/profiles/647173.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4273,
+      "weight_g": 26.83,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FBD9FF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1771492,
+   "sha256": "62eb671d9f71b72cd414c45d1d27bba19ada9dfc8da87b26032d616f54664cc0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/violin-antiestres-1h36.3mf.xz",
+   "instance_id": "963314",
+   "thumbnail": "previews/profiles/963314.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 489,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "P1P",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "large version",
+    "profile_notes": "a bigger version - even more fun to play with! ensure good part cooling",
+    "creation_date": "2025-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 9919324,
+   "sha256": "5a2dd8a7f6e052523540dae3d0fa8be2b2edbdfe64e150557a1c128255693560",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/violin-antiestres-3h24.3mf.xz",
+   "instance_id": "3128615",
+   "thumbnail": "previews/profiles/3128615.jpg",
+   "print_time_h": 3.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "X2D",
+    "P1S",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "X1",
+    "H2C",
+    "H2D",
+    "H2S",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "(recommended) Large version 0.18mm layer, 2 walls, 8% infill",
+    "profile_notes": "Larger version! Only 2 color changes for the multicolor version NO AMS needed for both models 0.18mm layer height for a higher quality print",
+    "creation_date": "2026-05-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.18",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión grande",
+   "size": 19369124,
+   "sha256": "b9fcf0d84123ab781942186676bad0d4b339100e5efdcecf16e934f96aade30d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "714037",
+ "title": "Violín antiestrés",
+ "slug": "fiddle-fidget",
+ "url": "https://makerworld.com/en/models/714037-fiddle-fidget",
+ "author": "haptic3D",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "juguete inquietante que se impresión sin ensamblaje, movimiento relajante\nviene en 2 tamaños\n\nPara mejorar el movimiento y liberar las piezas más fácilmente al principio, apliqué un poco de aceite de silicona pura con una viscosidad de 200cSt en los huecos, ayuda mucho. También reduce el ruido al moverse. Recomiendo usar botellas con agujas para la aplicación para evitar que el aceite se derrame por todas partes. He usado estos.\nTambién asegúrese de que haya una buena refrigeración y ventilación para que las capas se enfríen rápidamente.\nRecomiendo usar una impresora abierta o tapa abierta + puerta abierta si su impresora está cerrada.\nEcha un vistazo a mi levantador de tapa, que he diseñado precisamente para este propósito ^_^\n\nSi te gustan los antiestrés, mira también mi otra creación.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "accesorio antiestrés",
+  "rompecabezas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2fad642fde54cb/design/2024-10-19_cb12fddf3093e.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   641,
+   641
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/647173.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/963314.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3128615.jpg": [
+   600,
+   480
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

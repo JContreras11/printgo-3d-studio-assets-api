@@ -1,0 +1,316 @@
+{
+ "files": [
+  {
+   "path": "model/limau-link-1h18.3mf.xz",
+   "instance_id": "2619746",
+   "thumbnail": "previews/profiles/2619746.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Print Profile 03 – Magnetic Shell Edition",
+    "profile_notes": "Magnetic retention upgrade for improved lid stability. Each side of the outer peel box contains: 12 pcs – 2mm × 2mm round magnets This improves shell closure and tactile feedback. Magnet Pause Included This profile includes an automatic pause at the magnet cavity layer . When the printer pauses: Insert magnets into the cavities Check polarity alignment Secure magnets with glue Resume printing ⚠️ Magnet Orientation (Very Important) Before final placement: ✔ Test magnet polarity ✔ Ensure opposing sides attract ✔ Confirm lid can close properly If polarity is wrong, the shell will repel and not close. Double-check before gluing. 🔧 Securing the Magnets After inserting magnets: • Add a small drop of glue into each cavity • Make sure magnets sit fully below the surface This step is critical. The printer nozzle is steel. If magnets are not secured, the nozzle may pull them upward during printing. A drop of glue prevents displacement. 📦 Parts Required Only one pair of inner peel boxes is required for the magnetic edition. All other parts remain identical to the standard version. 🛠 Notes • Magnets are optional – base version works fully mechanical • This version enhances lid retention only • Do not skip the glue step",
+    "creation_date": "2026-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2204496,
+   "sha256": "e083429d2857ebd873395c4b9accbe41986f8d8bbea4b8e9cbeee5d40688be68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limau-link-1h48.3mf.xz",
+   "instance_id": "2620036",
+   "thumbnail": "previews/profiles/2620036.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 71,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Segment Only (Quick Print Edition)",
+    "profile_notes": "For those who just want to play. This version includes only the linked citrus segments . No peel shell. No glue. No assembly. Print → Snap together → Play.",
+    "creation_date": "2026-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2580972,
+   "sha256": "caea12d08655e85d31d38c415f089f64a56f0f909d6248361b65ba19c5ca1cff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limau-link-3h.3mf.xz",
+   "instance_id": "3842909",
+   "thumbnail": "previews/profiles/3842909.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Smaller One Plate AMS Print 0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Una sola placa",
+   "size": 4814544,
+   "sha256": "097e9b5538e37b32c78261624a055bfa9ba195e8b55a4056930333651e52d2ed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limau-link-4h54.3mf.xz",
+   "instance_id": "2795866",
+   "thumbnail": "previews/profiles/2795866.jpg",
+   "print_time_h": 4.9,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 59,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "A2L",
+    "A1 mini",
+    "P2S",
+    "H2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "fuzzy skin, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "经过优化，打印速度更快，结果更干净，且支撑更少。 此版本包含说明中提到的 1.5 毫米平底修改 。 小平面改善了热床附着力并消除了对支撑材料的需求。 通用设置 可变层高： 已启用 围巾缝合： 已启用 外墙宽度： 0.6 毫米 内墙速度： 120 毫米/秒 外墙速度： 100 毫米/秒 悬垂 & 桥接 悬垂速度： 25 / 20 毫米/秒 桥接流量： 1.5 桥接速度： 20 毫米/秒 支撑 支撑： 仅为果皮外罩启用 柑橘应用了平底（1.5 毫米切面） 为何选择平底？ 最初果瓣底部是完全弯曲的。 这需要支撑。 通过在底部移除 1.5 毫米： • 更好的热床附着力 • 无需支撑 • 更整洁的工作流程 • 更快的打印速度 组装后底部将隐藏起来， 因此该处的表面完美度并非必需。 ⚠️ 打印前请清洁打印板。 （请参阅说明中的附着失败照片。） 这是推荐的配置。",
+    "creation_date": "2026-02-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4177136,
+   "sha256": "b00e9b5152a42a9f2e4261c9b9ef99e9b56ed4a218cae08080a74b11a8ce70e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limau-link-6h.3mf.xz",
+   "instance_id": "2610824",
+   "thumbnail": "previews/profiles/2610824.jpg",
+   "print_time_h": 6,
+   "plates": 4,
+   "rating": 4.7,
+   "rating_count": 34,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "A2L",
+    "A1 mini",
+    "P2S",
+    "H2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Full Curvature = PLA FOR BODY + DEDICATED SUPPORT MATERIAL",
+    "profile_notes": "WARNING!!! DO NOT USE THIS PROFILE IF U WANT TO PRINT THE SUPPORT WITH PLA!!! THIS IS TO USE WITH PETG SUPPORT FOR PLA, OR THE BAMBU SUPPORT MATERIAL FOR PLA/PETG For users who prefer the original fully curved bottom geometry. Support Settings Support: Enabled Raft / Interface: Support material for PLA / PETG Z top distance: 0 XY distance: 0 Initial layer density: 100% This creates a near-solid support interface layer. Recommended if you want: • Maximum underside curvature accuracy • Fully supported geometry • Highest visual fidelity Note: This increases print time and material usage.",
+    "creation_date": "2026-02-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 4413400,
+   "sha256": "55ea65b927af86bed92068f688b39cd3d54bddf736c3c551baf0a1309678e6ff",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2383911",
+ "title": "Limau Link: antiestrés cítrico encadenado, probado contra caídas",
+ "slug": "limau-link-chained-citrus-fidget-drop-tested",
+ "url": "https://makerworld.com/en/models/2383911-limau-link-chained-citrus-fidget-drop-tested",
+ "author": "YY_The_Panjang",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Limau Link: antiestrés cítrico encadenado, probado contra caídas\nMembresíaCada membresía comercial me ayuda a seguir diseñando tonterías mecánicas extrañas como esta.\nSi desea vender impresiones físicas de mis modelos, puede unirse a la membresía y formar parte del viaje.\n¿Solo quieres la moción?\nPuede imprimir sólo los segmentos de cítricos.\nSin caparazón.\nSin pegamento.\nSin asamblea.\nImprimir Ajustar juntos Reproducir.\nSi disfrutas el movimiento,\nSiempre puedes actualizar a la versión completa del shell más adelante.\n\nAhora la versión completa:\n\nSí.\nEs un cítrico posado sobre la cabeza de un carpincho.\nY sí, es mecánico.\nDiseñé una fruta.\nLevante un segmento.\nObserve cómo el resto sigue, uno por uno.\nNo es magia.\nEnlace mecánico.\nDe espíritu estacional.\nDiseñado para durar todo el año.\n\n¿Por qué está en un carpincho?\nPorque puede ser.\nCerrado, parece un cítrico festivo.\nAbierto, se convierte en una escultura en movimiento encadenada.\nLo suficientemente estable como para sentarse sobre un carpincho.\nLo suficientemente tranquilo como para igualar su ambiente.\nSegmentos de ajuste a presión (aprobados por prueba de caída)\nCada segmento de cítricos utiliza una estructura de ajuste a presión.\nEstán destinados a separarse.\nSi se cae,\npuede dispersarse -\npero nada se rompe.\nSimplemente vuelva a juntar las piezas.\nDurabilidad a través de la separación, no de la rigidez.\nPrueba de caída aprobada.\n(Ver foto de vista ampliada).\n\nMulticolor: no se requiere AMS\nLa piel se divide en 3 partes separadas:\nTallo – Verde\nCáscara exterior – Naranja\nCáscara interior – Amarillo claro\nImprímelos individualmente.\n¿Sin AMS? Ningún problema.\nSin desperdicio de torre de purga.\nSin dolores de cabeza por el cambio de color.\nEstrategia de voladizo (oculta donde importa)\nLa geometría curvada de la cáscara crea un radio sobresaliente.\nEn lugar de luchar contra la gravedad en superficies visibles,\nReubiqué las zonas críticas que sobresalen dentro del conjunto.\nUna vez pegados -\nson invisibles.\nVerás en las fotos:\nPrueba de voladizo crudo\nComparación de costuras de bufanda\nAntes/después de la sintonización\n\nConfiguración de impresión utilizada\nAncho de la pared exterior: 0,6 mm\nVelocidad de voladizo: 25 / 20 mm/s\nFlujo del puente: 1,5\nVelocidad del puente: 20 mm/s\nVelocidad de la pared interior: 120 mm/s\nVelocidad de la pared exterior: 100 mm/s\nCosturas tipo bufanda habilitadas (para un acabado exterior más suave)\nAltura de capa variable aplicada\n\nImagen que muestra el acabado de las costuras de la bufanda.\nRediseño de la base del segmento: no se necesita soporte\nOriginalmente, la parte inferior del segmento estaba completamente curvada.\nEso requirió apoyo.\nY las superficies de apoyo rara vez son hermosas.\nAsí que quité 1,5 mm de la base para crear un pequeño plano.\nResultado:\nMejor adherencia a la cama\nNo se necesita soporte\nAcabado más limpio\nImpresión más rápida\nVerás fotos comparativas:\nParte inferior con soporte perfecto (lado derecho)\nParte inferior cortada plana (lado izquierdo del perfil predeterminado)\nA veces la ingeniería es una resta.\n\nOpción de soporte de pelado (compensación de ingeniería)\nSí, puedes imprimir la cáscara con material de interfaz de soporte.\npara lograr una parte inferior más limpia.\nPero después del montaje...\nEsa zona está oculta.\nMás tiempo. Más materiales. Ninguna ganancia visible.\nEficiencia por defecto.\nPerfección opcional.\nImportante: limpie su placa de construcción\nAlgunas de las fallas de la prueba (ver la foto de los “fideos fritos”)\nfueron causados por una mala adherencia al lecho.\nLimpie su placa de construcción antes de imprimir.\nLavar con agua y jabón.\nSecar completamente.\nBuena adherencia = segmentos estables.\n\nActualización: Lanzamiento de la edición Magnetic Shell\nLa actualización de la carcasa magnética ya está disponible.\nCada lado de la caja exterior contiene 12 piezas de imanes de 2x2 mm.\nEsto mejora significativamente la retención de la tapa y evita que la cubierta se suelte con demasiada facilidad durante la manipulación.\nNuevo perfil de impresión: caja interior magnética\nSe incluye un nuevo perfil de impresión para la versión magnética.\nSólo se requiere un par de cajas de cáscara internas.\nEl modelo incluye una pausa automática en la capa de la cavidad del imán, lo que le permite insertar los imanes antes de que se reanude la impresión.\nImportante: orientación del imán\nAntes de insertar imanes:\nVerifique la polaridad\nAsegúrese de que los lados opuestos se atraigan\nSi la polaridad del imán es incorrecta,\nel caparazón no se cerrará correctamente.\nPruebe la alineación antes de la inserción final.\nAsegurar los imanes\nDespués de insertar los imanes:\nAgrega una pequeña gota de pegamento en cada cavidad.\nAsegúrese de que los imanes queden completamente dentro del bolsillo.\nEste paso es importante.\nDebido a que la boquilla de la impresora es de acero,\npuede tirar de los imanes hacia arriba durante la siguiente capa si no están asegurados.\nUna pequeña gota de pegamento evita el desplazamiento.\nEsta actualización magnética mejora la retroalimentación táctil\nmanteniendo intacta la estructura mecánica original.\nLos imanes siguen siendo opcionales.\nLa versión base todavía funciona de forma totalmente mecánica.\n\nMontaje sencillo\nNo se requiere manual completo.\nPega el tallo a la parte superior de la cáscara.\nPegue la cáscara exterior sobre la cáscara interior.\nVea la imagen adjunta como referencia.\nEso es todo.\n\nFilosofía del diseño\nNo sólo un cítrico festivo.\nUna evolución mecánicamente simplificada\ndel concepto de inquietud por giro encadenado.\nConstruido para:\nImpresión repetible\nMontaje limpio\nReparabilidad modular\nDurabilidad en el mundo real\nDe espíritu fresco.\nDiseñado en estructura.\nEnlace Limau.\nImpúlsame si te gusta la fruta sobrediseñada\nImpulsarlo.\nSiga para la edición magnética.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "pelota",
+  "retorcido",
+  "juguete",
+  "naranja",
+  "agrios",
+  "carpincho",
+  "relajarse",
+  "cal",
+  "limón",
+  "cáscara",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf567a6e91b5256/design/5a1d920b63703c69.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.gif",
+  "previews/11.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/04.jpg": [
+   1000,
+   1328
+  ],
+  "previews/05.jpg": [
+   1000,
+   1328
+  ],
+  "previews/06.jpg": [
+   1000,
+   1328
+  ],
+  "previews/07.jpg": [
+   1000,
+   1328
+  ],
+  "previews/08.jpg": [
+   1000,
+   752
+  ],
+  "previews/09.jpg": [
+   1000,
+   752
+  ],
+  "previews/10.gif": [
+   426,
+   238
+  ],
+  "previews/11.gif": [
+   426,
+   238
+  ],
+  "previews/profiles/2619746.jpg": [
+   600,
+   233
+  ],
+  "previews/profiles/2620036.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3842909.jpg": [
+   600,
+   499
+  ],
+  "previews/profiles/2795866.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2610824.jpg": [
+   600,
+   445
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

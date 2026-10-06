@@ -1,0 +1,296 @@
+{
+ "files": [
+  {
+   "path": "model/nytrax-juguete-multicolor-2h36.3mf.xz",
+   "instance_id": "2991581",
+   "thumbnail": "previews/profiles/2991581.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 114,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Nytrax - Multicolor",
+    "profile_notes": "ATTENTION Color change is already simplified in the print settings. Do not modify the print settings. No supports are required. Enjoy Printing!😉",
+    "creation_date": "2026-04-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1223984,
+   "sha256": "37dcf2c72bc299fd9a397b93bb37788fcedbfda139f190120dfe248db9622337",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nytrax-juguete-2h30.3mf.xz",
+   "instance_id": "3053959",
+   "thumbnail": "previews/profiles/3053959.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1E",
+    "X1",
+    "H2C",
+    "A1",
+    "A2L",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X2D",
+    "H2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Nytrax - High Tolerances",
+    "profile_notes": "ATTENZIONE Versione con tolleranze più ampie , pensata per stampanti meno precise o più datate. Si consiglia di provare prima la versione monocolore e, in caso di problemi, utilizzare questa. Il cambio colore è già semplificato nelle impostazioni di stampa. Non modificare le impostazioni di stampa. Non sono necessari supporti. Buona stampa!😉",
+    "creation_date": "2026-05-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1369172,
+   "sha256": "362f20db3f229f10f3b5d03352810e1706972225c07c8378bb793dab2354615a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nytrax-juguete-54min.3mf.xz",
+   "instance_id": "3805590",
+   "thumbnail": "previews/profiles/3805590.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "ATTENZIONE Non modificare le impostazioni di stampa. Non sono necessari supporti. Buona stampa!😉",
+    "creation_date": "2026-04-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1126172,
+   "sha256": "d924797add13e8bd7ddc433f871e6829f044ae496bc3202f0a03afbf3f275cca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nytrax-juguete-monocolor-48min.3mf.xz",
+   "instance_id": "3645471",
+   "thumbnail": "previews/profiles/3645471.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "A1 mini",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Single Color, Gyroid Infill, Simplified Slicer Settings",
+    "profile_notes": "This print profile includes simplified settings such as only the color needed, and I switched the infill a more filament- saving and better reinforcing pattern (Gyroid). Feel free to switch up the color to you liking! Please leave a rating!",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 1151268,
+   "sha256": "68fbfcd9ec06ab0e429e05aa3b374ab1156b24170189ba3b926e7117c8a7d790",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/nytrax-juguete-monocolor-54min.3mf.xz",
+   "instance_id": "2991626",
+   "thumbnail": "previews/profiles/2991626.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 86,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1E",
+    "P2S",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "P1S",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Nytrax - Single Color",
+    "profile_notes": "ATTENZIONE Non modificare le impostazioni di stampa. Non sono necessari supporti. Buona stampa!😉",
+    "creation_date": "2026-04-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 1146652,
+   "sha256": "fef3269fe1fc64ba6aaf6a524309ea4e70511f94c54796eef23261fc3720d6a9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2698814",
+ "title": "Nytrax - Juguete deslizante EDC 3 en 1 CyberPunk",
+ "slug": "nytrax-3-in-1-edc-fidget-slide-toy-cyberpunk",
+ "url": "https://makerworld.com/en/models/2698814-nytrax-3-in-1-edc-fidget-slide-toy-cyberpunk",
+ "author": "3DGearSolution",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Nytrax\n\nEs un juguete antiestrés compacto con aspecto cyberpunk diseñado para ofrecer múltiples interacciones en un solo objeto.\n\nCuenta con un clicker deslizante con respuesta firme, un anillo totalmente giratorio y un botón de clic lateral que también sobresale del otro lado, lo que hace que su uso sea aún más satisfactorio.\n\nSe puede imprimir en multicolor o en un solo color, según tu estilo preferido. Además, todos los detalles de colores están separados para que puedas cambiar los colores con solo unos pocos clics para personalizarlo fácilmente y encontrar la combinación perfecta.\n\nUn pequeño gadget con un diseño moderno y muy reconocible perfecto para tenerlo en tu escritorio o llevarlo contigo en todo momento\n\n¡Echa un vistazo a estos!",
+ "use_cases": [],
+ "tags": [
+  "tdah",
+  "agitarse",
+  "juguete",
+  "edc",
+  "hacer clic",
+  "ansiedad",
+  "control deslizante",
+  "hilandero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US99ef7b90952959/design/d2f802288a8f6a9a.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   240,
+   320
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2991581.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3053959.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3805590.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/3645471.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2991626.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -8,7 +8,7 @@
    "print_time_h": 1.8,
    "plates": 1,
    "rating": 4.9,
-   "rating_count": 297,
+   "rating_count": 328,
    "by_designer": true,
    "printers": [
     "P1S",
@@ -35,8 +35,53 @@
     "layer_height": "0.24",
     "infill": "10%",
     "support_type": "tree(auto)",
-    "photos": 1
+    "photos": 1,
+    "profile_title": "0.24mm layer, 3 walls, 10% infill"
    }
+  },
+  {
+   "path": "model/calabaza-halloween-1h42.3mf.xz",
+   "instance_id": "3873433",
+   "thumbnail": "previews/profiles/3873433.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "P2S",
+    "P1P",
+    "X1E",
+    "H2S",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "加固模型，提高模型强度",
+    "profile_notes": "0.24 layer height 3 walls 10% infill Optimized line width for faster printing.",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3001312,
+   "sha256": "fd953ab8a6242135f9f9205d71f4df235be26d394b66d35723f193d5f1fa7212",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "id": "1863398",
@@ -94,6 +139,10 @@
   "previews/profiles/1993336.jpg": [
    600,
    1066
+  ],
+  "previews/profiles/3873433.jpg": [
+   600,
+   591
   ]
  },
  "storage": {

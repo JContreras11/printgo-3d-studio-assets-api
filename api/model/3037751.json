@@ -1,0 +1,261 @@
+{
+ "files": [
+  {
+   "path": "model/tic-tac-2h.3mf.xz",
+   "instance_id": "3415413",
+   "thumbnail": "previews/profiles/3415413.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 155,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "A2L",
+    "P1P",
+    "A1",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "AMS",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1263480,
+   "sha256": "2be8ba5c33a9594f5ecc5b8b087f9fbda49ff2ee700687442fb5dfdb776c7b75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tic-tac-1h24.3mf.xz",
+   "instance_id": "3416705",
+   "thumbnail": "previews/profiles/3416705.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "A1 mini",
+    "H2C",
+    "X1",
+    "P2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "X2D",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "AMS with wall generation changes, and speed tweaks",
+    "profile_notes": "THIS NEEDS AMS: I changed a few things around in the slicer, including the layer height, wall settings, print speeds, infill, seam placement, and a couple of other small adjustments. It came out really well on my printer, and the board, grid lines, and individual X and O pieces all printed nicely, so I thought I'd share the profile in case it helps someone else get a similar result. Huge credit to the original creator for the awesome design!",
+    "creation_date": "2026-07-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.28",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1365668,
+   "sha256": "f92a06376d0a9365ca2d3b09528bf96c8393c2b820bd55f5bc9d5b6f346f2e40",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tic-tac-1h30.3mf.xz",
+   "instance_id": "3458244",
+   "thumbnail": "previews/profiles/3458244.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 26,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "A2L",
+    "X1E",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A1",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "2 Filament Switches Instead of 18!!!",
+    "profile_notes": "All I did was change the painting. An added bonus is that when the board is reset you can see the different colors on the edge a little bit so you know which way to turn the piece.",
+    "creation_date": "2026-07-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1342740,
+   "sha256": "7a5043918dff10609bb9088f026fbf1e56ffaf095d959b0764183a0e822130a1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tic-tac-1h54.3mf.xz",
+   "instance_id": "3792253",
+   "thumbnail": "previews/profiles/3792253.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "参数优化，提高打印效率",
+    "creation_date": "2026-07-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1288844,
+   "sha256": "0a1ccd25108d217f69b4c951754805a8a0766edbe7f6158892725b7b948980c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3037751",
+ "title": "Tic-Tac-Toe Ultimate antiestrés Game (impresión sin ensamblaje)",
+ "slug": "tic-tac-toe-ultimate-fidget-game-print-in-place",
+ "url": "https://makerworld.com/en/models/3037751-tic-tac-toe-ultimate-fidget-game-print-in-place",
+ "author": "AbyssalCactus",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Este juego de tres en raya da vida a un pasatiempo clásico con un ingenioso giro giratorio! Cada uno de los nueve cuadrados sostiene un cubo impreso en el lugar montado en su propia articulación giratoria, con una X en una cara y una O en la cara opuesta, por lo que un rápido movimiento del dedo hace girar el cubo en su lugar para alternar entre símbolos. Cada articulación está sintonizada con la resistencia suficiente para mantener su posición mediante el manejo y agitación normales, y solo gira cuando realmente desea hacer un movimiento. Para jugar, simplemente gira tu cuadrado para mostrar tu símbolo, sin piezas sueltas que perder o configurar. Las limpias líneas de cuadrícula empotradas que separan cada cuadrado mantienen el tablero con un aspecto nítido y fácil de leer de un vistazo, lo que hace que sea tan satisfactorio jugar entre turnos como jugar. Dado que todo el tablero se imprime completamente en el lugar, sale de la placa de construcción listo para jugar sin necesidad de ensamblaje. Un borde acanalado a lo largo del borde añade agarre y un agradable toque final en la mano. Este juego de tres en raya es la impresión perfecta para la noche de juegos, el escritorio de la oficina o cualquier persona que quiera una forma de jugar que no moleste a los antiestrés.\nBoost MeSi te gusta este modelo, ¡considera potenciarlo! Ayuda muchísimo:) Membresía ¿Quieres vender mis juguetes antiestrés impresos en 3D? ¡Forme parte de mi programa de membresía de licencia comercial! Instrucciones de impresión:\nPrepare la base de impresión Limpie minuciosamente la base de impresión con alcohol isopropílico para garantizar una adhesión adecuada.\n¡Se recomienda encarecidamente adhesivo adicional para la cama de impresión! Sugiero usar spray 3D-Lac o una barra de pegamento.\n\nDescargar el perfil de impresión\nEnvíe el perfil de impresión preconfigurado a su impresora Bambu Lab a través de la aplicación Bambu Handy o descargue y abra el perfil de impresión preconfigurado en Bambu Studio.\n\nSeleccione sus opciones de impresión Elija su tipo y color de filamento.\nSeleccione su tipo de cama de impresión (por ejemplo, texturizada o lisa).\nConfirme la configuración de su impresora, idealmente para una impresora Bambu Lab.\n\nIniciar impresiónComience el trabajo de impresión. No son necesarios soportes.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "agitarse",
+  "viajar",
+  "tictacto",
+  "tres en raya",
+  "compacto",
+  "niños",
+  "divertido",
+  "frío"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US59d3a825134b24/design/842c40e6dc8040a4.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   320,
+   568
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3415413.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3416705.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3458244.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3792253.jpg": [
+   600,
+   550
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

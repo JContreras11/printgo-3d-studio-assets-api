@@ -1,0 +1,345 @@
+{
+ "files": [
+  {
+   "path": "model/iris-antiestres-54min.3mf.xz",
+   "instance_id": "1536634",
+   "thumbnail": "previews/profiles/1536634.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 1166,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1",
+    "P1P",
+    "A1 mini",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "A2L",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Optimized for fun :)",
+    "profile_notes": "This is an optimized model for the Click Clack Swoosh Fidget! Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5519420,
+   "sha256": "fda5357a5108f160bc1bdf8daf88430d070814ef93f8d761a0a4e9b6e1977993",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iris-antiestres-1h18.3mf.xz",
+   "instance_id": "3789833",
+   "thumbnail": "previews/profiles/3789833.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Box w/ Latches (0.2mm, 2 Walls, 0% Infill)",
+    "profile_notes": "新增卡扣結構，防止盒子自行打開。 改用自動適應層高，兼顧速度與細節。 接縫改為對齊，外觀更整潔。 降低外牆速度，確保懸垂斜面的列印品質。",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5608352,
+   "sha256": "310a340a45110c3df694f7b56b6ae84beb2a5cf80e85035b6a18b08afaa8bbc5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iris-antiestres-2h48.3mf.xz",
+   "instance_id": "3787508",
+   "thumbnail": "previews/profiles/3787508.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "GIANT version"
+   },
+   "name": "Versión estándar",
+   "size": 5453224,
+   "sha256": "14d75ca94ce05865afc476ae7cf40c779333794dbc28866bb7825d63b736acaf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iris-antiestres-3h12.3mf.xz",
+   "instance_id": "1543938",
+   "thumbnail": "previews/profiles/1543938.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Up to 4 colors Print by object 0.2mm layer 2 walls 0% infill",
+    "profile_notes": "This is an optimized model for the Click Clack Swoosh Fidget! Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-06-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5455660,
+   "sha256": "389a7ae13ea2b4fcef657854e7d2a096a1930183fcf6471426fefc90c375e58f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iris-antiestres-3h30.3mf.xz",
+   "instance_id": "1543934",
+   "thumbnail": "previews/profiles/1543934.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Up to 4 colors Print by object 0.2mm layer 2 walls 0% infill",
+    "profile_notes": "This is an optimized model for the Click Clack Swoosh Fidget! Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-06-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5432900,
+   "sha256": "3d1e66e46d3fa368e9227ce48c88117e568906dc29e71f502c8bd0b18394bff8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iris-antiestres-multicolor-1h42.3mf.xz",
+   "instance_id": "1543937",
+   "thumbnail": "previews/profiles/1543937.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "2 Colors Print by object 0.2mm layer, 2 walls, 0% infill",
+    "profile_notes": "This is an optimized model for the Click Clack Swoosh Fidget! Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-06-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 5426164,
+   "sha256": "be139a21de917f66a7e7f08ad12d942a5480a3bb3899309a6b74e53ae15f340c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/iris-antiestres-multicolor-6h12.3mf.xz",
+   "instance_id": "1536668",
+   "thumbnail": "previews/profiles/1536668.jpg",
+   "print_time_h": 6.2,
+   "plates": 2,
+   "rating": 4.1,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Multicolor AMS version",
+    "profile_notes": "This is an optimized model for the Click Clack Swoosh Fidget! Settings: 0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 9986528,
+   "sha256": "4c43490b8ff3d53625df8ee3d3c3db8ebbc29b84b9128c226d7eefeb74434646",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1472499",
+ "title": "IRIS antiestrés - impresión sin ensamblaje - 3D antiestrés",
+ "slug": "iris-fidget-print-in-place-3d-fidget",
+ "url": "https://makerworld.com/en/models/1472499-iris-fidget-print-in-place-3d-fidget",
+ "author": "louisdesigns",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "MembresíaSi te gustan mis modelos y quieres ganar dinero con ellos, ¡mira mi licencia comercial! He probado este modelo más de 50 veces usando numerosas impresoras, sin ningún problema. Si tiene problemas, haga lo siguiente:\nLimpie su placa de construcción con jabón y agua tibia, nunca toque la placa de construcción con las manos desnudas.\nCalibre su impresora, ejecute el menú de calibración.\nUse el preajuste de filamento correcto, preferiblemente use el filamento de Bambu, he usado cargas y nunca tuve ningún problema, si corresponde, seque el filamento.\nColoque el modelo en un lugar diferente de la placa de construcción; a veces, la placa de construcción está dañada o desgastada.\nNunca uses el modo ridículo.\n¡Espero que esto ayude!\n\n¡Mira mis otros antiestrés!\nBombilla antiestrés\nHaga clic en Flip Swoosh antiestrés\nYour Boost me ayuda a diseñar, experimentar e imprimir nuevas creaciones, por lo que agradezco mucho un impulso.\nImpúlsame ¡Muchas gracias!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "violín",
+  "juguete",
+  "juguetes",
+  "divertido",
+  "iris",
+  "mecanismo",
+  "imprimir",
+  "imprimir en el lugar",
+  "lugar",
+  "tdah"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-05-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US723df4a7f2a31a/design/2025-06-01_fc26bbc00012d.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1536634.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3789833.jpg": [
+   368,
+   654
+  ],
+  "previews/profiles/3787508.jpg": [
+   600,
+   423
+  ],
+  "previews/profiles/1543938.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1543934.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1543937.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1536668.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

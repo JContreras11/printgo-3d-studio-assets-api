@@ -1,0 +1,2839 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-musical-2h12.3mf.xz",
+   "instance_id": "1135312",
+   "thumbnail": "previews/profiles/1135312.jpg",
+   "print_time_h": 2.2,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 365,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Minecraft - Minecraft",
+    "profile_notes": "Plays the notes from Minecraft - Minecraft. Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion.",
+    "creation_date": "2025-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5088,
+      "weight_g": 15.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#AE8560"
+       },
+       {
+        "type": "PLA",
+        "color": "#00F200"
+       },
+       {
+        "type": "PLA",
+        "color": "#808080"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2765,
+      "weight_g": 11.02,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00F200"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2022056,
+   "sha256": "f23685a242bded2bbc9601fa9dab78190049580253a710c7d94f1bf51a3c983d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-14h42.3mf.xz",
+   "instance_id": "1135358",
+   "thumbnail": "previews/profiles/1135358.jpg",
+   "print_time_h": 14.7,
+   "plates": 12,
+   "rating": 4.6,
+   "rating_count": 177,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "(AMS) Ocarina of Time - 12 songs",
+    "profile_notes": "All 12 songs from Ocarina of Time Plate 1 - 12 Multicolour Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion.",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4011,
+      "weight_g": 15.33,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4511,
+      "weight_g": 18.15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4358,
+      "weight_g": 17.19,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3892,
+      "weight_g": 14.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4582,
+      "weight_g": 17.6,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5052,
+      "weight_g": 20.27,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4930,
+      "weight_g": 19.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4416,
+      "weight_g": 16.74,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4576,
+      "weight_g": 17.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4052,
+      "weight_g": 14.76,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5418,
+      "weight_g": 22.7,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3610,
+      "weight_g": 13.24,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 12
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 4897424,
+   "sha256": "815d5ed19bf5f2bac95b05204cbf54d3ce5c2dea54f0bd92ebe5d43586843b39",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-18min.3mf.xz",
+   "instance_id": "2590191",
+   "thumbnail": "previews/profiles/2590191.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "replaceable sliding parts 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Plays the Classic Zelda melod in two parts Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion. Update 11/3-25:fixed a colouring issue",
+    "creation_date": "2026-02-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1201208,
+   "sha256": "cf1dd81520e6ac92b99c8a169042ffb5aa339ffa9bcb7f4345642b58f774f346",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-1h.3mf.xz",
+   "instance_id": "1151930",
+   "thumbnail": "previews/profiles/1151930.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "H2S",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Monster Hunter - Proof of a Hero",
+    "profile_notes": "Plays the Ground Theme from Super Mario Bros (NES) Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion.",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3547,
+      "weight_g": 16.67,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1565460,
+   "sha256": "24b09ec340fb333f00cd866ebf2bec68424202332f8fee9a0941e68c13c2ebbd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-1h48.3mf.xz",
+   "instance_id": "1185469",
+   "thumbnail": "previews/profiles/1185469.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": 4.1,
+   "rating_count": 24,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Pokemon Red/Blue - Title Theme",
+    "profile_notes": "Plate 1: AMS with song name Plate 2: Single color If you print it, please remember to rate it! Notes in American Standard Pitch Notation: G5 B5 D6 A5 A5 F6 E6 D#6 D6 F5 E5 D#5 D5 C5 B4 C5",
+    "creation_date": "2025-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3494,
+      "weight_g": 13.98,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3056,
+      "weight_g": 12.94,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1492400,
+   "sha256": "1ec1843b77620c0a376cdd460fe8f81f75a32a0c0cd4e75f17785f5bdd7da351",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-1h54.3mf.xz",
+   "instance_id": "1136690",
+   "thumbnail": "previews/profiles/1136690.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "X1",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Double Dragon - City Slum",
+    "profile_notes": "Also known as Billy & Jimmy Lee's Theme Plate 1: AMS with song name Plate 2: Single color If you print it, please remember to rate it! Notes in American Standard Pitch Notation: E5 D5 E5 D5 E5 E5 D5 G5 F5 E5 D5 E5 D5 E5 E5 D5 G5 F5",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3649,
+      "weight_g": 14.69,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3211,
+      "weight_g": 13.56,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1655808,
+   "sha256": "51d9a5b8b06c74e4f152c811aee1de1258330b2d6d78bf296550c6034cd5bdec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h.3mf.xz",
+   "instance_id": "1215250",
+   "thumbnail": "previews/profiles/1215250.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 2,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1",
+    "P1S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "The Finals S1 theme song (You Wouldn't Be Here) Without Us",
+    "profile_notes": "The finals S1 theme song and C1 is 21mm",
+    "creation_date": "2025-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3067,
+      "weight_g": 11.9,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF6A13"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4053,
+      "weight_g": 17.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FF6A13"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PETG",
+   "size": 1897352,
+   "sha256": "f5e579bf8de815ce74910ff871829b7d21f431450c12f4183bbc454e37ad6c3b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h06.3mf.xz",
+   "instance_id": "1146417",
+   "thumbnail": "previews/profiles/1146417.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "X1",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Pokemon Red/Blue - Lavender Town",
+    "profile_notes": "Plate 1: AMS with song name Plate 2: Single color If you print it, please remember to rate it! Notes in American Standard Pitch Notation: D5 C5 B4 A4 G5 E5 F#5 E5 D5 B4 G4 G4 A4 B4 C5 F#4 G4 A4 B4 C5 B4 A4",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3670,
+      "weight_g": 16.48,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3676,
+      "weight_g": 16.53,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 1695300,
+   "sha256": "bf6840fb627e3f61bfc28449e4599c2e7404931cf13549d0b4f029700aad0958",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h18.3mf.xz",
+   "instance_id": "1164387",
+   "thumbnail": "previews/profiles/1164387.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 36,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "P2S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "A1",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Monkey Island - Theme",
+    "profile_notes": "Plays a part from the “The Secrets of Monkey Island” theme. Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion.",
+    "creation_date": "2025-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4405,
+      "weight_g": 19.67,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3890,
+      "weight_g": 18.11,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1958968,
+   "sha256": "8de32e3236909b10cf0bf60024981160853266edeea8f154fc3578a237e0a060",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h24.3mf.xz",
+   "instance_id": "1192070",
+   "thumbnail": "previews/profiles/1192070.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1",
+    "P1S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Pokemon Black/White - Driftveil City",
+    "profile_notes": "Plate 1: AMS with song name Plate 2: Single color This one was a bit of a challenge due to the fast pace and range of sound. If you print it, please remember to rate it! Notes in American Standard Pitch Notation: A4 E5 D#5 D5 C5 G4 A4 G5 A5 A5 A5 G4 A4 D4 G4 D4 A4 C5 B4 C5 E4 G4 A4 G4 A4 E4 E4 A4",
+    "creation_date": "2025-03-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4560,
+      "weight_g": 18.63,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4094,
+      "weight_g": 18.18,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1675336,
+   "sha256": "f87fdc1ac6706e055e8d82af76f1277df9e11902dd563e14400ad699397925a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h30.3mf.xz",
+   "instance_id": "1135383",
+   "thumbnail": "previews/profiles/1135383.jpg",
+   "print_time_h": 2.5,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 1451,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Super Mario Bros - Ground Theme",
+    "profile_notes": "Plays the Ground Theme from Super Mario Bros (NES) Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion.",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5008,
+      "weight_g": 19.86,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#AA5555"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3750,
+      "weight_g": 16.25,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1861688,
+   "sha256": "449911617cfe0f697cf9fbda6676c5def1d2fb3bfde6a963c171d0dc6820b724",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h36.3mf.xz",
+   "instance_id": "1135477",
+   "thumbnail": "previews/profiles/1135477.jpg",
+   "print_time_h": 2.6,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 87,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Sonic - Green Hill Zone",
+    "profile_notes": "Plays the Green Hill Zone theme from Sonic the Hedgehog Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion. If printing single colour, some brim might also be inside the text.",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5023,
+      "weight_g": 22.22,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#0080FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4034,
+      "weight_g": 19.06,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1500776,
+   "sha256": "2bdbc34a354632348afc6b3c1c581fe5f707eff3407e2655dbfea1981d7d47c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-2h48.3mf.xz",
+   "instance_id": "1171631",
+   "thumbnail": "previews/profiles/1171631.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Mortal Kombat - Techno Syndrome",
+    "profile_notes": "Plays the beginning the Mortal Kombat theme song (Techno Syndrome) Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion. If printing single colour, some brim might also be inside the text.",
+    "creation_date": "2025-03-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5600,
+      "weight_g": 22.46,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4446,
+      "weight_g": 19.51,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1746676,
+   "sha256": "c9b22957ecab635423a5614615ad34faf084ac3ff675ba0cc64185b1985fe485",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-36min.3mf.xz",
+   "instance_id": "1311131",
+   "thumbnail": "previews/profiles/1311131.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Terraria Overworld Day Theme",
+    "profile_notes": "This is the start of the soundtrack 01 - Overworld Day from Terraria. It is 14 notes long and it is the song that plays whilst it is Day time in the Overworld.",
+    "creation_date": "2025-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1478972,
+   "sha256": "da6bc35c118b76940b1f093948271682822a5202da9eac12bbbf3084033bea93",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-3h06.3mf.xz",
+   "instance_id": "1300517",
+   "thumbnail": "previews/profiles/1300517.jpg",
+   "print_time_h": 3.1,
+   "plates": 3,
+   "rating": 3.8,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "H2C",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "X1E",
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "Roblox Doors - Elevator Jam",
+    "profile_notes": "Version with decorations is here now! Use the version you want consisting of: 'AMS, No AMS and No decoration Print with manual support on the slider 2mm brim inside only Make sure all objects are merged Disclaimer this is my first music related project accuracy to the game may not be the best Note experimenting with print-settings might result in worse sound or failing prints Note 2 this profile is scaled up very slightly to ensure less failing in decoration Have fun and enjoy your musical fidget!",
+    "creation_date": "2025-04-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3558,
+      "weight_g": 14.55,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4090,
+      "weight_g": 15.83,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3391,
+      "weight_g": 14.34,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2657484,
+   "sha256": "2fabaef6281e2ba642f5c5a56a412e00c1ea365b209167f580425d8178f6d9b2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-3h24.3mf.xz",
+   "instance_id": "1254973",
+   "thumbnail": "previews/profiles/1254973.jpg",
+   "print_time_h": 3.4,
+   "plates": 4,
+   "rating": 4.5,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Deltarune - THE WORLD REVOLVING",
+    "profile_notes": "The first four measures of the song “THE WORLD REVOLVING” (Jevil's theme) from Deltarune Chapter 1. This model has the correct gaps between the notes, which means you can move the slider at a constant speed. Plate 1: Multicolor, no brim Plate 2: Multicolor Plate 3: Single color, no brim Plate 4: Single color",
+    "creation_date": "2025-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3116,
+      "weight_g": 18.03,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3233,
+      "weight_g": 18.43,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2672,
+      "weight_g": 16.39,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2804,
+      "weight_g": 16.81,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1663396,
+   "sha256": "a785765f27f7bce257fa7e7f9cfbe5d20e7f26ddbdaf4ba3ef6e3a4f3d1acf82",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-3h36.3mf.xz",
+   "instance_id": "1343009",
+   "thumbnail": "previews/profiles/1343009.jpg",
+   "print_time_h": 3.6,
+   "plates": 4,
+   "rating": 4.6,
+   "rating_count": 39,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "P1P",
+    "H2C",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Halo - Theme",
+    "profile_notes": "Plays the beginning of the Halo Theme Plate 1 is with colour (with brim) Plate 2 is optimized for single colour (with brim) (some brim will be within the text as well) Plate 3 is with colour and (no brim) Plate 4 is optimized for single colour (no brim)",
+    "creation_date": "2025-04-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1440168,
+   "sha256": "ca94864e57679a848b2007bc9b3deec2399154c2e81bc4d4593fb107a0bcf87a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-3h48.3mf.xz",
+   "instance_id": "1135478",
+   "thumbnail": "previews/profiles/1135478.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 124,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Tetris - Korobeiniki",
+    "profile_notes": "Plays the iconic Tetris song in two parts. Print part 1 if only printing one part! Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion.",
+    "creation_date": "2025-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7642,
+      "weight_g": 31.83,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#2323F7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5866,
+      "weight_g": 26.95,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2047916,
+   "sha256": "2982aa384a1f34e0dcbfa57965df769ff55b3795edcc45f3aca2a8ec4b3c2f68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-3h54.3mf.xz",
+   "instance_id": "1135434",
+   "thumbnail": "previews/profiles/1135434.jpg",
+   "print_time_h": 3.9,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 96,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "The Legend of Zelda - Overworld Theme",
+    "profile_notes": "Plays the Classic Zelda melod in two parts Plate 1 is for AMS Plate 2 is optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion. Update 11/3-25:fixed a colouring issue",
+    "creation_date": "2025-03-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7837,
+      "weight_g": 32.8,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#B68A69"
+       },
+       {
+        "type": "PLA",
+        "color": "#04FB30"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6202,
+      "weight_g": 28.72,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1830952,
+   "sha256": "b0834b4c29d4dc813f6eedb83b04f63ab8ae0d794bb031a449948a6a46bc26e0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-42min.3mf.xz",
+   "instance_id": "3327652",
+   "thumbnail": "previews/profiles/3327652.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "A2L",
+    "P2S",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Helldivers 2 super Earth Anthem",
+    "profile_notes": "einfach aus helldiver ssuper earth anthem wenn möglich können sie es fixen es ist etwsa sschwer zu spielen bruh",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1312324,
+   "sha256": "a4405deda0be7b7754140758aee15f6aee4a288b8ff433b35ce9fb4c1705c9c6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-4h.3mf.xz",
+   "instance_id": "1135485",
+   "thumbnail": "previews/profiles/1135485.jpg",
+   "print_time_h": 4,
+   "plates": 4,
+   "rating": 4.4,
+   "rating_count": 133,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "P2S",
+    "P1P",
+    "H2D",
+    "H2S",
+    "A1",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "Wii - Mii",
+    "profile_notes": "Plays the Mii melody from the Wii Plate 1 is for AMS (with Brim) Plate 2 is optimized for single colour printing (with Brim) Plate 3 is for AMS (without brim) Plate 4 is for single (colour printing without brim) Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion. If printing single colour, some brim might also be inside the text.",
+    "creation_date": "2025-03-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2091240,
+   "sha256": "b82e69beffe24d86632458a109109468500b41df2de8f2817d80c282dab7550b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-4h06.3mf.xz",
+   "instance_id": "1434221",
+   "thumbnail": "previews/profiles/1434221.jpg",
+   "print_time_h": 4.1,
+   "plates": 4,
+   "rating": 4.1,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "Angry Birds - Theme",
+    "profile_notes": "Plays the beginning of the Angry Birds Theme, as seen in this video (1) Angry Birds Theme Song - EASY Piano Tutorial - YouTube Plate 1 is for multicolour with brim Plate 2 is optimized for single colour with brim Plate 3 is for multicolour without brim Plate 4 is optimized for single colour without brim",
+    "creation_date": "2025-05-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1527904,
+   "sha256": "ed509a81c8dc34630bea57568007baf0d2c42670138b3fb192dc7fc166736af2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-4h24.3mf.xz",
+   "instance_id": "1426254",
+   "thumbnail": "previews/profiles/1426254.jpg",
+   "print_time_h": 4.4,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "X1",
+    "P2S",
+    "H2C",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "Pokemon Gold/Silver - Cherrygrove City",
+    "profile_notes": "Plate 1: AMS with song name Plate 2: Single color Plate 3: AMS with Brim enabled Plate 4: Single color with Brim enabled If you print it, please remember to rate it! Notes in American Standard Pitch Notation: D5 F5 D6 C6 A5 F5 D5 F5 D6 C6 D5 F5 D6 C6 A5 F5 C#5 F5 G5 F5",
+    "creation_date": "2025-05-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1669428,
+   "sha256": "203451df6e19704730b465036bfc720ee528651c61051e488816842f0b664876",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-4h36.3mf.xz",
+   "instance_id": "1254419",
+   "thumbnail": "previews/profiles/1254419.jpg",
+   "print_time_h": 4.6,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Pokemon Red/Blue - Pewter City",
+    "profile_notes": "Plate 1: AMS with song name - No Brim Plate 2: Single color - No Brim Plate 3: AMS with Brim Plate 4: Single color with Brim If you print it, please remember to rate it! Notes in American Standard Pitch Notation: B5 A5 G#5 G#5 A5 B5 B5 A5 G#5 A5 F#5 A5 G#5 F#5 F#5 G#5 A5 A5 G#5 F#5 G#5 E5",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4396,
+      "weight_g": 17.94,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3585,
+      "weight_g": 15.69,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4489,
+      "weight_g": 18.27,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#065EFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3672,
+      "weight_g": 16.01,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1670600,
+   "sha256": "fb5aaa70732f1feb42c95117ff74f9d5ac684cca054fd7fa83d49e15e1b30d05",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-4h54.3mf.xz",
+   "instance_id": "1377885",
+   "thumbnail": "previews/profiles/1377885.jpg",
+   "print_time_h": 4.9,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "P1S",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "Pokemon Red/Blue - Fuchsia City",
+    "profile_notes": "Plate 1: AMS with song name Plate 2: Single color Plate 3: AMS with Brim enabled Plate 4: Single color with Brim enabled If you print it, please remember to rate it! Notes in American Standard Pitch Notation: E5 B4 C#5 D#5 E5 F#5 G#5 A5 G#5 A5 G#5 F#5 E5 B4 C#5 D#5 E5 F#5 G#5 A5 G#5 E5 G#5 B5",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1795568,
+   "sha256": "b2a29d2b8e79922b7440097c5209f552521de4dd654c99997ea48972a59868e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-5h.3mf.xz",
+   "instance_id": "1252762",
+   "thumbnail": "previews/profiles/1252762.jpg",
+   "print_time_h": 5,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Super Mario Bros. - Underground Theme",
+    "profile_notes": "Plays the Underground Theme from SBM (nes). Plate 1 is with colour and brim Plate 2 is optimized for single colour with brim Plate 3 is with colour and without brim Plate 4 is optimized for single colour without brim For how to play, look at the video in the model description",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5227,
+      "weight_g": 21.15,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3980,
+      "weight_g": 17.45,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5075,
+      "weight_g": 20.56,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3852,
+      "weight_g": 16.97,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1746324,
+   "sha256": "520cf69f49002261c612e1e248f120e2ebd78e6dd50e213a946898f1c4e3fb78",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-5h12.3mf.xz",
+   "instance_id": "1400807",
+   "thumbnail": "previews/profiles/1400807.jpg",
+   "print_time_h": 5.2,
+   "plates": 4,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1",
+    "P1S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "Pokemon Gold/Silver - New Bark Town",
+    "profile_notes": "Plate 1: AMS with song name Plate 2: Single color Plate 3: AMS with Brim enabled Plate 4: Single color with Brim enabled If you print it, please remember to rate it! Notes in American Standard Pitch Notation: D5 E5 F#5 A5 G5 F#5 E5 G5 F#5 D5 A4 G4 A4 B4 D5 E5 D5 C#5 D5 E5 F#5 E5",
+    "creation_date": "2025-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1760732,
+   "sha256": "f532c7f631619aa1c81e82aea7543695c8dc9d47836045c48d80270b40bb4931",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-5h24.3mf.xz",
+   "instance_id": "1220724",
+   "thumbnail": "previews/profiles/1220724.jpg",
+   "print_time_h": 5.4,
+   "plates": 4,
+   "rating": 4.6,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "P2S",
+    "A1 mini",
+    "H2S",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "PAC-MAN - Theme",
+    "profile_notes": "Plays the original PAC-MAN Theme. Plate 1 is with colour and brim Plate 2 is optimized for single colour with brim Plate 3 is with colour and without brim Plate 4 is optimized for single colour without brim For how to play, look at the video in the model description",
+    "creation_date": "2025-03-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5477,
+      "weight_g": 23.25,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4405,
+      "weight_g": 19.95,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5347,
+      "weight_g": 22.76,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4242,
+      "weight_g": 19.41,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1808224,
+   "sha256": "252f0b43e0aa2e405ceaef8cb647ede92c2f7dd0837e490708818718547e6847",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-7h12.3mf.xz",
+   "instance_id": "1187026",
+   "thumbnail": "previews/profiles/1187026.jpg",
+   "print_time_h": 7.2,
+   "plates": 6,
+   "rating": 4.7,
+   "rating_count": 36,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A1",
+    "P2S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Portal - Still Alive (3 parts)",
+    "profile_notes": "Plays Still Alive from Portal. This song has 3 distinct parts, which is why it is 3 fidgets. Plate 1 - 3 is for part1-3 using AMS Plate 4 - 6 are optimized for single colour printing Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion . If printing single colour, some brim might also be inside the text.",
+    "creation_date": "2025-03-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4952,
+      "weight_g": 20.67,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#808080"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4822,
+      "weight_g": 19.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#808080"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4633,
+      "weight_g": 19.18,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#808080"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3876,
+      "weight_g": 17.22,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3761,
+      "weight_g": 16.29,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3640,
+      "weight_g": 15.85,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#808080"
+       }
+      ]
+     }
+    ],
+    "photos": 6
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2427344,
+   "sha256": "b6393555c094946dcafa83c697e5fc268776a5afdff3f986d5e2947fbb300c50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-musical-monocolor-10h42.3mf.xz",
+   "instance_id": "1135370",
+   "thumbnail": "previews/profiles/1135370.jpg",
+   "print_time_h": 10.7,
+   "plates": 12,
+   "rating": 4.7,
+   "rating_count": 95,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "(Single Colour) Ocarina of Time - 12 songs",
+    "profile_notes": "Plate 1- 12 contain the 12 songs optimized for single colour printing. Remove the Brim before assembly or remove the brim before printing if you have good bed adhesion (some brim might also be inside the text).",
+    "creation_date": "2025-02-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2917,
+      "weight_g": 12.27,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3454,
+      "weight_g": 15.16,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3267,
+      "weight_g": 14.17,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2805,
+      "weight_g": 11.65,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3070,
+      "weight_g": 13.02,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3539,
+      "weight_g": 15.73,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3426,
+      "weight_g": 14.95,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2904,
+      "weight_g": 12.14,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3073,
+      "weight_g": 13.04,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2569,
+      "weight_g": 10.28,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3905,
+      "weight_g": 18.13,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2553,
+      "weight_g": 10.16,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 12
+   },
+   "name": "Monocromo impresión en PLA",
+   "size": 4009300,
+   "sha256": "be8e32fec145d1bcd01ec7c735c466245f13f06c5401a9dcbe55e31d260b4828",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1134416",
+ "title": "antiestrés musical - Edición de videojuego",
+ "slug": "musical-fidget-video-game-edition",
+ "url": "https://makerworld.com/en/models/1134416-musical-fidget-video-game-edition",
+ "author": "kida",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Eche un vistazo a mi nuevo antiestrés, el \"Infinity Infill Cube\"\n\nCubo de relleno infinito - Modelo de impresión 3D gratuito - MakerWorld\nMembresíaApoye mi trabajo convirtiéndose en miembro y obtenga una licencia comercial para vender mis modelos.!!!Actualización #1!!!\nEl nuevo Generador Musical antiestrés ya está disponible. Pruébelo o disfrute de las más de 100 melodías nuevas. ¡Más melodías de Mario y Undertale están disponibles allí, donde se cargan todas las melodías nuevas a partir de ahora!\n\nGenerador de inquietudes musicales de kida MakerWorld: Descargar modelos 3D gratuitos\n\nEstoy feliz de presentar finalmente “Musical antiestrés – Video Game Edition”.\nA partir de ahora, esta es una colección de antiestrés que reproducen más de 30 melodías diferentes de más de 17 videojuegos conocidos. Todos ellos tienen versiones multicolor y de un solo color para que elijas e incluyen melodías desde Super Mario hasta Tetris e incluso las 12 canciones de Ocarina de Zelda. Se agradecen sugerencias para otras melodías o, mejor aún, utilice la función reprogramable de los perfiles de impresión para crear una nueva canción y cargar el perfil para que otros lo disfruten.\n\nSi está interesado en el desarrollo y la historia del antiestrés musical, eche un vistazo aquí:\n\nArtículo - kida - MakerWorld\n\nBoost Me Este modelo tomó una cantidad significativa de tiempo modelado e impresión, así que si disfrutas el trabajo, considera darle un impulso. ¡Gracias! O invítame un café si quieres apoyarme más.\n\nPara esta versión del Musical antiestrés, tuve que rediseñar el original para permitir una cantidad de longitudes de melodía nuevas, además de tocar dos notas al mismo tiempo. También se dedicó un tiempo considerable a asegurarse de proporcionar versiones de los antiestrés tanto en color como en un solo color.\nAl igual que con Original Musical antiestrés, los perfiles de impresión creados por el usuario que reproducen otras melodías relacionadas con videojuegos son muy apreciados. Para crear una nueva melodía, siga las instrucciones que se encuentran en Original Musical antiestrés.\nSi imprimiste un juguete musical antes, sabes qué esperar. De lo contrario, eche un vistazo al texto a continuación para obtener consejos y trucos y eche un vistazo al antiestrés original para ver muchas más melodías. antiestrés musical de kida - MakerWorld\n\nLas canciones\nCruce de animales – Tema\nReproduce el tema Animal Crossings New Horizons, decorado con texto en la fuente \"logotipo\".\nSuper Mario Bros – Tema terrestre\nReproduce el comienzo altamente reconocible del Nivel 1-1. La versión AMS agrega una figura de Mario de 8 bits. Recomiendo encarecidamente este antiestrés.\nSuper Mario Bros. - Tema subterráneo\nReproduce el comienzo del nivel 1-2 de Super Mario Bros. Tuve que hacer algunos cambios para que se pueda reproducir en el antiestrés Musical. Mira el vídeo para tener una idea de cómo jugarlo. En general, una melodía bastante difícil de tocar.\nSuper Mario Bros 3. - Tema del mundo exterior\nReproduce el comienzo del tema del mundo exterior de Super Mario Bros 3. Fue difícil lograr que esta melodía sonara bien, pero estoy bastante contento con los resultados. ¡Disfrutar!\nSuper Mario World - Tema del mundo exterior\nReproduce la melodía del tema Overworld comenzando justo después de la \"introducción\". Esta es una melodía encantadora que es bastante fácil de tocar correctamente, pero como siempre, es necesario conocer la melodía para poder tocarla. En multicolor, el estampado queda precioso con el texto añadido, pero queda igual de bien en un solo color. ¡Un claro favorito mío que recomiendo encarecidamente!\nAngry Birds - Tema\nReproduce el comienzo de la canción del tema Angry Bird. La versión en color incluye un pájaro en un lado y el logo en la fuente adecuada.\nPAC-MAN - Tema\nReproduce la primera parte del tema original de Pac-Man. Es una canción divertida que es relativamente fácil de tocar, pero la original debe tocarse rápido, lo cual es más desafiante. La versión en color obviamente tiene a PAC-MAN comiendo algunos puntos.\nLos secretos de la isla de los monos - Tema\nEste reproduce el tema principal de Monkey Island, la parte en la que la canción se vuelve más rápida. La última nota se improvisa ya que sin ella la melodía sonaría cortada. Bastante complicado de tocar, con tempo muy variable. ¡Pero es divertido intentar dominarlo!\nUndertale - Megalovania\nMi favorito personal. Me gusta cómo quedó el colorido con el logo y Sans. Además, la melodía se reproduce con relativa facilidad y suena genial.\nUndertale - Caído\nUna “sugerencia de usuario”. Simplemente una linda melodía.\nHalo – Tema\nReproduce el comienzo icónico del tema Halo. Es una canción lenta, así que un poco de imaginación ayudará a que suene perfecta:)\nPortal – Sigue Vivo\nUna sugerencia. Preciosa canción que tiene 3 partes bien diferenciadas. Por tanto, es un antiestrés para cada parte. Las partes 2 y 3 se suceden directamente, pero cada antiestrés funciona muy bien por sí solo. Es bastante complicado tocar con el ritmo adecuado, ¡pero se vuelve más gratificante cuando se descubre!\nCaballero hueco - Tema\nSolicitado por un par de usuarios. Suena muy bien, incluso si no conoces la melodía/ritmo. Un claro favorito.\nMortal Kombat - Síndrome Techno\nUna petición. Este es ahora el antiestrés más largo con 32 notas. Es fácil de tocar ya que todas las notas deben ser iguales.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete",
+  "ams",
+  "melodía",
+  "musical",
+  "música",
+  "juguete inquieto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe1218e8ebc1853/design/2025-02-21_9e79c8f9f14ca.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1135312.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1135358.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2590191.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1151930.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1185469.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/1136690.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/1215250.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1146417.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/1164387.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1192070.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1135383.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1135477.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1171631.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1311131.jpg": [
+   600,
+   440
+  ],
+  "previews/profiles/1300517.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1254973.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/1343009.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1135478.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1135434.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3327652.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1135485.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1434221.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1426254.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1254419.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1377885.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1252762.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1400807.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1220724.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1187026.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1135370.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

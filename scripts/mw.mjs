@@ -321,7 +321,11 @@ async function processModel(item, lib) {
       // los que hacen que el nombre valga ("perro-pastor-multicolor-1h48" y no "perro-pastor-3").
       const idx = m.files.length;
       const planned = { meta: { profile_title: p.title }, print_time_h: p.print_time_h };
-      const rel = `model/${projectFileName(m.title, { category: m.category, total: profiles.length, index: idx, file: planned })}.3mf`;
+      // El nombre sale del proyecto+variante; si otra variante del mismo modelo ya lo tiene
+      // (mismo tiempo/etiqueta), se desambigua con sufijo para no sobrescribir el archivo de otra.
+      const nameBase = projectFileName(m.title, { category: m.category, total: profiles.length, index: idx, file: planned });
+      let rel = `model/${nameBase}.3mf`;
+      for (let n = 2; m.files.some((f) => f.path === `${rel}.xz`); n++) rel = `model/${nameBase}-${n}.3mf`;
       const tmp = path.join(ROOT, ".tmp", "dl", `${item.id}-${p.instance_id}.3mf`);
       if (!(await download(signed.url, tmp))) { errors.push(`${p.instance_id}: descarga falló`); continue; }
       execFileSync("xz", ["-9", "-T0", "-f", tmp]);

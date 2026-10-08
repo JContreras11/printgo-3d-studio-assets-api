@@ -537,8 +537,7 @@
    "title": "Cubierta frontal mando PS5 / EDICION GTA VI",
    "category": "gta-vi",
    "source": "refresh",
-   "status": "failed",
-   "reason": "3747809: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}",
+   "status": "pending",
    "at": "2026-09-29T19:19:44.031Z"
   },
   {
@@ -637,8 +636,7 @@
    "title": "Touchpad Mando PS5 / GTA VI ",
    "category": "gta-vi",
    "source": "refresh",
-   "status": "failed",
-   "reason": "3747857: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}",
+   "status": "pending",
    "at": "2026-09-29T19:22:04.458Z"
   },
   {
@@ -702,8 +700,7 @@
    "title": "Cubierta 360 Mando / PS5 EDICION GTA VI",
    "category": "gta-vi",
    "source": "refresh",
-   "status": "failed",
-   "reason": "3747953: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}",
+   "status": "pending",
    "at": "2026-09-29T19:23:56.172Z"
   },
   {
@@ -6046,7 +6043,7 @@
    "title": "Hello Kitty déguisé en Mercredi addams",
    "category": "halloween-2026",
    "source": "search:Halloween 2026",
-   "status": "failed",
+   "status": "pending",
    "reason": "3806880: >95 MB comprimido",
    "at": "2026-10-08T05:11:45.331Z"
   },
@@ -6145,8 +6142,7 @@
    "title": "Spooky skull 2",
    "category": "halloween-2026",
    "source": "search:Halloween 2026",
-   "status": "failed",
-   "reason": "node scripts/validate.js falló",
+   "status": "pending",
    "at": "2026-10-08T05:15:30.486Z"
   },
   {
@@ -22964,8 +22960,7 @@
    "title": "Nintendo Switch \"Pro\" \"Consolizer\" Mod V1 V2",
    "category": "console-cases",
    "source": "search:console case",
-   "status": "failed",
-   "reason": "3713205: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}",
+   "status": "pending",
    "at": "2026-10-03T02:01:39.004Z"
   },
   {
@@ -39791,6 +39786,38 @@
    "id": "2656681",
    "slug": "michael-myers-and-jason-voorhees-horror-hueforge",
    "title": "Michael Myers and Jason Voorhees Horror Hueforge",
+   "category": "halloween-2026",
+   "source": "search:Halloween 2026",
+   "status": "pending"
+  },
+  {
+   "id": "3367129",
+   "slug": "skeleton-horse",
+   "title": "SKELETON HORSE",
+   "category": "halloween-2026",
+   "source": "search:Halloween 2026",
+   "status": "pending"
+  },
+  {
+   "id": "3393154",
+   "slug": "halloween-wreath",
+   "title": "Halloween wreath",
+   "category": "halloween-2026",
+   "source": "search:Halloween 2026",
+   "status": "pending"
+  },
+  {
+   "id": "3376768",
+   "slug": "autumn-whispers-fox-on-a-pumpkin",
+   "title": "Autumn Whispers – Fox on a Pumpkin",
+   "category": "halloween-2026",
+   "source": "search:Halloween 2026",
+   "status": "pending"
+  },
+  {
+   "id": "3245893",
+   "slug": "halloween-ghost-dogs-multi-breed-collection",
+   "title": "Halloween Ghost Dogs – Multi-Breed Collection",
    "category": "halloween-2026",
    "source": "search:Halloween 2026",
    "status": "pending"

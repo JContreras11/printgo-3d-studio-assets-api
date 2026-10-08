@@ -1,0 +1,342 @@
+{
+ "files": [
+  {
+   "path": "model/caja-naipes-multicolor-1h42.3mf.xz",
+   "instance_id": "1701050",
+   "thumbnail": "previews/profiles/1701050.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "AMS - Multicolor (Deck size 87x56x17) Normal size",
+    "creation_date": "2025-07-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1616636,
+   "sha256": "7e68d7cd7ca1ebd8cceff7ecb39a6af7a1bf33d312cbf3928d3ce72fa6fe4c7b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-naipes-1h18-2.3mf.xz",
+   "instance_id": "1701061",
+   "thumbnail": "previews/profiles/1701061.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Place front - NO SUIT SYMBOLS (Deck size 87x56x17) Normal",
+    "creation_date": "2025-07-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1461052,
+   "sha256": "f2a55cdcb9796e2a2adebfa3d9aa0a55d9d77222006781894c833e7bec30de2d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-naipes-1h18.3mf.xz",
+   "instance_id": "1718041",
+   "thumbnail": "previews/profiles/1718041.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "A1 mini",
+    "A1",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "V2 - No AMS - Arrows to open (Deck size 87x56x17)",
+    "profile_notes": "Now with indicators for how to open.",
+    "creation_date": "2025-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1573884,
+   "sha256": "bf6587cb1971e9dab0bea81b244a1f64eba98bbaf59f490d99297b4eafbcdf27",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-naipes-1h42.3mf.xz",
+   "instance_id": "1718047",
+   "thumbnail": "previews/profiles/1718047.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "V2 - AMS - Arrows to open (Deck size 87x56x17)",
+    "profile_notes": "Now with arrows to indicate how to open",
+    "creation_date": "2025-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1294228,
+   "sha256": "8bc5b1cff3b20c43e4cf3d1ad5e7a4517843f3906137d1771f78cab47a5dcdc6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-naipes-1h48.3mf.xz",
+   "instance_id": "1724422",
+   "thumbnail": "previews/profiles/1724422.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 36,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Poker Size - 3,5\" x 2,5\" - AMS",
+    "creation_date": "2025-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1302792,
+   "sha256": "596193afc32996c817c1dc87c67abc9802aa2e8879fef38b00e60810ca013264",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-naipes-multicolor-1h48.3mf.xz",
+   "instance_id": "1706669",
+   "thumbnail": "previews/profiles/1706669.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "AMS multicolor. LARGE DECK 92x60",
+    "creation_date": "2025-07-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor versión grande",
+   "size": 1688820,
+   "sha256": "5874f47af1a3be06612528c47852ce304194743454f3a79d7f22f76927a0f534",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1612419",
+ "title": "Caja de naipes Satisfying Snap",
+ "slug": "satisfying-snap-playing-card-box",
+ "url": "https://makerworld.com/en/models/1612419-satisfying-snap-playing-card-box",
+ "author": "skovby",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "La caja de naipes definitiva\nProteja sus cartas y haga que la pila de robo luzca bien al hacerlo.\n\nEsta caja de cartas compacta y táctil está hecha de dos mitades idénticas que se unen satisfactoriamente para encerrar completamente una baraja de cartas estándar. Cuando se abren, las mitades se pueden voltear y usar como soportes para las pilas de robo y descarte, perfecto para mantener las cosas ordenadas durante el juego.\n\nPara abrir simplemente agarre los extremos de la caja con los dedos sobre las flechas y deslícela.\n\nLa tapa presenta un patrón de símbolo de naipe clásico y limpio. Para los usuarios de AMS (multicolor), existe un perfil de impresión para eso. Si imprime en un solo color, también hay una versión limpia.\n\nCaracterísticas\nMitades de ajuste a presión: piezas idénticas que encajan entre sí con un agarre satisfactorio.\nProtección de la baraja: mantiene sus cartas seguras y organizadas mientras viaja.\nPila para robar lista: utiliza cada mitad como bandeja para cartas durante el juego.\nListo para varios colores: tapa optimizada para AMS con símbolos de tarjetas.\nNo se necesitan soportes: impresión limpia, sin posprocesamiento.\nDiseñado para naipes de tamaño estándar. Pero lo tengo paramétrico, así que avisa si necesitas otros tamaños. O tiene alguna otra sugerencia.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "naipe",
+  "caja",
+  "caja de naipes",
+  "funda",
+  "quebrar",
+  "satisfactorio",
+  "violín",
+  "junta",
+  "juego",
+  "viajar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc09e23fc5ef274/design/2025-07-16_ae87cf7f5a20f8.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1194
+  ],
+  "previews/02.gif": [
+   640,
+   360
+  ],
+  "previews/03.jpg": [
+   1000,
+   892
+  ],
+  "previews/04.gif": [
+   1280,
+   720
+  ],
+  "previews/profiles/1701050.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1701061.jpg": [
+   600,
+   535
+  ],
+  "previews/profiles/1718041.jpg": [
+   600,
+   535
+  ],
+  "previews/profiles/1718047.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1724422.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1706669.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

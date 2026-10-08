@@ -1,0 +1,89 @@
+{
+ "files": [
+  {
+   "path": "model/caja-tarjetas.3mf.xz",
+   "instance_id": "2813024",
+   "thumbnail": "previews/profiles/2813024.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 64,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "P2S",
+    "H2D",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.24mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1222564,
+   "sha256": "ecf6ef20002152c24b76c4fd612b119f7991a138253ca0be6a5cbe29ab94d703",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2553855",
+ "title": "Caja de tarjetas - SnapLock",
+ "slug": "card-box-snaplock",
+ "url": "https://makerworld.com/en/models/2553855-card-box-snaplock",
+ "author": "mteomarch",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Boost MeSi te gusta este modelo, ¡considera potenciarlo! Gracias por su apoyoCard Box\n\nCaja de naipes, dimensiones 56x87 (+2mm por lado), altura máxima de la baraja 35mm.\nAdecuado para cualquier baraja de cartas dentro de las dimensiones especificadas.\n\nPara otras personalizaciones, ¡contáctame! ¡Más proyectos seguirán!\n\nComo siempre, he separado todos los objetos por color. Si tienes dos AMS, no hay problema. Si tienes uno, puedes seguir esta guía en el foro de bambulab o asignar los colores como quieras.\n\nNo requiere ningún accesorio externo para el montaje, por lo que no necesita tornillos, ni trozos de filamento ni cables que cortar a medida.\n\nEncontrarás más personalizaciones y otros tamaños para adaptarlos a los distintos juegos que tenemos en casa en mi perfil.\n\nSi tienes alguna petición, escribe por MP.\n\nDivertirse",
+ "use_cases": [],
+ "tags": [
+  "cierre a presión",
+  "caja de cierre a presión",
+  "tarjeta de cierre a presión",
+  "caja de tarjetas con cierre a presión",
+  "tarjetero con cierre a presión",
+  "caja de seguridad con cierre a presión",
+  "caja de coche con cierre a presión",
+  "snaplock todo salvaje",
+  "funda de tarjeta",
+  "caja de tarjeta"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-03-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US52809cef6dcae1/design/da09d149f5e1d6a6.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2813024.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

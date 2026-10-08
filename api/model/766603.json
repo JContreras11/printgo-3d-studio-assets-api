@@ -1,0 +1,169 @@
+{
+ "files": [
+  {
+   "path": "model/juego-cartas.3mf.xz",
+   "instance_id": "701890",
+   "thumbnail": "previews/profiles/701890.jpg",
+   "print_time_h": 5.5,
+   "plates": 5,
+   "rating": 4.5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "layer 0.20 4 colori",
+    "creation_date": "2025-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4694,
+      "weight_g": 41.9,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4330,
+      "weight_g": 42.24,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4197,
+      "weight_g": 42.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4330,
+      "weight_g": 42.24,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2310,
+      "weight_g": 11.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F72323"
+       },
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFF00"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 930232,
+   "sha256": "2cc8ad06b529ff318a33363b764a974c368393a0b8aee4a71042b72e2da829ab",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "766603",
+ "title": "juego de cartas de equilibrio",
+ "slug": "balance-card-game",
+ "url": "https://makerworld.com/en/models/766603-balance-card-game",
+ "author": "DomiiCatiti",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Juego de mesa de equilibrio de cartas.\nJugadores 2+.\nMáximo 4 equipos divididos por colores.\nEl orden de juego es aleatorio y se elige entre el orden de la baraja de cartas.\nPierde el equipo al que se le caigan todas las cartas.",
+ "use_cases": [],
+ "tags": [
+  "juegos de mesa",
+  "juego de mesa",
+  "junta",
+  "juego",
+  "juegos",
+  "tarjeta",
+  "juego de cartas"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-11-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb8869ded5befbe/design/2024-11-07_b01c5b9d6a29d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/701890.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

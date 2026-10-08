@@ -1,0 +1,182 @@
+{
+ "files": [
+  {
+   "path": "model/juego-tres-2h48.3mf.xz",
+   "instance_id": "1841755",
+   "thumbnail": "previews/profiles/1841755.jpg",
+   "print_time_h": 2.8,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 153,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "P1S",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Halloween tic tac toe",
+    "creation_date": "2025-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 9478684,
+   "sha256": "c3a866d86330a6352cc06d1586a987e7e6237451d796a0e89cfca20f14648f15",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-tres-1h24.3mf.xz",
+   "instance_id": "1855478",
+   "thumbnail": "previews/profiles/1855478.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "AMS 0.2mm layer, 2 walls, 15% infill (1 plate)",
+    "profile_notes": "Print in place, in 1 plate to save time. Also, I have also reduced the size to make it more portable (about 10x10cm).",
+    "creation_date": "2025-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9655204,
+   "sha256": "e7493e48597884b753f601f32a9e010ff2b6841aff90edf08bc940a7082fde57",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-tres-2h36.3mf.xz",
+   "instance_id": "3794036",
+   "thumbnail": "previews/profiles/3794036.jpg",
+   "print_time_h": 2.6,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.24mm layer, 2 walls, 6% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.24",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 9871732,
+   "sha256": "35881a8b1a92c4a7350f1277dba822acf1c49c12ae4d1157d85190855b2ef808",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1733699",
+ "title": "Juego de tres en raya de Halloween",
+ "slug": "halloween-tic-tac-toe-game",
+ "url": "https://makerworld.com/en/models/1733699-halloween-tic-tac-toe-game",
+ "author": "MKONAPELSKY",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¡Trae un poco de diversión espeluznante a la noche de juegos con este juego de Halloween Tic Tac Toe!\nCon adorables fantasmas y calabazas como piezas de juego, este giro festivo de un juego clásico es perfecto tanto para niños como para adultos.\nNo requiere AMS: imprime fácilmente en colores únicos en planchas separadas.\nDiseño divertido y de temporada que se imprime y configura rápidamente.\nIdeal para fiestas, viajes de campamento o como linda decoración de mesa.\nImprima en blanco/naranja tradicional o personalícelo con sus propias combinaciones de colores.\n¡Un estampado sencillo y divertido que también funciona como juego familiar y decoración de temporada!\n\nLos platos de calabaza y fantasma solo tienen 1 de cada uno en el perfil, tú eliges cuántos quieres imprimir; te sugiero que imprimas más en funda de que se pierda alguna pieza.",
+ "use_cases": [],
+ "tags": [
+  "niños",
+  "juego",
+  "tres en raya",
+  "víspera de todos los santos",
+  "fantasma",
+  "calabaza",
+  "escuela",
+  "fiesta",
+  "decoración",
+  "juego de mesa de café",
+  "cámping"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USed40e65ac1d9d1/design/2025-08-25_7a7211e2644d9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1841755.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1855478.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3794036.jpg": [
+   600,
+   635
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

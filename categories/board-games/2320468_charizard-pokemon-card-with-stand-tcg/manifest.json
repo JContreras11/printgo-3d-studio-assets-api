@@ -1,0 +1,95 @@
+{
+ "files": [
+  {
+   "path": "model/tarjeta-pokemon.3mf.xz",
+   "instance_id": "2534275",
+   "thumbnail": "previews/profiles/2534275.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 119,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "A1 mini",
+    "P2S",
+    "X1E",
+    "H2C",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Base model with stand",
+    "creation_date": "2026-01-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6447404,
+   "sha256": "b87d194f71791c86d8b4c1a7e17462585d9f7a2341a2635420c4cebe288ff6f2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2320468",
+ "title": "Tarjeta Pokémon Charizard con soporte / TCG",
+ "slug": "charizard-pokemon-card-with-stand-tcg",
+ "url": "https://makerworld.com/en/models/2320468-charizard-pokemon-card-with-stand-tcg",
+ "author": "Lynns",
+ "category": "board-games",
+ "source_category": "Miniaturas > Criaturas",
+ "description": "¡Da vida a la carta más emblemática de la historia del juego de cartas coleccionables! Esta es una escultura en relieve 3D de gran detalle del clásico Charizard (estilo Base Set), que presenta al dragón saliendo del marco de la tarjeta.\nPerfecto para entusiastas de los juegos retro, coleccionistas de Pokémon o como adorno de escritorio único. El modelo captura el texto \"Energy Burn\" y \"Fire Spin\" junto con la pose dinámica de Charizard.\nCaracterísticas clave:\nArte en relieve 3D: el personaje sale del marco de la tarjeta 2D para lograr un efecto visual impresionante.\nSoporte integrado/simple: Incluye una base resistente para mostrar la tarjeta en el ángulo perfecto.\nAlto detalle: optimizado para la impresión FDM para capturar el texto y los rasgos faciales.\nRecomendaciones de configuración de impresión:\nMaterial: PLA (¡El naranja queda genial, o imprime en blanco y píntalo!).\nAltura de capa: se recomienda 0,12 mm o 0,16 mm para obtener el mejor detalle en la cara y el texto.\nRelleno: 10-15% Gyroid.\nSoportes: Requeridos para las alas y el hocico. Se recomiendan encarecidamente los soportes para árboles/orgánicos para una extracción más fácil y superficies más limpias.\n¡Feliz impresión! Si te gusta este modelo, ¡deja un me gusta y comparte tus marcas!",
+ "use_cases": [],
+ "tags": [
+  "pokémon",
+  "charizard",
+  "jcc",
+  "tarjeta",
+  "animado",
+  "nintendo",
+  "dragón",
+  "dragones",
+  "fuego",
+  "alivio",
+  "escultura"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US75f7d1591af2e4/design/f08d8b8af70984e8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   701
+  ],
+  "previews/02.png": [
+   1000,
+   765
+  ],
+  "previews/profiles/2534275.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

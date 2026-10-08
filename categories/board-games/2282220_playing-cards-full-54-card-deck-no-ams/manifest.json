@@ -1,0 +1,93 @@
+{
+ "files": [
+  {
+   "path": "model/naipes-baraja.3mf.xz",
+   "instance_id": "2488924",
+   "thumbnail": "previews/profiles/2488924.jpg",
+   "print_time_h": 7.1,
+   "plates": 10,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "P1P",
+    "X1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión estándar",
+   "size": 2157460,
+   "sha256": "28747556fa4d2313237c0ec30465d95f31a90793c97cddc41ab7795acec132b4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2282220",
+ "title": "Naipes - Baraja completa de 54 cartas",
+ "slug": "playing-cards-full-54-card-deck-no-ams",
+ "url": "https://makerworld.com/en/models/2282220-playing-cards-full-54-card-deck-no-ams",
+ "author": "Zalusky",
+ "category": "board-games",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Naipes - baraja completa\nBaraja de cartas completa, incluidas las 54 cartas.\nAltura de la capa: 0,08*4 + 0,08*2\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "tarjetas",
+  "jugar",
+  "jugando",
+  "tarjeta",
+  "naipes",
+  "cubierta completa",
+  "juegos",
+  "póker",
+  "multicolor"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5d584419e8808f/design/8e71350aa3df047e.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/2488924.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

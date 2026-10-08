@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/pago-contacto.3mf.xz",
+   "instance_id": "2895554",
+   "thumbnail": "previews/profiles/2895554.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 48,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 837232,
+   "sha256": "3a6f525f4fb6dafa3274a7e22a945966cc5dabc780b05c00454031c19c875d97",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2623136",
+ "title": "Pago de contacto",
+ "slug": "contact-payment",
+ "url": "https://makerworld.com/en/models/2623136-contact-payment",
+ "author": "Francesco_3D",
+ "category": "board-games",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Esta idea se me ocurrió cada vez que pagas con tarjeta de débito y dices \"tarjeta\". Entonces, ¿por qué no insertar la tarjeta de débito en este tarjetero con forma de tarjeta y pagar? Es muy divertido ver la expresión de los cajeros.\n- Añade la parte trasera con el color que prefieras.\nPara unirlos, use un poco de superpegamento en los bordes. Lógicamente no pegues la parte donde se inserta la tarjeta.",
+ "use_cases": [],
+ "tags": [
+  "tarjeta de cajero automático",
+  "contacto",
+  "sin contacto",
+  "también",
+  "tarjeta de crédito",
+  "broma",
+  "tiktok"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US187ed731b9a66c/design/57f400810fbaa426.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2895554.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

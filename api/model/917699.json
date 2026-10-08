@@ -1,0 +1,116 @@
+{
+ "files": [
+  {
+   "path": "model/explosion-dinamita.3mf.xz",
+   "instance_id": "879365",
+   "thumbnail": "previews/profiles/879365.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.4mm noozle AMS",
+    "creation_date": "2025-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5155,
+      "weight_g": 31.45,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 938,
+      "weight_g": 1.96,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 469316,
+   "sha256": "65422b928153acf2ed199998237b384011ff41964c44c772e8692e6ecdfc503a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "917699",
+ "title": "explosión de dinamita",
+ "slug": "bang-dynamite",
+ "url": "https://makerworld.com/en/models/917699-bang-dynamite",
+ "author": "radek.valigura",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Cartucho de dinamita simple para el juego de cartas Bang!\n\nAsamblea:\n- Pasar un cordel por el tornillo superior y atarlo en un extremo con un guiño.\n- Enrosca el tapón al modelo, en ocasiones tendrás que lijarlo un poco.\n\nTambién intenté imprimirlo verticalmente, lo que ocultaba el paso de capas, pero requería soportes para el texto. También puedes imprimirlo sin AMS y pintar el texto después.\n\nTambién estoy agregando un archivo exportado de Fusion 360 si alguien lo quiere:)",
+ "use_cases": [],
+ "tags": [
+  "dinamita",
+  "estallido",
+  "juego de explosión",
+  "juego de cartas"
+ ],
+ "license": "BY-NC",
+ "release_date": "2024-12-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1e8fc83ddbd091/design/2024-12-27_cb7026fa87005.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   747
+  ],
+  "previews/profiles/879365.jpg": [
+   600,
+   308
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

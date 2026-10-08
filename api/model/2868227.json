@@ -1,0 +1,140 @@
+{
+ "files": [
+  {
+   "path": "model/naipes-impermeables-16h54.3mf.xz",
+   "instance_id": "3201772",
+   "thumbnail": "previews/profiles/3201772.jpg",
+   "print_time_h": 16.9,
+   "plates": 18,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Playing cards - A1 mini",
+    "profile_notes": "For the A1 mini (three cards per plate)",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 18
+   },
+   "name": "Versión mini",
+   "size": 5389300,
+   "sha256": "ee0cf7f89d65b036c90db25c987dda8f7108d89985492eee3791e2938134661e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/naipes-impermeables-13h06.3mf.xz",
+   "instance_id": "3201810",
+   "thumbnail": "previews/profiles/3201810.jpg",
+   "print_time_h": 13.1,
+   "plates": 10,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Playing cards - All printers",
+    "profile_notes": "Print profile for all Bambu printers other than A1 mini - 6 cards per plate",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión estándar",
+   "size": 5509352,
+   "sha256": "6dfe69df2f47553cc3f25cfba096687eea7f60195d6062555ce8070c224674b5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2868227",
+ "title": "Naipes: impermeables y resistentes al viento",
+ "slug": "playing-cards-waterproof-and-windproof",
+ "url": "https://makerworld.com/en/models/2868227-playing-cards-waterproof-and-windproof",
+ "author": "JackGC",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Baraja estándar de 52 cartas. Lo suficientemente delgado como para doblarse y arrastrarse, lo suficientemente grueso como para resistir el viento con la brisa. Ideal para acampar, playas y piscinas, patios traseros y otros usos al aire libre. Para obtener mejores resultados, utilice negro o un color oscuro similar para el reverso de las tarjetas. El filamento de color claro puede verse a través de luces brillantes.",
+ "use_cases": [],
+ "tags": [
+  "tarjetas",
+  "jugando a las cartas",
+  "cubierta"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbcc70d44834682/design/48eb652220b6ebe4.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3201772.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3201810.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

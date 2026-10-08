@@ -1,0 +1,191 @@
+{
+ "files": [
+  {
+   "path": "model/videojuego-tarjeta-monocolor-2h24.3mf.xz",
+   "instance_id": "3728323",
+   "thumbnail": "previews/profiles/3728323.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "SINGLE-COLOUR VERSION",
+    "profile_notes": "Print profile optimized for single color printing",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "14%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 2018888,
+   "sha256": "189479db660db28c9326b51cd04bad5f164951d3745a75f753c7e2734467b569",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/videojuego-tarjeta-18min.3mf.xz",
+   "instance_id": "3728331",
+   "thumbnail": "previews/profiles/3728331.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "GAME BOX ONLY",
+    "profile_notes": "In this press profile you will find the only game box without text that can be customized with stickers or with writings of your choice",
+    "creation_date": "2026-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1705664,
+   "sha256": "4c507183faf460d10ac79769d5f5381dff5e1334bd0c34a546330d009c209025",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/videojuego-tarjeta-multicolor-4h30.3mf.xz",
+   "instance_id": "3728327",
+   "thumbnail": "previews/profiles/3728327.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "MULTI-COLOUR VERSION",
+    "profile_notes": "Print profile optimized for Multi color printing",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1980924,
+   "sha256": "96100277e7a42b0cca530522c6aad6a6e8635afb786633142f1ba16c04a2a616",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3286510",
+ "title": "VIDEOJUEGO - TARJETA KIT",
+ "slug": "video-game-kit-card",
+ "url": "https://makerworld.com/en/models/3286510-video-game-kit-card",
+ "author": "Savy_Maker",
+ "category": "board-games",
+ "source_category": "Herramientas > Gadgets",
+ "description": "El proyecto es mucho más que una simple reproducción estética: una vez ensamblado, cada elemento puede ser operado y observado mientras funciona, permitiendo comprender concretamente cómo simples componentes mecánicos pueden transformar un empujón en movimiento.\nUn pequeño laboratorio mecánico\nUno de los aspectos más interesantes del proyecto es el sistema de expulsión de cartuchos.\nA través de un sistema de palancas, una simple presión sobre el control genera el movimiento necesario para levantar y expulsar el cartucho. De hecho, al presionar la palanca en forma de L se activa una rotación de 48° de un segundo mecanismo en forma de S, que actúa sobre el pasador central y empuja el cartucho hacia afuera.\nEs particularmente interesante observar cómo un movimiento hacia abajo de aproximadamente 5 mm aplicado desde arriba se transmite de una palanca a la siguiente, ¡lo que resulta en que el cartucho sea expulsado los mismos 5 mm!\nOtro elemento educativo importante es el uso de resortes. No se requieren componentes comprados por separado. Esto permite a los niños observar directamente cómo funciona un sistema elástico y comprender intuitivamente su principio básico.\nUna simple tira de material, cuando se dobla varias veces hasta darle la forma correcta, puede producir una reacción elástica, algo que no sucedería con una geometría diferente.\n\nEl sistema de palancas también brinda la oportunidad de introducir conceptos fundamentales como:\ntransmisión de movimiento\nfulcro y brazo de palanca\nfuerza y desplazamiento\nenergía elástica\ncompresión y expansión de un resorte\nconversión de un tipo de movimiento en otro\nEn lugar de simplemente leer una explicación de estos conceptos, los niños pueden tocarlos, operarlos y ver inmediatamente el resultado.\n\n1. Imprimir\nObserve cómo un objeto complejo se puede dividir en numerosas partes simples y fabricar mediante impresión 3D.\n2. ensamblar\nComprender cómo encajan las diferentes piezas y cómo la geometría de cada componente es fundamental para conseguir un correcto funcionamiento.\n3. Operar\nPresione los botones, mueva las palancas y use el mecanismo de expulsión del cartucho.\n4. Observar\nObserva directamente cómo una fuerza aplicada en un punto puede producir movimiento en otro.\n5. Experimentar\nExplora cómo funcionan los mecanismos y, si lo deseas, modifícalos o diseña otros nuevos.\n\nEl modelo está completamente ensamblado sin pegamento ni componentes adicionales: se puede hacer clic en todos los botones y el mecanismo de palanca + resorte le permite expulsar el cartucho con un simple empujón.\n\nSolo piezas impresas en 3D\n\nBotones totalmente seleccionables\nSistema de expulsión de cartuchos\nPalanca + mecanismo de resorte.\nCompatible con Bambu Lab A1 mini.\nCasetes de juego personalizables: creé un perfil de impresión solo con el casete del juego sin nada escrito; Puedes personalizarlo como quieras, incluso con los stickers que adjunté al proyecto.\n\n¡Un proyecto compacto y divertido, perfecto para los entusiastas de los retrogaming y la impresión 3D!\n\nBoost MeBoost es GRATIS para ti pero IMPRESIONANTE para MÍ. Que sociedad tan extraña hoy en día, Puedes pagarme por mi trabajo sin gastar un solo dólar. Membresía Suscríbete y tendrás muchas más posibilidades de utilizar mis modelos 3D con fines comerciales.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "tarjeta del kit",
+  "tarjeta kit",
+  "agitarse"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa23d92a6173203/design/e6508bd352a9b396.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3728323.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3728331.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3728327.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

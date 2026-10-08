@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/buuno-juego.3mf.xz",
+   "instance_id": "3832340",
+   "thumbnail": "previews/profiles/3832340.jpg",
+   "print_time_h": 16.6,
+   "plates": 11,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 11
+   },
+   "name": "Versión estándar",
+   "size": 5258112,
+   "sha256": "cc1ad5e3c72da991e50feb3b106d17af59c74ec53f964f39ba2f8ce5f810b44d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3369611",
+ "title": "BUUNO - El juego de cartas imprimible en 3D",
+ "slug": "buuno-the-3d-printable-card-game",
+ "url": "https://makerworld.com/en/models/3369611-buuno-the-3d-printable-card-game",
+ "author": "alex_s1499",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¿Estás listo para una divertida noche de juegos? Permítanme presentarles BUUNO, un juego de cartas totalmente imprimible en 3D inspirado en el clásico UNO, pero con un toque único: ¡la adición de un dado especial que cambia el destino del juego!\nEl diseño incluye detalles temáticos en relieve (calabazas, fantasmas, brujas, vampiros, arañas), lo que lo hace perfecto para Halloween o para una noche de juegos espeluznante durante todo el año.\nQué encontrarás en los archivos de descarga:\nSet de Cartas: Cartas numeradas y especiales finamente modeladas en 3D.\nLos dados BUUNO: el verdadero corazón del juego, con caras personalizadas.\nTarjetero (Dispensador): Un fantástico dispensador para las pilas de sorteo y descarte, decorado con un diseño de telaraña.\nLAS REGLAS DE BUUNO\nLas reglas básicas siguen la lógica clásica (hacer coincidir el color, símbolo o número de la carta superior en la pila de descarte), ¡pero con mecánicas completamente nuevas!\nLa Tirada de Dados (¡La nueva característica!) Cuando es tu turno y no tienes una carta jugable en tu mano, no robas una carta aleatoria del mazo. En su lugar, debes tirar los dados especiales. Esto es lo que sucede según el resultado:\n+1: Debes robar 1 carta del mazo.\n+2: Debes robar 2 cartas del mazo.\n+3: Debes robar 3 cartas del mazo.\n-1 (¡Golpe de suerte!): ¡Puedes descartar inmediatamente una carta de tu elección de tu mano!\nLas Cartas Especiales Además de los números clásicos, la baraja incluye cartas para sabotear a tus oponentes:\n+3 Cartas: El siguiente jugador debe robar 3 cartas y se salta su turno.\n+5 Cartas: ¡Una verdadera maldición! El siguiente jugador debe robar 5 cartas y se salta su turno.\nDetener: el siguiente jugador se salta su turno.\nLa regla de oro: \"¡BUUNO!\" Según la tradición, el objetivo del juego es quedarse sin cartas. Cuando estés a punto de jugar tu penúltima carta y te quedes solo con una carta en la mano, deberás gritar en voz alta: \"¡BUUNO!\". Advertencia: si te olvidas de decirlo y otro jugador se da cuenta antes de que pase el turno, ¡tendrás que robar 2 cartas de penalización!\nConsejos de impresión 3D\nEste proyecto está diseñado para imprimirse y personalizarse fácilmente:\nColores de tarjetas: ¡No necesitas decenas de archivos diferentes! Puede imprimir exactamente los mismos archivos de tarjetas simplemente cambiando el color del filamento (por ejemplo, imprimir un juego rojo, un juego azul, un juego verde, un juego amarillo, etc.).\nDetalles en relieve: Los diseños y números de las tarjetas están en relieve. Puede utilizar un sistema multicolor (como Bambu Lab AMS) o configurar un cambio de color de filamento simple (Pausa en altura) en su cortadora para las capas finales. Esto hace que los símbolos se destaquen con un color contrastante (por ejemplo, base violeta, diseños negros).\nMaterial recomendado: PLA o PETG funcionan perfectamente.\nResolución: Se recomienda una altura de capa de 0,16 mm o 0,20 mm para obtener tarjetas suaves y detalles bien definidos.\n¡Feliz impresión y diviértete jugando BUUNO!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "uno",
+  "bueno",
+  "juego de cartas",
+  "juego de halloween",
+  "superficie de la mesa",
+  "tarjetas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US41196bf3327456/design/a19c844f4e5bce88.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   788
+  ],
+  "previews/02.jpg": [
+   1000,
+   477
+  ],
+  "previews/03.jpg": [
+   1000,
+   1776
+  ],
+  "previews/04.jpg": [
+   1000,
+   1776
+  ],
+  "previews/05.jpg": [
+   1000,
+   1776
+  ],
+  "previews/06.jpg": [
+   1000,
+   563
+  ],
+  "previews/07.jpg": [
+   1000,
+   1776
+  ],
+  "previews/08.jpg": [
+   1000,
+   1776
+  ],
+  "previews/profiles/3832340.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

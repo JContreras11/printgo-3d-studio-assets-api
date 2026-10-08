@@ -1,0 +1,177 @@
+{
+ "files": [
+  {
+   "path": "model/tarjeta-kit-30min.3mf.xz",
+   "instance_id": "220108",
+   "thumbnail": "previews/profiles/220108.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 33,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Normal version",
+    "creation_date": "2025-01-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1651,
+      "weight_g": 5.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DD4646"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2424560,
+   "sha256": "75591b89f27df385282d342d3020d93f08288130dc1dc5122009413505c2b77d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tarjeta-kit-24min.3mf.xz",
+   "instance_id": "220140",
+   "thumbnail": "previews/profiles/220140.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.08.04.50",
+    "profile_title": "Simple Version",
+    "creation_date": "2024-02-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1619,
+      "weight_g": 5.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#DD4646"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2415100,
+   "sha256": "2cfe2a7653c0b612d8ad7a1731a22b42ac4bdef435a2ddad77fef3596c6c3379",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "199572",
+ "title": "Tarjeta de kit de fútbol de bolsillo",
+ "slug": "pocket-football-kit-card",
+ "url": "https://makerworld.com/en/models/199572-pocket-football-kit-card",
+ "author": "FGorgo",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Descripción\nConozca \"Pocket Football\", su puerta de entrada de tamaño divertido a partidos de fútbol instantáneos, ¡sin importar dónde se encuentre! Imagínese poder guardar un partido de fútbol completo en su bolsillo. Bueno, ahora puedes. Esta pequeña e inteligente creación toma la forma de algo tan pequeño como tu documento de identidad o tu licencia de conducir, pero con una novedad: se transforma en un minijuego de fútbol en tan solo unos momentos.\nDiseñado para divertirse mientras viaja, Pocket Football se trata de aprovechar al máximo esos momentos libres. ¿Estás esperando un autobús o necesitas un descanso rápido? ¡Saca tu Pocket Football, junta un poste y una pelota y estarás listo para el saque inicial! Es tan fácil de usar que cualquiera puede dominarlo en poco tiempo.\nAdvertencia\nNo se recomiendan filamentos mate para este modelo.\nEste modelo tiene algunas piezas con voladizos y tolerancias ajustadas. Si tiene dificultades para imprimirlo, he incluido una 'Versión simple' con un mecanismo de montaje más sencillo.\nGuía de montaje\nPaso 1: retira la pelota y las piezas del trofeo.\n\nPaso 2: levanta la pieza numerada hasta que haga clic.\n\nPaso 3: ¡Diviértete!\n\nImpulsar la membresía",
+ "use_cases": [],
+ "tags": [
+  "tarjeta del kit",
+  "tarjeta kit",
+  "fútbol americano",
+  "fútbol",
+  "bolsillo",
+  "juego de bolsillo",
+  "portátil",
+  "juguete",
+  "juego",
+  "edc",
+  "divertido",
+  "jugar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-02-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US80ef1c55e6d446/design/2024-02-23_5cc41358550338.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.gif": [
+   702,
+   526
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/220108.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/220140.jpg": [
+   512,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

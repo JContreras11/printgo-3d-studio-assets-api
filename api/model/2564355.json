@@ -1,0 +1,126 @@
+{
+ "files": [
+  {
+   "path": "model/naipe-contacto.3mf.xz",
+   "instance_id": "2825868",
+   "thumbnail": "previews/profiles/2825868.jpg",
+   "print_time_h": 4,
+   "plates": 6,
+   "rating": 4.7,
+   "rating_count": 32,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "A1 mini",
+    "X2D",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "P1P",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.1mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 1364752,
+   "sha256": "cbfff434735c44c2a6e7740d65c3efd2a6a89252c4dfcda4b18e7d61e9a3d11b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2564355",
+ "title": "Naipe \"sin contacto\"",
+ "slug": "contactless-playing-card",
+ "url": "https://makerworld.com/en/models/2564355-contactless-playing-card",
+ "author": "user_257666020",
+ "category": "board-games",
+ "source_category": "Herramientas > Gadgets",
+ "description": "¿Tarjeta o tarjeta de débito?\n¡Tarjeta, as de corazones, espadas, tréboles, diamantes!\nRéplicas de ases donde podrás insertar una tarjeta de débito, crédito o prepago.\nDe impresión fácil y rápida, el diseño presenta 2 caras: una con impresión inversa para recrear el as de corazones, y la segunda para crear la ranura para insertar la tarjeta.\n¡Con un poco de pegamento, el proyecto está completo!\n¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "tarjeta",
+  "naipe",
+  "as",
+  "as de corazones",
+  "póker",
+  "truco de magia",
+  "truco",
+  "espejismo",
+  "divertido",
+  "meme",
+  "memes",
+  "copas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbe88fca8c47f4a/design/d8251848bfd5a3a4.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2825868.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

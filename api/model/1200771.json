@@ -1,0 +1,232 @@
+{
+ "files": [
+  {
+   "path": "model/v3-paso-3h24.3mf.xz",
+   "instance_id": "1213760",
+   "thumbnail": "previews/profiles/1213760.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 518,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, Print by Part, 2 walls, 15% infill",
+    "creation_date": "2025-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 12141,
+      "weight_g": 46.5,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#307FE2"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 12549248,
+   "sha256": "9b79fbd87d386ec5d23958e3268581705e19e604ff54d1a2cdf444363deaa387",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/v3-paso-3h42.3mf.xz",
+   "instance_id": "3510601",
+   "thumbnail": "previews/profiles/3510601.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Extra AMS für P2S",
+    "profile_notes": "Ich freue mich wenn Sie das Model bewerten.",
+    "creation_date": "2026-07-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 13735488,
+   "sha256": "a2fbf9da8470a1d471988a60de616f5efc61bbad61948c118e76e751cec0616c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/v3-paso-4h12.3mf.xz",
+   "instance_id": "1466145",
+   "thumbnail": "previews/profiles/1466145.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 122,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-05-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12468752,
+   "sha256": "a51da4402ca01ca929b6446121faa83c197154913c3bb2eb01d8984ad2e1217b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/v3-paso-6h18.3mf.xz",
+   "instance_id": "3307028",
+   "thumbnail": "previews/profiles/3307028.jpg",
+   "print_time_h": 6.3,
+   "plates": 5,
+   "rating": 4.6,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1E",
+    "A1",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "All Variatns Shown, 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 42899648,
+   "sha256": "adb28d6b90dad16d12dcf48803c4b8247186a959eac056d87ab61adced8c908b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1200771",
+ "title": "Serie V3: paso de hélice",
+ "slug": "v3-series-helix-passthrough",
+ "url": "https://makerworld.com/en/models/1200771-v3-series-helix-passthrough",
+ "author": "RJDesign",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Nota: Recomiendo no utilizar filamento Silk para Helix.\nNota 2: Los perfiles AMS funcionan sin AMS: solo imprimirá un color\n\nEl diseño\n\nMi última incorporación a la serie V3 ya está aquí. Una hélice de altura completa a 179 mm (180 mm causa problemas) con una plomada interna\n\nLas dimensiones del Helix son aproximadamente: 179 mm x 46 mm x 46 mm\nLas dimensiones del Plumbob son: 68 mm x 32 mm x 32 mm\n\nHacer clic en la parte interior debería ser bastante intuitivo, pero puedo agregar imágenes si es necesario.\n\nDéjame saber si tienes algún problema.\n\nLos \"impulsos\" recompensan a los creadores de los modelos que te gustan.\n\nSi te gusta este modelo, ¡considera darle un impulso!\n\nBoost MeNunca fue necesario, siempre se agradece.\n\nImpresión\n\nRecomiendo no usar Silk para Helix. La placa de construcción debe estar limpia para una buena adhesión.\n\nHelix utiliza una altura de capa variable para garantizar un buen acabado.\n\nAsegúrese de que el filamento esté relativamente seco (el filamento húmedo parece tener un acabado superficial deficiente)\n\nUna vez impresa, deje que la placa de construcción se enfríe antes de intentar retirarla.\n\n2 perfiles de impresión míos:\n\nImpresión monocolor por pieza\nImpresión a dos colores por pieza (para las series A y P/X)\n\nmi trabajo\nDespués de muchos años en Ingeniería, he decidido intentar seguir el sueño de mi infancia de convertirme en Diseñadora Creativa.\n¿Un Diseñador Creativo de qué? ¡Ni idea! Ahora mismo me gustan mucho los rompecabezas, los mecanismos y las esculturas cinéticas así que ahí es donde voy a centrar mis esfuerzos.\n\nMembresía Si desea vender impresiones de mis diseños o simplemente apoyarme, suscríbase a la licencia comercial. ¡Gracias!\nO puedes unirte a mi Patreon para obtener diseños más exclusivos aquí:",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "v3",
+  "paso a través",
+  "cono",
+  "plomada",
+  "imposible",
+  "divertido",
+  "serie",
+  "bambu",
+  "arte",
+  "hilo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa5744b83e684bc/design/2025-03-11_7769eda0a6834.jpg",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   400,
+   534
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1213760.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3510601.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1466145.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/3307028.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

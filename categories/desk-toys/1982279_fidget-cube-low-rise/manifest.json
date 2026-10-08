@@ -1,0 +1,196 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-cube-monocolor-1h06.3mf.xz",
+   "instance_id": "2132511",
+   "thumbnail": "previews/profiles/2132511.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 95,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "P1P",
+    "P1S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "single color 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "This is a high adhesion profile: the speed of building walls and the first layer has been slowed down to avoid print quality or tolerance issues.",
+    "creation_date": "2025-11-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 963268,
+   "sha256": "dfca4061676f985936a12551e0b0a4f74be01453e64f094081b23997515c7ffe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cube-1h06.3mf.xz",
+   "instance_id": "2190069",
+   "thumbnail": "previews/profiles/2190069.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "H2C",
+    "X1E",
+    "X1",
+    "H2S",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 0% infill",
+    "profile_notes": "just changed the material type, that was super, thanks for the author. %0 infill :D",
+    "creation_date": "2025-11-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1262980,
+   "sha256": "cf1d9b44e4e2557bcc6dce6be7bb4a382c707515a43abca271bf24cf24c34d36",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-cube-1h24.3mf.xz",
+   "instance_id": "3872473",
+   "thumbnail": "previews/profiles/3872473.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.00.50",
+    "profile_title": "bigger and better for bigger hands",
+    "profile_notes": "This is a high adhesion profile: the speed of building walls and the first layer has been slowed down to avoid print quality or tolerance issues.",
+    "creation_date": "2026-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1036420,
+   "sha256": "430ad6767871f83166b257336cdab11d74f8ffb55137d0b4708ce5e0d2c233b1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1982279",
+ "title": "antiestrés Cube - De poca altura",
+ "slug": "fidget-cube-low-rise",
+ "url": "https://makerworld.com/en/models/1982279-fidget-cube-low-rise",
+ "author": "mr_andre",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Impúlsame Si disfrutas de mis modelos y te gustaría mostrar tu apoyo, ¡considera donar un impulso! Tu contribución significaría mucho para mí.\nantiestrés Cube - Edición de perfil bajo\nSaluda a la versión más delgada y apta para escritorio del clásico flip cube.\nLo tuerces. Lo doblas. Le das nuevas formas.\nCada movimiento aterriza con un clic nítido y satisfactorio, como una pequeña escultura transformadora para tus manos.\nListo para el bolsillo. Digno de escritorio. Infinitamente antiestrés.\nDetalles de impresión\nImpresión sin ensamblaje: sale de la cama ya montada\nNo se necesitan soportes\nFunciona muy bien en uno o varios colores (la seda/arcoíris realmente resalta)\n~1 h de impresión, ~20 g de filamento (varía según la altura y el relleno de la capa)\nConsejo de impresión\nDespués de imprimir, flexione suavemente cada bisagra para liberar las juntas. Si algún eslabón se siente ajustado, muévalo hacia adelante y hacia atrás unas cuantas veces; el movimiento se suavizará rápidamente.\n\nSi estás interesado en vender impresiones de mis modelos, consulta mi Membresía Comercial o Patreon:",
+ "use_cases": [],
+ "tags": [
+  "cubo",
+  "cubo antiestrés",
+  "cubo antiestrés de poca altura",
+  "rápido",
+  "juguete",
+  "juguetes",
+  "agitarse",
+  "infinidad",
+  "inquietud infinita",
+  "tdah"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbc5809161780b/design/2025-11-10_63663166ac7b68.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2132511.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2190069.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3872473.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

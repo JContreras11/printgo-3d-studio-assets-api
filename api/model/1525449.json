@@ -1,0 +1,341 @@
+{
+ "files": [
+  {
+   "path": "model/inquietud-sensorial-2h.3mf.xz",
+   "instance_id": "1599060",
+   "thumbnail": "previews/profiles/1599060.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 314,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P1P",
+    "X1E",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2025-06-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1236892,
+   "sha256": "9bd93b26b2869c00b2d43f45027513de098a148069f5a4612a467e40d69bff07",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-sensorial-1h36.3mf.xz",
+   "instance_id": "2152458",
+   "thumbnail": "previews/profiles/2152458.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 45,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "bottom half spikes removed, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "the original design has a layer of half spikes at the bottom, these were very sharp and prone to damage, so I removed them, and have shared the modification.",
+    "creation_date": "2025-11-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1343128,
+   "sha256": "ea1876889cbc743357ced641c7fc48fb52b74053f9c16c1b988e835696780cb5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-sensorial-1h48.3mf.xz",
+   "instance_id": "2079172",
+   "thumbnail": "previews/profiles/2079172.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "H2S",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Keychain version",
+    "creation_date": "2025-10-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1422212,
+   "sha256": "53f7f51ffbc1dd28a7a11097287b0333cb18a266fbb0b85de972aaab5e288dcd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-sensorial-2h-2.3mf.xz",
+   "instance_id": "3039068",
+   "thumbnail": "previews/profiles/3039068.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "X1",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "X2D",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "AMS EDITION",
+    "profile_notes": "MUCH BETTER THAN ORIGINAL!!!!",
+    "creation_date": "2026-05-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1276088,
+   "sha256": "df65d5eae4f83c8d02c4f7846d7aac3488a3b4a3d0317efad0b24e875b5e9db5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-sensorial-2h18.3mf.xz",
+   "instance_id": "3078349",
+   "thumbnail": "previews/profiles/3078349.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1E",
+    "H2S",
+    "P2S",
+    "P1P",
+    "X1",
+    "H2C",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "TPU Squishy | 0.2mm layer, 3 walls, 7% infill",
+    "profile_notes": "I love the regular version of this but thought I would try it in TPU as well. I reduced the amount of infill and changed it to gyroid to allow it to be a bit squishy. It is still very satisfying as a sensory fidget but feels less sharp and is fun to squish it!",
+    "creation_date": "2026-05-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1684628,
+   "sha256": "c59b8d1fa0d773a27d811e7faf438095879935fa1e0a561092691e7c8e06ee83",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/inquietud-sensorial-3h18.3mf.xz",
+   "instance_id": "2853466",
+   "thumbnail": "previews/profiles/2853466.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "X1E",
+    "X1",
+    "P1S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Spiky Roller - original with a handle!",
+    "profile_notes": "Remixed. Added a hole through it, cut off the ends and made a handle for it.",
+    "creation_date": "2026-03-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1815468,
+   "sha256": "f0d7672b635f404baeb6ee1adf51d5ee15ca3625e2bbcbf612bfa2a1f07e2731",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1525449",
+ "title": "inquietud sensorial puntiaguda",
+ "slug": "spiky-sensory-fidget",
+ "url": "https://makerworld.com/en/models/1525449-spiky-sensory-fidget",
+ "author": "LukeEdwin",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "un juguete sensorial puntiagudo para apretar",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "sensorio",
+  "zapatillas con clavos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbae067d09bf673/design/2025-06-16_c3923b1ea555b8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1599060.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2152458.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2079172.jpg": [
+   600,
+   907
+  ],
+  "previews/profiles/3039068.jpg": [
+   600,
+   422
+  ],
+  "previews/profiles/3078349.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2853466.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

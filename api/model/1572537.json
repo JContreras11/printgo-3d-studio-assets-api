@@ -1,0 +1,207 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-tablero-5h48.3mf.xz",
+   "instance_id": "1654120",
+   "thumbnail": "previews/profiles/1654120.jpg",
+   "print_time_h": 5.8,
+   "plates": 1,
+   "rating": 3.8,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Pop-itz Sensory Board PLA",
+    "creation_date": "2025-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "45%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 23574760,
+   "sha256": "ef17a4d88be9a9180660eec1c100c530b4878cf4b024aa0c1b927aec5b2da7bb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-tablero-1h06-2.3mf.xz",
+   "instance_id": "1654128",
+   "thumbnail": "previews/profiles/1654128.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 77,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "X2D",
+    "A1",
+    "H2C",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Pop-itz Keychain PLA",
+    "creation_date": "2025-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "45%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6396940,
+   "sha256": "d90d45fa683efae69ea6752554137ba2a00a5f86e7712100f6e2d487dacac4b4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/llavero-tablero-1h06.3mf.xz",
+   "instance_id": "2486431",
+   "thumbnail": "previews/profiles/2486431.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "H2S",
+    "P2S",
+    "X1E",
+    "P1S",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Pop-itz Keychain Looser Tolerances",
+    "creation_date": "2026-01-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "40%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4702908,
+   "sha256": "2fbbc4669b84784e40d8b06b653c2db2bbd34537501220d4cc4c3eabc314e319",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1572537",
+ "title": "Llavero y tablero sensorial Pop-itz antiestrés",
+ "slug": "pop-itz-fidget-keychain-and-sensory-board",
+ "url": "https://makerworld.com/en/models/1572537-pop-itz-fidget-keychain-and-sensory-board",
+ "author": "joshuasoddities",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Ho, ho, ho! ¡Es Popitz!\n¡Explota las burbujas como si fueran plástico de burbujas, dale la vuelta y comienza todo de nuevo! ¡Esta simulación increíblemente realista de hacer estallar plástico de burbujas mantendrá tus dedos ocupados y tu mente enfocada!\n\nPop-itz viene en dos tamaños: llavero y tablero sensorial. ¡El tablero sensorial tiene unos increíbles 100 pop-itz! Cada botón tiene el mismo tamaño que el plástico de burbujas pequeño.\n\nActualización: He agregado una opción para tolerancias más flexibles. Algunos filamentos y modelos de impresora variarán.\n\nImpúlsame >>>ESTE ES UN BOTÓN GENIAL<<<Imprimir instrucciones:\nAltura de capa de 0,2 mm\n3 paredes, 1 mm arriba y abajo\n\nSi importa STL, asegúrese de \"separar en objetos\" en el modelo. Si lo deja todo como un STL fusionado, se imprimirá unido.\nUtilice el perfil de impresión completo en esta página si es posible, sin modificarlo, o podría imprimirse incorrectamente.\nPara usar el perfil de impresión en su impresora que no sea Bambu, simplemente importe el 3MF a Orca Slicer y luego el Switch a su impresora preferida.\nUna vez impreso, será difícil presionar los botones las primeras veces. Esto se debe a que está impreso con tolerancias PERFECTAS. Una vez que hayas aflojado los botones, ¡disfruta de la sensación táctil realista del plástico de burbujas!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "plástico de burbujas",
+  "estallido",
+  "llavero",
+  "sensorio",
+  "botón",
+  "simulación",
+  "imprimir en el lugar",
+  "divertido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USac42ab6e6d9a0d/design/c3612c40c19f9327.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1654120.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1654128.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2486431.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

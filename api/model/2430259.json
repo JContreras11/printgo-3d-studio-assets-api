@@ -1,0 +1,162 @@
+{
+ "files": [
+  {
+   "path": "model/conjunto-broche-1h24.3mf.xz",
+   "instance_id": "2665823",
+   "thumbnail": "previews/profiles/2665823.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 637,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "A1 mini",
+    "A1",
+    "P1P",
+    "P1S",
+    "H2C",
+    "X1E",
+    "X1",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.20mm Gentle Supports 2.0 @ BBL P2S",
+    "profile_notes": "2-plate multi-color process (black/white PLA tested on Bambu Lab & Sunlu). Gentle supports with masked interfaces for easy one-piece removal (use pliers). Optimized for P2S with textured PEI plate, 0.4mm nozzle, standard flow. Crisp .2mm floating click mechanism preserved—no interference. Works well with most PLA; tool-free snap-on assembly after support removal.",
+    "creation_date": "2026-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3394340,
+   "sha256": "7d1bef40661cfc3b59277c217e3e065059fb7cdd7dbaa2ecca881d24fdf155dc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conjunto-broche-1h12.3mf.xz",
+   "instance_id": "3429043",
+   "thumbnail": "previews/profiles/3429043.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 61,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Single Plate (Print By Object)",
+    "profile_notes": "IMPORTANT NOTE: This profile uses Print by Object to print both Oreo halves sequentially on a single plate. Do NOT manually rearrange the objects on the build plate. They have been spaced out so the toolhead doesn't collide with the first finished half. Why Use This Profile? 100% Mobile & App Friendly: The original profile requires two separate plates, meaning you have to be physically at your printer to clear the bed and hit start on the second half. This profile puts everything on one plate so you can print it while away and have a completed snack waiting for you when you get home. Optimized Sequence: Prints the first half entirely, then moves over to print the dual-color second half. Slicing & Filament Details: Printer Compatibility: Sliced specifically for the P2S. Filament: Set up for standard Generic PLA.",
+    "creation_date": "2026-07-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 3247596,
+   "sha256": "82522b0083c10ebd7da553f843de17a5093593c05ca9116b7219b5fc52e18b68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2430259",
+ "title": "Conjunto de broche de precisión Bidireccional Oreo Clicker",
+ "slug": "bidirectional-oreo-clicker-precision-snap-assembly",
+ "url": "https://makerworld.com/en/models/2430259-bidirectional-oreo-clicker-precision-snap-assembly",
+ "author": "MODP4L",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Clicker para galletas Oreo de dos partes con ensamblaje de ajuste a presión. Sin pegamento, sin tornillos, sin herramientas.\n\nAspectos destacados de la ingeniería:\nDiseño ensamblable sin herramientas\nTolerancias de precisión para un ajuste confiable en la mayoría de las impresoras\nIlusión de rotación bidireccional con clics nítidos, fuertes e idénticos en ambos sentidos.\nGiro suave con una sola mano + fuerte respuesta táctil\nEl patrón profundo y uniforme proporciona una sujeción intensamente táctil y adictiva.\nDescargo de responsabilidad: puede provocar verdaderos antojos de Oreo.\n\nSuperior a los competidores que usan mucho pegamento o hacen clic débilmente. Imprima, ajuste, gire, haga clic.\n\nACTUALIZACIÓN 2026-03-16: Algunos miembros informan que la acción de torsión es rígida al principio. Recomendamos romperlo girándolo repetidamente hacia adelante y hacia atrás.",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "juguete inquieto",
+  "taconeador",
+  "oreo",
+  "clicker oreo",
+  "antiestrés oreo",
+  "ajuste a presión",
+  "bidireccional",
+  "girar antiestrés",
+  "inquietud de galletas",
+  "clicker inquieto",
+  "ensamblaje a presión"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7495b0ba2ec1fd/design/5a3f0d04e87b2bea.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   666
+  ],
+  "previews/04.jpg": [
+   1000,
+   666
+  ],
+  "previews/05.jpg": [
+   1000,
+   666
+  ],
+  "previews/06.png": [
+   1000,
+   838
+  ],
+  "previews/07.png": [
+   1000,
+   588
+  ],
+  "previews/08.jpg": [
+   1000,
+   666
+  ],
+  "previews/profiles/2665823.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3429043.jpg": [
+   600,
+   508
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

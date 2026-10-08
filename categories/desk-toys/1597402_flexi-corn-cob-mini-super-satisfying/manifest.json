@@ -1,0 +1,398 @@
+{
+ "files": [
+  {
+   "path": "model/flexi-corn-5h48.3mf.xz",
+   "instance_id": "1683084",
+   "thumbnail": "previews/profiles/1683084.jpg",
+   "print_time_h": 5.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 340,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.09.05.51",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Apply support underneath center piece.",
+    "creation_date": "2025-07-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2025912,
+   "sha256": "e0c66f72d525fa8cb8a346b648e834e7a556fd81ceee57d6a392e24a9eef8dd5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-corn-1h48.3mf.xz",
+   "instance_id": "3409504",
+   "thumbnail": "previews/profiles/3409504.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Threaded shaft and head",
+    "profile_notes": "The original shaft kept snapping when trying to take off the head, so I have changed the model to a threaded design. Much more reliable and kids-proof.",
+    "creation_date": "2026-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 43118196,
+   "sha256": "4cbc55fe3dbcff4468e42167dd02f7b3e283418cf995e69aa242a904d8de0ef4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-corn-4h36.3mf.xz",
+   "instance_id": "3419306",
+   "thumbnail": "previews/profiles/3419306.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 26,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "H2D",
+    "H2D Pro",
+    "A2L",
+    "H2C",
+    "A1",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Same settings as original by designer. Simply compiled all on 1 plate for larger printers (NOT compatible with A1 mini)",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2267988,
+   "sha256": "117e9a23d6f71821d645eb0effe3993af931020150a07e1cfa31d7b12469938f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-corn-5h06.3mf.xz",
+   "instance_id": "2085653",
+   "thumbnail": "previews/profiles/2085653.jpg",
+   "print_time_h": 5.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 110,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "H2D",
+    "X1E",
+    "A1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "Tighter Cap - Corn Cob mini 2.0",
+    "profile_notes": "This version is designed to keep the top on. It is not nearly as loose anymore.",
+    "creation_date": "2025-10-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 3008116,
+   "sha256": "6baccec1988195471dfcb79aacd8ec4cbff070106a9f2e33759c3d7efb11a221",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-corn-multicolor-5h12.3mf.xz",
+   "instance_id": "3778666",
+   "thumbnail": "previews/profiles/3778666.jpg",
+   "print_time_h": 5.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "X1E",
+    "H2S",
+    "P2S",
+    "P1P",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Threaded 2-Color (No AMS)",
+    "profile_notes": "Model made by horseman3000 , with the threaded head and shaft modified by asu_4232814772 . All the corn pieces are on a single plate and the shaft is on another plate for 2-color printing. Designed for easier printing, with Bambu Handy in mind. Good bed adhesion is crucial for this model. Please wash your build plate before printing to avoid any failure. Also, let the plate cool down before removing the print to avoid damaging the parts.",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 43796408,
+   "sha256": "e324b9083a57c800527bf26b1e98a257009441956608f2f89518fc653706d5f1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-corn-multicolor-5h36-2.3mf.xz",
+   "instance_id": "3344395",
+   "thumbnail": "previews/profiles/3344395.jpg",
+   "print_time_h": 5.6,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1P",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "A1 mini",
+    "A2L",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "2-Color No AMS",
+    "profile_notes": "2-Color version with a pause before color change",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Multicolor",
+   "size": 2152616,
+   "sha256": "0331f6f166a4b1f044da3620a6b1c2576e293f2d16116e3c61bf4c4cddd8b192",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-corn-multicolor-5h36.3mf.xz",
+   "instance_id": "3344392",
+   "thumbnail": "previews/profiles/3344392.jpg",
+   "print_time_h": 5.6,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "X2D",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "P1P",
+    "P2S",
+    "P1S",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "2-Color AMS version",
+    "profile_notes": "2 Color AMS version",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Multicolor",
+   "size": 2151304,
+   "sha256": "455055b9e8ab1edc3c08cd1820284fef2ae674ac12a64a08c1ab5d143ce0638e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1597402",
+ "title": "Flexi Corn Cob Mini - Súper Satisfactorio",
+ "slug": "flexi-corn-cob-mini-super-satisfying",
+ "url": "https://makerworld.com/en/models/1597402-flexi-corn-cob-mini-super-satisfying",
+ "author": "horseman3000",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Esta es una mazorca de maíz flexible súper satisfactoria! ¡Es tan divertido jugar con él que no podrás dejarlo! Está formado por anillos de granos de maíz flexi. Cada núcleo se mueve por sí solo, lo que genera una sensación maravillosa en la mano y una experiencia visual increíble. ¡El montaje es súper fácil! ¡Simplemente coloque los anillos en el centro y colóquelos en la parte superior y estará listo para divertirse! Hay un anillo adicional en la impresión en funda de que uno se rompa al sacarlo de la cama de impresión.",
+ "use_cases": [],
+ "tags": [
+  "maíz",
+  "su maíz",
+  "elote",
+  "antiestrés de la mazorca de maíz",
+  "antiestrés de mazorca de maíz",
+  "agitarse",
+  "satisfactorio",
+  "maíz flexible",
+  "mazorca de maíz flexible",
+  "antiestrés flexi de mazorca de maíz",
+  "mazorca flexible"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfcfd361fb44129/design/2025-07-11_9a1d603929586.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1683084.jpg": [
+   240,
+   248
+  ],
+  "previews/profiles/3409504.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3419306.jpg": [
+   434,
+   772
+  ],
+  "previews/profiles/2085653.jpg": [
+   600,
+   801
+  ],
+  "previews/profiles/3778666.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3344395.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3344392.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

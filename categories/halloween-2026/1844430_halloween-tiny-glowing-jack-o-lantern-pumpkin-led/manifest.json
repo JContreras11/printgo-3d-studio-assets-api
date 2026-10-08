@@ -1,0 +1,157 @@
+{
+ "files": [
+  {
+   "path": "model/halloween-tiny-1h12.3mf.xz",
+   "instance_id": "1970894",
+   "thumbnail": "previews/profiles/1970894.jpg",
+   "print_time_h": 1.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 98,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "P1P",
+    "X1E",
+    "H2S",
+    "A2L",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "no AMS 2 plates (orange + green) 0.12mm layer, 2 walls",
+    "profile_notes": "I used 0.12mm layer height for high details and concentric infill for optimal glow effect. You will need some tree supports for the mouth.",
+    "creation_date": "2025-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4027412,
+   "sha256": "1681a8faeaef0c364276f04758b53223d2a75a41d04136fdacb91fb98eaa1d17",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/halloween-tiny-36min.3mf.xz",
+   "instance_id": "1989168",
+   "thumbnail": "previews/profiles/1989168.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 17,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.16 mm, 1 Earring by Object, Fewer Supports, Gapped Brim",
+    "profile_notes": "Printed one earring by object (pumpkin + stem on the same plate) to keep the A1* nice and steady with minimum supports. Layer height: 0.16 mm Wall generator: Arachne for crisper thin features. Supports: fewer, tree(auto) ; on build plate only + critical regions only ; threshold ~ 25° ; slim trees to avoid scarring. Brim: 0.24 mm gapped brim. First layers: slowed down for bed adhesion on the A1 bed-slinger. Plate layout: prints one earring ; duplicate the object (or plate) if you want a pair. Printed photos are from this exact profile, Big thanks to the designer - kept the look, just trimmed the setup for a straightforward single-earring print.",
+    "creation_date": "2025-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4135068,
+   "sha256": "a33fa5455ad9e970282aa68b6fb810b8ac8b3a84e3954a98afe8070116b47b75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1844430",
+ "title": "Halloween Tiny glowing jack o lantern pumpkin LED",
+ "slug": "halloween-tiny-glowing-jack-o-lantern-pumpkin-led",
+ "url": "https://makerworld.com/en/models/1844430-halloween-tiny-glowing-jack-o-lantern-pumpkin-led",
+ "author": "DIYWizard",
+ "category": "halloween-2026",
+ "source_category": "Moda > Joyería",
+ "description": "¡Bienvenidos de nuevo brujas y magos!\n\n¡Es tiempo de Halloween otra vez y preparé algunos modelos!\n\nSiempre quise usar los pequeños LED con Switch magnético para algunos aretes, ¡así que aquí hay algunos aretes tipo Jack o Lantern para Halloween!\n\n¡Por supuesto que también puedes usarlos como llavero, collar, decoración, etc.!\n\n¿Cómo hacerlo brillar?\nSimplemente compre el KC015 LED con Switch magnético en blanco cálido (KC015) o rojo (KC006) (me parece que el blanco cálido se ve mejor) e insértelos con el LED hacia abajo en la impresión (enumerados en la lista de piezas a continuación. Solo necesita un LED por calabaza, si hace 2, sugiero 2 LED).\n\nAlgunos de ustedes mencionaron que el LED apenas cabe en el orificio. Parece que no todos los LED tienen exactamente el mismo tamaño, están listados con un diámetro de 7,5 mm y el orificio tiene 8,5 mm. Si su LED no encaja en absoluto, le sugiero escalar el archivo hasta un 105% de tamaño, pero por supuesto ambas partes.\n\nDado que los LED están agotados en la página de Bambu Lab, sugiero estos de aliexpress, los probé y funcionan igual.\n\nMira el vídeo aquí:\n\n¿Cómo imprimir?\n\nSólo usa mi perfil. Utilicé una altura de capa de 0,12 mm para detalles altos y relleno concéntrico para un efecto de brillo óptimo. Necesitarás algunos soportes de árbol para la boca.\n\n¡Diviértete con él y deja una marca con una foto de cómo los usas y una calificación honesta!\n\nImpúlsameSi quieres apoyarme, te agradecería mucho que me ayudaras con un filamento o LED brillantes:)Nota: La foto de la mujer usándolo como arete es generada por IA, pero solo porque no tengo a nadie con agujeros en las orejas para actuar como modelo. AI utilizó una foto de la calabaza impresa real. El modelo en sí fue completamente diseñado, prototipado y probado en CAD sin IA. Todas las demás imágenes son fotos reales.\n\nAGRADECIMIENTO ESPECIAL a @n3crovicio que diseñó este genial soporte para los aretes.\n\nEcha un vistazo a mis otros modelos de halloween.\nPendiente de calavera de gato brillante\n\nFantasma atrapado en una ventana rota\n\nCriaturas espeluznantes en un vaso:\n\nFantasma de Halloween a través de la ventana V2\n\nOtro pendiente de Halloween:\nPendiente fantasma:\n\nÁrbol de payaso siniestro:\n\nOtro tocón de árbol malvado:\n\nDama fantasma de blanco:\n\nVaso fantasma:\n\nLápida personalizable con nombre y fecha de nacimiento-muerte:",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2025",
+  "halloween",
+  "calabaza tallada",
+  "calabaza",
+  "led",
+  "led 001",
+  "kc015",
+  "kc006",
+  "brillante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf2b96078f01ae6/design/2025-09-30_5cc5a622b92e38.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1970894.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1989168.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

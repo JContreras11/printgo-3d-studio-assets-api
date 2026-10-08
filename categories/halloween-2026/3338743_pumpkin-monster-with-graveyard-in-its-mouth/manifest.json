@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/monstruo-calabaza.3mf.xz",
+   "instance_id": "3792633",
+   "thumbnail": "previews/profiles/3792633.jpg",
+   "print_time_h": 3.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "P1S",
+    "H2D Pro",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 7462792,
+   "sha256": "bf7c1497331958f005a3259f03073e106877757f3969efb93c5b80733953f484",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3338743",
+ "title": "Monstruo calabaza con cementerio en la boca",
+ "slug": "pumpkin-monster-with-graveyard-in-its-mouth",
+ "url": "https://makerworld.com/en/models/3338743-pumpkin-monster-with-graveyard-in-its-mouth",
+ "author": "3D_Decoration",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Una calabaza monstruosa abre sus enormes fauces llenas de dientes para revelar todo un mundo espeluznante\nEn el interior se esconde una pequeña escena de cementerio con lápidas, una casa embrujada y una figura de un no-muerto.\nLa mandíbula gigante enmarca el diorama de forma impresionante.\nUn atractivo e imaginativo para escenas espeluznantes de Halloween y decoraciones otoñales.",
+ "use_cases": [],
+ "tags": [
+  "diorama de calabaza",
+  "calabaza",
+  "calabaza 3d",
+  "calabaza 2024",
+  "calabaza 2025",
+  "calabaza 2026",
+  "diorama",
+  "víspera de todos los santos",
+  "cementerio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1d472e249b781b/design/9cf223eb3fb139ac.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3792633.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

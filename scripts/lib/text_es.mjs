@@ -24,13 +24,18 @@ const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " ", 
 // Limpieza determinista: HTML, entidades, URLs, emojis/iconos, espacios.
 export function sanitize(text) {
   if (text == null) return "";
-  return String(text)
+  let s = String(text)
     .replace(/<(br|\/p|\/div|\/li|\/h\d)\s*\/?>/gi, "\n")
-    .replace(/<[^>]*>/g, "")
-    .replace(/&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/gi, (m, e) => {
+    .replace(/<[^>]*>/g, "");
+  // Entidades pueden venir doble-codificadas (&#39;): se decodifican hasta estabilizar,
+  // así sanitize(sanitize(x)) === sanitize(x) y validate nunca ve texto a medio decodificar.
+  for (let i = 0; i < 3 && /&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/i.test(s); i++) {
+    s = s.replace(/&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/gi, (m, e) => {
       if (e[0] === "#") return String.fromCodePoint(e[1] === "x" || e[1] === "X" ? parseInt(e.slice(2), 16) : +e.slice(1));
       return ENTITIES[e.toLowerCase()] ?? " ";
-    })
+    });
+  }
+  return s
     .replace(/https?:\/\/\S+|www\.\S+/gi, "")
     .replace(/(?!°)[\p{Extended_Pictographic}\p{So}\p{Co}‍️︎⃣]/gu, "")
     .replace(/[★☆•●■□▪▫►▶◆◇※→←↑↓✓✔✗✘|]+/g, " ")
@@ -99,6 +104,8 @@ const FIXES = [
   [/print.?in.?place/i, /\bimprim\w+ en (su|el) lugar\b/gi, "impresión sin ensamblaje"],
   [/print.?in.?place/i, /\bin situ\b/gi, "sin ensamblaje"],
   [/\bdesk toys?\b/i, /\bjuguete (del|para el) escritorio\b/gi, "juguete de escritorio"],
+  // Halloween: gtx devuelve "jack o' lantern" (a veces con entidades &#39;); en español es calabaza tallada.
+  [/jack.?o.?lantern/i, /jack[\s"'-]*o[\s"'-]*lanterns?/gi, "calabaza tallada"],
 ];
 const fix = (src, es) => {
   let t = FIXES.reduce((acc, [when, re, to]) => (when.test(src) ? acc.replace(re, to) : acc), es).replace(GLOSS_RE, canon);

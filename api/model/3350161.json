@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/boo-en.3mf.xz",
+   "instance_id": "3807362",
+   "thumbnail": "previews/profiles/3807362.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "A1",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm Layer height 2 Walls 15% Infill Auto tree supports",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 23748928,
+   "sha256": "d29be852086c9901d35b39d84a43d1bd6243508cb861b6bcd1dc29da5824d2c6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3350161",
+ "title": "Boo en una calabaza – Portavelas de Halloween",
+ "slug": "boo-in-a-pumpkin-halloween-tealight-holder",
+ "url": "https://makerworld.com/en/models/3350161-boo-in-a-pumpkin-halloween-tealight-holder",
+ "author": "user_2104231896",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Boo en una calabaza – ¡Portavelas!\nUn simpático fantasma que sale de una calabaza, diseñado para albergar una candelita LED.\n\nImpreso usando mi X2D.\n\nEl orificio para la candelita es de 38 mm y está diseñado para las candelitas KC008 Bambu. Esto se puede ajustar cambiando el tamaño del negativo si es necesario.\n\nAltura de capa de 0,2 mm\n2 paredes\n15% de relleno\nSoportes para árboles automáticos\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "calabaza 2026",
+  "calabaza 2027",
+  "calabazas",
+  "fantasma",
+  "fantasmas",
+  "halloween2026",
+  "aterrador",
+  "escalofriante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9e05074f4008f9/design/efe653946f2f3a84.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3807362.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/symbiote-jack.3mf.xz",
+   "instance_id": "3793555",
+   "thumbnail": "previews/profiles/3793555.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1850676,
+   "sha256": "7a98ef25e26bb6865a92e06ffd00bd172dd7e24c53222a96460dd63e1bb3f2cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3339422",
+ "title": "Symbiote Jack-O’-Lantern Halloween Decoration",
+ "slug": "symbiote-jack-o-lantern-halloween-decoration",
+ "url": "https://makerworld.com/en/models/3339422-symbiote-jack-o-lantern-halloween-decoration",
+ "author": "markiel3d",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Un siniestro Jack-O'-Lantern tomado por una apariencia monstruosa inspirada en un simbionte. Con una expresión agresiva, dientes afilados y una sonrisa malvada, esta calabaza es una adición sorprendente a cualquier decoración de Halloween.\n\nMuéstrelo en un escritorio, estante, mesa, pared, puerta o en cualquier lugar que necesite un toque más oscuro de Halloween.\n\nEl diseño plano es fácil de imprimir y funciona especialmente bien en filamento negro, naranja o que brilla en la oscuridad.",
+ "use_cases": [],
+ "tags": [
+  "simbionte",
+  "víspera de todos los santos",
+  "calabaza tallada",
+  "calabaza",
+  "calabaza 2026",
+  "monstruo",
+  "aterrador",
+  "modelo 3d aterrador",
+  "impresión 3d aterradora",
+  "espeluznante",
+  "horror"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7545d906540677/design/1ca24e70a0e2cdb6.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   666
+  ],
+  "previews/profiles/3793555.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

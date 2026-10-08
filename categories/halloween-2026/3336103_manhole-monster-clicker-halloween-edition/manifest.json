@@ -1,0 +1,112 @@
+{
+ "files": [
+  {
+   "path": "model/clicker-monstruo.3mf.xz",
+   "instance_id": "3789332",
+   "thumbnail": "previews/profiles/3789332.jpg",
+   "print_time_h": 3.2,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1P",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Green Monster | AMS",
+    "profile_notes": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 6837356,
+   "sha256": "31cf2a0913627125f6f038ae348a3f95878b968a1e85b098dfc6783dcf7b24b2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3336103",
+ "title": "Clicker del monstruo de alcantarilla - Edición de Halloween",
+ "slug": "manhole-monster-clicker-halloween-edition",
+ "url": "https://makerworld.com/en/models/3336103-manhole-monster-clicker-halloween-edition",
+ "author": "GEEKDECO",
+ "category": "halloween-2026",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "Conoce al Monster Manhole Clicker: ¡una pequeña criatura espeluznante que se esconde debajo de una tapa de alcantarilla rota!\nPresiona la tapa de alcantarilla para revelar el monstruo que se esconde debajo y disfruta del satisfactorio clic del teclado mecánico estilo MX. El diseño grueso hace que sea divertido jugar con él y al mismo tiempo lo mantiene lo suficientemente compacto como para usarlo como llavero, juguete de bolsillo, clicker de escritorio o accesorio de Halloween.\n\nHalloween y temática espeluznante\nMonstruo lindo escondido debajo de la alcantarilla\nCompatible con Switch mecánico estilo MX\nSe puede utilizar como llavero\nGenial como regalo de Halloween, juguete de escritorio, clicker antiestrés o accesorio EDC espeluznante.\nMX Switch (AZUL)\n\n_key=&af=&cv=&cn=&dp=&aff_short_key=\n\nEl monstruo está diseñado como un elemento independiente, por lo que puedes experimentar con diferentes colores de monstruos y crear tus propias variantes de Halloween.\n¡Imprimelo, haz clic en él y mira lo que se esconde debajo!\n\nSi te gusta este modelo, considera dejar un me gusta, calificar y compartir tu impresión. ¡Me encantaría ver tus combinaciones de colores!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "escalofriante",
+  "horror",
+  "terror 2026",
+  "monstruo",
+  "taconeador",
+  "agitarse",
+  "llavero",
+  "antiestrés",
+  "llavero espeluznante",
+  "mx"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeca46599edbd0f/design/517c25f708a7da75.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3789332.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

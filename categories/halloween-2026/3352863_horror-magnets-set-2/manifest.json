@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/imanes-terror.3mf.xz",
+   "instance_id": "3810918",
+   "thumbnail": "previews/profiles/3810918.jpg",
+   "print_time_h": 10.9,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Horror Magnets (Set 2)",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3729132,
+   "sha256": "082808cf64924392f5efcdb81a56edcbf83170be2b1be6262bbe2a606dea8eac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3352863",
+ "title": "Imanes de terror (conjunto #2)",
+ "slug": "horror-magnets-set-2",
+ "url": "https://makerworld.com/en/models/3352863-horror-magnets-set-2",
+ "author": "Rakenra",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Hola a todos,\n\nAquí está mi set #2 de imanes asesinos de películas de terror. Art the Clown, Chucky, Megan, The Nun, Leatherface y Jigsaw. Todos los colores se pueden cambiar fácilmente en Bambu Studio por cada parte individual, por lo que puedes personalizar los colores según sea necesario. Todos estos son solo 4 colores, pero se pueden agregar colores adicionales a medida que cada parte está separada si desea que sean más precisos.\n\nEl planchado se activa para lograr una apariencia superior extra suave (luce aún mejor con colores mate).\n\nEl imán utiliza ranuras preinsertadas para TRES imanes de 10x3 mm (este tamaño se puede cambiar alterando los cilindros negativos que tengo en los objetos, solo asegúrese de ajustar la pausa si es necesario). Hay una pausa configurada automáticamente para que puedas insertar el imán y luego continuar fácilmente.\n\nEl conjunto n.º 1 se puede encontrar aquí:\n\n¡Mira también mis carteles de terror de Halloween!\n\nAdjuntaré materiales y colores de filamentos que utilicé a continuación.\n\n**Descargo de responsabilidad:**\nFan art de **Rakenra**: compartido para **uso personal y no comercial únicamente.**\nNo está afiliado ni respaldado por ningún estudio o propietario de propiedad intelectual.\nLos usuarios deben cumplir con las leyes de derechos de autor y marcas registradas.\n\n¡Boost MeBoosts son muy apreciados y me ayudan a seguir haciendo impresiones! Membresía ¡Para aquellos que quieran vender mi colección! Haga clic para suscribirse a una licencia comercial. ¡Consulta mis niveles de suscripción y avísame si tienes alguna pregunta!\n\nSe adjuntarán los materiales y filamentos utilizados. Si se utiliza algo que no sea Bambu, lo enumeraré debajo de esta línea.",
+ "use_cases": [],
+ "tags": [
+  "horror",
+  "terror 2026",
+  "terror 2027",
+  "impresión 3d de terror",
+  "accesorio de terror",
+  "imán de terror",
+  "decoración de terror",
+  "asesino",
+  "asesinos",
+  "arte el payaso",
+  "rompecabezas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3bcf396bcea6ae/design/e88db962c0c04e41.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3810918.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

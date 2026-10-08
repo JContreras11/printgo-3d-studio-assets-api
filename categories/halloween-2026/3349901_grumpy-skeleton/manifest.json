@@ -1,0 +1,154 @@
+{
+ "files": [
+  {
+   "path": "model/esqueleto-grunon-6h24.3mf.xz",
+   "instance_id": "3807014",
+   "thumbnail": "previews/profiles/3807014.jpg",
+   "print_time_h": 6.4,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2C",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Normal - 0.2mm layer, 2 walls, 4% infill",
+    "creation_date": "2026-09-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 23569292,
+   "sha256": "a0fd4d196e72082e26469434b7bdb74030c75d22d761e43e2ec5679eff3d2123",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/esqueleto-grunon-23h42.3mf.xz",
+   "instance_id": "3807713",
+   "thumbnail": "previews/profiles/3807713.jpg",
+   "print_time_h": 23.7,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1",
+    "H2C",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Big - 0.2mm layer, 2 walls, 4% infill",
+    "creation_date": "2026-09-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión grande",
+   "size": 23876540,
+   "sha256": "93fdd0728e83958be7e996f2506f0b06b3c004c25cf35310e73599ff9e8b63ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3349901",
+ "title": "Esqueleto gruñón",
+ "slug": "grumpy-skeleton",
+ "url": "https://makerworld.com/en/models/3349901-grumpy-skeleton",
+ "author": "novYTerra",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡El nuevo Grumpy Monster – Grumpy Skeleton ya está aquí!\n\nCon su enorme calavera gruñona, sus llamativos ojos rojos y su pose casualmente molesta, aporta mucho carácter a tu decoración de Halloween.\n\nLa versión de pie es perfecta como decoración coleccionable o divertido regalo de Halloween. El modelo se puede imprimir completamente sin AMS: las piezas individuales se imprimen por separado y luego se ensamblan.\n\nUn hombre esqueleto gruñón que definitivamente no transmitirá buenas vibraciones.",
+ "use_cases": [],
+ "tags": [
+  "gruñón",
+  "esqueleto",
+  "esqueleto 2026",
+  "de pie",
+  "pararse",
+  "víspera de todos los santos",
+  "decoración",
+  "aterrador",
+  "modelo 3d aterrador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US88acc680d617e5/design/74ad450ce0aa45e0.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/02.jpg": [
+   960,
+   1280
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/04.jpg": [
+   960,
+   1280
+  ],
+  "previews/05.jpg": [
+   960,
+   1280
+  ],
+  "previews/profiles/3807014.jpg": [
+   600,
+   360
+  ],
+  "previews/profiles/3807713.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

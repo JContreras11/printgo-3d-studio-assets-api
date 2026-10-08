@@ -1,0 +1,231 @@
+{
+ "files": [
+  {
+   "path": "model/porta-toallas-7h36.3mf.xz",
+   "instance_id": "3202159",
+   "thumbnail": "previews/profiles/3202159.jpg",
+   "print_time_h": 7.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 20% infill"
+   },
+   "name": "Versión estándar",
+   "size": 15940820,
+   "sha256": "305327e8ef2b4cfcf9bd7435aab8d27e7f4dec916328fa128f666b9111dbc636",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/porta-toallas-3h42.3mf.xz",
+   "instance_id": "3756529",
+   "thumbnail": "previews/profiles/3756529.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "X1E",
+    "P1P",
+    "P2S",
+    "H2S",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "模型优化，减少面数，提高打印效率",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "20%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5463844,
+   "sha256": "396bf06248cdafc160271ca1d924918b3e3eda2e10d012982d268731331b05c3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/porta-toallas-4h42.3mf.xz",
+   "instance_id": "3231943",
+   "thumbnail": "previews/profiles/3231943.jpg",
+   "print_time_h": 4.7,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1E",
+    "H2C",
+    "A2L",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Optimized quality and Structural reinforcement",
+    "profile_notes": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-06-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5141032,
+   "sha256": "b3ef3f32c09d83e5025d7523018e277b929b94bfde61d824ec3ec35ef73aa9ba",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/porta-toallas-8h42.3mf.xz",
+   "instance_id": "3202556",
+   "thumbnail": "previews/profiles/3202556.jpg",
+   "print_time_h": 8.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "X1",
+    "X1E",
+    "A1",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "A1 mini (0.2mm layer, 2 walls, 10% infill)",
+    "creation_date": "2026-05-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 15759820,
+   "sha256": "8b9ba94177115e222702f19c25b311c71ecaf11e22c86321c45a7cb9d44f4adb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2868512",
+ "title": "Porta toallas de papel de momia - Spooooooky",
+ "slug": "mummy-paper-towel-holder-spooooooky",
+ "url": "https://makerworld.com/en/models/2868512-mummy-paper-towel-holder-spooooooky",
+ "author": "3DMakerSpace",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Porta toallas de papel momia - Decoración de cocina de lujo espeluznante\n\nAñade un toque limpio, espeluznante y divertido de Halloween a tu cocina con este toallero de papel inspirado en una momia. El diseño presenta una figura de momia envuelta con un detalle de ojo oculto, lo que le da un aspecto de mesa divertido pero premium. Funciona como un funcional soporte para toallas de papel y como pieza decorativa de exhibición de temporada.\n\nEste modelo está diseñado para imprimirse en dos partes para que pueda caber más fácilmente en impresoras estándar. Después de imprimir, simplemente alinee las dos secciones con cuidado y únalas con superpegamento. Tómese un momento para secar las piezas antes de pegarlas para asegurarse de que todo quede limpio. La base incluye huecos internos cuadrados para agregar peso opcional. El perfil de impresión incluido no tiene pausa agregada. Si desea que el soporte sea más pesado y estable, abra el modelo en Bambu Studio, córtelo usted mismo y agregue una pausa en la altura de la base para poder insertar pesos antes de continuar con la impresión.\nBoost MePor favor considere impulsar este modelo si le gusta el diseño. Ayuda a crear creaciones más divertidas, funcionales y fáciles de imprimir como esta.Imprimir notas:\nMaterial recomendado: PLA / ABS / PETG\nApoyos: Necesarios\nMontaje: se requiere súper pegamento\nPonderación opcional: agregue pausa manualmente en la segmentación de datos, si es necesario",
+ "use_cases": [],
+ "tags": [
+  "papel",
+  "toalla de papel",
+  "base de toalla de papel",
+  "soporte para toallas de papel",
+  "momia",
+  "impresión 3d de momia",
+  "momia 3d imprimible",
+  "decoración antigua momia"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7e9f5f355aa673/design/42cf272e75a41e32.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   749,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3202159.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3756529.jpg": [
+   600,
+   621
+  ],
+  "previews/profiles/3231943.jpg": [
+   600,
+   900
+  ],
+  "previews/profiles/3202556.jpg": [
+   449,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

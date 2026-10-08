@@ -1,0 +1,158 @@
+{
+ "files": [
+  {
+   "path": "model/candelita-calabaza-9h12.3mf.xz",
+   "instance_id": "3791224",
+   "thumbnail": "previews/profiles/3791224.jpg",
+   "print_time_h": 9.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X2D",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Medium size",
+    "creation_date": "2026-09-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 44023028,
+   "sha256": "b201324bb1d04ed516d3d007fe9cd32afb874d0f6204772bf3b0fb5a5e54414d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/candelita-calabaza-5h30.3mf.xz",
+   "instance_id": "3813058",
+   "thumbnail": "previews/profiles/3813058.jpg",
+   "print_time_h": 5.5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X2D",
+    "A1 mini",
+    "H2D Pro",
+    "X1",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Small",
+    "creation_date": "2026-09-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 43466296,
+   "sha256": "da35893f2557d4c7ee2ce7d4f56299dcf50fa0ad2f05bddffe23c1ca07be3e76",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3337644",
+ "title": "Candelita de calabaza de Halloween (LED)",
+ "slug": "halloween-pumpkin-tealight-led",
+ "url": "https://makerworld.com/en/models/3337644-halloween-pumpkin-tealight-led",
+ "author": "VasicDevasic",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Glowing pumpkin Jack-o’-lantern.\n\nSe necesitan soportes mínimos.\nNo se necesita AMS.\nLa tapa inferior es opcional.\nSe espera que la cola esté pegada.\n\nPara la iluminación, utilice candelitas que funcionen con pilas.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "calabaza 2026",
+  "candelita",
+  "calabaza de halloween",
+  "calabaza tallada",
+  "brillo",
+  "calabaza brillante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5475a553ca2a9f/design/13cc38b7cf07d065.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3791224.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3813058.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

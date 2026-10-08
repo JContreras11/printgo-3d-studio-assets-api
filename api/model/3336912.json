@@ -1,0 +1,118 @@
+{
+ "files": [
+  {
+   "path": "model/jack-lantern-6h06.3mf.xz",
+   "instance_id": "3790265",
+   "thumbnail": "previews/profiles/3790265.jpg",
+   "print_time_h": 6.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "A1",
+    "X1",
+    "P2S",
+    "H2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Face 1"
+   },
+   "name": "Versión estándar",
+   "size": 7604704,
+   "sha256": "d32029e8989624cbf303eca275004bd8d937483c317b01df67db4d747a0d9ab6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3336912",
+ "title": "Jack-O'-Lantern Tea Light",
+ "slug": "jack-o-lantern-tea-light",
+ "url": "https://makerworld.com/en/models/3336912-jack-o-lantern-tea-light",
+ "author": "Its_Donnie",
+ "category": "halloween-2026",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Linterna hueca con una ranura para velas de té en la parte inferior. Imprime cualquiera de las 12 caras, coloca una vela de té con batería y colócala.",
+ "use_cases": [],
+ "tags": [
+  "jack o lantern",
+  "jackolantern",
+  "compañero",
+  "víspera de todos los santos 2026",
+  "víspera de todos los santos",
+  "arte",
+  "frío",
+  "agitarse",
+  "luz de té",
+  "calabaza",
+  "escalofriante",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfee15a85f80421/design/02a883d6d233af6c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3790265.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

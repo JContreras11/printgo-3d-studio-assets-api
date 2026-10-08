@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-halloween.3mf.xz",
+   "instance_id": "3809232",
+   "thumbnail": "previews/profiles/3809232.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P2S",
+    "A1 mini",
+    "X1",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.16mm layer, 3 walls, 20% infill",
+    "creation_date": "2026-09-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12117652,
+   "sha256": "f4449e791067ef511e38aba91bf43230e7968422c7f56efdb63889197a75cce1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3351559",
+ "title": "Calabaza de Halloween modelo 3d",
+ "slug": "3d-halloween-pumpkin",
+ "url": "https://makerworld.com/en/models/3351559-3d-halloween-pumpkin",
+ "author": "PlasticLab1",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Calabaza de Halloween modelo 3d",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "calabaza",
+  "naranja",
+  "otoño",
+  "caer",
+  "2026",
+  "hogar",
+  "decoración",
+  "decoración del hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd899c9d2f6b334/design/3467f54597d2436b.jfif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1252,
+   848
+  ],
+  "previews/02.jpg": [
+   1251,
+   848
+  ],
+  "previews/03.jpg": [
+   1251,
+   848
+  ],
+  "previews/profiles/3809232.jpg": [
+   1130,
+   848
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

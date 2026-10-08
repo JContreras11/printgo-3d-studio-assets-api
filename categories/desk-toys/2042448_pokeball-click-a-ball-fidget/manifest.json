@@ -1,0 +1,375 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-hacer-multicolor-3h24.3mf.xz",
+   "instance_id": "2203671",
+   "thumbnail": "previews/profiles/2203671.jpg",
+   "print_time_h": 3.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 108,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Print by Object, Multicolor, 0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 2188212,
+   "sha256": "319ca2c8eef7465bd7fff1a4e2c930977f99d1a5daafd148daa4835e099c48f4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-3h.3mf.xz",
+   "instance_id": "2553592",
+   "thumbnail": "previews/profiles/2553592.jpg",
+   "print_time_h": 3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 45,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "By Object, P & X, series, 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "Profile for the P & X series, added because when A series profiles aren't compaitible with P&X when print by object is used.",
+    "creation_date": "2026-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1907192,
+   "sha256": "5c993babccf10c9e4368795e638bc79eb6d6276ff6f540698a8d66f924427d76",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-3h18.3mf.xz",
+   "instance_id": "3326463",
+   "thumbnail": "previews/profiles/3326463.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "P2S/X2D All One Plate, Gyroid infill",
+    "profile_notes": "Was able to print everything all in one go, I ran out of black filament near the top of the main structure so that's why it's white there.",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 1883700,
+   "sha256": "dd8b74a564b87e6797c082039fe72d271f4667fc20923d2da8d8cdb9d2be23ad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-3h36-2.3mf.xz",
+   "instance_id": "3682794",
+   "thumbnail": "previews/profiles/3682794.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "P2S - Single Plate (Print By Object)",
+    "profile_notes": "IMPORTANT NOTE: This profile uses Print By Object to print the Pokeball parts sequentially on a single plate. Do NOT manually rearrange the parts on the build plate. They have been spaced out so the toolhead doesn't collide when printing the parts. Why Use This Profile? P2S Clearance Optimized: Specifically arranged to satisfy Bambu Studio's P2S toolhead clearance rules. Efficient Filament Workflow: Pieces grouped by color so the entire single-plate job requires only 2 filament swaps. 100% Mobile & App Friendly: Combines all parts onto a single sequential print job without needing to clear the build plate between pieces. Zero AMS Waste: Sequential layout (Print by Object) lets you print all the pieces with zero filament flushing or prime towers. Slicing & Printer Setup Printer Compatibility: Sliced and tested specifically for the P2S. Filament: Set up for standard Generic PLA.",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 2139872,
+   "sha256": "a0768f2d959a5e9f35e4b06532eaed355a42f4e3ef199faaaa88513e8be3f77f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-3h36.3mf.xz",
+   "instance_id": "2729951",
+   "thumbnail": "previews/profiles/2729951.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "1 plate print by object. variable layer height and gyroid"
+   },
+   "name": "Versión estándar",
+   "size": 4370388,
+   "sha256": "dd41b2446106a82283158b4455b92a973b468c7083ee40327b65c133abc380f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-7h30.3mf.xz",
+   "instance_id": "2331834",
+   "thumbnail": "previews/profiles/2331834.jpg",
+   "print_time_h": 7.5,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Ultra Ball",
+    "profile_notes": "The coloring for this one took some time to get right, not perfect but it still looks really good. Hope you enjoy!",
+    "creation_date": "2025-12-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3060496,
+   "sha256": "685a8f23f17236dabb74a34cacff9da5edb1e048bc81176f8108fd19fdc189d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-7h42.3mf.xz",
+   "instance_id": "2331824",
+   "thumbnail": "previews/profiles/2331824.jpg",
+   "print_time_h": 7.7,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 15,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Great Ball",
+    "profile_notes": "2 separate plates for the upper part of the ball, one plate has the protruding bump like the actual ball from the game, while the other is just the lines in case you find that look more appealing.",
+    "creation_date": "2025-12-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 4016484,
+   "sha256": "a6367d8875fb1c84415374526aa357ba0a1d1ec85edeb74196fbdd2ec41f0049",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-hacer-monocolor-3h48.3mf.xz",
+   "instance_id": "2203723",
+   "thumbnail": "previews/profiles/2203723.jpg",
+   "print_time_h": 3.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 210,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1P",
+    "H2D",
+    "H2S",
+    "X1E",
+    "A1 mini",
+    "P1S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "By Layer, Single Color Plates, Pause for color change plate4",
+    "creation_date": "2026-02-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Monocromo",
+   "size": 2135444,
+   "sha256": "6a84ab6dd19cea9ed7c703d732b38809c41e29a8a2a805cfd5a0c00ce9c31be7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2042448",
+ "title": "antiestrés de hacer clic en una bola de Pokebola",
+ "slug": "pokeball-click-a-ball-fidget",
+ "url": "https://makerworld.com/en/models/2042448-pokeball-click-a-ball-fidget",
+ "author": "RJDesign",
+ "category": "desk-toys",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "¡Boost MeBoosts me permite seguir diseñando!Descripción\nEl diseño\n\nLa Pokeball Click-a-Ball antiestrés: una bola de clicker extremadamente satisfactoria y relajante\n\nNecesita 9 Clickers, también conocidos como interruptores de teclado mecánicos; el tipo que utilicé se muestra en la siguiente imagen\n\nTodos los segmentos se mueven de forma independiente al igual que el botón.\n\nDesafortunadamente no se abre, sólo una preciosa bola de clicker.\n\nDéjame saber si tienes algún problema.\n\nTipo clicker que utilicé (no he probado otros): cuando los instale, asegúrese de que queden planos contra la superficie (quedan bien ajustados)\n\nEl montaje debería ser bastante sencillo.\n\nAgregue los Clickers a la barra principal\nAjustar el botón interior al clicker central\nColoque el botón exterior sobre el botón interior. Debe encajar a presión, pero es posible que necesite un poco de pegamento.\nColoque las bolas exteriores en los clickers exteriores.\n\nImpresión\n\nSe incluyen 2 perfiles:\nPlanchas multicolores - Imprimir por objeto\nLas planchas de un solo color se imprimen por capas. (1 plato tiene pausa para cambiar de color)\n\nHay soportes para la mayoría de las piezas (no el botón interior)\n\nmi trabajo\n\nGracias a todos los que me han apoyado y me están apoyando en mi trabajo de diseño. Hace un año y medio nunca esperé estar donde estoy hoy, ¡y todo gracias a ti!\n\nGracias por su apoyo con me gusta, descargas y mejoras. ¡Gracias de nuevo!\n\nSi te gustan mis diseños, considera unirte a mi Patreon:\n\n¡Incluye más diseños de los que publico aquí!",
+ "use_cases": [],
+ "tags": [
+  "pokebola",
+  "pelota",
+  "pokemon",
+  "taconeador",
+  "bola de clic",
+  "pokémon",
+  "agitarse",
+  "divertido"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbd4d8aa7b67eaf/design/2025-11-25_e01a7d0f805c1.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.gif": [
+   800,
+   600
+  ],
+  "previews/profiles/2203671.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2553592.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3326463.jpg": [
+   600,
+   1303
+  ],
+  "previews/profiles/3682794.jpg": [
+   600,
+   410
+  ],
+  "previews/profiles/2729951.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2331834.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/2331824.jpg": [
+   337,
+   600
+  ],
+  "previews/profiles/2203723.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

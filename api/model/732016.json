@@ -1,0 +1,310 @@
+{
+ "files": [
+  {
+   "path": "model/twist-turn-1h42.3mf.xz",
+   "instance_id": "663618",
+   "thumbnail": "previews/profiles/663618.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 189,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6185,
+      "weight_g": 30.61,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#3F8E43"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 12105856,
+   "sha256": "9d382b545190a686e4b66857ffdd23dddf059a54746f1f353adc36dbed6a361a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/twist-turn-1h24.3mf.xz",
+   "instance_id": "681085",
+   "thumbnail": "previews/profiles/681085.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 99,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "0.28mm layer, 2 walls, 10% infill",
+    "profile_notes": "Tuned settings for a faster print.",
+    "creation_date": "2024-11-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5015,
+      "weight_g": 27.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 12173488,
+   "sha256": "ea5c284420eb145b25c4baf5cef64a84ddfb475db0f7cef0075a54086afbd22a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/twist-turn-multicolor-1h42.3mf.xz",
+   "instance_id": "665440",
+   "thumbnail": "previews/profiles/665440.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 108,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "A1 mini (multicolor)",
+    "creation_date": "2024-10-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6180,
+      "weight_g": 30.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F55A74"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA versión mini",
+   "size": 14911492,
+   "sha256": "bbc19f66355c9ce439f663e2be1d149fa871352b0b4ceefad6f5dc23a82f3acb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/twist-turn-multicolor-1h48.3mf.xz",
+   "instance_id": "664868",
+   "thumbnail": "previews/profiles/664868.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 510,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Two color variant!",
+    "creation_date": "2025-03-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6310,
+      "weight_g": 30.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#F55A74"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 14901452,
+   "sha256": "3e3a27dc6e1e6beb3ec83ec9e38fb128024e442697facbe97ea2b69be5755f8f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "732016",
+ "title": "Twist & Turn antiestrés - ¡impresión sin ensamblaje!",
+ "slug": "twist-turn-fidget-print-in-place",
+ "url": "https://makerworld.com/en/models/732016-twist-turn-fidget-print-in-place",
+ "author": "wouterkuijpers",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡El Twist & Turn - Print in place antiestrés es la versión para impresión sin ensamblaje de la versión \"Click & Play\" que subí anteriormente! Esta versión es la más fácil de imprimir directamente desde su teléfono.\n\n¡Boost MeBoost me para ayudarme a hacer más modelos como este! ¡Mira también mis otros modelos!\n\nMINI Twist & Turn antiestrés - ¡impresión sin ensamblaje! Twist & Turn antiestrés - ¡Haz clic y juega!",
+ "use_cases": [],
+ "tags": [
+  "girar",
+  "doblar",
+  "tornado",
+  "agitarse",
+  "jugar",
+  "flexible",
+  "enredo",
+  "doblando",
+  "retortijón",
+  "juguete de mano",
+  "juguete",
+  "juguetes"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USac678b1670d8fe/design/2024-10-26_acf550fd72cab.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   400,
+   707
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/663618.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/681085.jpg": [
+   600,
+   401
+  ],
+  "previews/profiles/665440.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/664868.jpg": [
+   600,
+   1066
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

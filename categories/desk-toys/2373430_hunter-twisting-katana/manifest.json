@@ -1,0 +1,295 @@
+{
+ "files": [
+  {
+   "path": "model/katana-retorcida-3h48.3mf.xz",
+   "instance_id": "2597919",
+   "thumbnail": "previews/profiles/2597919.jpg",
+   "print_time_h": 3.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 180,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "High adhesion profile 0.28mm layer, 2 walls, 15% infill",
+    "profile_notes": "This is a high adhesion profile: the speed of building walls and the first layer has been slowed down to avoid print quality or tolerance issues. The wall generator has been set to Arachne for super",
+    "creation_date": "2026-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2423784,
+   "sha256": "ea89b1fd7aeb583ca96751b75c35c1562c7770a1be06c81cf6d467db2777f0a2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/katana-retorcida-1h36.3mf.xz",
+   "instance_id": "2597991",
+   "thumbnail": "previews/profiles/2597991.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1",
+    "P1P",
+    "P1S",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Separated replacement blades 0.28mm layer,2 walls,15% infill",
+    "profile_notes": "Separated replacement blades",
+    "creation_date": "2026-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1942120,
+   "sha256": "9cce3cae2164c7c24a336538e30aa0c8070b09d1f1c1ba9f1034f16e9ec1d92b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/katana-retorcida-2h36.3mf.xz",
+   "instance_id": "3623759",
+   "thumbnail": "previews/profiles/3623759.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X1",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Only Handle Katana handle 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Only Handle Katana",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1744232,
+   "sha256": "e6234685aa184c4d46902eb3dbc59f3888ab411de7f9bb6247cc18fa70daecc4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/katana-retorcida-2h48.3mf.xz",
+   "instance_id": "3445408",
+   "thumbnail": "previews/profiles/3445408.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "H2D",
+    "P1P",
+    "X1",
+    "P1S",
+    "A1 mini",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "V2 FASTER AND LESS FILAMENT",
+    "profile_notes": "Layer Height: 0.25 mm Infill: 1% Wall Loops: 2 Better Supports so they are cleaner and come off better NO AMS",
+    "creation_date": "2026-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.25",
+    "infill": "1%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2606256,
+   "sha256": "f94e03d86f031ef3eaeb1ed8d07303781e92fadea99d649719deb2ee2cea27c7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/katana-retorcida-3h.3mf.xz",
+   "instance_id": "2597988",
+   "thumbnail": "previews/profiles/2597988.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 52,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Layer Height 0.28mm, 2 walls, 15% infill",
+    "profile_notes": "This is a fast high adhesion profile: the first layer was slowed down to avoid print quality or tolerance issues. The wall generator was set to Arachne for super adhesion.",
+    "creation_date": "2026-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2322512,
+   "sha256": "2f97582b7ced93185ff7542e0f8fee494a04bc6259bb96c0b5af8d78a579eddb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2373430",
+ "title": "Katana retorcida de cazador",
+ "slug": "hunter-twisting-katana",
+ "url": "https://makerworld.com/en/models/2373430-hunter-twisting-katana",
+ "author": "New_Kids_Turbo",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Impúlsame Si disfrutas de mis modelos y te gustaría mostrar tu apoyo, ¡considera donar un impulso! Tu contribución significaría mucho para mí. Katana retorcida de cazador\nAquí está la nueva Hunter Twisting Katana, que presenta una hoja en espiral dinámica que gira suavemente a medida que se extiende, creando un sorprendente movimiento de torsión. La construcción geométrica y segmentada le da un aspecto moderno de baja poli, mientras que la hoja en espiral hace que cada movimiento parezca espectacular.\nLa hoja más pequeña incluye un ala de una sola capa agregada para estabilización.\n\nTodos los modelos están disponibles para la venta comercial de las impresiones físicas en 3D si es suscriptor de Patreon.",
+ "use_cases": [],
+ "tags": [
+  "catana",
+  "foda",
+  "torciendo a1 mini",
+  "agitarse",
+  "retortijón",
+  "katana espiral",
+  "espiral",
+  "imprimir en el lugar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9e16828fed5517/design/39fefbe2feb7e236.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/2597919.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2597991.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3623759.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3445408.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2597988.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

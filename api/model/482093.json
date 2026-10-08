@@ -1,0 +1,208 @@
+{
+ "files": [
+  {
+   "path": "model/transformando-antiestres-17h48.3mf.xz",
+   "instance_id": "393997",
+   "thumbnail": "previews/profiles/393997.jpg",
+   "print_time_h": 17.8,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 551,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "A1",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": ".2 mm layer height Uses supports",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 64163,
+      "weight_g": 345.1,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2889716,
+   "sha256": "fdf34cf8e3452f5d873acac1dd8e1289ef490bef601ad4b3a65e066abc08f07f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/transformando-antiestres-16h06.3mf.xz",
+   "instance_id": "3067543",
+   "thumbnail": "previews/profiles/3067543.jpg",
+   "print_time_h": 16.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2C",
+    "P1P",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1,
+    "profile_title": "Transforming fidget ~15hrs"
+   },
+   "name": "Versión estándar",
+   "size": 3005836,
+   "sha256": "9b01cc2f8115f8dfedf77be5a846557e1bcf1f8790f1ee8b44872bb15787da37",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/transformando-antiestres-9h24.3mf.xz",
+   "instance_id": "3100211",
+   "thumbnail": "previews/profiles/3100211.jpg",
+   "print_time_h": 9.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "P1S",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "自動で元の形に戻る",
+    "profile_notes": "握る力を弱めれば自動的に元の形に戻る改造品です。 これは輪ゴムを内部に組み込む事で実現します。 つまり、プリントしただけではオリジナルと同じ機能のままなので、輪ゴムを内部に組み込む作業が必要です。 オリジナルと同じ動きの物を遊んだ後に、形状復元機能を追加出来るので、まずはこのモデルをプリントする事をお勧めします。 ツリーサポートで印刷出来ます。それ以外の条件はオリジナルと同じ条件で印刷して下さい。 これのサイズはオリジナルの83%で長さ130mm幅94mmくらいです。 拡大した場合ツリーサポートで印刷できません。縮小した場合動きません。 コメント欄にはシルクではうまく動かない、PLA以外のフィラメントで動きに問題があるなどの意見があるので注意してください。 古いPLAで印刷した場合、最初の固まった状態から動かすまでがかなり楽に行えますが簡単に破損し、動かすたびに徐々に崩壊していきます。 ①まずプリントしたら両手で完全に覆うように持って優しく引っ張ってください。コメント欄には押したり踏んだりしてる人がいますがこのフィジェットは非常に破損しやすいのでお勧めしません。引っ張りながら左右に曲げたりしてみて下さい（勿論曲がる方向にです。曲がらない方向に曲げないでください。） ②完全に動くようになったらしばらくオリジナルモデルと同じように遊んでください。このモデルは初めのうちは動きが固いので、いきなり輪ゴムを組み込むのはおススメしません。オリジナルをプリントした事のある人なら分かると思いますが、このフィジェットは四日くらい遊んでるとあまりに動きが軽くなり過ぎてフィジェットとして面白くなくなるのです。この改造品はその問題を解決するために生まれたとも言えます。動きに抵抗感があるうちにオリジナルの感触を楽しみましょう。 ③動きが軽くなりすぎてテーブルに置いたらすぐ平べったくなってしまうようになったらゴムを組み込む時です。 必要なのは輪ゴム2本と爪楊枝2本と糸と紐通しです。 この改造品は長手方向の中心に貫通穴が開いておりそこに輪ゴムを通します。 そして輪ゴムのストッパーに爪楊枝を使い、画像３（バンブースタジオ上では画像の順番がバラバラなので注意）の様にします。 爪楊枝を使わずにモデル自体にストッパー部分を作らなかったのか？という意見が聞こえてきそうですが、主にPLAの強度と作業性、貫通穴を小さくする事と輪ゴムが完全に中心を通る事全てを両立する事が出来ず、一番現実的で耐久性があり簡単に実現できる方法として爪楊枝をストッパーにする方法を採用しました。 ④まず輪ゴムを爪楊枝に結び付けます（画像４） 使用する輪ゴムは張力の好みがありますから好きにすればよいですが、私が試したところでは幅1mmの一番細い輪ゴムが適しており、長さに関しては#16を二連結した物が一番適しております。 #16はJIS規格なので海外ではどう呼ばれてるのか分かりませんが直径が38mmほど直線状にしたら長さ60mmで幅が1mmほどの非常に一般的な輪ゴムです。 ダイソーに売ってますが非常に一般的なサイズなので多分あなたのキッチンにあります。 天然ゴムは数年で劣化しますがシリコンゴムの輪ゴムであれば非常に長持ちします。頻繁に交換するのが嫌ならシリコンゴムの#１６の輪ゴムを購入してください。 ⑤輪ゴムを2連結してください。（輪ゴムの連結の仕方は分かりますよね？） ⑥次に輪ゴムをフィジェットに通す必要があります。そのまま輪ゴムを穴に突っ込んでも通らないので糸をまず通してその糸でゴムを引っ張ります。 もしくは針金で輪ゴムを直接引っ張ってください。（私は試してませんが多分針金が一番早くて簡単）針金を使う場合⑩まで飛ばしてください ⑦糸で輪ゴムを通す方法です。まず紐通し等小さなリング状で重みのあるもの(ジッパータブでも小さなアーミーナイフに引っ付いてる小さなリングでもとにかく穴を通るサイズのリング状のものならなんでも）に糸を通してフィジェットの先端に空いた穴に通し、糸でフィジェットを貫通させます。（画像５、６） ⑧爪楊枝と結ばれてない方の輪ゴムに糸を結びます（画像７ 画像では輪ゴムが連結してないけどこれは連結を試す前に撮った写真だから） ⑨糸を引っ張って輪ゴムをフィジェットに通します。 ⑩引っ張って反対側から出てきた輪ゴムをもう一つの爪楊枝に結び付けます（爪楊枝の両端から輪ゴムを回すようにすれば反対側と全く同じ結び方でしっかりと結べます）。フィジェットの両側を画像３の様にして下さい。 ⑪糸を輪ゴムから取り外し、爪楊枝の尖ってる側を適切な長さに切断して完成です。 もし#１６を使って張力が足りないと思うなら片方または両方の輪ゴムを#14（16より短い）に変えて下さい。 ただし、あまり張力を強くすることはおススメ出来ません。前にも書いた通りこのフィジェットは非常に繊細なので強い張力をかけると破損します。",
+    "creation_date": "2026-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3779928,
+   "sha256": "9fe1afcff0e891ee607a06998e686200b598c20bc00e2374c07deb6f6a02198f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "482093",
+ "title": "Transformando antiestrés Ball Mini",
+ "slug": "transforming-fidget-ball-mini",
+ "url": "https://makerworld.com/en/models/482093-transforming-fidget-ball-mini",
+ "author": "macjfll",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Esta es una versión mini de mi Transforming antiestrés Ball que se puede imprimir en la A1 mini y requiere mucho menos filamento.\nBoost Me ¿Disfrutaste el modelo? Un pequeño impulso es de gran ayuda: ¡gracias por el apoyo! Membresía Si desea vender mis modelos, puede comprar una licencia comercial aquí.",
+ "use_cases": [],
+ "tags": [
+  "estirar",
+  "agitarse",
+  "juguete",
+  "frío",
+  "lugar de impresión",
+  "imprimir",
+  "entrelazado",
+  "transformando",
+  "doblar",
+  "cerrar",
+  "mini"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-06-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5e51b8f8ab3f7e/design/2024-06-02_2ac2dffeed26e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/393997.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3067543.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3100211.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

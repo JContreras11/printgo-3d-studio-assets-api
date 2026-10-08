@@ -1,0 +1,483 @@
+{
+ "files": [
+  {
+   "path": "model/sr-snek-monocolor-3h18.3mf.xz",
+   "instance_id": "2932531",
+   "thumbnail": "previews/profiles/2932531.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 72,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "A2L",
+    "X2D",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Single Color",
+    "creation_date": "2026-04-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Monocromo",
+   "size": 14475780,
+   "sha256": "24dcd36c73ce4fced6449535e23a4eed709a6e222b8cfe82e6682ddf94551e80",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-15h18.3mf.xz",
+   "instance_id": "2943513",
+   "thumbnail": "previews/profiles/2943513.jpg",
+   "print_time_h": 15.3,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 151,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "P2S",
+    "A1",
+    "P1P",
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Print In Place - AMS needed",
+    "creation_date": "2026-04-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 29249356,
+   "sha256": "4e421ae7054b6b810b35358f46cd6d2325b58e24bf1b6e54c915bb4f7ca92094",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-1h.3mf.xz",
+   "instance_id": "2981111",
+   "thumbnail": "previews/profiles/2981111.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 62,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "P1S",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.22",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "FAST QUALITY UNICOLOR"
+   },
+   "name": "Versión estándar",
+   "size": 6992780,
+   "sha256": "2033ef06d08e7c30286533ea200e81201101da80af16b4b989d957b37f1784d2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-1h36.3mf.xz",
+   "instance_id": "2947045",
+   "thumbnail": "previews/profiles/2947045.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 24,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Flexi Snake with Hat - Arachne, Tuned Joints, 10% Gyroid",
+    "profile_notes": "This profile is specifically configured for articulated models with small, repeating segments. It ensures each joint remains free-moving while capturing the fine details of the character's accessories. Wall Generator set to Arachne: This utilizes variable line widths to accurately print the tapered edges of the snake's body segments and the fine brim of the hat, ensuring no gaps appear in thin areas. Avoid Crossing Walls enabled: This restricts travel movements to the inside of the printed parts, preventing stringing between the segments that could otherwise fuse the joints together and ruin the articulation. Initial Layer Speed reduced : Articulated models consist of many small, separate islands on the first layer; slowing down ensures every piece has perfect bed adhesion to prevent segments from detaching during the print. 10% Gyroid Infill: This provides multi-directional strength for a part meant to be handled and flexed, while eliminating the nozzle-crossing vibrations common with the default grid pattern. Only one plate",
+    "creation_date": "2026-04-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8044848,
+   "sha256": "c56d41293f19f213c59560390012db1a1201cb986dc60f42b8a4142383aeeb32",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-1h54.3mf.xz",
+   "instance_id": "2952888",
+   "thumbnail": "previews/profiles/2952888.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill - 1 plate, by object - AMS",
+    "profile_notes": "Hello, to made print as easy as fast, I made this profile to print all on one plate, and it is by object, so You can have multicolor print very fast. I slower FL speed to avoid adhesion. Have fun !",
+    "creation_date": "2026-04-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 8263388,
+   "sha256": "267afd7d7905e0a32a09110c183c9f80f83f4b591db94b03be8c606c94e5be89",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-2h06.3mf.xz",
+   "instance_id": "2932561",
+   "thumbnail": "previews/profiles/2932561.jpg",
+   "print_time_h": 2.1,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 606,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "A2L",
+    "X2D",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Print In Parts - No AMS Needed",
+    "creation_date": "2026-04-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 8089656,
+   "sha256": "533381598a212c060f5970f283b76832b94578fcb2f842d92a22de0874637647",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-30min.3mf.xz",
+   "instance_id": "2978913",
+   "thumbnail": "previews/profiles/2978913.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 3.3,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "MINI VERSION PRINT BY OBJECT AMS",
+    "profile_notes": "mini",
+    "creation_date": "2026-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 8015440,
+   "sha256": "787b2d2dc13f3088aacdb2b4f2b34d711386fedfddcf764ed7335dd1ff30ec24",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-4h24.3mf.xz",
+   "instance_id": "3620046",
+   "thumbnail": "previews/profiles/3620046.jpg",
+   "print_time_h": 4.4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "X2D",
+    "H2C",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "P2S",
+    "A2L",
+    "P1P",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 15% infill",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 6967524,
+   "sha256": "ec0cc550048c883443f1d70dcd706b757f45e7057c07c41d703a2481419afb29",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-5h48.3mf.xz",
+   "instance_id": "2932661",
+   "thumbnail": "previews/profiles/2932661.jpg",
+   "print_time_h": 5.8,
+   "plates": 3,
+   "rating": 4.6,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "P1P",
+    "X1 Carbon",
+    "A2L",
+    "X1E",
+    "P1S",
+    "A1",
+    "P2S",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "Extra Variations",
+    "creation_date": "2026-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 23984092,
+   "sha256": "035eb3aa5536fdfcb0630decb712803926a62fe9411a555e3572e731b9d32168",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/sr-snek-7h30.3mf.xz",
+   "instance_id": "2961081",
+   "thumbnail": "previews/profiles/2961081.jpg",
+   "print_time_h": 7.5,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "P2S",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "extra large version no A1 Mini",
+    "profile_notes": "extra large",
+    "creation_date": "2026-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión mini",
+   "size": 8132244,
+   "sha256": "c46c08d894ef8deeb0b2b50fc7708db33433cdd95e3588f309784c4bec66f729",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2652384",
+ "title": "Sr. Snek",
+ "slug": "mr-snek",
+ "url": "https://makerworld.com/en/models/2652384-mr-snek",
+ "author": "Printzee",
+ "category": "desk-toys",
+ "source_category": "Miniaturas > Animales",
+ "description": "Echa un vistazo al Sr. Snek 2\n\nConoce al Sr. Snek\n\nEs completamente articulado, muy ondulante... y viene con un pequeño sombrero que se imprime por separado.\nMe he divertido experimentando con estos nuevos diseños de articulaciones para impulsar la flexibilidad. El resultado es un movimiento súper suave: puede girar y enrollarse alrededor de tus dedos (¡como se demostró!).\n\nSe incluyen variaciones adicionales en los archivos, para que puedas mezclar cosas y crear tu propia versión de Mr. Snek.\n\nConsejos de impresión:\nUtilice una placa de construcción recién limpiada para obtener mejores resultados de adhesión.\nConsidere una placa súper adherente/fría si tiene problemas de adhesión a la base con las piezas pequeñas.",
+ "use_cases": [],
+ "tags": [],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2b7f6312580924/design/3aa335897150ec1a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1500
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1500
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2932531.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2943513.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2981111.jpg": [
+   600,
+   507
+  ],
+  "previews/profiles/2947045.jpg": [
+   600,
+   332
+  ],
+  "previews/profiles/2952888.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2932561.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2978913.jpg": [
+   600,
+   395
+  ],
+  "previews/profiles/3620046.jpg": [
+   100,
+   75
+  ],
+  "previews/profiles/2932661.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2961081.jpg": [
+   600,
+   395
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

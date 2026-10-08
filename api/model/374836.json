@@ -1,0 +1,132 @@
+{
+ "files": [
+  {
+   "path": "model/tarjeta-kit.3mf.xz",
+   "instance_id": "274770",
+   "thumbnail": "previews/profiles/274770.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15525,
+      "weight_g": 82.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       },
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       },
+       {
+        "type": "PLA",
+        "color": "#408080"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1684196,
+   "sha256": "12ca42a389f039032bb8d59fc7369dcc6d1189d6e9050423864ab3e547fcccda",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "374836",
+ "title": "Tarjeta del kit de viaje del acorazado",
+ "slug": "battleship-travel-kit-card",
+ "url": "https://makerworld.com/en/models/374836-battleship-travel-kit-card",
+ "author": "drodfro",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Disponible como impresión multicolor para AMS (u otros sistemas multicolor) y como color único.\n\nSe requieren imanes de 10x2 mm y todas las piezas se pueden guardar en el interior mientras están cerradas (aunque es posible que desees llevar una bolsa pequeña si no quieres ordenar). En el caso de que los imanes midan menos de 2 mm (sucede con bastante frecuencia), siempre puede agregar discos auxiliares de 9,8 mm de diámetro y 0,2 o 0,4 mm de altura.\n\nSi la capa superior no es suave, un toque suave con papel de lija y soplete resulta muy útil.",
+ "use_cases": [],
+ "tags": [
+  "acorazado",
+  "viajar",
+  "juego",
+  "juego de mesa",
+  "tarjeta kit",
+  "ams",
+  "tarjeta del kit"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-03-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8a716dd5c5b8bb/design/2024-03-16_bd012d846f5f8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/274770.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

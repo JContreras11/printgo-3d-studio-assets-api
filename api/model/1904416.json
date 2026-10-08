@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/titular-tarjeta-8h12.3mf.xz",
+   "instance_id": "2041553",
+   "thumbnail": "previews/profiles/2041553.jpg",
+   "print_time_h": 8.2,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "H2C",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "*OLD USE OTHER PRINT PROFILE* V1 0.2mm layer",
+    "profile_notes": "Use the other print profile",
+    "creation_date": "2025-10-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 657040,
+   "sha256": "55083793ecff953279f9004e372a83a78f3a59b06e7743e9496a5f92765a3cca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/titular-tarjeta-5h12.3mf.xz",
+   "instance_id": "2389781",
+   "thumbnail": "previews/profiles/2389781.jpg",
+   "print_time_h": 5.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "X1E",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "P1S",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "V2 (No Support Needed) 0.16mm layer, 2 walls, 10% infill",
+    "profile_notes": "Improved design so no support is needed",
+    "creation_date": "2026-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 696868,
+   "sha256": "198686c66d3cf93491249a8dbf28a3d0be410fadb8e11ea543cbbbda99a4e2e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1904416",
+ "title": "Titular de la tarjeta Ticket to Ride",
+ "slug": "card-holder-for-ticket-to-ride",
+ "url": "https://makerworld.com/en/models/1904416-card-holder-for-ticket-to-ride",
+ "author": "Nootfellows",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Actualicé el modelo para que no se necesiten soportes.\n\nTarjetero para Ticket To Ride\nEstá diseñado para las tarjetas Europa/América.\n\nCuenta con:\n5 ranuras expositoras para tarjetas de tren\n1 mazo de robo para cartas de tren\n1 pila de descarte para cartas de tren\n1 mazo de robo para cartas de destino\n1 pila de descarte para cartas de destino\n\nLas pilas de cartas de tren tienen raíles como detalle.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "boleto para viajar",
+  "accesorio",
+  "tarjeta",
+  "titular de la tarjeta",
+  "tren",
+  "junta",
+  "juego de mesa",
+  "juego"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2025-10-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf74ccb28c6d5d0/design/2025-10-19_d65a0e84af255.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   608
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/profiles/2041553.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/2389781.jpg": [
+   600,
+   475
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

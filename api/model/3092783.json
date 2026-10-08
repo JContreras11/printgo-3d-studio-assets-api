@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/twisty-antiestres-2h.3mf.xz",
+   "instance_id": "3485020",
+   "thumbnail": "previews/profiles/3485020.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6560300,
+   "sha256": "cd8c4093610980fdccecca4d689366b796b25453d7cc96e00917bc367ecc3d68",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/twisty-antiestres-1h30.3mf.xz",
+   "instance_id": "3638342",
+   "thumbnail": "previews/profiles/3638342.jpg",
+   "print_time_h": 1.5,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "H2D",
+    "A1 mini",
+    "P1S",
+    "A2L",
+    "P2S",
+    "X1E",
+    "X1",
+    "A1",
+    "H2D Pro",
+    "X2D",
+    "H2S",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "NO AMS and 30 MINS SHORTER"
+   },
+   "name": "Versión estándar",
+   "size": 6609668,
+   "sha256": "2712bb48b1eb04bb935965a96bb9427484a98b82c4b8c86b08b64b661ac462fd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3092783",
+ "title": "Twisty antiestrés - Hot Dog y Pan - Salchicha",
+ "slug": "twisty-fidget-hot-dog-and-bun-sausage",
+ "url": "https://makerworld.com/en/models/3092783-twisty-fidget-hot-dog-and-bun-sausage",
+ "author": "user_2686300390",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un juguete inquietante retorcido con forma de hot dog. Se imprime en dos partes que se deslizan entre sí fácilmente.\nLa longitud es de aprox. 7cm",
+ "use_cases": [],
+ "tags": [
+  "embutido",
+  "2026",
+  "retorcido",
+  "hot dog",
+  "juguete",
+  "inquietud retorcida"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-07-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9affc0eb13b2fe/design/66744583adc84c3a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3485020.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3638342.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

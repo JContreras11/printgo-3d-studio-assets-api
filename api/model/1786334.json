@@ -1,0 +1,286 @@
+{
+ "files": [
+  {
+   "path": "model/cuchillo-otf-3h.3mf.xz",
+   "instance_id": "1903419",
+   "thumbnail": "previews/profiles/1903419.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 169,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X2D",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Comb blade wtih bold pattern on expanded handle.",
+    "profile_notes": "Suggest PETG for spring for durability.",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2607456,
+   "sha256": "ac8d0f7e27320cf7424f40deae6b4fe81838c7db11a522486bfbb41450621c5e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cuchillo-otf-3h-2.3mf.xz",
+   "instance_id": "1903447",
+   "thumbnail": "previews/profiles/1903447.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 137,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X1",
+    "H2D",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "A1",
+    "P2S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Blade 1 wtih narrow pattern on expanded handle.",
+    "profile_notes": "Suggest PETG for spring",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2888272,
+   "sha256": "a68912cb7d34c9e6af200deaf9e7c72fff2b1c35141c4fa0a5d0ad7358337a27",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cuchillo-otf-3h06-2.3mf.xz",
+   "instance_id": "1903436",
+   "thumbnail": "previews/profiles/1903436.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Blade 2 wtih bold pattern on flat handle.",
+    "profile_notes": "Suggest PETG for spring",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2609768,
+   "sha256": "f651f7e8d2d90b07a54d4464d62fc268779ec76f8d636d968e920a3048afc86f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cuchillo-otf-3h06.3mf.xz",
+   "instance_id": "1903434",
+   "thumbnail": "previews/profiles/1903434.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 61,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "A1",
+    "A2L",
+    "H2D",
+    "X1",
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "X2D",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Blade 3 wtih narrow pattern on flat handle",
+    "profile_notes": "Suggest PETG for spring.",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2896344,
+   "sha256": "479c03b4598df5bf20b36fc9ded3439e981d6e1023a59b05e6ca2a1cdcbefb5a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/cuchillo-otf-multicolor-1h.3mf.xz",
+   "instance_id": "1903454",
+   "thumbnail": "previews/profiles/1903454.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 40,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "All types of blades. 2 color only 2 filament change count",
+    "profile_notes": "Suggest PETG for spring.",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1628256,
+   "sha256": "d1fb5095690d80737aa5f8f0ea9b657b6889a23f56eac7b6e866942c0f9f0c5f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1786334",
+ "title": "Cuchillo OTF antiestrés sobrediseñado²",
+ "slug": "otf-fidget-knife-over-engineered2",
+ "url": "https://makerworld.com/en/models/1786334-otf-fidget-knife-over-engineered2",
+ "author": "iczfirz",
+ "category": "desk-toys",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "¡Que tengas un día de cuchillo!\n\nOtro antiestrés OTF, ansiolítico, TDAH.\nEste modelo requiere ajustes de impresión 3D de alta precisión. Asegúrese de que su equipo y filamento estén configurados correctamente. Dar comentarios negativos no le ayudará a conseguir buenos resultados de impresión; sólo te hará perder el tiempo.\nSi hay fricción, lubrique con aceite de cocina.\n\nEnlace para ver las instrucciones en vídeo de construcción\nSalte a 5:42 para ver un modelo similar",
+ "use_cases": [],
+ "tags": [
+  "otf",
+  "agitarse",
+  "peine"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US20875b8b54b946/design/2025-09-11_732fde2379b778.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.webp"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.jpg": [
+   1000,
+   562
+  ],
+  "previews/03.webp": [
+   1000,
+   674
+  ],
+  "previews/profiles/1903419.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1903447.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1903436.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1903434.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/1903454.jpg": [
+   600,
+   337
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

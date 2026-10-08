@@ -1,0 +1,183 @@
+{
+ "files": [
+  {
+   "path": "model/100-peces-9h06.3mf.xz",
+   "instance_id": "2726388",
+   "thumbnail": "previews/profiles/2726388.jpg",
+   "print_time_h": 9.1,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "H2S",
+    "X1E",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.08mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 29501068,
+   "sha256": "070bdde4331089a8e5f6126061aae0f8faa45fee2bce9b7b1faf9fa0180f0dd4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/100-peces-54min.3mf.xz",
+   "instance_id": "3139926",
+   "thumbnail": "previews/profiles/3139926.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 46,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2S",
+    "H2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "25 Fish | <1HR < 8G of filament",
+    "profile_notes": "This print profile includes a subset of 25 fish , but it also optimizes each fish by roughly cutting 60% of filament per fish and 40% of print time . With less fish, you can get a quantity closer to the specific amount you want and it also makes the model compatible with all Bambu Labs Printers .",
+    "creation_date": "2026-05-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3674952,
+   "sha256": "f7af3fbc9e94a249aa6b3a20de12cba7fa49ef405eae95b1df8b8311458bedb4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/100-peces-7h.3mf.xz",
+   "instance_id": "2872254",
+   "thumbnail": "previews/profiles/2872254.jpg",
+   "print_time_h": 7,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1",
+    "X1E",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.01.52",
+    "profile_title": "A1 Mini 72 Fish - 0.08mm layer, 2 walls, 15% infill",
+    "profile_notes": "Fit 72 fish on an A1 mini plate",
+    "creation_date": "2026-04-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 3617740,
+   "sha256": "76093c244cb31b37a27afd8d0cb28dd90d3fd0306f89f4e3d8e37a32b6d773a5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2482225",
+ "title": "100 peces diminutos para esconder en todas partes: broma definitiva",
+ "slug": "100-tiny-fish-to-hide-everywhere-ultimate-prank",
+ "url": "https://makerworld.com/en/models/2482225-100-tiny-fish-to-hide-everywhere-ultimate-prank",
+ "author": "Addict39",
+ "category": "desk-toys",
+ "source_category": "Herramientas > Gadgets",
+ "description": "¿Buscas la broma inofensiva perfecta?\nEsta placa contiene 100 peces diminutos listos para imprimir en un solo lote. Escóndelos por todas partes y observa cómo crece la confusión a medida que siguen apareciendo por la habitación.\nPerfecto para:\nDía de los Inocentes\nBromas de oficina\nEsconderse por la casa\nregalos divertidos\nMolestar a tus amigos de la mejor manera posible\nCada pez es pequeño, sencillo y se imprime rápidamente. La placa te permite producir 100 mini peces en una sola impresión, lo que la hace ideal para grandes bromas.\nConsejos de impresión:\nSe recomienda mantener la base de impresión pequeña (pie de impresión) adherida a cada pez.\nLa base mejora la estabilidad y el equilibrio al colocar el pescado sobre mesas, estantes u otras superficies planas.\nQuitarlo puede provocar que el pescado se vuelque.\nSimplemente imprime el plato, retira el pescado y empieza a esconderlo por todas partes.\nCuanto más encuentran... más aparecen.",
+ "use_cases": [],
+ "tags": [
+  "concursos",
+  "2026 día de los inocentes",
+  "pez",
+  "pequeño pez en casa",
+  "100 peces",
+  "inocentes",
+  "broma de los inocentes",
+  "broma de oficina",
+  "impresión divertida",
+  "juguete de escritorio",
+  "objetos ocultos",
+  "miniaturas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4b0d4742119871/design/18060a78ed6524a2.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   561
+  ],
+  "previews/profiles/2726388.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3139926.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2872254.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

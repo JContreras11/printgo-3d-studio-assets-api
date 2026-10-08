@@ -1,0 +1,336 @@
+{
+ "files": [
+  {
+   "path": "model/yoshi-egg-2h42.3mf.xz",
+   "instance_id": "3516067",
+   "thumbnail": "previews/profiles/3516067.jpg",
+   "print_time_h": 2.7,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 124,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "X1E",
+    "H2S",
+    "P1P",
+    "H2C",
+    "P1S",
+    "A2L",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Version Multipart sans AMS",
+    "creation_date": "2026-07-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 93738576,
+   "sha256": "9c6c603dff71afe78e01809edc24ab7ff9151405d3339b1d239923fb20429db1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/yoshi-egg-2h06.3mf.xz",
+   "instance_id": "3806295",
+   "thumbnail": "previews/profiles/3806295.jpg",
+   "print_time_h": 2.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "两盘打印，减少换盘次数（优化参数提高运行效率）",
+    "creation_date": "2026-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 75623988,
+   "sha256": "fd650cace8eba08b714de74047c757d813e5d614431fa8b328f93f366cd5a12d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/yoshi-egg-30min.3mf.xz",
+   "instance_id": "3516135",
+   "thumbnail": "previews/profiles/3516135.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "P1S",
+    "H2D Pro",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "A1",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Yeux complet version AMS",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 20331132,
+   "sha256": "b870fb7debbeb8e4b8954153c79e8aa074f4d6c7864f149ffaa6c86e5d317627",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/yoshi-egg-3h36.3mf.xz",
+   "instance_id": "3777056",
+   "thumbnail": "previews/profiles/3777056.jpg",
+   "print_time_h": 3.6,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "More Detailed with Smoother Curves - Multipart",
+    "profile_notes": "Manually a pplied variable layer height to each of the parts to produce smoother curves and cleaner overhangs, improving the overall finish. The setting “Only one wall on top surfaces” has also been disabled, which further reduces visible top layer lines. The seam position on the nose was changed to be hidden on the bottom instead of being on the top, and Elephant Foot Compensation was increased to 0.12 mm to help the small snap in pieces fit more easily.",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 93586036,
+   "sha256": "a1c24748ca1c1d310a6acf7187fe83b0190fcac8d4b51f5cc7433e8f9e117555",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/yoshi-egg-7h48.3mf.xz",
+   "instance_id": "3516106",
+   "thumbnail": "previews/profiles/3516106.jpg",
+   "print_time_h": 7.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 25,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "P2S",
+    "X1 Carbon",
+    "A2L",
+    "P1P",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Version avec AMS",
+    "creation_date": "2026-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 89388004,
+   "sha256": "6f3c210d36fde036c8f4d97b1ae619778b06ba679090b2837e81ca1ea3255086",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/yoshi-egg-multicolor-1h36.3mf.xz",
+   "instance_id": "3861606",
+   "thumbnail": "previews/profiles/3861606.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高打印效率",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 4956216,
+   "sha256": "42c1521a9f4a2a8ff4e97b95eaa81b03972606c10e7c28890bd8e384a01382d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3117230",
+ "title": "Yoshi Egg Clicker multiparte",
+ "slug": "yoshi-egg-clicker-multi-part-without-ams",
+ "url": "https://makerworld.com/en/models/3117230-yoshi-egg-clicker-multi-part-without-ams",
+ "author": "mika3d_print",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost MeBoosts me apoya en mis creaciones.\nNo dudes en dejar uno y ayudarme a diseñar otros modelos. ¡Enamórate de estos adorables Yoshis que salen de su huevo en versión Clicker!\nDentro del Yoshi hay un MX mecánico Switch (MX Clicker) que hace un clic satisfactorio con cada pulsación. El mecanismo se sujeta en una carcasa especialmente diseñada para proporcionar una buena estabilidad y un movimiento suave.\nLa parte superior es móvil y presiona hacia abajo verticalmente para activar el Switch, mientras que la base permanece fija. Todas las diferentes piezas encajan fácilmente.\n\nUna versión con un lazo (perfora la púa del lomo) que te permite agregar un llavero para llevar tu Yoshi Clicker a todas partes.\n\nNo es necesario AMS, todo ha sido modelado y dividido para imprimirse en varias partes separadas.\n\n-La información de montaje es muy sencilla solo asegúrate de limpiar bien los soportes y probar el encaje de las piezas antes de pegar.\n\nperfil añadido con versión AMS **\nperfil añadido para ojos como una sola pieza con AMS\n\n-Aquí está el enlace para la versión del clicker Mushroom:\n\n-Aquí está el enlace para la versión clicker de Yoshi Pipe:",
+ "use_cases": [],
+ "tags": [
+  "yoshi",
+  "huevo yoshi",
+  "'dragón",
+  "dragón",
+  "sin ams",
+  "no - ams",
+  "no ams",
+  "sansams",
+  "multiparte"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaa14c0ce3d9472/design/cb580216df720a6a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3516067.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3806295.jpg": [
+   341,
+   292
+  ],
+  "previews/profiles/3516135.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3777056.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3516106.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3861606.jpg": [
+   600,
+   588
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

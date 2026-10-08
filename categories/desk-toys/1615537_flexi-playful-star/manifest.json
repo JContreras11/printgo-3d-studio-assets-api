@@ -1,0 +1,446 @@
+{
+ "files": [
+  {
+   "path": "model/estrella-juguetona-12h54.3mf.xz",
+   "instance_id": "1704755",
+   "thumbnail": "previews/profiles/1704755.jpg",
+   "print_time_h": 12.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 1248,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2S",
+    "X2D",
+    "P1S",
+    "A1 mini",
+    "P2S",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "If you wish, you can increase the layer height to 0.2",
+    "creation_date": "2025-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6271052,
+   "sha256": "7390938a1d6141daf51a40407eec8b69633257b66d7cb507672084b07373a1a9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-10h30.3mf.xz",
+   "instance_id": "2386513",
+   "thumbnail": "previews/profiles/2386513.jpg",
+   "print_time_h": 10.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 157,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1E",
+    "P1S",
+    "X1",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill - improved bed-adhesion",
+    "profile_notes": "Works great! Wanted to print from Bamby Handy but no 0.2-version was available. Now it is :-) This model has a very delicate first layer! Please wash your build plate with Dish Soap (not refatting) and hot water beforehand!",
+    "creation_date": "2026-01-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6346644,
+   "sha256": "f32238a6f73f7128961b3b63b93cf63c48166afdc3b42e59610594ce72bfcb95",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-12h.3mf.xz",
+   "instance_id": "3641775",
+   "thumbnail": "previews/profiles/3641775.jpg",
+   "print_time_h": 12,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "P1P",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "参数细节优化版",
+    "profile_notes": "If you wish, you can increase the layer height to 0.2",
+    "creation_date": "2026-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3021828,
+   "sha256": "1bee011692501c6575faad1bd8a1cacbee96e95010aea00d114326333e4e1d38",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-16h42.3mf.xz",
+   "instance_id": "2758399",
+   "thumbnail": "previews/profiles/2758399.jpg",
+   "print_time_h": 16.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 28,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "H2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "X1",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1E",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Improved bed adhesion performance",
+    "profile_notes": "On an H2C lost 5 of 6 prints due to some of the parts being knocked off the bed after a few or many layers. I cleaned PEI with alcohol, soap and hot water, all the usual tricks and still had issues. I found when I made the below settings I was able to get 3/3 perfect prints. Total time went from ~16h to 17h23m. You will need to update the filament settings yourself. Filament settings Filament Z hop when retract 0.4mm Z Hop Type Spiral Cooling Special cooling settings for the first 4 layers Setting Override Z hop when retract 0.4mm Z Hop Type Spiral Process - Global Speed Initial Layer - 25mm/s initial layer infill 50mm/s Note: I used a 0.4 hardened regular flow Right nozzle on the H2C, I do not believe that is important to follow. Original filament was Siddament PLA Gradient Summer Reverie.",
+    "creation_date": "2026-03-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6405844,
+   "sha256": "be7ecb99879bc24a785cbf29221a92edd4a92901f6b83ecaadc50c93e3c51968",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-23h48.3mf.xz",
+   "instance_id": "3342763",
+   "thumbnail": "previews/profiles/3342763.jpg",
+   "print_time_h": 23.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "X1E",
+    "P1S",
+    "X2D",
+    "X1",
+    "A1 mini",
+    "A2L",
+    "X1 Carbon",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "TPU Optimized, 0.2mm layer, 2 walls, 8% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6216248,
+   "sha256": "9f6a89b1091f29c4cedf9dd9ec4120b7d6381bda58c9eedbcc9736a53acd6ee2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-4h06.3mf.xz",
+   "instance_id": "2711980",
+   "thumbnail": "previews/profiles/2711980.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 617,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Adaptive layer height carefully tuned for top smoothness.",
+    "profile_notes": "Adaptive layer height carefully tuned for top smoothness. many many substantial value adding adjustments also that result in low filament material waist and quick print time with reasonably good strength… see the specifics below… 0.28mm layer, 1 walls, 0.6mm wall width, 0% infill, wall generator arachne, acceleration speed [ short travel , initial layer travel, initial layer, outer wall, top surface ] all turned up to 10000mms. max volumetric speed for PLA, and PETG both set to 30mm3/s, cooling for over hangs set to 100%, minimum fan for layers less than 4 seconds 100% and for the other layer times 100% and auxiliary part cooling fan 70%. note that filament flow, and cooling settings will likely revert to default and acceleration speed will also likely revert to default if you use a different bambu printer.",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6335024,
+   "sha256": "4d4c33d319af4c3f1069926a6d66d80acf8e46d1606ed3e3cd99cbcd7a358429",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-4h54.3mf.xz",
+   "instance_id": "3455883",
+   "thumbnail": "previews/profiles/3455883.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 47,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "With painted eyes and mouth"
+   },
+   "name": "Versión estándar",
+   "size": 7055816,
+   "sha256": "68f55b3781ede65e6b0a818f174f932ed2923fff218110b2820cd37a9b3134ac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estrella-juguetona-multicolor-10h36.3mf.xz",
+   "instance_id": "3353683",
+   "thumbnail": "previews/profiles/3353683.jpg",
+   "print_time_h": 10.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 73,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "P1P",
+    "P2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "A1",
+    "A1 mini",
+    "X2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.00.55",
+    "profile_title": "Dual color (bottom), and increased print quality",
+    "profile_notes": "If you wish, you can increase the layer height to 0.2",
+    "creation_date": "2026-06-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 7210556,
+   "sha256": "8fa0b16d82909b5cf341f81462ab93da77bbb09a33b76cffb2352842b291a4e0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1615537",
+ "title": "Estrella juguetona flexible",
+ "slug": "flexi-playful-star",
+ "url": "https://makerworld.com/en/models/1615537-flexi-playful-star",
+ "author": "MsAarong",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "ImpúlsameSi quieres apoyar mi trabajo y ayudarme a seguir agregando más modelos, déjame un impulso. Membresía ¡Obtén licencias y modelos 3D exclusivos en PrintyPlay!\nÚnase a mi Patreon para desbloquear el acceso a diseños articulados únicos y elija la licencia que se adapte a sus necesidades:\nLicencia personal: ¡perfecta para aficionados y coleccionistas!\nLicencia comercial: ¡vende copias de mis modelos legalmente y haz crecer tu propia tienda!\n¡Nuevos modelos cada mes, además de un paquete de bienvenida de modelos exclusivos cuando te unes!\nSuscríbete ahora y convierte la creatividad en impresiones:\n\nSi deseas imprimir estos modelos, puedes encontrarlos en mi perfil. ¡Muchas gracias! Si quieres imprimir estos modelos, puedes encontrarlos en mi perfil. ¡Muchas gracias!\n\nSé que han pasado algunos días desde mi última publicación, pero he estado trabajando en un nuevo patrón de teselación 3D: ¡una hermosa estrella que se imprime sin soportes! En lugar de ser estática, esta estrella es juguetona y perfecta para aliviar el estrés.\nPara obtener los mejores resultados, es fundamental que su impresora esté bien nivelada. Lo probé en impresoras Bambu Lab y lo manejan de manera excelente. Otras impresoras también pueden imprimirlo bien, pero es posible que requieran una escala un poco mayor. Por eso he incluido dos versiones: una optimizada para Bambu Lab y otra un poco más grande para otras marcas.\nEs muy importante que la primera capa se imprima perfectamente para garantizar una impresión exitosa. Evite reducir la escala del modelo, pero siéntase libre de ampliarlo si es necesario.\nSé que esta es una impresión de nivel intermedio. Si tienes alguna pregunta o comentario, no dudes en enviarme un mensaje. Como sabes, ¡siempre eres el primero en tener acceso a mis modelos!\n¡Espero que disfrutes de este diseño! Fue todo un desafío crearlo, pero valió la pena. ¡Te deseo mucho éxito con tus impresiones!",
+ "use_cases": [],
+ "tags": [
+  "estrella",
+  "viaje estelar flexible",
+  "flexible",
+  "articulado",
+  "juguete",
+  "agitarse",
+  "juguete inquieto",
+  "imprimir"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US58e8e7fedc0451/design/2025-07-17_3ff08172479178.gif",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.gif"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   540,
+   540
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/04.jpg": [
+   1000,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   1000
+  ],
+  "previews/07.gif": [
+   540,
+   540
+  ],
+  "previews/profiles/1704755.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2386513.jpg": [
+   600,
+   337
+  ],
+  "previews/profiles/3641775.jpg": [
+   382,
+   403
+  ],
+  "previews/profiles/2758399.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3342763.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2711980.jpg": [
+   600,
+   452
+  ],
+  "previews/profiles/3455883.jpg": [
+   600,
+   538
+  ],
+  "previews/profiles/3353683.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

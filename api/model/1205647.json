@@ -1,0 +1,391 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres-1h42.3mf.xz",
+   "instance_id": "1219473",
+   "thumbnail": "previews/profiles/1219473.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 428,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "设计师推荐版本",
+    "creation_date": "2025-03-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6142,
+      "weight_g": 30.76,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 5139644,
+   "sha256": "8dec2301367fcd064087ebed8d18659c4e438e2c7dd097eac28d1dbbe55330b4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h30.3mf.xz",
+   "instance_id": "1248802",
+   "thumbnail": "previews/profiles/1248802.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 154,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "无logo版本，适合送人送礼",
+    "creation_date": "2025-03-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5220,
+      "weight_g": 31.34,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 4997724,
+   "sha256": "4a3adaecafe9a83a824c0c99104c7d0471ee5efe58c1df66b511540955fa6e3d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-1h36.3mf.xz",
+   "instance_id": "2516534",
+   "thumbnail": "previews/profiles/2516534.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P1S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "修改外补偿，减慢首层速度提高粘附性 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "1. Modify the external compensation to make it scroll more smoothly 2. Slow down the first layer, because the first printing I had fried noodles, so I washed the printing board and reprinted, and found that it would still be fried noodles, so I tried to slow down the first layer, and the conclusion was that this got a good effect, and I successfully printed it!",
+    "creation_date": "2026-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5143636,
+   "sha256": "40727f13555bbe9555e1f27151063cdd3a51ef5c51d5c049d309de9fa207efc6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-2h12.3mf.xz",
+   "instance_id": "1397100",
+   "thumbnail": "previews/profiles/1397100.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "7inONEfidget-toy",
+    "creation_date": "2025-04-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4955520,
+   "sha256": "5096fa904c453d06d5bf124a57b4ef25253c593220012e3d5a0dec0dd13e64cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-antiestres-multicolor-1h48.3mf.xz",
+   "instance_id": "1257968",
+   "thumbnail": "previews/profiles/1257968.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 36,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Multicolor - Minimal Waste - All Bambu Printers",
+    "profile_notes": "Only 6 color swaps with minimal purge waste!",
+    "creation_date": "2025-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6391,
+      "weight_g": 37.86,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8AFCF"
+       },
+       {
+        "type": "PLA",
+        "color": "#7D6556"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 5332120,
+   "sha256": "5df6ca3016fe282d7a132c4fe4a6a3b7b00fa47b2521c68107a256dfa5fe492b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1205647",
+ "title": "Juguete antiestrés lanzable siete en uno",
+ "slug": "seven-in-one-launchable-fidget-toy",
+ "url": "https://makerworld.com/en/models/1205647-seven-in-one-launchable-fidget-toy",
+ "author": "YEZAO",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un juguete antiestrés siete en uno extremadamente satisfactorio\n(Función de inicio + optimización general)\nRetroalimentación de palanca mejorada, funcionalidad de lanzamiento agregada, mecánica optimizada, tamaño optimizado, experiencia táctil mejorada\nTras la recepción abrumadoramente positiva de mis diseños doce en uno y cinco en uno, reflexioné sobre cómo perfeccionar aún más el concepto. ¿Qué cualidades harían que un juguete antiestrés fuera realmente cautivador e infinitamente atractivo? Quizás fuera necesario un nuevo enfoque. Tenemos una gran cantidad de material sin usar, y todavía se desea un juguete verdaderamente delicioso, no repetitivo y exquisitamente táctil: una herramienta para aliviar el estrés. A través de diseño iterativo, modelado, pruebas y refinamiento, creo que esta versión representa un juguete inquietante completo: ¡perfectamente guardable en el bolsillo, infinitamente manipulable y capaz de lanzar proyectiles!\n\nMúltiples mecanismos para aliviar el estrés se combinan en un único diseño perfectamente impreso. Experimente una rotación suave y clics satisfactorios. Esta obra maestra incorpora mecanismos giratorios, de trinquete, de palanca, de palanca de mando y de clic, todo ello a la vez que cuenta con un factor de forma elegante que mejora el agarre. ¡Coloca tus dedos dentro de la rueda e incluso disfruta de la emoción de un revólver girando!\nBoost MeDesign es un esfuerzo desafiante. Su apoyo y comentarios son las mayores fuerzas impulsoras detrás de nuestras creaciones.\n\nReproduzca el video de demostración: 【Juguete antiestrés lanzable: llega la edición de 3000 muertes - YEZAO】\n\nEste EDC ofrece una gran cantidad de posibilidades interactivas. Imprímelo sin esfuerzo y deléitate con la experiencia, especialmente con la función de lanzamiento de proyectiles.\n\nNotas de impresión:\n1. Antes de imprimir, asegúrese de que el filamento esté completamente seco para garantizar el funcionamiento adecuado de los componentes mecánicos del juguete antiestrés;\nLa placa de construcción debe estar impecablemente limpia para evitar fallas de impresión tipo espagueti.\n2. Después de imprimir, deje que la cama calentada se enfríe por completo antes de retirar la pieza impresa para evitar deformaciones y mantener una sensación táctil óptima.\n3. Al retirarlo, es posible que sea necesario aplicar una ligera fuerza para separar las secciones que podrían adherirse debido a las tolerancias de la impresora, las propiedades del filamento o la naturaleza inherente de los diseños de impresión sin ensamblaje. No utilice estructuras de soporte para este modelo de impresión sin ensamblaje\n\n------------------------------------------Divisor----------------------------------------------\n\nTambién hemos diseñado otros juguetes antiestrés, que se pueden descargar aquí.\nVersión 2.0 Doce en Uno antiestrés Toy DOCE EN UNO EDC para aliviar el estrés\n\nJuguete antiestrés cinco en uno EDC EDC cinco en uno para aliviar el estrés\n\nPara los filamentos, recomiendo PETG y PLA de inslogic. Ofrecen una excelente elasticidad y colores vibrantes, lo que los hace ideales para juguetes antiestrés. Recientemente adquirí PLA de color madera y PLA de seda, y planeo explorar más posibilidades con ellos en un futuro próximo.",
+ "use_cases": [],
+ "tags": [
+  "impresión en el lugar",
+  "una pieza",
+  "simple",
+  "alivio del estrés",
+  "juguete antiestrés",
+  "siete en uno",
+  "ocho en uno",
+  "multi-en-uno",
+  "cinco en uno",
+  "seis en uno",
+  "doce en uno",
+  "trece en uno"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US34b862d98fdd0c/design/19ee6a45-469f-4d3e-9294-0ccfd7d74f78.webp",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.gif",
+  "previews/04.gif",
+  "previews/05.webp",
+  "previews/06.webp",
+  "previews/07.webp",
+  "previews/08.webp",
+  "previews/09.webp",
+  "previews/10.webp",
+  "previews/11.webp",
+  "previews/12.webp",
+  "previews/13.webp"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   240,
+   426
+  ],
+  "previews/02.gif": [
+   240,
+   426
+  ],
+  "previews/03.gif": [
+   240,
+   426
+  ],
+  "previews/04.gif": [
+   240,
+   426
+  ],
+  "previews/05.webp": [
+   1000,
+   1333
+  ],
+  "previews/06.webp": [
+   1000,
+   1333
+  ],
+  "previews/07.webp": [
+   1000,
+   1333
+  ],
+  "previews/08.webp": [
+   1000,
+   1333
+  ],
+  "previews/09.webp": [
+   1000,
+   1333
+  ],
+  "previews/10.webp": [
+   1000,
+   1333
+  ],
+  "previews/11.webp": [
+   1000,
+   750
+  ],
+  "previews/12.webp": [
+   1000,
+   1333
+  ],
+  "previews/13.webp": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1219473.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1248802.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2516534.jpg": [
+   515,
+   736
+  ],
+  "previews/profiles/1397100.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1257968.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

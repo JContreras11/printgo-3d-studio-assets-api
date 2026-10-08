@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/flexi-fabric-5h36.3mf.xz",
+   "instance_id": "1621552",
+   "thumbnail": "previews/profiles/1621552.jpg",
+   "print_time_h": 5.6,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 250,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "A1 Mini, Print In Place 0.2mm layer, 5 walls, 15% infill"
+   },
+   "name": "Versión mini",
+   "size": 3294428,
+   "sha256": "589ea89a305afac91329856762d65a3bcb99c4512e36cb1031021c59ca34d695",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/flexi-fabric-10h30.3mf.xz",
+   "instance_id": "1625775",
+   "thumbnail": "previews/profiles/1625775.jpg",
+   "print_time_h": 10.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 33,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Full size  Printers, Print In Place"
+   },
+   "name": "Versión estándar",
+   "size": 5247040,
+   "sha256": "a4698119a364df7ac7d85a91b85920acce3234f5f056bdffb0632aaf98cef15f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1544529",
+ "title": "Flexi Fabric antiestrés (¡impresión sin ensamblaje!)",
+ "slug": "flexi-fabric-fidget-print-in-place",
+ "url": "https://makerworld.com/en/models/1544529-flexi-fabric-fidget-print-in-place",
+ "author": "PotaterSoup7",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Hola MakerWorld! ¡Acabo de desarrollar este antiestrés de tela articulado, con el que es muy satisfactorio jugar, IMPRIMIR EN EL SITIO, NO requiere SOPORTES y SE ADAPTA AL A1 mini! Si estás buscando un juguete divertido o simplemente una impresión divertida y sin soporte, ¡considera este! Estoy seguro de que te divertirás con él. ¡Asegúrate de ver el GIF de arriba!\n\nUtilice mi perfil de impresión subido o el de impresoras de tamaño completo para obtener mejores resultados. ¡Gracias!\n\nSI IMPRIMIR EN SEDA, RECOMIENDO REDUCIR LA VELOCIDAD AL 50% PARA QUE LA TELA NO SEA DEMASIADO QUEBRABLE\n\nAVISO: Este modelo consta de muchas piezas pequeñas que necesitan una gran adherencia para que la impresión funcione. ¡ASEGÚRESE DE QUE SU CAMA DE IMPRESIÓN ESTÉ MUY LIMPIA ANTES DE IMPRIMIR PARA OBTENER MEJORES RESULTADOS! ¡¡DEJA QUE EL PLATO SE ENFÍE COMPLETAMENTE ANTES DE QUITARLO!!\n\n¡Espero que todos tengan un gran día y una feliz impresión!\nImpulsameSi te gustan mis modelos y quieres inspirarme a crear más cosas para que disfrutes, ¡considera impulsarme! ¡Realmente hace mucho más de lo que piensas! ¡Muchas gracias a todos!:D",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "agitación nerviosa",
+  "se antiestrés divirtiéndose",
+  "antiestrés flexible",
+  "juguete flexible antiestrés",
+  "inquietoflexi",
+  "flexible",
+  "inquietud flexible",
+  "tela flexible y agitada",
+  "juguete flexible"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa1c79c8c6b1cc9/design/2025-06-24_5b03ef63da9788.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.gif",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.gif": [
+   306,
+   544
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1621552.jpg": [
+   306,
+   544
+  ],
+  "previews/profiles/1625775.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

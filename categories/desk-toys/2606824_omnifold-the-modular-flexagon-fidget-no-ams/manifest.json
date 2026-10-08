@@ -1,0 +1,393 @@
+{
+ "files": [
+  {
+   "path": "model/omnifold-antiestres-2h12.3mf.xz",
+   "instance_id": "2876901",
+   "thumbnail": "previews/profiles/2876901.jpg",
+   "print_time_h": 2.2,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 190,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Recessed Triangle",
+    "profile_notes": "0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-04-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 997460,
+   "sha256": "0e0b8a222223a07aa50f92075631314d2e7b2aede7d0bd64d1f883a2ad3ebcd1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/omnifold-antiestres-14h06.3mf.xz",
+   "instance_id": "3693938",
+   "thumbnail": "previews/profiles/3693938.jpg",
+   "print_time_h": 14.1,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X2D",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2C",
+    "A1 mini",
+    "X1E",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "150% Size All Variations",
+    "profile_notes": "I have large hands and love this design. I printed them at a 150% scale in PETG and it came out great! Feels really well scaled up this way.",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1720820,
+   "sha256": "e0041b5a165eac42346f18b18bf505c1375498e434b720ecdb1ae62d84ea9ef7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/omnifold-antiestres-1h18.3mf.xz",
+   "instance_id": "3685489",
+   "thumbnail": "previews/profiles/3685489.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "一盘快速打印",
+    "profile_notes": "0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-04-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 992784,
+   "sha256": "31750a28cab3e7b5a424db65343b06ac571eef33d09f252c9b08893dc66f8a01",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/omnifold-antiestres-24min.3mf.xz",
+   "instance_id": "3181910",
+   "thumbnail": "previews/profiles/3181910.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "P2S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Tighter connectors",
+    "profile_notes": "For the ones where the connection is too loose, I've updated the connectors for a tighter fit.",
+    "creation_date": "2026-05-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 928012,
+   "sha256": "c7befdd1366c4238e9d920d8e1c1f48373287e83dc37a7b0490bef6c436eb940",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/omnifold-antiestres-36min.3mf.xz",
+   "instance_id": "2993446",
+   "thumbnail": "previews/profiles/2993446.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 32,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "H2D",
+    "A1",
+    "P1S",
+    "X2D",
+    "P1P",
+    "X1E",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Layers Carefully Tuned 4 Over Hang Fit & Material Waist.",
+    "profile_notes": "Layers Carefully Tuned 4 Over Hang Fit & Material Waist. many many substantial value adding adjustments also that result in low filament material waist and quick print time with reasonably good strength… see the specifics below… 0.28mm layer, 1 walls, 0.6mm wall width, 0% infill, wall generator arachne, detect over hang walls off, detect narrow internal solid infill off, ensure vertical shell thickness disabled, acceleration speed [ short travel , initial layer travel, initial layer, outer wall, top surface ] all turned up to 10000mms. max volumetric speed for PLA, and PETG both set to 30mm3/s, cooling for over hangs set to 100%, minimum fan for layers less than 4 seconds 100% and for the other layer times 100% and auxiliary part cooling fan 70%. X - Y Contour compensation 0.1mm note that filament flow, and cooling settings will likely revert to default and acceleration speed will also likely revert to default if you use a different Bambu printer.",
+    "creation_date": "2026-04-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.28",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1563796,
+   "sha256": "ebe9a5e129258794d654a5dc6c1e64560318bd762f24fba8912dfb3b63901ca1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/omnifold-antiestres-6h36.3mf.xz",
+   "instance_id": "2876910",
+   "thumbnail": "previews/profiles/2876910.jpg",
+   "print_time_h": 6.6,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 105,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "All Variations",
+    "profile_notes": "0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-04-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1571328,
+   "sha256": "2c665cb0a54a13d96a99a18725d47d4a18009ae20f50b78368e0ae3e850347cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/omnifold-antiestres-monocolor-1h12.3mf.xz",
+   "instance_id": "2996925",
+   "thumbnail": "previews/profiles/2996925.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.3,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P2S",
+    "P1S",
+    "X1",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "fast print 0.28mm layer, 2 walls, 10% infill single color",
+    "profile_notes": "NOT AS STRONG! but prints super fast and is fun to play with just hit print and it will print for you single color! 1 plate please like and comment. this model is not as strong as the original but it still is fun to play with!",
+    "creation_date": "2026-04-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 2290776,
+   "sha256": "3cef5d085549fc37fcd1d6b5094095db9a9bcf195ef8befb3b60574446433905",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2606824",
+ "title": "OmniFold: el antiestrés modular Flexagon",
+ "slug": "omnifold-the-modular-flexagon-fidget-no-ams",
+ "url": "https://makerworld.com/en/models/2606824-omnifold-the-modular-flexagon-fidget-no-ams",
+ "author": "5err",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "OmniFold es una versión modular y sin hardware del clásico flexagon, rediseñado para un movimiento suave y continuo y un montaje sin esfuerzo. Gira y se pliega en un bucle interminable y satisfactorio, manteniendo tus manos ocupadas sin necesidad de reiniciarlo.\n\nSi bien el movimiento está inspirado en mecanismos de estilo pivotante, OmniFold ha sido reconstruido desde cero para ser más duradero, modular y más fácil de imprimir que las versiones típicas de impresión sin ensamblaje. Todo encaja directamente desde la impresora. Sin AMS. Sin soportes. Sin pegamento ni hardware.\n\nEste proyecto es parte de un esfuerzo más amplio para crear diseños accesibles que cualquiera pueda imprimir y disfrutar. Si bien esto es exclusivo de MakerWorld, otorgo una licencia abierta en apoyo del proyecto Pieksekisten e iniciativas similares. Mi esperanza es que la comunidad de creadores utilice este diseño para brindar un poco de alegría y una distracción táctil a los niños necesitados.\n¿Por qué OmniFold?\nModular y personalizable: imprime las piezas por separado para mezclar colores o reemplazar una sola pieza si se rompe.\nNo se requiere hardware: 100% impreso en 3D. Sin tornillos, sin rodamientos y sin pegamento\nSin soporte: Diseñado desde cero para imprimir de forma limpia en cualquier máquina sin desperdicio.\nTres texturas sensoriales: incluye texturas triangulares lisas, con hoyuelos y empotradas. La versión empotrada es mi favorita personal.\nObjeto de purga: ¡Es un excelente objeto de purga!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "flexágono",
+  "modular",
+  "infinidad",
+  "infinito",
+  "sensorio",
+  "mecánico",
+  "divertido",
+  "juguete",
+  "hilandero",
+  "juguete inquieto",
+  "plegable"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc6a089140a788b/design/2efd05faecd31323.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1257
+  ],
+  "previews/profiles/2876901.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3693938.jpg": [
+   277,
+   600
+  ],
+  "previews/profiles/3685489.jpg": [
+   600,
+   642
+  ],
+  "previews/profiles/3181910.jpg": [
+   600,
+   713
+  ],
+  "previews/profiles/2993446.jpg": [
+   600,
+   344
+  ],
+  "previews/profiles/2876910.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2996925.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,698 @@
+{
+ "files": [
+  {
+   "path": "model/naipes-baraja-13h24.3mf.xz",
+   "instance_id": "987795",
+   "thumbnail": "previews/profiles/987795.jpg",
+   "print_time_h": 13.4,
+   "plates": 10,
+   "rating": 4.7,
+   "rating_count": 25,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.42mm thick cards - 0.08mm layer, 2 walls, 100% infill",
+    "profile_notes": "Layer Height - 0.08 Initital Layer height - 0.1 Wall loops - 2 All paterns - Rectilinear Infill - 100% Top shell layer - 9 Top Shell Thickness - 0.8 Bottom shell layers - 8 NO support needed Colorized: Hearts - Red, Diamonds - Yellow, Clubs - Green, Spades - Blue, Joker & case - Gold",
+    "creation_date": "2025-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3781,
+      "weight_g": 19.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3369,
+      "weight_g": 17.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3763,
+      "weight_g": 19.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3356,
+      "weight_g": 17.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3856,
+      "weight_g": 19.89,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3434,
+      "weight_g": 17.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3341,
+      "weight_g": 17.19,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3862,
+      "weight_g": 19.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2629,
+      "weight_g": 11.92,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16760,
+      "weight_g": 59.39,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     }
+    ],
+    "photos": 10
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 6978232,
+   "sha256": "e48e59449bb92034ad21490212effdb1c4321f13b1e61bf73592daa3830a4b8e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/naipes-baraja-11h36-2.3mf.xz",
+   "instance_id": "1007663",
+   "thumbnail": "previews/profiles/1007663.jpg",
+   "print_time_h": 11.6,
+   "plates": 10,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.67",
+    "profile_title": "NO AMS - 0.08mm layer, 2 walls, 100% infill",
+    "profile_notes": "NO AMS needed - 2 black layers, 1 colored layer, 1 black toplayer with cutouts. Layer Height - 0.08 Initital Layer height - 0.1 Wall loops - 2 All paterns - Rectilinear Infill - 100% Top shell layer - 9 Top Shell Thickness - 0.8 Bottom shell layers - 8 NO support needed Colorized: Cards - Black, Case - Black, Hearts - Red, Diamonds - White, Clubs - Yellow, Spades - Blue, Jokers - Gold In this version the cards are more seethrough than on the other versions.",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2292,
+      "weight_g": 9.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2986,
+      "weight_g": 13.6,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3339,
+      "weight_g": 15.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF0000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3385,
+      "weight_g": 15.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3025,
+      "weight_g": 13.62,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3336,
+      "weight_g": 15.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#80FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2986,
+      "weight_g": 13.8,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#80FF00"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3349,
+      "weight_g": 15.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2994,
+      "weight_g": 13.55,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#0000FF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14052,
+      "weight_g": 58.03,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 10
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 3581392,
+   "sha256": "f3db2a2be39ebcdb72dfc4e3df598f285533e668b9b52d9e168663f49a450d59",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/naipes-baraja-11h36.3mf.xz",
+   "instance_id": "996403",
+   "thumbnail": "previews/profiles/996403.jpg",
+   "print_time_h": 11.6,
+   "plates": 10,
+   "rating": 4.7,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "X1",
+    "H2D",
+    "H2S",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Thinner cards (0.34mm) - 0.08mm layer, 2 walls, 100% infill",
+    "profile_notes": "Layer Height - 0.08 Initital Layer height - 0.1 Wall loops - 2 All paterns - Rectilinear Infill - 100% Top shell layer - 9 Top Shell Thickness - 0.8 Bottom shell layers - 8 NO support needed Colorized: Cards - Black, Case - Black, Hearts - Red, Diamonds - White, Clubs - Yellow, Spades - Blue, Jokers - Gold",
+    "creation_date": "2025-01-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "100%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3201,
+      "weight_g": 16.14,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2839,
+      "weight_g": 13.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#C12E1F"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3260,
+      "weight_g": 16.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2890,
+      "weight_g": 14.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F4EE2A"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3199,
+      "weight_g": 16.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2840,
+      "weight_g": 14.26,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2827,
+      "weight_g": 14.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3244,
+      "weight_g": 16.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#0078BF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2179,
+      "weight_g": 9.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14109,
+      "weight_g": 58.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 10
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 4841524,
+   "sha256": "3a039dd10aa43f50ddce3549e7eafff37faa930a51dbd16bf1d5436c3f9d19a3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1008716",
+ "title": "Naipes - Baraja completa - Estuche Plus",
+ "slug": "playing-cards-full-deck-plus-case",
+ "url": "https://makerworld.com/en/models/1008716-playing-cards-full-deck-plus-case",
+ "author": "AllanSchmidt",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Baraja completa de naipes, incluido un estuche para cartas.\n\nBoost MeSi te gusta el modelo por favor Boost.\n\nCualquier idea para dibujos futuros o modificaciones a cualquiera de mis dibujos existentes por favor envíeme un mensaje.:)",
+ "use_cases": [],
+ "tags": [
+  "jugando",
+  "naipe",
+  "jugando a las cartas",
+  "caja de naipes",
+  "diamantes",
+  "espadas",
+  "copas",
+  "clubs",
+  "tarjetas",
+  "juego",
+  "juegos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US57182a7198929f/design/2025-01-18_ff3f3fe593c63.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   595
+  ],
+  "previews/02.png": [
+   1000,
+   1242
+  ],
+  "previews/03.png": [
+   1000,
+   1151
+  ],
+  "previews/profiles/987795.jpg": [
+   600,
+   357
+  ],
+  "previews/profiles/1007663.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/996403.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

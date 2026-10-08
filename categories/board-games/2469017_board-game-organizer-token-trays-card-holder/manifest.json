@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-juegos.3mf.xz",
+   "instance_id": "2710617",
+   "thumbnail": "previews/profiles/2710617.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 38,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "Standard PLA – 0.2 mm Layer Height",
+    "creation_date": "2026-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1318112,
+   "sha256": "436f3cf2ae6bdc3a3bc0630f050f2035d45f72814335996699920cc7cfa222c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2469017",
+ "title": "Organizador de juegos de mesa: bandejas para fichas y tarjetero",
+ "slug": "board-game-organizer-token-trays-card-holder",
+ "url": "https://makerworld.com/en/models/2469017-board-game-organizer-token-trays-card-holder",
+ "author": "user_1742126166",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Este organizador de juegos de mesa impreso en 3D está diseñado para mejorar el juego manteniendo todos los componentes perfectamente ordenados y fácilmente accesibles. Es especialmente adecuado para juegos como Wingspan, Finspan, Wyrmspan y muchos otros juegos de mesa o de cartas que requieren la gestión de varios tipos de fichas y cartas.\n\nCaracterísticas\n6 bandejas de fichas dedicadas\nSeis bandejas separadas te permiten distinguir claramente entre diferentes tipos de fichas, como comida, recursos, monedas, huevos, marcadores u otros componentes del juego.\n\n3 filas de ranuras para tarjetas\nTres filas en ángulo de ranuras para tarjetas brindan una excelente visión general de las tarjetas de su mano. Esto facilita la planificación de turnos y reduce el desorden en la mesa durante el juego.\n\nDiseño Universal\nCompatible con una amplia gama de juegos más allá de los títulos estilo Wingspan. Ideal para cualquier juego en el que los jugadores manejen múltiples tipos de fichas y cartas de mano simultáneamente.\n\nApto para mesa y ergonómico\nDiseñado para sentarse cómodamente sobre la mesa, manteniendo todos los componentes al alcance y mejorando el flujo general del juego.\n\nInformación de impresión\nDiseñado para una fácil impresión\nNo se requieren soportes\nFunciona bien con PLA, PETG o materiales similares\nOptimizado para una impresión limpia en impresoras Bambu Lab\n\nCasos de uso\nOrganizador del tablero de jugadores\nBandeja de clasificación de fichas\nExhibición de la mano de la tarjeta\nAccesorio general para juegos de mesa",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "envergadura",
+  "finlandés",
+  "extensión de vermis",
+  "bandeja",
+  "simbólico",
+  "tarjeta",
+  "titular",
+  "divertido"
+ ],
+ "license": "BY",
+ "release_date": "2026-03-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1adcb666559c05/design/6620bd5b241a64be.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2710617.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

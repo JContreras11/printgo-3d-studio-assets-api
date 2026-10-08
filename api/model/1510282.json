@@ -1,0 +1,153 @@
+{
+ "files": [
+  {
+   "path": "model/juego-cartas.3mf.xz",
+   "instance_id": "1581179",
+   "thumbnail": "previews/profiles/1581179.jpg",
+   "print_time_h": 9.1,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.2mm layer, 3 walls, 5% infill",
+    "profile_notes": "Both the blank and car themed toppers are included in this print profile! UPDATED 9.29.2025 -Added Checkmark Slider",
+    "creation_date": "2025-09-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "normal(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 32273904,
+   "sha256": "27e9dbb6b97682d84e23609b13dd9e28dac0b0d9d1c5bcadc304afc397948ac7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1510282",
+ "title": "Juego de cartas de bingo de viaje: bingo de viaje personalizable",
+ "slug": "travel-bingo-card-game-customizable-travel-bingo",
+ "url": "https://makerworld.com/en/models/1510282-travel-bingo-card-game-customizable-travel-bingo",
+ "author": "highlandercust",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "¡Sal a la carretera con este juego de bingo listo para viajar, diseñado para máxima diversión y portabilidad! La unidad totalmente imprimible en 3D incluye un tablero de bingo deslizable que se pega fácilmente y tiene capacidad para hasta cuatro cartones. Las tarjetas se cortan de cartulina con Cricut, Silhouette o tijeras. ¡Úselo para detectar señales de tráfico, vehículos, puntos de referencia y más en su próximo viaje por carretera!\n\nCaracterísticas:\nCapa superior deslizable con marcadores satisfactorios: no se requiere AMS\nDos diseños destacados: Blank & Mountain “Car Bingo!”\nLa ranura para tarjetas tiene capacidad para al menos 4 hojas de cartulina para bingo.\nVariantes de cartas incluidas: 4 cartas de viaje temáticas + 1 plantilla en blanco para crear tu propio juego personalizado.\nArchivos compatibles con Cricut/Silhouette incluidos\nSujetado de forma segura con bandas elásticas para viajar.\nDiversión para todas las edades, ¡desde niños hasta profesionales de los viajes por carretera!\n\nSi está utilizando una máquina Cricut, el cuadrado exterior debe tener 4,45 mm cuadrados.\n\nACTUALIZACIÓN 29.09.2025!!!!\n¡Se agregaron controles deslizantes de marca de verificación!\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "bingo",
+  "accesorios de bingo",
+  "tarjeta de bingo",
+  "juego clasico",
+  "diseño de inspiración clásica",
+  "antiguo",
+  "juego vintage",
+  "juego antiguo",
+  "juegos antiguos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb516b3498bc7e5/design/2025-06-10_12ef84e4af63c.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.gif",
+  "previews/08.gif",
+  "previews/09.jpg",
+  "previews/10.png",
+  "previews/11.png",
+  "previews/12.png",
+  "previews/13.png",
+  "previews/14.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   848
+  ],
+  "previews/02.jpg": [
+   1000,
+   573
+  ],
+  "previews/03.jpg": [
+   1000,
+   536
+  ],
+  "previews/04.jpg": [
+   1000,
+   1175
+  ],
+  "previews/05.jpg": [
+   1000,
+   996
+  ],
+  "previews/06.jpg": [
+   1000,
+   1040
+  ],
+  "previews/07.gif": [
+   600,
+   1080
+  ],
+  "previews/08.gif": [
+   1064,
+   744
+  ],
+  "previews/09.jpg": [
+   1000,
+   747
+  ],
+  "previews/10.png": [
+   1000,
+   979
+  ],
+  "previews/11.png": [
+   1000,
+   989
+  ],
+  "previews/12.png": [
+   1000,
+   974
+  ],
+  "previews/13.png": [
+   1000,
+   974
+  ],
+  "previews/14.png": [
+   619,
+   619
+  ],
+  "previews/profiles/1581179.jpg": [
+   600,
+   1080
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/estante-pequeno.3mf.xz",
+   "instance_id": "928820",
+   "thumbnail": "previews/profiles/928820.jpg",
+   "print_time_h": 6.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": "~293g filament",
+    "creation_date": "2025-02-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 23434,
+      "weight_g": 292.69,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 717532,
+   "sha256": "3d86d6f68f7f3ab66b737fa593e6b19d2b952c6799d5a96415b1ad2ffb60804e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "959197",
+ "title": "Estante pequeño para juegos de mesa/cartas",
+ "slug": "small-board-card-game-shelf",
+ "url": "https://makerworld.com/en/models/959197-small-board-card-game-shelf",
+ "author": "Beardonboards",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Como jugador de mesa, tengo problemas para almacenar juegos de mesa/cartas más pequeños y no quería que los juegos ocuparan espacio en mis estantes Kallax/cube. Así que creé este pequeño estante para guardar juegos pequeños y que fuera fácilmente accesible. Este puede descansar encima de los estantes o dentro de los estantes.\n\n¡Espero que lo disfrutes y te ayude a organizarte mejor!",
+ "use_cases": [],
+ "tags": [
+  "accesorio para juegos de mesa",
+  "estante",
+  "accesorio de juego de cartas",
+  "juego de mesa",
+  "juego de cartas"
+ ],
+ "license": "BY-NC",
+ "release_date": "2025-01-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USae5362fdc81a2d/design/2025-01-06_8c83c36c1c384.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/928820.jpg": [
+   600,
+   376
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "files": [
+  {
+   "path": "model/juego-mesa.3mf.xz",
+   "instance_id": "356466",
+   "thumbnail": "previews/profiles/356466.jpg",
+   "print_time_h": 10.6,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-02-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8844,
+      "weight_g": 87.99,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9151,
+      "weight_g": 89.04,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8954,
+      "weight_g": 87.98,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9026,
+      "weight_g": 87.96,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       },
+       {
+        "type": "PLA",
+        "color": "#FB0207"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2180,
+      "weight_g": 21.29,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7534896,
+   "sha256": "9651e1a8b87b84129262851be78b91ce3a2db0e8b4a7b63d0cf62d74dc804ee0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "449588",
+ "title": "Juego de mesa Secuencia (5 en fila)",
+ "slug": "sequence-5-in-a-row-board-game",
+ "url": "https://makerworld.com/en/models/449588-sequence-5-in-a-row-board-game",
+ "author": "dfreshkremer",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Reimaginé y rediseñé el juego de mesa Sequence (5-In-A-Row) para que pueda imprimirse en 3D. La secuencia es un juego que se juega con fichas, este tablero y 2 barajas de cartas. ¡Es muy divertido! (enlace a las instrucciones del juego al final).\n\nEl tablero está impreso en 4 secciones. Las secciones se mantienen unidas mediante \"pajaritas\". Una vez ensamblada, la placa mide aproximadamente 15\"x15\" (381x381 mm). El espesor del tablero es de 3,5 mm. He considerado subir una versión mucho más delgada, que podría pegarse a un trozo de madera dura. Si hay interés en esto, deje un comentario.\n\nDEBE MANTENER CADA SECCIÓN DEL TABLERO EN LA CAMA DE LA IMPRESORA HASTA QUE SE ENFÍE COMPLETAMENTE... de lo contrario, el tablero se arqueará y no tendrá piezas planas. Si las secciones no son planas, no encajarán bien. Utilicé pegamento en mi impresión ya que la primera capa tiene muchos pedacitos de diferentes colores; puede que esto no sea necesario para ti. No utilicé un ala para imprimir porque no quería que el borde negro se arruinara al quitar el ala.\n\nNecesitará filamento PLA blanco, negro y rojo para esta impresión. Tengo los colores en mi AMS en este orden: 1 - Negro, 2 - Rojo, 3 - Blanco. Si instala el filamento en este orden, no tendrá que volver a colorear el archivo.\n\nTambién he creado fichas de juego con un estuche que se adapta perfectamente a este juego de mesa. Puedes encontrar ese modelo aquí.\n\nAquí hay un enlace que explica cómo jugar la secuencia.",
+ "use_cases": [],
+ "tags": [
+  "juego de mesa",
+  "juego",
+  "juego de azar",
+  "juego de cartas",
+  "tarjetas",
+  "baraja de cartas",
+  "diversion familiar",
+  "secuencia"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-05-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US13449fc0c473c1/design/2024-04-30_7d943a05a885f8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/356466.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

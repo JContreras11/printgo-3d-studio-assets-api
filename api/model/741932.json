@@ -1,0 +1,174 @@
+{
+ "files": [
+  {
+   "path": "model/juego-ajedrez-1h18.3mf.xz",
+   "instance_id": "674422",
+   "thumbnail": "previews/profiles/674422.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "2 boards b&w with AMS - 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "generic settings (0.2mm layer height, 15% infill) consider turning the model around if you want the board to get the pattern of your print bed",
+    "creation_date": "2025-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4708,
+      "weight_g": 16.46,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1377868,
+   "sha256": "3da9e3bd1104b94db2c64d410f28a0fd1170adb477828dcf5dfba87a956bb0aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-ajedrez-1h12.3mf.xz",
+   "instance_id": "2034865",
+   "thumbnail": "previews/profiles/2034865.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2C",
+    "X1E",
+    "H2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Mirrored (correct board) 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "A lot of you mentioned that the board was not oriented right, so i just mirrored the board. Other Settings are still generic: 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-10-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1387440,
+   "sha256": "5b326b0339f29fe4923014d869e88b66dea9cc9288e25d6e64daff1100b22ce9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "741932",
+ "title": "El juego de ajedrez jugable más pequeño del mundo: tarjeta de crédito",
+ "slug": "worlds-smallest-playable-chess-game-credit-card",
+ "url": "https://makerworld.com/en/models/741932-worlds-smallest-playable-chess-game-credit-card",
+ "author": "DIYWizard",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Imprime el tablero de ajedrez jugable más pequeño con figuras, en tamaño de tarjeta de crédito, que cabe en tu bolsillo o billetera, ¡también es un divertido ajedrez de viaje!\nBoost MeSi te gusta este modelo, considera potenciarlo:)\nPor supuesto, es más bien un truco, las figuras son tan pequeñas que resulta un poco endeble de tocar.\n\nSe necesita AMS para imprimir este modelo, no se puede imprimir sin AMS.\n\nSimplemente imprima en dos colores diferentes, el perfil de impresión ya está precoloreado para 2 colores en PLA.\n\nDiseñé un pequeño funda para este juego:",
+ "use_cases": [],
+ "tags": [
+  "ajedrez",
+  "diminuto",
+  "pequeño",
+  "tablero de ajedrez",
+  "juego",
+  "tarjeta de crédito",
+  "billetera",
+  "hombres",
+  "hidalgo",
+  "viajar",
+  "accesorios de viaje",
+  "ajedrez de viaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9628785c170d30/design/2024-10-30_f1b7c977c66b4.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/674422.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2034865.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

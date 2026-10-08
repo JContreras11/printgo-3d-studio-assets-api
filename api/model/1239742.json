@@ -1,0 +1,414 @@
+{
+ "files": [
+  {
+   "path": "model/palito-paleta-8h18.3mf.xz",
+   "instance_id": "1260008",
+   "thumbnail": "previews/profiles/1260008.jpg",
+   "print_time_h": 8.3,
+   "plates": 5,
+   "rating": 4.7,
+   "rating_count": 46,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Color change height for sticks (0.8mm = first layer above 0.6mm) Z-hop enabled to reduce nozzle conflicts for printing the sticks Bottle cap print slowed to reduce stringing for threads (it still works even if some stringing is visible ) Layer height 0.2mm Reduced size of prime tower Seam position fixed at back",
+    "creation_date": "2025-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3691,
+      "weight_g": 27.35,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3682,
+      "weight_g": 27.17,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3636,
+      "weight_g": 27.25,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3632,
+      "weight_g": 27.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15252,
+      "weight_g": 86.27,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#9B9EA0"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1891704,
+   "sha256": "1e050c9330f40d9c35e133f527368cbb89c5f1ee524b065fa9c646f2facf9d84",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/palito-paleta-10h12.3mf.xz",
+   "instance_id": "1840340",
+   "thumbnail": "previews/profiles/1840340.jpg",
+   "print_time_h": 10.2,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "P1P",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "Red Hearts & Diamonds (0.2mm layer, 2 walls, 15% infill)",
+    "profile_notes": "Painted the Hearts and Diamonds with Red to use with an AMS Plates 6 and 7. It's not the most efficient but offers a print profile for someone who wants red hearts and diamonds.",
+    "creation_date": "2025-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 2183232,
+   "sha256": "dbd7fed4e8d91106be7f69798ee15f8f7d17012af1f5b400294a78ecffa10925",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/palito-paleta-18min.3mf.xz",
+   "instance_id": "3320151",
+   "thumbnail": "previews/profiles/3320151.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A1",
+    "X1",
+    "X2D",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Joker Sticks",
+    "profile_notes": "I have finally made the joker stick as requested However, it's just two of the (exact) same joker You can try painting one joker another colour, but be careful to prevent colour bleed",
+    "creation_date": "2026-06-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1323444,
+   "sha256": "0686ef97d89aa355ec430a2bf26d0e19fcfafbcf03fdfbdea5f5a92021347195",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/palito-paleta-8h48.3mf.xz",
+   "instance_id": "1290617",
+   "thumbnail": "previews/profiles/1290617.jpg",
+   "print_time_h": 8.8,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "PLA 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Basic PLA profile, a bit speed optimized and also reoriented to be printable on A1 Mini plate. If you like my designs and printprofiles .. please support me with a rating, boost or why not buy me a coffee ! :-) My other stuff: Please visit my profile page for my own designs and other print profiles. https://makerworld.com/en/@NinjaAsok Är du Svensktalande? Gå med i den Svenska telegramkanalen https://t.me/bambu_sverige",
+    "creation_date": "2025-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4044,
+      "weight_g": 28.27,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4026,
+      "weight_g": 28.1,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3989,
+      "weight_g": 28.18,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 3993,
+      "weight_g": 28.31,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15451,
+      "weight_g": 85.59,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 5
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2039156,
+   "sha256": "7a640082ad49cd5e580856e38627a488d3463431f7b08f68923dfb26ed6e9e24",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1239742",
+ "title": "Palito de paleta de naipes",
+ "slug": "playing-cards-popsicle-stick",
+ "url": "https://makerworld.com/en/models/1239742-playing-cards-popsicle-stick",
+ "author": "Zavion3D",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un juego de cartas que tienen forma de palitos de helado. Botella opcional para barajar y almacenar.\n\nTamaño de barra individual: 120 mm (L) x 12 mm (W) x 1,2 mm (H)\nPeso de todos los palos: 105 g\nPeso del frasco y tapón: 86 g\nEl cambio de color se produce a la altura establecida (la capa justo por encima de 0,6 mm), adecuado tanto para impresoras AMS como para impresoras que no son AMS.\n¿Estás cansado de barajar cartas? Echa estos palitos en la botella y agítalo.\nDiseñado con boquilla de 0,4 mm.\nBotella con tapón de rosca para almacenamiento y “mezclado” (opcional)\nOrificios diseñados en la parte inferior de cada palo para almacenamiento alternativo con cualquier cuerda.\nFondo de botella estampado para mejorar la capacidad de barajar: menos deslizamiento, más caídas.\nBoost Me ¿Disfrutaste esta impresión? ¡Impulsame!",
+ "use_cases": [],
+ "tags": [
+  "jugando a las cartas",
+  "jugar",
+  "juegos",
+  "tarjetas",
+  "paleta",
+  "palo",
+  "cubierta",
+  "póker",
+  "divertido",
+  "novedad",
+  "botella",
+  "tapa de rosca"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe66ad2fa7cf93b/design/2025-03-23_4524e683f008d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1260008.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1840340.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3320151.jpg": [
+   312,
+   676
+  ],
+  "previews/profiles/1290617.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

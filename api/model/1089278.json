@@ -1,0 +1,170 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-tarjeta-5h42.3mf.xz",
+   "instance_id": "1082454",
+   "thumbnail": "previews/profiles/1082454.jpg",
+   "print_time_h": 5.7,
+   "plates": 2,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm 层高, 1 层墙, 15% 填充",
+    "creation_date": "2025-02-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19064,
+      "weight_g": 144.3,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1587,
+      "weight_g": 6.05,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 3745124,
+   "sha256": "23e82d6cf7af69bc7f0b53a85b7ac69120cfc218f8eca19fe2b514652d7b3ef0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-tarjeta-7h54.3mf.xz",
+   "instance_id": "1853779",
+   "thumbnail": "previews/profiles/1853779.jpg",
+   "print_time_h": 7.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "P1S",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm 层高, 2 层墙, 15% 填充",
+    "creation_date": "2025-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1269848,
+   "sha256": "fcfc262b8720b19aa903bb5de7db8bfd5a78f3f6df51b4300f3a635b327f15cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1089278",
+ "title": "Juguete con tarjeta volteada con números de cuatro caras, juguete para el desarrollo intelectual de los niños, juego de mesa para padres e hijos, entrenamiento del pensamiento",
+ "slug": "four-sided-number-flip-card-toy-children-s-intelle",
+ "url": "https://makerworld.com/en/models/1089278-four-sided-number-flip-card-toy-children-s-intelle",
+ "author": "user_122237771",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Juegos de mesa",
+ "description": "Un juguete de juego de mesa digital de cuatro caras que se puede impresión sin ensamblaje\nSoportes mínimos, fácilmente extraíbles.\nJuego versátil: sigue las instrucciones ilustradas o crea tus propias reglas usando suma, resta, multiplicación y división para aumentar el desafío.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "números",
+  "tarjeta invertida",
+  "para niños",
+  "anciano",
+  "padre-hijo",
+  "juego de mesa",
+  "rompecabezas",
+  "pensamiento",
+  "capacitación",
+  "chico",
+  "chicas",
+  "juguete"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US14c0ac3bdcfa13/design/552098c0-0cb0-4197-8697-485323fdb9d9.webp",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   750
+  ],
+  "previews/02.webp": [
+   750,
+   1000
+  ],
+  "previews/profiles/1082454.jpg": [
+   391,
+   293
+  ],
+  "previews/profiles/1853779.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

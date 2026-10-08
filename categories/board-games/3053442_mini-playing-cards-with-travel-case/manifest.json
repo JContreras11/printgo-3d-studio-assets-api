@@ -1,0 +1,179 @@
+{
+ "files": [
+  {
+   "path": "model/mini-naipes-5h12.3mf.xz",
+   "instance_id": "3435289",
+   "thumbnail": "previews/profiles/3435289.jpg",
+   "print_time_h": 5.2,
+   "plates": 6,
+   "rating": 4.5,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "X1",
+    "H2C",
+    "A2L",
+    "A1",
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "full deck 54 cards",
+    "profile_notes": "0,16mm layer height first layer 0,12mm second layer 2 layers in total ams is needed slow first layer Hilbert curve top layer",
+    "creation_date": "2026-07-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 6023248,
+   "sha256": "6b40be35b37053fb8614106093c98cd070c43297b632eabec538f7af4031db2a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mini-naipes-54min.3mf.xz",
+   "instance_id": "3435337",
+   "thumbnail": "previews/profiles/3435337.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "X2D",
+    "P2S",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "X1",
+    "A2L",
+    "P1P",
+    "H2C",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "travel case",
+    "profile_notes": "the 0.1 layer standard profile with zigzag infill",
+    "creation_date": "2026-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3050464,
+   "sha256": "af0701eba576f3a93d0a080e440b515548d5bbc6a58dc116e832adba70b42c0f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3053442",
+ "title": "mini naipes con estuche de viaje",
+ "slug": "mini-playing-cards-with-travel-case",
+ "url": "https://makerworld.com/en/models/3053442-mini-playing-cards-with-travel-case",
+ "author": "oramafanis",
+ "category": "board-games",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un juego compacto de naipes impresos en 3D diseñados para ser portátiles y duraderos, combinados con un robusto estuche de viaje.\nEste proyecto presenta una baraja completa de minicartas que encajan perfectamente en un soporte diseñado a medida, lo que facilita llevar el juego a cualquier parte.\nEl estuche incluye un accesorio de llavero para transportarlo cómodamente y un mecanismo de tapa seguro para mantener las tarjetas contenidas.\nLas tarjetas están impresas con una superficie texturizada para un mejor agarre y cuentan con marcas claras y de alto contraste para una fácil visibilidad.\nCaracterísticas clave\nDiseño compacto: cabe una baraja completa de 54 cartas en un contenedor de bolsillo.\nEstuche diseñado: Cuenta con un cierre seguro y un llavero incorporado.\nJugabilidad: Las cartas tienen el tamaño adecuado para juegos de minicartas estándar y tienen una textura funcional para barajar.\n\nSobre el modelo:\nno se necesita hardware externo para el montaje de la caja\ntamaño total de la caja: 49 mm x 43 mm x 27 mm\ntamaño total de la tarjeta: 45 mm x 35 mm x 0,28 mm\nse necesita AMS para esto\nSobre los perfiles:\n2 perfiles. uno para las tarjetas y otro para el funda\nperfil con tarjetas tiene 6 placas\n\n2 capas en total. Primera capa de 0,16 mm y segunda capa de 0,12 para un total de 0,28 mm de altura.\nLa curva de Hilbert en las capas superiores ocultará los patrones de los símbolos.\nUtilice colores oscuros para el color principal de las cartas porque los colores blancos pueden revelar los símbolos.\nEl estuche consta de 3 objetos que los coloreé y los imprimí por objeto en una sola placa. Si lo deseas haz lo mismo.\nO puede imprimir a través de la práctica aplicación excluyendo los objetos para imprimirlos con diferentes colores.\n\nconsejos:\nSI ELIGE DESCARGAR E IMPRIMIR CON SUS CONFIGURACIONES ¡NO OLVIDE QUE LAS TARJETAS DEBEN TENER 0,28 MM DE ALTO!\nUTILIZO 0,16MM PARA LA PRIMERA CAPA Y 0,12MM PARA LA SEGUNDA!\n\nEspere a que la placa se enfríe antes de retirar las tarjetas para evitar dañarlas.\n\nuse un objeto afilado para quitar suavemente las tarjetas\n\nEste modelo está listo para imprimir y usar.\nmire el vídeo de demostración a continuación:\n\nPerfecto para viajeros, entusiastas del póquer o cualquier persona que aprecie los accesorios funcionales impresos en 3D.\n\nagregado en nuestra colección de juguetes y juegos:",
+ "use_cases": [],
+ "tags": [
+  "naipe",
+  "tarjeta",
+  "funda",
+  "caja",
+  "mini",
+  "tarjetas",
+  "viajar",
+  "espadas",
+  "clubs",
+  "copas",
+  "diamantes"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3e4ca225bfa1d7/design/b40deb6a5c5d43e6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/07.jpg": [
+   1000,
+   752
+  ],
+  "previews/08.jpg": [
+   1000,
+   752
+  ],
+  "previews/09.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3435289.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3435337.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

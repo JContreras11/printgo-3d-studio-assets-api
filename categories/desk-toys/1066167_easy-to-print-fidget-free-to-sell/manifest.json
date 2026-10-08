@@ -1,0 +1,208 @@
+{
+ "files": [
+  {
+   "path": "model/facil-imprimir-30min.3mf.xz",
+   "instance_id": "1055234",
+   "thumbnail": "previews/profiles/1055234.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 272,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "P2S",
+    "H2D",
+    "X1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "A1",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "X1E",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "creation_date": "2025-02-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1761,
+      "weight_g": 8.85,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FF00"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1025916,
+   "sha256": "92cd282a5dfb2e491d6cdec272dfb10cbac693103f4cd964ed64f9fd18683fed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/facil-imprimir-36min.3mf.xz",
+   "instance_id": "3556489",
+   "thumbnail": "previews/profiles/3556489.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "EXTRA FEIN",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1034808,
+   "sha256": "d679b3d53aae32f289dce802ca54c0df8046adf6747fcb8d1b242bca2b656b4a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/facil-imprimir-54min.3mf.xz",
+   "instance_id": "3699453",
+   "thumbnail": "previews/profiles/3699453.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "bigger a1 mini optimized",
+    "profile_notes": "bigger for your hands",
+    "creation_date": "2026-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1241684,
+   "sha256": "fab622abdb59cb4d21b4830e55be5b6407ae3baa2f62907f7b93ec1e65961437",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1066167",
+ "title": "Fácil de imprimir antiestrés Gratis para vender",
+ "slug": "easy-to-print-fidget-free-to-sell",
+ "url": "https://makerworld.com/en/models/1066167-easy-to-print-fidget-free-to-sell",
+ "author": "user_2635990440",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Sígueme para más modelos gratis para vender.\n\nUn antiestrés compacto y satisfactorio diseñado con capas hexagonales concéntricas que crean una experiencia táctil suave. Perfecto como llavero, calmante para el estrés o compañero de bolsillo diario.\nEl patrón ondulado geométrico crea un efecto visual hipnótico, mientras que los bordes escalonados brindan una sensación relajante cuando se giran o se frotan con los dedos. Fácil de imprimir, Gratis para imprimir y vender.\nCaracterísticas\nRetroalimentación táctil relajante\nCompacto y de bolsillo\nFunciona como llavero\nImpresión rápida y sencilla\nSe ve muy bien en filamento multicolor.\nConfiguración de impresión\nNo se requieren soportes\nImprima en plano sobre la placa de construcción\nPLA recomendado\nSe sugiere una altura de capa de 0,2 mm.\nSe adapta bien a diferentes tamaños\nAsamblea\nColoque un llavero a través del bucle después de imprimir.",
+ "use_cases": [],
+ "tags": [
+  "impresión fácil",
+  "gratis",
+  "libre de vender",
+  "agitarse",
+  "juguete",
+  "llavero",
+  "hexágono",
+  "lugar de impresión",
+  "hilandero"
+ ],
+ "license": "BY-SA",
+ "release_date": "2025-02-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6e8f17e7c13952/design/f8af85b070e3d073.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   912
+  ],
+  "previews/02.jpg": [
+   1000,
+   927
+  ],
+  "previews/03.jpg": [
+   1000,
+   875
+  ],
+  "previews/profiles/1055234.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3556489.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3699453.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

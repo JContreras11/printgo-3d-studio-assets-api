@@ -1,0 +1,609 @@
+{
+ "files": [
+  {
+   "path": "model/spinblade-juguete-3h24.3mf.xz",
+   "instance_id": "2347185",
+   "thumbnail": "previews/profiles/2347185.jpg",
+   "print_time_h": 3.4,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 168,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "ALL IN ONE PLATE BattleSpinner_PLA",
+    "profile_notes": "Quick start. Print and battle. The full setup on a single build plate. Disk and launcher printed together — ideal if you just want to print once and start spinning.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Una sola placa",
+   "size": 5805004,
+   "sha256": "e43d24728fe3998dca982b29625a85380e5c561319842b247df4893f7097400b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-1h48.3mf.xz",
+   "instance_id": "2497007",
+   "thumbnail": "previews/profiles/2497007.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Drill Attachment",
+    "profile_notes": "This add-on was inspired by a comment from the community. It wasn’t part of the original idea, but I made a simple drill-attachable spinner so spinblades can be driven directly by a drill. Might be fun or useful for some — feel free to try it out.",
+    "creation_date": "2026-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3267200,
+   "sha256": "375b8209660f0f73fa14be367dce1fc60bbc6181722b000829af5c2b8a1d030d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-2h24.3mf.xz",
+   "instance_id": "2347220",
+   "thumbnail": "previews/profiles/2347220.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P1S",
+    "P2S",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "LAUNCHER_PLA",
+    "profile_notes": "Launcher only. Complete your setup. Print just the launcher if you want to keep your build modular or experiment separately.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4721572,
+   "sha256": "21879e38eb040b6ca5eb19275b02b149d289e8b79fe545d82ddc2eea27d4b847",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-2h36.3mf.xz",
+   "instance_id": "2825701",
+   "thumbnail": "previews/profiles/2825701.jpg",
+   "print_time_h": 2.6,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 10,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Handle",
+    "profile_notes": "This profile includes two handle options for the Spinblade launcher. The modular handle can be added to your existing launcher without reprinting the whole assembly. It’s a simple upgrade if you already have a working setup. The integrated handle is built directly into the top shell. This version is more solid and prints as a single, unified part. Both versions work the same — the difference is in how they’re built and installed. Choose the one that fits your setup.",
+    "creation_date": "2026-03-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3987516,
+   "sha256": "79e2e7df384ddbf8f6e11b3079ad3ae720ce49db48bfc2929ffd8cf6f7a17d7c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-2h48.3mf.xz",
+   "instance_id": "2347222",
+   "thumbnail": "previews/profiles/2347222.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "LAUNCHER_PETG",
+    "profile_notes": "The launcher only. Print just the launcher if you want to keep your build modular or experiment separately.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4768464,
+   "sha256": "e40fdc7f343307ec6f0cfea9a76cb6229399537ddf7d8625008ca62db30deade",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-3h42.3mf.xz",
+   "instance_id": "2350821",
+   "thumbnail": "previews/profiles/2350821.jpg",
+   "print_time_h": 3.7,
+   "plates": 12,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Spare_PLA",
+    "profile_notes": "All parts separated into individual components. Best for reprints, tweaks, or replacing a single element without printing the full setup again.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 4218728,
+   "sha256": "4a0b5dac9c73a73b23480d813418ce0d431179cc7d0887b479b418199ab9b3ac",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-3h54.3mf.xz",
+   "instance_id": "2347189",
+   "thumbnail": "previews/profiles/2347189.jpg",
+   "print_time_h": 3.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "ALL IN ONE PLATE BattleSpinner_PETG",
+    "profile_notes": "The full setup on a single build plate. Disk and launcher printed together — ideal if you just want to print once and start spinning.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Una sola placa",
+   "size": 5596904,
+   "sha256": "88d6c007a6c2d08977f3215fdcc30fc37e1a23cdde725223a5964c4bbda9f7ec",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-4h06.3mf.xz",
+   "instance_id": "2347232",
+   "thumbnail": "previews/profiles/2347232.jpg",
+   "print_time_h": 4.1,
+   "plates": 10,
+   "rating": 4.9,
+   "rating_count": 38,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "RING'S & BASE_PLA",
+    "profile_notes": "Interchangeable rings for the BattleSpiner base. Mix, match, and fine-tune the look and behavior of your spinner. The core disk designed for customization and experimenting with different ring combinations.",
+    "creation_date": "2026-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión estándar",
+   "size": 6465136,
+   "sha256": "464b636ae1dd31156e2c96ceebb9306e22cd2ea12084be77d346988ec74005fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-4h48.3mf.xz",
+   "instance_id": "2350815",
+   "thumbnail": "previews/profiles/2350815.jpg",
+   "print_time_h": 4.8,
+   "plates": 12,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "H2S",
+    "X2D",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Spare_PETG",
+    "profile_notes": "All parts separated into individual components. Best for reprints, tweaks, or replacing a single element without printing the full setup again.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 12
+   },
+   "name": "Versión estándar",
+   "size": 4221560,
+   "sha256": "a37595574f9f9847dcefd3e4df747d59d149c9d97d0127fa3010355350c08311",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/spinblade-juguete-5h.3mf.xz",
+   "instance_id": "2347228",
+   "thumbnail": "previews/profiles/2347228.jpg",
+   "print_time_h": 5,
+   "plates": 10,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "RING'S & BASE_PETG",
+    "profile_notes": "Interchangeable rings for the BattleSpiner base. Mix, match, and fine-tune the look and behavior of your spinner. The core disk designed for customization and experimenting with different ring combinations.",
+    "creation_date": "2026-02-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 10
+   },
+   "name": "Versión estándar",
+   "size": 6465792,
+   "sha256": "8e0657ee929d40bde181a0c5b6b114cf25cfb03af8b7d8e31760538187aa07f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2164719",
+ "title": "Spinblade - Juguete estilo Battle Spinner V2 Beyblade",
+ "slug": "spinblade-battle-spinner-v2-beyblade-style-toy",
+ "url": "https://makerworld.com/en/models/2164719-spinblade-battle-spinner-v2-beyblade-style-toy",
+ "author": "Qris200",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Spinblade – BattleSpinner modular\nUn antiestrés mecánico diseñado en torno a las realidades de la impresión 3D\nSpinblade es mi versión de un juguete giratorio estilo Beyblade, pero diseñado específicamente teniendo en cuenta la impresión 3D FDM.\nDesde el principio, el objetivo fue crear un sistema mecánico totalmente imprimible que funcione de manera confiable a pesar de las limitaciones de adhesión de capas, acabado superficial y tolerancias dimensionales. Cada pieza fue diseñada para respetar cómo se comporta realmente FDM, no cómo debería comportarse en teoría.\nEs a la vez un proyecto mecánico y un hilandero de batalla de estilo antiestrés.\n\nArquitectura de disco modular\nEl disco se construye a partir de tres componentes principales:\nuna base central\nanillos exteriores intercambiables\npasador central\n\nLos anillos se diferencian principalmente visualmente, ya que presentan diferentes patrones de dientes, pero también influyen sutilmente en el comportamiento de contacto y giro.\nEl sistema de bloqueo utiliza una protuberancia flexible a presión.\nSe puede montar y desmontar repetidamente sin sufrir daños. Tanto el PLA como el PETG funcionan bien, aunque el PETG soporta el estrés repetido con mayor comodidad.\nLas tolerancias son intencionales y relativamente estrictas.\nUna impresora mal calibrada puede provocar un cierre flojo o un anillo que se siente demasiado apretado. Con una máquina debidamente afinada, el enganche se siente limpio y controlado.\n\nMecánica del lanzador\nEl lanzador se basa en un sistema de piñón y cremallera 1:1 que utiliza un engranaje impulsor impreso de 12 dientes.\nUna varilla dentada convierte el movimiento lineal en fuerza de rotación.\n\nEl engranaje impulsor está completamente impreso. El objetivo era mantener el sistema accesible y totalmente imprimible sin hardware adicional.\nSistema de retención y liberación\nEl soporte del disco incluye protuberancias de retención simétricas que sujetan el disco durante la aceleración. A medida que el lanzador gira, la fuerza centrífuga ayuda a mantener el disco enganchado.\n\nCuando la barra dentada está completamente extraída, un trinquete de bloqueo flexible salta a su lugar y detiene abruptamente el engranaje impulsor.\nLa parada brusca, combinada con la inercia del disco, hace que éste se desenganche limpiamente del soporte.\nLas pruebas demostraron que la inercia por sí sola a veces puede liberar el disco, pero sin el trinquete de bloqueo el engranaje puede continuar girando, provocando una liberación inconsistente. El trinquete garantiza un ciclo de lanzamiento predecible y evita frustraciones.\n\nDiseñado para imprimir\nLa orientación de la impresión importa.\nCada parte fue orientada intencionalmente en el perfil de impresión para:\n- fortalecer las direcciones de carga\n-eliminar soportes utilizando geometría de voladizo controlado\n-mejorar la alineación del ajuste a presión\n\nPor ejemplo, el pasador central del disco está impreso en su lateral con un perfil aplanado.\nEsto mejora la concentricidad, garantiza un mejor ajuste a presión con la base y reduce la oscilación durante la rotación.\nTodas las piezas están preorientadas correctamente en el perfil de impresión proporcionado y deben imprimirse tal como se colocaron.\nEl proyecto ha sido probado en:\n-Bambu A1 mini\n-Bambu P1S\n-Prusa MK3S\n-Ender 3 V2\n-Impresora hecha a medida\n\nIMPRIMIR PERFILES\nPara mantener las cosas simples y flexibles, el proyecto incluye varios perfiles de impresión listos para usar:\n\nPlaca todo en uno – BattleSpinerInicio rápido. Imprime y lucha.\nLa configuración completa en una sola placa de construcción.\nEl disco y el lanzador se imprimen juntos: ideal si solo desea imprimir una vez y comenzar a girar.\nAnillos y baseConstrúyelo a tu manera.\nAnillos intercambiables para la base BattleSpiner.\nMezcle, combine y ajuste la apariencia y el comportamiento de su ruleta.\n\nEl disco central sin ningún anillo adjunto.\nDiseñado para personalizar y experimentar con diferentes combinaciones de anillos.\n\nLanzadorSólo Lanzador. Complete su configuración.\nSólo el lanzador.\nImprima solo el iniciador si desea mantener su construcción modular o experimentar por separado.\nREPUESTOReimprime lo que necesites. Nada más.\nTodas las piezas separadas en componentes individuales.\nLo mejor para reimpresiones, ajustes o reemplazo de un solo elemento sin volver a imprimir la configuración completa.\nImpresión y montaje\nGuía de montaje en PDF\nNo se requieren soportes\nTolerancias estrictas en algunas áreas: se recomienda una impresora bien calibrada\nLista de piezas\nEngranaje impulsor (12T)Soporte del disco Trinquete de bloqueoAnillo de retenciónCarcasa superiorCarcasa inferiorVarilla de lanzamiento\n\n1. Instale el engranaje impulsor y el soporte.\nInserte el engranaje impulsor a través de la abertura en la carcasa inferior.\nColoque el soporte del disco en el lado opuesto.\nLa interfaz hexagonal garantiza una alineación correcta.2. Asegure con anillo de retención\nBloquee el soporte del disco en su lugar utilizando el anillo de retención impreso estilo Seeger.\n3. Instale el trinquete de bloqueo.\nColoque el trinquete de bloqueo en el hueco dedicado en la carcasa superior.4. cerrar la vivienda\nUne las carcasas superior e inferior. El trinquete de bloqueo enganchará el engranaje durante el montaje; alinee las piezas con cuidado y ciérrelas en un ligero ángulo si es necesario. Ambas carcasas deben encajar en su lugar con un clic cuando estén completamente asentadas.\n1. Insertar el pasador central\nPresione el pasador central en la base del disco. Está diseñado como un ajuste a presión y debería requerir una ligera fuerza para asentarse correctamente.2. Adjuntar el anillo\nInserte el anillo de la b",
+ "use_cases": [],
+ "tags": [
+  "hoja giratoria",
+  "beyblade",
+  "juguete giratorio",
+  "juguete modular",
+  "peonza",
+  "agitarse",
+  "rotación",
+  "cinético",
+  "sensorio",
+  "artilugio",
+  "juguete",
+  "bricolaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US97a1f4a2fa6bd5/design/2026-01-10_8119eede96f65.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.gif",
+  "previews/05.gif",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg",
+  "previews/17.jpg",
+  "previews/18.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.gif": [
+   800,
+   450
+  ],
+  "previews/05.gif": [
+   800,
+   450
+  ],
+  "previews/06.jpg": [
+   1000,
+   749
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   750
+  ],
+  "previews/11.jpg": [
+   1000,
+   750
+  ],
+  "previews/12.jpg": [
+   1000,
+   749
+  ],
+  "previews/13.jpg": [
+   1000,
+   749
+  ],
+  "previews/14.jpg": [
+   1000,
+   750
+  ],
+  "previews/15.jpg": [
+   1000,
+   749
+  ],
+  "previews/16.jpg": [
+   1000,
+   750
+  ],
+  "previews/17.jpg": [
+   1000,
+   749
+  ],
+  "previews/18.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/2347185.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2497007.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2347220.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2825701.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2347222.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2350821.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2347189.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2347232.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2350815.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2347228.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

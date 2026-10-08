@@ -1,0 +1,234 @@
+{
+ "files": [
+  {
+   "path": "model/gancho-agarre-3h18.3mf.xz",
+   "instance_id": "1704253",
+   "thumbnail": "previews/profiles/1704253.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 227,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "P1S",
+    "A1",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "X2D",
+    "P1P",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Normal Size PLA (A1 Mini)",
+    "profile_notes": "First Plate is the chain color, second plate is grappling hook and handle.",
+    "creation_date": "2025-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 7689980,
+   "sha256": "be70783340e6230f18c41d0acabcfe893573c85b3e505a35be2fc3e9747327fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gancho-agarre-24min.3mf.xz",
+   "instance_id": "2981299",
+   "thumbnail": "previews/profiles/2981299.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 25% infill",
+    "profile_notes": "this is a mega extension for you grapple. double, triple, quadruple your grappling hook to make it HUGE!!! all you have to do is attach the two rope parts together.",
+    "creation_date": "2026-04-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3850600,
+   "sha256": "ef12e528222d6a59aeffda59643d154626333df0d0f339a6cf5d434bcb968c8d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gancho-agarre-7h54.3mf.xz",
+   "instance_id": "1704261",
+   "thumbnail": "previews/profiles/1704261.jpg",
+   "print_time_h": 7.9,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 44,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "H2S",
+    "P2S",
+    "X1E",
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Fidget Grappling Hook XL PLA",
+    "profile_notes": "First Plate is the chain color, second plate is grappling hook and handle.",
+    "creation_date": "2025-07-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 7174076,
+   "sha256": "f603e9524f5e6aa35bded772ba8eee48febc8008dfb55360c85c672b5a6696fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1615161",
+ "title": "Gancho de agarre antiestrés",
+ "slug": "fidget-grappling-hook",
+ "url": "https://makerworld.com/en/models/1615161-fidget-grappling-hook",
+ "author": "joshuasoddities",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Ahoy, amantes de los antiestrés!\n\nConoce a tu compañero de aventuras de bolsillo: ¡el antiestrés Grappling Hook! Sin cuerdas ni paredes... Simplemente pura diversión impresa en el lugar. Gira el anillo, mueve las aletas, agárrate a las cosas y deja que tu imaginación alcance nuevas alturas.\nImpúlsame >>>>> Este es un botón genial <<<<<< Por qué te encantará\nPerfil de impresión fácil. ¡Todo ya está listo para comenzar!\n\n¡Dos tamaños para elegir!\n\nCierres automáticos con diseño duradero para un juego realista.\nImpresión simplificada\nMaterial: toma un poco de PLA para obtener detalles nítidos o PETG si eres muy rudo.\n\nAltura de la capa: 0,2 mm\n\nRelleno: 20%–25%\n\nSoportes: En Ancla, Manual se configura en 3MF.\n\nPlaca de construcción: Lisa, con adhesivo.\n\nTrucos con palos: un ala de 5 mm mantiene a raya las esquinas curvadas.\nTiempo de diversión posterior a la impresión\nLibera la diversión: flexiona suavemente el anillo y los ganchos para romper cualquier hebra fantasma. Los cortadores al ras son tus amigos para quitar los soportes.\n\nEnsamble la travesura: junte la cadena y el gancho de agarre, luego el mango, ¡y listo!",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "gancho de agarre",
+  "cadena",
+  "colgante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2da2c4395ab6f8/design/ca2504b67aa6652e.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.png",
+  "previews/12.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   749
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   749
+  ],
+  "previews/08.jpg": [
+   1000,
+   750
+  ],
+  "previews/09.png": [
+   747,
+   511
+  ],
+  "previews/10.png": [
+   888,
+   569
+  ],
+  "previews/11.png": [
+   712,
+   540
+  ],
+  "previews/12.png": [
+   809,
+   549
+  ],
+  "previews/profiles/1704253.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2981299.jpg": [
+   600,
+   900
+  ],
+  "previews/profiles/1704261.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

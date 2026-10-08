@@ -1,0 +1,190 @@
+{
+ "files": [
+  {
+   "path": "model/trasmallo-arquimedes-1h42.3mf.xz",
+   "instance_id": "2668857",
+   "thumbnail": "previews/profiles/2668857.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.6,
+   "rating_count": 164,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "P1P",
+    "X2D",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "profile_notes": "Ironing enabiled on main component No Brim Prints on 2 plates No AMS 2 colours No Support",
+    "creation_date": "2026-03-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1378164,
+   "sha256": "6cc5dc0be3258c83ecc6b6b32afcd112343bdfd5bd1684ca96fc025508025f50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/trasmallo-arquimedes-1h06.3mf.xz",
+   "instance_id": "2801045",
+   "thumbnail": "previews/profiles/2801045.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 17,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Print by object - 1 plate",
+    "profile_notes": "merged the parts accordingly and created a print by object version to print in one go",
+    "creation_date": "2026-03-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1506848,
+   "sha256": "b047b3e5119f244889f2cc97034b35790506cfbc512e43d55b5849e981dfc855",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/trasmallo-arquimedes-monocolor-1h24.3mf.xz",
+   "instance_id": "2882572",
+   "thumbnail": "previews/profiles/2882572.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X2D",
+    "A1",
+    "X1",
+    "H2C",
+    "P1S",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Single color",
+    "profile_notes": "Ironing enabiled on main component No Brim Prints on 2 plates No AMS 2 colours No Support",
+    "creation_date": "2026-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 1593720,
+   "sha256": "a5e735248ace5d32167f838485b6bb2d044e3f50c25514e0e60c977224aaad87",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2432843",
+ "title": "Trasmallo de Arquímedes antiestrés",
+ "slug": "trammel-of-archimedes-fidget",
+ "url": "https://makerworld.com/en/models/2432843-trammel-of-archimedes-fidget",
+ "author": "3D_all",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Si está utilizando archivos stl, tenga en cuenta que cada componente tiene una nota que le informa cuántos componentes específicos necesita imprimir.\n\nEn este vídeo os muestro cómo montarlo y cómo quedó:\n\nEste modelo es una versión mejorada de un modelo anterior, tiene un nuevo estilo y es más fácil de montar. Si quieres ver el modelo antiguo, este es el enlace:\n\nAcabo de actualizar el modelo para que los clips que lo mantienen unido estén un poco más apretados.\n\nFeliz impresión:)",
+ "use_cases": [],
+ "tags": [
+  "agitarse",
+  "agitación nerviosa",
+  "juego",
+  "juegos",
+  "divertido",
+  "satisfactorio",
+  "trasmallo de arquímedes",
+  "tramelofarchimedes",
+  "traba",
+  "juguete inquieto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7324e6b1711e58/design/8cc36eb453932419.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.gif": [
+   1280,
+   720
+  ],
+  "previews/profiles/2668857.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2801045.jpg": [
+   600,
+   688
+  ],
+  "previews/profiles/2882572.jpg": [
+   600,
+   368
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

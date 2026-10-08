@@ -1,0 +1,516 @@
+{
+ "files": [
+  {
+   "path": "model/pajaro-en-multicolor-2h48.3mf.xz",
+   "instance_id": "3331710",
+   "thumbnail": "previews/profiles/3331710.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "X2D",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "P1P",
+    "H2D",
+    "X1",
+    "X1E",
+    "P2S",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "中号多色【眼睛上色】",
+    "creation_date": "2026-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 5223808,
+   "sha256": "87bcd99a27881259021ed45e7f1df05a7a3d5481ed44df959f2a51bc23d23617",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-2h-2.3mf.xz",
+   "instance_id": "3331790",
+   "thumbnail": "previews/profiles/3331790.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "高250mm底座【可放5只鸟】",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "50%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6806824,
+   "sha256": "29a3cdb529227718e6ca877afee023dbc041e425541e529892526b013cd9b86f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-2h.3mf.xz",
+   "instance_id": "3331732",
+   "thumbnail": "previews/profiles/3331732.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 118,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "中号单色",
+    "creation_date": "2026-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 5201016,
+   "sha256": "b123e0d45aff771334ed2f40aed551080892e3638469fe7a1c2edfc7542173dd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-30min.3mf.xz",
+   "instance_id": "3331774",
+   "thumbnail": "previews/profiles/3331774.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2S",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "高50mm底座",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2309108,
+   "sha256": "77d2c986277098729bb711b6c2368da75ac0679a9f394ff70cfe4845cf26ace9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-42min.3mf.xz",
+   "instance_id": "3331778",
+   "thumbnail": "previews/profiles/3331778.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X2D",
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "X1",
+    "P1P",
+    "A1 mini",
+    "P2S",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "高100mm底座",
+    "creation_date": "2026-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2312736,
+   "sha256": "d8277c0f2c6194c999f8e62a19f5268d833c6601099b9673ba382293b6ae2fbb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-monocolor-2h48.3mf.xz",
+   "instance_id": "3394591",
+   "thumbnail": "previews/profiles/3394591.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "大号单色【160mm】",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 5234824,
+   "sha256": "fa0a420286e14f9c8b7e449d14d5f5ca2bb89a144bf03c9568eb94c704233903",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-monocolor-48min.3mf.xz",
+   "instance_id": "3331749",
+   "thumbnail": "previews/profiles/3331749.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 69,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2S",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "小号单色",
+    "creation_date": "2026-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 5229540,
+   "sha256": "fba1893aa0cb6633709394cb75199d2a3e35c5c8a699d0eee9f6127f177e6ca0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-multicolor-1h24.3mf.xz",
+   "instance_id": "3331738",
+   "thumbnail": "previews/profiles/3331738.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "P1P",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "A2L",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "小号多色【眼睛上色】",
+    "creation_date": "2026-06-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 5214596,
+   "sha256": "22bab4b6f2af0fb351a4e7864587032e25113e392eb7e966d65a9c153ddd9ebb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pajaro-en-multicolor-3h30.3mf.xz",
+   "instance_id": "3394624",
+   "thumbnail": "previews/profiles/3394624.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "A1",
+    "X2D",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "A2L",
+    "P1P",
+    "H2D",
+    "X1",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "大号多色【眼睛上色】【160mm】",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 5248012,
+   "sha256": "de314c672fc6f5e5ad85038464ec5bad19f7e8b72ce0226348b13c17ec6f9019",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2970840",
+ "title": "pájaro en equilibrio, águila en equilibrio, vaso con la punta de los dedos",
+ "slug": "balancing-bird-balancing-eagle-fingertip-tumbler",
+ "url": "https://makerworld.com/en/models/2970840-balancing-bird-balancing-eagle-fingertip-tumbler",
+ "author": "yongyia3D",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Un pájaro mágico que realiza un \"acto de equilibrio con las yemas de los dedos\" para usted: colóquelo en la yema del dedo, en la punta de un bolígrafo, en el borde de una taza o en la esquina de una mesa; con una colocación suave, se mantiene firme, balanceándose pero sin caer.\nNo se necesitan baterías, ni imanes, ni mecanismos, ¡solo un único punto de pivote permite que tu pájaro baile en el aire!\nPrincipio básico: el centro de gravedad está bajado y el punto de pivote está arriba, satisfaciendo la condición de equilibrio de \"centro de gravedad debajo del punto de pivote\".\nIluminación física: transforma conceptos abstractos de centro de gravedad y equilibrio en pequeños experimentos tangibles\nDiversión sin fin: colócalo en la punta de tu dedo, en la punta de un bolígrafo, en un rincón de la mesa..., un nuevo lugar significa una nueva forma de jugar.\n¿Por qué debes imprimir esto?\nCiencia + diversión, los niños preguntarán por qué funciona, los adultos querrán coleccionarlo\nUn elemento de escritorio relajante, verlo balancearse constantemente brinda una inexplicable sensación de relajación.\nMúltiples especificaciones: opciones de un solo color/multicolor (ojos de colores) disponibles:\nPequeño: 80 mm\nMediano: 120 mm\nGrande: se cargará después de la prueba.\nExtra grande: se cargará después de la prueba.\nMúltiples soportes de base:\n\nMembresíaSi desea vender impresiones de mi modelo, puede obtener una licencia comercial al convertirse en miembro. Gracias por su apoyo. Impulse. Si le gusta y lo encuentra útil, ¡considere impulsarme! ¡Tu apoyo es una gran motivación para mis creaciones!",
+ "use_cases": [],
+ "tags": [
+  "pájaro equilibrado",
+  "águila en equilibrio",
+  "muñeca mecedora",
+  "balance",
+  "juguete",
+  "águila",
+  "pájaro",
+  "animales",
+  "material didáctico",
+  "artículos decorativos",
+  "decoración",
+  "mostrar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US65d50c498a39f1/design/7f41ce7b56891870.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   550,
+   412
+  ],
+  "previews/02.gif": [
+   250,
+   444
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/08.png": [
+   1000,
+   750
+  ],
+  "previews/09.png": [
+   1000,
+   750
+  ],
+  "previews/10.png": [
+   1000,
+   750
+  ],
+  "previews/11.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3331710.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3331790.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3331732.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3331774.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3331778.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3394591.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3331749.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3331738.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3394624.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

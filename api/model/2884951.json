@@ -1,0 +1,387 @@
+{
+ "files": [
+  {
+   "path": "model/antiestres-en-4h36.3mf.xz",
+   "instance_id": "3222501",
+   "thumbnail": "previews/profiles/3222501.jpg",
+   "print_time_h": 4.6,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Hot Dog & Bun Vortex Spiral Fidget All Versions",
+    "profile_notes": "Print Notes AMS and Non-AMS Versions Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2265240,
+   "sha256": "24940c22f8111be7a2540dab6701c94d070fa849f101c9f0b00e07be05f2a589",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-en-1h30.3mf.xz",
+   "instance_id": "3258042",
+   "thumbnail": "previews/profiles/3258042.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "75% size, 0.16mm layer, 2 walls, 15% infill!",
+    "profile_notes": "🌭 The Ultimate Hot Dog & Bun Vortex Spiral Fidget Model 🌀 📝 Detailed Overview of the Design This 3D-printable model is a highly precise, multi-part mechanical toy known as a pass-through vortex fidget . The entire design is based on advanced helical geometry, which means both pieces are shaped like matching screws that fit together perfectly. When you drop the inner piece into the outer piece, gravity and the matching curves cause it to twist and slide all the way through to the other side without stopping. This creates a continuous, satisfying optical illusion that makes it a highly popular sensory toy for printing. The project contains two distinct parts positioned on a textured print bed in the Bambu Studio software: The Hot Dog (Hotdog & Bun Vortex Spiral Fidget Hotdog Inner Part.stl): This is a solid, elongated piece designed with deep, winding ridges that mimic a tight spiral or screw thread. In the software, it is assigned to a vibrant red filament slot to look like a real hot dog. The Bun (Hotdog & Bun Vortex Spiral Fidget Bun Outer Part.stl): This is a hollow, cylindrical outer shell featuring a matching internal track. The outside of the shell has stylized grooves to represent a hot dog bun, and it is assigned to a brown filament slot to complete the food theme. ⚙️ Exact Print Settings for High Precision Because this model relies on a very tight tolerance (the incredibly tiny gap between moving parts), specific settings are enabled in the slicing software to guarantee the pieces slide together smoothly right off the print bed without getting permanently jammed: Layer Height ($0.16\\text{mm}$ High Quality): Printing with thinner layers reduces the rough stair-step texture that naturally happens on 3D-printed curves. This keeps the spiral tracks extra sleek so the pieces do not catch or friction-lock against each other. Wall Generator (Classic): This setting traces the outer borders of the shapes using fixed line widths. This keeps the exterior detailing of the bun uniform, strong, and highly clean. Avoid Crossing Walls: This critical function forces the hot print nozzle to stay inside the printed boundaries during travel moves. It completely eliminates stringing (fine, spiderweb-like strands of plastic) that could otherwise clog the tight internal tracks of the bun. Tree Supports (Slim): Tree-style supports are activated to gently prop up the steep, overhanging curves of the spirals as they build upward from the build plate. The Slim style ensures they use less plastic and are easier to snap off. 🧼 Post-Processing for Optimal Movement Once the print finishes on the Bambu Textured PEI plate, the tree supports must be gently removed from the pieces. To achieve the absolute best vortex gliding effect, any tiny bumps or plastic imperfections inside the tracks can be broken in by twisting the hot dog through the bun a few times. This friction helps self-polish the plastic pathways for a perfectly smooth spin!",
+    "creation_date": "2026-06-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2175540,
+   "sha256": "40269e6a8a2a6268e5aef7aaecf8d2933b5817f9585fa97c8b5e940e1692a861",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-en-42min.3mf.xz",
+   "instance_id": "3222682",
+   "thumbnail": "previews/profiles/3222682.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "P2S",
+    "X1",
+    "H2C",
+    "X2D",
+    "A1 mini",
+    "H2S",
+    "P1P",
+    "H2D Pro",
+    "A2L",
+    "A1",
+    "X1E",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Hot Dog & Bun Vortex Spiral Fidget Bun",
+    "profile_notes": "Print Notes No AMS Needed Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1345420,
+   "sha256": "3c85f6c337947e03953863dbadcce74c0ca864db77be68dfdface998f1740c33",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-en-54min.3mf.xz",
+   "instance_id": "3222676",
+   "thumbnail": "previews/profiles/3222676.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X1E",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Hot Dog & Bun Vortex Spiral Fidget Hot Dog",
+    "profile_notes": "Print Notes No AMS Needed Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1588164,
+   "sha256": "e4504af6425c8087a1dbd8c9b3b0e298308559153d68c66ce3f933d9c9ad4490",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-en-monocolor-1h30.3mf.xz",
+   "instance_id": "3222648",
+   "thumbnail": "previews/profiles/3222648.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X1E",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "A1 mini",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Hot Dog & Bun Vortex Spiral Fidget Single-Color",
+    "profile_notes": "Print Notes No AMS Needed Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 2175772,
+   "sha256": "c483c2f72c42da32e1de1f8974070952076bd015008a08395e5a22b7c7a42725",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-en-multicolor-1h30.3mf.xz",
+   "instance_id": "3222531",
+   "thumbnail": "previews/profiles/3222531.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Hot Dog & Bun Vortex Spiral Fidget Multi-Color For AMS",
+    "profile_notes": "Print Notes AMS Needed Supports needed 0.2mm layer, 2 walls",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2127548,
+   "sha256": "d535e9b4892dc85f0d8ecb042fe35da0533e6b968c07b44422cca15a33ae2df5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-en-multicolor-1h36.3mf.xz",
+   "instance_id": "3222538",
+   "thumbnail": "previews/profiles/3222538.jpg",
+   "print_time_h": 1.6,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 51,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "A2L",
+    "X2D",
+    "A1",
+    "X1",
+    "P2S",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Hot Dog & Bun Vortex Spiral Fidget Multi-Color No AMS",
+    "profile_notes": "Print Notes No AMS Needed Supports needed 2 plates 0.2mm layer, 2 walls",
+    "creation_date": "2026-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 2169764,
+   "sha256": "5e74bed640d6f06f59325d475f29688cc5a2c01a6442604e27163c65492d3d35",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2884951",
+ "title": "antiestrés en espiral con forma de vórtice de perritos calientes y panecillos",
+ "slug": "hot-dog-bun-vortex-spiral-fidget",
+ "url": "https://makerworld.com/en/models/2884951-hot-dog-bun-vortex-spiral-fidget",
+ "author": "Distel3D",
+ "category": "desk-toys",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "antiestrés en espiral con forma de vórtice de perritos calientes y panecillos\n\nComienza el verano con este antiestrés en espiral Hot Dog & Bun Vortex. ¡Este antiestrés es una versión divertida del clásico diseño en espiral de vórtice! Con un hot dog que entra y sale suavemente en espiral de su bollo, este antiestrés es divertido de imprimir y divertido de jugar. El exclusivo mecanismo en espiral crea un movimiento fascinante a medida que el hot dog entra y sale del panecillo, lo que lo convierte en un excelente juguete, calmante para el estrés o regalo para cualquiera que disfrute de los juguetes antiestrés. El diseño simple se imprime rápidamente y no requiere ensamblaje, lo que lo hace perfecto para creadores de todos los niveles.\nCaracterísticas:\nAcción espiral de vórtice suave\nEl hot dog se desliza dentro y fuera del panecillo\nFunciona directamente desde la impresora\nImpresión para principiantes\nJuguete divertido y excelente para aliviar el estrés.\nGenial tanto para niños como para adultos\nImprimir notas:\nFunciona muy bien con PLA\nVersiones AMS y No-AMS\nVersiones multicolor y monocolor.\nSe necesitan soportes, pero son fáciles de quitar.\nSin torre principal\nSi eres un amante de los hot dogs, un entusiasta de los antiestrés o simplemente buscas una impresión única, este antiestrés en espiral con vórtice de hot dogs y panecillos seguramente te hará sonreír.\nImpúlsame Si te gusta este modelo, considera dejar un Me gusta, una calificación o una foto de tu impresión. ¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "caliente",
+  "perro",
+  "hot dog",
+  "perro caliente antiestrés",
+  "agitarse",
+  "espiral",
+  "girar",
+  "vórtice",
+  "espiral de vórtice",
+  "inquietud en espiral"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US84dd42f524bef1/design/ae0089ec3bdc2015.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/05.jpg": [
+   1000,
+   752
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/07.jpg": [
+   1000,
+   752
+  ],
+  "previews/08.gif": [
+   360,
+   203
+  ],
+  "previews/profiles/3222501.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3258042.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/3222682.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3222676.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3222648.jpg": [
+   600,
+   452
+  ],
+  "previews/profiles/3222531.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/3222538.jpg": [
+   600,
+   451
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

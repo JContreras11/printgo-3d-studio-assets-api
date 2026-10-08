@@ -7,7 +7,7 @@
    "print_time_h": 2,
    "plates": 2,
    "rating": 4.9,
-   "rating_count": 51,
+   "rating_count": 53,
    "by_designer": true,
    "printers": [
     "A1",
@@ -40,6 +40,113 @@
    "name": "Multicolor",
    "size": 11447744,
    "sha256": "86ce529b6a12f0bc763052fdde41a22e391e97890d15ebdd0d7f210e039ffeb9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bob-esponja-2h.3mf.xz",
+   "instance_id": "3816396",
+   "thumbnail": "previews/profiles/3816396.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16喷嘴，提高成品细节度，一盘打印免换盘",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 11369088,
+   "sha256": "64a4a1873be7962c255c027611607ccec7b0c4443598d94147db2a150c898a66",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bob-esponja-4h18.3mf.xz",
+   "instance_id": "3754397",
+   "thumbnail": "previews/profiles/3754397.jpg",
+   "print_time_h": 4.3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A2L",
+    "H2C",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "SpongeBob Clicker Keychain",
+    "profile_notes": "0.12mm layer, 3 walls, 15% infill, ironing, Smooth layers Added a torus and turned it into a keychain",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 10112448,
+   "sha256": "95927fd1772dc6517142db7d20bf88f6fc70c8d97865b595d90bf1a39b704445",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bob-esponja-multicolor-1h36.3mf.xz",
+   "instance_id": "3716267",
+   "thumbnail": "previews/profiles/3716267.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高打印效率",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 5242180,
+   "sha256": "de9e61026dfaf1c5fbe00fc36998a289c5750516b8e8400c696600ff13745ba9",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   }
@@ -96,6 +203,18 @@
   "previews/profiles/3568973.jpg": [
    600,
    449
+  ],
+  "previews/profiles/3816396.jpg": [
+   409,
+   395
+  ],
+  "previews/profiles/3754397.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3716267.jpg": [
+   600,
+   645
   ]
  },
  "variant_hint": "Multicolor",

@@ -1,6 +1,64 @@
 {
  "files": [
   {
+   "path": "model/rana-saltadora-1h18-2.3mf.xz",
+   "instance_id": "1014949",
+   "thumbnail": "previews/profiles/1014949.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 999,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 20% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4578,
+      "weight_g": 18.78,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 17242428,
+   "sha256": "61633387e3331ab4b8431a349b5507130ca3e2df94e85c49f9b1965e22cf100f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
    "path": "model/rana-saltadora-12min.3mf.xz",
    "instance_id": "1021678",
    "thumbnail": "previews/profiles/1021678.jpg",
@@ -158,6 +216,77 @@
    "name": "Impresión en PLA",
    "size": 17622052,
    "sha256": "7aa0f30a1225c3b75b5eda18d032a8cdc7315a1805bbe3d462716f1c3ea5a725",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rana-saltadora-1h24-2.3mf.xz",
+   "instance_id": "1015562",
+   "thumbnail": "previews/profiles/1015562.jpg",
+   "print_time_h": 1.4,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 32,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4240,
+      "weight_g": 15.3,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 689,
+      "weight_g": 0.41,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 17520752,
+   "sha256": "c199b49c07056139e1e575916e40b665513dc669bc5890b472d15da6c86f7e7b",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   },
@@ -667,6 +796,10 @@
    1000,
    713
   ],
+  "previews/profiles/1014949.jpg": [
+   600,
+   450
+  ],
   "previews/profiles/1021678.jpg": [
    600,
    800
@@ -678,6 +811,10 @@
   "previews/profiles/1020056.jpg": [
    600,
    450
+  ],
+  "previews/profiles/1015562.jpg": [
+   600,
+   1066
   ],
   "previews/profiles/3667415.jpg": [
    600,

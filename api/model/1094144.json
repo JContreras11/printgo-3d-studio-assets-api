@@ -1,6 +1,68 @@
 {
  "files": [
   {
+   "path": "model/antiestres-flick-42min-2.3mf.xz",
+   "instance_id": "1088219",
+   "thumbnail": "previews/profiles/1088219.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 426,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 3 walls, 30% infill",
+    "creation_date": "2025-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2393,
+      "weight_g": 11.38,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 756040,
+   "sha256": "cf4b82c8b7b3c5280ef427fb30dd4be5dfbf470c5bf6e02d7776bc8abc39578a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
    "path": "model/antiestres-flick-1h24.3mf.xz",
    "instance_id": "1124384",
    "thumbnail": "previews/profiles/1124384.jpg",
@@ -120,6 +182,69 @@
    "name": "Versión estándar",
    "size": 718280,
    "sha256": "0ba22395243c297257054a75f650a89672ce844cf4a1ec0f58a0ba2f9de76c19",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/antiestres-flick-42min-3.3mf.xz",
+   "instance_id": "1106699",
+   "thumbnail": "previews/profiles/1106699.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 117,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Keychain Version",
+    "profile_notes": "Keychain version of the Boba Fidget",
+    "creation_date": "2025-02-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "30%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2628,
+      "weight_g": 11.47,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00FFFF"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 771488,
+   "sha256": "bfad5b74c2adfcdc71e87ad32d16f7363aa5374d25c400dddc86a0460db4660e",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   },
@@ -252,6 +377,10 @@
    1000,
    750
   ],
+  "previews/profiles/1088219.jpg": [
+   600,
+   450
+  ],
   "previews/profiles/1124384.jpg": [
    600,
    800
@@ -259,6 +388,10 @@
   "previews/profiles/3845131.jpg": [
    332,
    269
+  ],
+  "previews/profiles/1106699.jpg": [
+   600,
+   581
   ],
   "previews/profiles/1939058.jpg": [
    577,

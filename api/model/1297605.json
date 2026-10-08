@@ -7,7 +7,7 @@
    "print_time_h": 9.9,
    "plates": 2,
    "rating": 4.9,
-   "rating_count": 315,
+   "rating_count": 316,
    "by_designer": true,
    "printers": [
     "A1 mini",
@@ -41,6 +41,50 @@
    "name": "Versión estándar",
    "size": 2736916,
    "sha256": "6cc3c7f53af8119cb21d29c3147b0761d1906f397722943df0afd4db50205422",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rueda-giratoria-18min-2.3mf.xz",
+   "instance_id": "1783560",
+   "thumbnail": "previews/profiles/1783560.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "A1 mini",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "P2S",
+    "P1P",
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "1/16 wheel slice",
+    "profile_notes": "Made 1/16 wheel slice, text added via bambu studio.",
+    "creation_date": "2025-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2126696,
+   "sha256": "6fd2c551209cdcb854b68b1151be6c127bfe7acf0915d6d0b0e863392b0ca41f",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   },
@@ -139,7 +183,7 @@
    "print_time_h": 1.6,
    "plates": 1,
    "rating": 5,
-   "rating_count": 84,
+   "rating_count": 85,
    "by_designer": true,
    "printers": [
     "A1 mini",
@@ -217,6 +261,50 @@
    "name": "Versión estándar",
    "size": 2175644,
    "sha256": "4fea50a26591caf5ace929dca195ece29ea58e5e80730e5e1c502423f5fc60b5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rueda-giratoria-2h12-2.3mf.xz",
+   "instance_id": "2636095",
+   "thumbnail": "previews/profiles/2636095.jpg",
+   "print_time_h": 2.2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2S",
+    "H2D",
+    "H2C",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Chinese New Year Edition",
+    "profile_notes": "Happy Chinese New Year! Enjoy this special edition to celebrate with some extra buzz this year.",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3094708,
+   "sha256": "0479108991d90af3876d4b6d1b11c0c5b9de9497d4e41b1dcadb439e978989b4",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   },
@@ -551,6 +639,10 @@
    600,
    450
   ],
+  "previews/profiles/1783560.jpg": [
+   450,
+   600
+  ],
   "previews/profiles/1784493.jpg": [
    450,
    600
@@ -566,6 +658,10 @@
   "previews/profiles/1532180.jpg": [
    600,
    738
+  ],
+  "previews/profiles/2636095.jpg": [
+   600,
+   598
   ],
   "previews/profiles/2142901.jpg": [
    600,

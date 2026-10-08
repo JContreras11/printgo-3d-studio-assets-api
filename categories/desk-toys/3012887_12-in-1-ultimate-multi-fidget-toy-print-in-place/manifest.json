@@ -1,6 +1,49 @@
 {
  "files": [
   {
+   "path": "model/juguete-multifidget-2h06-2.3mf.xz",
+   "instance_id": "3384056",
+   "thumbnail": "previews/profiles/3384056.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 1179,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "X1E",
+    "H2D Pro",
+    "A1 mini",
+    "P1S",
+    "A2L",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1969128,
+   "sha256": "3ff78974dc8be9f51e20c0a3649831222b5af09cb35412380fe30a21a4ae88e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
    "path": "model/juguete-multifidget-2h.3mf.xz",
    "instance_id": "3846319",
    "thumbnail": "previews/profiles/3846319.jpg",
@@ -136,8 +179,8 @@
    "thumbnail": "previews/profiles/3443833.jpg",
    "print_time_h": 2.6,
    "plates": 1,
-   "rating": 4.4,
-   "rating_count": 19,
+   "rating": 4.5,
+   "rating_count": 20,
    "by_designer": false,
    "printers": [
     "A1 mini",
@@ -314,7 +357,7 @@
    "print_time_h": 1.9,
    "plates": 1,
    "rating": 4.7,
-   "rating_count": 230,
+   "rating_count": 231,
    "by_designer": false,
    "printers": [
     "A1",
@@ -348,6 +391,50 @@
    "name": "Multicolor",
    "size": 2112324,
    "sha256": "686f268fd46336c86be2e226a549b1421bb8999861dba4f00c885eb15e350ffc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juguete-multifidget-multicolor-2h30-2.3mf.xz",
+   "instance_id": "3424832",
+   "thumbnail": "previews/profiles/3424832.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 193,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "A1",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Dual Color, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Dual Color, 0.2mm layer, 2 walls, 15% infill This profile offers an alternative two-color presentation of the original model while keeping AMS printing simple and efficient. The color layout was redesigned to add contrast and highlight key details using only six filament changes , reducing purge waste and print interruptions while maintaining the overall appearance of the original design. Minor print setting adjustments were made to support consistent results, including a slower first layer for improved adhesion, light quality tuning, infill adjustments, and conservative speed refinements. The profile uses a 0.20 mm layer height with 15% infill for a balanced combination of print quality and efficiency. Rectilinear infill used for more consistent weighed fill on moving parts. Profile Highlights Alternative two-color appearance Elephant foot compensation adjusted to allow secure first layer adhesion. Only 6 filament changes Reduced purge waste and AMS operations Slower first layer for reliable adhesion Minor quality-focused speed adjustments 0.20 mm layer height 15% infill 2 walls Original model geometry unchanged",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2541120,
+   "sha256": "5542b676f139912d253da614ea368ab2cf5f54884fe8d62348c7c46e5c60fb0e",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   },
@@ -469,6 +556,10 @@
    1000,
    750
   ],
+  "previews/profiles/3384056.jpg": [
+   600,
+   450
+  ],
   "previews/profiles/3846319.jpg": [
    600,
    627
@@ -500,6 +591,10 @@
   "previews/profiles/3392571.jpg": [
    600,
    445
+  ],
+  "previews/profiles/3424832.jpg": [
+   600,
+   800
   ],
   "previews/profiles/3555551.jpg": [
    600,

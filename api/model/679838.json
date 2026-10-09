@@ -1,0 +1,525 @@
+{
+ "files": [
+  {
+   "path": "model/conceptos-calabaza-4h24.3mf.xz",
+   "instance_id": "609556",
+   "thumbnail": "previews/profiles/609556.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 102,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Pumpkins C - Designer recommended settings",
+    "creation_date": "2025-03-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 15761,
+      "weight_g": 74.95,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       },
+       {
+        "type": "PLA",
+        "color": "#76A55A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 7917268,
+   "sha256": "ae5083d8ca3fbc84a5d92b90f98a7d3b8495fb234b021996b136cd35144abddf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-12h12.3mf.xz",
+   "instance_id": "611462",
+   "thumbnail": "previews/profiles/611462.jpg",
+   "print_time_h": 12.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "KEYCHAIN SILK PLA NO SUPPORT",
+    "profile_notes": "Silk PLA",
+    "creation_date": "2024-10-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 43851,
+      "weight_g": 195.53,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#80FF08"
+       },
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FD8008"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 8065132,
+   "sha256": "520c1e6fe3c77acb22534865fcfb5af7da4ec4b9f92c17ec9d3d8f7025680109",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-3h06-2.3mf.xz",
+   "instance_id": "633651",
+   "thumbnail": "previews/profiles/633651.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 44,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.07.51",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill, no supports, AMS",
+    "profile_notes": "Manually painted both pumpkins C & D to ensure multi-color perfection. Prints both at the same time and without supports - though depending on your machine and any other settings you tweak, YMMV. Best on an X1C+AMS.",
+    "creation_date": "2024-10-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11237,
+      "weight_g": 52.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       },
+       {
+        "type": "PLA",
+        "color": "#76A55A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 11540448,
+   "sha256": "2c331e3ce3b1342256f659d8baa948cc30e0dcb12a3453da614a12b43aaccba3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-3h06.3mf.xz",
+   "instance_id": "609557",
+   "thumbnail": "previews/profiles/609557.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 61,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.05.53",
+    "profile_title": "Pumpkins D - Designer recommended settings",
+    "creation_date": "2024-10-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 11237,
+      "weight_g": 52.64,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FF6A13"
+       },
+       {
+        "type": "PLA",
+        "color": "#76A55A"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 11563524,
+   "sha256": "6cdc0207e0998bf251e3b45d260e836e8f95476a1dace132aee18b1258511071",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-48min.3mf.xz",
+   "instance_id": "1954969",
+   "thumbnail": "previews/profiles/1954969.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Basic monochrome",
+    "creation_date": "2025-09-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 13868764,
+   "sha256": "3a623fc7c10cfa430b6933af524bcc1003aca6565a636d58d8591aaf18b22826",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-5h30.3mf.xz",
+   "instance_id": "2055758",
+   "thumbnail": "previews/profiles/2055758.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "A1 mini",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "10 Different Pumpkins stacked and unstacked No AMS",
+    "profile_notes": "Optimized the pumpkins for better adhesion to build plate (clean plate). Also made versions of stacked ones (3 high). Contains 10 different pumpkins and 3 stacked versions.",
+    "creation_date": "2025-10-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 78247452,
+   "sha256": "0098cffa5630626b32d58c7b961a5115a05f048e2b2d45d00ce70e14ce3e95c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-8h.3mf.xz",
+   "instance_id": "2060618",
+   "thumbnail": "previews/profiles/2060618.jpg",
+   "print_time_h": 8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "X1E",
+    "H2D Pro",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "10 Different Pumpkins AMS Required",
+    "profile_notes": "Optimized the pumpkins for better adhesion to build plate (clean plate). Also adjusted models for less filament changes. Contains 10 different pumpkins. Models can be adjusted in scale.",
+    "creation_date": "2025-10-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 77594108,
+   "sha256": "9b736f460b44bbb309d56a54c6084c8ac35fe1ddbb148b15c64f5bc160233147",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/conceptos-calabaza-monocolor-1h12.3mf.xz",
+   "instance_id": "609969",
+   "thumbnail": "previews/profiles/609969.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 130,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "All Pumpkins Monocolor - NO AMS",
+    "profile_notes": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-01-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4432,
+      "weight_g": 19.97,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF8000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 40385620,
+   "sha256": "a7e13ea4185b35fd7dbe1786b167e6f0aa84e3a609762db115bd4761972ed09b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "679838",
+ "title": "Conceptos de calabaza de Halloween 2",
+ "slug": "halloween-2-pumpkin-concepts",
+ "url": "https://makerworld.com/en/models/679838-halloween-2-pumpkin-concepts",
+ "author": "SnK3DD",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Comparto un concepto de calabaza simple pero espeluznante para estas fiestas.\n\nVer todos mis modelos gratuitos de Halloween, más calabazas allí\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2024",
+  "calabaza",
+  "escalofriante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9e8f1de254f43f/design/2024-10-03_8caf96a7e9e8a.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   900,
+   1600
+  ],
+  "previews/profiles/609556.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/611462.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/633651.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/609557.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/1954969.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/2055758.jpg": [
+   600,
+   459
+  ],
+  "previews/profiles/2060618.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/609969.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "files": [
+  {
+   "path": "model/esqueleto-grunon-6h24.3mf.xz",
+   "instance_id": "3639035",
+   "thumbnail": "previews/profiles/3639035.jpg",
+   "print_time_h": 6.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 51,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P2S",
+    "A1",
+    "A2L",
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Normal - 0.2mm layer, 2 walls, 4% infill",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 29321292,
+   "sha256": "86f4a0e8a1276d74a457561bc0b28a8c99f38352796c44090d48fb0188d5fef6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/esqueleto-grunon-26h54.3mf.xz",
+   "instance_id": "3639096",
+   "thumbnail": "previews/profiles/3639096.jpg",
+   "print_time_h": 26.9,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "A2L",
+    "H2S",
+    "H2C",
+    "P2S",
+    "A1",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "200% - 0.2mm layer, 2 walls, 4% infill",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 29628320,
+   "sha256": "435c8008d76f11455e6b35c59d59226743568f9f747b0ce9997496a1cbcfb9f4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/esqueleto-grunon-7h06.3mf.xz",
+   "instance_id": "3639086",
+   "thumbnail": "previews/profiles/3639086.jpg",
+   "print_time_h": 7.1,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 15,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "P1P",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "H2C",
+    "X1",
+    "A2L",
+    "A1",
+    "H2D",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1Mini - 0.2mm layer, 2 walls, 4% infill",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 29415220,
+   "sha256": "f496e800276f6c3c137c25f4536ba44aa1b974b906bed5273bdb85a476a4f23a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/esqueleto-grunon-multicolor-3h54.3mf.xz",
+   "instance_id": "3801463",
+   "thumbnail": "previews/profiles/3801463.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，提高打印效率",
+    "creation_date": "2026-08-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "4%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 12664920,
+   "sha256": "b6373740ae22b2a15ce1784ee6d31c1d4a2dafd6988cfbe6d562f5f3f42845da",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3214461",
+ "title": "Esqueleto gruñón",
+ "slug": "grumpy-skeleton",
+ "url": "https://makerworld.com/en/models/3214461-grumpy-skeleton",
+ "author": "novYTerra",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡El primer monstruo gruñón ya está aquí!\n\nEste sombrío esqueleto se sienta con los brazos cruzados, las piernas extendidas y los ojos de un rojo intenso y parece que está de muy mal humor. El modelo se compone de varias partes, lo que facilita la impresión en diferentes colores sin necesidad de un AMS.\n\nUna decoración divertida pero espeluznante para tu escritorio de Halloween o como una idea de regalo única para los fanáticos de los monstruos.\n\nNo se requiere AMS\nDiseño de varias partes\nFácil de imprimir en varios colores.\nPerfecto para Halloween y fanáticos de los monstruos.",
+ "use_cases": [],
+ "tags": [
+  "gruñón",
+  "decoración de animales gruñones",
+  "esqueleto",
+  "esqueleto 2026",
+  "cifra",
+  "divertido",
+  "lindo",
+  "dulce",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USad74f0c134f6b0/design/9255fb21f761dece.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   960,
+   1280
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/04.jpg": [
+   960,
+   1280
+  ],
+  "previews/05.jpg": [
+   960,
+   1280
+  ],
+  "previews/06.jpg": [
+   960,
+   1280
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3639035.jpg": [
+   600,
+   339
+  ],
+  "previews/profiles/3639096.jpg": [
+   600,
+   442
+  ],
+  "previews/profiles/3639086.jpg": [
+   600,
+   522
+  ],
+  "previews/profiles/3801463.jpg": [
+   600,
+   588
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

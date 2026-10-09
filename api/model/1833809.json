@@ -1,0 +1,148 @@
+{
+ "files": [
+  {
+   "path": "model/luz-te-4h36.3mf.xz",
+   "instance_id": "1958439",
+   "thumbnail": "previews/profiles/1958439.jpg",
+   "print_time_h": 4.6,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 179,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 3 walls, 0% infill",
+    "creation_date": "2025-10-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 21163224,
+   "sha256": "9abf6f5799515256690fa12d9ef5e1f492e6edd3139a4d4ff1a1ca51f8eeb35a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/luz-te-24min.3mf.xz",
+   "instance_id": "3618824",
+   "thumbnail": "previews/profiles/3618824.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 31,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "P1P",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X2D",
+    "P1S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "modified base",
+    "creation_date": "2026-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1665904,
+   "sha256": "2754484f13ab65b5ac512b194f25da34356693aaff2dfa018d974fc97118e7e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1833809",
+ "title": "Luz de té LED fantasma de Halloween - Vela derretida",
+ "slug": "halloween-ghost-led-tea-light-melting-candle",
+ "url": "https://makerworld.com/en/models/1833809-halloween-ghost-led-tea-light-melting-candle",
+ "author": "yueylmz",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "ACTUALIZACIÓN: Agregué una nueva base para lucir mejor y quedar plana en la superficie.\nTambién se agregó un archivo stl para aquellos que quieran.\n\n¡Una espeluznante vela fantasma derretida imprimible en 3D con temática de Halloween!\nPerfecta como portavelas o lámpara de noche LED, esta escultura de cera que gotea aporta una atmósfera inquietante a tu decoración de Halloween.\nEl color es opcional.\nLo modificaré si tengo tiempo para que la base parezca una sola pieza.\nImpulsame\nConsulta Mi otro modelo.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "vela de halloween",
+  "candelabro fantasma",
+  "fantasma",
+  "vela",
+  "vela aterradora",
+  "obsesionado",
+  "luz espeluznante",
+  "escalofriante",
+  "espeluznante",
+  "horror"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd3b551ec96eb49/design/2025-09-28_b1a4255b19c0d8.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   879,
+   1179
+  ],
+  "previews/02.png": [
+   694,
+   918
+  ],
+  "previews/03.png": [
+   694,
+   922
+  ],
+  "previews/profiles/1958439.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3618824.jpg": [
+   600,
+   661
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

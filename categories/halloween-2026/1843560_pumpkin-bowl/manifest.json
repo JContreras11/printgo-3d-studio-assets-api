@@ -1,0 +1,101 @@
+{
+ "files": [
+  {
+   "path": "model/cuenco-calabaza.3mf.xz",
+   "instance_id": "1969901",
+   "thumbnail": "previews/profiles/1969901.jpg",
+   "print_time_h": 5.2,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 99,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "pumpkin bowl",
+    "profile_notes": "Three key changes from the original profile: 10% Adaptive Cubic Infill for reduced filament use and quicker printing Sliced a thin layer off the top of the bowl for a flat surface, rather than a stepped surface showing the layers Use Archimedean Chords Top surface patter for a neater top surface",
+    "creation_date": "2025-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 9527732,
+   "sha256": "e074a5af3b180f5e844c1ee2860c38f8c33bb75e59ec29c9a2cfd3ec9db4f8c5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1843560",
+ "title": "cuenco de calabaza",
+ "slug": "pumpkin-bowl",
+ "url": "https://makerworld.com/en/models/1843560-pumpkin-bowl",
+ "author": "piodeer",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Tazón de dulces Jack-O'-Lantern\nUna calabaza festiva de varias piezas con una clásica cara espeluznante. Perfecto para dulces, decoración de mesa o para agregar un toque divertido de Halloween a su hogar.\n\nImpulse MeImpulse este modelo para respaldar mi trabajo y ayudarme a seguir creando diseños útiles y personalizables para la comunidad. Membresía Únase a nuestro programa de membresía para asegurar los derechos para vender versiones impresas de este Pumpkin Bowl, ¡y muchos otros modelos exclusivos!",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "víspera de todos los santos",
+  "bol",
+  "dulces",
+  "no ams",
+  "tazón de dulces",
+  "decoración",
+  "frasco",
+  "dulce",
+  "caja",
+  "balde"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf19913d3c1afae/design/2025-09-30_4b81cdc62f39c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1969901.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

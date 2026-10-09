@@ -1,0 +1,93 @@
+{
+ "files": [
+  {
+   "path": "model/caja-gta.3mf.xz",
+   "instance_id": "3781028",
+   "thumbnail": "previews/profiles/3781028.jpg",
+   "print_time_h": 5.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2D",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "profile_notes": "consiglio di stampare la parte anteriore con nozzle da 0,2 per avere una migliore adesione tra gli strati di colore diverso in modo tale da non avere spazi vuoti.",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2413124,
+   "sha256": "c750740fe729c001e79163fcf200b569b18b154d4ffc80d60832ac321273590c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3329275",
+ "title": "caja de GTA 6",
+ "slug": "gta-6-box",
+ "url": "https://makerworld.com/en/models/3329275-gta-6-box",
+ "author": "user_3160666074",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "¿Listo para una nueva aventura? En dos meses llegará el tan esperado GTA 6 a nuestras plataformas de juego favoritas, ¡crea tu espacio de juego con esta fantástica caja temática!",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gran robo de autos",
+  "6",
+  "caja",
+  "juegos de rockstar",
+  "juegos",
+  "estación de juego",
+  "ordenador personal",
+  "xbox"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6ba7675c297ab6/design/5f6543a874334e88.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3781028.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

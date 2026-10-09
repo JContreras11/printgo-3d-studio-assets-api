@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/posavasos-gta.3mf.xz",
+   "instance_id": "3403805",
+   "thumbnail": "previews/profiles/3403805.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2S",
+    "H2D",
+    "P1P",
+    "X2D",
+    "H2D Pro",
+    "P2S",
+    "A2L",
+    "A1",
+    "X1 Carbon",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "4 Stück",
+    "creation_date": "2026-07-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2254196,
+   "sha256": "1fb23dc1645f1421eb8943395372c653c59909230fb33627955f48d4b74a0f41",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3028803",
+ "title": "Posavasos de GTA VI / PlayStation /Grand Theft Auto",
+ "slug": "gta-vi-coasters-playstation-grand-theft-auto",
+ "url": "https://makerworld.com/en/models/3028803-gta-vi-coasters-playstation-grand-theft-auto",
+ "author": "JS_3Denkbar",
+ "category": "gta-vi",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Posavasos impresos en 3D inspirados en GTA\n¡Añade el toque final a tu configuración de juego! Estos posavasos impresos en 3D de alta calidad con el icónico estilo GTA combinan un diseño elegante con una práctica protección para su escritorio o mesa de café.\nAspectos destacados:\nImpresión 3D de alta calidad con detalles precisos\nLlamativo diseño morado y negro con letras en relieve.\nProtege las superficies de arañazos y anillos de bebidas.\nPerfecto para refrescos, café, bebidas energéticas o cócteles.\nRegalo ideal para jugadores y fanáticos de GTA.\nYa sea en su escritorio, en su sala de juegos o en la mesa de su sala de estar, estos posavasos llaman la atención y aportan vibraciones de juego a cualquier habitación.\nNota: Este producto es un diseño de fan inspirado en un videojuego y no está afiliado a Rockstar Games ni a Take-Two Interactive.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gran robo de autos",
+  "barco de cabotaje",
+  "bar",
+  "sony",
+  "ps5",
+  "playstation",
+  "regalo",
+  "decoración",
+  "juego",
+  "divertido",
+  "divertido 2026"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa34d0af03dc462/design/b253b1a16aa7f656.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3403805.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

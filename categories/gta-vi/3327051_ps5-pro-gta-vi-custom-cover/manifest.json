@@ -1,0 +1,138 @@
+{
+ "files": [
+  {
+   "path": "model/ps5-pro-52h42.3mf.xz",
+   "instance_id": "3778416",
+   "thumbnail": "previews/profiles/3778416.jpg",
+   "print_time_h": 52.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "P1S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "5 - farbig",
+    "profile_notes": "0.2mm Schichthöhe 3 Wandlinien 15% Gyroid Infill Supports",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 10314760,
+   "sha256": "a706952e5263f986438fe1d0d533ae6103deea07b9e67c13d3d54f8c5f688031",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ps5-pro-38h36.3mf.xz",
+   "instance_id": "3778423",
+   "thumbnail": "previews/profiles/3778423.jpg",
+   "print_time_h": 38.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "4 - farbig",
+    "profile_notes": "0.2mm Schichthöhe 3 Wandlinien 15% Gyroid Infill Supports",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 10317280,
+   "sha256": "cec9da6db87170f96adcb48bc3b3437cb54ff55da45cafec068c73afc0c20744",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3327051",
+ "title": "PS5 Pro – Cubierta personalizada de GTA VI",
+ "slug": "ps5-pro-gta-vi-custom-cover",
+ "url": "https://makerworld.com/en/models/3327051-ps5-pro-gta-vi-custom-cover",
+ "author": "user_3718600481",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Dale a tu PS5 Pro el aspecto definitivo de Vice City\n\nEsta portada se creó a partir de un escaneo 3D de la portada original de PS5 Pro y luego se modificó con un diseño de GTA VI.\nEl diseño refleja el aspecto distintivo y la atmósfera de neón del juego utilizando palmeras y los colores típicos de Vice City.\n\nFácil de imprimir\nDiseño multicolor de alto impacto visual\nPerfecto para jugadores y fans de la saga GTA\nIdeal para salas de juegos\nAjuste preciso\nGestión de color AMS optimizada\n\nNotas:\nPara obtener mejores resultados, asegúrese de que su impresora esté correctamente calibrada.\nSi los clips están demasiado apretados, un lijado ligero puede ayudar\nLos paneles deben imprimirse en vertical para conseguir la mejor calidad posible.\nConfiguración de impresión (recomendada):\nAltura de la capa: 0,2 mm\nRelleno: 15% giroide\nSoportes: recomendado\nMaterial: PLA\n\nTen cuidado al retirar los soportes, especialmente en la zona del logo de PS5.\n\nImpulsame¿Te gusta mi trabajo? Un impulso gratuito y un me gusta me ayudan a llegar a más creadores. Muchas gracias por su apoyo.\n¡Muchas gracias por su apoyo y diviértase imprimiendo!\n\nEste archivo está destinado únicamente para uso personal, cualquier uso comercial está prohibido.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "obtuve",
+  "gta6",
+  "gta vi",
+  "gta 6",
+  "vice city",
+  "coleccionista",
+  "grand theft auto",
+  "grand theft auto 6",
+  "logo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa7dc656735bc18/design/30d401a3f4ba1255.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3778416.jpg": [
+   600,
+   405
+  ],
+  "previews/profiles/3778423.jpg": [
+   600,
+   471
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

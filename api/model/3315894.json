@@ -1,0 +1,126 @@
+{
+ "files": [
+  {
+   "path": "model/lucia-gta.3mf.xz",
+   "instance_id": "3764825",
+   "thumbnail": "previews/profiles/3764825.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.08mm Lucia GTA 6 Sit & Chill"
+   },
+   "name": "Versión estándar",
+   "size": 24423544,
+   "sha256": "1ae3d9f998f197d0205292b0307ea6dc6cd6525dd41ff275c985e6bcfbaa13a2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3315894",
+ "title": "Lucia GTA 6 – Siéntate y relájate",
+ "slug": "lucia-gta-6-sit-chill",
+ "url": "https://makerworld.com/en/models/3315894-lucia-gta-6-sit-chill",
+ "author": "Eatbread_TV",
+ "category": "gta-vi",
+ "source_category": "Modelo generativo 3D > Creador de estatuas",
+ "description": "Proyecto\nLucia GTA 6 – Siéntate y relájate\nLucia GTA 6 – Sit & Chill es una figura 3D diseñada para convertir a Lucia en un pequeño elemento decorativo que se puede colocar literalmente \"sentado\" en tu escritorio.\nLa particularidad del modelo es precisamente su pose: la figura está diseñada con Lucía sentada en el borde, con las piernas hacia abajo, para poder exhibirla en el borde de una estantería, librería, monitor u otra superficie compatible.\nPara la muestra que hice, elegí una impresión de muy alta definición usando una boquilla de 0,4 mm y una altura de capa de 0,08 mm, para resaltar mejor la cara, el cabello, la ropa y las superficies curvas del modelo.\nConfiguración de impresión\nLa muestra que se muestra se imprimió usando:\nConfiguraciónValorTipoFigura 3DBoquilla0,4 mmAltura de capa utilizada0,08 mmTipo de soporte/EstiloÁrbol/Orgánico Ángulo de umbral35°Espaciamiento del patrón de base2,5 mmDistancia Z superior0,24 mmDistancia XY de soporte/objeto0,45 mmInterfaz de soporteEnabledCapas de interfaz superior2Para este proyecto también presento el perfil de 0,08 mm, junto con las alternativas de 0,12 mm y 0,20 mm.\nLos parámetros de soporte restantes pueden permanecer como la configuración inicial predeterminada, independientemente de la altura de capa elegida, y luego ajustarse según sea necesario para satisfacer sus requisitos, el material y la impresora utilizados.\nEn algunas versiones de Bambu Studio puede que no haya una configuración separada llamada Interfaz de soporte: configurar Capas de interfaz superiores = 2 seguirá generando las capas de interfaz correspondientes.\nÁrbol / Soportes Orgánicos\nPara una figura como Lucia GTA 6 – Sit & Chill, los soportes Tree/Organic son una solución particularmente adecuada porque llegan a diferentes partes sobresalientes limitando el contacto con las superficies de la figura siempre que sea posible.\nSe debe prestar especial atención sobre todo al cabello, los brazos, las manos, la ropa, las piernas y los zapatos, así como a las zonas inferiores creadas por la postura específica para sentarse.\nLos parámetros utilizados son un buen punto de partida:\nEl espaciado del patrón de base de 2,5 mm ofrece un equilibrio entre la estabilidad del soporte, el uso del material y la facilidad de extracción posterior.\nLa distancia Z superior de 0,24 mm mantiene el equilibrio entre las superficies de apoyo y permite separar el soporte posteriormente.\nLa distancia XY soporte/objeto de 0,45 mm limita el contacto lateral entre los soportes y la figura, lo que resulta especialmente útil en áreas con muchos detalles finos.\nEstos valores deben considerarse como configuraciones de referencia recomendadas y se pueden cambiar según su impresora, filamento y resultado deseado.\nCalidad de impresión: 0,20 frente a 0,12 frente a 0,08 mm\nPara este proyecto puedes elegir entre tres niveles de detalle.\nAltura de capaCaracterísticasMejor para0,20 mmTiempos de impresión más cortos y buen nivel de detalleImpresión más rápida0,12 mmMayor definición y líneas de capa menos visiblesEquilibrio entre detalle y tiempo de impresión0,08 mmMuy alta definición y transiciones más suavesMáxima calidad estética0,20 mm\nEsta es la opción recomendada cuando desea mantener bajos los tiempos de impresión y al mismo tiempo obtener una buena calidad general de la figura.\n0,20 mm = tiempos más cortos + gran compromiso de calidad.\n0,12 milímetros\nEsto aumenta la definición en superficies curvas y hace que las líneas de las capas sean menos visibles, lo que funciona especialmente bien para la cara, el cabello, la ropa y los detalles más pequeños.\nNaturalmente, requiere tiempos de impresión más largos en comparación con 0,20 mm.\n0,12 mm = tiempos más largos + mayor definición + líneas de capa menos visibles.\n0,08 mm: configuración utilizada\nPara la muestra mostrada elegí bajar a 0,08 mm con boquilla de 0,4 mm, priorizando la calidad a la velocidad.\nUna resolución tan fina le permite centrarse más en las superficies curvas y los detalles de la figura, especialmente los rasgos faciales, el cabello, los pliegues de la ropa y las formas de los zapatos.\nEsta es la opción que consume más tiempo de las tres, pero fue la que elegí para la impresión presentada en el proyecto.\n0,08 mm = tiempos de impresión significativamente más largos + máximo enfoque en la definición.\nSin embargo, esta elección no es obligatoria: 0,08, 0,12 y 0,20 mm son alternativas utilizables dependiendo de la calidad y el tiempo de impresión que prefiera.\nDescripción de la obra de arte\nLa idea de Lucia GTA 6 – Sit & Chill surgió de querer hacer una figura diferente a la clásica figura de pie con una base.\nElegí una postura sentada y relajada, diseñada desde el principio para utilizar directamente el borde de la superficie en la que se mostrará el modelo.\nDe aquí también proviene el nombre “Sit & Chill”: una Lucia más informal y relajada, convertida en una pequeña figura que puedes integrar directamente en tu escritorio.\nLa composición mantiene al personaje inmediatamente reconocible a través del peinado, el rostro, la vestimenta y la pose, sin agregar una base grande que desvíe la atención de la figura.\nLa posición de las patas también es parte integral del proyecto: en lugar de terminar sobre una base tradicional, se extienden más allá del borde de la superficie, creando la impresión de que Lucía realmente está sentada en el estante.\nLucia GTA 6 – Siéntate y relájate\nLucía es uno de los personajes centrales de Grand Theft Auto VI, y para este proyecto elegí representarla.",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "estrella de rock",
+  "lucía",
+  "lucía gta 6",
+  "comerpantv"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5795db3a6f6255/design/ecdd5adc5dad3a8f.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   1333
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3764825.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

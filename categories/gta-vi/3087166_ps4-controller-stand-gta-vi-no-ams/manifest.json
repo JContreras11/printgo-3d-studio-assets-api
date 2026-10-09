@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-mando-1h42.3mf.xz",
+   "instance_id": "3477774",
+   "thumbnail": "previews/profiles/3477774.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Impressão rápida em 1 placa",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1336112,
+   "sha256": "b485f71093d3b16e38cf4b1c497408adb4d18443e050470cdbdbd09a1345e44c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-mando-2h.3mf.xz",
+   "instance_id": "3477779",
+   "thumbnail": "previews/profiles/3477779.jpg",
+   "print_time_h": 2,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1450580,
+   "sha256": "4e5d09183abde832efa5d88ff33d18a3ef0d0c5d9e0394f0f70624d7b9d0b257",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3087166",
+ "title": "Soporte para mando de PS4 - GTA VI",
+ "slug": "ps4-controller-stand-gta-vi-no-ams",
+ "url": "https://makerworld.com/en/models/3087166-ps4-controller-stand-gta-vi-no-ams",
+ "author": "GROGO3D",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Soporte premium para mando GTA VI - Edición Vice City para PS4\nBreve descripción: ¡Lleva la emoción del lanzamiento más esperado de la década a tu configuración! Este exclusivo soporte para mando de PS4 es la unión perfecta de organización, estilo y pasión por la franquicia Grand Theft Auto. Con el logo oficial de GTA VI en relieve y un diseño inspirado en las luces de neón de Vice City, tus controladores nunca han estado tan bien cuidados.\nAspectos destacados del producto:\nDiseño icónico: base negra robusta con el logotipo \"Grand Theft Auto VI\" en un lugar destacado, utilizando los vibrantes colores rosa y azul de la estética de Vice City.\nCompatibilidad perfecta: Diseñado específicamente para acomodar de forma segura y estable el controlador DualShock 4.\nOrganización elegante: mantenga su escritorio de juegos limpio y sus joysticks protegidos de caídas y polvo.\nArtículo de coleccionista: Un accesorio indispensable para los fans y entusiastas de Rockstar Games.",
+ "use_cases": [],
+ "tags": [
+  "ps4",
+  "gta",
+  "gta 6",
+  "playstation",
+  "juego",
+  "jugador",
+  "control",
+  "sony"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb94d8744006d3a/design/6a2a9c5483eeab5e.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3477774.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3477779.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

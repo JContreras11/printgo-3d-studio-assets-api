@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/disco-visualizacion.3mf.xz",
+   "instance_id": "3341564",
+   "thumbnail": "previews/profiles/3341564.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "H2S",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2C",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "profile_notes": "2MAS needed",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2769944,
+   "sha256": "7a5f29ae4daadafb43539e69bd8a5598baa1232a062303b1eab6c874c8e9395e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2978574",
+ "title": "Disco de visualización de GTA VI: el disco que falta",
+ "slug": "gta-vi-display-disc-the-missing-disc",
+ "url": "https://makerworld.com/en/models/2978574-gta-vi-display-disc-the-missing-disc",
+ "author": "LorenzCR",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "GTA VI Display Disc: ¡el disco que faltaba en la caja!\n¿Reservaste la edición física de Grand Theft Auto VI y descubriste que dentro del estuche no hay un disco clásico, sino solo un código para descargar el juego? Si también extrañas ese detalle icónico, ¡este proyecto fue creado solo para ti!\nEste modelo 3D reproduce un disco de exhibición, inspirado en la apariencia de un soporte físico real, diseñado para completar su edición de coleccionista y finalmente dejarla \"completa\" en el estante.\nCaracterísticas\nPerfecto para acompañar la edición física de GTA VI.\nAspecto realista, ideal para exhibición.\nOptimizado para impresión 3D multicolor.\nUn accesorio imprescindible para coleccionistas y fans de la serie.\nimportante\nEsto NO ES un disco de juego.\nNo contiene datos, no es legible en consolas y de ninguna manera reemplaza el código de descarga proporcionado con el juego.\nEs exclusivamente un accesorio decorativo de colección, diseñado para realzar el embalaje físico.\nImprimir información\nEl modelo utiliza 8 colores y está diseñado para imprimirse con 2 AMS (Automatic Material System) compatible con las impresoras Bambu Lab.\nPorque incluso en la era digital... ¡un estuche de coleccionista todavía merece su disco!",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "obtuve",
+  "gta",
+  "gran robo de autos",
+  "playstation",
+  "xbox",
+  "sony",
+  "microsoft",
+  "estrella de rock",
+  "travor",
+  "viceciudad",
+  "disco"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2a44990dc6e9f/design/5f7532e50265a82e.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3341564.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

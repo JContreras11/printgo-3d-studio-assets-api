@@ -1,0 +1,89 @@
+{
+ "files": [
+  {
+   "path": "model/juego-posavasos.3mf.xz",
+   "instance_id": "3765971",
+   "thumbnail": "previews/profiles/3765971.jpg",
+   "print_time_h": 4.8,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2D",
+    "X2D",
+    "H2D Pro",
+    "H2C",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(manual)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 3142708,
+   "sha256": "dfea4682841ca3836275d10f7a96910dda73eb16b11e92223a7f3c9526cd8d6b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3316806",
+ "title": "Juego de posavasos GTA 6: 6 diseños multicolores de Vice City",
+ "slug": "gta-6-coaster-set-6-vice-city-multicolor-designs",
+ "url": "https://makerworld.com/en/models/3316806-gta-6-coaster-set-6-vice-city-multicolor-designs",
+ "author": "user_3510714193",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "¡Lleva el ambiente de Vice City a tu configuración de juego con esta colección de 6 posavasos imprimibles en 3D inspirados en GTA 6!\nEste set combina la icónica estética neón y tropical con diferentes diseños inspirados en GTA VI, Vice City y Rockstar Games.\nCada posavasos utiliza formas atrevidas, detalles limpios y una paleta de colores limitada, lo que hace que la colección sea perfecta para la impresión FDM multicolor.\n6 diseños únicos incluidos\nEstética rosa, blanca y negra inspirada en Vice City\nDiseñado para impresión multicolor\nFácil de imprimir\nNo se requieren soportes\nPerfecto para configuraciones de juegos, escritorios y salas de juegos\nTodos los modelos están diseñados para imprimirse de forma plana sobre la placa de construcción, lo que facilita su impresión y mantiene los detalles gráficos nítidos y visibles.\n¡Una gran adición a cualquier colección de GTA o configuración de juego mientras esperas el próximo viaje a Vice City!",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "gta vi",
+  "gta",
+  "vice city",
+  "decoración vice city",
+  "montaña rusa gta 6",
+  "barco de cabotaje",
+  "juegos de estrellas de rock",
+  "juego de azar",
+  "jugador",
+  "configurar jugador"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa10b4dfd28a231/design/344f37d24e1f6c53.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   563
+  ],
+  "previews/02.jpg": [
+   902,
+   1004
+  ],
+  "previews/profiles/3765971.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

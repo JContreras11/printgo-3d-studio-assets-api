@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi.3mf.xz",
+   "instance_id": "3657894",
+   "thumbnail": "previews/profiles/3657894.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "A2L",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2S",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1123684,
+   "sha256": "f6343a52359b1929ae43ca17dd29dfe564a24420806899db0fcbf664c58ebb88",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3229749",
+ "title": "GTA VI / 6 Tarjeta de regalo / Tarjeta de vale",
+ "slug": "gta-vi-6-gift-card-voucher-card",
+ "url": "https://makerworld.com/en/models/3229749-gta-vi-6-gift-card-voucher-card",
+ "author": "Bastl",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Esta es una tarjeta de cupón de GTA VI.\nUna forma especial de regalar GTA 6.\nImpúlsame. Si te gusta, por favor impulsame.",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "gta",
+  "gta vi",
+  "grand theft auto",
+  "tarjeta de vale",
+  "tarjeta de regalo",
+  "juego de azar",
+  "jugador",
+  "regalo",
+  "regalo de juego",
+  "playstation",
+  "xbox"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US925c9533774f81/design/3271b163fadf05f6.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3657894.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

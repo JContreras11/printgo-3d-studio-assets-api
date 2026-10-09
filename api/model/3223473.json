@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/amigo-fantasma.3mf.xz",
+   "instance_id": "3650273",
+   "thumbnail": "previews/profiles/3650273.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 64,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "X1",
+    "P2S",
+    "H2C",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "X1E",
+    "H2D",
+    "X2D",
+    "P1P",
+    "A1",
+    "A1 mini",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 3% infill"
+   },
+   "name": "Versión estándar",
+   "size": 3332668,
+   "sha256": "8709a83f37519682baf47d163e2cd99405797522a96fc7ed0babf1e8f0dd2d48",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3223473",
+ "title": "Amigo fantasma articulado",
+ "slug": "articulated-ghost-buddy",
+ "url": "https://makerworld.com/en/models/3223473-articulated-ghost-buddy",
+ "author": "B.schenk",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "El Articulated Ghost Buddy aporta un encanto espeluznante a la silueta clásica de Buddy. Con un cuerpo de fantasma que fluye suavemente, una cara expresiva y extremidades articuladas totalmente articuladas, este pequeño espíritu amigable es perfecto para exhibiciones de Halloween, colecciones de temporada y montajes fotográficos divertidos.\nConfiguración de impresión:\nRelleno: 3%\nAltura de la capa: 0,2 mm\nBucles de pared: 2\nSIN SOPORTES\nSE NECESITA AMS",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "víspera de todos los santos",
+  "víspera de todos los santos 2026",
+  "halloween2026",
+  "articulado",
+  "articular",
+  "articulando",
+  "juguete",
+  "juguetes",
+  "compañero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf44d52782c0238/design/52d4531fdb3efe8a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3650273.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

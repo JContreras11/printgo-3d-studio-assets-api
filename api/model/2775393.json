@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/trabajando-hasta-2h12.3mf.xz",
+   "instance_id": "3083615",
+   "thumbnail": "previews/profiles/3083615.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 565,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2D",
+    "H2S",
+    "X1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1E",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12072680,
+   "sha256": "ec656809c4fa237cb01808ab772383bb1f8c953259c3a194ceaad1aa6d42b6fb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/trabajando-hasta-9h54.3mf.xz",
+   "instance_id": "3441465",
+   "thumbnail": "previews/profiles/3441465.jpg",
+   "print_time_h": 9.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "H2D Pro",
+    "P1P",
+    "A1 mini",
+    "A2L",
+    "X1E",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A1",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill_AMS_colored",
+    "profile_notes": "Print profile - colored 3 colors AMS",
+    "creation_date": "2026-07-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12373136,
+   "sha256": "4e52584d0414d7a90724b7712f3b83dd41c474eae88bf602e23167a007cb70c5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2775393",
+ "title": "Trabajando hasta los huesos - Esqueleto de oficina",
+ "slug": "working-to-the-bone-office-skeleton",
+ "url": "https://makerworld.com/en/models/2775393-working-to-the-bone-office-skeleton",
+ "author": "Lynns",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¿Literalmente trabajó hasta morir? Todos hemos estado allí. Conozca a la mascota definitiva para el agotamiento corporativo y las interminables semanas laborales. Este exhausto empleado esquelético está sentado en una repisa, agarrando su taza de café de apoyo emocional y cuestionando sus elecciones de vida. Vestido con una camisa, una corbata floja y mangas arremangadas, captura perfectamente esa sensación de \"lunes por la mañana\" o \"esta reunión podría haber sido un correo electrónico\".\nEstá diseñado para colocarse perfectamente en el borde de su escritorio, monitor, estante o impresora 3D. ¡Un divertido juguete de escritorio, una impresión 3D muy detallada y el compañero perfecto para cualquiera que simplemente esté cansado de trabajar!\nConfiguración de impresión recomendada:\nOrientación: Imprimir sentado erguido.\nAltura de capa: Se recomienda encarecidamente entre 0,12 mm y 0,16 mm para capturar los detalles finos del cráneo, los dientes y las arrugas de la tela.\nSoportes: SI. Se recomiendan encarecidamente soportes de árboles/orgánicos. Necesitará soportes debajo de la barbilla, los brazos, el fondo de la taza de café y las piernas colgantes.\nRelleno: 10% - 15% (Gyroid o Adaptive Cubic funcionan mejor).\nBucles de pared: 2 a 3 perímetros para mayor resistencia.\nMaterial: Se recomienda PLA mate o PETG de alta calidad para darle al hueso y a la ropa una textura muy realista.\n\nOtros modelos:)",
+ "use_cases": [],
+ "tags": [
+  "esqueleto",
+  "cráneo",
+  "café",
+  "taza",
+  "cansado",
+  "agotamiento",
+  "trabajar",
+  "oficina",
+  "corporativo",
+  "trabajo",
+  "jefe",
+  "lunes"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-05-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US86f74b52ce647b/design/73b66d9ac8b798da.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   855
+  ],
+  "previews/profiles/3083615.jpg": [
+   600,
+   513
+  ],
+  "previews/profiles/3441465.jpg": [
+   600,
+   652
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

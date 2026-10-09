@@ -41,6 +41,46 @@
    "decompress": "xz -d -k <filename>"
   },
   {
+   "path": "model/jack-lantern-4h18-2.3mf.xz",
+   "instance_id": "3790367",
+   "thumbnail": "previews/profiles/3790367.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Face 10"
+   },
+   "name": "Versión estándar",
+   "size": 8061752,
+   "sha256": "7d69b983bc807a28fde5f6e67fd024c86fdeafc0fcd2f58219666075f5ab9484",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
    "path": "model/jack-lantern-4h18.3mf.xz",
    "instance_id": "3790346",
    "thumbnail": "previews/profiles/3790346.jpg",
@@ -321,6 +361,46 @@
    "decompress": "xz -d -k <filename>"
   },
   {
+   "path": "model/jack-lantern-5h36-3.3mf.xz",
+   "instance_id": "3790375",
+   "thumbnail": "previews/profiles/3790375.jpg",
+   "print_time_h": 5.6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "H2C",
+    "P1S",
+    "P1P",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "H2S",
+    "H2D",
+    "A2L",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Face 11"
+   },
+   "name": "Versión estándar",
+   "size": 7623280,
+   "sha256": "acad7e4eecb361cd00a21037a91f193d3ae4e5b3d80d07aa300e7a71e7a90bcd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
    "path": "model/jack-lantern-5h36.3mf.xz",
    "instance_id": "3790406",
    "thumbnail": "previews/profiles/3790406.jpg",
@@ -357,6 +437,46 @@
    "name": "Versión estándar",
    "size": 8761156,
    "sha256": "4e13e3426df7e399533ea4e53dfcb8a2d01a12e872227506e12e0f466970871f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/jack-lantern-5h42.3mf.xz",
+   "instance_id": "3790410",
+   "thumbnail": "previews/profiles/3790410.jpg",
+   "print_time_h": 5.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Face 12"
+   },
+   "name": "Versión estándar",
+   "size": 8654768,
+   "sha256": "1a400583d43883e54c585cdaa01e88e46d860186ebf335e5fa331818d2644ede",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   }
@@ -430,6 +550,10 @@
    450,
    600
   ],
+  "previews/profiles/3790367.jpg": [
+   463,
+   477
+  ],
   "previews/profiles/3790346.jpg": [
    515,
    453
@@ -458,9 +582,17 @@
    474,
    459
   ],
+  "previews/profiles/3790375.jpg": [
+   600,
+   512
+  ],
   "previews/profiles/3790406.jpg": [
    600,
    533
+  ],
+  "previews/profiles/3790410.jpg": [
+   600,
+   530
   ]
  },
  "storage": {

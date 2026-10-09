@@ -1,0 +1,226 @@
+{
+ "files": [
+  {
+   "path": "model/ghostface-asalto-7h30.3mf.xz",
+   "instance_id": "3736019",
+   "thumbnail": "previews/profiles/3736019.jpg",
+   "print_time_h": 7.5,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 46,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "P2S",
+    "P1P",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "X2D",
+    "X1E",
+    "A1",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Altezza 16cm",
+    "creation_date": "2026-09-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 3249168,
+   "sha256": "0cd87a01c1eb6cc370aeb5641f8e765205d38eaa07749b2f52ba6ada35da4257",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ghostface-asalto-9h48.3mf.xz",
+   "instance_id": "3753386",
+   "thumbnail": "previews/profiles/3753386.jpg",
+   "print_time_h": 9.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P1P",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "H2S",
+    "P2S",
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Ams Altezza 16cm",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3129864,
+   "sha256": "42cbfc435663e5339265f2c66bd1c0f9e6310ca8f27e8a9752cdda4e9adeb757",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ghostface-asalto-monocolor-7h36.3mf.xz",
+   "instance_id": "3753527",
+   "thumbnail": "previews/profiles/3753527.jpg",
+   "print_time_h": 7.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P1S",
+    "X2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Monocolore altezza 16cm",
+    "creation_date": "2026-09-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 3344084,
+   "sha256": "618cafecf10ce780b886a561329fd67b5604ef9567510ad84ddbc0ba202387d2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ghostface-asalto-multicolor-3h30.3mf.xz",
+   "instance_id": "3767502",
+   "thumbnail": "previews/profiles/3767502.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，增加裙边，提高打印效率",
+    "creation_date": "2026-09-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 3191284,
+   "sha256": "061abb4a5f4ec412a337407884edd8f02cb7c45e4faf7954b1a5762a065d6af6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3292460",
+ "title": "Ghostface - Asalto en la noche",
+ "slug": "ghostface-no-ams-assault-in-the-night",
+ "url": "https://makerworld.com/en/models/3292460-ghostface-no-ams-assault-in-the-night",
+ "author": "CleanStudio",
+ "category": "halloween-2026",
+ "source_category": "Arte > Esculturas",
+ "description": "Agrega una de las caras de terror más icónicas a tu colección con esta versión de Ghostface NO AMS, que presenta una pose dinámica y muy dramática. El modelo transmite perfectamente tensión y movimiento con el cuchillo levantado, la capa andrajosa que crea profundidad y la máscara clásica que lo hace reconocible al instante.\n\nEste es un modelo perfecto para los fanáticos de las películas de terror, para quienes buscan una impresión llamativa para exhibir en un escritorio o estante y para quienes buscan un personaje icónico incluso sin usar AMS. Es una impresión ideal tanto para dejarla tal cual como para personalizarla con tu propia combinación de colores.\n\nSi lo imprimes comparte tu Make: ¡Estoy ansiosa por ver tu versión!",
+ "use_cases": [],
+ "tags": [
+  "cara fantasma",
+  "gritar",
+  "víspera de todos los santos",
+  "horror",
+  "película de terror",
+  "noams",
+  "cifra",
+  "cuchillo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US53e1e21ad9dc93/design/43e1854139402b02.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   930,
+   641
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3736019.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3753386.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3753527.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3767502.jpg": [
+   600,
+   584
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

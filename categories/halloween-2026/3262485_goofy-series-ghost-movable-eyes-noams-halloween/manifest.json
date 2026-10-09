@@ -1,0 +1,451 @@
+{
+ "files": [
+  {
+   "path": "model/goofy-ojos-5h.3mf.xz",
+   "instance_id": "3698632",
+   "thumbnail": "previews/profiles/3698632.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 57,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "2ghost 2plate NOAMS 0.2mm layer, 2 walls, 7% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4080048,
+   "sha256": "bb4b085b1e2290a66d085b3ff5686babb77af6b8cd054ba261412aceeea5c382",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-2h24.3mf.xz",
+   "instance_id": "3698691",
+   "thumbnail": "previews/profiles/3698691.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2D",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Ghost short 1plate AMS 0.2mm layer, 2 walls, 7% infill",
+    "profile_notes": "Ghost short 1plate AMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2994768,
+   "sha256": "89a41203e557bb55d5fb78ad8b419812da31b73707a6fd08d49e801d46895ac5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-2h36.3mf.xz",
+   "instance_id": "3722741",
+   "thumbnail": "previews/profiles/3722741.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "一盘打印两个幽灵，优化参数，提高打印效率",
+    "profile_notes": "2ghost 2plate NOAMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4041696,
+   "sha256": "59f333313a9803a2c5f6029cb50e934fd6cb2a40e6005946d9a27d212a22460d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-2h48.3mf.xz",
+   "instance_id": "3698683",
+   "thumbnail": "previews/profiles/3698683.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 20,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "P1P",
+    "H2C",
+    "X1E",
+    "A1 mini",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Ghost short 2plate NOAMS 0.2mm layer, 2 walls, 7% infill",
+    "profile_notes": "Ghost short 2plate NOAMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 3022492,
+   "sha256": "e3b8821a940c02939a9d90a02cb1d8d34cd9ac46b2cac46511e035effa47af42",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-3h.3mf.xz",
+   "instance_id": "3708465",
+   "thumbnail": "previews/profiles/3708465.jpg",
+   "print_time_h": 3,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Optimized | 2ghost 2plate | Less Time & Less Fillament",
+    "profile_notes": "2ghost 2plate NOAMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4092608,
+   "sha256": "b2c71ed30a2939d6c889098e0764acb1a06eca12641d7b76e21a20ddaa42d9c1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-4h.3mf.xz",
+   "instance_id": "3711215",
+   "thumbnail": "previews/profiles/3711215.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Complete Settings adjustment, pupils adjusted to slide fit",
+    "profile_notes": "2ghost 2plate NOAMS 0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 4180136,
+   "sha256": "66f86310f66ec034b098c8e787177e93fbca3b5e34bf3a61c66039a6b28c13dd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-5h30.3mf.xz",
+   "instance_id": "3698641",
+   "thumbnail": "previews/profiles/3698641.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 54,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2D",
+    "P1P",
+    "X1E",
+    "P2S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "2ghost 1plate AMS 0.2mm layer, 2 walls, 7% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4004744,
+   "sha256": "603b19b39a4c7f7f665cb8d8e9b53c1976cc92f0e007542b6bdfb43cdcca0aaf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-multicolor-2h18.3mf.xz",
+   "instance_id": "3698652",
+   "thumbnail": "previews/profiles/3698652.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Ghost tall 1plate 2color AMS0.2mm layer, 2 walls, 7% infill",
+    "profile_notes": "Ghost tall 1plate 2color AMS0.2mm layer, 2 walls, 7% infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2693772,
+   "sha256": "0085dfc3ab29c1288637827cb1076b0a8eae05f126b0dd064c91469bcbc2aa48",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/goofy-ojos-multicolor-2h24.3mf.xz",
+   "instance_id": "3698662",
+   "thumbnail": "previews/profiles/3698662.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 35,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Ghost tall 2plate 2color NOAMS 0.2mmlayer, 2 walls, 7%infill",
+    "profile_notes": "Ghost tall 2plate 2color NOAMS 0.2mmlayer, 2 walls, 7%infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 2716388,
+   "sha256": "b567d590af1209194b1cde99ef3c5bb9de7e89119ab66d03ba5e5cc259abb858",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3262485",
+ "title": "Serie Goofy– Ojos Móviles GHOST HALLOWEEN",
+ "slug": "goofy-series-ghost-movable-eyes-noams-halloween",
+ "url": "https://makerworld.com/en/models/3262485-goofy-series-ghost-movable-eyes-noams-halloween",
+ "author": "Adamuss",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Otras Miniaturas",
+ "description": "SERIE GOOFY – FANTASMA\nOjos Móviles - Colección Halloween - No AMS\nConozca a los miembros más nuevos de la serie AGo3D Goofy: ¡dos pequeños fantasmas tontos listos para rondar su escritorio, estante o decoraciones de Halloween!\nDiseñado con el estilo característico de la serie Goofy: formas simples, ojos móviles de gran tamaño, proporciones gruesas y ese clásico \"¿Qué estoy haciendo aquí?\" expresión.\nTodas las series de Goofy:\n\nDOS FANTASMAS EN UN MODELO\nEl set incluye dos diseños de fantasmas diferentes:\nGoofy Ghost: corto, amplio y completamente despistado.\nSpooky Ghost: más alto, con una divertida blusa rizada y una expresión permanentemente sorprendida.\nOJOS MOVILES\nAmbos fantasmas cuentan con globos oculares móviles, lo que te permite cambiar su dirección y darle a cada impresión su propia personalidad.\nIMPRESIÓN\nDiseñado teniendo en cuenta la impresión FDM:\nNo se requiere AMS\ngeometría simple\nPartes mínimas\nFácil separación de colores\nSin montaje complicado\nIdeal para principiantes y creadores experimentados.\nCOLECCIÓN HALLOWEEN\nEstos fantasmas están diseñados para combinar con la colección de Halloween de la serie Goofy, junto con los modelos de calabazas de la serie Goofy.\n¡Colecciónalos todos y crea tu propia exhibición ridícula de Halloween!\nMembresía ¿Quieres vender a este amiguito tonto?\n¡Consigue una licencia comercial y ayúdame a crear la siguiente! Impulsame ¿Te hizo sonreír? ¡Envía un impulso gratis y ayuda a otro animal Goofy a escapar al mundo!",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "fantasma 2",
+  "fantasmas",
+  "fantasmas impresión 3d",
+  "mentecato",
+  "serie",
+  "movible",
+  "ojo",
+  "'decoración",
+  "decoración",
+  "noams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd1b483e6569076/design/64299e1c0844b8df.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3698632.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3698691.jpg": [
+   600,
+   732
+  ],
+  "previews/profiles/3722741.jpg": [
+   600,
+   593
+  ],
+  "previews/profiles/3698683.jpg": [
+   600,
+   732
+  ],
+  "previews/profiles/3708465.jpg": [
+   452,
+   607
+  ],
+  "previews/profiles/3711215.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3698641.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3698652.jpg": [
+   600,
+   892
+  ],
+  "previews/profiles/3698662.jpg": [
+   600,
+   892
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

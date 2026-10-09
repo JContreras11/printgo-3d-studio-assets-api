@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/clicker-gato.3mf.xz",
+   "instance_id": "1781190",
+   "thumbnail": "previews/profiles/1781190.jpg",
+   "print_time_h": 8.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 139,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1E",
+    "H2C",
+    "X2D",
+    "P1P",
+    "H2S",
+    "P2S",
+    "P1S",
+    "A2L",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 35773212,
+   "sha256": "769de62818818b536b811c8d64b0846c604e46206215d6a013c246cadedfd852",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1681311",
+ "title": "Clicker de gato calabaza",
+ "slug": "pumpkin-cat-clicker",
+ "url": "https://makerworld.com/en/models/1681311-pumpkin-cat-clicker",
+ "author": "Makerize3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "¡Este pequeño gato negro ha regresado para Halloween y ahora hace clic!\nEl año pasado lancé Pumpkin Cat como una figura estática, ¡y este año lo convertí en una versión de clicker antiestrés!\nTambién agregué una versión más pequeña, perfecta para convertirla en llavero o dije para bolso.\nYa sea que quieras un divertido juguete de escritorio o un lindo y espeluznante accesorio para llevar, ¡este gato te tiene cubierto!\n\nAJUSTES DE IMPRESIÓN\nImpreso con una altura de capa de 0,20 mm.\n15% de relleno (panal 3D)\nSin soportes\n**Hecho para adaptarse a cualquier teclado MX Switch",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "gato",
+  "calabaza",
+  "taconeador",
+  "agitarse",
+  "juguete",
+  "regalo",
+  "escalofriante",
+  "lindo",
+  "decoración de halloween",
+  "bote"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USae3eaa922c01ba/design/2025-08-08_3a2c003e195c78.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   864,
+   864
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/1781190.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

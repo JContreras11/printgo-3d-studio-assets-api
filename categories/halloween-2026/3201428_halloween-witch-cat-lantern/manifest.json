@@ -1,0 +1,165 @@
+{
+ "files": [
+  {
+   "path": "model/linterna-gato-5h48.3mf.xz",
+   "instance_id": "3622860",
+   "thumbnail": "previews/profiles/3622860.jpg",
+   "print_time_h": 5.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 38,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1E",
+    "H2S",
+    "X2D",
+    "H2C",
+    "P1P",
+    "P1S",
+    "A2L",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.2mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 11287120,
+   "sha256": "52d9895457b4742e8a84e730765a1112d51c999bb8f1a4ddd8703e1c5b5c4a13",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/linterna-gato-5h.3mf.xz",
+   "instance_id": "3736240",
+   "thumbnail": "previews/profiles/3736240.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Infill optimized - save time and filament",
+    "profile_notes": "0.2mm layer, 3 walls, 10% infill Saves around: 3g of filament 6 minutes of print time",
+    "creation_date": "2026-09-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 11274884,
+   "sha256": "1b1f329d6aa4440175e65227acf2324223aaa83dc5afcf178ec8b50e5e39dd84",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3201428",
+ "title": "Linterna de gato bruja de Halloween",
+ "slug": "halloween-witch-cat-lantern",
+ "url": "https://makerworld.com/en/models/3201428-halloween-witch-cat-lantern",
+ "author": "Andy1017",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "ADVERTENCIA DE SEGURIDAD IMPORTANTE\n¡Utilice SÓLO una vela de té eléctrica/LED con este modelo!\nNO utilice una vela real ni una llama abierta. Los materiales impresos en 3D pueden ablandarse, deformarse o incendiarse cuando se exponen a altas temperaturas.\n\nLinterna de gato bruja de Halloween\n¡Aporta un ambiente espeluznante y mágico a tus decoraciones de Halloween con esta linda linterna de gato brujo!\nEste adorable gatito lleva un clásico sombrero de bruja y presenta un cuerpo cubierto de estrellas, lunas y patrones mágicos. Coloque una vela de té LED en el interior y observe cómo la luz cálida brilla maravillosamente a través de los detalles recortados.\n\nCon una vela de té LED:\nCrea un hermoso efecto brillante.\nLas estrellas y las lunas se iluminan maravillosamente\nDecoración perfecta para Halloween\nLindo diseño inspirado en un gato\nIdeal para estantes, mesas, armarios o alféizares.\nElección de filamento\nParece especialmente llamativo cuando se imprime en filamento naranja, rojo o translúcido, ¡pero siéntete libre de experimentar con diferentes colores y crear tu propia versión espeluznante!\n\nImpresión 3D\nEl modelo está diseñado como pieza decorativa y se puede imprimir sin un montaje complicado. Para obtener mejores resultados, ajuste la configuración de impresión según su impresora y filamento.\n\n¡Agrega un poco de magia a tu Halloween con este brillante Gato Brujo!\n\nRECUERDE: SÓLO velas de té LED/eléctricas. NUNCA utilice una vela real o una llama abierta dentro del modelo.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "gato brujo",
+  "linterna de gato",
+  "linterna",
+  "bruja",
+  "gato",
+  "linterna led",
+  "decoración espeluznante",
+  "decoración del hogar",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb5fd9f99dfb44f/design/9b01f047a6768ee9.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3622860.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3736240.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

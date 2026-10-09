@@ -1,0 +1,329 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-costilla-10h54.3mf.xz",
+   "instance_id": "3680904",
+   "thumbnail": "previews/profiles/3680904.jpg",
+   "print_time_h": 10.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 18,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill, AMS",
+    "profile_notes": "0.2mm layer, 2 walls, 20% infill, AMS",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12717104,
+   "sha256": "be888dbeba6ecd34336e191d08ab71a2010100173cf6a9ee0bb5083f0de5be35",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-costilla-4h.3mf.xz",
+   "instance_id": "3714656",
+   "thumbnail": "previews/profiles/3714656.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Smaller pumpkin (a1 mini) 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "made a smaller profile, to fit the a1 mini Smaller pumpkin (a1 mini) 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 12737788,
+   "sha256": "04f1a25260582dfdd64d8e796d9c35a05105bfddfd9bdf626a456e6b1c05f870",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-costilla-4h54.3mf.xz",
+   "instance_id": "3799087",
+   "thumbnail": "previews/profiles/3799087.jpg",
+   "print_time_h": 4.9,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2S",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "A2L",
+    "X2D",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "5% infill",
+    "profile_notes": "Removed unnecessary supports from both models. 5% infill; reduced top shells.",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 11758820,
+   "sha256": "03f024b55ba92c2cbeb14d16e61936249080c88c5cca87be08224be9e6bf8db5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-costilla-7h12.3mf.xz",
+   "instance_id": "3743032",
+   "thumbnail": "previews/profiles/3743032.jpg",
+   "print_time_h": 7.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "less infill, 0.2mm layer, 2 walls, 10% infill, AMS",
+    "profile_notes": "less infill, 0.2mm layer, 2 walls, 10% infill, AMS",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12717484,
+   "sha256": "bf8a5209b32ba137ad869ac8abfb562c1f494ad1c5dadefc594fe223805ae2c4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-costilla-7h48.3mf.xz",
+   "instance_id": "3715675",
+   "thumbnail": "previews/profiles/3715675.jpg",
+   "print_time_h": 7.8,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill, No AMS",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill, No AMS",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 13428712,
+   "sha256": "51eb6829ae5ad133c502001985bb31f5eea091b421f5c4b596a11975092e991a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-costilla-multicolor-3h06.3mf.xz",
+   "instance_id": "3834659",
+   "thumbnail": "previews/profiles/3834659.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "Reduced print time (3h), two-color without AMS, 1 build plate"
+   },
+   "name": "Multicolor",
+   "size": 11479612,
+   "sha256": "07518d9320d5b924d4f9af9c0883b219142cd523eded0bc228aca89e158b2afb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3248219",
+ "title": "Calabaza de costilla fina – JONE Autumn Sculptures",
+ "slug": "fine-rib-pumpkin-jone-autumn-sculptures",
+ "url": "https://makerworld.com/en/models/3248219-fine-rib-pumpkin-jone-autumn-sculptures",
+ "author": "Jone_Design",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Calabaza de costilla fina – JONE Autumn Sculptures\nUna calabaza de finas nervaduras para acogedores arreglos otoñales.\nConozca JONE Fine Rib Pumpkin: una escultura de calabaza minimalista con muchas ranuras estrechas y uniformes y un tallo resaltado por separado\nCon su forma tranquila, queda genial exhibido solo en un estante, o se puede combinar con setas, piñas, bellotas y otras calabazas de la colección JONE Autumn Sculptures.\n\nImpresión\nEste modelo ha sido probado con éxito como impresión FDM.\nEl cuerpo y el tallo de la calabaza quedan especialmente bonitos en dos colores cálidos y discretos: por ejemplo, blanco o crema con un tallo marrón. Una versión monocromática también queda bien.\nEl modelo se puede escalar en la segmentación.\n\nColección de esculturas de otoño JONE\nLa calabaza de costilla fina es parte de la creciente colección de esculturas de otoño de JONE\nSi te gusta esta colección, no dudes en seguir a JONE Design. También me encantaría recibir un Boost.\n\nRemezclar y compartir\nEste modelo se comparte bajo CC BY-NC-SA 4.0\n\n¡Diviértete imprimiendo!\n— Diseño JONE\n\nBoost Me¿Te gusta este modelo? Un impulso ayuda a respaldar creaciones de JONE Design más originales. ¡Gracias!\nMira mis otros modelos:",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "otoño",
+  "decoración de otoño",
+  "decoración",
+  "'decoración",
+  "caer",
+  "decoración del hogar",
+  "japonés"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa434660bd128f1/design/7aafb322ed266ad2.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3680904.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3714656.jpg": [
+   589,
+   763
+  ],
+  "previews/profiles/3799087.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3743032.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3715675.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3834659.jpg": [
+   600,
+   374
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

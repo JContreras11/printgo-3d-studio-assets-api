@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/emperatriz-grim.3mf.xz",
+   "instance_id": "2621027",
+   "thumbnail": "previews/profiles/2621027.jpg",
+   "print_time_h": 5.1,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 117,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "X2D",
+    "P1P",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1E",
+    "H2C",
+    "X1",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 20787452,
+   "sha256": "a2afbbc20cbc254e00f31caac6c8e1199403e4ae779bbbc4829d8d05a705c40a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2392309",
+ "title": "\"La Emperatriz Grim\" - Figura de la Señora Segadora Sentada",
+ "slug": "the-grim-empress-sitting-lady-reaper-figurine",
+ "url": "https://makerworld.com/en/models/2392309-the-grim-empress-sitting-lady-reaper-figurine",
+ "author": "AEMravan",
+ "category": "halloween-2026",
+ "source_category": "Arte > Esculturas",
+ "description": "“La emperatriz sombría”\nOk, ok, lo sé, he cargado bastantes de estos recientemente, me quedo atascado en un tema de diseño y las ideas se vuelven locas, este es el último de esta serie antes de volver a publicar más modelos de autos. Concluyendo la serie reciente con mi Lady Reaper sentada: \"The Grim Empress\". La guadaña es una pieza impresa separada para permitir una impresión más fácil y la capacidad de agregar algo de contraste al modelo. He considerado separar la base, pero finalmente decidí dejarla; la mayoría de mis modelos no están destinados a ser ensamblajes de varias partes con mucho detalle, sino más bien impresiones rápidas, divertidas y limpias para que la gente imprima y disfrute.",
+ "use_cases": [],
+ "tags": [
+  "segador",
+  "parca",
+  "señora segadora",
+  "cifra",
+  "figura 2026",
+  "figura 3d",
+  "figurilla",
+  "estatuilla 3d",
+  "estatuilla modelo 3d",
+  "estatuilla de impresión 3d",
+  "3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5073f33629168e/design/9c9bf5f79ea0bd2a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   1333
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2621027.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

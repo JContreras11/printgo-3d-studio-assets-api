@@ -1,0 +1,141 @@
+{
+ "files": [
+  {
+   "path": "model/twisty-ghost-8h42.3mf.xz",
+   "instance_id": "3501160",
+   "thumbnail": "previews/profiles/3501160.jpg",
+   "print_time_h": 8.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "A2L",
+    "X1",
+    "P1P",
+    "H2C",
+    "X1E",
+    "P2S",
+    "H2S",
+    "A1 mini"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Ghost Twisty Fidget",
+    "creation_date": "2026-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1912840,
+   "sha256": "e0de102f79d0a63579a7e5e6a5fb5e1aeda33c9d9194952456d555fdd128a47d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/twisty-ghost-monocolor-4h18.3mf.xz",
+   "instance_id": "3501211",
+   "thumbnail": "previews/profiles/3501211.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "H2C",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Ghost Twisty Fidget-Single Color",
+    "creation_date": "2026-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 1957400,
+   "sha256": "d712c3789fd6c58b72b880b6120917c9a2314268d09d0aeb0f29dad34300125b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3105604",
+ "title": "Twisty Ghost antiestrés Juguete Halloween Flexi Ghost",
+ "slug": "twisty-ghost-fidget-toy-halloween-flexi-ghost",
+ "url": "https://makerworld.com/en/models/3105604-twisty-ghost-fidget-toy-halloween-flexi-ghost",
+ "author": "HudsonHomestead",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Una licencia comercial para vender copias impresas de mis diseños está disponible a través de mi suscripción a Licencia Comercial de Patreon.\n¡Este adorable fantasma retorcido es un divertido juguete con temática de Halloween que se gira, se flexiona y se extiende para una diversión sin fin! Su linda cara espeluznante y su suave movimiento giratorio lo hacen perfecto para niños, coleccionistas, decoración de escritorio, obsequios para fiestas, obsequios de truco o trato o cualquier persona que ama Halloween.\n¡Combínalo con este estante fantasma!\n\nNotas de impresión:\nNo se requieren soportes.\nSi no se tuerce inmediatamente después de la impresión, mueva suavemente las secciones hacia adelante y hacia atrás para romper los pequeños sellos entre las capas.\nSe requiere AMS para los detalles faciales negros.\n¡Gracias por descargar mi diseño! Me encantaría ver tus impresiones, así que asegúrate de subir tus marcas y dejar una reseña. ¡Feliz impresión!",
+ "use_cases": [],
+ "tags": [
+  "fantasma",
+  "juguete fantasma",
+  "fantasma retorcido",
+  "retorcido",
+  "girar",
+  "inquietud retorcida",
+  "bola antiestrés retorcida",
+  "agitarse",
+  "juguete de halloween",
+  "juguetes de halloween"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc369c31abb48c1/design/2d45d885151e1700.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3501160.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3501211.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

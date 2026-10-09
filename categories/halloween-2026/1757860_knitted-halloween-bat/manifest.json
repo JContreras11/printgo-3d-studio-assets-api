@@ -1,0 +1,186 @@
+{
+ "files": [
+  {
+   "path": "model/murcielago-halloween-3h06.3mf.xz",
+   "instance_id": "1869639",
+   "thumbnail": "previews/profiles/1869639.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 268,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "X2D",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Separate Eyes, 0.12mm layer, 2 walls, 8% infill",
+    "profile_notes": "No AMS needed! Eyes need to be glued in.",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 19659968,
+   "sha256": "a8bf3bfdac98511c0d657675069e855766f2fc1c1a89f97ba7275be7cb3eb4f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/murcielago-halloween-1h12.3mf.xz",
+   "instance_id": "1914036",
+   "thumbnail": "previews/profiles/1914036.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 37,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "all parts on one plate sliced by object AMS or manual change",
+    "profile_notes": "nach Objekt gesliced, nur ein Farbwechsel Augen werden zuerst gedruckt, dann nach einem Farbwechsel wird der Körper auf derselben Platte gedruckt. hohl 0.16mm Schicht, 2 Wände, 0.6 mm Linienbreite, 0% Füllung, 0 untere Schichten Wenn Sie kein AMS haben, fügen Sie eine Pause bei Schicht 31 hinzu und setzen Sie den Druck nach dem Filamentwechsel fort.",
+    "creation_date": "2025-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 15413508,
+   "sha256": "1197062058170291289d2dfd7ff989d670f5a21c17e00c3d9eed87f6ab8e260f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/murcielago-halloween-3h30.3mf.xz",
+   "instance_id": "1869648",
+   "thumbnail": "previews/profiles/1869648.jpg",
+   "print_time_h": 3.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 87,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2S",
+    "X1",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "AMS, 0.16mm layer, 2 walls, 9% infill",
+    "profile_notes": "Assembled model",
+    "creation_date": "2026-07-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "9%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 19740652,
+   "sha256": "3f7c6762118bb5948a3382eb506629ef9299ab2bf02d3c1d7ffe8e9b66f2dddd",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1757860",
+ "title": "Murciélago de Halloween tejido",
+ "slug": "knitted-halloween-bat",
+ "url": "https://makerworld.com/en/models/1757860-knitted-halloween-bat",
+ "author": "Smoggy3D",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Animales",
+ "description": "Murciélago tejido\n\n¡No se necesita AMS! Sólo pega en los ojos.",
+ "use_cases": [],
+ "tags": [
+  "de punto",
+  "tejer",
+  "murciélago",
+  "murciélagos",
+  "animal",
+  "animales",
+  "víspera de todos los santos",
+  "halloween",
+  "decoración",
+  "no ams",
+  "sin ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1792615c2fd6df/design/12c9ab240f61bd6a.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1869639.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1914036.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/1869648.jpg": [
+   600,
+   391
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

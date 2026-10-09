@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/estacion-acoplamiento-24h24.3mf.xz",
+   "instance_id": "3461747",
+   "thumbnail": "previews/profiles/3461747.jpg",
+   "print_time_h": 24.4,
+   "plates": 13,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P1S",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "The Ultimate GTA VI Docking Station",
+    "profile_notes": "Layer height: 2.0 mm With supports 2 walls 15% infill Glue is needed for the light bulb.",
+    "creation_date": "2026-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 13
+   },
+   "name": "Versión estándar",
+   "size": 2883876,
+   "sha256": "4eb397ec13bc87d7762ebf7e10f6f110401894ea706244e334d6e02e448961e9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/estacion-acoplamiento-3h42.3mf.xz",
+   "instance_id": "3547091",
+   "thumbnail": "previews/profiles/3547091.jpg",
+   "print_time_h": 3.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "A1",
+    "A2L",
+    "X2D",
+    "P1S",
+    "X1",
+    "H2C",
+    "P1P",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Metal pillar - zero support",
+    "profile_notes": "No support for the metal pillar is needed.",
+    "creation_date": "2026-08-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1319792,
+   "sha256": "be242017e6166d3ea22ebfd16e6e5be46b5a47e203a9867f301c411733e9a682",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3074569",
+ "title": "La estación de acoplamiento definitiva para GTA VI",
+ "slug": "the-ultimate-gta-vi-docking-station",
+ "url": "https://makerworld.com/en/models/3074569-the-ultimate-gta-vi-docking-station",
+ "author": "DreamLayer",
+ "category": "gta-vi",
+ "source_category": "Atrezzo y cosplays > Otros atrezzo y cosplays",
+ "description": "La estación de acoplamiento definitiva para GTA VI: exhibición de coleccionistas de fan art\n*****Ya está disponible en los perfiles nuevo pilar metálico sin soportes. *****\n\n¡Lleva la atmósfera bañada por el sol y de alto riesgo de GTA directamente a tu escritorio o configuración de juego! Esta pieza de exhibición de varias partes, altamente detallada, es el tributo definitivo de los fanáticos a la próxima era de grandes robos. Diseñado para ser a la vez una pieza central visual llamativa y un acento funcional, presenta elementos icónicos que cualquier fanático de los juegos reconocerá de inmediato.\nCaracterísticas clave\nSoporte de controlador integrado: sostiene perfectamente su controlador de próxima generación justo detrás de la pieza central de la bóveda principal.\nEncabezado de cartelera icónico: presenta un diseño estilizado del logotipo \"VI\" y GTA integrado con siluetas de palmeras, seis marcas de impacto de bala visibles y reflectores decorativos en el techo montados en la parte superior. Los proyectores son de plástico, puramente decorativos, no funcionales y no emiten luz.\nThe Vault & Loot: cuenta con una detallada pieza central de minicaja fuerte flanqueada por una pila de lingotes de oro y un accesorio para teléfono \"iFruit\" para completar la estética del atraco.\nConstrucción modular: Diseñado para un ensamblaje limpio de varias piezas para facilitar la impresión en segmentos de color específicos sin requerir configuraciones complejas de varios colores o un gran volumen de desperdicio de filamento.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "unión cósmica",
+  "estación de acoplamiento"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USdf8d75d7b4e798/design/e99a3bfbd85bf87d.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3461747.jpg": [
+   600,
+   803
+  ],
+  "previews/profiles/3547091.jpg": [
+   600,
+   825
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

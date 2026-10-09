@@ -1,0 +1,144 @@
+{
+ "files": [
+  {
+   "path": "model/lampara-creator-3h48.3mf.xz",
+   "instance_id": "3659210",
+   "thumbnail": "previews/profiles/3659210.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "P2S",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-08-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1752484,
+   "sha256": "32ddd103b302c3e8e1dbe96127787d12603f76b2a33c135b6eee1a8aad0b8b16",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lampara-creator-3h48-2.3mf.xz",
+   "instance_id": "3713222",
+   "thumbnail": "previews/profiles/3713222.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "A2L",
+    "X2D",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2C",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "Full Pink Back (More Wall Light)",
+    "profile_notes": "Retro completamente fucsia per una luce a parete più intensa. Ottimizzato per NO AMS: permette di risparmiare un cambio filamento.",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1873148,
+   "sha256": "5537f1182db175e9e330b4d78e3619ed2273566f83c79a2bd9838a8e1331362e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3230748",
+ "title": "La lámpara Creator de GTA VI – Réplica de caja de luz LED",
+ "slug": "the-gta-vi-creator-lamp-led-lightbox-replica",
+ "url": "https://makerworld.com/en/models/3230748-the-gta-vi-creator-lamp-led-lightbox-replica",
+ "author": "daddi1998",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Probablemente ya hayas visto esta lámpara.\n\nEsta caja de luz es mi recreación imprimible en 3D de la lámpara estilo GTA VI que vieron los creadores que asistieron a la demostración/vista previa exclusiva del juego de Rockstar.\n\nEn lugar de simplemente hacer un logotipo decorativo, quería recrear el aspecto real de esa caja de luz de palmera VI, ahora reconocible al instante, como un objeto físico que cualquiera puede imprimir en casa.\n\nEl modelo está diseñado específicamente para impresión FDM y sólo requiere:\nPLA blanco\nPLA negro\niluminación LED\n\nSólo se requieren dos colores de filamento.\nSe recomienda AMS, pero no es obligatorio.\nEl modelo también se puede imprimir sin AMS utilizando la función Multicolor externo de Bambu Studio. La impresión requiere 6 cambios manuales de filamento entre PLA blanco y negro.\n\nPara la versión estándar de MakerWorld, la lámpara está diseñada para funcionar con el kit de tira de luces LED RGB WS2812B disponible a través de MakerWorld.\nTambién estoy construyendo mi versión SMART personal usando un Wemos D1 Mini + una tira de LED corta WS2812B, que permite control de Wi-Fi, colores personalizados, animaciones y efectos de iluminación.\nLa electrónica permanece oculta dentro del cuerpo, por lo que desde fuera todavía parece una caja de luz con pantalla limpia.\nPerfecto para:\nSala de juegos\nconfiguración de computadora\nEscritorio temático GTA / Vice City\nLuz ambiental\nRegalo para un fanático de GTA\nExhibición de la colección de juegos\n\nEl modelo ha sido diseñado teniendo en cuenta la impresión y el montaje, en lugar de simplemente convertir un logotipo en un STL.\nImprímelo. Enciéndelo. Bienvenidos de nuevo a Vice City.",
+ "use_cases": [],
+ "tags": [
+  "gta vi",
+  "gta 6",
+  "gta",
+  "vice city",
+  "juegos de estrellas de rock",
+  "caja de luz",
+  "caja de luz led",
+  "juego de azar",
+  "sala de juegos",
+  "configuración de juego",
+  "lámpara led",
+  "lámpara"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US48b42a6962404d/design/44c6cccba08c8cd1.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3659210.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3713222.jpg": [
+   600,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

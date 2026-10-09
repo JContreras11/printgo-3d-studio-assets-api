@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/logotipo-rockstar.3mf.xz",
+   "instance_id": "2463361",
+   "thumbnail": "previews/profiles/2463361.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "P2S",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-01-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1086464,
+   "sha256": "1caf93fa6898022469ce694d1965fe81f6d3ee3678abff8fae77b5ef563beead",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2260917",
+ "title": "Logotipo de Rockstar - Tecla de perfil OSA",
+ "slug": "rockstar-logo-osa-profile-keycap",
+ "url": "https://makerworld.com/en/models/2260917-rockstar-logo-osa-profile-keycap",
+ "author": "kernel_pan1c",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Tapa de tecla OSA con logotipo de Rockstar\nAñade un poco de caos en los juegos a tu teclado con esta tecla OSA con el logotipo de Rockstar. Limpio, audaz y reconocible al instante, es una manera fácil de darle actitud a tu tablero sin exagerar. Funciona muy bien como tecla M, tecla macro o simplemente como acento destacado.\nCaracterísticas:\nPerfil OSA, cómodo y familiar para escribir\nVástago Cherry MX, se adapta a la mayoría de interruptores mecánicos\nDiseño clásico del logotipo de la estrella Rockstar.\nPerfecto para teclas de novedad, acento o \"por qué no\"\nConfiguración de impresión:\nAltura de la capa: 0,16–0,2 mm\nRelleno: ~15–20%\nApoyos: Necesarios\nImprima con el tallo hacia abajo para un mejor ajuste.\nSe admite la impresión multicolor si desea que el logotipo destaque, pero el color único aún se ve limpio\nNotas:\nSe adapta a Cherry MX, Gateron, Kailh y otros interruptores estilo MX\nPruebe siempre el ajuste antes de imprimir un montón\nSi el tallo está apretado, se suele arreglar con una lija ligera.\nBueno para los nerds del teclado, los jugadores o cualquier persona que quiera que su configuración no se tome demasiado en serio.",
+ "use_cases": [],
+ "tags": [
+  "estrella de rock",
+  "gta",
+  "tecla",
+  "jugador",
+  "naranja",
+  "gta6"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScbe86c07207ab5/design/2026-01-18_9a94dac24da6e8.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/profiles/2463361.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

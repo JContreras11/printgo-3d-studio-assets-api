@@ -1,0 +1,182 @@
+{
+ "files": [
+  {
+   "path": "model/letrero-escritorio-6h54.3mf.xz",
+   "instance_id": "627094",
+   "thumbnail": "previews/profiles/627094.jpg",
+   "print_time_h": 6.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 68,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "ironing on topmost layer to make the text pop",
+    "profile_notes": "Ironing on topmost surface to make the text pop You can select your filament colour for text and background 0.2mm layer height 2 walls 15% infill",
+    "creation_date": "2025-02-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8622,
+      "weight_g": 74.02,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 16088,
+      "weight_g": 148.72,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2532424,
+   "sha256": "215d06380ab5f5aa6bf8ec89d6045710d5ff17c3109cf543afcc59c579caa02a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/letrero-escritorio-1h12.3mf.xz",
+   "instance_id": "2394404",
+   "thumbnail": "previews/profiles/2394404.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1S",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "H2D Pro",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "75% 25 g 1hour",
+    "profile_notes": "75% 25 g 1hour on P2S 97mm wide",
+    "creation_date": "2026-01-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2600888,
+   "sha256": "2b7d087014cb3179f0b3a2f0e6fe7d34314491784faec96e560a9ff0d0eb42e0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "697972",
+ "title": "Letrero de escritorio de Grand Theft Auto: logotipo icónico de GTA",
+ "slug": "grand-theft-auto-desk-sign-iconic-gta-logo",
+ "url": "https://makerworld.com/en/models/697972-grand-theft-auto-desk-sign-iconic-gta-logo",
+ "author": "DBComponents",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Qué muestra tu amor por la legendaria serie Grand Theft Auto con este letrero de escritorio imprimible en 3D. Si eres fanático de la acción, las aventuras de mundo abierto o simplemente el caos que trae GTA, este logotipo de escritorio es la manera perfecta de agregar un poco de cultura de juego a tu espacio.\nEste modelo incluye dos planchas para impresión flexible:\nPlaca 1: Presenta un modelo de 150 mm de ancho, ideal para configuraciones más pequeñas o pantallas más compactas.\nPlaca 2: Presenta un modelo más grande de 220 mm de ancho, para aquellos que buscan causar mayor impacto con su decoración.\nImpulsame¿Te gustan mis modelos? Considere dejar un impulsoYa sea que elija el tamaño estándar o el tamaño más grande, este letrero de escritorio de Grand Theft Auto es el complemento perfecto para su espacio de juego.\nCaracterísticas clave:\nLogotipo clásico de GTA: este letrero de escritorio, que muestra la icónica marca Grand Theft Auto, es imprescindible para los fanáticos del mundo audaz y caótico del juego.\nPerfecto para exhibición: ya sea que elija la versión de 150 mm o 220 mm, este letrero de escritorio encajará perfectamente en su escritorio, estante o cualquier área de juego.\n¡Descarga tu cartel de escritorio de Grand Theft Auto hoy y trae un pedazo de las calles a tu configuración de juego!",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 3",
+  "gta 5",
+  "logotipo de gta 5",
+  "gta 1",
+  "gta 6",
+  "grand theft auto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-10-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1723d41471a501/design/2024-10-12_c784996106cbf.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/profiles/627094.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2394404.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

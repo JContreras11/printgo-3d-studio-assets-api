@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/gta6-lucia.3mf.xz",
+   "instance_id": "3409642",
+   "thumbnail": "previews/profiles/3409642.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2S",
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "P1P",
+    "H2C",
+    "A2L",
+    "A1",
+    "X2D",
+    "H2D Pro",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm 层高, 2 层墙, 5% 填充",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22739124,
+   "sha256": "9a08edcfc873c65825fd7623b31f0f645fabb68736a90b0257f764c428eac2cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3033309",
+ "title": "GTA6 Lucia Caminos",
+ "slug": "gta6-lucia-caminos",
+ "url": "https://makerworld.com/en/models/3033309-gta6-lucia-caminos",
+ "author": "user_2295488044",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Lucía Caminos, un personaje virtual femenino, es la protagonista del juego Grand Theft Auto VI. El juego es la primera secuela principal de la serie desde GTA 5 y marca la primera introducción de una protagonista femenina en la serie, cuyo lanzamiento está previsto para el 19 de noviembre de 2026. El juego se lanzará inicialmente en las plataformas PS5 y Xbox Series X S. Su historia se desarrolla en el estado ficticio de Leonida y 'Vice City', que sigue el modelo de Miami. En GTA6, Lucia forma un dúo criminal con Jason Duwa y la historia gira en torno a ellos.\nComo mujer latina, Lucía y su novio Jason se dan cuenta de la injusticia del destino. Viajan a Leonida para participar en una operación, pero sufren un accidente que revela el lado oscuro de la región y, en última instancia, los involucra en una conspiración criminal a nivel estatal.",
+ "use_cases": [],
+ "tags": [
+  "juego",
+  "gta6",
+  "gta5",
+  "gta",
+  "estrella r",
+  "estrella de rock"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US38f9b7da13f1ae/design/324bfd105ca1e155.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.png": [
+   1000,
+   1780
+  ],
+  "previews/profiles/3409642.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

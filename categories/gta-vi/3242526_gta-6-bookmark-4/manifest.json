@@ -1,0 +1,148 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6-1h30.3mf.xz",
+   "instance_id": "3673981",
+   "thumbnail": "previews/profiles/3673981.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "A2L",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "AMS version 0.08mm layer, 2 walls, 100% infill",
+    "profile_notes": "AMS version with color change at layer 8 0.08mm layer 0.16mm first layer 100% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4921204,
+   "sha256": "57702285d0509b3237c7b0ceba87de98e71a033b41d7ea610c99a9b8ddcf41f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/gta-6-1h30-2.3mf.xz",
+   "instance_id": "3673989",
+   "thumbnail": "previews/profiles/3673989.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "P2S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "H2C",
+    "X2D",
+    "X1",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "No AMS version with pause 0.08mm layer, 2 walls, 100% infill",
+    "profile_notes": "No AMS version with pause added at layer 8 to manually change color 0.08mm layer 0.16mm first layer 100% infill",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.08",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5169820,
+   "sha256": "9673003f29c488f191513282eccad37d9d1d76ce00ab61d27a39215b806dca4c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3242526",
+ "title": "GTA 6 marcador 4",
+ "slug": "gta-6-bookmark-4",
+ "url": "https://makerworld.com/en/models/3242526-gta-6-bookmark-4",
+ "author": "AdamWyp",
+ "category": "gta-vi",
+ "source_category": "Arte > Arte 2D",
+ "description": "Impúlsame. Si encuentras mi arte lo suficientemente bueno, considera impulsarlo;) gracias.\nhaga clic en el banner para apoyarme u obtener una licencia comercial para poder vender impresiones\n*ser honesto, respetar el trabajo de alguien*\n\nPara que quepa en A1 mini sin riesgo, dimensione unos 5 mm menos desde arriba y desde abajo (cambie solo los ejes X e Y, no cambie el eje Z)\nO simplemente gírelo en ángulo para que quepa solo un marcapáginas a la vez.\nImprima al 100% de relleno con una altura de capa de 0,08 mm y una capa base de 0,16 mm\n\nUtilice un soplete de llama pequeña para eliminar las pequeñas impurezas.\nEl modelo tiene un tamaño de 50x180 mm.\nFilamentos utilizados:\n#000000 PLA Kingroon Negro Distancia de transmisión: 0.4\n#ecffff PLA Kingroon Blanco Distancia de transmisión: 4.7\nEsta impresión utiliza 2 filamentos únicos, pero siéntete libre de usar el tuyo, juega con los colores para obtener resultados diferentes;)\n\nInstrucciones de intercambio:\nComience con Kingroon Black\nEn la capa 8 (0,72 mm), cambie a Kingroon White para el resto.\n\nGracias por probar mi modelo;)\nEncuentre todos mis favoritos en este enlace:",
+ "use_cases": [],
+ "tags": [
+  "arte 2d",
+  "arte 2d 2024",
+  "arte 2d 2025",
+  "arte 2d 2026",
+  "arte 2d ams listo",
+  "arte",
+  "arte 2",
+  "arte 20",
+  "'decoración",
+  "decoración"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-31",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US12d32f22b9c355/design/c08b1bc63620c0d1.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3673981.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3673989.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/caja-luz.3mf.xz",
+   "instance_id": "3726836",
+   "thumbnail": "previews/profiles/3726836.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A2L",
+    "H2C",
+    "P1P",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1",
+    "P1S",
+    "H2D",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A2L",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1805156,
+   "sha256": "5882ee38ed48ad0865cdb341d69b42dfde5b081ffe5816d172000e70a67fe590",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3285289",
+ "title": "Caja de luz GTA 6",
+ "slug": "light-box-gta-6",
+ "url": "https://makerworld.com/en/models/3285289-light-box-gta-6",
+ "author": "StragglezItalia",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Caja de luz original con el logotipo de GTA 6 y panel trasero blanco.\n¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "caja de luz",
+  "gran robo de autos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd976850160cfc6/design/1dc81de301cf7279.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   896,
+   1195
+  ],
+  "previews/02.png": [
+   880,
+   1209
+  ],
+  "previews/profiles/3726836.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

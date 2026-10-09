@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/up-n.3mf.xz",
+   "instance_id": "1743802",
+   "thumbnail": "previews/profiles/1743802.jpg",
+   "print_time_h": 11.9,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 46,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.08.04.51",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "profile_notes": ".20mm layer height supports enabled",
+    "creation_date": "2025-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 2642012,
+   "sha256": "2a000311f3e715a823ab86dc7ad72f5ab46a9eb17351a3ea18d494d0dbd80601",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1649528",
+ "title": "Up-N-Atomizer - Réplica de utilería de Grand Theft Auto 5",
+ "slug": "up-n-atomizer-grand-theft-auto-5-prop-replica",
+ "url": "https://makerworld.com/en/models/1649528-up-n-atomizer-grand-theft-auto-5-prop-replica",
+ "author": "Forg3D_Design",
+ "category": "gta-vi",
+ "source_category": "Atrezzo y cosplays > Armas de cosplay",
+ "description": "Da vida a una pieza de Grand Theft Auto V con esta réplica imprimible en 3D del Up-N-Atomizer, la icónica pistola de rayos de ciencia ficción conocida por sus colores brillantes y su estilo caricaturesco. Diseñado pensando en el cosplay y la exhibición, este modelo es perfecto para jugadores, creadores y coleccionistas.\n\nA medida que se acerca GTA 6, quería empezar a hacer algunos elementos de GTA 5 como un guiño al juego que me ha traído mucho entretenimiento a lo largo de los años, llevándolos desde la maravillosa ciudad de Los Santos al mundo real.\n\nOrientación optimizada para una fácil impresión y montaje.\nNo se requiere AMS: imprima cada color como partes individuales\nPlacas de construcción organizadas para enviar e imprimir\nIncluye:\nModelo completo Up-N-Atomizer dividido en componentes individuales\nDetalles del gatillo y el cañón para mayor realismo (todo estático; no funciona)\nFácil de montar: úselo con el pegamento de su elección; consulte la foto del análisis seccional\nDimensiones del modelo (ensamblado):\nAproximadamente 340 mm de largo x 190 mm de alto)\n\nConfiguraciones recomendadas:\nAltura de la capa: 0,2 mm\nRelleno: 10–20%\nSoportes: Mínimo\nMaterial: PLA recomendado para facilitar su uso.\nIdeal para:\nFanáticos de GTA V\nCosplay y convenciones\nDecoración de la habitación con temática de juegos.\nCreadores que aman los accesorios de juegos",
+ "use_cases": [],
+ "tags": [
+  "gta 5",
+  "gta",
+  "grand theft auto",
+  "grand theft auto 6",
+  "gta5",
+  "gta6",
+  "gta 6",
+  "cosplay",
+  "accesorios",
+  "arma de utilería",
+  "láser retro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US944c8fd23c56bc/design/2025-07-28_f72e4fb294c888.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   749
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   986,
+   549
+  ],
+  "previews/profiles/1743802.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

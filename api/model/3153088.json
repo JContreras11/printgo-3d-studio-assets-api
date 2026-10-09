@@ -1,0 +1,117 @@
+{
+ "files": [
+  {
+   "path": "model/reloj-pared.3mf.xz",
+   "instance_id": "3562063",
+   "thumbnail": "previews/profiles/3562063.jpg",
+   "print_time_h": 8.2,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "H2D",
+    "H2S",
+    "P2S",
+    "H2C",
+    "A2L",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 7689008,
+   "sha256": "6c4b51dda6f583af3898aed9d2963009f9f224264eb5646c95ff672a6e1be8be",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3153088",
+ "title": "Reloj de pared modular – Edición GTA VI",
+ "slug": "modular-wall-clock-gta-vi-edition",
+ "url": "https://makerworld.com/en/models/3153088-modular-wall-clock-gta-vi-edition",
+ "author": "purgosse",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Reloj de pared modular intercambiable – GTA VI\n¿Estás contando los días para el lanzamiento de GTA VI?\nSolo quedan unos meses más de espera antes de volver a sumergirse en las calles de Vice City...\nMientras tanto, lleva la atmósfera del juego a tu hogar con este reloj de pared inspirado en el universo de neón, los autos icónicos y la vibra única de Grand Theft Auto VI.\nSu diseño presenta los colores icónicos de Vice City en un estilo retro moderno, al tiempo que conserva el sistema modular Creazor que permite reemplazar solo el dial sin reimprimir todo el reloj.\nRecomiendo encarecidamente imprimirlo con una boquilla de 0,2, ya que así los detalles quedarán más resaltados.\nPOR QUÉ ESTE MODELO ES ÚNICO\nSistema modular de 3 partes\nFijación directa del mecanismo\nSujeción reforzada con 2 bridas integradas.\nSoporte de pared integrado\nSistema de enclavamiento de rótula\nCompatibilidad universal\nDIMENSIONES\nDiámetro: 235 mm\nGrosor: 34mm\n\nELECCIÓN DEL MECANISMO\n¿Qué mecanismo es compatible?\nLa respuesta es sencilla: se pueden utilizar prácticamente todos los mecanismos disponibles comercialmente.\nEl diámetro del orificio central se puede modificar fácilmente para adaptarlo a su mecanismo.\nRecomendación:\nEje roscado de al menos 15 mm.\nCONTENIDO DEL MODELO\nDial frontal (GTA VI)\nparte media\nCarcasa trasera\nSistema de suspensión integrado\nSoportes de sujeción de mecanismos (cremallera)\nManos (según versión): Lima manos\n\nMONTAJE SENCILLO Y RÁPIDO\nimprimir las piezas\nConecte el mecanismo al dial.\nAsegúrelo con una brida (recomendado)\ninstalar las manos\nAgrega la parte central\nCerrar con la tapa trasera.\nMontar en la pared con un tornillo.\n\nSISTEMA 100% INTERCAMBIABLE\nTodos mis relojes usan el mismo sistema.\nPuedes:\nCambiar solo el dial\nMantén la misma base\nMultiplica diseños fácilmente\n\n¡Ahorra filamento y tiempo!\nCOLECCIÓN EN DESARROLLO\nVienen muchos modelos:\nautomóvil\nmotocicleta\nJuegos\nCine y Series\nArte callejero\nDiseños Técnicos\n\n¡Suscríbete para no perderte nada!\nSOPORTE\nSi te gusta este modelo:\nDescárgalo\nSuscríbete\ndeja un me gusta",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "vice city",
+  "juego de azar",
+  "adicto",
+  "gta vi",
+  "grand theft auto",
+  "juego",
+  "xbox"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US85db3cc325e422/design/bf13ec103ca27b67.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.webp",
+  "previews/05.webp",
+  "previews/06.webp",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1000
+  ],
+  "previews/04.webp": [
+   900,
+   900
+  ],
+  "previews/05.webp": [
+   900,
+   900
+  ],
+  "previews/06.webp": [
+   900,
+   900
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3562063.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

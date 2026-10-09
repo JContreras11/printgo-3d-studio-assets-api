@@ -1,0 +1,131 @@
+{
+ "files": [
+  {
+   "path": "model/gta-toreador.3mf.xz",
+   "instance_id": "3422326",
+   "thumbnail": "previews/profiles/3422326.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2C",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "P1P",
+    "H2S",
+    "P2S",
+    "A2L",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "GTA Toreador - Pool Car",
+    "profile_notes": "🖨️ Print Profile This profile is optimized for easy and reliable printing . ✅ Layer Height: 0.20 mm ✅ No Supports Required ✅ Compatible with PLA and PETG ✅ Strong bed adhesion is important for the best print quality and dimensional accuracy. For an even smoother surface finish, you can also use a 0.16 mm layer height . This increases the print time to approximately 2 hours , but results in a cleaner-looking model. Happy printing! 🚤",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3729848,
+   "sha256": "394c84cbaac99ec12a5612ea0a9a372b9ab801de940abcbcb7181fcd6dc663f0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3043178",
+ "title": "GTA Toreador - Coche de piscina",
+ "slug": "gta-toreador-pool-car",
+ "url": "https://makerworld.com/en/models/3043178-gta-toreador-pool-car",
+ "author": "S235jr",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Juguetes al aire libre",
+ "description": "Coche de piscina Toreador\nEl Toreador Pool Car es un homenaje al legendario vehículo anfibio de GTA 5.\nCon su forma de cohete y su parte inferior especialmente lisa y sin molestos bordes, el modelo resulta sorprendentemente divertido en el agua. Lánzalo con algo de impulso por la superficie del agua y observa cómo se desliza sobre ella. O empujarlo bajo el agua y luego regresará a la superficie casi como un cohete.\n¿Necesitas esto? Probablemente no.\n¿Es divertido? ¡Definitivamente! Y, sinceramente, es mejor jugar al aire libre junto al agua que sentarse frente a la consola todo el día.\nGTA 6 entrante... tos\nImprimir información\nNo se requiere soporte\nFácil de imprimir en PLA o PETG\nAprox. Tiempo de impresión de 1,5 horas (perfil de 0,20 mm)\nAprox. 40 gramos de filamento\nPara una superficie especialmente bonita, recomiendo el perfil de 0,16 mm. Como resultado, el tiempo de impresión aumenta a aproximadamente 2 horas, pero el resultado parece aún de mayor calidad.\n¡Diviértete imprimiéndolo y probándolo!",
+ "use_cases": [],
+ "tags": [
+  "piscina",
+  "auto",
+  "bote",
+  "juguete",
+  "niños",
+  "imprimir",
+  "p1s",
+  "a1 mini",
+  "tendencia",
+  "3d",
+  "impresión fácil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6afafbb1789002/design/d29ce82bb1ca9572.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.gif",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   270,
+   480
+  ],
+  "previews/02.gif": [
+   318,
+   480
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   1333
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3422326.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

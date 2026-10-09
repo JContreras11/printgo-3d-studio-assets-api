@@ -1,0 +1,154 @@
+{
+ "files": [
+  {
+   "path": "model/grand-theft.3mf.xz",
+   "instance_id": "730798",
+   "thumbnail": "previews/profiles/730798.jpg",
+   "print_time_h": 4.1,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "creation_date": "2025-03-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9218,
+      "weight_g": 60.63,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F9A846"
+       },
+       {
+        "type": "PLA",
+        "color": "#2850E0"
+       },
+       {
+        "type": "PLA",
+        "color": "#F330F9"
+       },
+       {
+        "type": "PLA",
+        "color": "#A03CF7"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2754,
+      "weight_g": 14.79,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       },
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2723,
+      "weight_g": 21.34,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#A03CF7"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 1524268,
+   "sha256": "dde2a7ed989a139b5e0ba6f9eb5b38961c0b72db9099ba166bcc5ca02c8bb84c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "792219",
+ "title": "Grand Theft Auto VI - GTA 6 - Señal - LED listo",
+ "slug": "grand-theft-auto-vi-gta-6-sign-led-ready",
+ "url": "https://makerworld.com/en/models/792219-grand-theft-auto-vi-gta-6-sign-led-ready",
+ "author": "wootje13",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Mi propia interpretación del próximo logotipo de Grand Theft Auto VI - GTA 6. Seguí adelante y diseñé algo que de alguna manera representa el logotipo de Rockstar GTA 6.\n\nmezcla de colores\nCon un AMS y limitado a 4 colores, jugué mezclando colores imprimiendo 2 capas finas de 2 mm en diferentes colores. El resultado está bien. ¡Esto significa que no se puede confiar en los colores de vista previa! Si desea desactivar esta función, puede establecer el mismo color para las piezas:\nGTA-bg-1.stl, GTA-bg-2.stl y GTA-bg-3.stl\nImprimir violeta sobre rosa le dará a la capa rosa un tinte más oscuro\nImpresión de dos partes\nEl texto en blanco y negro se puede imprimir por separado y simplemente se ajusta al frente. Se recomienda un poco de pegamento cuando se trata de un regalo para otra persona.\n\nLED listo\nEl letrero se ha hecho hueco para ahorrar algo de filamento, pero esto también hace que sea muy fácil agregar LED a la mezcla. Puedes encontrar una placa trasera incluida para poder cerrarlo, pero es opcional. Cuando sea necesario, puedes utilizar un volumen negativo para crear un orificio para el cable.\n\nConfiguración de impresión y opciones de diseño\nEs una impresión sencilla que, cuando se orienta correctamente, no requiere ningún material de soporte y utiliza la placa de construcción para lograr un bonito acabado superficial. Además, el número de cambios de filamento se ha mantenido al mínimo para reducir el desperdicio y minimizar los fallos de impresión.\nPor supuesto, eres libre de jugar con la combinación de colores y estoy deseando ver qué se te ocurre.\n\nContribuyendo\nDespués de vender un montón de estos el año pasado, haré que el diseño esté disponible públicamente para que otros (con suerte) lo disfruten. He usado y abusado de muchos diseños disponibles gratuitamente sin aportar mucho a cambio.\n\nArchivos fuente\nPerdí los archivos fuente originales en Fusion y es por eso que no puedo compartirlos ni realizar modificaciones importantes.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "grand theft auto",
+  "juego de azar",
+  "arte de juego",
+  "florida",
+  "estrella de rock",
+  "iv"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-11-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3da2a37a312782/design/2024-11-16_ccfc73380ecd8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   753
+  ],
+  "previews/02.jpg": [
+   1000,
+   753
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/730798.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

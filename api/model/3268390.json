@@ -1,0 +1,92 @@
+{
+ "files": [
+  {
+   "path": "model/caja-luz.3mf.xz",
+   "instance_id": "3705782",
+   "thumbnail": "previews/profiles/3705782.jpg",
+   "print_time_h": 11.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "P1S",
+    "X1E",
+    "P2S",
+    "X1",
+    "H2S",
+    "H2D Pro",
+    "P1P",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 24351848,
+   "sha256": "a735f72960a6585723f275abe9bfc89662a43ac9ef4fcc06a02e12e487422419",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3268390",
+ "title": "Caja de luz Lucia y Jason para GTA 6 - Litófano",
+ "slug": "gta-6-lucia-jason-lichtbox-litophane",
+ "url": "https://makerworld.com/en/models/3268390-gta-6-lucia-jason-lichtbox-litophane",
+ "author": "Daniel_9303",
+ "category": "gta-vi",
+ "source_category": "Arte > Señales y logotipos",
+ "description": "GTA 6 – Caja de luz de Lucia y Jason Lithophane\nDale a tu hogar un aspecto de juego especial. Esta caja de luz de litófano imprimible en 3D presenta a Lucia y Jason de GTA 6 como una imagen en relieve atmosférica. Con iluminación LED en el interior, el diseño resulta particularmente hermoso y crea un efecto brillante único.\nPerfecto para los fanáticos de GTA y como elemento decorativo para escritorios o estantes de salas de juegos.\n\nMe encantaría recibir una reseña honesta.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "gta6fanart",
+  "litofano"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbe13b1b8ab9559/design/b69211e1f6cb330c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   563,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   563
+  ],
+  "previews/03.jpg": [
+   1000,
+   1045
+  ],
+  "previews/profiles/3705782.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

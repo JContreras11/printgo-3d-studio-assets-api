@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/conjunto-decoracion.3mf.xz",
+   "instance_id": "3618013",
+   "thumbnail": "previews/profiles/3618013.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 50,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A2L",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "2 parts 0.2mm layer, 2 walls, 5% infill",
+    "profile_notes": "2 parts 0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-08-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 28826252,
+   "sha256": "d4a5fe70bc9ec7a319a115cfcb189bb67b4740f9d3f2f1ab7cd54dd867108747",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3197437",
+ "title": "Conjunto de decoración de calabaza de otoño Fuzzy SkinFall Home Decor",
+ "slug": "autumn-pumpkin-decor-set-fuzzy-skinfall-home-decor",
+ "url": "https://makerworld.com/en/models/3197437-autumn-pumpkin-decor-set-fuzzy-skinfall-home-decor",
+ "author": "NowCraft3D",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Un elegante conjunto de decoración otoñal con dos calabazas decorativas en una forma limpia y elegante imprimible en 3D.\nEl juego incluye una calabaza más grande con un tallo marrón chocolate y una calabaza más pequeña a juego, perfecta para exhibiciones de temporada y arreglos hogareños acogedores.\nEl modelo está diseñado con un efecto de superficie Fuzzy Skin, que le da a las calabazas una apariencia de textura suave y al mismo tiempo mantiene la forma general simple y moderna.\nFuncionan maravillosamente como decoración de estantes de otoño, decoración de mesas, piezas de diseño de bandejas o acentos de temporada para salas de estar, entradas e interiores con temática otoñal.\nPerfecto para cualquiera que disfrute:\ndecoración del hogar de otoño\ndecoraciones minimalistas de temporada\nelegantes adornos impresos en 3D\nestilo otoñal cálido y acogedor",
+ "use_cases": [],
+ "tags": [
+  "otoño",
+  "calabaza",
+  "'decoración",
+  "decoración",
+  "colocar",
+  "difuso",
+  "piel",
+  "caer",
+  "'hogar",
+  "decoración del hogar",
+  "arte"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfea5d0750ddbe8/design/49bd2565b228edd9.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3618013.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

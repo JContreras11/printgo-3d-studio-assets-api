@@ -1,0 +1,230 @@
+{
+ "files": [
+  {
+   "path": "model/set-decoracion-3h06.3mf.xz",
+   "instance_id": "2007475",
+   "thumbnail": "previews/profiles/2007475.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 39,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "X1",
+    "P1P",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "SMALL - PUMPKIN FUZZY",
+    "creation_date": "2025-10-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 6404376,
+   "sha256": "b1a7698845a1130b2f4357a0f8b818e53527e7909e941d3ef138d6ea3bcf5716",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-decoracion-15h.3mf.xz",
+   "instance_id": "3850911",
+   "thumbnail": "previews/profiles/3850911.jpg",
+   "print_time_h": 15,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "P1P",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Solid Pumpkin – Faster & Less Filament",
+    "profile_notes": "Versión optimizada del modelo original. Las calabazas se han modificado para que sean completamente sólidas en lugar de estar huecas por dentro, permitiendo controlar el interior mediante el infill. Este perfil utiliza 4% de relleno , reduciendo considerablemente el consumo de filamento y el tiempo de impresión, manteniendo al mismo tiempo una buena estructura y acabado. El conjunto incluye 3 calabazas de diferentes tamaños , ideales para decoración de Halloween o como decoración otoñal. 🎃 3 tamaños diferentes 🧵 Menor consumo de filamento ⏱️ Impresión más rápida ⚙️ 4% de infill",
+    "creation_date": "2026-10-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "4.5%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 4266112,
+   "sha256": "044900af4a6521b61b5d44a8b632d0c6a72ff93e57cfa44c48fa058132894427",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-decoracion-6h.3mf.xz",
+   "instance_id": "2007483",
+   "thumbnail": "previews/profiles/2007483.jpg",
+   "print_time_h": 6,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "MEDIUM - PUMPKIN FUZZY",
+    "creation_date": "2025-10-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 6425248,
+   "sha256": "9182ca23af0be777802214e8551a4ebabbd3cfe2ec81fa639cdd29dd517b3a49",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/set-decoracion-8h36.3mf.xz",
+   "instance_id": "2007486",
+   "thumbnail": "previews/profiles/2007486.jpg",
+   "print_time_h": 8.6,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "P1P",
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "LARGE - PUMPKIN FUZZY",
+    "creation_date": "2025-10-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión grande",
+   "size": 6442196,
+   "sha256": "7b13c33cdcfe9bc057283df586a8e2fc43925d54df8cc481cee44a3a0892eeb2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1875222",
+ "title": "SET DE DECORACIÓN FUZZY DE CALABAZA",
+ "slug": "pumpkin-fuzzy-decoration-set",
+ "url": "https://makerworld.com/en/models/1875222-pumpkin-fuzzy-decoration-set",
+ "author": "4maLab",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "SET DE DECORACIÓN DE CALABAZA DE HALLOWEEN\nUn conjunto minimalista de tres calabazas decorativas de diferentes tamaños, perfecto para exhibiciones con temática de Halloween o otoño.\nCada calabaza presenta una superficie texturizada realista y una pieza de tallo separada que se puede imprimir individualmente y unir con una pequeña gota de pegamento.\nLos cuerpos de las calabazas son huecos para ahorrar material y los soportes están diseñados a medida para facilitar su extracción.\nNo se requiere AMS.",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2025",
+  "decoración",
+  "decoración 2025",
+  "mínimo",
+  "minimalista",
+  "caer",
+  "otoño",
+  "víspera de todos los santos",
+  "hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US310af418909a5e/design/2025-10-10_1159dd2c75d1.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2007475.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3850911.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/2007483.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2007486.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

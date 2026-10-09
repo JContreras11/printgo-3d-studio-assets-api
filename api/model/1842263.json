@@ -1,0 +1,188 @@
+{
+ "files": [
+  {
+   "path": "model/parca-halloween-3h12.3mf.xz",
+   "instance_id": "1968267",
+   "thumbnail": "previews/profiles/1968267.jpg",
+   "print_time_h": 3.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 155,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1S",
+    "P1P",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Separate Parts, 0.12mm layer, 2 walls, 8% infill",
+    "profile_notes": "No AMS needed!",
+    "creation_date": "2025-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "normal(manual)",
+    "photos": 2
+   },
+   "name": "Piezas sueltas",
+   "size": 17063516,
+   "sha256": "871579abba4aaf81f14ce3d4e63ee057d5d07d691b1e5a747d5accdd5784d635",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/parca-halloween-2h06.3mf.xz",
+   "instance_id": "1998564",
+   "thumbnail": "previews/profiles/1998564.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 13,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "all on one plate, one color change, variable layer height",
+    "profile_notes": "No AMS needed!",
+    "creation_date": "2025-10-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "8%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 17052012,
+   "sha256": "b2e6e9e50b391c6394e80c631ac7165940744ff4289574e288d9bb11cbc70bbc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/parca-halloween-7h12.3mf.xz",
+   "instance_id": "1968275",
+   "thumbnail": "previews/profiles/1968275.jpg",
+   "print_time_h": 7.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1",
+    "H2C",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "AMS, 0.2mm layer (Variable layer height), 2 walls, 8% infill",
+    "profile_notes": "Assembled model",
+    "creation_date": "2025-10-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "normal(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 16820404,
+   "sha256": "fc2c46fd99e773400ebd7c4a1d12f0bd6413a342350b4d81685970d918c07493",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1842263",
+ "title": "Parca de Halloween tejida",
+ "slug": "knitted-halloween-grim-reaper",
+ "url": "https://makerworld.com/en/models/1842263-knitted-halloween-grim-reaper",
+ "author": "Smoggy3D",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Criaturas",
+ "description": "Parca tejida\n\n¡No se necesita AMS!\nNo olvides limpiar la cama para que la guadaña se adhiera correctamente.",
+ "use_cases": [],
+ "tags": [
+  "de punto",
+  "tejer",
+  "parca",
+  "severo",
+  "segador",
+  "víspera de todos los santos",
+  "decoración",
+  "muerte",
+  "aterrador",
+  "no ams",
+  "sin ams"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US37a1ecf8207e11/design/2026-01-01_99ce1f126579a8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   666
+  ],
+  "previews/02.jpg": [
+   1000,
+   666
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1968267.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1998564.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1968275.jpg": [
+   600,
+   399
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

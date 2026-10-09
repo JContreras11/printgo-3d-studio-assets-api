@@ -1,0 +1,224 @@
+{
+ "files": [
+  {
+   "path": "model/mini-linterna-6h06.3mf.xz",
+   "instance_id": "1930217",
+   "thumbnail": "previews/profiles/1930217.jpg",
+   "print_time_h": 6.1,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 549,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "A1",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Pumpkin and Stand",
+    "profile_notes": "All parts with their recommended print settings",
+    "creation_date": "2025-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 5777328,
+   "sha256": "1c9ed544fd14dc075abdee2d2091e6d28fa7e2e954e9fc5cb181d47ec4fc44cf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mini-linterna-1h.3mf.xz",
+   "instance_id": "2001827",
+   "thumbnail": "previews/profiles/2001827.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 27,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "leaf stand, big tea light",
+    "profile_notes": "a new base plate in leaf shape and the opening for the tea light extended to 36 mm (with negative volume) to get a large tea light in, the leaf is printed in 0,2 mm layer height",
+    "creation_date": "2025-10-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 3841720,
+   "sha256": "f0514bb4b873f2aad72bb1c4ddfb9204439e1228c7fe71248f8b81cc776db180",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mini-linterna-3h12.3mf.xz",
+   "instance_id": "2019261",
+   "thumbnail": "previews/profiles/2019261.jpg",
+   "print_time_h": 3.2,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 9,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "H2D",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.3",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4,
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6409956,
+   "sha256": "6983a9411f9a853ee1de9c0ce86b4e9d6083228e680223230804d1e70567f363",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mini-linterna-6h24.3mf.xz",
+   "instance_id": "2069171",
+   "thumbnail": "previews/profiles/2069171.jpg",
+   "print_time_h": 6.4,
+   "plates": 1,
+   "rating": 2.5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "H2D",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "Everything on 1 Plate, Print by object",
+    "profile_notes": "Made a version where everything is on one plate and printed in sequence by Object. Have fun. :)",
+    "creation_date": "2025-10-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5786640,
+   "sha256": "cc6a5aa4b1701a1f4147f9baeec5e6dbb3307adbed22d236ebe6bed46c816f97",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1809475",
+ "title": "Mini Linterna de Calabaza - Luz de Té",
+ "slug": "mini-pumpkin-lantern-tea-light",
+ "url": "https://makerworld.com/en/models/1809475-mini-pumpkin-lantern-tea-light",
+ "author": "Maxx_Design",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Este adorno de calabaza aporta un cálido toque estacional, ideal para Halloween o simplemente como una acogedora decoración otoñal.\n\nSe adapta a velas de té con un diámetro de hasta 40 mm y alturas de entre 17 y 27 mm. Las piezas simplemente se encajan/atornillan entre sí, no se requiere AMS para imprimir.\n\nConfiguración de impresión\nMis perfiles proporcionados están listos para imprimir.\n\nEste diseño fue optimizado para imprimir con una altura de capa de 0,16 mm. La parte superior es autoportante, pero todavía utilicé soportes manuales pequeños para garantizar una buena calidad del puente. La base necesita un pequeño soporte para árboles. El tallo y el gancho deben imprimirse con un 100 % de relleno y/o un mayor número de paredes.\n\nAsamblea\nEl montaje solo lleva un minuto y no requiere herramientas ni otras piezas.\n\nPrimero, asegúrese de quitar completamente los soportes de la base. Haga clic en el conector en la base como se muestra en la imagen. Ahora puedes colocar tu vela de té en la base y asegurarla con el soporte roscado.\n\nLuego pon el tallo en la parte superior. Esto podría ser un poco más difícil, así que intenta sostener la parte superior desde el interior si requiere fuerza. Finalmente, puedes hacer clic en ambas mitades juntas.\n\nTenga en cuenta que no debería ser necesario usar pegamento, pero dependiendo de la configuración de su filamento, puede considerar agregar una gota de pegamento durante los pasos 1 y 3, ya que estas conexiones deben ser permanentes.\n\nSi te gusta este diseño, ¡mira mi colección de Halloween!\nSi te gusta este diseño, ¡quizás también te guste mi colección Mini Lantern!\n¡Licencia comercial disponible en MakerWorld y Patreon!",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "linterna",
+  "candelita",
+  "té",
+  "luz",
+  "luz de té",
+  "titular",
+  "víspera de todos los santos",
+  "mini",
+  "ornamento"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf08df994ee9144/design/2025-09-19_c6bfb710201298.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1930217.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2001827.jpg": [
+   600,
+   609
+  ],
+  "previews/profiles/2019261.jpg": [
+   490,
+   464
+  ],
+  "previews/profiles/2069171.jpg": [
+   600,
+   422
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

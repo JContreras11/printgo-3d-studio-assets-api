@@ -1,0 +1,212 @@
+{
+ "files": [
+  {
+   "path": "model/juego-cestas-10h24.3mf.xz",
+   "instance_id": "3727834",
+   "thumbnail": "previews/profiles/3727834.jpg",
+   "print_time_h": 10.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "A1",
+    "H2D",
+    "A2L",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Medium - 7.5\" DIameter",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 18440668,
+   "sha256": "fede09521560a94b62edc0b3bf250590e7400edec8a11e59c3467b0eee247172",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-cestas-17h12.3mf.xz",
+   "instance_id": "3727854",
+   "thumbnail": "previews/profiles/3727854.jpg",
+   "print_time_h": 17.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Large - 9.5 diameter",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 18528168,
+   "sha256": "e6227c09864b1d8feeaecfb16f862d574a8ff733cb308456cbd36b8670ce1524",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/juego-cestas-5h30.3mf.xz",
+   "instance_id": "3727852",
+   "thumbnail": "previews/profiles/3727852.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Small - 5.25 Diameter",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 18368008,
+   "sha256": "fdf2d0eb2e789e1f2651c0c04463e07b7d505755cc25912168ae2a8ba0e99436",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3286141",
+ "title": "¡Juego de cestas de Halloween de telaraña! ¡Tallas S/M/L!",
+ "slug": "spiderweb-halloween-basket-set-s-m-l-sizes",
+ "url": "https://makerworld.com/en/models/3286141-spiderweb-halloween-basket-set-s-m-l-sizes",
+ "author": "AEMravan",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "¡Cesta de Halloween de telaraña!\n¡El siguiente en mi lista de carga de Halloween es este increíble juego de canastas de telaraña! ¡Viene en 3 tamaños: pequeño (5,25\" de diámetro), mediano (7,5\" de diámetro) y grande (9,5\" de diámetro)!\n\nDebido a la gran cantidad de soportes de árboles orgánicos para todas las telarañas, recomiendo imprimir esto en PLA MATE o SEDA, le hará la vida MUCHO más fácil al quitar el soporte. Tenga paciencia y tómese su tiempo con el corte para cortar los soportes y no romper ninguna de las piezas.\n\n¡Resultó ser una GRAN adición para mi modelo Halloween Apple of Death!:",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween2026",
+  "caer",
+  "otoño 2026",
+  "decoración del hogar",
+  "cesta",
+  "dulce",
+  "accesorio de caramelo",
+  "truco o trato",
+  "canasta de dulces",
+  "telaraña"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US72f600fde2249/design/5cf9556353539435.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   750
+  ],
+  "previews/05.png": [
+   1000,
+   750
+  ],
+  "previews/06.png": [
+   1000,
+   750
+  ],
+  "previews/07.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3727834.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3727854.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3727852.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

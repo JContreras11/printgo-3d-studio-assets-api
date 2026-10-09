@@ -1,0 +1,111 @@
+{
+ "files": [
+  {
+   "path": "model/halloween-jack.3mf.xz",
+   "instance_id": "3856084",
+   "thumbnail": "previews/profiles/3856084.jpg",
+   "print_time_h": 9.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2D",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "250mm wide, 124mm high",
+    "profile_notes": "STRICTLY FOR PERSONAL USE ONLY. COMMERCIAL USE, SALE OF PHYSICAL PRINTS, RESALE, REDISTRIBUTION OR COMMERCIAL PRODUCTION IS PROHIBITED.",
+    "creation_date": "2026-10-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 18603636,
+   "sha256": "b9deb1a2589d1516b61e0c4f39d1d9186a854f025daa7a59f8f70000ee691c8b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3235450",
+ "title": "Halloween Jack-O’-Lantern Bowl",
+ "slug": "halloween-jack-o-lantern-bowl",
+ "url": "https://makerworld.com/en/models/3235450-halloween-jack-o-lantern-bowl",
+ "author": "Mikike",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Traiga una atmósfera espeluznante de Halloween a su hogar con este detallado cuenco decorativo inspirado en Jack-O'-Lantern.\nEl modelo presenta una amenazadora cara de calabaza tallada, bordes afilados en forma de llamas y un atrevido look de Halloween. Funciona muy bien como decoración de temporada, cuenco para dulces, soporte para artículos pequeños o pieza de exhibición.\nTamaño aproximado terminado:\n150 × 150 × 75 milímetros\nEl modelo está diseñado para la impresión 3D FDM y luce especialmente bien en negro, naranja, gris oscuro u otros colores con temática de Halloween.\nUsos recomendados:\ndecoración de halloween\nPorta dulces\nDecoración de escritorio o estantería\nOrganizador de artículos pequeños\nPieza de exhibición de temporada\nTenga en cuenta que las líneas de capa visibles son una característica normal de la impresión 3D FDM.\nAVISO IMPORTANTE DE LICENCIA:\nEste modelo está diseñado ÚNICAMENTE PARA USO PERSONAL NO COMERCIAL.\nLa actividad comercial que involucre este modelo está estrictamente prohibida.\nNO puedes:\nvender impresiones físicas hechas a partir de este modelo\nvender el STL o cualquier versión modificada del mismo\nutilizar el modelo para la producción comercial\nincluirlo en paquetes comerciales\nredistribuir o volver a cargar los archivos originales o modificados\nSe permite el uso de impresión personal y visualización personal.\nRespete al creador y los términos de la licencia.\nImpulsamePor favor impulsa mi modelo:D",
+ "use_cases": [],
+ "tags": [
+  "halloween jack o lantern",
+  "calabaza",
+  "cuenco de halloween",
+  "víspera de todos los santos",
+  "tazón de dulces",
+  "escalofriante",
+  "decoracion de halloween",
+  "fdm",
+  "cuenco decorativo",
+  "cuenco de calabaza",
+  "organizador de escritorio",
+  "porta dulces"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa32bd5b9ef1081/design/2417281edc81f261.png",
+ "images": [
+  "previews/01.webp",
+  "previews/02.webp",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.webp",
+ "image_sizes": {
+  "previews/01.webp": [
+   1000,
+   1776
+  ],
+  "previews/02.webp": [
+   1000,
+   1776
+  ],
+  "previews/03.png": [
+   1000,
+   1776
+  ],
+  "previews/04.png": [
+   1000,
+   799
+  ],
+  "previews/05.png": [
+   1000,
+   800
+  ],
+  "previews/06.png": [
+   1000,
+   800
+  ],
+  "previews/profiles/3856084.jpg": [
+   600,
+   1065
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

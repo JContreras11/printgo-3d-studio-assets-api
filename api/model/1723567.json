@@ -1,0 +1,145 @@
+{
+ "files": [
+  {
+   "path": "model/clicker-caldero-multicolor-2h18.3mf.xz",
+   "instance_id": "1829773",
+   "thumbnail": "previews/profiles/1829773.jpg",
+   "print_time_h": 2.3,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 119,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "P1P",
+    "P1S",
+    "X1E",
+    "X1",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "MULTICOLOR VERSION",
+    "creation_date": "2026-08-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 1667976,
+   "sha256": "b50a8bfae49b6189a886e78be113771000e245e62d8c853ba2ca7dc585464390",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/clicker-caldero-1h48.3mf.xz",
+   "instance_id": "2278696",
+   "thumbnail": "previews/profiles/2278696.jpg",
+   "print_time_h": 1.8,
+   "plates": 4,
+   "rating": 4.7,
+   "rating_count": 39,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "H2D",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1",
+    "X1E",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Optimised for less colour waste from AMS - 4 plates",
+    "profile_notes": "Settings remain the same as original model. I just separated the pieces. Only the eyes need AMS if necessary. The skull and eyes fit in the main cauldron “liquid” without any glue. Just click them in.",
+    "creation_date": "2025-12-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2314532,
+   "sha256": "ab457be463a21122e344b712eadd5d7c2de89002c76ec2d51e32e825043e46ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1723567",
+ "title": "CLICKER DE CALDERO DE BRUJA",
+ "slug": "witch-cauldron-clicker",
+ "url": "https://makerworld.com/en/models/1723567-witch-cauldron-clicker",
+ "author": "AstroDex_3D",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Diseño 3D de un llavero con la forma del típico bote de pociones de bruja con una tapa estilo antiestrés en la que se puede hacer clic, ideal como accesorio decorativo, juguete antiestrés o artículo de regalo.\n\nVERSIÓN 3MF MULTICOLOR Y PIEZAS STL SEPARADAS DISPONIBLES",
+ "use_cases": [],
+ "tags": [
+  "hacer clic",
+  "taconeador",
+  "llave",
+  "anti",
+  "estrés",
+  "agitarse",
+  "bruja",
+  "víspera de todos los santos",
+  "calefacción",
+  "miedo",
+  "terror",
+  "dulce"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-08-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USaec22b45f41656/design/2025-08-22_fd1f4b81300fc8.gif",
+ "images": [
+  "previews/01.png",
+  "previews/02.gif"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.gif": [
+   640,
+   854
+  ],
+  "previews/profiles/1829773.jpg": [
+   586,
+   504
+  ],
+  "previews/profiles/2278696.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

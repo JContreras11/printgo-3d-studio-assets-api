@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/juguete-antiestres.3mf.xz",
+   "instance_id": "3655176",
+   "thumbnail": "previews/profiles/3655176.jpg",
+   "print_time_h": 2.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 66,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "A1 mini",
+    "X1 Carbon",
+    "P2S",
+    "A1",
+    "A2L",
+    "H2D",
+    "X1",
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.12",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.12mm layer, 2 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 58560776,
+   "sha256": "bbe494e3ee041f5a3bce859900d1c7021d5fed87692126944bfd9e96c74cf8e1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3227506",
+ "title": "Juguete antiestrés articulado para niña calabaza de Halloween",
+ "slug": "articulated-halloween-pumpkin-girl-fidget-toy",
+ "url": "https://makerworld.com/en/models/3227506-articulated-halloween-pumpkin-girl-fidget-toy",
+ "author": "ContainerHaven",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Membresía¿Interesado en vender impresiones físicas de mis modelos? ¡Suscríbete a uno de mis niveles!***ESTE MODELO INCLUYE PIEZAS NEGATIVAS, ARTICULANDO EL MODELO. DESCARGAR ÚNICAMENTE EL ARCHIVO STL NO INCLUIRÁ PARTES NEGATIVAS. IMPRIMIR MI PERFIL O IMPORTAR DIRECTAMENTE AL SLICER****\n\n¡Conozca la muñeca articulada de calabaza, un juguete articulado totalmente impreso en el lugar diseñado para la temporada de Halloween y otoño! Con brazos, piernas y cintura totalmente articulados sin necesidad de montaje. Perfecto como juguete de escritorio, juguete de bolsillo o decoración espeluznante de temporada.\n\nConfiguraciones y recomendaciones de impresión:\nSoportes: Ninguno (diseñado 100% para impresión sin ensamblaje)\nBorde: Recomendado solo si la adherencia de su cama es sensible\nAltura de la capa: 0,12 mm – 0,16 mm\nRelleno: 15% – 20% (se recomienda Gyroid)\nParedes: 2 paredes para una resistencia duradera de las juntas\nDeje que la impresión se enfríe por completo en la placa de construcción antes de flexionar suavemente las articulaciones para lograr un movimiento más suave.\nImpulsameTu impulso es mi motivación para crear más modelos gratuitos. Por favor considera aumentar si puedes <3",
+ "use_cases": [],
+ "tags": [
+  "imprimir en el lugar",
+  "impresión sin ensamblaje 35",
+  "impresión sin ensamblaje 26",
+  "víspera de todos los santos",
+  "halloween 1",
+  "halloween 2",
+  "halloween 1978",
+  "halloween2026",
+  "halloween2027",
+  "calabaza 2027",
+  "calabaza 2026"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US68a02c30bd6045/design/361818cc795cb6eb.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3655176.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

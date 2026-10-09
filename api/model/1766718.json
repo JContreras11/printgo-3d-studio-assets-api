@@ -1,0 +1,203 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-aterradora-14h54.3mf.xz",
+   "instance_id": "1880250",
+   "thumbnail": "previews/profiles/1880250.jpg",
+   "print_time_h": 14.9,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 200,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.58",
+    "profile_title": "0.2mm layer, 3 walls, 5% infill",
+    "creation_date": "2025-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9651464,
+   "sha256": "c2e49793aa44ab57ed810e2c2c0a3b31df3a835defca4dbfff7788952c63e636",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-aterradora-17h24.3mf.xz",
+   "instance_id": "3667976",
+   "thumbnail": "previews/profiles/3667976.jpg",
+   "print_time_h": 17.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "X1",
+    "A1",
+    "A2L",
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "H2C",
+    "X2D",
+    "H2S",
+    "H2D",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "A1 Mini optimiert (2 Plates)",
+    "creation_date": "2026-08-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 10228236,
+   "sha256": "a15e0e0a04ae70f4a6006f4ce79566ea52346a6711084a53ce764ff95da2653b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-aterradora-8h30.3mf.xz",
+   "instance_id": "1941500",
+   "thumbnail": "previews/profiles/1941500.jpg",
+   "print_time_h": 8.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 82,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D",
+    "A1",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "0.2mm layer, 2 walls, 45% infill",
+    "profile_notes": "PLA 0,20 mm layer, podpory",
+    "creation_date": "2025-09-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "45%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9787720,
+   "sha256": "95e6ec3781bfbba36019a5f865e1dfc49f4f4060ee795f99d8ab98c9acde4eaf",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1766718",
+ "title": "Calabaza aterradora de Halloween n.° 1",
+ "slug": "halloween-scary-pumpkin-1",
+ "url": "https://makerworld.com/en/models/1766718-halloween-scary-pumpkin-1",
+ "author": "29flo",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Les presento la primera de una serie de calabazas de Halloween. Va a dar miedo, va a ser espeluznante. Va a ser divertido:)\nEste es hueco por dentro y tiene una tapa extraíble para que puedas colocar una fuente de luz en su interior. Para las fotos que ves aquí, utilicé una pequeña lámpara fotográfica LED de SmallRig, pero puedes ponerle lo que tengas a mano. Sólo para que quede claro. Por supuesto, no pongas velas reales dentro:)\n\nSi está interesado en el uso comercial de mis modelos, acceso anticipado, diseños exclusivos o si simplemente le gusta mi trabajo y desea apoyarme, consulte mi Patreon en y suscríbase al nivel de membresía que más le convenga.\n\n[Configuración de impresión sugerida para una figura de 15 cm de alto] - Puede aumentar o reducir la escala según desee.\n\nBoquilla: 0,4 mm\nAltura de la capa: 0,2 mm (puede ajustar la altura de la capa según la cantidad de detalles que desee)\nRelleno: 5%\nBucles de pared: 2\nSoportes: Árbol (automático)\nImpreso con: BambuLab's:\n- PLA Básico Negro\n\nImpreso con efecto piel difusa:\nPiel Difusa: Contorno\nDistancia del punto de piel borrosa: 0,2\nGrosor de la piel borrosa: 0,2\nEstas fotos son reales y muestran una figura real impresa en 3D y fotografiada por mí.\n\n¡Como siempre!\nLa clave para imprimir mis figuras es tener una buena adherencia a la placa de construcción. Utilizo CryoGrip Pro Frostbite para imprimir, que proporciona un agarre excelente y garantiza que cada figura se imprima correctamente en todo momento. Utilizo principalmente filamentos de Bambu y tampoco tengo problemas con ellos. Si tiene una configuración diferente, asegúrese de centrarse en la adhesión de la placa de construcción, utilice filamento seco de alta calidad y todo debería estar bien.\n\nImpulsame Si disfrutas mi trabajo, te agradecería mucho que mostraras tu apoyo haciendo clic en \"Impulsar\". ¡Gracias!",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "otoño",
+  "caer",
+  "decoración",
+  "cifra",
+  "figurilla",
+  "víspera de todos los santos",
+  "aterrador",
+  "jack o lantern",
+  "monstruo",
+  "rostro"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1c43b25b089536/design/2025-09-05_4f5ad263720e08.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1880250.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3667976.jpg": [
+   600,
+   734
+  ],
+  "previews/profiles/1941500.jpg": [
+   600,
+   280
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

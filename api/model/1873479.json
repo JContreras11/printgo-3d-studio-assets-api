@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/calavera-azucar.3mf.xz",
+   "instance_id": "2005489",
+   "thumbnail": "previews/profiles/2005489.jpg",
+   "print_time_h": 10.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 51,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "X1E",
+    "P1P",
+    "P1S",
+    "H2S",
+    "A1",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "1 color, 0.16mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-10-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 23595856,
+   "sha256": "fc8655024a1a512015f48dbcec3979b5957f17a533a3710918e9ba9d1cf65bf5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1873479",
+ "title": "Calavera de azúcar decorativa",
+ "slug": "decorative-sugar-skull",
+ "url": "https://makerworld.com/en/models/1873479-decorative-sugar-skull",
+ "author": "Wizualizer",
+ "category": "halloween-2026",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Una calavera de azúcar decorativa inspirada en el Día de los Muertos, que presenta motivos florales vibrantes e intrincados y atrevidos detalles tridimensionales.\n\nEste modelo está diseñado como una calavera completa e independiente, perfecta para exhibirla como pieza central festiva, acento gótico o decoración única durante todo el año. Elaborado con relieves dramáticos y superficies texturizadas, captura la esencia del arte tradicional de las calaveras de azúcar en un medio moderno y duradero.\n\nEste modelo, disponible en un solo color, está listo para pintarse a mano con pinturas acrílicas para combinar con su estilo personal o combinación de colores. Los ejemplos pintados que se muestran son interpretaciones personales y sirven como inspiración para sus propias creaciones. Ideal para Halloween, Día de Muertos o como pieza llamativa de colección.\n\nCaracterísticas clave\nCalavera de azúcar en 3D completa inspirada en el Día de los Muertos\nRelieve floral y de remolinos ricamente detallado\nListo para pintura acrílica y personalización.\nImpresión de una sola pieza con gran profundidad visual y textura.\nSe adapta a Halloween, Día de los Muertos, decoración gótica o durante todo el año.",
+ "use_cases": [],
+ "tags": [
+  "azúcar",
+  "cráneo",
+  "dia de los muertos",
+  "dia de muertos",
+  "decorativo",
+  "gótico",
+  "decoración",
+  "festival",
+  "víspera de todos los santos",
+  "hogar",
+  "coleccionable"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US37c0307298deda/design/2025-10-10_5c959224cfb6.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   803
+  ],
+  "previews/02.jpg": [
+   1000,
+   809
+  ],
+  "previews/03.jpg": [
+   1000,
+   847
+  ],
+  "previews/profiles/2005489.jpg": [
+   600,
+   482
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

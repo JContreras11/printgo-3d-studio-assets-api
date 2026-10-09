@@ -1,0 +1,160 @@
+{
+ "files": [
+  {
+   "path": "model/decoracion-letrero-7h36.3mf.xz",
+   "instance_id": "1979788",
+   "thumbnail": "previews/profiles/1979788.jpg",
+   "print_time_h": 7.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 86,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.12mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 22733840,
+   "sha256": "33968536c1ae16c6936e63cb31c6d73049c2c144ccc567246a6ddc65b2ef1344",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/decoracion-letrero-10h54.3mf.xz",
+   "instance_id": "3785425",
+   "thumbnail": "previews/profiles/3785425.jpg",
+   "print_time_h": 10.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 10,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "P1P",
+    "H2S",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1",
+    "P2S",
+    "A1",
+    "H2C",
+    "X1E",
+    "P1S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Hochskaliert 24cm breit 18cm hoch, 5% Gyroid.",
+    "profile_notes": "Hochskaliert, 24cm breit und 18cm hoch, 5%Gyroid Füllung. Boden begradigt. Gedruckt mit Bone white von BambuLab. Happy Halloween Danke an den Designer",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 20216640,
+   "sha256": "fcafaa3a024f9c3e47124dac17260626dbe0ce7c81590c84c35a97c4656cf079",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1851920",
+ "title": "Decoración de letrero de calabaza y calavera de Halloween",
+ "slug": "halloween-pumpkin-skull-sign-decor",
+ "url": "https://makerworld.com/en/models/1851920-halloween-pumpkin-skull-sign-decor",
+ "author": "DigitizedDreams",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Un letrero de mesa gótico que dice \"HALLOWEEN\", flanqueado por una calabaza gruñendo y una calavera. Se adapta a exhibidores de estantes, mesas de fiesta, configuraciones de entrada y fondos fotográficos.\nCaracterísticas clave\nLetrero de una sola pieza con letras góticas llamativas.\nDetalles de calabaza y calavera para un tema instantáneo\nBase tallada en piedra con motivo de huesos cruzados.\nDetalles nítidos que resisten bien la pintura y la intemperie.\nFácil de escalar para repisa, escritorio o centro de mesa.\nDecoración de temporada ideal para fiestas y estaciones de puerta.\nNo requiere ensamblaje\nUso y licencia\nExclusivo de MakerWorld: imprima y venda piezas físicas comercialmente.\nEl archivo del modelo digital no puede redistribuirse ni revenderse.\nEstá totalmente permitida la venta de impresiones terminadas y esculturas ensambladas.\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "firmar",
+  "arte de la palabra",
+  "calabaza",
+  "jack o lantern",
+  "huesos del cráneo",
+  "gótico",
+  "decoración espeluznante",
+  "horror",
+  "estacional",
+  "decoración de otoño",
+  "octubre"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USab7a7bbf50304/design/2025-10-03_19343f9da6b0e8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   563
+  ],
+  "previews/02.jpg": [
+   1000,
+   563
+  ],
+  "previews/03.jpg": [
+   1000,
+   563
+  ],
+  "previews/04.jpg": [
+   1000,
+   563
+  ],
+  "previews/05.jpg": [
+   1000,
+   563
+  ],
+  "previews/06.jpg": [
+   1000,
+   563
+  ],
+  "previews/profiles/1979788.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3785425.jpg": [
+   337,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

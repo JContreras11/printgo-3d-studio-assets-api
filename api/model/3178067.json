@@ -1,0 +1,148 @@
+{
+ "files": [
+  {
+   "path": "model/jack-lantern-4h-2.3mf.xz",
+   "instance_id": "3594059",
+   "thumbnail": "previews/profiles/3594059.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "A2L",
+    "A1",
+    "H2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Jack-o-Lantern Door/Frame Corner Decor (Right)",
+    "creation_date": "2026-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1527064,
+   "sha256": "a98d3fd30c3f63e51de6dc2b1b177c2094cd097248b78d61362c675d50bb44b1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/jack-lantern-4h.3mf.xz",
+   "instance_id": "3594064",
+   "thumbnail": "previews/profiles/3594064.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 55,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "A2L",
+    "A1",
+    "H2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Jack-o-Lantern Door/Frame Corner Decor (Left)",
+    "creation_date": "2026-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1527616,
+   "sha256": "ef4fffe7337a623bf7a004339caf27805e770dab143dc613f9867cc7f9c17711",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3178067",
+ "title": "Jack-o-Lantern Door/Frame Corner Decor",
+ "slug": "jack-o-lantern-door-frame-corner-decor",
+ "url": "https://makerworld.com/en/models/3178067-jack-o-lantern-door-frame-corner-decor",
+ "author": "Rakenra",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Hola a todos,\n\nAquí está mi decoración de esquina de puerta/marco de Halloween n.° 8. Modelado a partir de un montón de calabaza tallada con varias caras. Todos los colores se pueden cambiar fácilmente en Bambu Studio mediante cada pieza individual, para que puedas personalizar los colores según sea necesario. Hice el ejemplo para este en 3 colores.\n\nEl planchado se activa para lograr una apariencia superior extra suave (luce aún mejor con colores mate). Éste se puede escalar según sea necesario para adaptarse a otras impresoras.\n\nEstán hechos para encajar en la parte superior del marco de una puerta, de una ventana, de un cuadro o de cualquier tipo de marco con un ángulo de noventa grados.\n\nTambién he incluido perfiles para los lados izquierdo y derecho del marco.\n\n¡Boost Me Boosts son muy apreciados! Membresía ¡Ahora tengo una subopción disponible para aquellos que quieran vender mi colección! ¡Mira mis niveles y avísame si tienes alguna pregunta!\n\nSe adjuntarán los materiales y filamentos utilizados.",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2026",
+  "calabaza 2027",
+  "calabazas",
+  "jacobo",
+  "linterna de jack",
+  "jack o ' lantern",
+  "jack o lantern",
+  "jackolantern",
+  "decoración de calabaza",
+  "esquina de la puerta",
+  "arte de la esquina de la puerta"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc243216ded9f59/design/132774d6f2a6834a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/3594059.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3594064.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

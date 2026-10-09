@@ -1,0 +1,315 @@
+{
+ "files": [
+  {
+   "path": "model/calabazas-cuerda-4h36.3mf.xz",
+   "instance_id": "3708625",
+   "thumbnail": "previews/profiles/3708625.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "ONE COLOR VERSION (ONE PART)"
+   },
+   "name": "Versión estándar",
+   "size": 23368076,
+   "sha256": "b87ba72f1d801440642b86fa7798daebdda4f4100b19eafa71bcb55e02fb8506",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabazas-cuerda-5h18.3mf.xz",
+   "instance_id": "3724308",
+   "thumbnail": "previews/profiles/3724308.jpg",
+   "print_time_h": 5.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "AMS Versio Colored (no glue)"
+   },
+   "name": "Versión estándar",
+   "size": 23874328,
+   "sha256": "3683b7fd5a7b554bef49ce027da7e056caaf0ed9ee7cabe5d85cb30f720a4810",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabazas-cuerda-multicolor-2h06.3mf.xz",
+   "instance_id": "3744023",
+   "thumbnail": "previews/profiles/3744023.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "多色一盘打印，优化模型，减少面数，提高效率",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 7823604,
+   "sha256": "9f5733382a46d18d782e07963dfb7e9d466842634561ee5e141243696cdbaf72",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabazas-cuerda-multicolor-2h54.3mf.xz",
+   "instance_id": "3744280",
+   "thumbnail": "previews/profiles/3744280.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "双色分件一盘打印，优化参数细节",
+    "creation_date": "2026-09-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 23367828,
+   "sha256": "fef745864a406b441e29327b221a3d7e0f7f48d2dc43ff643d0ea212ba72a38e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabazas-cuerda-multicolor-4h42.3mf.xz",
+   "instance_id": "3708673",
+   "thumbnail": "previews/profiles/3708673.jpg",
+   "print_time_h": 4.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 45,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "MULTIPART VERSION (TWO COLORS)"
+   },
+   "name": "Multicolor",
+   "size": 23594240,
+   "sha256": "85da944ab00434e19fb04af4bec260ba7d97d702e584c269bf2efb0e0b7af109",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3270647",
+ "title": "CALABAZAS DE CUERDA - DECORACIÓN MODERNA DE HALLOWEEN / OTOÑO",
+ "slug": "rope-pumpkins-modern-halloween-decor-autumn",
+ "url": "https://makerworld.com/en/models/3270647-rope-pumpkins-modern-halloween-decor-autumn",
+ "author": "sektor7_studios",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "CALABAZAS DE CUERDA – Decoración moderna de otoño\n¡Dale un acogedor look otoñal a tu hogar con las Rope Pumpkins!\nToda la calabaza está cubierta con una textura inspirada en una cuerda retorcida, lo que le da una apariencia suave y hecha a mano y, al mismo tiempo, está completamente impresa en 3D.\nEl diseño funciona perfectamente como decoración de otoño, Acción de Gracias o Halloween y encaja especialmente bien con interiores modernos, de granja y acogedores.\nDos versiones incluidas\nVersión de un color: imprime la calabaza completa en un solo color.\nVersión de dos colores: la calabaza y el tallo son partes separadas, por lo que puedes combinar fácilmente diferentes colores sin un AMS. Simplemente imprima ambas partes y pegue el tallo en su lugar.\nEl modelo está diseñado para imprimirse fácilmente y también luce fantástico cuando se lo escala para crear una pequeña colección de calabazas de diferentes tamaños.\nCaracterísticas\nTextura única de cuerda retorcida\nVersiones de un color y dos colores incluidas\nNo se requiere AMS\nTallo separado para combinaciones de colores fáciles\nIdeal para PLA, PLA mate y otros filamentos decorativos\nFácil de escalar para diferentes tamaños\nPerfecto para decoración del hogar en otoño y temporada.\n\n¿Buscas otra calabaza con el mismo estilo de diseño?\n\nAMIGO DE CALABAZA (VERSIÓN NORMAL)\nMIRA NUESTRA CALABAZA DE CUERDA MÁS NUEVA:\n\nCALABAZA DE CUERDA V1 (VERSIÓN LARGA)\nMIRA NUESTRA CALABAZA DE CUERDA MÁS NUEVA (\n\nCALABAZA DE CUERDA V2 (VERSIÓN BUTTERNUT)\nMIRA NUESTRA CALABAZA DE CUERDA MÁS NUEVA (\n\nCALABAZA DE CUERDA V3 (VERSIÓN PLANA)\nMIRA NUESTRA CALABAZA DE CUERDA MÁS NUEVA (\n\nCUERDA CALABAZA V4 (VERSIÓN CURVA)\nMIRA NUESTRA CALABAZA DE CUERDA MÁS NUEVA (\n\nSi imprimes uno, nos encantaría ver tu versión. ¡No olvides compartir tu marca!\n\nVEA NUESTRA COLECCIÓN DE DECORACIÓN DE CALABAZAS EN PATREON CON MÁS CALABAZAS GRATIS Y DE PAGO",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "decoración de halloween",
+  "otoño",
+  "otoño moderno",
+  "decoración otoñal moderna",
+  "diseño moderno",
+  "calabaza de diseño",
+  "decoración de calabaza",
+  "hogar",
+  "decoración del hogar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US5ef9c8d93e88d5/design/66210f12722cf669.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.png",
+  "previews/12.png",
+  "previews/13.png",
+  "previews/14.png",
+  "previews/15.webp"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.png": [
+   1000,
+   1000
+  ],
+  "previews/07.png": [
+   1000,
+   1000
+  ],
+  "previews/08.png": [
+   1000,
+   1000
+  ],
+  "previews/09.png": [
+   1000,
+   1000
+  ],
+  "previews/10.png": [
+   1000,
+   1000
+  ],
+  "previews/11.png": [
+   1000,
+   1000
+  ],
+  "previews/12.png": [
+   1000,
+   1000
+  ],
+  "previews/13.png": [
+   1000,
+   1000
+  ],
+  "previews/14.png": [
+   1000,
+   1000
+  ],
+  "previews/15.webp": [
+   516,
+   516
+  ],
+  "previews/profiles/3708625.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3724308.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3744023.jpg": [
+   600,
+   575
+  ],
+  "previews/profiles/3744280.jpg": [
+   518,
+   426
+  ],
+  "previews/profiles/3708673.jpg": [
+   600,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

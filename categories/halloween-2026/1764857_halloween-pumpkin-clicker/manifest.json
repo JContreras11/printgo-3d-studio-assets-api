@@ -1,0 +1,196 @@
+{
+ "files": [
+  {
+   "path": "model/clicker-calabaza-multicolor-1h30.3mf.xz",
+   "instance_id": "1878010",
+   "thumbnail": "previews/profiles/1878010.jpg",
+   "print_time_h": 1.5,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 52,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X1",
+    "P1S",
+    "P1P",
+    "H2D Pro",
+    "X1E",
+    "H2S",
+    "A1 mini",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Pumpkin-Clicker - 2 Plate Version - Multicolor",
+    "profile_notes": "0.16mm layer, 2 walls, 15% infill Attention! Additional adhesive for the print bed is highly recommended! I suggest using 3D-Lac spray or alternatively hairspray for PEI print beds, and a glue stick for Bambu’s original Cool Plate. Ensure to clean the print bed with alcohol or soap before each print to achieve optimal adhesion and high-quality results.",
+    "creation_date": "2025-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Multicolor",
+   "size": 39677240,
+   "sha256": "e4b02ea70b5548d26c8b2f1ae81a61e769c6a29f838e2d038cf632f3e2f314be",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/clicker-calabaza-monocolor-48min.3mf.xz",
+   "instance_id": "1878023",
+   "thumbnail": "previews/profiles/1878023.jpg",
+   "print_time_h": 0.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 21,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1 Carbon",
+    "X1E",
+    "P1P",
+    "A1",
+    "P1S",
+    "H2S",
+    "H2C",
+    "X1",
+    "P2S",
+    "A1 mini",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Pumpkin-Clicker - 2 Plate Version - Singlecolor",
+    "profile_notes": "0.16mm layer, 2 walls, 10% infill Attention! Additional adhesive for the print bed is highly recommended! I suggest using 3D-Lac spray or alternatively hairspray for PEI print beds, and a glue stick for Bambu’s original Cool Plate. Ensure to clean the print bed with alcohol or soap before each print to achieve optimal adhesion and high-quality results.",
+    "creation_date": "2025-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Monocromo",
+   "size": 39673740,
+   "sha256": "5d977cf962da4977c7e3a00b3dc24bf20d9fb72c3961b308c010c15057a48d50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/clicker-calabaza-multicolor-1h42.3mf.xz",
+   "instance_id": "1878015",
+   "thumbnail": "previews/profiles/1878015.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "H2C",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "Pumpkin-Clicker - Print-By-Object - Multicolor",
+    "profile_notes": "0.16mm layer, 2 walls, 15% infill Attention! Additional adhesive for the print bed is highly recommended! I suggest using 3D-Lac spray or alternatively hairspray for PEI print beds, and a glue stick for Bambu’s original Cool Plate. Ensure to clean the print bed with alcohol or soap before each print to achieve optimal adhesion and high-quality results.",
+    "creation_date": "2025-09-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 39606640,
+   "sha256": "55ec41f9ab9ce2196ed1447f342ae5f17c666e6ef0d9e57701494c61d56563b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1764857",
+ "title": "Clicker de calabaza de Halloween",
+ "slug": "halloween-pumpkin-clicker",
+ "url": "https://makerworld.com/en/models/1764857-halloween-pumpkin-clicker",
+ "author": "hollowmaker",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Clicker de calabaza de Halloween\n\n¡El pequeño juguete perfecto para Halloween!\nEste clicker de calabaza combina la apariencia de una Jack-o'-Lantern sonriente con el satisfactorio clic de un teclado mecánico Switch.\n\nDetalles del modelo\nConsta de 3 piezas impresas que se pueden montar fácilmente.\nRequiere 1 teclado mecánico Switch (recomiendo interruptores azules para un clic fuerte y satisfactorio, disponibles en Amazon).\n¡No se requiere pegamento! Las piezas encajan entre sí, pero una gota de pegamento puede ayudar a asegurar el Switch dentro de la carcasa inferior si es necesario.\nPreparación Switch\n\nAntes del montaje, utilice cortadores laterales para quitar los dos pasadores y, si es necesario, la pequeña protuberancia en la parte inferior del Switch para que encaje correctamente.\n\nRecomendaciones de impresión\nRecomiendo encarecidamente utilizar la placa fría SuperTack de Bambu Lab para esta impresión, ya que la calabaza tiene un área de contacto muy pequeña con la placa de construcción.\nSi está imprimiendo en una placa PEI, asegúrese de aplicar 3DLac o laca para el cabello para mejorar la adhesión y evitar impresiones fallidas.",
+ "use_cases": [],
+ "tags": [
+  "teclado",
+  "taconeador",
+  "agitarse",
+  "agitación nerviosa",
+  "switch",
+  "juguete",
+  "satisfactorio",
+  "víspera de todos los santos",
+  "horror"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US916cb9740444a8/design/2025-09-04_54de5e5a106a7.gif",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1878010.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1878023.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1878015.jpg": [
+   600,
+   450
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

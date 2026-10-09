@@ -1,0 +1,151 @@
+{
+ "files": [
+  {
+   "path": "model/arana-arrastrehuesos.3mf.xz",
+   "instance_id": "3792472",
+   "thumbnail": "previews/profiles/3792472.jpg",
+   "print_time_h": 9.1,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X2D",
+    "X1",
+    "H2S",
+    "A1",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.16mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-09-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22982100,
+   "sha256": "c096a0946d013a7199460640379326f0f7c0ed69359652350e26175f1e6a310a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3338606",
+ "title": "ARAÑA ARRASTREHUESOS",
+ "slug": "bonecrawler-spider",
+ "url": "https://makerworld.com/en/models/3338606-bonecrawler-spider",
+ "author": "CorwineCustoms",
+ "category": "halloween-2026",
+ "source_category": "Miniaturas > Animales",
+ "description": "Membresía DESBLOQUEO DE MEMBRESÍA\nModelo personalizado mensual solo para TI\nDerechos completos de impresión/venta de todos mis modelos.\nAcceso a mis fotos y plantillas de publicaciones.\nApoya a mi familia + alimenta mi locuraBONECRAWLER SPIDER\nAl parecer, alguien desenterró un cementerio de arañas e inmediatamente empeoró la situación.\nUna araña esquelética de huesos gruesos con cabeza parecida a una calavera, abdomen acanalado expuesto, colmillos enormes y ocho patas de pesadilla absolutamente innecesarias.\n\nBROMA DE PAPÁ: ¿Por qué echaron a la araña esqueleto del cementerio?\nDemasiadas violaciones web.\n\nEL DESGLOSE\nVibe Check: espeluznante, esquelético, monstruoso, listo para Halloween\nEstilo de construcción: modelo de pantalla de una pieza\nCoincidencia de filamento: blanco hueso, marfil, negro mate, gris, filamento brillante o algo asqueroso como verde sucio\nPropósito: exhibición de Halloween, monstruo de escritorio, decoración de estantes, criatura de mesa o traumatismo doméstico estratégicamente colocado.\n\nPOR QUÉ LO NECESITAS\nLos huesos gruesos y de gran tamaño le dan a la araña una apariencia esquelética brutal y pesada.\nLa cabeza inspirada en una calavera con colmillos de gran tamaño hace que esta cosa parezca considerablemente más enojada que una araña promedio\nEl abdomen acanalado, los detalles de la columna, las articulaciones, las garras y la textura ósea lo hacen interesante desde todos los ángulos.\n¡Impulsame, IMPULSAME! Cada impulso es como un choque de manos de los Dioses Creadores.\nMe mantiene imprimiendo, diseñando y sobreviviendo con cafeína y chistes de papá. Es gratis. Impulsarlo.",
+ "use_cases": [],
+ "tags": [
+  "esquelético",
+  "animal esquelético",
+  "araña esquelética",
+  "araña",
+  "'huesos",
+  "hueso",
+  "hueso 2026",
+  "estética ósea",
+  "araña de hueso",
+  "esqueleto de araña",
+  "araña espeluznante",
+  "espeluznante"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9f666140c073b6/design/c08d68fd3e2a1f6c.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   750
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/11.jpg": [
+   750,
+   1000
+  ],
+  "previews/12.jpg": [
+   750,
+   1000
+  ],
+  "previews/13.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3792472.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

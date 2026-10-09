@@ -1,0 +1,156 @@
+{
+ "files": [
+  {
+   "path": "model/craneo-envenenado-13h12.3mf.xz",
+   "instance_id": "2909212",
+   "thumbnail": "previews/profiles/2909212.jpg",
+   "print_time_h": 13.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "1AMS",
+    "creation_date": "2026-04-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6656744,
+   "sha256": "1723d11f45f9e1ffec26db65635363249cecc89e8c20d6839ad66e9971625a46",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/craneo-envenenado-monocolor-3h12.3mf.xz",
+   "instance_id": "2913129",
+   "thumbnail": "previews/profiles/2913129.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "P2S",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S",
+    "P1P",
+    "A1 mini",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Monocolor",
+    "creation_date": "2026-04-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 6456952,
+   "sha256": "900f41a7e8924986f723110429d690e2bd3d186bb540f5b35da982bf50af821f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2634075",
+ "title": "Cráneo envenenado Apple",
+ "slug": "poisoned-skull-apple",
+ "url": "https://makerworld.com/en/models/2634075-poisoned-skull-apple",
+ "author": "BigSimi",
+ "category": "halloween-2026",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Un Apple envenenado estilizado con una parte superior goteante en forma de calavera, inspirado en la estética oscura de los cuentos de hadas. El diseño mantiene la silueta clásica del Apple al tiempo que agrega un toque más inquietante y reconocible.",
+ "use_cases": [],
+ "tags": [
+  "apple",
+  "envenenado",
+  "envenenado apple",
+  "veneno",
+  "veneno apple",
+  "veneno apple cráneo",
+  "cráneo",
+  "calavera 2026",
+  "cráneo 3d",
+  "víspera de todos los santos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1d9f6fe4209777/design/1958e2b3f2e06323.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2909212.jpg": [
+   600,
+   465
+  ],
+  "previews/profiles/2913129.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

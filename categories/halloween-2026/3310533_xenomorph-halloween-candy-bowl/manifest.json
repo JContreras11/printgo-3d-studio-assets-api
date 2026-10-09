@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/tazon-dulces.3mf.xz",
+   "instance_id": "3758295",
+   "thumbnail": "previews/profiles/3758295.jpg",
+   "print_time_h": 20.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 3% infill",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "3%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 26798904,
+   "sha256": "fd6c2deb5ca429071ddfa5be8eb03850720c3955ad9ed5a0145acc20075184ed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3310533",
+ "title": "¡Tazón de dulces de Halloween xenomorfo!",
+ "slug": "xenomorph-halloween-candy-bowl",
+ "url": "https://makerworld.com/en/models/3310533-xenomorph-halloween-candy-bowl",
+ "author": "AEMravan",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Tazón de caramelo xenomorfo\n¡Un modelo más de Xenomorph para subir y prometo que ya terminé por un rato! ¡Aquí hay un increíble soporte para Candy Bowl para las próximas vacaciones de Halloween! Es una impresión de una sola pieza, eso sí, bastante larga y con una cantidad de soportes que quitar, ¡pero el resultado final es bastante impresionante!\n\nRecomiendo encarecidamente imprimir en un PLA mate para ayudar con la eliminación del soporte. ¡No es el cuenco más grande, pero definitivamente es un tema de conversación para tu escritorio de oficina!",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "víspera de todos los santos 2026",
+  "extranjero",
+  "extraterrestre - la película",
+  "xenomorfo",
+  "tazón de dulces xenomorfo",
+  "dulce",
+  "bol",
+  "tazón de dulces",
+  "personaje",
+  "película"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc36cffa8d6099b/design/7feecb47ae80e3f9.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1249
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3758295.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

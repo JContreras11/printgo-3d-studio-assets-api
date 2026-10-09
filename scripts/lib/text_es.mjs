@@ -27,9 +27,9 @@ export function sanitize(text) {
   let s = String(text)
     .replace(/<(br|\/p|\/div|\/li|\/h\d)\s*\/?>/gi, "\n")
     .replace(/<[^>]*>/g, "");
-  // Entidades pueden venir doble-codificadas (&#39;): se decodifican hasta estabilizar,
-  // así sanitize(sanitize(x)) === sanitize(x) y validate nunca ve texto a medio decodificar.
-  for (let i = 0; i < 3 && /&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/i.test(s); i++) {
+  // Entidades pueden venir multi-codificadas (&amp;#39; se acumula en la caché entre corridas):
+  // se decodifican hasta estabilizar (tope 10), así sanitize() es idempotente y nunca ve texto a medio decodificar.
+  for (let i = 0; i < 10 && /&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/i.test(s); i++) {
     s = s.replace(/&(#\d+|#x[0-9a-f]+|[a-z]+\d*);/gi, (m, e) => {
       if (e[0] === "#") return String.fromCodePoint(e[1] === "x" || e[1] === "X" ? parseInt(e.slice(2), 16) : +e.slice(1));
       return ENTITIES[e.toLowerCase()] ?? " ";

@@ -1,0 +1,103 @@
+{
+ "files": [
+  {
+   "path": "model/colmillos-calabaza.3mf.xz",
+   "instance_id": "3793479",
+   "thumbnail": "previews/profiles/3793479.jpg",
+   "print_time_h": 7.4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "A1 mini",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 4836196,
+   "sha256": "1d0f8c2d84129fe0ba4f28b26dd9a826dbe4d9bd1b1b954884d2be796e8bc992",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3339356",
+ "title": "colmillos de calabaza",
+ "slug": "pumpkin-fangs",
+ "url": "https://makerworld.com/en/models/3339356-pumpkin-fangs",
+ "author": "Cadu_ceus",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Fiestas",
+ "description": "Dientes atornillados para calabazas talladas\nDientes de dos piezas para fijar a caras de calabaza talladas. Cada diente consta de un diente y un tornillo separado.\n\nDependiendo del espacio disponible hay dos opciones de montaje.\nPegue el diente y atorníllelos, luego atorníllelos ambos en la calabaza.\nPara espacios reducidos, primero gire los tornillos en la calabaza y luego coloque los dientes en los tornillos.\n\nSi es necesario, los tornillos también se pueden girar utilizando la llave hexagonal incluida con cada impresora 3D Bambu para atornillar.\n\nRecomiendo un filamento fuerte como PETG para los tornillos.\nLo mejor es usar mis ajustes preestablecidos de impresión.\n\nAltura de capa de 0,1 mm para los dientes para obtener mejores detalles\naltura de capa variable y relleno sólido para los tornillos\nVelocidad de impresión reducida para impresiones más estables.",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "víspera de todos los santos",
+  "dientes",
+  "colmillos",
+  "tallado",
+  "decoración",
+  "bricolaje",
+  "artesanía",
+  "2026",
+  "aterrador",
+  "espeluznante",
+  "monstruo"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-09-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe3a22191a485fd/design/6166a55339aaa98a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   752
+  ],
+  "previews/04.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/3793479.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

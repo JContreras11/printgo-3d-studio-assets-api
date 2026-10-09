@@ -1,0 +1,190 @@
+{
+ "files": [
+  {
+   "path": "model/fantasma-halloween-multicolor-5h12.3mf.xz",
+   "instance_id": "3661746",
+   "thumbnail": "previews/profiles/3661746.jpg",
+   "print_time_h": 5.2,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "A2L",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Full Color",
+    "creation_date": "2026-08-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 40529044,
+   "sha256": "b5e710f869dbdd73c3c38f04a941cc40a33f601511ada48f92e156c04da202a6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fantasma-halloween-13h42.3mf.xz",
+   "instance_id": "3684403",
+   "thumbnail": "previews/profiles/3684403.jpg",
+   "print_time_h": 13.7,
+   "plates": 6,
+   "rating": 4.6,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "A1",
+    "X1",
+    "X1 Carbon",
+    "H2S",
+    "H2D",
+    "P1P",
+    "A1 mini",
+    "P1S",
+    "H2C",
+    "X2D",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "NO AMS - Split Parts",
+    "profile_notes": "No AMS version. Plate 5 has optional orientation of the witch hat, which is easier to remove supports from, but leave a less desirable texture on visible portions of the hat.",
+    "creation_date": "2026-09-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A2L",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 38065412,
+   "sha256": "3e4fb33b4447dc1202466dded5ce5359f105293e649b029fefb1e6130c86f855",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fantasma-halloween-2h42.3mf.xz",
+   "instance_id": "3715825",
+   "thumbnail": "previews/profiles/3715825.jpg",
+   "print_time_h": 2.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "P1S",
+    "A1 mini",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "NO AMS - 1 Color",
+    "profile_notes": "Easy print. 1 plate, 1 color, 1 nozzle",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 39805376,
+   "sha256": "16f05d6f764f6e311cb3dbdbd5ce61047d4df355c770492122bd2dc0d91b58cb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3232708",
+ "title": "Fantasma de Halloween tejido",
+ "slug": "knitted-halloween-ghost",
+ "url": "https://makerworld.com/en/models/3232708-knitted-halloween-ghost",
+ "author": "Wyofalcon",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Fantasma de Boost MeKnitted sosteniendo una calabaza que mi esposa quería para Halloween.",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "fantasma",
+  "calabaza",
+  "bruja",
+  "de punto",
+  "lindo",
+  "tejido 3d",
+  "tejer",
+  "lindo"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-08-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf8dd6da0237b9e/design/c4c435e278ac9973.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3661746.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3684403.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3715825.jpg": [
+   600,
+   449
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

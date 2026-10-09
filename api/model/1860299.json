@@ -1,0 +1,177 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-derretida-2h54.3mf.xz",
+   "instance_id": "1989613",
+   "thumbnail": "previews/profiles/1989613.jpg",
+   "print_time_h": 2.9,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 109,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "H2D Pro",
+    "X1",
+    "P1P",
+    "X1E",
+    "H2S",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "EASIER SUPPORTS 0.2mm layer, 2 walls",
+    "profile_notes": "Got to give the supports a good pull but they will come off.",
+    "creation_date": "2025-10-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(manual)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 17650032,
+   "sha256": "64bd3acababed24b3d7eede6d9b430d25b2d9c30050f5e6d64309bcf7a813b43",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-derretida-12h54.3mf.xz",
+   "instance_id": "1989669",
+   "thumbnail": "previews/profiles/1989669.jpg",
+   "print_time_h": 12.9,
+   "plates": 2,
+   "rating": 4.7,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "250% scale 2 plates",
+    "profile_notes": "250% scale. Looks so cool",
+    "creation_date": "2025-10-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(manual)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 18069476,
+   "sha256": "c7dca8a86b86f981c39460294413e3eb5925378fda61a6e7a9e035c2ff06bf6f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1860299",
+ "title": "Calabaza derretida - Decoración de Halloween",
+ "slug": "melted-pumpkin-halloween-decoration",
+ "url": "https://makerworld.com/en/models/1860299-melted-pumpkin-halloween-decoration",
+ "author": "sistagull",
+ "category": "halloween-2026",
+ "source_category": "Hogar > Decoración",
+ "description": "Realmente me encanta cómo quedó esta calabaza de Halloween derretida. Puede estar seguro de que esto generará algunas reacciones de las personas que lo vean. Espero que lo disfrutes también.\n\nHe impreso mucho antes de terminar con este diseño y este perfil de impresión.\n\nDetalles:\nFácil de imprimir\nCompatible con candelitas\nPerfil de escala del 250 % disponible\nHueco por dentro hasta el final para permitir el paso de la luz.\n\nConsejos de impresión:\n2 paredes (en impresiones más pequeñas puedes hacer 1 pared, pero creo que es mejor usar 2 paredes)\ncapa de 0,2 mm\n0% de relleno (importante para dejar pasar la luz)\nHay que tener un poco de cuidado con las gotitas. Especialmente no los use como manija mientras retira los soportes.\nMuy recomendable imprimir con el perfil de impresión incluido, ya que he pasado mucho tiempo ajustando soportes. Todavía es un poco difícil de quitar, pero aún así es muy factible.\nActualización:\n07-10-2025: Mejores perfiles de impresión. Gracias a quien lo señala.\n11-10-2025: Mucho menos soporte y MUCHO más fácil de quitar",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "escalofriante",
+  "calabaza",
+  "jack o lantern",
+  "caer",
+  "decoración",
+  "aterrador",
+  "lindo",
+  "frío",
+  "luz led"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd8490542dde748/design/2025-10-05_5c6082f9f3bed8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   531
+  ],
+  "previews/09.jpg": [
+   1000,
+   588
+  ],
+  "previews/profiles/1989613.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1989669.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

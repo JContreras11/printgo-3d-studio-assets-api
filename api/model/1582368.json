@@ -1,0 +1,146 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-joyeria-4h24.3mf.xz",
+   "instance_id": "1665567",
+   "thumbnail": "previews/profiles/1665567.jpg",
+   "print_time_h": 4.4,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 527,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "P2S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X1",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 8899156,
+   "sha256": "8c40052e8f02282e4c01934599f7f77c8cd2dc03b1cd0f0b34a602f853f8ad81",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-joyeria-20h12.3mf.xz",
+   "instance_id": "3009631",
+   "thumbnail": "previews/profiles/3009631.jpg",
+   "print_time_h": 20.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm nozzle, 0.1mm layer, 4 walls, 15% infill",
+    "profile_notes": "Hey all, my daughter wanted some adjustments like more space for bracelets and some more hangers, in the final version i also added some small adjustments to the bracelet holders so that thez dont fall off",
+    "creation_date": "2026-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.1",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 9066020,
+   "sha256": "f06cea90571a933d8f4c321e7d71910b4bb0f713776ac253364981ddd95f5b00",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1582368",
+ "title": "Soporte de joyería para pendientes, collares, pulseras, etc.",
+ "slug": "jewelry-stand-for-earrings-necklaces-bracelets-etc",
+ "url": "https://makerworld.com/en/models/1582368-jewelry-stand-for-earrings-necklaces-bracelets-etc",
+ "author": "Printing3Design",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Boost MeEspero que os guste! Si desea apoyar mi trabajo, mejore mi modelo. Vea mi nueva versión mejorada 2:\n\nEste soporte para joyas está fabricado con plástico PLA ecológico con una impresora 3D y es la solución ideal para guardar sus joyas con estilo. Ofrece espacio para pendientes, collares, pulseras, anillos, relojes y otros pequeños accesorios.\nEl moderno diseño minimalista encaja perfectamente en el tocador, en el baño o en el dormitorio y le ayuda a mantener sus joyas ordenadas y al alcance de la mano.\nPuede elegir entre varios colores, por lo que tiene la garantía de encontrar la variante adecuada que combine con su estilo o como regalo para alguien especial.\nDetalles:\n- Material: PLA\n- Producido con proceso de impresión 3D.\nDisponible en una variedad de colores.\n- Mucho espacio para todo tipo de piezas de joyería.\n- Ligero, estable y duradero\nUn regalo bonito y práctico para cualquiera que ame sus joyas y quiera mantenerlas bien organizadas.",
+ "use_cases": [],
+ "tags": [
+  "joyas",
+  "titular de la joyería",
+  "joyero",
+  "organizador de joyas",
+  "almacenamiento de joyas",
+  "dos de ellos",
+  "collar",
+  "pendiente",
+  "pendientes",
+  "collares",
+  "brazalete",
+  "titular de la pulsera"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US4544d98593fda2/design/2025-07-06_06aab4e7359c78.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1665567.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3009631.jpg": [
+   600,
+   270
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

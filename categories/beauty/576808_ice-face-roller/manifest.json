@@ -1,0 +1,107 @@
+{
+ "files": [
+  {
+   "path": "model/rodillo-cara.3mf.xz",
+   "instance_id": "497422",
+   "thumbnail": "previews/profiles/497422.jpg",
+   "print_time_h": 4.1,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 264,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A1",
+    "X1E",
+    "P1P",
+    "X1 Carbon",
+    "X1",
+    "A1 mini",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Ice Face Roller",
+    "profile_notes": "0.12mm layer height 15% infill Material: PLA 2 walls",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14649,
+      "weight_g": 51.85,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#00AE42"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 2120668,
+   "sha256": "2bde563c020b610edff3f67183713c8a6f8a05d4f2cce8c666e3942aefbf3232",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "576808",
+ "title": "Rodillo de cara de hielo",
+ "slug": "ice-face-roller",
+ "url": "https://makerworld.com/en/models/576808-ice-face-roller",
+ "author": "AlbertMakes",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "Ice Face Roller V3: herramienta de belleza criogénica reutilizable\nEste rodillo de hielo imprimible en 3D es una herramienta elegante y recargable diseñada para reducir la hinchazón, tensar la piel y mejorar su brillo natural. Inspirado en los populares rodillos de silicona, es perfecto para las rutinas diarias de cuidado facial.\nCaracterísticas:\nDiseño recargable y reutilizable\nAgarre ergonómico para un uso cómodo\nAñade rodajas de limón, pepino o té verde para personalizar tu hielo.\nFácil de imprimir: no se necesitan soportes\nCómo utilizar:\nLlena el molde con agua o los ingredientes que elijas.\nCongelar durante 4 a 6 horas\nEspera 20 min después de sacarlo del congelador.\nPase suavemente sobre su cara, ojos y cuello para un masaje refrescante.\nConfiguración de impresión:\nAltura de la capa: 0,2 mm\nRelleno: 15%\nMaterial: Se recomienda PETG o PLA apto para alimentos\nSoportes: No requerido\n\n¿Quieres vender impresiones 3D de este modelo?\nLicencia Comercial Disponible en mi perfil",
+ "use_cases": [],
+ "tags": [
+  "hielo",
+  "rostro",
+  "rodillo",
+  "útil",
+  "salud",
+  "belleza",
+  "protección de la piel"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-07",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8527147053e06f/design/2025-04-28_4345f18a57ce88.webp",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   749
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/497422.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

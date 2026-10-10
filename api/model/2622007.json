@@ -1,0 +1,187 @@
+{
+ "files": [
+  {
+   "path": "model/herramienta-trenzado-18min.3mf.xz",
+   "instance_id": "2894142",
+   "thumbnail": "previews/profiles/2894142.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 43,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "H2S",
+    "P1S",
+    "P1P",
+    "H2D",
+    "X2D",
+    "H2C",
+    "A1",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.28mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.28mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-03-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1568440,
+   "sha256": "69251d3a2da14b2788a82044682cd5833c30a8f04f84190b18e91ccb44124980",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/herramienta-trenzado-12min.3mf.xz",
+   "instance_id": "3642319",
+   "thumbnail": "previews/profiles/3642319.jpg",
+   "print_time_h": 0.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": false,
+   "printers": [
+    "H2S",
+    "P2S",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "H2D",
+    "X2D",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Concentric Infill TimeSaver",
+    "profile_notes": "0.25mm layer, 1 walls, 0% infill 0.5mm xy compensation to give it some more room for hair",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.25",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1612452,
+   "sha256": "a5b4ce19011a01a2785ec864c4c4200400f353abe48225194039c302b089c0a5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/herramienta-trenzado-24min.3mf.xz",
+   "instance_id": "3677408",
+   "thumbnail": "previews/profiles/3677408.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P2S",
+    "A1 mini",
+    "X1 Carbon",
+    "A1",
+    "A2L",
+    "H2D",
+    "X1",
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "X2D",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "ABS 0.2mm layer, 4 walls, 20% infill",
+    "profile_notes": "profil optimiser en abs et plus résistant",
+    "creation_date": "2026-08-31",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1862364,
+   "sha256": "ba8aca686074f5caa94f9837c7a09c97380acaf5fa1f118a210cab73bd413002",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2622007",
+ "title": "herramienta de trenzado",
+ "slug": "braiding-tool",
+ "url": "https://makerworld.com/en/models/2622007-braiding-tool",
+ "author": "ABODesign",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Esta herramienta es un clip para peinar trenzas francesas, diseñado para simplificar el proceso de creación de una clásica \"cola de pez\" o trenza francesa.\nCaracterísticas clave:\nDiseño: Presenta una estructura flexible, en zigzag o en forma de \"S\" con múltiples bucles que actúan como guías para las secciones de cabello.\nFunción: Mantiene los mechones de cabello en su lugar mientras los tejes, evitando que la trenza se afloje o se vuelva desigual mientras trabajas.\nBeneficio: Es especialmente útil para principiantes o para quienes se peinan ellos mismos, ya que mantiene las secciones organizadas y garantiza una apariencia simétrica.\nSe diferencia de los modelos más comunes porque cada curva tiene una pequeña muesca (o protuberancia) que ayuda a mantener los mechones de cabello en su lugar de forma segura.\nImpúlsame *************************************\nEcha un vistazo a mi colección Party (enlace aquí).",
+ "use_cases": [],
+ "tags": [
+  "trenza",
+  "herramienta para trenzar el cabello",
+  "herramienta para hacer trenzas",
+  "herramienta para tejer el cabello",
+  "trenza fácil",
+  "peinado de trenza",
+  "accesorio de trenza",
+  "accesorio para el cabello",
+  "peinado",
+  "herramienta de peinado",
+  "mujer"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1d28797546c0f/design/0602c366971cbfd6.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2894142.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3642319.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3677408.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

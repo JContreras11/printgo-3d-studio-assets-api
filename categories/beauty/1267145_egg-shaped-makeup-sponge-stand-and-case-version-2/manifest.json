@@ -1,0 +1,150 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-estuche-1h48.3mf.xz",
+   "instance_id": "1293104",
+   "thumbnail": "previews/profiles/1293104.jpg",
+   "print_time_h": 1.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 104,
+   "by_designer": true,
+   "printers": [
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.98",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-03-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6487,
+      "weight_g": 41.11,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1342004,
+   "sha256": "0df2b6dbf4c183523e96610f88dba809623e56cb6b9e59ff20a1d3cbb51d37ee",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-estuche-1h54.3mf.xz",
+   "instance_id": "1665546",
+   "thumbnail": "previews/profiles/1665546.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 86,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "P1S",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "A1 Mini 0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-07-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1398292,
+   "sha256": "2fbaaceaf182dc5efdbb4d3cba4cfca4e8b3f7fb6a24aab84f549053d0ea6c9c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1267145",
+ "title": "Soporte y estuche para esponja de maquillaje en forma de huevo, versión 2",
+ "slug": "egg-shaped-makeup-sponge-stand-and-case-version-2",
+ "url": "https://makerworld.com/en/models/1267145-egg-shaped-makeup-sponge-stand-and-case-version-2",
+ "author": "TheAllegededEng",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Boost Me¿Te gusta este modelo? ¿Disfrutas viendo iteraciones de modelos que diseño? Por favor, impulse el soporte. Muchas gracias. Este modelo ha sido diseñado para adaptarse a una esponja de maquillaje Beauty Blender, pero todas las esponjas de maquillaje deben caber. Dispone de un mecanismo de cierre por giro, para poder transportarlo dentro de un neceser de maquillaje, sin que se suelte. Dispone de salidas de aire para favorecer el secado y prevenir el moho. Se ha dimensionado para que quepa tanto en un beauty blender húmedo como en seco (ya que se expande cuando está mojado).\n\nLa mitad inferior está moleteada para permitir abrir y cerrar fácilmente con las manos mojadas.\n\nTambién se puede utilizar como soporte sin el estuche, para lograr una apariencia estéticamente agradable en un estante de maquillaje.\n\nMejoras de la versión 2:\n\nComo resultado de los comentarios sobre mi modelo original, he creado una versión 2. Esta versión es más compacta, tiene un mejor flujo de aire para mejorar aún más el secado y es más agradable estéticamente.\n\nEnlace versión 1",
+ "use_cases": [],
+ "tags": [
+  "belleza",
+  "accesorios de belleza",
+  "accesorio de belleza",
+  "belleza y fitness",
+  "licuadora de belleza",
+  "soporte para licuadora de belleza",
+  "soporte de licuadora de belleza",
+  "constituir",
+  "accesorios de maquillaje",
+  "bolsa de maquillaje",
+  "caja de maquillaje",
+  "brocha de maquillaje"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US865c170caafa77/design/2025-03-30_271879f3894f9.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/1293104.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1665546.jpg": [
+   600,
+   440
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

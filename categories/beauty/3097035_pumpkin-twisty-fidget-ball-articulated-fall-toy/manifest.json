@@ -1,0 +1,242 @@
+{
+ "files": [
+  {
+   "path": "model/calabaza-twisty-4h18.3mf.xz",
+   "instance_id": "3490487",
+   "thumbnail": "previews/profiles/3490487.jpg",
+   "print_time_h": 4.3,
+   "plates": 1,
+   "rating": 4.6,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1P",
+    "H2S",
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "A2L",
+    "X1E",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Pumpkin Twisty Fidget",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2188724,
+   "sha256": "21a51ee1a50018a509023c846ae7caba9125c81438b6073a3c4b591157051bbc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-twisty-monocolor-2h48.3mf.xz",
+   "instance_id": "3836284",
+   "thumbnail": "previews/profiles/3836284.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "P2S",
+    "X1 Carbon",
+    "H2S",
+    "A2L",
+    "X1E",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V2 Updated Thicker Stem-single color",
+    "creation_date": "2026-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 1936720,
+   "sha256": "053d7cf29ebdd686a3a4b47ce43475373222f5496913b984df2ad2649eeda1eb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-twisty-monocolor-3h54.3mf.xz",
+   "instance_id": "3783833",
+   "thumbnail": "previews/profiles/3783833.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Single Color",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Monocromo",
+   "size": 2163220,
+   "sha256": "22345c50b5f00c9c8695005644f9c06131ac700c9b49b5d2b2e1b3d547182035",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/calabaza-twisty-multicolor-3h06.3mf.xz",
+   "instance_id": "3836277",
+   "thumbnail": "previews/profiles/3836277.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "H2S",
+    "A1",
+    "X1E",
+    "A2L",
+    "H2D",
+    "P1S",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "V2 Updated Thicker Stem-2 colors",
+    "creation_date": "2026-09-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.28",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 2149808,
+   "sha256": "9a2b901ab9f2779a35b58d094989927fc6ec7eb9ad2c206ccfe84b9139300a31",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3097035",
+ "title": "Calabaza Twisty antiestrés Ball Juguete de caída articulado",
+ "slug": "pumpkin-twisty-fidget-ball-articulated-fall-toy",
+ "url": "https://makerworld.com/en/models/3097035-pumpkin-twisty-fidget-ball-articulated-fall-toy",
+ "author": "HudsonHomestead",
+ "category": "beauty",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "V2: este Twisty se ha actualizado con una potencia más gruesa. He mantenido disponible el perfil de impresión original, ¡pero la versión 2 es nueva y mejorada!\n\nUna licencia comercial para vender copias impresas de mis diseños está disponible a través de mi suscripción a Patreon y MakerWorld Commercial License.\n¡Celebra la temporada con esta Pumpkin Twisty antiestrés Ball! Diseñada con un satisfactorio giro en espiral, esta calabaza articulada se expande, gira y comprime para una diversión infinita y al mismo tiempo es una linda adición a tu decoración de otoño.\n¡Combina este juguete con mi estante de calabaza!\nImpreso como una sola pieza sin necesidad de soportes, es una impresión rápida y divertida para todas las edades. Ya sea que esté buscando un juguete sensorial, un compañero de escritorio, un adorno para los calcetines o una decoración festiva de otoño, esta calabaza está lista para brindar un poco de diversión otoñal dondequiera que vaya.\nImprimir notas:\nNo se requieren soportes\nImpresiones en una sola pieza.\nDiseño en espiral articulado\nIdeal para juegos sensoriales e inquietudes.\nPerfecto para exhibiciones de otoño, Halloween y otoño.\nSi no se tuerce inmediatamente después de la impresión, separe suavemente las secciones para romper los pequeños sellos de la primera impresión.",
+ "use_cases": [],
+ "tags": [
+  "calabaza",
+  "calabaza 2026",
+  "decoración de calabaza",
+  "decoracion de calabaza",
+  "inquietud de calabaza",
+  "agitarse",
+  "pelota antiestrés",
+  "retorcido",
+  "bola retorcida",
+  "girar",
+  "bola giratoria"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US253ec9328b4ccc/design/25c54271eaf99251.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1333
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3490487.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3836284.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3783833.jpg": [
+   600,
+   613
+  ],
+  "previews/profiles/3836277.jpg": [
+   600,
+   800
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

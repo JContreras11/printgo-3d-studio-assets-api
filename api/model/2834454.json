@@ -1,0 +1,184 @@
+{
+ "files": [
+  {
+   "path": "model/porta-brochas-5h30.3mf.xz",
+   "instance_id": "3158841",
+   "thumbnail": "previews/profiles/3158841.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 138,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1E",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 23400864,
+   "sha256": "3cfeaea4ae3952e2bff027221cda4e4da86759b95ec74d05ffde195388e3a60e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/porta-brochas-3h54.3mf.xz",
+   "instance_id": "3878779",
+   "thumbnail": "previews/profiles/3878779.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "P2S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "模型优化，减少面数，提高打印效率，适配A1和P系列",
+    "creation_date": "2026-05-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1832180,
+   "sha256": "7fa69f19680755ca83f3c2eb61b3ffbb187b765b733c1970e82429bab0356e00",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/porta-brochas-4h12.3mf.xz",
+   "instance_id": "3846307",
+   "thumbnail": "previews/profiles/3846307.jpg",
+   "print_time_h": 4.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1",
+    "P2S",
+    "P1P",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "P1S",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "调整填充，优化支撑",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.28",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1849340,
+   "sha256": "f13d0d5daa628583067c9cc81ac96eb91082290b4e0ba18a1f8dbd7d3266f3ce",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2834454",
+ "title": "Porta brochas de maquillaje - Lazo",
+ "slug": "makeup-brush-holder-bow",
+ "url": "https://makerworld.com/en/models/2834454-makeup-brush-holder-bow",
+ "author": "Pappis320",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Boost MeCada impulso me ayuda a crear más modelos. Por favor, aumente si le gusta:) ¡Gracias! Membresía Obtenga una licencia comercial completa para todos mis modelos: solo $ 3 al mes. Este soporte para brochas de maquillaje está diseñado con la forma de un elegante lazo y combina un encanto divertido con una apariencia elegante y femenina. Sus suaves curvas y su forma decorativa lo hacen práctico y llamativo.\nPerfecto para organizar brochas de maquillaje y artículos esenciales de belleza, el soporte para brochas de maquillaje Bow agrega un toque delicado y elegante a su tocador o espacio de trabajo.\nTamaño: 15cm",
+ "use_cases": [],
+ "tags": [
+  "portaescobillas",
+  "constituir",
+  "portaescobillas de maquillaje",
+  "soporte para cepillos",
+  "titular",
+  "pararse",
+  "arco",
+  "femenino",
+  "decoración",
+  "belleza",
+  "cepillar"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-05-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US33cdfa57f76b36/design/911453caa08627a7.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/3158841.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3878779.jpg": [
+   600,
+   625
+  ],
+  "previews/profiles/3846307.jpg": [
+   600,
+   568
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

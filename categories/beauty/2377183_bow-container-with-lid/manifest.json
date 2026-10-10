@@ -1,0 +1,149 @@
+{
+ "files": [
+  {
+   "path": "model/contenedor-lazo-5h30.3mf.xz",
+   "instance_id": "2602494",
+   "thumbnail": "previews/profiles/2602494.jpg",
+   "print_time_h": 5.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 270,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "P2S",
+    "H2S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "regular supports for container tree supports for lid",
+    "creation_date": "2026-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 9615776,
+   "sha256": "69ecad7dc154a95a4693c8aebdaff5665adc2fe5e226bcb9fc544ea881b068a8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/contenedor-lazo-6h30.3mf.xz",
+   "instance_id": "2602515",
+   "thumbnail": "previews/profiles/2602515.jpg",
+   "print_time_h": 6.5,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 88,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "P2S",
+    "P1S",
+    "H2S",
+    "X1E",
+    "H2D",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "A1 Mini use regular supports for container use tree supports for lid",
+    "creation_date": "2026-02-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 9651964,
+   "sha256": "8d2c559040812d5c87d66d4eb164c74f06b16b27c77bc08286382293d6e8341d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2377183",
+ "title": "Contenedor de lazo con tapa",
+ "slug": "bow-container-with-lid",
+ "url": "https://makerworld.com/en/models/2377183-bow-container-with-lid",
+ "author": "Antidot",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Impúlsame Si te encantan nuestros diseños, impúlsanos para que podamos seguir ofreciendo impresiones para uso personal GRATIS. ¡Agradecemos su apoyo!:)\nMembresía ¿Te encantan nuestros diseños y quieres vender tus impresiones? ¡Ofrecemos licencia de venta! Para vender nuestras impresiones, elija el nivel local o el nivel en línea/comercial.\n¡Este ADORABLE contenedor de moños está súper de moda! ¡Perfecto para un tocador, una organización de baño o una linda idea para un regalo!\nEl contenedor imprime mejor con soportes normales. La tapa se imprime mejor con soportes para árboles.\n¡Se puede cambiar el tamaño fácilmente!\n\nINFORMACIÓN DE MEMBRESÍA:\nSi desea vender impresiones físicas, únase a nuestra membresía. ¡Supervisamos de cerca la tienda de Etsy y TT para garantizar la licencia adecuada de nuestros diseños! Diseñar requiere mucho tiempo y nos gusta mantener nuestras impresiones en MakerWorld para uso personal gratuito, ¡así que no lo arruines para todos!\nOfrecemos 2 opciones de membresía:\nNivel 1: Ventas locales para eventos de proveedores y tiendas minoristas.\nNivel 2: Ventas comerciales y en línea\n¡Las VENTAS DE NUESTRO ARCHIVO NUNCA ESTÁN PERMITIDAS Y SERÁN INFORMADAS!\nPor favor envíenos un mensaje si tiene alguna pregunta.",
+ "use_cases": [],
+ "tags": [
+  "arco de coqueta",
+  "arco",
+  "accesorios de arco",
+  "contenedor de proa",
+  "recipiente con tapa",
+  "adorable",
+  "tendencia",
+  "tendencias",
+  "decoración del baño",
+  "caja de tocador",
+  "decoración de tocador",
+  "accesorio de tocador"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-02-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USfabbcd4d88d957/design/19a3302b1572a0c8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1421
+  ],
+  "previews/02.jpg": [
+   1000,
+   1380
+  ],
+  "previews/03.jpg": [
+   1000,
+   912
+  ],
+  "previews/profiles/2602494.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2602515.jpg": [
+   600,
+   852
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

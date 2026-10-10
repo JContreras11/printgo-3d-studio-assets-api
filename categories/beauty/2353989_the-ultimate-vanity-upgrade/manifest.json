@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/mejor-actualizacion.3mf.xz",
+   "instance_id": "2574816",
+   "thumbnail": "previews/profiles/2574816.jpg",
+   "print_time_h": 5.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 52,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "X1",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "X1E",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Super Quality Profile",
+    "creation_date": "2026-02-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4245340,
+   "sha256": "bcb1d744980555746aaca1199f83eccf4481d9723b6dd1a6aa35e00dc59472fe",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2353989",
+ "title": "La mejor actualización de tocador",
+ "slug": "the-ultimate-vanity-upgrade",
+ "url": "https://makerworld.com/en/models/2353989-the-ultimate-vanity-upgrade",
+ "author": "cipriani3design",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "La mejor actualización de tocador\n\nOptimice su rutina de cuidado de la piel con este organizador doble acanalado de Cipriani 3Design Studio. Aprovechando la popularidad de nuestro dispensador único, este modelo mejorado integra un soporte exclusivo para hisopos de algodón (Q-tips) junto con las almohadillas de algodón, manteniendo todos sus elementos esenciales diarios en una unidad elegante y compacta.\n\nCaracterísticas clave:\nFuncionalidad 2 en 1: Capacidad para una pila completa de almohadillas de algodón redondas más un generoso suministro de hisopos de algodón/Q-tips en el compartimento lateral.\nDiseño acanalado exclusivo: la textura acanalada vertical añade un toque de lujo moderno a cualquier baño o tocador.\nAhorro de espacio: combina dos contenedores en un solo espacio, perfecto para maximizar el espacio del mostrador.\nFácil acceso: el diseño frontal abierto garantiza que puedas agarrar exactamente lo que necesitas sin tener que buscar las tapas.\nRecomendaciones de impresión:\nOrientación: Imprima en posición vertical sobre su base.\nSoportes: Diseñado para imprimirse sin soporte en impresoras bien ajustadas.\nMaterial: Luce fantástico en PLA mate (especialmente en tonos pastel o gris pardo) para una apariencia cerámica, o PETG para mayor durabilidad en baños húmedos.\nTotalmente redimensionable: ¿Tiene pads más grandes o más pequeños? ¡Puedes modificar fácilmente el tamaño en tu software de corte! Recomiendo escalar uniformemente por porcentaje (por ejemplo, escalar al 110 % o 90 %) para garantizar que las proporciones y la forma circular permanezcan perfectas.\nTabla de guía de escala\nDiámetro de la almohadilla de algodónDiámetro DischettoEscala recomendada (X/Y)55 - 57 mm (Pequeño)~ 2,2 pulgadas82%60 mm (Estándar Pequeño)~ 2,4 pulgadas86%70 mm (Predeterminado)~ 2,75 pulgadas100%80 mm (Grande/Maxi)~ 3,15 pulgadas115%90 mm (Extra Grande)~ 3,5 pulgadas130%100 mm (Jumbo)~ 4,0 pulgadas 145%\n¡Nos encanta ver tus marcas! Sube una foto de tu impresión (¡nos encantaría ver tus opciones de color!) y deja una calificación si esto te ayuda a organizar tu espacio.\n\n¡Sígueme en la página de Instagram para estar siempre un paso por delante de otros Makers!",
+ "use_cases": [],
+ "tags": [
+  "soporte para almohadilla de algodón",
+  "soporte qtip",
+  "dispensador de bastoncillos de algodon",
+  "soporte de disco",
+  "soporte para bastoncillos de algodón",
+  "almacenamiento de baño",
+  "organizador de maquillaje",
+  "decoración de tocador",
+  "hisopos de algodon",
+  "baño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2f49e1f62b5157/design/0ca58a11cb9e5f8a.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/2574816.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

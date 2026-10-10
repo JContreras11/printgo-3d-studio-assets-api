@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/aplicador-mascara.3mf.xz",
+   "instance_id": "1881634",
+   "thumbnail": "previews/profiles/1881634.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 4.2,
+   "rating_count": 35,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "X1E",
+    "X1",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "A1",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-09-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1646280,
+   "sha256": "259d906c610ce42f87f3e6a51ebeb59315d73740f72832cc271479bf45d1879d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1767904",
+ "title": "Aplicador de máscara de pestañas",
+ "slug": "mascara-shield-applicator",
+ "url": "https://makerworld.com/en/models/1767904-mascara-shield-applicator",
+ "author": "lafranci",
+ "category": "beauty",
+ "source_category": "Herramientas > Otras herramientas",
+ "description": "Un protector de rímel simple y de rápida impresión diseñado para proteger los párpados mientras se aplica el producto en las pestañas. Está diseñado para usarse tanto desde las pestañas superiores como desde las inferiores e inferiores, y en diferentes posiciones, sin embargo se siente más cómodo.\nCómo utilizar: simplemente colóquelo encima o debajo de las pestañas para evitar que el rímel se corra en los párpados, ayudará a mantener su apariencia limpia e impecable.",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "accesorios de maquillaje",
+  "máscara",
+  "utensilio para aplicar algo",
+  "escudo de mascara",
+  "blindaje",
+  "guardia",
+  "maquillaje de ojos",
+  "belleza",
+  "herramienta de belleza",
+  "protector",
+  "guardia protectora"
+ ],
+ "license": "BY-NC-ND",
+ "release_date": "2025-09-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USba81d94323d0f0/design/2025-09-05_aefe18f30db508.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.gif",
+  "previews/04.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.gif": [
+   464,
+   848
+  ],
+  "previews/04.gif": [
+   448,
+   720
+  ],
+  "previews/profiles/1881634.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

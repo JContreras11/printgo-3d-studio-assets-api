@@ -1,0 +1,203 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-cosmeticos-12h54.3mf.xz",
+   "instance_id": "2384050",
+   "thumbnail": "previews/profiles/2384050.jpg",
+   "print_time_h": 12.9,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 560,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Kosmetikorganizer",
+    "creation_date": "2026-01-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 1289508,
+   "sha256": "b33cefbadb76d77af5fc3ae038af992950b0601de25dde405967344e0ca22e1c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-cosmeticos-10h36.3mf.xz",
+   "instance_id": "2406346",
+   "thumbnail": "previews/profiles/2406346.jpg",
+   "print_time_h": 10.6,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 66,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "H2C",
+    "X2D",
+    "P1S",
+    "H2S",
+    "X1",
+    "P1P",
+    "P2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "A1 Mini Version 85% Scale",
+    "profile_notes": "85% Scale for A1 Mini",
+    "creation_date": "2026-01-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión mini",
+   "size": 1358632,
+   "sha256": "bcf8a453db421353cb5f69de03ac980448159628a482125871a249585b3191ed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-cosmeticos-42min.3mf.xz",
+   "instance_id": "3716409",
+   "thumbnail": "previews/profiles/3716409.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "P2S",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Plate Connector; 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "It's just a simple plate to help better connect multiple drawers together and make them stackable. I cut the bottom of the black/top piece and the top of the bottom/tan drawer piece, then just combined them. There's probably a far better way to do it but I'm not that smart, sorry.",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1347824,
+   "sha256": "c046e83941600c3727659f1f1ee4c2f0b0f2f51786b3319d38c67279118c4519",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2195350",
+ "title": "Organizador de cosméticos, Organizador de maquillaje.",
+ "slug": "cosmetic-organizer-make-up-organizer",
+ "url": "https://makerworld.com/en/models/2195350-cosmetic-organizer-make-up-organizer",
+ "author": "FoersterSepp",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "MembresíaLicencia a la venta disponible aquí ----->Boost MeEstoy feliz por todos los que me apoyan con un Boost GRATIS. Los pies están diseñados para pegar y la rejilla simplemente se conecta\nSi la rejilla se desprende de la cama de impresión, habilite el tipo de borde en la cortadora.\n\nSi lo desea, puede asegurar mejor la rejilla con pegamento, etc. si se tambalea demasiado.\n\nDimensiones aproximadas: 200 mm x 150 mm x 143 (largo x ancho x alto)\n\nDiviértete imprimiendo\nMe encantaría recibir fotos bonitas de comentarios o un impulso.\n\nPara más diseños sólo echa un vistazo a mi perfil:",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "productos cosméticos",
+  "organizador",
+  "joyas",
+  "organizar",
+  "orden",
+  "limpio",
+  "decoración",
+  "titular de cosméticos",
+  "fácil"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-01-03",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1bbef34529507d/design/2026-01-03_fe7e04c8447c08.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1006
+  ],
+  "previews/02.jpg": [
+   1000,
+   961
+  ],
+  "previews/03.jpg": [
+   1000,
+   820
+  ],
+  "previews/04.jpg": [
+   1000,
+   862
+  ],
+  "previews/05.jpg": [
+   1000,
+   873
+  ],
+  "previews/profiles/2384050.jpg": [
+   600,
+   576
+  ],
+  "previews/profiles/2406346.jpg": [
+   600,
+   548
+  ],
+  "previews/profiles/3716409.jpg": [
+   600,
+   770
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

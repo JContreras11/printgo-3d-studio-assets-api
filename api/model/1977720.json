@@ -1,0 +1,108 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-unas.3mf.xz",
+   "instance_id": "2127219",
+   "thumbnail": "previews/profiles/2127219.jpg",
+   "print_time_h": 1.7,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 132,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X2D",
+    "H2C",
+    "X1",
+    "H2S",
+    "A1",
+    "A2L",
+    "X1E",
+    "P1P",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer, variable layer height on plate 2 for the stands 15% infill",
+    "creation_date": "2025-11-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1921984,
+   "sha256": "ea90d5d574396cdc413def48a69ab04c8b7ff6c8dd470f996f03f61ab485296a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1977720",
+ "title": "Soporte para uñas postizas para práctica de Nail Art",
+ "slug": "nail-art-practice-false-nail-holder",
+ "url": "https://makerworld.com/en/models/1977720-nail-art-practice-false-nail-holder",
+ "author": "RobTurbo",
+ "category": "beauty",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "Otro modelo solicitado por mi esposa, un porta uñas postizas para practicar nail art.\n\nElla usa puntos de pegamento en gel para pegar las uñas, se mantienen lo suficientemente firmes como para trabajar con ellos, pero se pueden quitar con bastante facilidad cuando terminas, se pueden pegar directamente a los soportes, pero no estoy seguro de qué tan bien se despegarán para ser reutilizados.\n\nLos soportes son cónicos, por lo que se pueden empujar con suficiente firmeza para mantenerlos quietos o dejarlos un poco sueltos para poder girarlos si lo prefiere.\n\nImprimí en PLA efecto mármol, 15% de relleno, altura de capa de 0,2 mm, utilicé altura de capa variable para obtener una curva más suave en la parte superior de los soportes.",
+ "use_cases": [],
+ "tags": [
+  "arte de uñas",
+  "accesorios de uñas",
+  "clavo",
+  "esmalte de uñas",
+  "práctica",
+  "uñas postizas",
+  "clavos",
+  "artista de uñas"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2025-11-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScb17d7a30450d7/design/2025-11-09_ea53f993acf6c8.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/2127219.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

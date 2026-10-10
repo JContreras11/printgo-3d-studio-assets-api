@@ -1,0 +1,136 @@
+{
+ "files": [
+  {
+   "path": "model/bella-bestia-19h18.3mf.xz",
+   "instance_id": "2163437",
+   "thumbnail": "previews/profiles/2163437.jpg",
+   "print_time_h": 19.3,
+   "plates": 5,
+   "rating": 4.8,
+   "rating_count": 62,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "P2S",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-12-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 12797800,
+   "sha256": "162e108978db12a89a0ea66a28ea081ee3e122a461313d5ac9fec21b98d25222",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bella-bestia-8h48.3mf.xz",
+   "instance_id": "2334529",
+   "thumbnail": "previews/profiles/2334529.jpg",
+   "print_time_h": 8.8,
+   "plates": 1,
+   "rating": 3.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "A2L",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2C",
+    "X1E",
+    "X1 Carbon",
+    "H2D",
+    "X2D",
+    "P2S",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Regard différent",
+    "creation_date": "2025-12-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4398860,
+   "sha256": "9e5d6dcc7e7fbb05717948a1c3ee837aaac847d557e13d62161163b69454d3d9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2008534",
+ "title": "La Bella y la Bestia Lámpara Lumière",
+ "slug": "beauty-and-the-beast-lamp-lumiere",
+ "url": "https://makerworld.com/en/models/2008534-beauty-and-the-beast-lamp-lumiere",
+ "author": "Youle",
+ "category": "beauty",
+ "source_category": "Miniaturas > Personas",
+ "description": "Hola,\n\nTe comparto un archivo que te permite crear una hermosa lámpara \"Lumière\" de La Bella y la Bestia.\n\nEl archivo original es de Gunnarf1986.\n\nSe ha reelaborado para permitir que las piezas encajen y para imprimir con un montaje mínimo requerido.\n\nMateriales necesarios:\n\npegamento\nbombilla estilo llama LED\nSwitch + enchufe macho\nCable eléctrico de 0,75 mm² (4 longitudes de 35 cm) 2 conductores activos + 2 conductores neutros\nPortalámparas E14 de 28 mm de diámetro y 56 mm de altura.\nTutorial de montaje DISPONIBLE\n\nPreferiblemente use Bambu PLA como se indicó, esto evitará que el negro deje marcas en las partes blancas.\n\nLista de piezas:\nBOMBILLA DE LLAMA x 1:\nENCHUFE E14 x 1:\nENCHUFE + Switch x 1:\nCable eléctrico de 0,75 mm² x 1:\n\nImpulsame ¡¡¡Muchas GRACIAS!!!",
+ "use_cases": [],
+ "tags": [
+  "luz",
+  "la bella y la bestia",
+  "etiquetaleetlabete",
+  "disney",
+  "lámpara",
+  "araña"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US416425d9ee916b/design/2025-11-19_d224d8931fa3a8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1328
+  ],
+  "previews/02.jpg": [
+   1000,
+   1328
+  ],
+  "previews/profiles/2163437.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2334529.jpg": [
+   600,
+   499
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

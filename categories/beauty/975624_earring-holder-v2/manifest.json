@@ -1,0 +1,163 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-pendientes-3h54.3mf.xz",
+   "instance_id": "948349",
+   "thumbnail": "previews/profiles/948349.jpg",
+   "print_time_h": 3.9,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 209,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 6761,
+      "weight_g": 75.86,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7203,
+      "weight_g": 45.01,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 2
+   },
+   "name": "Impresión en PLA",
+   "size": 2895300,
+   "sha256": "8acdde10dd420fb94c641db7a493b18a7be500dea1659b6781703ca0017c0344",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-pendientes-2h48.3mf.xz",
+   "instance_id": "2242993",
+   "thumbnail": "previews/profiles/2242993.jpg",
+   "print_time_h": 2.8,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 30,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "P1S",
+    "X1",
+    "H2D",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Smaller version for A1 mini",
+    "creation_date": "2025-11-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 2958660,
+   "sha256": "2bd370cbec3e9e31b604d4d8dca2aba904ea934b2a2ff9140e53c96bacdb0fe7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "975624",
+ "title": "Soporte para pendientes V2",
+ "slug": "earring-holder-v2",
+ "url": "https://makerworld.com/en/models/975624-earring-holder-v2",
+ "author": "lullabaloo",
+ "category": "beauty",
+ "source_category": "Moda > Pendientes",
+ "description": "¡Precioso soporte para pendientes!\nEste V2 tiene más fuerza que el V1.\n¡Es más estable y mejor para aretes más pesados!\n¡Se adaptan a 49 pares de aretes!",
+ "use_cases": [],
+ "tags": [
+  "oreja",
+  "pendiente",
+  "pendientes",
+  "titular",
+  "diseño",
+  "3d",
+  "chicas",
+  "mujer",
+  "accesorio de mujer",
+  "para mujeres"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-01-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb71ce6a575e84f/design/2025-01-10_4d2ce9814293c.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1250
+  ],
+  "previews/profiles/948349.jpg": [
+   600,
+   535
+  ],
+  "previews/profiles/2242993.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

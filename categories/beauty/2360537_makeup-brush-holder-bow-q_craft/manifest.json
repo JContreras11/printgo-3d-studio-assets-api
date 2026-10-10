@@ -1,0 +1,144 @@
+{
+ "files": [
+  {
+   "path": "model/porta-brochas-2h24.3mf.xz",
+   "instance_id": "2582662",
+   "thumbnail": "previews/profiles/2582662.jpg",
+   "print_time_h": 2.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 35,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "H2D",
+    "H2S",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "X1",
+    "X2D",
+    "P1P",
+    "A2L",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "单独一个笔筒",
+    "profile_notes": "0.20mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-04-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1465476,
+   "sha256": "b4ba08adc70c8ed4ea81a40d1b55e8c362d14679ca1c1e556790866dfb12733a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/porta-brochas-3h06.3mf.xz",
+   "instance_id": "2582673",
+   "thumbnail": "previews/profiles/2582673.jpg",
+   "print_time_h": 3.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 250,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "A1",
+    "H2S",
+    "P1S",
+    "P2S",
+    "H2D Pro",
+    "X1E",
+    "H2C",
+    "A1 mini",
+    "X1",
+    "X2D",
+    "P1P",
+    "A2L",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "3个笔刷架",
+    "profile_notes": "0.20mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-04-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1723364,
+   "sha256": "b925514293eb2258a688980612d190b79741cdbbd3efd91e806a199cd7041294",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2360537",
+ "title": "Porta brochas de maquillaje - Lazo (Q_Craft)",
+ "slug": "makeup-brush-holder-bow-q_craft",
+ "url": "https://makerworld.com/en/models/2360537-makeup-brush-holder-bow-q_craft",
+ "author": "Q_Craft",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "2 opciones de tamaño\nSimple y elegante, lindo y práctico.\nSe recomienda una altura de capa adaptable\nCuando se utiliza filamento PLA Silk, se recomienda imprimir a una velocidad más lenta para obtener una superficie más brillante.\nSoportes mínimos, se necesitan alicates para quitar los soportes.",
+ "use_cases": [],
+ "tags": [
+  "baño",
+  "caja de almacenamiento de cosméticos",
+  "brocha de maquillaje/contenedor de brochas",
+  "almacenamiento",
+  "organización",
+  "recipiente",
+  "lindo",
+  "hermoso",
+  "chica",
+  "baño esencial",
+  "portaplumas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-06",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6bc5d33fb8ce5e/design/c7ec337351f52ca3.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2582662.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2582673.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

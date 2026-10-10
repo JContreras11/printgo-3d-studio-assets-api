@@ -1,0 +1,235 @@
+{
+ "files": [
+  {
+   "path": "model/caja-arbol-6h30.3mf.xz",
+   "instance_id": "1732318",
+   "thumbnail": "previews/profiles/1732318.jpg",
+   "print_time_h": 6.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 346,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "P1S",
+    "X1",
+    "H2D",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "H2C",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.76",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-07-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 956864,
+   "sha256": "ffb5e52356b9f6dfac6052d4f5575a66d58ba94964a9f46b94d0e18acb2531fa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-arbol-6h48.3mf.xz",
+   "instance_id": "3236512",
+   "thumbnail": "previews/profiles/3236512.jpg",
+   "print_time_h": 6.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 11,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "X1E",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1",
+    "A1",
+    "H2S",
+    "H2D Pro",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Fuzzy outer surfaces, split print",
+    "profile_notes": "Split printing of the box for better print quality, all 3 pieces on one plate Fuzzy skin on all outer surfaces to hide layer lines 0.2 mm layer height 2 walls 15% infill",
+    "creation_date": "2026-06-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1181036,
+   "sha256": "70ac3cd4195af49a7fa17986d1dea06abd86331389aa50902e5b05e4f4f44f53",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-arbol-7h24.3mf.xz",
+   "instance_id": "2907409",
+   "thumbnail": "previews/profiles/2907409.jpg",
+   "print_time_h": 7.4,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 12,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2C",
+    "X1E",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Split printing, 0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "-Model splitting -add connector",
+    "creation_date": "2026-04-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1249560,
+   "sha256": "efaf41a8ba81140dfcab6ee9f7bf0024b958b68c51b9fea92b1ed27e40ec616a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/caja-arbol-multicolor-5h24.3mf.xz",
+   "instance_id": "2821555",
+   "thumbnail": "previews/profiles/2821555.jpg",
+   "print_time_h": 5.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 39,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1",
+    "A1",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X1E",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "2 color with fuzzy skin box",
+    "profile_notes": "i used caramel and desert tan from bambulab",
+    "creation_date": "2026-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.25",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1119740,
+   "sha256": "a522ed7e8aa25c85fb4271cea9500bafa7a4877359f7c43bd985107f2558ae41",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1639611",
+ "title": "Caja de árbol de joyería",
+ "slug": "jewelry-tree-box",
+ "url": "https://makerworld.com/en/models/1639611-jewelry-tree-box",
+ "author": "Rafix095",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Joyero para árbol: elegante organizador para collares, aretes y anillos\nEste elegante joyero cuenta con un exclusivo soporte en forma de árbol para colgar collares, aretes o pulseras, manteniéndolos libres de enredos y bellamente exhibidos. La caja incluye un cajón espacioso para guardar anillos, brazaletes, perlas u otros artículos preciosos. Diseñado con un aspecto moderno y minimalista, es el complemento perfecto para cualquier tocador o como un maravilloso regalo para alguien especial. ¡Puedes ampliar o reducir fácilmente el modelo dependiendo de si necesitas un organizador más grande o más pequeño!\nY recuerda: ¡los tesoros más preciados siempre se encuentran debajo de un árbol!\n\nEcha un vistazo a mis otros modelos; tal vez algo te llame la atención.\nCada descarga es un gran apoyo y me motiva a seguir trabajando en nuevos diseños.",
+ "use_cases": [],
+ "tags": [
+  "árbol",
+  "caja",
+  "cajita",
+  "anillo",
+  "sin cuello",
+  "titular sin cuello",
+  "decoración",
+  "collar",
+  "organizador",
+  "pendiente"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-07-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US811437e12f7fb4/design/2025-07-25_a1bac746d6fed.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1732318.jpg": [
+   600,
+   906
+  ],
+  "previews/profiles/3236512.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2907409.jpg": [
+   600,
+   654
+  ],
+  "previews/profiles/2821555.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

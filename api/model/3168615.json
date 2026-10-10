@@ -1,0 +1,145 @@
+{
+ "files": [
+  {
+   "path": "model/caja-luz.3mf.xz",
+   "instance_id": "3582038",
+   "thumbnail": "previews/profiles/3582038.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "H2D",
+    "P1P",
+    "H2D Pro",
+    "X1 Carbon",
+    "P1S",
+    "H2S",
+    "X1",
+    "A2L",
+    "X2D",
+    "X1E",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill, 20mm/s initial layer",
+    "profile_notes": "0.2mm Layer height. No supports or brim. 20mm/s initial layer speed 3000mm/s initial layer travel",
+    "creation_date": "2026-08-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1981212,
+   "sha256": "c0415eb43b14c77373da809b9403b36a14b053bb98a7c49e0075824faaf05ef7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3168615",
+ "title": "Caja de luz Grand Theft Auto 6 (GTA IV) - AMS",
+ "slug": "grand-theft-auto-6-gta-iv-light-box-ams",
+ "url": "https://makerworld.com/en/models/3168615-grand-theft-auto-6-gta-iv-light-box-ams",
+ "author": "N300RKY",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Grand Theft Auto IV LightBox, similar a otros diseños que existen, pero cambió algunas cosas ya que algunos tenían algunos problemas con el diseño.\nBoost MeEs la primera vez que diseñas y modificas, así que agradecemos cualquier comentario que puedas tener.\n\nHe hecho que esto sea lo más fácil posible para los colores Switch para uso AMS.\n\nImpreso en PLA primera capa muy lenta para evitar levantamiento. Descubrí que el resultado más confiable que obtuve fue usar la placa texturizada, pero siempre que la placa esté limpia, todo estará bien. Te aconsejo que observes la primera capa mientras dibuja los contornos de las letras, después de eso está bien.\n\nEl orificio de 7 mm en el panel posterior y la tira SMD de 50 cm parecen dar suficiente luz, y con las capas difusoras no son visibles.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "magnífico",
+  "robo",
+  "auto",
+  "luz",
+  "caja",
+  "caja de luz",
+  "gtaiv",
+  "iv",
+  "gran robo de autos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US13c7bb8fda9a7f/design/18e6ef02bddd7a67.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   2161
+  ],
+  "previews/02.jpg": [
+   1000,
+   461
+  ],
+  "previews/03.jpg": [
+   1000,
+   461
+  ],
+  "previews/04.jpg": [
+   1000,
+   461
+  ],
+  "previews/05.jpg": [
+   1000,
+   2161
+  ],
+  "previews/06.jpg": [
+   1000,
+   461
+  ],
+  "previews/07.jpg": [
+   462,
+   1000
+  ],
+  "previews/08.jpg": [
+   1000,
+   461
+  ],
+  "previews/09.jpg": [
+   462,
+   1000
+  ],
+  "previews/10.jpg": [
+   462,
+   1000
+  ],
+  "previews/11.jpg": [
+   461,
+   1000
+  ],
+  "previews/12.jpg": [
+   461,
+   1000
+  ],
+  "previews/profiles/3582038.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

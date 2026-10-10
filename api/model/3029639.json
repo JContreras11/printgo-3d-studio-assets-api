@@ -1,0 +1,121 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-controlador-1h54.3mf.xz",
+   "instance_id": "3404894",
+   "thumbnail": "previews/profiles/3404894.jpg",
+   "print_time_h": 1.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-07-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1509516,
+   "sha256": "f0f2cbfc3a478e730d4d2ac546c68d9509f3c7f4fbb13d40e6f669e746c9cdca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-controlador-1h48.3mf.xz",
+   "instance_id": "3730134",
+   "thumbnail": "previews/profiles/3730134.jpg",
+   "print_time_h": 1.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "100% Size A1 Mini Profile",
+    "profile_notes": "100% Size A1 Mini Profile My print profile is set ready to print :) A RATING OF MY PRINT PROFILE WOULD BE MUCH APPRECIATED :)",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Tamaño A1 mini",
+   "size": 1500460,
+   "sha256": "c3c596a4e11191397df898c1e09535c0161443b02dc508bdbe6dbe416a5a0707",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3029639",
+ "title": "Soporte de controlador universal para GTA VI",
+ "slug": "universal-controller-holder-for-gta-vi-no-ams",
+ "url": "https://makerworld.com/en/models/3029639-universal-controller-holder-for-gta-vi-no-ams",
+ "author": "GROGO3D",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Soporte de controlador premium – Edición especial GTA VI\n¡Trae la atmósfera de Vice City directamente a tu configuración! Este exclusivo stand está diseñado para quienes desean organizar su espacio de juego con el máximo estilo, resaltando el mando de su consola con una estética inspirada en el juego más esperado de la década.\nProductos destacados\nDiseño temático exclusivo: logotipo estilizado con el icónico \"VI\" en tonos rosa neón y azul pastel, que aporta el auténtico ambiente de onda sintética de GTA 6.\nLetras destacadas: inscripción \"Grand Theft Auto\" en blanco clásico con un llamativo contorno negro, que garantiza un excelente contraste y fidelidad visual.\nCompatibilidad perfecta: Diseñado a medida para adaptarse perfectamente al controlador PS5 (DualSense), manteniéndolo firme, seguro y listo para la acción.\nAcabado de alta calidad: Estructura negra robusta, ideal para complementar cualquier escritorio, estante o configuración de transmisión para juegos.\nEspecificaciones\nCompatibilidad: Universal\nColor base: negro mate\nColores del logotipo: rosa, azul, negro y blanco\nCategoría: Accesorios Gamer / Organización de Configuración\nConsejo de jugador: Perfecto para regalar a ese amigo coleccionista o para mejorar definitivamente el aspecto de tu propio escritorio.",
+ "use_cases": [],
+ "tags": [
+  "ps1",
+  "ps2",
+  "ps3",
+  "ps4",
+  "xbox",
+  "xbox uno",
+  "gordo xbox",
+  "delgado",
+  "gordo",
+  "playstation",
+  "sony",
+  "ventanas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe7a545949d2ae6/design/6a54c4e068c503a8.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3404894.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3730134.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

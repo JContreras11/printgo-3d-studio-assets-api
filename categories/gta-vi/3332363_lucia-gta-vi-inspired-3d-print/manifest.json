@@ -1,0 +1,93 @@
+{
+ "files": [
+  {
+   "path": "model/lucia-impresion.3mf.xz",
+   "instance_id": "3784866",
+   "thumbnail": "previews/profiles/3784866.jpg",
+   "print_time_h": 2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "A1",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Stützen sachte enfernen :)",
+    "creation_date": "2026-09-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 12780308,
+   "sha256": "80505db0d3e0a49caa5e4deebaabf61ffc8291c1f76ce09d18fad3b069ce1ae3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3332363",
+ "title": "Lucía – Impresión 3D inspirada en GTA VI",
+ "slug": "lucia-gta-vi-inspired-3d-print",
+ "url": "https://makerworld.com/en/models/3332363-lucia-gta-vi-inspired-3d-print",
+ "author": "Kaalixi",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "Lucía – Impresión 3D inspirada en GTA VI P2SFACTORY\n¡Bienvenidos a Vice City!\nCon este modelo impreso en 3D puedes llevar a Lucía con el aspecto estilizado de GTA VI directamente a tu escritorio.\nEl modelo fue diseñado especialmente como modelo decorativo impreso en 3D y es perfecto para su impresión 3D de juegos o colección GTA.\nDetalles de impresión\nModelo: Lucía\nInspiración: GTA VI / Vice City\nCreador: P2SFACTORY\nTipo de modelo: Busto / Figura decorativa\nAdecuado para impresión 3D FDM\nEscalable según el tamaño deseado\nIdeal para impresión monocolor o posterior pintado\nP2SFACTORIA\nEste modelo fue desarrollado con gran atención al detalle para la comunidad de impresión 3D.\nYa sea clásico en blanco con múltiples colores o pintado individualmente, Lucia queda bien en cualquier escritorio.\n¡Vice City MANDA SALUDOS!\nSi te gusta el modelo, me encantaría recibir una impresión y una foto de tu impresión terminada.\nSoporte P2SFACTORY\nMe gusta Imprimir Publicar Seguir\n¡Asegúrate de mostrarme tu versión de Lucía!\nImpúlsame gratis <3",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "obtuve",
+  "lucía",
+  "viceciudad",
+  "impresión 3d",
+  "sala de juegos",
+  "juego de azar",
+  "modelo 3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-20",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US15ab51eb7e265e/design/c7af40bec6bd1889.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   900,
+   1600
+  ],
+  "previews/02.jpg": [
+   1000,
+   1049
+  ],
+  "previews/profiles/3784866.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

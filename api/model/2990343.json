@@ -1,0 +1,219 @@
+{
+ "files": [
+  {
+   "path": "model/eng-pt-3h48.3mf.xz",
+   "instance_id": "3356185",
+   "thumbnail": "previews/profiles/3356185.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "H2C",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "PORTUGUÊS CORRIGIDO",
+    "profile_notes": "No supports required",
+    "creation_date": "2026-09-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1633696,
+   "sha256": "692d9d12f64cb8699cc65cfa163e9ac7f28398b1d652e6f91b140dd108a8c9af",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/eng-pt-3h36.3mf.xz",
+   "instance_id": "3727561",
+   "thumbnail": "previews/profiles/3727561.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "NO TEXT",
+    "profile_notes": "No supports required",
+    "creation_date": "2026-09-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1549052,
+   "sha256": "9511ea78de2cb8482e4a88664d04c621121586a40db374371eeacee7f1dcf193",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/eng-pt-3h48-2.3mf.xz",
+   "instance_id": "3645283",
+   "thumbnail": "previews/profiles/3645283.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "A2L",
+    "H2C",
+    "P2S",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "ENG",
+    "profile_notes": "ENGLISH VERSION",
+    "creation_date": "2026-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1629840,
+   "sha256": "a2f855a873191afb6124eeebc46da317fcf6133e9905ff29fdb286844b2f378e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/eng-pt-3h48-3.3mf.xz",
+   "instance_id": "3678972",
+   "thumbnail": "previews/profiles/3678972.jpg",
+   "print_time_h": 3.8,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P2S",
+    "A2L",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "SPANISH",
+    "profile_notes": "No supports required",
+    "creation_date": "2026-09-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2515064,
+   "sha256": "35fd8754e7e4ebba23bfbb477722163edbc29d8ca83751a0a9ac29a8b733db50",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2990343",
+ "title": "ENG-PT-ESPAÑOL GTA VI Letrero para puerta No molestar",
+ "slug": "eng-pt-spanish-gta-vi-do-not-disturb-door-sign",
+ "url": "https://makerworld.com/en/models/2990343-eng-pt-spanish-gta-vi-do-not-disturb-door-sign",
+ "author": "PrintStudio",
+ "category": "gta-vi",
+ "source_category": "Modelo generativo 3D > Hacer mi signo",
+ "description": "Se fabricaron dos modelos diferentes:\n1. Modelo con palabras en relieve – opción con el texto resaltado en relieve.\n2. Modelo sin palabras en relieve: versión con un acabado mejor, más limpio y un aspecto más uniforme para la impresión.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gran thef auto 6",
+  "pequeña placa",
+  "puerta",
+  "titular de la clave"
+ ],
+ "license": "BY-SA",
+ "release_date": "2026-06-29",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USa372eab5be382f/design/7566075837a061d5.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   960,
+   1280
+  ],
+  "previews/02.jpg": [
+   960,
+   1280
+  ],
+  "previews/03.jpg": [
+   960,
+   1280
+  ],
+  "previews/profiles/3356185.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3727561.jpg": [
+   580,
+   605
+  ],
+  "previews/profiles/3645283.jpg": [
+   600,
+   621
+  ],
+  "previews/profiles/3678972.jpg": [
+   600,
+   679
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

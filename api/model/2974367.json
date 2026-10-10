@@ -1,0 +1,90 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-inspirado.3mf.xz",
+   "instance_id": "3336263",
+   "thumbnail": "previews/profiles/3336263.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X1",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.20mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layer Height: 0.20 mm Supports: Not required Material: PLA Print Colors: 2",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1561668,
+   "sha256": "8fa9603580541dbfa0391801d174a77812164cb2e1d185c0226e201ce9832ac5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2974367",
+ "title": "Llavero inspirado en GTA VI",
+ "slug": "gta-vi-inspired-keychain",
+ "url": "https://makerworld.com/en/models/2974367-gta-vi-inspired-keychain",
+ "author": "frengo.36",
+ "category": "gta-vi",
+ "source_category": "Herramientas > Gadgets",
+ "description": "¡Dale un toque de Vice City a donde quiera que vayas con este llavero inspirado en GTA VI!\nDiseñado para capturar el estilo icónico del próximo juego, este llavero presenta un diseño nítido de dos colores con detalles en relieve que realmente destacan.\nCaracterísticas\nInspirado en GTA VI\nOptimizado para impresión 3D\nDiseño bicolor\nPerfecto como llavero, colgante para mochila o accesorio para juegos.\nDurable y liviano\nDimensiones\n70 × 50 milímetros\nTamaño compacto, ideal para uso diario\nImpulsameSi te gusta este modelo, deja un Me gusta, Impulsa y sigue mi perfil para obtener más diseños imprimibles en 3D.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "gran robo de autos",
+  "viceciudad",
+  "llavero",
+  "videojuego",
+  "juego de azar",
+  "estrella de rock",
+  "juegos de rockstar",
+  "logo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd3874ff46e002/design/aa319045495d7f54.png",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3336263.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

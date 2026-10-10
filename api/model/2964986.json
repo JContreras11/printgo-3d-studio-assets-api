@@ -1,0 +1,85 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-logotipo.3mf.xz",
+   "instance_id": "3324282",
+   "thumbnail": "previews/profiles/3324282.jpg",
+   "print_time_h": 2.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "X1E",
+    "A1 mini",
+    "P1P",
+    "X2D",
+    "A2L",
+    "H2D",
+    "X1 Carbon",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X1",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3391760,
+   "sha256": "38312d02556a4b52687c5e21e6c17f4c3b5fa3ee461fb4a7dd4d754b98ec5803",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2964986",
+ "title": "Llavero con el logotipo de Grand Theft Auto VI (GTA 6)",
+ "slug": "grand-theft-auto-vi-gta-6-logo-keychain",
+ "url": "https://makerworld.com/en/models/2964986-grand-theft-auto-vi-gta-6-logo-keychain",
+ "author": "Matteo_Lavarini",
+ "category": "gta-vi",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "¡Lleva las vibraciones vibrantes y empapadas de neón de Vice City a tu vida diaria con este llavero Grand Theft Auto VI diseñado a medida! Perfecto para impresión 3D, este modelo captura con precisión el icónico logotipo \"VI\" superpuesto con la tipografía clásica \"Grand Theft Auto\".\nCaracterísticas:\nDiseño icónico: presenta el estilizado \"VI\" con degradado de atardecer con siluetas de palmeras y la fuente GTA de estilo oficial y atrevido.\nOrificio para llavero listo para imprimir: incluye un lazo resistente preintegrado en la parte superior, lo que facilita su fijación a las llaves, la mochila o el cordón desde la plataforma de impresión.\nCompatible con varios colores: Diseñado para lucir increíble con impresión multimaterial/multicolor (AMS/MMU) o mediante simples intercambios de filamentos en alturas de capa específicas.\nRegalo perfecto: un excelente artículo de colección o regalo para jugadores, fanáticos de Rockstar Games y cualquier persona entusiasmada con la próxima generación de GTA.",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "obtuve",
+  "grand theft auto",
+  "grand theft auto 6",
+  "gta6 keychan",
+  "keychan"
+ ],
+ "license": "BY-ND",
+ "release_date": "2026-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb4cfbc73570622/design/c58c0e232076c74e.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   741
+  ],
+  "previews/profiles/3324282.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "files": [
+  {
+   "path": "model/pequenas-mascotas-6h06.3mf.xz",
+   "instance_id": "1970990",
+   "thumbnail": "previews/profiles/1970990.jpg",
+   "print_time_h": 6.1,
+   "plates": 5,
+   "rating": 5,
+   "rating_count": 75,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "X1E",
+    "P1P",
+    "H2D Pro",
+    "A1",
+    "H2S",
+    "P1S",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.01.60",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Plates: All (hamsters 2x, cats 2x, dogs 2x) All (hamsters 8x, cats 8x, dogs 8x) Only cats (16x) Only dogs (16x) Only hamsters (16x)",
+    "creation_date": "2025-09-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 2510412,
+   "sha256": "b31c0338f5bb1ab764f46e900740d3d5888c194727efb238d5e24adbc9dee696",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/pequenas-mascotas-3h12.3mf.xz",
+   "instance_id": "1996928",
+   "thumbnail": "previews/profiles/1996928.jpg",
+   "print_time_h": 3.2,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2S",
+    "X1 Carbon",
+    "P1S",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "A1",
+    "X1",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "All pets 200% Scale",
+    "profile_notes": "0.16mm layer height, 2 walls, 15% infill",
+    "creation_date": "2025-10-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 2312312,
+   "sha256": "243ce1c3ad7f89a6a460de90a78c54b153fdb414bdd20a0231b8db65dc14acda",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1844508",
+ "title": "Pequeñas mascotas de Halloween",
+ "slug": "little-halloween-pets",
+ "url": "https://makerworld.com/en/models/1844508-little-halloween-pets",
+ "author": "jdormer9",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Pequeñas mascotas de Halloween\nPequeños amigos espeluznantes que hacen sonreír a tu escritorio, casa u oficina:)\nPerfecto para mezclar con los pequeños fantasmas de Halloween.\n\nIncluye\nHámsters – 12 mm\nGatos – 15 mm\nPerros – 17 mm\nCaracterísticas\nTamaño mini: lo suficientemente pequeño como para colocarlo en cualquier lugar\nColeccionable: imprímelos todos y crea tu propia pandilla de mascotas de Halloween.\nImprimir instrucciones\nAltura de capa: 0,16 mm\nNo se necesita ala\n\nOtros modelos",
+ "use_cases": [],
+ "tags": [
+  "víspera de todos los santos",
+  "halloween 2025",
+  "víspera de todos los santos 2026",
+  "fantasma de halloween",
+  "fantasma",
+  "decoración",
+  "decoración 2025",
+  "aterrador",
+  "obsesionado",
+  "lindo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-09-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf1f251b98dee0d/design/2025-10-01_b09ad205ab3fa.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1970990.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1996928.jpg": [
+   600,
+   442
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

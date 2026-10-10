@@ -1,0 +1,120 @@
+{
+ "files": [
+  {
+   "path": "model/tazon-perros.3mf.xz",
+   "instance_id": "525341",
+   "thumbnail": "previews/profiles/525341.jpg",
+   "print_time_h": 3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 200,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "PLA 0.24mm layer, 2 walls, 10% infill",
+    "creation_date": "2025-01-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.24",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 10744,
+      "weight_g": 102.22,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1819192,
+   "sha256": "17c6838ef289b23bcbe89a3d1648063a1567864dc56d59de39a0ca0748b25a34",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "602850",
+ "title": "Tazón para perros y gatos con alimentador lento",
+ "slug": "slow-feeder-cat-dog-bowl",
+ "url": "https://makerworld.com/en/models/602850-slow-feeder-cat-dog-bowl",
+ "author": "pippo1997",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "¿Tus mascotas comen demasiado rápido?:(\n¡Pruebe el tazón de alimentación lenta!:D\n\nEl Slow Feeder Bowl ayuda a tu mascota a comer lentamente y a que tu perro o gato viva bien:)\nCombina perfectamente con tu casa con el lindo diseño:\n\n¡Tazón de alimentación lenta!\n¡Pruébalo ahora!\n¡Impulsame! ¡Impulsame! ES GRATIS <3",
+ "use_cases": [],
+ "tags": [
+  "bol",
+  "cuenco para gatos",
+  "accesorios para gatos",
+  "accesorios para perros",
+  "comida para animales",
+  "accesorios para mascotas",
+  "suministros para mascotas",
+  "comedero para mascotas",
+  "mascota",
+  "gato",
+  "perro"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2024-08-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2664f1ce6a62c5/design/2024-08-23_24a17fab769058.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/525341.jpg": [
+   600,
+   748
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "files": [
+  {
+   "path": "model/mascara-perro-8h.3mf.xz",
+   "instance_id": "576371",
+   "thumbnail": "previews/profiles/576371.jpg",
+   "print_time_h": 8,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 221,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 6% infill",
+    "profile_notes": "normal supports for safety in the other test I used the tree ones and they still work there's no need to overfill, you can even stick to 6/8%",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C12",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 28784,
+      "weight_g": 245.86,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FFFFFF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1475792,
+   "sha256": "585016fc5e36c29c677c19411dcd36040e3f41c2468624a045b94ed71431cc47",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/mascara-perro-6h24.3mf.xz",
+   "instance_id": "3263979",
+   "thumbnail": "previews/profiles/3263979.jpg",
+   "print_time_h": 6.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "X1 Carbon",
+    "P1P",
+    "H2S",
+    "X1",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.01.58",
+    "profile_title": "0.2mm layer, 2 walls, 6% infill",
+    "profile_notes": "for Pomeranian 6 cm from cheekbone to cheekbone",
+    "creation_date": "2026-06-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "6%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1361840,
+   "sha256": "a820e40502046708477a9a2108980ee15b4b48ab50e9fb6908e5d49c18a261b3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "649877",
+ "title": "Máscara de Perro y Gato (Cubone de Pokémon)",
+ "slug": "dog-and-cat-mask-cubone-from-pokemon",
+ "url": "https://makerworld.com/en/models/649877-dog-and-cat-mask-cubone-from-pokemon",
+ "author": "LucaV",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "¡MÁS DE 1200 IMPRESIONES EXITOSAS Y 3600 DESCARGAS! Máscara para perros y gatos (inspirada en Cubone): esta popular máscara de dos piezas está diseñada para imprimirse fácilmente (sin soportes si se imprime en plano) y escalarse para ADAPTARSE a CUALQUIER MASCOTA: perros, gatos, etc. El archivo STL está optimizado para las impresoras Bambu Lab. Dividí el diseño en dos partes para garantizar la mejor calidad y permitir la escala para todos los tamaños.\nGracias, eres increíble",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "accesorio para perros",
+  "mascarilla",
+  "máscara para halloween",
+  "víspera de todos los santos",
+  "gato",
+  "cerdo",
+  "animal",
+  "animales arte 2d",
+  "arte animal",
+  "animales 3d",
+  "mascarada"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-09-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US22e5caf0a7cbc6/design/2024-09-18_913574cd01459.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   786
+  ],
+  "previews/02.jpg": [
+   1000,
+   703
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/576371.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3263979.jpg": [
+   427,
+   377
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

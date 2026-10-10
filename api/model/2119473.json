@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/perro-shih.3mf.xz",
+   "instance_id": "2294043",
+   "thumbnail": "previews/profiles/2294043.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 19,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1",
+    "H2D",
+    "H2S",
+    "H2C",
+    "X1E",
+    "P2S",
+    "X1 Carbon",
+    "A1 mini",
+    "P1S",
+    "H2D Pro",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 3 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 8559256,
+   "sha256": "cff8ee6d778233f4a50083a5e65770be6384be81779b6b60b1e6763dc1d1ab0f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2119473",
+ "title": "Perro Shih Tzu de pie 1 de 5 variantes",
+ "slug": "shih-tzu-standing-dog-1-of-5-variants",
+ "url": "https://makerworld.com/en/models/2119473-shih-tzu-standing-dog-1-of-5-variants",
+ "author": "MeinDing",
+ "category": "pets",
+ "source_category": "Arte > Esculturas",
+ "description": "Aquí tienes la oportunidad de imprimir y personalizar color a nuestro pequeño amigo.\nShih Tzu Puppy está disponible en 5 variaciones (haga clic)\n\nImprimir en PLA\nDiviértete imprimiendo y pintando.\nMás figuras",
+ "use_cases": [],
+ "tags": [
+  "shih tzu",
+  "perro",
+  "busto de shih tzu",
+  "lindo",
+  "curar",
+  "'lindo",
+  "cachorro",
+  "bebé",
+  "mini perro",
+  "amigo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US42288f63b971c/design/2025-12-15_2f4e24a7e16378.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1332
+  ],
+  "previews/profiles/2294043.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

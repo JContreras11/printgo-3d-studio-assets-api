@@ -1,0 +1,138 @@
+{
+ "files": [
+  {
+   "path": "model/dientes-perro-multicolor-18min.3mf.xz",
+   "instance_id": "1622521",
+   "thumbnail": "previews/profiles/1622521.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 22,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "2 Color (Print By Object) 1 Plate",
+    "creation_date": "2025-06-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 823336,
+   "sha256": "c9a29be9b638054cc713b1b9eef5a6ac2b15dfc6c384941c46b0d0453e55abad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dientes-perro-multicolor-18min-2.3mf.xz",
+   "instance_id": "3282418",
+   "thumbnail": "previews/profiles/3282418.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X1E",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "A2L",
+    "X2D",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "A1 support. No ams no multicolor.",
+    "profile_notes": "probably faster A1 support print by layer",
+    "creation_date": "2026-06-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Multicolor",
+   "size": 1283360,
+   "sha256": "a642fe36a3b4263bc893543ddf70c0b2fb1edc30392043da14dbac0b1d066384",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1545342",
+ "title": "Dientes De Perro Graciosos",
+ "slug": "funny-dog-teeth",
+ "url": "https://makerworld.com/en/models/1545342-funny-dog-teeth",
+ "author": "LittleMacDesign",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Estos divertidos dientes de perro serán el complemento perfecto para tu foto familiar! ¡Harán que la sonrisa de tus perros brille de verdad! Imprime en 2 piezas y se une fácilmente.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "gato",
+  "mordaza",
+  "regalo de mordaza",
+  "accesorio para perros",
+  "dientes de perro",
+  "dientes",
+  "broma",
+  "accesorio para mascotas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-06-23",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USeabdf1d6122d4/design/2025-06-23_d0b72672245e9.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1622521.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3282418.jpg": [
+   450,
+   600
+  ]
+ },
+ "variant_hint": "Multicolor",
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "files": [
+  {
+   "path": "model/pequeno-perro.3mf.xz",
+   "instance_id": "3058171",
+   "thumbnail": "previews/profiles/3058171.jpg",
+   "print_time_h": 35.8,
+   "plates": 3,
+   "rating": 4.7,
+   "rating_count": 27,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2D",
+    "A1 mini",
+    "X1",
+    "P2S",
+    "P1P",
+    "X2D",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-05-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 9916104,
+   "sha256": "8ced1d5842df291d14616243ae21b6950eb80f5f2618d174bfdb1a1da68e102b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2755672",
+ "title": "Pequeño perro salchicha - Serie Mini animales",
+ "slug": "tiny-dachshund-dog-mini-animals-series",
+ "url": "https://makerworld.com/en/models/2755672-tiny-dachshund-dog-mini-animals-series",
+ "author": "bazzar701",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "Boost Me¿Le gustó este modelo? ¡Impulsalo y ayuda a hacer crecer la colección Mini Animals! Pequeño Dachshund, reducido a un objeto pequeño y limpio que mantiene su forma y carácter principales.\nParte de la colección Tiny Animals: el modelo está simplificado para una impresión confiable a muy pequeña escala.\n\nConsejo de impresión: utilice una boquilla de 0,2 mm para obtener mejores detalles.\nFunciona bien como una pequeña pieza de colección o de escritorio.\n\nImprímelo en pequeño y recógelos todos.\n\nAdvertencia: Piezas pequeñas. No apto para niños menores de 3 años. Esto no es un juguete.",
+ "use_cases": [],
+ "tags": [
+  "miniatura",
+  "miniaturas",
+  "mini perro",
+  "perro",
+  "mini animales",
+  "animal",
+  "perro tejonero"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-05-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3de90e57d451ec/design/235681dc4df3e985.jpg",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3058171.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

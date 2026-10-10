@@ -96,6 +96,103 @@
     ],
     "photos": 4
    }
+  },
+  {
+   "path": "model/dispensador-latas-9h48.3mf.xz",
+   "instance_id": "380057",
+   "thumbnail": "previews/profiles/380057.jpg",
+   "print_time_h": 9.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 50,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "12-can version. This is OPs design posted to thangs. I just consolidated the pieces onto seperate build plates and did the labeling.",
+    "creation_date": "2025-03-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 7946,
+      "weight_g": 98.43,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9177,
+      "weight_g": 121.28,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 8513,
+      "weight_g": 105.2,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 9774,
+      "weight_g": 130.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#161616"
+       }
+      ]
+     }
+    ],
+    "photos": 4
+   },
+   "name": "Impresión en PLA",
+   "size": 1627748,
+   "sha256": "e887373e6ddc31557179f22e89fe4ad89a5bcb4aa3d0b1216ac6859cb2f24973",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
   }
  ],
  "id": "464025",
@@ -146,6 +243,10 @@
   "previews/profiles/372703.jpg": [
    600,
    1066
+  ],
+  "previews/profiles/380057.jpg": [
+   600,
+   800
   ]
  },
  "storage": {

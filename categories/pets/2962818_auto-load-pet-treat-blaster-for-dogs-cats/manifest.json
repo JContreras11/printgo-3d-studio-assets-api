@@ -1,0 +1,205 @@
+{
+ "files": [
+  {
+   "path": "model/lanzador-golosinas-5h42.3mf.xz",
+   "instance_id": "3321517",
+   "thumbnail": "previews/profiles/3321517.jpg",
+   "print_time_h": 5.7,
+   "plates": 2,
+   "rating": 4.4,
+   "rating_count": 28,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P2S",
+    "H2S",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "P1S",
+    "P1P",
+    "H2C",
+    "H2D",
+    "X1E",
+    "A1",
+    "X1 Carbon",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Two plates - Basic / Pure",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2770732,
+   "sha256": "e83cc23841df6f51dee63a214b5d22b4ad417dd44d8618f8d355099e2ad6e296",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lanzador-golosinas-4h54.3mf.xz",
+   "instance_id": "3481808",
+   "thumbnail": "previews/profiles/3481808.jpg",
+   "print_time_h": 4.9,
+   "plates": 1,
+   "rating": 4.4,
+   "rating_count": 9,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2D Pro",
+    "H2D",
+    "H2S",
+    "H2C",
+    "P2S",
+    "X1",
+    "A2L",
+    "P1P",
+    "X1E",
+    "P1S",
+    "A1",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Single Plate - Less supports",
+    "profile_notes": "Single plate - printing all parts at once Improved supports - blaster body requires much less supports due its orientation change",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 3303928,
+   "sha256": "7101e5d6a2f450ea8206d5fe564e5551b9f07dd67d85aa865df7da694229d375",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lanzador-golosinas-6min.3mf.xz",
+   "instance_id": "3354309",
+   "thumbnail": "previews/profiles/3354309.jpg",
+   "print_time_h": 0.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2S",
+    "P2S",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "X1",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "A2L",
+    "X1 Carbon",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Pet Treat Blaster Doser",
+    "creation_date": "2026-06-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 868828,
+   "sha256": "c33b99da652d4db40e1f31946bd1f6a5e6a420f47c6716a9052fffd445495c9d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2962818",
+ "title": "Lanzador de golosinas para mascotas con carga automática para perros y gatos",
+ "slug": "auto-load-pet-treat-blaster-for-dogs-cats",
+ "url": "https://makerworld.com/en/models/2962818-auto-load-pet-treat-blaster-for-dogs-cats",
+ "author": "3d.tresd",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "¡Convierte la hora de las golosinas en un emocionante juego de buscar!\n\nEl Auto-Load Pet Treat Blaster es un innovador comedero interactivo para mascotas imprimible en 3D.\n\nDiseñado para hacer que el entrenamiento y la alimentación sean atractivos, este lanzador mecánico carga automáticamente la recámara a través de una tolva superior alimentada por gravedad. ¡Simplemente tire del control deslizante trasero, presione el gatillo y observe a su perro o gato perseguir su bocadillo favorito!\n\nVídeo de montaje y demostración\n\nCaracterísticas clave\nSistema mecánico de carga automática: mecanismo de alimentación suave basado en la gravedad desde la tolva directamente a la cámara.\nTotalmente escalable: ¿Necesita una versión más pequeña? Reduzca la escala del proyecto para acomodar perfectamente pequeñas croquetas o golosinas para gatos.\nHardware simple: No se requieren piezas complejas. Funciona con bandas de goma estándar.\nHardware necesario: 2 bandas de goma estándar de 1,4 mm x 20 mm o similares.\nAjuste de potencia: Modo estándar: use un solo bucle del elástico para un juego suave y de corto alcance en interiores.\nModo de energía: haga doble bucle en los elásticos para aumentar la tensión y la distancia para jugar al aire libre.\n\nConsejo de montaje: Para una máxima durabilidad durante el uso intensivo, aplique una pequeña cantidad de adhesivo para asegurar la tolva superior al canal del cuerpo principal. Asegúrese de que todo el material de soporte esté retirado de los rieles internos para un funcionamiento sin problemas.\n\nSeguridad alimentaria y elección de materiales\nLa salud de tu mascota es lo primero. Recomendamos imprimir la tolva, la tapa de la tolva y la cámara deslizante interna utilizando el filamento Bambu PLA Pure. Este material está especialmente formulado para un contacto seguro con los alimentos, lo que garantiza un tiempo de juego sin preocupaciones.",
+ "use_cases": [],
+ "tags": [
+  "comedero para mascotas",
+  "concursos",
+  "lanzador de golosinas",
+  "juego de mascotas",
+  "juguete para perros",
+  "juguete para gatos",
+  "tratar desintegrador",
+  "oye arma",
+  "alimentador interactivo",
+  "juegos de mascotas",
+  "pla puro",
+  "tirador de bocadillos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US713fe4aaf0cb8/design/724917029b6a0000.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   997,
+   748
+  ],
+  "previews/03.jpg": [
+   1000,
+   749
+  ],
+  "previews/04.jpg": [
+   969,
+   727
+  ],
+  "previews/05.gif": [
+   300,
+   400
+  ],
+  "previews/profiles/3321517.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3481808.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3354309.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

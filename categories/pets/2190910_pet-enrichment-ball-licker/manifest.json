@@ -1,0 +1,188 @@
+{
+ "files": [
+  {
+   "path": "model/lame-bolas-4h54.3mf.xz",
+   "instance_id": "2422272",
+   "thumbnail": "previews/profiles/2422272.jpg",
+   "print_time_h": 4.9,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 46,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "A2L",
+    "X2D",
+    "H2S",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "0.2mm layer, 2 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 26473496,
+   "sha256": "9c30852a9a1247808c4a7b573236c65c37401c4c02e9ac157880e69afacd3269",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lame-bolas-8h36-2.3mf.xz",
+   "instance_id": "2540690",
+   "thumbnail": "previews/profiles/2540690.jpg",
+   "print_time_h": 8.6,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "A1",
+    "X1E",
+    "H2D Pro",
+    "A2L",
+    "X2D",
+    "H2S",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "0.2mm layer, 2 walls, 10% infill"
+   },
+   "name": "Versión estándar",
+   "size": 26481996,
+   "sha256": "ada9ff19a78e868667debe61253250ab631bf362b0c37dc3e860d38c67e7208a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/lame-bolas-8h36.3mf.xz",
+   "instance_id": "2819451",
+   "thumbnail": "previews/profiles/2819451.jpg",
+   "print_time_h": 8.6,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 37,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P2S",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.01.52",
+    "profile_title": "Larger Model, printable ball, grippy base, no supports",
+    "profile_notes": "Model has been scaled up to work with a 55mm ball so it's more suited to medium or large size dogs. I've designed a textured ball that prints in two pieces and gets glued together with a line up dowel. The ridges help the liquid cling to the ball better. The top part orientation has been corrected to print without supports. Because of the design it will give a few odd strings that needs to be clipped away but it's on the inside so won't be seen and doesn't affect the use at all. Scarf seams have been added for a much nicer look. The bottom surface of the base prints without any layers so it's just the infill which provides a grippy texture to help hold it in place on carpet while the dog uses it.",
+    "creation_date": "2026-03-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 50095248,
+   "sha256": "a1e9167112ce8aad823e343b800e6425ce6ddb712bc241a64401f1c738db7e3d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2190910",
+ "title": "Lame bolas de enriquecimiento para mascotas",
+ "slug": "pet-enrichment-ball-licker",
+ "url": "https://makerworld.com/en/models/2190910-pet-enrichment-ball-licker",
+ "author": "Ehberg",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Hazle un favor a tu mascota e imprime esto para ella, agrega una pelota de ping pong y simplemente agrega un poco de su yogur favorito, o cualquier otra golosina suave sin trozos, ¡y déjala lamer! ¡Solo 100 gramos!\n\nEl diseño incluye un cierre giratorio para facilitar la operación. Asegúrese de calibrar su impresora y su filamento.\n\nInformación de impresión:\nLa tapa debe orientarse con la parte superior hacia la placa para evitar la necesidad de soportes.\nUtilice dos paredes y un 10% de relleno Gyroid.\n\nRecomiendo imprimir esto en PETG.\n\nNo dude en ponerse en contacto conmigo para uso comercial.\n¡Boost MeBoosts son bienvenidos!\n¡Advertencia!\nEl modelo no incluye la pelota, así que utiliza una pelota de ping pong.\nLavar después de cada uso.\n¡SIEMPRE SUPERVISE A SU MASCOTA MIENTRAS LA UTILIZA!",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "gato",
+  "juguete",
+  "bol",
+  "tratar",
+  "bocadillo",
+  "mascota",
+  "petg",
+  "lamer",
+  "pelota",
+  "tenis",
+  "ping-pong"
+ ],
+ "license": "BY-NC-SA",
+ "release_date": "2026-01-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd179e0706bdfce/design/5f2996128678808e.webp",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   625
+  ],
+  "previews/02.png": [
+   1000,
+   625
+  ],
+  "previews/03.png": [
+   1000,
+   625
+  ],
+  "previews/04.png": [
+   1000,
+   625
+  ],
+  "previews/profiles/2422272.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2540690.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2819451.jpg": [
+   600,
+   800
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

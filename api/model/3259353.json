@@ -1,0 +1,82 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-gta.3mf.xz",
+   "instance_id": "3694831",
+   "thumbnail": "previews/profiles/3694831.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-09-04",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1114592,
+   "sha256": "f9c646c3e641989c8da5371c8696bb878dc47dbe7e288deaedfa6b31751e4977",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3259353",
+ "title": "Llavero GTA VI Vice City Multicolor",
+ "slug": "gta-vi-vice-city-keychain-multi-color",
+ "url": "https://makerworld.com/en/models/3259353-gta-vi-vice-city-keychain-multi-color",
+ "author": "i_py",
+ "category": "gta-vi",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Llavero GTA VI Vice City Multicolor Imprimible en 3D No se requiere AMS\n\nUn llavero de Vice City personalizado inspirado en GTA VI que presenta un diseño en capas con letras Grand Theft Auto en relieve y un fondo detallado de palmera.\n¡NO SE REQUIERE AMS!\nEl modelo está diseñado con piezas STL separadas para cada color, por lo que puede crear una apariencia multicolor sin un AMS o un sistema de impresión multicolor.\nSimplemente imprima las piezas individuales en sus colores de filamento preferidos y móntelas.\nCaracterísticas\nDiseño multicolor: NO SE REQUIERE AMS\nDiseñado para impresoras 3D FDM estándar\nSepare archivos STL para diferentes colores/capas\nLetras elevadas de Grand Theft Auto\nDiseño detallado de palma inspirado en Vice City\nAgujero funcional para llavero.\nLigero y duradero\nPerfecto para fanáticos de GTA, configuraciones de juegos, mochilas y llaves.\nImpresión\nEl modelo se proporciona como archivos STL separados, lo que le permite imprimir cada color individualmente.\nNo se requiere AMS/MMU.\nPuedes utilizar diferentes colores de filamento y ensamblar las piezas impresas después de la impresión.\nMaterial recomendado: PLA / PLA+\nConfiguraciones recomendadas:\nAltura de la capa: 0,2 mm\n2 paredes\n10% de relleno\nLa configuración de impresión se puede ajustar según su impresora y la calidad deseada.\nAsamblea\nImprime las partes separadas usando los colores elegidos, luego ensambla las capas para crear el llavero multicolor final.\nMuestra tu marca\nSi imprimes este modelo, ¡me encantaría ver tu resultado!\nSube tu marca y deja un Me gusta; realmente ayuda a respaldar el diseño.\n¡Diviértete imprimiendo!",
+ "use_cases": [],
+ "tags": [
+  "gta vi",
+  "gta 6",
+  "grand theft auto",
+  "vice city",
+  "llavero",
+  "llavero gta",
+  "imprimible en 3d",
+  "sin ams",
+  "multicolor",
+  "mdf"
+ ],
+ "license": "BY-ND",
+ "release_date": "2026-09-04",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9795a435e4950/design/6a3e07dfef95917d.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3694831.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

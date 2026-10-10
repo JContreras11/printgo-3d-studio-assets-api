@@ -1,0 +1,91 @@
+{
+ "files": [
+  {
+   "path": "model/arte-pared.3mf.xz",
+   "instance_id": "3727173",
+   "thumbnail": "previews/profiles/3727173.jpg",
+   "print_time_h": 2.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1",
+    "X1E",
+    "P2S",
+    "P1P",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "X1 Carbon",
+    "H2D",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 478236,
+   "sha256": "83edd2894c80099beb21888f678dcd65163c1a825d9de2832fd02cdc5371c0f8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3285538",
+ "title": "Arte de pared de Grand Theft Auto 6",
+ "slug": "grand-theft-auto-6-wall-art",
+ "url": "https://makerworld.com/en/models/3285538-grand-theft-auto-6-wall-art",
+ "author": "BraapMachineSam",
+ "category": "gta-vi",
+ "source_category": "Arte > Arte 2D",
+ "description": "Arte de pared de Grand Theft Auto 6",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "magnífico",
+  "robo",
+  "auto",
+  "gran thef auto 6",
+  "6",
+  "grand theft auto",
+  "logo",
+  "arte de la pared",
+  "juego de azar",
+  "juegos de vídeo",
+  "consola"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-09-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe446438299cc3b/design/de0943552bf51493.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   955,
+   716
+  ],
+  "previews/profiles/3727173.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,6 +1,93 @@
 {
  "files": [
   {
+   "path": "model/logotipo-gta-8h30.3mf.xz",
+   "instance_id": "3610817",
+   "thumbnail": "previews/profiles/3610817.jpg",
+   "print_time_h": 8.5,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "X1 Carbon",
+    "H2C",
+    "P1P",
+    "A1",
+    "X1E",
+    "X2D",
+    "H2S",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2D",
+    "P2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "AMS",
+    "profile_notes": "Print and go versions: 1st and 2nd plate. Rest = In pieces.",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3551192,
+   "sha256": "e7a10fbb5111700226451850a6526ca1efda54dc57facc57da10fd2c21c15315",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/logotipo-gta-15h36.3mf.xz",
+   "instance_id": "3610839",
+   "thumbnail": "previews/profiles/3610839.jpg",
+   "print_time_h": 15.6,
+   "plates": 6,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "H2D",
+    "P1S",
+    "X1E",
+    "X1 Carbon",
+    "H2C",
+    "A2L",
+    "P1P",
+    "A1",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "AMS - Bigger size",
+    "profile_notes": "Print and go versions: 1st and 2nd plate. Rest = In pieces.",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3552616,
+   "sha256": "bae8cd7225366fb7b6ed06c1574bd57c86c41d9168b9e733761ab8203b44693a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
    "path": "model/logotipo-gta-3h30.3mf.xz",
    "instance_id": "3610831",
    "thumbnail": "previews/profiles/3610831.jpg",
@@ -41,6 +128,49 @@
    "name": "Versión estándar",
    "size": 2284908,
    "sha256": "529a5bc8cca016755553a3431091966a72abcdea521a405b2c374be54a14323b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/logotipo-gta-6h54.3mf.xz",
+   "instance_id": "3610837",
+   "thumbnail": "previews/profiles/3610837.jpg",
+   "print_time_h": 6.9,
+   "plates": 4,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1 Carbon",
+    "H2C",
+    "H2S",
+    "H2D",
+    "P1P",
+    "X1",
+    "P1S",
+    "X1E",
+    "A1",
+    "H2D Pro",
+    "A2L",
+    "X2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "NO AMS - Bigger size",
+    "profile_notes": "NO AMS must change the filaments after the pauses added. 1st plate = desk version to stand 2nd plate = wall version to stick glue may be required",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2287724,
+   "sha256": "ea1d5d806d813fdd5689b4131f18f83c2c98b3bf2da46e980112defa42720e77",
    "compressed": true,
    "decompress": "xz -d -k <filename>"
   }
@@ -90,7 +220,19 @@
    1000,
    750
   ],
+  "previews/profiles/3610817.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3610839.jpg": [
+   600,
+   800
+  ],
   "previews/profiles/3610831.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3610837.jpg": [
    600,
    800
   ]

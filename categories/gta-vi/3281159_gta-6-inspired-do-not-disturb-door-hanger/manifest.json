@@ -1,0 +1,88 @@
+{
+ "files": [
+  {
+   "path": "model/colgador-puerta.3mf.xz",
+   "instance_id": "3721705",
+   "thumbnail": "previews/profiles/3721705.jpg",
+   "print_time_h": 1.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "A2L",
+    "X1E",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "H2S",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1215620,
+   "sha256": "785ec3ad3099d3c8673d51bbe36f8e1743590e33538883234eb00639532c7276",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3281159",
+ "title": "Colgador de puerta \"No molestar\" inspirado en GTA 6",
+ "slug": "gta-6-inspired-do-not-disturb-door-hanger",
+ "url": "https://makerworld.com/en/models/3281159-gta-6-inspired-do-not-disturb-door-hanger",
+ "author": "alvarofigueiro",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Boost Me ¡POTENCIA este modelo antes de que alguien llame y te dé otra estrella buscada! ¡Tu impulso me ayuda a seguir creando más diseños inspirados en juegos! Lleva un poco de energía de Vice City a tu puerta.\nEste colgador de puerta de No molestar inspirado en GTA 6 está hecho para jugadores que se toman en serio su privacidad:\n\"Sólo toca si la casa está en llamas\".\nY recuerda… Tocar = +1 Estrella.\nEl diseño combina una puesta de sol retro al estilo de Miami, palmeras, estrellas buscadas y letras llamativas en relieve para una apariencia colorida impresa en 3D que se destaca de inmediato.\nPerfecto para:\nSalas de juego\nDormitorios\nConfiguraciones de transmisión\nRegalos para fanáticos de GTA\nSalas de juegos\nDiseñado para colgar directamente en la manija de una puerta estándar sin necesidad de tornillos, cinta adhesiva ni instalación.\nConsejo de impresión: imprímalo boca arriba para obtener letras y detalles gráficos más limpios.\nDiseño no oficial inspirado en fans. No está afiliado ni respaldado por Rockstar Games o Take-Two Interactive.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "grand theft auto",
+  "puerta",
+  "no molestar",
+  "decoración",
+  "estrella de rock",
+  "plastificación",
+  "ps5",
+  "gta 6"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7c99ecef54a1dc/design/f5a2231dd037ee79.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3721705.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

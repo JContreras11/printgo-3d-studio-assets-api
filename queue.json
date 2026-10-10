@@ -539,8 +539,9 @@
    "title": "Cubierta frontal mando PS5 / EDICION GTA VI",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending",
-   "at": "2026-10-09T02:26:01.120Z"
+   "status": "failed",
+   "at": "2026-10-10T05:27:18.632Z",
+   "reason": "3747809: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}"
   },
   {
    "id": "3002015",
@@ -638,8 +639,9 @@
    "title": "Touchpad Mando PS5 / GTA VI ",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending",
-   "at": "2026-10-09T02:26:10.768Z"
+   "status": "failed",
+   "at": "2026-10-10T05:27:27.618Z",
+   "reason": "3747857: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}"
   },
   {
    "id": "84574",
@@ -702,8 +704,9 @@
    "title": "Cubierta 360 Mando / PS5 EDICION GTA VI",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending",
-   "at": "2026-10-09T02:26:20.796Z"
+   "status": "failed",
+   "at": "2026-10-10T05:27:37.328Z",
+   "reason": "3747953: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}"
   },
   {
    "id": "3274293",
@@ -1187,8 +1190,8 @@
    "title": "GTA VI Logo (NO AMS/AMS) -Grand Theft Auto VI Logo",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending",
-   "at": "2026-10-09T02:39:58.332Z"
+   "status": "done",
+   "at": "2026-10-10T05:28:13.492Z"
   },
   {
    "id": "2978430",
@@ -1196,7 +1199,8 @@
    "title": "Muldura Quadro GTA 6 Rockstar ",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:28:28.854Z"
   },
   {
    "id": "3285538",
@@ -1204,7 +1208,8 @@
    "title": "Grand Theft Auto 6 Wall Art",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:28:40.470Z"
   },
   {
    "id": "3230329",
@@ -1212,7 +1217,8 @@
    "title": "Gta 6 | Logo",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:28:54.500Z"
   },
   {
    "id": "3137765",
@@ -1220,7 +1226,8 @@
    "title": "svuotatasche GTA 6 (VI)",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:29:09.651Z"
   },
   {
    "id": "3259353",
@@ -1228,7 +1235,8 @@
    "title": "GTA VI Vice City Keychain | Multi-Color ",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:29:24.196Z"
   },
   {
    "id": "3156607",
@@ -1236,7 +1244,8 @@
    "title": "support manette GTA 6",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:29:40.244Z"
   },
   {
    "id": "3205527",
@@ -1244,7 +1253,8 @@
    "title": "GTA 6 CYBERLEEK Leek Agent Sci-Fi Action Figure ",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:30:02.857Z"
   },
   {
    "id": "3088280",
@@ -1252,7 +1262,8 @@
    "title": "GTA 6 (VI) Keychain/Schlüsselanhänger ",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:30:28.535Z"
   },
   {
    "id": "3281159",
@@ -1260,7 +1271,8 @@
    "title": "GTA 6 Inspired “Do Not Disturb” Door Hanger",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "pending"
+   "status": "done",
+   "at": "2026-10-10T05:30:44.025Z"
   },
   {
    "id": "3091529",
@@ -5125,7 +5137,7 @@
    "id": "1406679",
    "slug": "headphone-holder-grand-theft-auto-5",
    "title": "Headphone Holder Grand Theft Auto 5",
-   "category": "bedroom",
+   "category": "gta-vi",
    "source": "topic:gta 6",
    "status": "pending"
   },
@@ -5350,7 +5362,7 @@
    "slug": "gta-vice-city-stories-light-box",
    "title": "GTA Vice City Stories Light Box",
    "category": "gta-vi",
-   "source": "refresh",
+   "source": "topic:gta 6",
    "status": "pending"
   },
   {
@@ -5725,7 +5737,7 @@
    "id": "2187062",
    "slug": "pegassi-infernus-from-gta-v",
    "title": "Pegassi Infernus from GTA V",
-   "category": "decor",
+   "category": "gta-vi",
    "source": "topic:gta 6",
    "status": "pending"
   },
@@ -42829,6 +42841,70 @@
    "title": "Beauty and the Beast wall art",
    "category": "beauty",
    "source": "search:beauty",
+   "status": "pending"
+  },
+  {
+   "id": "3411687",
+   "slug": "gta-6-lightbox-led-gaming-lamp-3d-printable",
+   "title": "GTA 6 Lightbox | LED Gaming Lamp | 3D Printable",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3415344",
+   "slug": "macca-the-gator-vice-city-figure-ams-multipart",
+   "title": "Macca the Gator Vice City Figure – AMS + Multipart",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3415161",
+   "slug": "ps5-controller-stand-gta-vi",
+   "title": "Support Manette Ps5 Gta VI",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3414922",
+   "slug": "gta-vi-topographic-map-no-ams",
+   "title": "GTA VI TOPOGRAPHIC MAP - NO AMS ",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3415961",
+   "slug": "gta-6-vi-lightbox-no-holes",
+   "title": "GTA 6 (VI) Lightbox \"NO HOLES\"",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3407767",
+   "slug": "gta-vi-wall-clock-vice-city-style",
+   "title": "GTA VI Wall Clock – Vice City Style",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3416076",
+   "slug": "imponte-deluxo-hover-car-gta-v-sci-fi-vehicle",
+   "title": "Imponte Deluxo Hover Car - GTA V Sci-Fi Vehicle",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
+   "status": "pending"
+  },
+  {
+   "id": "3411855",
+   "slug": "gta6-standee",
+   "title": "GTA6 Aufsteller",
+   "category": "gta-vi",
+   "source": "topic:gta 6",
    "status": "pending"
   }
  ]

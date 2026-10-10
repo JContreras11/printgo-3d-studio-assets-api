@@ -1,0 +1,86 @@
+{
+ "files": [
+  {
+   "path": "model/figura-accion.3mf.xz",
+   "instance_id": "3627986",
+   "thumbnail": "previews/profiles/3627986.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "X1E",
+    "A1 mini",
+    "H2C",
+    "X2D",
+    "H2D",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1,
+    "profile_title": "0.2mm layer, 2 walls, 15% infill"
+   },
+   "name": "Versión estándar",
+   "size": 16021348,
+   "sha256": "fbeda6c57e569f152ad190a7163bf295d6e7bc0f68b2de7c8a9021fb18bb8de0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3205527",
+ "title": "Figura de acción de ciencia ficción del agente Leek de GTA 6 CYBERLEEK",
+ "slug": "gta-6-cyberleek-leek-agent-sci-fi-action-figure",
+ "url": "https://makerworld.com/en/models/3205527-gta-6-cyberleek-leek-agent-sci-fi-action-figure",
+ "author": "aleksnuma",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Conozca CYBERLEEK, la verdura favorita de los editores\nel infame agente corrupto que filtró el juego más esperado de la década.\nViene equipado con una VPN táctica y una armadura de ciencia ficción, gafas de sol tácticas y una camiseta con hojas que evita los firewalls cifrados de alto nivel, este tipo es una amenaza total para el secreto corporativo.\n\nImprima su propio CYBERLEEK hoy, ¡antes de que el editor envíe un C&D a su cortadora!\n\n¿Te gusta el modelo? Deja tu calificación y dale me gusta para más",
+ "use_cases": [],
+ "tags": [
+  "cifra",
+  "ciencia ficción",
+  "arte",
+  "gta",
+  "filtración",
+  "ciberpuerro",
+  "figura de acción",
+  "3d",
+  "gta6",
+  "juego"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8867a34c221c76/design/b28a06af2de77feb.jpeg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   746
+  ],
+  "previews/profiles/3627986.jpg": [
+   487,
+   518
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,98 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-controlador.3mf.xz",
+   "instance_id": "3566699",
+   "thumbnail": "previews/profiles/3566699.jpg",
+   "print_time_h": 4.5,
+   "plates": 2,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "A1 mini",
+    "P2S",
+    "A1",
+    "H2D",
+    "A2L",
+    "X1E",
+    "X1",
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "0.2mm layer 2 walls 15% infill",
+    "creation_date": "2026-08-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1084680,
+   "sha256": "df2c6e86eb0f9109ccb0e28d0e1dc021d272b9c4f5fc7ea8e578c9f8cc551e58",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3156607",
+ "title": "Soporte del controlador GTA 6",
+ "slug": "gta-6-controller-stand",
+ "url": "https://makerworld.com/en/models/3156607-gta-6-controller-stand",
+ "author": "user_4251182083",
+ "category": "gta-vi",
+ "source_category": "Arte > Señales y logotipos",
+ "description": "Remezclé el modelo 3D existente de printynator para agregar mi propio toque y personalizarlo con el logotipo de GTA 6.\nEl objetivo era partir de una base ya existente para crear una versión única, diseñada para los fans del universo GTA. Por lo tanto, reelaboré el modelo para integrar armoniosamente el logotipo de GTA 6, manteniendo al mismo tiempo un diseño limpio adecuado para la impresión 3D.\nEste proyecto me permitió combinar la modificación, personalización y modelado 3D del modelo existente para crear un objeto original que se adapte mejor a mis preferencias.\nUtilicé el modelo base de printynator y le agregué el logotipo de GTA 6.\n\nQuiero aclarar que printynator aceptó que remezclara su modelo y lo publicara, y se lo agradezco.\n\naquí está el modelo base\n\nImpulsameSiéntete libre de impulsar si te gusta",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "gta vi"
+ ],
+ "license": "Standard Digital File License - Community Use",
+ "release_date": "2026-08-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US492dae697dd89/design/1c9c22bf32325b0e.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1315
+  ],
+  "previews/profiles/3566699.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

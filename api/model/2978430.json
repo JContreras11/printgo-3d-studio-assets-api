@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/muldura-quadro.3mf.xz",
+   "instance_id": "3341371",
+   "thumbnail": "previews/profiles/3341371.jpg",
+   "print_time_h": 5.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2C",
+    "P2S",
+    "H2S",
+    "A2L",
+    "H2D Pro",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.12mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1607268,
+   "sha256": "4eebcfe3224736ce4614feab40d3857dbcaaef962154fdd83056525f03c62b2e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2978430",
+ "title": "Muldura Quadro GTA 6 Rockstar",
+ "slug": "muldura-quadro-gta-6-rockstar",
+ "url": "https://makerworld.com/en/models/2978430-muldura-quadro-gta-6-rockstar",
+ "author": "JSousa040",
+ "category": "gta-vi",
+ "source_category": "Arte > Arte 2D",
+ "description": "El marco deberá estar pegado a la pared.\nSe puede ampliar para adaptarse a su impresora 3D.",
+ "use_cases": [],
+ "tags": [
+  "estrella de rock",
+  "estrella de rock 2",
+  "conejito estrella de rock",
+  "montaña rusa estrella de rock",
+  "dardo estrella de rock",
+  "gta 6",
+  "calendario gta 6",
+  "cuenta regresiva gta 6",
+  "llavero gta 6",
+  "gta 6 playstation",
+  "gta vi",
+  "gta vice city"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US67615dd6f24c36/design/45e05806f16709af.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3341371.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

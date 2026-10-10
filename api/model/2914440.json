@@ -1,0 +1,96 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-joyas.3mf.xz",
+   "instance_id": "3260028",
+   "thumbnail": "previews/profiles/3260028.jpg",
+   "print_time_h": 6.8,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 17,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2C",
+    "H2D Pro",
+    "A2L",
+    "H2S",
+    "H2D",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3,
+    "profile_title": "Variable layer Height, 2 walls, 5% infill"
+   },
+   "name": "Versión estándar",
+   "size": 6463520,
+   "sha256": "c413b912951b0ff3754542daa00ffb37d4bdf19e128fc8aad5f3f0241ae1fe37",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2914440",
+ "title": "Organizador de Joyas - Impresión Fácil",
+ "slug": "jewellery-organizer-no-ams-easy-print",
+ "url": "https://makerworld.com/en/models/2914440-jewellery-organizer-no-ams-easy-print",
+ "author": "Homedesign3D",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "¿Necesita una forma práctica de organizar todas sus joyas y al mismo tiempo mantenerlas ordenadas y fácilmente accesibles? Este organizador está diseñado para guardar todas tus joyas en un solo lugar, mientras las mantienes organizadas y desenredadas.\n\nEl organizador cuenta con una placa base para anillos, pulseras y otras joyas. Los 2 tableros de pared están hechos para guardar collares y aretes.\n\nOptimizado para una impresión 3D sin complicaciones y sin necesidad de soportes.\n\nLo más destacado\nFácil montaje\nMucho almacenamiento\nNo se requieren soportes\nConfiguración de impresión\nAltura de capa variable\n5% de relleno\n2 paredes\nVelocidades de impresión reducidas para mejorar los detalles\nSin soportes\n\nFilamentos usados\nPLA Bambú Mate – Marrón Oscuro\nPLA Bambú Mate – Blanco Marfil\nPLA Bambu Matte - Bronceado Desierto\nSiempre estoy buscando maneras de mejorar mis diseños. Si imprimes uno, ¡me encantaría ver los resultados! No dude en compartir una foto, sus combinaciones de colores o cualquier comentario, idea y sugerencia para futuros diseños.",
+ "use_cases": [],
+ "tags": [
+  "'hogar",
+  "decoración del hogar",
+  "hogar",
+  "'decoración",
+  "decoración",
+  "mujer",
+  "accesorio de mujer",
+  "joyas",
+  "accesorio de joyería",
+  "joyería",
+  "anillo"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-06-10",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc794ffdc315715/design/4a26b2bb8e281456.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1523
+  ],
+  "previews/02.jpg": [
+   1000,
+   1434
+  ],
+  "previews/03.jpg": [
+   1000,
+   1244
+  ],
+  "previews/04.jpg": [
+   1000,
+   1374
+  ],
+  "previews/profiles/3260028.jpg": [
+   600,
+   860
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

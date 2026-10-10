@@ -1,0 +1,139 @@
+{
+ "files": [
+  {
+   "path": "model/limpiador-brochas-48min.3mf.xz",
+   "instance_id": "2704624",
+   "thumbnail": "previews/profiles/2704624.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 72,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2S",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "P2S",
+    "H2C",
+    "X1E",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "X1",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3464916,
+   "sha256": "6b2664d8c7d16afb32fff7805d56178d85b0ffb2bad4093425f5dbf842acc859",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limpiador-brochas-1h24.3mf.xz",
+   "instance_id": "3007842",
+   "thumbnail": "previews/profiles/3007842.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "H2D",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "P2S",
+    "H2S",
+    "X2D",
+    "X1",
+    "H2C",
+    "P1S",
+    "P1P",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Gold version - diameter 10 cm",
+    "profile_notes": "This is the version with the gold-trimmed small hearts. It's also slightly larger, measuring 10 cm in diameter. Requires AMS.",
+    "creation_date": "2026-04-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3664968,
+   "sha256": "eb6a3c1cf665ed8057f93b90bfec9433b4be1fdab4bc453f9836a5adc5b23b70",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2463803",
+ "title": "Limpiador de brochas de maquillaje - Corazón",
+ "slug": "makeup-brush-cleaner-heart",
+ "url": "https://makerworld.com/en/models/2463803-makeup-brush-cleaner-heart",
+ "author": "user_2964296411",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "tEleva tu rutina: el limpiador de brochas de maquillaje con forma de corazón impreso en 3D\n¿Sabías que unas brochas limpias no solo sirven para una mejor aplicación del maquillaje, sino principalmente para una piel sana? Presentamos un proyecto que combina funcionalidad de alta gama con una estética encantadora: una herramienta diseñada para revolucionar su rutina de belleza.\nPor qué deberías imprimir este proyecto:\nInnovadora textura en forma de corazón: ¡Es más que un bonito diseño! Los corazones elevados de diferentes tamaños están diseñados para llegar profundamente entre las cerdas, eliminando eficazmente los pigmentos rebeldes, las bases aceitosas y las bacterias.\nErgonómico e intuitivo: diseñado para caber perfectamente en la palma de su mano, brindándole control total durante el proceso de limpieza. Funciona de maravilla tanto para la \"limpieza en seco\" (cambios rápidos de color) como para la \"limpieza en húmedo\" con su jabón favorito.\n100% Personalización: Al imprimirlo tú mismo, controlas el material y la vibra. Elija un rosa pastel suave para una apariencia \"glamurosa\" o un tono neón atrevido para que sea fácil de encontrar en su cajón.\nAlternativa ecológica: en lugar de comprar accesorios de plástico de baja calidad producidos en masa, cree una herramienta duradera utilizando filamentos ecológicos (como TPU para mayor flexibilidad o PETG para mayor durabilidad).\nResultados profesionales en casa\nTu maquillaje merece las mejores herramientas. Con este limpiador, tus brochas recuperarán su suavidad y esponjosidad en segundos, ahorrándote tiempo y dinero en la sustitución de aplicadores desgastados.\n\nActualización:\nHe añadido un nuevo perfil con una versión de los corazoncitos con acabado dorado (PLA Silk). Se ve muy bien. También es un poco más grande, con un diámetro de 10 cm. Esta versión requiere AMS.\n\nSi te gustó mi proyecto, mira otros proyectos con corazones:",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "accesorios de maquillaje",
+  "limpiador",
+  "cepillar",
+  "moda",
+  "rosa",
+  "corazón"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-01",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US839384b4f9208d/design/e6a63752da38902e.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   562
+  ],
+  "previews/02.png": [
+   1000,
+   885
+  ],
+  "previews/profiles/2704624.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3007842.jpg": [
+   600,
+   337
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

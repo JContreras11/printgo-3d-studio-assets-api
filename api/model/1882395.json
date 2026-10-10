@@ -1,0 +1,150 @@
+{
+ "files": [
+  {
+   "path": "model/elegante-organizador-3h12.3mf.xz",
+   "instance_id": "2015722",
+   "thumbnail": "previews/profiles/2015722.jpg",
+   "print_time_h": 3.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 260,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "光滑表面，快速",
+    "profile_notes": "无换色 少量支撑 0.20mm layer, 3 walls, 15% infill",
+    "creation_date": "2026-04-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1544208,
+   "sha256": "c683770695b0f4f879395ac573b32c4cb208138ebf1bab89f720cf47a42583e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/elegante-organizador-3h24.3mf.xz",
+   "instance_id": "3613974",
+   "thumbnail": "previews/profiles/3613974.jpg",
+   "print_time_h": 3.4,
+   "plates": 1,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.60",
+    "profile_title": "绒毛表面,质感",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1855132,
+   "sha256": "6c02e7d87e125cc1b0252ab50a6d40ea5dfa21cccedfc4541ee4f046b0335fb3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1882395",
+ "title": "elegante organizador de brochas de maquillaje (Q_Craft)",
+ "slug": "elegant-makeup-brush-organizer-q_craft",
+ "url": "https://makerworld.com/en/models/1882395-elegant-makeup-brush-organizer-q_craft",
+ "author": "Q_Craft",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Como contenedor, puede contener brochas de maquillaje, bolígrafos, pasta de dientes y cepillos de dientes, etc.\nHay orificios de drenaje en la parte inferior para drenaje de agua y ventilación.\nRápido y sencillo de imprimir, los soportes mínimos son fáciles de quitar\nEste es un portalápices en forma de arco lleno de sentido del diseño presentado en una textura de cerámica blanca pura simple, limpia y suave. La estructura de apertura de doble cara no solo simboliza elegancia y simetría, sino que también hace que el almacenamiento sea más flexible: puede colocar brochas de maquillaje, artículos de papelería u otros artículos pequeños de escritorio por separado. La sección central ceñida del lazo hace que la forma general parezca una cinta suavemente atada, combinando ternura y una sensación premium. No importa si se coloca sobre el tocador, el escritorio o la mesa de la oficina, puede integrarse naturalmente en el espacio y agregar un toque delicado de ritual a la vida diaria.",
+ "use_cases": [],
+ "tags": [
+  "navidad 2025",
+  "tocador",
+  "organizador de escritorio de maquillaje",
+  "constituir",
+  "accesorios de maquillaje",
+  "carrito de accesorios de maquillaje",
+  "cinta",
+  "decoracion navideña",
+  "decoración 2025",
+  "lápiz",
+  "portaplumas",
+  "navidad"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3b13ff20d6982/design/728f3c5e57dda451.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1000
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/2015722.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/3613974.jpg": [
+   600,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

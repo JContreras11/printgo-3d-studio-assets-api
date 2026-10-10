@@ -1,0 +1,104 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-coletero.3mf.xz",
+   "instance_id": "2275462",
+   "thumbnail": "previews/profiles/2275462.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 297,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "H2C",
+    "H2D Pro",
+    "X1 Carbon",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D",
+    "A1 mini",
+    "P2S",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.2mm layer, 3 walls, 12% infill",
+    "creation_date": "2025-12-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2344792,
+   "sha256": "90927b8e8c2d8f682ad2d050c02254588083ad2120643ab0334c3cf32ab1abb3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2103952",
+ "title": "Soporte para coletero para el cabello – Organizador compacto",
+ "slug": "hair-scrunchie-holder-stand-compact-organizer",
+ "url": "https://makerworld.com/en/models/2103952-hair-scrunchie-holder-stand-compact-organizer",
+ "author": "imps",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Impúlsame Gracias por el impulso. ¡Realmente me ayuda a crear más modelos! ¡Gracias por ser increíble!\nCreé este soporte para mantener organizados el escritorio y el tocador: tiene capacidad para mucho sin ocupar mucho espacio. El bucle vertical hace que cargar y quitar los coleteros sea sin esfuerzo, y la silueta limpia funciona muy bien como almacenamiento decorativo. También es ideal para baños, rincones de maquillaje, dormitorios e incluso pequeñas boutiques.\n\nEsta es la versión 2 de mi anterior soporte para coleteros y lo rediseñé en función de los problemas que tuvieron algunos usuarios durante la impresión. El modelo ahora es más fuerte, más estable y más fácil de imprimir. Presenta una forma suave y minimalista, una base ancha para un mejor equilibrio y una altura cómoda en la que se adaptan muchos coleteros, gomas para el cabello, elásticos y pequeños accesorios.\n\nEl modelo imprime muy rápido, no tiene soportes y funciona perfectamente incluso en configuraciones para principiantes. Si quieres un organizador sencillo que luzca lindo y sea funcional, este hace el trabajo todos los días.",
+ "use_cases": [],
+ "tags": [
+  "coletero",
+  "titular",
+  "pararse",
+  "organizador",
+  "cabello",
+  "mostrar",
+  "titular de la goma para el pelo",
+  "lazo para el cabello",
+  "organizador de accesorios para el cabello",
+  "titular de la banda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-12-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US69442113793499/design/2025-12-11_2648dbf0a87158.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2275462.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

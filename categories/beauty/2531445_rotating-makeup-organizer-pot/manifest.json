@@ -1,0 +1,125 @@
+{
+ "files": [
+  {
+   "path": "model/maceta-organizadora.3mf.xz",
+   "instance_id": "2785983",
+   "thumbnail": "previews/profiles/2785983.jpg",
+   "print_time_h": 7.6,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 137,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X2D",
+    "H2D Pro",
+    "X1",
+    "A1 mini",
+    "P1P",
+    "H2D",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "A2L",
+    "H2S",
+    "P1S",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "0.2mm layer, 2 walls, 12% infill",
+    "creation_date": "2026-03-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "12%",
+    "support_type": "normal(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2113472,
+   "sha256": "e9d6226f6fad66e3b5815ff73a2185defc9835fb503c57768c94f65f3861878a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2531445",
+ "title": "Maceta organizadora de maquillaje giratoria",
+ "slug": "rotating-makeup-organizer-pot",
+ "url": "https://makerworld.com/en/models/2531445-rotating-makeup-organizer-pot",
+ "author": "AS3D_83",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "En consonancia y con el mismo tema que el algodón y el porta bastoncillos publicados anteriormente, aquí está el elegante organizador de maquillaje.\n\nIdeal para complacer a la señora;)\n\nMontado con un rodamiento 608ZZ que podrás encontrar comercialmente, también será posible imprimirlo:\n\nEl diámetro del organizador es de 13,5 cm con una altura total de 11,5 cm cuando el pie está montado.\n\nEstá fabricado con 4 compartimentos, un compartimento central y 3 compartimentos a su alrededor.\n\nTal como están las cosas, no es aconsejable modificar las dimensiones, de lo contrario el rodamiento ya no encajará.\n\nYo personalmente imprimí los pies en PLA de madera, puedes elegir el color que combine con tu decoración.\n\nTambién encontrarás varios estampados para hacer del mismo estilo, para ello te invito a ver mis otras creaciones:\n\nGracias de antemano por vuestros impulsos, comentarios y fotos que nos motivan a continuar;)",
+ "use_cases": [],
+ "tags": [
+  "almacenamiento",
+  "organizador de maquillaje",
+  "bote de maquillaje",
+  "giratorio",
+  "rotación",
+  "cojinete",
+  "608z",
+  "organizador",
+  "constituir",
+  "baño",
+  "regalo para mujeres"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USbb8861905e96e/design/d71d382225ab4768.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.png",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1160
+  ],
+  "previews/06.jpg": [
+   796,
+   974
+  ],
+  "previews/07.jpg": [
+   758,
+   866
+  ],
+  "previews/08.png": [
+   670,
+   885
+  ],
+  "previews/profiles/2785983.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

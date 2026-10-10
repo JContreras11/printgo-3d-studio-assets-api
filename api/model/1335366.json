@@ -1,0 +1,109 @@
+{
+ "files": [
+  {
+   "path": "model/contenedor-hisopos.3mf.xz",
+   "instance_id": "1374528",
+   "thumbnail": "previews/profiles/1374528.jpg",
+   "print_time_h": 4.3,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 139,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 2 walls, 15% infill",
+    "profile_notes": "Habe teiweise mit 10% und mit 15% Infill gedruckt. Bei mir hat so alles Super funtioniert",
+    "creation_date": "2025-04-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.3",
+    "infill": "10%",
+    "ironing": "topmost",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2479236,
+   "sha256": "665d52c9870e3ed139111d1e32c2bb93764c4769efec903ecef89f1fcbcdaaad",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1335366",
+ "title": "Contenedor de hisopos de algodón",
+ "slug": "cotton-swab-container",
+ "url": "https://makerworld.com/en/models/1335366-cotton-swab-container",
+ "author": "Patrick1105",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "He diseñado un recipiente con tapa para hisopos y almohadillas de algodón (a juego con el diseño de mi maceta). Todo se imprime con boquilla de 0,6 y sin soportes. La perilla de la tapa se puede pegar en su lugar con una gota de superpegamento. Pero también funcionó sin él para mí. Así hay un poco de orden en el baño. Diviértete imprimiendo!!!!\nImpulsa MeBoost para más diseños:)",
+ "use_cases": [],
+ "tags": [
+  "accesorios de belleza",
+  "baño",
+  "almohadillas de algodón",
+  "bastoncillo de algodón"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1d27be5e3707d8/design/2025-04-19_a99d33b5ab675.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/1374528.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

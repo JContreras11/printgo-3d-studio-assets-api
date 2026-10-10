@@ -1,0 +1,252 @@
+{
+ "files": [
+  {
+   "path": "model/limpiador-brochas-1h30.3mf.xz",
+   "instance_id": "1203892",
+   "thumbnail": "previews/profiles/1203892.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 791,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "P2S",
+    "X1E",
+    "X1",
+    "P1P",
+    "X1 Carbon",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill (OLD)",
+    "creation_date": "2025-03-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5390,
+      "weight_g": 26.49,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#C0C0C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1557852,
+   "sha256": "38480f83534d723dfd104f8f3c3af9ab45a7f60bad1b60a413d23ebff27e4bcb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limpiador-brochas-1h06.3mf.xz",
+   "instance_id": "3157136",
+   "thumbnail": "previews/profiles/3157136.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 18,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "P1S",
+    "P1P",
+    "X1",
+    "X2D",
+    "X1 Carbon",
+    "H2D",
+    "X1E",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "P2S",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "Optimized quality and Structural reinforcement",
+    "profile_notes": "0.16mm layer, 2 walls, 8% infill",
+    "creation_date": "2026-05-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2232772,
+   "sha256": "cf5bb87b15a44c67a84614dbc10e36cc7d5f4e9ea7a54b94be1df404c799482c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limpiador-brochas-1h24.3mf.xz",
+   "instance_id": "2470741",
+   "thumbnail": "previews/profiles/2470741.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 374,
+   "by_designer": true,
+   "printers": [
+    "H2S",
+    "A1 mini",
+    "P1S",
+    "H2D",
+    "H2D Pro",
+    "P2S",
+    "H2C",
+    "X1E",
+    "A1",
+    "X1",
+    "P1P",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.02.56",
+    "profile_title": "NEW!",
+    "creation_date": "2026-01-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2S",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2175520,
+   "sha256": "dbece86112e61e84cde42f62b570a92a1aad2888683ec1bce0cbb6f22170ab83",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limpiador-brochas-1h36.3mf.xz",
+   "instance_id": "2454425",
+   "thumbnail": "previews/profiles/2454425.jpg",
+   "print_time_h": 1.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 61,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "H2S",
+    "H2D",
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "P1P",
+    "A1 mini",
+    "X1",
+    "H2C",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.16mm layer, 2 walls, 10% infill",
+    "profile_notes": "Same as the designer's profile, just added a touch of color for the flowers!",
+    "creation_date": "2026-01-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1783400,
+   "sha256": "dae72df649ad6cec865f2fa4c7ef631f30c48fec9cc307a6a50f36e605e0ef0f",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1191931",
+ "title": "Limpiador de brochas de maquillaje",
+ "slug": "makeup-brush-cleaner",
+ "url": "https://makerworld.com/en/models/1191931-makeup-brush-cleaner",
+ "author": "laban1",
+ "category": "beauty",
+ "source_category": "Hogar > Otros Modelos de Casas",
+ "description": "El nuevo perfil de impresión está activo. Utilice el nuevo perfil de impresión. Cambios: se eliminó el redondeo inferior para reducir la deformación.\n\nEste limpiador compacto de brochas de maquillaje elimina rápidamente los residuos de maquillaje, la suciedad y los aceites. Su superficie texturizada limpia las cerdas de forma suave y eficaz. Ligero, duradero y perfecto para uso diario o viajes.\n\nImpulsame\n\nMembresía¿Le gustaría vender mis impresiones? Únase como miembro y conviértase en revendedor oficial",
+ "use_cases": [],
+ "tags": [
+  "constituir",
+  "cepillar",
+  "chica",
+  "moda",
+  "elegante",
+  "limpio",
+  "limpiador",
+  "lavar",
+  "limpieza",
+  "baño",
+  "cosmético",
+  "organizador"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2ff3898c840ce6/design/2025-03-09_b309e4e8c9b14.png",
+ "images": [
+  "previews/01.gif",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.gif",
+ "image_sizes": {
+  "previews/01.gif": [
+   384,
+   288
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/1203892.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3157136.jpg": [
+   600,
+   600
+  ],
+  "previews/profiles/2470741.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2454425.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

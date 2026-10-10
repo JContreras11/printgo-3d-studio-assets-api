@@ -1,0 +1,300 @@
+{
+ "files": [
+  {
+   "path": "model/contenedor-almacenamiento-2h06.3mf.xz",
+   "instance_id": "3483949",
+   "thumbnail": "previews/profiles/3483949.jpg",
+   "print_time_h": 2.1,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 30,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "多球球版本 长8cm 宽8cm",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 884084,
+   "sha256": "c8697473dc231cbf1ea5f7d56f674d6176dffd3b9daf6234e16009ece805009e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/contenedor-almacenamiento-1h18.3mf.xz",
+   "instance_id": "3483962",
+   "thumbnail": "previews/profiles/3483962.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "少球球版本 长7.5cm 宽7.5cm",
+    "creation_date": "2026-07-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1054156,
+   "sha256": "e1496945386b21960ac73b9e115f202d3482c47acd45beecceb49c93168ee3c9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/contenedor-almacenamiento-2h30.3mf.xz",
+   "instance_id": "3483965",
+   "thumbnail": "previews/profiles/3483965.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1 mini",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "少球球版本 长10cm 宽10cm",
+    "creation_date": "2026-07-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1062772,
+   "sha256": "2430c49b94c98bd4a0f5c055f5066d685ebe0ff529cd8e3ea062d5306b8324e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/contenedor-almacenamiento-4h.3mf.xz",
+   "instance_id": "3483959",
+   "thumbnail": "previews/profiles/3483959.jpg",
+   "print_time_h": 4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 11,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "多球球版本 长11cm 宽11cm",
+    "creation_date": "2026-07-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 893148,
+   "sha256": "043494f6ec69958177e0ebd3c6ab9132ba63743b76dbc32ef56b6ffebadc9e15",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/contenedor-almacenamiento-5h.3mf.xz",
+   "instance_id": "3829287",
+   "thumbnail": "previews/profiles/3829287.jpg",
+   "print_time_h": 5,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2C",
+    "H2D Pro",
+    "P1P",
+    "X1E",
+    "X1",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "P1S",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Smooth version, 3x3 bubbles, 8 and 11cm versions",
+    "profile_notes": "Had to make smooth version of this model because it deserves it :D also as a 3D designer it made me angry as it wasn't smooth haha great model tho, just if someone like me wants the smooth version of the print with more bubbles there are 8cm and 11cm versions here :) Printed in Azurefilm PLA HS Off-white.",
+    "creation_date": "2026-09-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 9138036,
+   "sha256": "cf1bd09827801024014957d6a86a50189496fc50f4208888b67d09f71f6c57e2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3091996",
+ "title": "Contenedor de almacenamiento de cosméticos estéticos color crema",
+ "slug": "cream-aesthetic-cosmetic-storage-bin",
+ "url": "https://makerworld.com/en/models/3091996-cream-aesthetic-cosmetic-storage-bin",
+ "author": "windko3D",
+ "category": "beauty",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Esta caja de almacenamiento estilo crema con forma de malvavisco está disponible en dos opciones. Su lindo contorno de burbuja tridimensional es adecuado para guardar lápices labiales, pinceles de maquillaje, bolígrafos y otros artículos en el escritorio. No solo es un elemento de almacenamiento práctico sino que también agrega una atmósfera suave y curativa al escritorio.\n\nBoost MeTu impulso es el mayor apoyo para mí, gracias.",
+ "use_cases": [],
+ "tags": [
+  "estilo cremoso",
+  "redondo",
+  "yuanyuan",
+  "almacenamiento",
+  "de oficina",
+  "tubo de almacenamiento",
+  "caja de almacenamiento",
+  "ins",
+  "alto valor estético",
+  "constituir",
+  "caja de almacenamiento de cosméticos",
+  "productos cosméticos"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8f5341f3c3aa4d/design/f0c2b08cf6607ed6.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   800,
+   600
+  ],
+  "previews/02.jpg": [
+   800,
+   600
+  ],
+  "previews/03.jpg": [
+   800,
+   600
+  ],
+  "previews/04.jpg": [
+   800,
+   600
+  ],
+  "previews/05.jpg": [
+   800,
+   600
+  ],
+  "previews/profiles/3483949.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3483962.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3483965.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3483959.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3829287.jpg": [
+   600,
+   799
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

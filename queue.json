@@ -539,9 +539,8 @@
    "title": "Cubierta frontal mando PS5 / EDICION GTA VI",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "failed",
-   "at": "2026-10-09T02:26:01.120Z",
-   "reason": "3747809: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}"
+   "status": "pending",
+   "at": "2026-10-09T02:26:01.120Z"
   },
   {
    "id": "3002015",
@@ -639,9 +638,8 @@
    "title": "Touchpad Mando PS5 / GTA VI ",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "failed",
-   "at": "2026-10-09T02:26:10.768Z",
-   "reason": "3747857: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}"
+   "status": "pending",
+   "at": "2026-10-09T02:26:10.768Z"
   },
   {
    "id": "84574",
@@ -704,9 +702,8 @@
    "title": "Cubierta 360 Mando / PS5 EDICION GTA VI",
    "category": "gta-vi",
    "source": "topic:gta 6",
-   "status": "failed",
-   "at": "2026-10-09T02:26:20.796Z",
-   "reason": "3747953: 400 {\"code\":666,\"error\":\"Download is not supported for this model. Please use Bambu Handy to start printing.\"}"
+   "status": "pending",
+   "at": "2026-10-09T02:26:20.796Z"
   },
   {
    "id": "3274293",
@@ -6258,8 +6255,7 @@
    "title": "Articulated Halloween themed dragon",
    "category": "halloween-2026",
    "source": "search:Halloween 2026",
-   "status": "failed",
-   "reason": "TypeError: Failed to fetch\n    at https://makerworld.com/_next/static/chunks/sentry-dc898c7ad2101324.js:19:6254\n    at <anonymous>:1:1"
+   "status": "pending"
   },
   {
    "id": "3346026",

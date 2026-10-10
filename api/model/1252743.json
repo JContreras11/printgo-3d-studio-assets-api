@@ -1,0 +1,289 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-maquillaje-7h30.3mf.xz",
+   "instance_id": "1275485",
+   "thumbnail": "previews/profiles/1275485.jpg",
+   "print_time_h": 7.5,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 790,
+   "by_designer": true,
+   "printers": [
+    "P1P",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.00.95",
+    "profile_title": "0.28mm layer, 2 walls, 5% infill",
+    "creation_date": "2025-03-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.28",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "plates": [
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5227,
+      "weight_g": 55,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 19887,
+      "weight_g": 186.47,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "C11",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1982,
+      "weight_g": 5.35,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#F5D20A"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Multicolor impresión en PLA",
+   "size": 2030956,
+   "sha256": "e76e0f7245cfe0d26e6efd846ede4712a016d339c086e640d557adf0eba7268e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-10h06.3mf.xz",
+   "instance_id": "1513966",
+   "thumbnail": "previews/profiles/1513966.jpg",
+   "print_time_h": 10.1,
+   "plates": 3,
+   "rating": 4.8,
+   "rating_count": 19,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "X1E",
+    "H2D",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.28",
+    "infill": "100%",
+    "support_type": "tree(auto)",
+    "photos": 3,
+    "profile_title": "100% infill for heavier base, TPU feet, Smoother Operation"
+   },
+   "name": "Versión estándar",
+   "size": 2060980,
+   "sha256": "c33b37de000aff0822221edd8081156e0a813e3333790bb57c62c341a2deca56",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-24min.3mf.xz",
+   "instance_id": "2150893",
+   "thumbnail": "previews/profiles/2150893.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "X1 Carbon",
+    "H2D",
+    "A1 mini",
+    "P1P",
+    "P2S",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "rubber feet",
+    "profile_notes": "This creates a platform to stick a rubber pad to for a more stable makeup organizer. It is printed with a .08mm layer height on the end for a strong bond to the rubber. it slots into the holes in the makeup organizer base",
+    "creation_date": "2025-11-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 947912,
+   "sha256": "803bbab5a0cbd12053f9291837b16fa895aab669690d56decd8e99ef7c17a070",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-6h24.3mf.xz",
+   "instance_id": "1827043",
+   "thumbnail": "previews/profiles/1827043.jpg",
+   "print_time_h": 6.4,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 55,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "A1",
+    "X1 Carbon",
+    "A1 mini",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.02.00.85",
+    "profile_title": "0.2/0.08 layer, manual infill and supports",
+    "profile_notes": "Feet print in 0.08mm layer height for a smooth finish, especially interesting for silk filaments Base and Body print on 0.2mm layer height manually placed supports on base manually placed infill on body for reduced printing time and filament usage",
+    "creation_date": "2025-08-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 2078948,
+   "sha256": "98a91da967298f9cd9c784194113de395a566156935dd751454b052303774e87",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1252743",
+ "title": "Organizador de Maquillaje - Rotativo 360º",
+ "slug": "makeup-organizer-360o-rotative",
+ "url": "https://makerworld.com/en/models/1252743-makeup-organizer-360o-rotative",
+ "author": "ARTICAT",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Organizador de Maquillaje - Rotativo 360º\n¡Mantén tus elementos esenciales de belleza perfectamente organizados con este elegante y funcional organizador de maquillaje giratorio de 360°!\n\nRotación completa: acceda fácilmente a todos sus productos con un giro suave de 360°.\nEspacioso y ajustable: ¡Múltiples compartimentos para guardar lápices labiales, brochas, productos para el cuidado de la piel y más!\nElegante y práctico: ¡un complemento perfecto para tu tocador o baño!\n\n¡Imprímelo, organízalo con estilo y dile adiós a los mostradores desordenados!\nImpúlsame ¡Por favor, danos un impulso para ayudar a traer más modelos interesantes a la comunidad!",
+ "use_cases": [],
+ "tags": [
+  "360",
+  "giratorio",
+  "constituir",
+  "organizador",
+  "cepillar",
+  "titular",
+  "caja",
+  "escritorio",
+  "accesorios"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-03-26",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US30c1e399bbc7cc/design/2025-04-05_3182102f0ff17.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   750
+  ],
+  "previews/05.jpg": [
+   1000,
+   1332
+  ],
+  "previews/profiles/1275485.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1513966.jpg": [
+   600,
+   743
+  ],
+  "previews/profiles/2150893.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1827043.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

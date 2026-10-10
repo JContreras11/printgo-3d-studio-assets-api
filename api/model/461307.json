@@ -1,0 +1,387 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-esmalte-3h54.3mf.xz",
+   "instance_id": "370018",
+   "thumbnail": "previews/profiles/370018.jpg",
+   "print_time_h": 3.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 116,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P1S",
+    "X1",
+    "H2D",
+    "P1P",
+    "X2D",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "A1",
+    "P2S",
+    "X1E"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "3x3 - 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Three shelves that fit three bottles of nail polish each.",
+    "creation_date": "2025-01-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 14415,
+      "weight_g": 123.16,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#FF80C0"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1196356,
+   "sha256": "c54cb7ed50fe1a89906389458f132f9cba3b8cc54dca1584421610b1a4c8f48d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-esmalte-3h36-2.3mf.xz",
+   "instance_id": "1742162",
+   "thumbnail": "previews/profiles/1742162.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "3x4 0.20 mm layer, 2 walls, 15% infill",
+    "profile_notes": "0,20 layer height 2 walls 15% infill",
+    "creation_date": "2025-07-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1232816,
+   "sha256": "93f2b6ccf9c7e6d58ba9209dfe9152e0cf1dd2b99613295e833b81e2352adc66",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-esmalte-3h36.3mf.xz",
+   "instance_id": "1742924",
+   "thumbnail": "previews/profiles/1742924.jpg",
+   "print_time_h": 3.6,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 5,
+   "by_designer": false,
+   "printers": [
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "3x3 0.20 mm layer, 2 walls, 15% infill",
+    "profile_notes": "0,20 layer height 2 walls 15% infill",
+    "creation_date": "2025-07-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1P",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1224280,
+   "sha256": "17c22be2cc928fdcdbae0edf60827a8d16af68b5530102f14987c39891e97175",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-esmalte-4h30.3mf.xz",
+   "instance_id": "1653016",
+   "thumbnail": "previews/profiles/1653016.jpg",
+   "print_time_h": 4.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.00.59",
+    "profile_title": "2x4 - 0.16mm layer, 2 walls, 15% infill",
+    "profile_notes": "Two shelves that fit four bottles of nail polish each.",
+    "creation_date": "2025-07-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 21324880,
+   "sha256": "0b07c725e4862328e3da60e9cb2369c28d1788f6874b77fff1dd76ce7a3784b6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-esmalte-4h36.3mf.xz",
+   "instance_id": "1652989",
+   "thumbnail": "previews/profiles/1652989.jpg",
+   "print_time_h": 4.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "H2D Pro",
+    "P1S",
+    "A2L",
+    "H2S",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A1"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.01.66",
+    "profile_title": "3x4 - 0.16mm layer, 2 walls, 15% infill (Reupload)",
+    "profile_notes": "Three shelves that fit four bottles of nail polish each. Reuploaded since last print profile was taken down for lacking a picture",
+    "creation_date": "2024-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1264384,
+   "sha256": "65f517bc95d934fbba730c49a55a71ff45293333af52590d26038eb3ab2c5de1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-esmalte-5h12.3mf.xz",
+   "instance_id": "1652981",
+   "thumbnail": "previews/profiles/1652981.jpg",
+   "print_time_h": 5.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 72,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P1P",
+    "H2S",
+    "A1",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2D",
+    "H2C",
+    "P1S",
+    "P2S",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.09.01.66",
+    "profile_title": "3x5 - 0.16mm layer, 2 walls, 15% infill (Reupload)",
+    "profile_notes": "Three shelves that fit five bottles of nail polish each Reuploaded since last print profile was taken down as it lacked a image.",
+    "creation_date": "2024-06-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1214244,
+   "sha256": "ac83fa357c2c6f898f335ebea20bca9fb84e5705a8772c9ddfba439edcce67f3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "461307",
+ "title": "Organizador de esmalte de uñas - Personalizable",
+ "slug": "nail-polish-organizer-customizable",
+ "url": "https://makerworld.com/en/models/461307-nail-polish-organizer-customizable",
+ "author": "jonas3141",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Membresía¿Quieres vender impresiones físicas? Únase a mi membresía comercial para obtener una licencia que cubra mis diseños. Un organizador para esmalte de uñas u otros artículos pequeños. Disponible en cuatro tamaños diferentes, que se encuentran en perfiles de impresión.\nEl tamaño de una bandeja es (30*n+5) por 30 milímetros y caben n botellas de esmalte de uñas.\nRecomiendo poner pequeños pies de goma debajo para darle una sensación más profesional a toda la impresión y evitar que se deslice.\n\nNota: Tuve que volver a cargar tres de los perfiles de impresión, por lo que es posible que no tengan ninguna calificación.\nImpúlsame ¡Por favor, impulsame si te gusta este diseño!:-)",
+ "use_cases": [],
+ "tags": [
+  "organizador",
+  "esmalte de uñas",
+  "regalo",
+  "almacenamiento de esmalte de uñas",
+  "estante para esmalte de uñas",
+  "organización de belleza",
+  "titular de cosméticos",
+  "almacenamiento de maquillaje",
+  "exhibición de esmalte de uñas",
+  "almacenamiento de baño",
+  "soporte de esmalte de uñas",
+  "pararse"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-05-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US68ece1f5ce5df3/design/2024-05-15_2443ab75e0aac.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.png",
+  "previews/08.jpg",
+  "previews/09.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   668
+  ],
+  "previews/02.png": [
+   900,
+   600
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   782,
+   605
+  ],
+  "previews/06.jpg": [
+   776,
+   793
+  ],
+  "previews/07.png": [
+   900,
+   600
+  ],
+  "previews/08.jpg": [
+   791,
+   676
+  ],
+  "previews/09.png": [
+   891,
+   598
+  ],
+  "previews/profiles/370018.jpg": [
+   600,
+   400
+  ],
+  "previews/profiles/1742162.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1742924.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1653016.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/1652989.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/1652981.jpg": [
+   600,
+   512
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

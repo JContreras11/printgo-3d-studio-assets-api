@@ -1,0 +1,102 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-organizador.3mf.xz",
+   "instance_id": "1166539",
+   "thumbnail": "previews/profiles/1166539.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 259,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "H2C",
+    "A1 mini",
+    "H2D Pro",
+    "P2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 4452,
+      "weight_g": 20.84,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#E8AFCF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 508532,
+   "sha256": "05f4359717d7458c85978c414330d73f91c17abc80fb235980e495c4773bc7f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1160450",
+ "title": "Soporte organizador de lazos para el cabello",
+ "slug": "hair-ties-organizer-holder-stand",
+ "url": "https://makerworld.com/en/models/1160450-hair-ties-organizer-holder-stand",
+ "author": "maker.pair",
+ "category": "beauty",
+ "source_category": "Hogar > Decoración",
+ "description": "Soporte organizador de lazos para el cabello\nMantenga organizados sus lazos para el cabello y coleteros con este sencillo y lindo soporte para accesorios.",
+ "use_cases": [],
+ "tags": [
+  "accesorios para el cabello",
+  "organizador de accesorios",
+  "cabello",
+  "lazos para el cabello",
+  "almacenamiento",
+  "titular de la goma para el pelo",
+  "organizador de belleza",
+  "titular"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-02-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/UScb848724a5bd3c/design/2025-02-28_518aa24064f8d.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/1166539.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

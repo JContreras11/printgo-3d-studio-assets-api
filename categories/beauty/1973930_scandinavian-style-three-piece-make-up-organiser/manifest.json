@@ -1,0 +1,300 @@
+{
+ "files": [
+  {
+   "path": "model/organizador-maquillaje-28h06.3mf.xz",
+   "instance_id": "2122777",
+   "thumbnail": "previews/profiles/2122777.jpg",
+   "print_time_h": 28.1,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 37,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.4mm nozzle",
+    "creation_date": "2025-11-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1558428,
+   "sha256": "bc6b5450fb41493b65884a7f4e5e389ea7f68cdfda243fca218f16e266b66f44",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-20h12.3mf.xz",
+   "instance_id": "2122787",
+   "thumbnail": "previews/profiles/2122787.jpg",
+   "print_time_h": 20.2,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.8mm nozzle",
+    "creation_date": "2025-11-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.4",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1554000,
+   "sha256": "f795856564b72e52962144750f36fdbcbbb19c2a16b33d74f59786ac69a761f2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-23h18.3mf.xz",
+   "instance_id": "2694693",
+   "thumbnail": "previews/profiles/2694693.jpg",
+   "print_time_h": 23.3,
+   "plates": 7,
+   "rating": 4,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.01.52",
+    "profile_title": "P2S 0.4mm Profile",
+    "creation_date": "2026-02-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1557276,
+   "sha256": "0a13379f4dc6c6999ba11e226bb83d69e2f11681b2a6967427f1d7c11b1cb157",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-24h42.3mf.xz",
+   "instance_id": "2122784",
+   "thumbnail": "previews/profiles/2122784.jpg",
+   "print_time_h": 24.7,
+   "plates": 7,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2S",
+    "P2S",
+    "H2D Pro",
+    "H2C",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "0.6mm nozzle",
+    "creation_date": "2025-11-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.36",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1556252,
+   "sha256": "4bab73922bb8599ecda31560f9c1db7764cccc455142d38f2440231fa736be41",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-25h12.3mf.xz",
+   "instance_id": "2311497",
+   "thumbnail": "previews/profiles/2311497.jpg",
+   "print_time_h": 25.2,
+   "plates": 7,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X1",
+    "H2S",
+    "X1E",
+    "H2C",
+    "P1P",
+    "X1 Carbon",
+    "H2D",
+    "H2D Pro",
+    "A1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.4mm nozzle P1 Serie",
+    "creation_date": "2025-12-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1556056,
+   "sha256": "5fe7b23f9ce5622edf2fd7815221f4a11921c2a709d0a2b1c090a95b983df426",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/organizador-maquillaje-25h36.3mf.xz",
+   "instance_id": "2528517",
+   "thumbnail": "previews/profiles/2528517.jpg",
+   "print_time_h": 25.6,
+   "plates": 7,
+   "rating": 4.5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2C",
+    "P2S",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.64",
+    "profile_title": "0.4mm nozzle NO variable layer height",
+    "profile_notes": "ohne variable Schichthöhe",
+    "creation_date": "2026-01-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.24",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 7
+   },
+   "name": "Versión estándar",
+   "size": 1540680,
+   "sha256": "d5aca382bac7b9357bb9893b6640f33b01a10bef6d4d14961e37d6210f4d472a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1973930",
+ "title": "Organizador de maquillaje de tres piezas estilo escandinavo",
+ "slug": "scandinavian-style-three-piece-make-up-organiser",
+ "url": "https://makerworld.com/en/models/1973930-scandinavian-style-three-piece-make-up-organiser",
+ "author": "cforms",
+ "category": "beauty",
+ "source_category": "Herramientas > Organizadores",
+ "description": "Organizador de maquillaje de tres piezas estilo escandinavo\n\nActualización 28.01.2026: Se agregó perfil de impresión con boquilla de 0,4 mm sin altura de capa variable.\n\nImpulsame si puedes",
+ "use_cases": [],
+ "tags": [
+  "baño",
+  "constituir",
+  "organizador",
+  "escandinavo",
+  "estilo japones",
+  "japón",
+  "estilo",
+  "elegante",
+  "moderno",
+  "minimalista",
+  "diseño nórdico"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-11-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US84a0b26a4cecd8/design/2025-11-08_cde12f57b18368.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   759
+  ],
+  "previews/02.jpg": [
+   776,
+   582
+  ],
+  "previews/profiles/2122777.jpg": [
+   600,
+   549
+  ],
+  "previews/profiles/2122787.jpg": [
+   600,
+   549
+  ],
+  "previews/profiles/2694693.jpg": [
+   600,
+   549
+  ],
+  "previews/profiles/2122784.jpg": [
+   600,
+   549
+  ],
+  "previews/profiles/2311497.jpg": [
+   600,
+   549
+  ],
+  "previews/profiles/2528517.jpg": [
+   600,
+   549
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "files": [
+  {
+   "path": "model/tazon-mascotas-3h18.3mf.xz",
+   "instance_id": "2859726",
+   "thumbnail": "previews/profiles/2859726.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 8,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "X1",
+    "H2S",
+    "X1 Carbon",
+    "P2S",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "H2C",
+    "P1P",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Large LV pet bowl"
+   },
+   "name": "Versión grande",
+   "size": 4427900,
+   "sha256": "09983b10990f77507daf76449a1fd6992992e4239571c19610256618cce6ae2c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tazon-mascotas-2h24-2.3mf.xz",
+   "instance_id": "2859733",
+   "thumbnail": "previews/profiles/2859733.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "P2S",
+    "A1 mini",
+    "H2D Pro",
+    "A1",
+    "X1 Carbon",
+    "X1",
+    "H2D",
+    "X1E",
+    "P1P",
+    "H2S",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Small LV Pet Bowl"
+   },
+   "name": "Versión mini",
+   "size": 4320008,
+   "sha256": "c6d8af507cc0af17775b27ccd56e79d73e61891466c748c8125599eb3a1b27e6",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tazon-mascotas-2h24.3mf.xz",
+   "instance_id": "2859737",
+   "thumbnail": "previews/profiles/2859737.jpg",
+   "print_time_h": 2.4,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 7,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2C",
+    "X1E",
+    "P2S",
+    "A1",
+    "H2S",
+    "X1 Carbon",
+    "A1 mini",
+    "X1",
+    "P1P",
+    "H2D",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Small Chanel pet bowl"
+   },
+   "name": "Versión mini",
+   "size": 4047876,
+   "sha256": "3b4325240f7a31fa083312df9997fa29288f3cbdc2965aecfd6a82db4bd47b79",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/tazon-mascotas-3h18-2.3mf.xz",
+   "instance_id": "2859735",
+   "thumbnail": "previews/profiles/2859735.jpg",
+   "print_time_h": 3.3,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1E",
+    "H2D Pro",
+    "P1P",
+    "H2S",
+    "H2D",
+    "A1",
+    "P2S",
+    "H2C",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 2,
+    "profile_title": "Large Chanel Pet Bowl"
+   },
+   "name": "Versión grande",
+   "size": 4645456,
+   "sha256": "fefa65f642985b811d837962a1609f464b53e71b2318c2e943e4ec6e7e853cd1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2591782",
+ "title": "Tazón para mascotas de marca / Grande y pequeño",
+ "slug": "branded-pet-bowl-large-and-small",
+ "url": "https://makerworld.com/en/models/2591782-branded-pet-bowl-large-and-small",
+ "author": "user_3696279601",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Tazón para mascotas de marca\n\n1. Selección de talla\n- Pequeño: diámetro interior 95 mm, profundidad 27 mm, adecuado para gatos pequeños y cachorros.\n- Grande: diámetro interior 112 mm, profundidad 37 mm, adecuado para gatos adultos, perros de tamaño mediano para la alimentación diaria\n2 materiales seguros\nSe recomienda utilizar filamento de calidad alimentaria para imprimir, más seguro para la alimentación.",
+ "use_cases": [],
+ "tags": [
+  "almacenamiento",
+  "mascota",
+  "bol",
+  "tazón de alimentación",
+  "gran nombre",
+  "artículos de lujo",
+  "lv",
+  "chanel",
+  "tazón de cáscara de semillas"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-03-30",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc4958f4654abfe/design/86c9e2adc4cb9271.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1119
+  ],
+  "previews/profiles/2859726.jpg": [
+   600,
+   355
+  ],
+  "previews/profiles/2859733.jpg": [
+   600,
+   318
+  ],
+  "previews/profiles/2859737.jpg": [
+   600,
+   311
+  ],
+  "previews/profiles/2859735.jpg": [
+   600,
+   330
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

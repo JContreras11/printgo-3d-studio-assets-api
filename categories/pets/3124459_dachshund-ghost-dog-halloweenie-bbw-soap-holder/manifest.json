@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/jabonera-dachshund.3mf.xz",
+   "instance_id": "3525104",
+   "thumbnail": "previews/profiles/3525104.jpg",
+   "print_time_h": 9.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 23,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "A1",
+    "P2S",
+    "H2S",
+    "P1P",
+    "X1E",
+    "H2C",
+    "P1S",
+    "X2D",
+    "X1",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.2mm layer, 2 walls, 5% infill",
+    "creation_date": "2026-08-02",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "5%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6627400,
+   "sha256": "aaad4ab8760592ec2721c6af13ed4bf4d5fe18868e7112aa86250465336792cc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3124459",
+ "title": "Jabonera Dachshund Ghost Dog Halloweenie BBW",
+ "slug": "dachshund-ghost-dog-halloweenie-bbw-soap-holder",
+ "url": "https://makerworld.com/en/models/3124459-dachshund-ghost-dog-halloweenie-bbw-soap-holder",
+ "author": "Jcasti81",
+ "category": "pets",
+ "source_category": "Hogar > Decoración",
+ "description": "Membresía¿Quieres vender impresiones físicas de mis diseños? ¡Licencia comercial disponible a través de la membresía de MakerWorld por solo $5 al mes! SOBRE ESTE MODELO\n\n¡Hola a todos! Todavía soy bastante nuevo en el diseño y el intercambio de modelos, así que gracias por ver mi trabajo y apoyar mi viaje.\n\nEste soporte para jabón fue diseñado específicamente para adaptarse a las botellas de jabón espumoso de Bath & Body Works y, al mismo tiempo, agrega un toque decorativo divertido al área del fregadero.\n\nSiempre estoy abierto a ideas, comentarios y futuras solicitudes de diseño, ¡así que siéntete libre de dejar sugerencias o mezclar ideas en los comentarios! Si hay interés, también puedo trabajar en una versión hecha para las botellas de jabón en gel.\n\nSi te gusta el modelo, las mejoras, las calificaciones y las fotos de tus impresiones significan mucho y ayudan a apoyar a nuevos creadores como yo.\n\nINFORMACIÓN DE LICENCIA\nSolo para uso personal/comunitario\nPor favor dé crédito al compartir remixes o adaptaciones.\nNo se permite la venta comercial de archivos o impresiones físicas.\nLas obras derivadas deben seguir los mismos términos de licencia.\n\n¡COMPARTE TUS IMPRESIONES!\n\n¡Realmente me encantaría ver tus impresiones terminadas y combinaciones de colores! No dudes en subir fotos, dejar comentarios o compartir ideas de remezclas para futuros diseños.",
+ "use_cases": [],
+ "tags": [
+  "baño y carrocería",
+  "baño",
+  "halloween",
+  "perro tejonero",
+  "fantasma",
+  "perro",
+  "jabonera",
+  "víspera de todos los santos"
+ ],
+ "license": "Standard Digital File License - Community Use",
+ "release_date": "2026-08-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf37b32707b55e6/design/ae9d48ae773aee8a.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   1333
+  ],
+  "previews/04.jpg": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3525104.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

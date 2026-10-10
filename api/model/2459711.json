@@ -1,0 +1,453 @@
+{
+ "files": [
+  {
+   "path": "model/fluffy-tail-4h24.3mf.xz",
+   "instance_id": "2700692",
+   "thumbnail": "previews/profiles/2700692.jpg",
+   "print_time_h": 4.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 932,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "A1 mini",
+    "H2C",
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "P1P",
+    "X1",
+    "X1E",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-02-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 60327484,
+   "sha256": "b7bbb1c66a9c3b3bfca4de7b847c39a5eb054d495e17b3636ebc5fe7267a47aa",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-15h06.3mf.xz",
+   "instance_id": "3419597",
+   "thumbnail": "previews/profiles/3419597.jpg",
+   "print_time_h": 15.1,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 14,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A2L",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "P1S",
+    "X1E",
+    "P1P",
+    "P2S",
+    "H2S",
+    "A1 mini",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Same quality - Smaller File size with lesser polygon counts",
+    "profile_notes": "The file size of this profile is much smaller and the polygon count is less than 700K but the quality of the final print remains the same. Even PC with less specs can handle this.",
+    "creation_date": "2026-07-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 13094592,
+   "sha256": "2dd6c403b36306c4bccdf82bc032502b5a4ce07a089c7c5fedea450eda4c2084",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-17h.3mf.xz",
+   "instance_id": "3740538",
+   "thumbnail": "previews/profiles/3740538.jpg",
+   "print_time_h": 17,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "A1",
+    "A1 mini",
+    "P1P",
+    "X1 Carbon",
+    "P2S",
+    "H2C",
+    "H2D",
+    "H2S",
+    "X1",
+    "A2L",
+    "H2D Pro",
+    "X2D",
+    "X1E"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "SCALED to 95% optimised material usage 0.2mm layer 7% infill",
+    "profile_notes": "What I changed Scaled to 95% Reduced purge amount Infill: 7% Top layers: 4",
+    "creation_date": "2026-08-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "7%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión grande",
+   "size": 80921776,
+   "sha256": "7a7f6acbf52a39500815def7f352d67a6d4054493715cd3ec8388d4a736e4070",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-19h48.3mf.xz",
+   "instance_id": "2813010",
+   "thumbnail": "previews/profiles/2813010.jpg",
+   "print_time_h": 19.8,
+   "plates": 4,
+   "rating": 4.9,
+   "rating_count": 599,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "H2C",
+    "X2D",
+    "A2L",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Updated with Stronger Joints (Key hole in head, ear, tail)",
+    "profile_notes": "For stronger joints, download this profile. Model size: 120mm Material: PLA+ and PLA Matte",
+    "creation_date": "2026-03-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 80713444,
+   "sha256": "d7b95253ad2d7a831ee094f82e0edb7ccdff58ca3431ca1c31719e305d96ae25",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-30min.3mf.xz",
+   "instance_id": "3023631",
+   "thumbnail": "previews/profiles/3023631.jpg",
+   "print_time_h": 0.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 188,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "A2L",
+    "P1P",
+    "P2S",
+    "X1",
+    "H2D",
+    "A1 mini",
+    "A1",
+    "H2D Pro",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X2D",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Layers Carefully Tuned for Fine Detail & Critical Strengthen",
+    "profile_notes": "Layers Carefully Tuned for Fine Detail & Critical areas Strengthened many substantial value adding adjustments also that result in low filament material waist and quick print time with reasonably good strength… see the specifics below… several volume modifiers placed in strategic areas to add strength just where it is needed. 0.16mm layer, 1 walls, 0.6mm wall width, 0% infill, wall generator arachne, detect over hang walls off, detect narrow internal solid infill off, ensure vertical shell thickness disabled, acceleration speed [ short travel , initial layer travel, initial layer, outer wall, top surface ] all turned up to 10000mms. max volumetric speed for PLA, and PETG both set to 30mm3/s, cooling for over hangs set to 100%, minimum fan for layers less than 4 seconds 100% and for the other layer times 100% and auxiliary part cooling fan 70%. note that filament flow, and cooling settings will likely revert to default and acceleration speed will also likely revert to default if you use a different Bambu printer. 0.16mm layer, 1 walls, 0% infill",
+    "creation_date": "2026-04-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 49519796,
+   "sha256": "69f478399682aa000fccfcd447879bfbcc128514530a2203c9da3761619899e5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-3h18.3mf.xz",
+   "instance_id": "3887973",
+   "thumbnail": "previews/profiles/3887973.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "H2D",
+    "H2C",
+    "P2S",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "X2D",
+    "X1",
+    "H2D Pro",
+    "A1 mini",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "细节参数优化版",
+    "creation_date": "2026-03-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 60575684,
+   "sha256": "397a29fee1fbb50a7897781ef5ff028aa32ace33408cec9b4dde7296c526cdcb",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-54min.3mf.xz",
+   "instance_id": "3199453",
+   "thumbnail": "previews/profiles/3199453.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 46,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "A1",
+    "P1P",
+    "P2S",
+    "X1",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "0.16mm layer, 1 wall, 0% infill, best quality for time rate",
+    "profile_notes": "I printed this cute😻 model on my A1 mini. It has 0 supports, and 0% infill → 0 waste No AMS needed. Print in place. I think, this is the best quality for time rate, with only 54 minutes of printing time.",
+    "creation_date": "2026-05-30",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.16",
+    "infill": "0%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 42729788,
+   "sha256": "5f26dedc6e8fe838783cd6067ff6eee7e22a1f93c850ff2e9fb16c61ff630101",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/fluffy-tail-monocolor-2h54.3mf.xz",
+   "instance_id": "3542751",
+   "thumbnail": "previews/profiles/3542751.jpg",
+   "print_time_h": 2.9,
+   "plates": 3,
+   "rating": 4.9,
+   "rating_count": 16,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P2S",
+    "P1S",
+    "X1 Carbon",
+    "H2D",
+    "H2S",
+    "X1",
+    "X1E",
+    "X2D",
+    "H2D Pro",
+    "H2C",
+    "A2L",
+    "A1",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "Single color",
+    "profile_notes": "If you enjoy this print, please consider leaving a 5-star rating! ⭐⭐⭐⭐⭐",
+    "creation_date": "2026-08-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Monocromo",
+   "size": 74922092,
+   "sha256": "bdc45436ad541179103b7ee3e77ca774402b1831105470e515ed48f652222e78",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2459711",
+ "title": "Fluffy Tail Lindo Flexi Cat Juguete / Llavero",
+ "slug": "fluffy-tail-cute-flexi-cat-toy-keychain",
+ "url": "https://makerworld.com/en/models/2459711-fluffy-tail-cute-flexi-cat-toy-keychain",
+ "author": "fluffytails37",
+ "category": "pets",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "ImpulsameImpulsame gratis. Estaré subiendo más modelos de este tipo. Licencia: Gratuita sólo para uso personal.\nPara licencia comercial y modelos exclusivos visite:\n\nNota: He actualizado el modelo con articulaciones más fuertes.\nSi la cabeza del gato se siente rígida después de imprimir, simplemente agítela o asienta un poco y se aflojará.\n\nMe gustan las mascotas peludas, así que pensé ¿por qué no hacer una y compartirla con los demás?\nEste gato es muy flexible.\nTambién se agrega la versión de llavero.\nimpresión sin ensamblaje\nNo se requieren soportes\n\nSíguenos ya que subiré más modelos de este tipo.\nMira mis otros modelos también.\n\nInstrucciones:\nMaterial: PLA mate y PLA+\nTamaño del modelo: 120 mm\nAltura de la capa: 0,2 mm\nDensidad de relleno: 15%\nSoportes: Ninguno\nAla: No\nPruebe con los bordes si tiene problemas de adherencia.\n\nExclusivo de Patreon:\n\nSi te gusta esto, mira también mi zorro flexible de cola esponjosa:",
+ "use_cases": [],
+ "tags": [
+  "juguete",
+  "mascota",
+  "gato",
+  "animal",
+  "lindo",
+  "regalo",
+  "articulado",
+  "flexible",
+  "llavero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-02-28",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6b941ba8302236/design/2c7d72fa7a1a4499.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.png",
+  "previews/07.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   749
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   749
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.png": [
+   1000,
+   749
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/2700692.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/3419597.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3740538.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2813010.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3023631.jpg": [
+   600,
+   737
+  ],
+  "previews/profiles/3887973.jpg": [
+   383,
+   342
+  ],
+  "previews/profiles/3199453.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3542751.jpg": [
+   600,
+   574
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

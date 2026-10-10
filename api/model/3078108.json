@@ -1,0 +1,89 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-gta.3mf.xz",
+   "instance_id": "3466277",
+   "thumbnail": "previews/profiles/3466277.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D Pro",
+    "H2D",
+    "A1 mini",
+    "H2S",
+    "H2C",
+    "X1",
+    "A2L",
+    "P1P",
+    "X1E",
+    "P1S",
+    "P2S",
+    "X1 Carbon",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.03.00.70",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-21",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1018556,
+   "sha256": "b143c09cbaafe5370c78cde5e6e0984c59ce1c091f3fea06f3315c56c655f9e0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3078108",
+ "title": "Llavero GTA VI",
+ "slug": "gta-vi-keychain",
+ "url": "https://makerworld.com/en/models/3078108-gta-vi-keychain",
+ "author": "Chego3D",
+ "category": "gta-vi",
+ "source_category": "Moda > Otros modelos de moda",
+ "description": "Otra versión del logo del famoso juego GTA VI, pero con estos otros números romanos reemplazando a los típicos. Si te gusta la versión original, puedes encontrarla disponible en mi perfil.",
+ "use_cases": [],
+ "tags": [
+  "llavero",
+  "llavero 3d",
+  "logo",
+  "gta",
+  "gta6",
+  "gta 6",
+  "gta vi",
+  "obtuve",
+  "grand theft auto",
+  "grand theft auto vi"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-21",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US15ffb99a58554a/design/2eb6fb09ac48cd72.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   706
+  ],
+  "previews/profiles/3466277.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

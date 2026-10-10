@@ -1,0 +1,201 @@
+{
+ "files": [
+  {
+   "path": "model/disco-regalo-3h06.3mf.xz",
+   "instance_id": "3724103",
+   "thumbnail": "previews/profiles/3724103.jpg",
+   "print_time_h": 3.1,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "X1E",
+    "H2D",
+    "P2S",
+    "H2C",
+    "A2L",
+    "P1S",
+    "A1",
+    "X1",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Disc with space for a Voucher - 0.2mm layer",
+    "creation_date": "2026-09-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 22870880,
+   "sha256": "f70dd6d3d528c31b9d02c92b5f2d3db27312b7db90dfa24c700fed14835912e1",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/disco-regalo-2h30.3mf.xz",
+   "instance_id": "3726534",
+   "thumbnail": "previews/profiles/3726534.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "P1S",
+    "X1",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2D",
+    "P2S",
+    "X1E",
+    "H2C",
+    "A2L",
+    "A1",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Disk WITHOUT Voucher - Can be placed to regular Disc Box",
+    "profile_notes": "This is version without a Voucher placements. You can use it with a regular PS/XBOX disc box.",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 22844304,
+   "sha256": "15b631148d206a867ea1ea4f804d5bcc87e666af3ca90db9fc7f7ce42ad71ea4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/disco-regalo-4h18.3mf.xz",
+   "instance_id": "3726547",
+   "thumbnail": "previews/profiles/3726547.jpg",
+   "print_time_h": 4.3,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "X2D",
+    "H2S",
+    "P1P",
+    "P2S",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "X1",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1E",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "Disc with space for a Voucher (Ironing ON) - 0.2mm layer",
+    "profile_notes": "This is Disc with space for a Voucher version with Ironing enabled - better quality but longest print.",
+    "creation_date": "2026-09-09",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X2D",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 22871088,
+   "sha256": "853ffda4c46759d8235031818b6616c98da909ee1fff0797ed81de07f3ce8783",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3283004",
+ "title": "Disco de regalo de GTA VI con tarjeta de regalo de vale extraíble",
+ "slug": "gta-vi-gift-disc-with-removable-voucher-gift-card",
+ "url": "https://makerworld.com/en/models/3283004-gta-vi-gift-disc-with-removable-voucher-gift-card",
+ "author": "dka_3d_printing",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Disco de regalo de GTA VI con vale extraíble\nUn regalo físico para un juego digital.\nEste proyecto comenzó con lo que pensé que era una idea muy simple.\nQuería comprar GTA VI para el cumpleaños de un amigo y regalárselo como juego físico.\nEse plan no duró mucho.\nEl pedido por adelantado no llegaría a tiempo para su cumpleaños y, de todos modos, la versión que podía comprar era esencialmente un código en la caja. Entonces, incluso después de esperar, realmente no habría un disco de juego adentro.\n\nImpúlsame ¡Esto es motivar más que nada!\nEntonces pensé:\nBien. Yo mismo haré el disco.\nDiseñé un disco físico inspirado en GTA VI y planeé poner una tarjeta de regalo de GTA VI en su interior.\nProblema resuelto.\nExcepto que en realidad no pude comprar una tarjeta de regalo de GTA VI.\nNingún problema. El plan B era una tarjeta de billetera de PlayStation Store.\nLuego fui a las tiendas y descubrí otro problema. Las tiendas que revisé ya no tenían las tarjetas físicas que quería. Simplemente pagó al finalizar la compra y recibió un código de activación impreso en un recibo.\nEn ese momento, mi regalo de cumpleaños de alguna manera se había convertido...\nun trozo de papel de recibo con un código.\nEse no era exactamente el regalo que había imaginado.\nEntonces hice mi propia solución.\nEl bono pasa a formar parte del disco\nEsto no es simplemente un disco con un compartimento para una tarjeta.\nEn realidad, el bono extraíble está diseñado para formar parte del propio disco.\nSe desliza en una ranura dedicada en la parte posterior del disco.\nUna vez insertado, el código del bono queda oculto detrás del disco mientras que el centro del bono permanece visible a través de la abertura en el frente.\nAsí el bono completa visualmente el disco.\nCuando llegue el momento de canjear el regalo, simplemente desliza el cupón hacia afuera y revela el código.\nSin sobre.\nSin recibo.\nNingún mensaje que contenga un código de activación aleatorio.\nSolo un regalo de juego físico real.\nCómo usarlo\nCompra un código de billetera de PlayStation Store o un código de juego digital.\nAñade el código al bono.\nImprime el disco y el bono.\nDesliza el vale en la ranura de la parte posterior.\nEnvuélvelo y regálalo como un regalo físico real.\nEl destinatario retira el cupón cuando está listo para canjear el código.\nEl bono incluido contiene un código comodín, por lo que puedes personalizarlo con tu propio código antes de imprimirlo, escribir el código después de imprimirlo o adjuntarle una pequeña etiqueta impresa.\nCaracterísticas\nDisco de regalo físico inspirado en GTA VI\nInserto de vale extraíble\nEl vale pasa a formar parte del disco completado\nEl código de activación permanece oculto mientras se instala el bono\nDiseñado para crédito de PlayStation Store o códigos de juegos digitales\nNo se requiere pegamento para el bono\nIdeal para cumpleaños y regalos de juegos.\nDiseño multicolor\nEs un regalo mucho mejor que un recibo de pago\nPuede permanecer como pieza de exhibición después de canjear el código.\nImpresión\nEl diseño luce mejor con un estampado multicolor.\nLa versión que se muestra en las fotos utiliza cuatro colores principales:\nNegro + Blanco + Azul + Rosa\nUn AMS/MMU hace que la versión multicolor sea mucho más fácil de imprimir.\nEl PLA funciona perfectamente para este modelo.\nUna boquilla de 0,4 mm es adecuada y las alturas de capa de 0,16-0,20 mm funcionan bien para preservar los detalles gráficos.\nPara una impresión más sencilla, utilice el perfil de impresión y la orientación proporcionados.\nDespués de la impresión, no se requiere ningún montaje complicado. Simplemente prepare su vale y deslícelo en la ranura trasera.\nimportante\nEste modelo no incluye ningún juego, código de activación, crédito de PlayStation Store ni contenido digital.\nSi carga fotos de su impresión terminada, no muestre accidentalmente un código de activación real no canjeado.\nSi lo imprimes\nRealmente me encantaría ver para qué lo usas.\n¡Sube tu Make y cuéntame qué juego te regaló!\nSi te gusta el diseño, un Like o Boost siempre es muy apreciado y me ayuda a seguir haciendo nuevos modelos.\nDescargo de responsabilidad\nEste es un accesorio de regalo no oficial imprimible en 3D hecho por fans.\nGrand Theft Auto, GTA VI, Rockstar Games, PlayStation y todos los nombres, logotipos y marcas comerciales relacionados pertenecen a sus respectivos propietarios.\nEste proyecto no está afiliado, respaldado ni patrocinado por Rockstar Games, Take-Two Interactive o Sony Interactive Entertainment.\nNo se incluyen juegos, licencias, códigos de activación ni créditos de PlayStation Store.",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "grand theft auto",
+  "regalo gta vi",
+  "regalo gta 6",
+  "fan art de gta",
+  "juegos de estrellas de rock",
+  "playstation",
+  "playstation 5",
+  "ps5",
+  "psn",
+  "tienda de playstation",
+  "ps tienda"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US256ea067797f12/design/cef740255a4b0e25.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3724103.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3726534.jpg": [
+   600,
+   1066
+  ],
+  "previews/profiles/3726547.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

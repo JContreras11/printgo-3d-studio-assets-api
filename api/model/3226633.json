@@ -1,0 +1,152 @@
+{
+ "files": [
+  {
+   "path": "model/ifruit-phone-36min.3mf.xz",
+   "instance_id": "3654150",
+   "thumbnail": "previews/profiles/3654150.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "H2D",
+    "H2S",
+    "X1 Carbon",
+    "X2D",
+    "H2D Pro",
+    "X1E",
+    "P1S",
+    "A1",
+    "P1P",
+    "P2S",
+    "X1",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "The NO AMS Version",
+    "profile_notes": "Layer Height: 0.20mm Supports: None Pauses Set At: Layers 2, 27, 32, and 34 Colors: Black, Grey and White Infill: 15%",
+    "creation_date": "2026-08-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1103216,
+   "sha256": "dc535cd5a4c1ebcc6cb54c2426fe6fefd8b8804f0bee2c8f005b4290a7585e70",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/ifruit-phone-1h12.3mf.xz",
+   "instance_id": "3759963",
+   "thumbnail": "previews/profiles/3759963.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L",
+    "P2S",
+    "H2C",
+    "P1S",
+    "H2D",
+    "X1",
+    "X1 Carbon",
+    "X2D",
+    "P1P",
+    "A1",
+    "X1E",
+    "H2S",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "The AMS Version",
+    "profile_notes": "This print profile is for the AMS version. The colors you need are Black, Grey and White",
+    "creation_date": "2026-09-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1170400,
+   "sha256": "1d442f6e817dfae04f7d43049b7187c4be9d6dac4c248530077a0a466bad0af5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3226633",
+ "title": "iFruit Phone - GTA V (versión AMS y sin AMS)",
+ "slug": "ifruit-phone-gta-v-both-ams-and-no-ams-version",
+ "url": "https://makerworld.com/en/models/3226633-ifruit-phone-gta-v-both-ams-and-no-ams-version",
+ "author": "thomasko_3D",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Otros juguetes y juegos",
+ "description": "Boost Me ¿Disfrutaste la impresión? ¡Deja un impulso para apoyar mi próximo diseño! Un accesorio para teléfono iFruit a escala 1:1 inspirado en Grand Theft Auto V. Diseñado para una impresión sencilla mediante intercambios de capas manuales: ¡obtenga resultados multicolores nítidos sin AMS! Perfecto para cosplays de GTA, exhibiciones de escritorio o configuraciones de juegos.\n\nExiste un perfil de impresión que no necesita AMS y se imprime en una plancha singular. Ya hay 4 pausas configuradas en el archivo 3mf y todo lo que necesitas hacer es intercambiar los filamentos manualmente durante las pausas:\n\n– Recomiendo comenzar con filamento NEGRO (para simular la pantalla apagada)\n– Primera pausa: en la capa 2 cambie el filamento con un color de su elección para el cuerpo del teléfono (recomiendo encarecidamente el gris porque combina con el teléfono de Michael de GTA V).\n– Segunda pausa: en la capa 27 Switch nuevamente al filamento NEGRO para la parte posterior del teléfono\n– Tercera pausa: En la capa 32 Switch al filamento BLANCO\n– Última pausa: en la capa 34 Switch al filamento NEGRO para la lente de la cámara\n\nConfiguración de impresión:\n\n– Altura de capa: 0,2 mm\n– Relleno: 15 % (Giroides o Cuadrícula)\n– Soportes: Ninguno\n\nNota: La línea tenue en la pantalla frontal del teléfono no debería preocuparle. Es culpa de mi impresora debido a un gran rasguño en mi placa de construcción.",
+ "use_cases": [],
+ "tags": [
+  "fruta",
+  "gta",
+  "gta v",
+  "gta 6",
+  "sin ams",
+  "cambio de filamento manual",
+  "multicolor",
+  "apuntalar",
+  "juguete de escritorio"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USe7c5a53cb82743/design/3a778c00f576c7bf.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/04.png": [
+   1000,
+   745
+  ],
+  "previews/profiles/3654150.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3759963.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

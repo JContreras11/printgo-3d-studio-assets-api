@@ -1,0 +1,100 @@
+{
+ "files": [
+  {
+   "path": "model/logotipo-grand.3mf.xz",
+   "instance_id": "3415944",
+   "thumbnail": "previews/profiles/3415944.jpg",
+   "print_time_h": 4,
+   "plates": 2,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "X2D",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "2026-07-11",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1157708,
+   "sha256": "18261046b34e9e947d6d23a2317e218fbe27c56b253a81e98b3c6f79332f369c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3038158",
+ "title": "Logotipo de Grand Theft Auto 6",
+ "slug": "grand-theft-auto-6-logo",
+ "url": "https://makerworld.com/en/models/3038158-grand-theft-auto-6-logo",
+ "author": "Morallis",
+ "category": "gta-vi",
+ "source_category": "Arte > Señales y logotipos",
+ "description": "Logotipo de Grand Theft Auto 6\n\nCelebre GTA 6 con un logotipo detallado. ¡Perfecto para cualquier cueva o sala de juegos!",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "logo",
+  "juego",
+  "bambu",
+  "barril",
+  "bambu lab",
+  "bambulab",
+  "juegos",
+  "juego de azar",
+  "3d",
+  "diseño"
+ ],
+ "license": "BY",
+ "release_date": "2026-07-11",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US2241c771326ec6/design/1660097414c60644.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   720,
+   1280
+  ],
+  "previews/02.png": [
+   1000,
+   750
+  ],
+  "previews/03.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3415944.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

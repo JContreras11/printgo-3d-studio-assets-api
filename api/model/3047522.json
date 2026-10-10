@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/inserto-ps5.3mf.xz",
+   "instance_id": "3427850",
+   "thumbnail": "previews/profiles/3427850.jpg",
+   "print_time_h": 1.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "P1S",
+    "X1E",
+    "H2D",
+    "H2S",
+    "X2D",
+    "A1",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.57",
+    "profile_title": "0.2mm layer, 6 walls, 25% infill",
+    "profile_notes": "0.20 Strenght Quality:Wall generator->Arachne Strenght:detect thin walls bottom surface pattern->monotonic line sparse infill pattern->Lightning Speed: initial layer 20mm/s initial layer infill 50mm/s Others: brim type-> outer brim only",
+    "creation_date": "2026-07-13",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 646476,
+   "sha256": "e0332a6ac1455312bf2fa16177b79ed9a188239b5771a450a34a9ff21e64b6c2",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3047522",
+ "title": "Inserto PS5 Slim - GTA VI",
+ "slug": "inserto-ps5-slim-gta-vi",
+ "url": "https://makerworld.com/en/models/3047522-inserto-ps5-slim-gta-vi",
+ "author": "hydrodipita",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Hola a todos, aquí tenéis un inserto para PS5 Slim, con temática de GTA VI!!!\nBoost Me Muchas gracias a cualquiera que quiera contribuir con un impulso:))",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "gta vi",
+  "grand theft auto",
+  "ps5",
+  "playstation",
+  "playstation 5"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-13",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US8e7dca25df40b6/design/c0646cf356f0b55b.jpg",
+ "images": [
+  "previews/01.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   720,
+   960
+  ],
+  "previews/profiles/3427850.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

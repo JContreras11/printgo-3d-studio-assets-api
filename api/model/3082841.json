@@ -1,0 +1,283 @@
+{
+ "files": [
+  {
+   "path": "model/soporte-logotipo-4h06.3mf.xz",
+   "instance_id": "3472335",
+   "thumbnail": "previews/profiles/3472335.jpg",
+   "print_time_h": 4.1,
+   "plates": 6,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X2D",
+    "A1",
+    "X1",
+    "A2L",
+    "X1E",
+    "H2S",
+    "H2D",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-22",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 2844904,
+   "sha256": "e47d238815546b08d18e8121b0521498a01d5dd2e991e16af4161ce02c162d75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-logotipo-18min.3mf.xz",
+   "instance_id": "3479110",
+   "thumbnail": "previews/profiles/3479110.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "A1 mini",
+    "X1 Carbon",
+    "H2D Pro",
+    "A1",
+    "X1E",
+    "P1P",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Insert_Einlage_VI_1 piece_0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1381656,
+   "sha256": "108282d743a47c5ebebc33dcc4cfa5862e2389bf4f157d14779f54e7b3ac5529",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-logotipo-3h.3mf.xz",
+   "instance_id": "3514787",
+   "thumbnail": "previews/profiles/3514787.jpg",
+   "print_time_h": 3,
+   "plates": 5,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "P1P",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "GTA_6_Logo_Design_2_0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Versión estándar",
+   "size": 1620008,
+   "sha256": "08203c675c1ae5118c4bb3441f879df61b3120f8c641a351fd8bc88455dfbfa3",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/soporte-logotipo-54min.3mf.xz",
+   "instance_id": "3514797",
+   "thumbnail": "previews/profiles/3514797.jpg",
+   "print_time_h": 0.9,
+   "plates": 3,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "P1P",
+    "H2S",
+    "A2L",
+    "X1E",
+    "X2D",
+    "A1 mini",
+    "H2D",
+    "X1 Carbon",
+    "A1",
+    "P1S",
+    "H2D Pro",
+    "H2C"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Stand logo_Standfuß Logo_VI_0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-07-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 1430208,
+   "sha256": "30bea8c1dc0c80e96f1e940e17a440e064acc6ea1170625b4170ae939bfa4017",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3082841",
+ "title": "Soporte con logotipo de GTA VI multiparte",
+ "slug": "gta-vi-logo-stand-100-no-ams-multi-part",
+ "url": "https://makerworld.com/en/models/3082841-gta-vi-logo-stand-100-no-ams-multi-part",
+ "author": "user_2880952971",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "MembresíaLicenciaImpulsame\nLogotipo de estilo GTA 6: plantilla de impresión 3D 100 % sin necesidad de AMS, sin necesidad de soportes\n\nActualización:\n¡Se ha agregado el diseño 2!\nAhora también se incluye un soporte opcional, que se adapta a ambos diseños/logotipos.\n\n¡Crea tu propio logotipo estilo GTA 6 como un impresionante proyecto de impresión 3D!\nEl modelo fue diseñado específicamente para ser imprimible al 100% sin sistema AMS.\n¡No se requieren cambios de color!\n¡No se necesitan pausas de impresión!\n¡Simplemente imprime todas las piezas, móntalas y disfruta de tu propio logotipo estilo GTA 6!\nEl logotipo se compone de varias piezas individuales con conexiones enchufables perfectamente ajustadas:\nPartes:\nCuadro VI\nInserta V y I\nMarco de palma VI\nMarco de texto (estilo GTA 6)\nLetras de estilo GTA 6\n\nLos insertos V e I se incluyen en dos variantes:\nDe una sola pieza: para una impresión rápida y sencilla\nTres piezas: para más posibilidades de diseño y un fondo colorido aún más individual\nDe esta manera podrás diseñar tu logo completamente según tus preferencias y lograr efectos únicos con diferentes colores.\n¡No se requieren soportes!\nCon una impresora bien calibrada y un filamento correctamente ajustado, el modelo se mantendrá unido incluso sin pegamento.\nSin embargo, para una fijación especialmente fuerte y permanente recomiendo:\nPegue las letras de estilo GTA 6 al marco de texto (estilo GTA 6).\nEl marco de texto también se puede fijar con una pequeña cantidad de pegamento para garantizar una estabilidad aún mayor.\nLos componentes restantes están diseñados para mantenerse unidos de manera estable sin pegamento cuando se calibran correctamente.\nCaracterísticas:\n100 % imprimible sin AMS\nNo se requieren cambios de color\nNo se necesitan pausas de impresión\nNo se requieren soportes\nDiseño de varias piezas con sistema enchufable sencillo\nInsertos V e I incluidos en versiones de una y tres piezas\nDiseño de color personalizado posible\nLas letras de estilo de GTA 6 y el marco de texto deben estar pegados\nPerfecto como decoración de juegos, coleccionable o como elemento destacado especial para cualquier fanático del diseño GTA 6 Style.",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "gta vi",
+  "logo",
+  "juego de azar",
+  "gta",
+  "arte de la pared",
+  "decoración del hogar",
+  "mostrar",
+  "no ams",
+  "diseño"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USc4b596463e8221/design/7bc7c9afed26dbae.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1161
+  ],
+  "previews/02.jpg": [
+   750,
+   1000
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   1333
+  ],
+  "previews/05.jpg": [
+   1000,
+   855
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   1000,
+   1161
+  ],
+  "previews/11.jpg": [
+   750,
+   1000
+  ],
+  "previews/12.jpg": [
+   1000,
+   1144
+  ],
+  "previews/profiles/3472335.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3479110.jpg": [
+   600,
+   525
+  ],
+  "previews/profiles/3514787.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/3514797.jpg": [
+   450,
+   600
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

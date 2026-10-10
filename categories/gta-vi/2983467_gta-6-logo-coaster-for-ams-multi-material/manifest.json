@@ -1,0 +1,106 @@
+{
+ "files": [
+  {
+   "path": "model/posavasos-logotipo.3mf.xz",
+   "instance_id": "3347681",
+   "thumbnail": "previews/profiles/3347681.jpg",
+   "print_time_h": 0.9,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1S",
+    "X1 Carbon",
+    "P1P",
+    "H2D Pro",
+    "H2S",
+    "X1E",
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "A2L",
+    "X1",
+    "X2D"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "⚙️ CONFIGURACIONES RECOMENDADAS Orientación Óptima : Colocar la cara plana del diseño directamente sobre la placa de construcción (PEI texturizado recomendado). Perímetros / Paredes : 3 paredes para una estructura sólida y duradera. Patrón y % Relleno : Rejilla al 10% Capas Superiores/Inferiores : 3 capas superiores y 3 inferiores para un acabado compacto. Soportes / Brim Adherencia : No requiere soportes. Se recomienda usar un brim de 5mm si se busca máxima seguridad en la adherencia inicial. Materiales : PLA en colores Blanco, Negro, Rosa y Azul para capturar la estética oficial.",
+    "creation_date": "2026-06-27",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1532184,
+   "sha256": "1847fa9aa1bae627c240b244dbb428f3bc6b73d30062f96b37ef59e6da2033e4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2983467",
+ "title": "Posavasos con logotipo de GTA 6 Multi-Material",
+ "slug": "gta-6-logo-coaster-for-ams-multi-material",
+ "url": "https://makerworld.com/en/models/2983467-gta-6-logo-coaster-for-ams-multi-material",
+ "author": "RoyalIndustries",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Sólo para uso personal. No se autoriza la venta de copias impresas.\n\n¿Estás listo para regresar a Vice City? La espera casi ha terminado y la emoción por GTA 6 está en su punto máximo. Mejora tu configuración de juego con esta montaña rusa premium diseñada específicamente para verdaderos fanáticos de la saga. Es el accesorio definitivo para acompañar tus sesiones de juego, con colores icónicos que capturan la esencia vibrante y rebelde del próximo éxito de Rockstar Games. ¡Prepara tu escritorio para el regreso más esperado de la década y deja que tu pasión se muestre en cada detalle! \\\"Bienvenidos a la nueva era del caos\\\".\nCARACTERÍSTICAS CLAVE\nDiseño de montaña rusa plana de alta precisión para un acabado profesional\nLogotipo integrado directamente en la misma capa base para una estética impecable.\nRequiere el sistema AMS/MMU para lograr el diseño multicolor\nImpresión optimizada para una superficie lisa y resistente\nSin necesidad de soportes: impresión plana sencilla directamente sobre la plancha\nDimensiones precisas con tolerancias estrictas para un ajuste visual perfecto\nEstética de alto nivel ideal para decoración temática o regalo de jugador.\nGUÍA DE CAMBIO DE FILAMENTO POR CAPAS\nEste diseño ha sido optimizado para ser impreso exclusivamente utilizando sistemas automáticos de gestión de filamentos (AMS/MMU). Para su fabricación es obligatorio un sistema activo multimaterial, ya que el diseño del logotipo está pensado para imprimirse simultáneamente en una misma capa horizontal. No es posible realizar esta impresión mediante cambios de color manuales o pausando la impresora, ya que el sistema AMS se encarga de realizar todas las transiciones automáticas necesarias para obtener el resultado final del logotipo integrado.",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "juegos de rockstar",
+  "barco de cabotaje",
+  "decoración de jugador",
+  "impresión 3d",
+  "stl",
+  "makerworld",
+  "imprimibles",
+  "diseño 3d",
+  "ams",
+  "bambula"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-06-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US516ff49ba65332/design/689bb7f1c6422f31.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1012
+  ],
+  "previews/02.png": [
+   1000,
+   1012
+  ],
+  "previews/03.png": [
+   1000,
+   1012
+  ],
+  "previews/04.png": [
+   1000,
+   1012
+  ],
+  "previews/profiles/3347681.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

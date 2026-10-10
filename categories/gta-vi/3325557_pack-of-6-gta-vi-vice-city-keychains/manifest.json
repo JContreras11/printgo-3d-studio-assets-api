@@ -1,0 +1,87 @@
+{
+ "files": [
+  {
+   "path": "model/pack-6.3mf.xz",
+   "instance_id": "3776622",
+   "thumbnail": "previews/profiles/3776622.jpg",
+   "print_time_h": 4.9,
+   "plates": 6,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "P1S",
+    "A2L",
+    "H2C",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-09-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "photos": 6
+   },
+   "name": "Versión estándar",
+   "size": 3433952,
+   "sha256": "3f860572188ed2bebdd1ebd3936a5751d9b44098da9a4b95b85725b7bdc93e6a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3325557",
+ "title": "Pack de 6 llaveros GTA VI / Vice City",
+ "slug": "pack-of-6-gta-vi-vice-city-keychains",
+ "url": "https://makerworld.com/en/models/3325557-pack-of-6-gta-vi-vice-city-keychains",
+ "author": "MBTech51",
+ "category": "gta-vi",
+ "source_category": "Moda > Joyería",
+ "description": "Un pack de seis llaveros inspirados en el universo GTA VI y Vice City, con caras planas y estampados multicolores integrados.\nLos seis modelos:\nLogotipo y palmera de Grand Theft Auto VI.\nDúo de personajes con inscripción VI.\nCoche deportivo frente a un horizonte.\nEdificios y palmeras de « Vice City ».\nCocodrilo en un paisaje tropical.\nLogotipo de GTA VI con palmera y puesta de sol.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "vice city",
+  "llaveros",
+  "palmera",
+  "juego de azar",
+  "llavero"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-18",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US3168514b19e2ab/design/e7fa6750d730fe31.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/profiles/3776622.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

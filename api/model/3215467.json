@@ -1,0 +1,115 @@
+{
+ "files": [
+  {
+   "path": "model/cyberleek-filtrador.3mf.xz",
+   "instance_id": "3640353",
+   "thumbnail": "previews/profiles/3640353.jpg",
+   "print_time_h": 32.9,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "X1 Carbon",
+    "H2C",
+    "H2D Pro",
+    "X1E",
+    "A2L",
+    "X2D",
+    "P1S",
+    "H2S",
+    "P2S",
+    "H2D",
+    "P1P",
+    "X1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Layer Height: 0.16mm or 0.20mm for sharp armor details. Infill: 15-20% (Gyroid recommended). Supports: Tree supports recommended for the upper head overhangs.",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 38001684,
+   "sha256": "812bbaccd563c29fcc07fe7e9c011e427d108e0cc2076b8cafbf3af0779d2143",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3215467",
+ "title": "Cyberleek - Filtrador de GTA 6",
+ "slug": "cyberleek-gta-6-leaker",
+ "url": "https://makerworld.com/en/models/3215467-cyberleek-gta-6-leaker",
+ "author": "Gioooo",
+ "category": "gta-vi",
+ "source_category": "Juguetes y juegos > Personajes",
+ "description": "¡Bienvenidos al futuro verde! Este modelo presenta un Cyber-Leek Soldier listo para la acción, completo con una cabeza en forma de puerro, tubos cyberpunk, gafas pixeladas y un traje táctico futurista. Las manos y las líneas de la armadura están diseñadas para imitar un efecto de brillo energético.\nPerfiles de impresión disponibles\nPara brindarte la mejor experiencia de impresión, he preparado 3 perfiles de impresión:\nUn solo color: Ideal si planeas pintar completamente a mano la figura después de la impresión o si deseas utilizar un filamento especial degradado/multicolor.\n4 colores: optimizado para sistemas AMS/multimaterial estándar de 4 colores (p. ej., verde, azul claro/brillante, azul oscuro, negro).\n10 colores: perfil avanzado para configuraciones extendidas de múltiples materiales, perfecto para lograr una gran precisión de color y detalles desde la placa de construcción sin pintar.\nMi impresión y posprocesamiento\nPara recrear el aspecto que se muestra en las fotos:\nFilamento de cabeza/base: imprimí las secciones de cabeza y brillo usando un filamento degradado multicolor. El filamento pasa suavemente del azul claro al verde con tonos vibrantes y fluidos. Esto, naturalmente, genera gradientes de puerro y manos de energía sin cambios de filamento.\nPintura de armadura: el traje táctico y la armadura fueron pintados a mano en postimpresión de color azul oscuro, preservando los detalles impresos en azul claro.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "cibernético",
+  "tecnología",
+  "hacker",
+  "actualidad",
+  "juego",
+  "animación",
+  "filtrador",
+  "ciberpuerro"
+ ],
+ "license": "BY",
+ "release_date": "2026-08-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USffee9ea4ee2062/design/36d35d013b955121.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   311,
+   442
+  ],
+  "previews/02.png": [
+   397,
+   700
+  ],
+  "previews/03.png": [
+   313,
+   686
+  ],
+  "previews/04.png": [
+   318,
+   567
+  ],
+  "previews/05.png": [
+   298,
+   511
+  ],
+  "previews/06.png": [
+   257,
+   421
+  ],
+  "previews/profiles/3640353.jpg": [
+   311,
+   233
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

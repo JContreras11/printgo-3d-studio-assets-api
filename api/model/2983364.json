@@ -1,0 +1,136 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-gta.3mf.xz",
+   "instance_id": "3754468",
+   "thumbnail": "previews/profiles/3754468.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "A1 mini",
+    "H2D",
+    "H2C",
+    "X1 Carbon",
+    "X1E",
+    "P2S",
+    "A2L",
+    "P1S",
+    "P1P",
+    "X1",
+    "H2S",
+    "X2D",
+    "H2D Pro"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "altezza layer 0.2 infill 15%",
+    "creation_date": "2026-06-26",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 3088692,
+   "sha256": "7f33ed97537b7d569251be31b4cdc90f20ab957f75c788810301e611d0fe2d5c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2983364",
+ "title": "Llavero GTA 6 Vice City Logo Impresión 3D STL AMS",
+ "slug": "gta-6-keychain-vice-city-logo-3d-print-stl-ams",
+ "url": "https://makerworld.com/en/models/2983364-gta-6-keychain-vice-city-logo-3d-print-stl-ams",
+ "author": "RoyalIndustries",
+ "category": "gta-vi",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "Sólo para uso personal. No está autorizada la venta de copias impresas.\n\n*\"\\\"¿Confianza? Confianza.\\\"\"* El tráiler que rompió Internet y paralizó al mundo entero ahora tiene su accesorio definitivo. Lleva la fiebre Leonida y la vibrante estética de Vice City a todas partes con este llavero exclusivo de GTA 6. Diseñado especialmente para los fans de la saga de Rockstar Games que no pueden esperar al lanzamiento del año. Con sus icónicos tonos rosa neón y azul combinados con el contraste de blanco y negro, este llavero no es solo un accesorio; es una declaración de que estás listo para el juego más esperado de la década. ¡Imprime el tuyo hoy y sé el primero en mostrar el logotipo oficial en tu configuración o llaves!\nCARACTERÍSTICAS CLAVE\nAjuste perfecto garantizado: cuenta con un orificio para anillo de llavero listo para imprimir con dimensiones de 70 x 50 mm, diseñado con tolerancias ideales para adaptarse sin esfuerzo a cualquier anillo estándar.\nDiseño de perfil bajo y sin soporte: optimizado para imprimir completamente plano en la placa de construcción, lo que garantiza una primera capa perfecta y cero desperdicio de filamento en las estructuras de soporte.\nAcabado profesional ultrapulido: Grosor y proporciones calculados al milímetro para ofrecer una pieza rígida, duradera y con bordes limpios y definidos.\nAuténtica estética de Vice City: distribución de color optimizada para resaltar los gradientes y contrastes de la nueva era de Grand Theft Auto.\nGUÍA DE CAMBIO DE FILAMENTO DE CAPA\nEste modelo ha sido diseñado exclusivamente para su uso con sistemas automáticos de alimentación de filamentos multimaterial (como Bambu Lab AMS, Prusa MMU o sistemas similares). Para conseguir el acabado definitivo en cuatricromía, es estrictamente necesario que la impresora gestione los cambios de filamento de forma automática durante todo el proceso de impresión. Debido a la naturaleza del diseño del logotipo y sus detalles, NO es posible imprimir utilizando cambios de color de pausa de capa manuales. Asegúrate de tener los filamentos cargados en tu sistema de gestión automática antes de enviar el archivo a imprimir.\nAJUSTES RECOMENDADOS\nOrientación óptima: Plano sobre la placa de construcción (se recomienda usar una lámina de PEI texturizada para un acabado frontal increíble)\nAltura de capa sugerida: 0,20 mm (para un equilibrio ideal entre velocidad de impresión y resolución de detalles)\nPerímetros/Paredes: 3 paredes para asegurar la resistencia estructural del hueco del llavero\nPatrón de relleno y %: Cuadrícula al 10% (asegura una excelente consistencia interna sin sobrecargar el peso de la pieza)\nCapas superior/inferior: 5 capas superiores y 3 capas inferiores\nSoportes/Adhesión al borde: No se requieren soportes. No se requiere borde (siempre que su placa de construcción esté bien calibrada y limpia)\nColores de filamento recomendados (PLA): blanco, negro, rosa y azul\nTAMAÑO PERSONALIZABLE 70X50MM",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "llavero gta6",
+  "viceciudad",
+  "gta6stl",
+  "makerworld",
+  "imprimibles",
+  "impresión 3d",
+  "impreso en 3d",
+  "juego de azar",
+  "jugador",
+  "juegos de vídeo"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-06-27",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd6919798dc939/design/4e552b70e16557cf.jpeg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   545
+  ],
+  "previews/02.png": [
+   1000,
+   746
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/04.jpg": [
+   750,
+   1000
+  ],
+  "previews/05.jpg": [
+   750,
+   1000
+  ],
+  "previews/06.jpg": [
+   750,
+   1000
+  ],
+  "previews/07.jpg": [
+   750,
+   1000
+  ],
+  "previews/08.jpg": [
+   750,
+   1000
+  ],
+  "previews/09.jpg": [
+   750,
+   1000
+  ],
+  "previews/10.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3754468.jpg": [
+   600,
+   513
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

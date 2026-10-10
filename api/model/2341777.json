@@ -1,0 +1,78 @@
+{
+ "files": [
+  {
+   "path": "model/decoracion-pared.3mf.xz",
+   "instance_id": "2559822",
+   "thumbnail": "previews/profiles/2559822.jpg",
+   "print_time_h": 5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "X1",
+    "P1P",
+    "A1",
+    "X1 Carbon",
+    "H2S",
+    "H2D Pro",
+    "P1S",
+    "H2C",
+    "H2D",
+    "X1E",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "0.24mm layer, 2 walls, 25% infill",
+    "creation_date": "2025-12-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.24",
+    "infill": "25%",
+    "ironing": "top",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1201012,
+   "sha256": "5a14c73d77c8f4f7e5c3176d727a5eefded365ddcc43bff5f9c0cc1faf7ff195",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2341777",
+ "title": "Decoración de pared de GTA 6",
+ "slug": "gta-6-wall-decor",
+ "url": "https://makerworld.com/en/models/2341777-gta-6-wall-decor",
+ "author": "gEl_Galadaer",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Trae el ambiente legendario de GTA 6 a tu espacio!\nEsta decoración de pared impresa en 3D, inspirada en el icónico logotipo de VI, está diseñada para salas de juegos, oficinas y entornos de coleccionistas.\nGracias a su diseño en capas, crea un fuerte efecto de profundidad y destaca en la pared con detalles nítidos y transiciones de color atrevidas. Una pieza decorativa perfecta para jugadores que quieran mostrar su pasión.\nCaracterísticas\nDiseño 3D multicapa\nLigero y montable en la pared\nIdeal para salas de juegos, escritorios, regalos y colecciones.\nSuperficies limpias con bordes nítidos y detallados.\nRecomendaciones de impresión\nFilamento: PLA / PLA+\nAltura de la capa: 0,2 mm\nRelleno: 15-20%\nSoportes: No requerido\nAdecuado para impresión multicolor (AMS/cambio de color manual)\nNota\nEste es un diseño hecho por fans. No está destinado a uso comercial.",
+ "use_cases": [],
+ "tags": [],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-02-02",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USf5b5c3a5454f4/design/475236f89311bc72.png",
+ "images": [
+  "previews/01.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   621,
+   931
+  ],
+  "previews/profiles/2559822.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

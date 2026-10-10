@@ -1,0 +1,94 @@
+{
+ "files": [
+  {
+   "path": "model/gta-vi.3mf.xz",
+   "instance_id": "3576471",
+   "thumbnail": "previews/profiles/3576471.jpg",
+   "print_time_h": 3.3,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X1E",
+    "X1",
+    "P1S",
+    "X1 Carbon",
+    "P1P",
+    "A2L",
+    "P2S",
+    "X2D",
+    "H2D Pro",
+    "H2D",
+    "H2C",
+    "H2S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Print Settings & Recommendations: - Nozzle Size: 0.4 mm (recommended) - Layer Height: 0.16 mm - 0.20 mm for crisp details - Infill: 15-20% (Grid or Gyroid) - Supports: None required - Filament Colors Pictured: Black (base), White, and Pink/Magenta (multi-color or manual filament change at height). Feel free to match the official colors!",
+    "creation_date": "2026-08-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 901052,
+   "sha256": "ec33250a754fed9bd8a77ad5b79d3959869621224f2ccba1d288c451222dbcc9",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3164287",
+ "title": "GTA VI en capas",
+ "slug": "gta-vi-layered",
+ "url": "https://makerworld.com/en/models/3164287-gta-vi-layered",
+ "author": "3DPrintLabb",
+ "category": "gta-vi",
+ "source_category": "Arte > Otros modelos de arte",
+ "description": "Boost Me[17:59, 12.08.2026] Iulian: Si te gusta este modelo, ¡presiona el botón Boost! Su apoyo me ayuda a crear más diseños gratuitos. Título: Logotipo de GTA 6 - Ilusión óptica 3D\nArte de pared/decoración de sala de juegos\nDescripción:\n¡Lleva el entusiasmo del próximo éxito de taquilla a tu configuración de juego con este arte de pared personalizado de GTA 6 impreso en 3D!\nCon un llamativo diseño en capas con un efecto de ilusión óptica en perspectiva único, esta pieza captura el aspecto icónico del nuevo juego.\n- Diseño: ilusión óptica 3D de múltiples capas con letras estilo GTA 6.\n- Estilo: decoración de juegos moderna, arte en perspectiva abstracta.\n- Pantalla: perfecta para montar en un marco de imagen estándar para mejorar el nivel de su sala de juegos, escritorio o pared de la oficina.",
+ "use_cases": [],
+ "tags": [
+  "gta 6",
+  "gta vi",
+  "gta vi en capas",
+  "gta 6 en capas",
+  "grand theft auto"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-12",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6277cb9e25a9e8/design/4b59eaab635d47b8.jpeg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.png",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   750,
+   1000
+  ],
+  "previews/02.png": [
+   904,
+   584
+  ],
+  "previews/03.jpg": [
+   750,
+   1000
+  ],
+  "previews/profiles/3576471.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

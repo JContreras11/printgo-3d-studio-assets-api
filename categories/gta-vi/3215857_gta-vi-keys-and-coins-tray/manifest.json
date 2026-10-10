@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/bandeja-llaves.3mf.xz",
+   "instance_id": "3640810",
+   "thumbnail": "previews/profiles/3640810.jpg",
+   "print_time_h": 3.6,
+   "plates": 2,
+   "rating": 3,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "H2D",
+    "P1S",
+    "A2L",
+    "P2S",
+    "P1P",
+    "X1E",
+    "X1",
+    "H2D Pro",
+    "X2D",
+    "H2S",
+    "H2C",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2026-08-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 1989608,
+   "sha256": "03f440845fbfaeae539274df26ef28f41348d5b89af3bc5fafd0263b9bcf4ff8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3215857",
+ "title": "Bandeja de llaves y monedas de GTA VI",
+ "slug": "gta-vi-keys-and-coins-tray",
+ "url": "https://makerworld.com/en/models/3215857-gta-vi-keys-and-coins-tray",
+ "author": "ddmg",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Electrónica",
+ "description": "Disfruta de este hermoso GTA VI.\n¡Solo para fanáticos!\n\nImpulsame",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "grand theft auto",
+  "gran robo de autos",
+  "bandeja",
+  "monedas",
+  "llaves",
+  "sala",
+  "almacenamiento",
+  "consola",
+  "playstation"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-24",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US1f40dae230a694/design/b101bec0ab9a48b1.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   1500
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/03.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3640810.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

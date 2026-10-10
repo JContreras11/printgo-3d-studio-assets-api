@@ -1,0 +1,99 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6.3mf.xz",
+   "instance_id": "2948572",
+   "thumbnail": "previews/profiles/2948572.jpg",
+   "print_time_h": 7.2,
+   "plates": 2,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "A1",
+    "X2D",
+    "X1",
+    "H2S",
+    "P1S",
+    "P1P",
+    "X1E",
+    "H2D Pro",
+    "H2D",
+    "X1 Carbon",
+    "H2C",
+    "P2S",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.07.04.52",
+    "profile_title": "0.2mm layer, 2 walls, 20% infill",
+    "creation_date": "15:18:38 GMT+0400 (Gulf Standard Time)",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "normal(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6778940,
+   "sha256": "3988407822396d6ff1a3d676840b18789be3b755ee5bbb409e0dad056594da9e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2664849",
+ "title": "GTA 6 Jason y Lucía - Caja de luz",
+ "slug": "gta-6-jason-lucia-lightbox",
+ "url": "https://makerworld.com/en/models/2664849-gta-6-jason-lucia-lightbox",
+ "author": "mowey_prints",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "Lleva el ambiente de Vice City directamente a tu configuración con esta caja de luz LED inspirada en GTA 6. Diseñada con una atrevida estética retro-neón, esta pieza combina una impresión limpia en capas con una retroiluminación vibrante para crear una impresionante pieza central visual para cualquier sala de juegos, escritorio o pared.\nEl modelo está optimizado para una fácil impresión multicolor y ofrece detalles nítidos con un fuerte contraste entre los tonos negro, blanco, rosa y azul. Una vez ensamblado con iluminación LED, se transforma en una obra de arte brillante que captura perfectamente la atmósfera icónica de GTA.\nSi eres fanático de la franquicia o simplemente quieres una pieza de decoración de juego única, esta caja de luz está hecha para destacar tanto de día como de noche.\nCaracterísticas:\nDiseño limpio en capas para una difusión de luz nítida\nOptimizado para impresión 3D multicolor\nDiseñado para retroiluminación LED (tira o panel)\nPerfecto para configuración de escritorio, exhibición en pared o salas de juegos\nMarco resistente y duradero para uso a largo plazo.\nNotas de montaje:\nUtilice filamento blanco para una mejor difusión de la luz.\nSe recomienda marco negro para máximo contraste.\nCompatible con tiras LED estándar (cálidas o RGB)\nAjusta el brillo dependiendo de tu configuración\nPerfecto para:\nJugadores y fanáticos de GTA\nConfiguraciones temáticas RGB/neón\nDecoración de habitaciones y escritorios.\nRegalos únicos impresos en 3D",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "grand theft auto",
+  "grandtheftauto6",
+  "gran robo de autos",
+  "caja de luz",
+  "fabricante de cajas de luz",
+  "caja de luz personalizada",
+  "signo de juego",
+  "juego de azar",
+  "modelo 3d de juegos",
+  "juegos de arte 2d"
+ ],
+ "license": "MakerWorld Exclusive License",
+ "release_date": "2026-04-15",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USb0247614ccb351/design/4af66d65125433ec.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   666
+  ],
+  "previews/02.png": [
+   1000,
+   666
+  ],
+  "previews/03.png": [
+   1000,
+   666
+  ],
+  "previews/profiles/2948572.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

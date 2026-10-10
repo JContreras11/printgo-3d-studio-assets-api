@@ -1,0 +1,144 @@
+{
+ "files": [
+  {
+   "path": "model/arte-pared-42min.3mf.xz",
+   "instance_id": "3611580",
+   "thumbnail": "previews/profiles/3611580.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "X1E",
+    "P1P",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "X1",
+    "X1 Carbon",
+    "A1",
+    "H2D",
+    "P2S",
+    "P1S"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "A1 mini size",
+    "profile_notes": "faced down for better queality",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 1582532,
+   "sha256": "ac11987c03ebc22032bc4feabe3fd384f3f9d9e54c7635acabfe6efa23f98242",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/arte-pared-1h.3mf.xz",
+   "instance_id": "3611588",
+   "thumbnail": "previews/profiles/3611588.jpg",
+   "print_time_h": 1,
+   "plates": 1,
+   "rating": 4.7,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P2S",
+    "P1P",
+    "H2D Pro",
+    "P1S",
+    "X1 Carbon",
+    "A2L",
+    "X1",
+    "X2D",
+    "X1E",
+    "H2S",
+    "H2C",
+    "A1",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Bigger size",
+    "profile_notes": "faced down for better quality",
+    "creation_date": "2026-08-19",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P2S",
+    "layer_height": "0.2",
+    "infill": "8%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1583592,
+   "sha256": "c6b92f5362e3bbfe02a0c041f04042c5399af35c4a21327dd444f486d33efcca",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3192256",
+ "title": "Arte de pared de GTA VI - Arte de pared de Grand Theft Auto VI",
+ "slug": "gta-vi-wall-art-grand-theft-auto-vi-wall-art",
+ "url": "https://makerworld.com/en/models/3192256-gta-vi-wall-art-grand-theft-auto-vi-wall-art",
+ "author": "Jotas3D_",
+ "category": "gta-vi",
+ "source_category": "Hogar > Decoración",
+ "description": "¡Arte de pared de GTA VI perfecto para decoración!\n\nPuedes imprimir la versión A1 mini y una versión más grande.\n\nTambién puedes encontrar el LOGOTIPO de GTA VI «AQUÍ»",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta 6",
+  "gta vi",
+  "6",
+  "magnífico",
+  "robo",
+  "auto",
+  "grand theft auto",
+  "muro",
+  "arte",
+  "arte de la pared",
+  "arte mural"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-08-19",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US7e49d073ef8e37/design/1162130308a1a6f6.jpg",
+ "images": [
+  "previews/01.png",
+  "previews/02.png"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   1333
+  ],
+  "previews/profiles/3611580.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3611588.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

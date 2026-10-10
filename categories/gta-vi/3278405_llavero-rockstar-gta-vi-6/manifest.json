@@ -1,0 +1,110 @@
+{
+ "files": [
+  {
+   "path": "model/llavero-rockstar.3mf.xz",
+   "instance_id": "3718286",
+   "thumbnail": "previews/profiles/3718286.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "X1 Carbon",
+    "X1E",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1",
+    "P2S",
+    "X2D",
+    "A1",
+    "P1P",
+    "H2C"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "profile_notes": "Altura de capa: 0.16–0.20 mm No requiere soportes Material recomendado: PLA o PETG Perfecto para impresión multicolor",
+    "creation_date": "2026-09-08",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1459920,
+   "sha256": "a8d2939d5929b0a65080ee8b9ce30242cc50ae1c342bd0d2df78bbeecda520bc",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3278405",
+ "title": "LLAVERO ROCKSTAR GTA VI",
+ "slug": "llavero-rockstar-gta-vi-6",
+ "url": "https://makerworld.com/en/models/3278405-llavero-rockstar-gta-vi-6",
+ "author": "MundoForma",
+ "category": "gta-vi",
+ "source_category": "Modelo 3D generativo > Imagen a llavero",
+ "description": "Llavero con el logotipo de GTA 6 de Rockstar Games: impresión 3D en relieve de palmeras R\n\nLlavero inspirado en el icónico logo de Rockstar Games de GTA 6, diseñado para impresión 3D.\nEl modelo presenta la firma Rockstar R con estrella, colocada sobre una base dorada con un relieve detallado de palmera integrado en la superficie.\nEl relieve de la palmera está integrado directamente en el modelo para crear un efecto de profundidad y textura cuando se imprime, especialmente con buena iluminación.\nDiseño inspirado en Rockstar Games / GTA 6\nR elevada y relieve de estrella.\nDetalles grabados en relieve de palmera.\nOrificio incorporado para fijar el llavero.\nDiseñado para impresión FDM\nIdeal para PLA y PLA Seda\nPerfecto para coleccionistas y fanáticos de GTA.\n¡Si lo imprimes, comparte tus fotos y presume tu resultado!\n\nLICENCIA COMERCIAL\n¿Le gustaría vender impresiones físicas de este modelo?\nLa licencia comercial NO está incluida en la suscripción gratuita de Patreon. Debe suscribirse al nivel \"Licencia comercial\":\npatreon.com/FORMA3D_CommercialLicense\nVentas ilimitadas de productos físicos.\nAcceso a todos mis diseños.\nNuevos modelos agregados regularmente\nNo comparta, venda ni redistribuya archivos STL\nLa membresía gratuita no incluye derechos comerciales.\n¡Gracias por su apoyo!\n\nImpúlsame Si te gusta este diseño, ¡tu apoyo me ayudaría mucho!",
+ "use_cases": [],
+ "tags": [
+  "gta6",
+  "llavero gta6",
+  "estrella de rock",
+  "juegos de rockstar",
+  "gta",
+  "gran robo de autos",
+  "grandtheftauto6",
+  "cadenagtakey",
+  "llavero",
+  "llavero 1"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-09-08",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US41309322364c30/design/75b5be58b395ecff.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   688
+  ],
+  "previews/02.jpg": [
+   1000,
+   688
+  ],
+  "previews/03.jpg": [
+   1000,
+   688
+  ],
+  "previews/04.jpg": [
+   1000,
+   1063
+  ],
+  "previews/05.jpg": [
+   1000,
+   1063
+  ],
+  "previews/profiles/3718286.jpg": [
+   600,
+   449
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

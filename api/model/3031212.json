@@ -1,0 +1,105 @@
+{
+ "files": [
+  {
+   "path": "model/gta-6.3mf.xz",
+   "instance_id": "3411463",
+   "thumbnail": "previews/profiles/3411463.jpg",
+   "print_time_h": 6.8,
+   "plates": 3,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": true,
+   "printers": [
+    "H2D",
+    "X1",
+    "P2S",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "H2C",
+    "P1S",
+    "X1E",
+    "H2S",
+    "X2D",
+    "A1",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "0.2mm layer, 3 walls, 10% infill",
+    "creation_date": "2026-07-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2D",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 3
+   },
+   "name": "Versión estándar",
+   "size": 4471004,
+   "sha256": "5d2bb25eb3c874c0ce4e0614426956c22049222a40c91d172131252ff68cf33e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "3031212",
+ "title": "GTA 6 SOPORTE DualSense",
+ "slug": "gta-6-stand-dualsense",
+ "url": "https://makerworld.com/en/models/3031212-gta-6-stand-dualsense",
+ "author": "grindlab",
+ "category": "gta-vi",
+ "source_category": "Hobby y bricolaje > Otros pasatiempos y bricolaje",
+ "description": "ImpulsameNo olvides IMPULSAR el modelo para motivarme para futuros diseños.\nRecomiendo usar mi archivo 3MF. El modelo está prepintado, pero puedes volver a pintarlo como quieras. Las palmeras son insertables; si es necesario, puedes pegarlas en su lugar, así como el propio soporte a la base. El DualSense encaja perfectamente: escaneé el controlador con un escáner 3D y tallé el asiento directamente del modelo. También hay recortes para pies de goma de 8 mm para evitar que el soporte se resbale.\n\nTambién puedes apoyarme con un consejo aquí.",
+ "use_cases": [],
+ "tags": [
+  "gta",
+  "gta6",
+  "gta 6",
+  "pararse",
+  "dualsense",
+  "arte",
+  "bricolaje",
+  "mejor",
+  "arriba",
+  "modelo 3d",
+  "impresión 3d",
+  "ps5"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-07-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US9adbd5386d8d87/design/b61a2f4e69d9f77d.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1777
+  ],
+  "previews/02.jpg": [
+   1000,
+   1777
+  ],
+  "previews/03.jpg": [
+   1000,
+   1777
+  ],
+  "previews/04.jpg": [
+   1000,
+   1777
+  ],
+  "previews/profiles/3411463.jpg": [
+   600,
+   1066
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

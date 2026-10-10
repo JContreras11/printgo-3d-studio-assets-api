@@ -1,0 +1,595 @@
+{
+ "files": [
+  {
+   "path": "model/dog-pooper-7h30.3mf.xz",
+   "instance_id": "2958061",
+   "thumbnail": "previews/profiles/2958061.jpg",
+   "print_time_h": 7.5,
+   "plates": 5,
+   "rating": 4.9,
+   "rating_count": 104,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A1",
+    "X1E",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro",
+    "X1 Carbon"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Pooper scooper w/ handle",
+    "profile_notes": "Standard Pooper scooper with both the standard 8 (20.3cm) and longer 8.75 (22.2cm) handle sections Scooper uses 0.2mm layer, 15% gyroid infill and 2 walls Bag clips, handle sections and cap use 0.2mm layer, 15% gyroid infill and 3 walls Ignore warnings about floating cantilevers. The model includes designed supports",
+    "creation_date": "2026-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 5
+   },
+   "name": "Recogedor de excrementos con mango",
+   "size": 8311852,
+   "sha256": "5bf99d54a9824ba35be893886cb3e26facc9ef72c234cfbbec3c6e0feca10a33",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-1h06.3mf.xz",
+   "instance_id": "3072475",
+   "thumbnail": "previews/profiles/3072475.jpg",
+   "print_time_h": 1.1,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Threaded scoop to PVC pipe adapter",
+    "profile_notes": "Convert your threaded scoop to one you can use with a ¾ PVC pipe with this simple adapter. A helpful mod if you ended up not having a compatible handle and saves you from having to re-print the PVC pipe version. Print settings: 0.2mm layer, 3 walls, 20% infill",
+    "creation_date": "2026-05-06",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6157160,
+   "sha256": "e0b01226d99fa990ed07400da5bfef38a5fd817ddbc4ff947704339409a1008c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-1h12.3mf.xz",
+   "instance_id": "3115424",
+   "thumbnail": "previews/profiles/3115424.jpg",
+   "print_time_h": 1.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 1,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "H2D",
+    "P2S",
+    "H2C",
+    "H2S",
+    "X1E",
+    "X1 Carbon",
+    "A1",
+    "P1P",
+    "X1",
+    "X2D",
+    "H2D Pro",
+    "A2L",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "22mm broom adapter",
+    "profile_notes": "For brooms or pipes with a outer diameter of 22mm",
+    "creation_date": "2026-05-14",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 4874108,
+   "sha256": "5a82ab8dd98513c56f007b23fa5696807a619b235e85a374bedd1e56e5e129f7",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-2h30.3mf.xz",
+   "instance_id": "2958092",
+   "thumbnail": "previews/profiles/2958092.jpg",
+   "print_time_h": 2.5,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 3,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "TPU handle grip",
+    "profile_notes": "0.2mm layer, 2 walls, 15% infill Fuzzy skin",
+    "creation_date": "2026-04-17",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Empuñadura de TPU",
+   "size": 6130196,
+   "sha256": "55bb0d1218bafd50c750f9ce2c238c92d70121e7a8239c86e3115351f0209118",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-2h48.3mf.xz",
+   "instance_id": "3304097",
+   "thumbnail": "previews/profiles/3304097.jpg",
+   "print_time_h": 2.8,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "X2D",
+    "H2S",
+    "X1E",
+    "A1",
+    "A2L",
+    "H2D",
+    "P2S",
+    "A1 mini",
+    "H2C",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "Backplate 0.2mm layer, 2 walls, 10% infill",
+    "profile_notes": "With backplate",
+    "creation_date": "2026-06-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 7743664,
+   "sha256": "f3369ff1c74102394de5af7f2771d96d830523186d15f634153f4f8f2a2bef86",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-36min.3mf.xz",
+   "instance_id": "2958085",
+   "thumbnail": "previews/profiles/2958085.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 4,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Thread test for broom handle compatibility",
+    "profile_notes": "Thread test to see if your broom handle, paint roller handle, etc. is compatible with the ¾ acme threads",
+    "creation_date": "2025-07-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "10%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 5364428,
+   "sha256": "1db9046a87556eeb0abbcedccc46e88feb875ce510b8c77214d135869ae3e342",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-3h24.3mf.xz",
+   "instance_id": "2958103",
+   "thumbnail": "previews/profiles/2958103.jpg",
+   "print_time_h": 3.4,
+   "plates": 2,
+   "rating": 4.8,
+   "rating_count": 13,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2D Pro",
+    "A1 mini",
+    "P1P",
+    "X1",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "H2S",
+    "P2S",
+    "X2D",
+    "A2L",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.03.61",
+    "profile_title": "Scoop for ¾\" PVC pipe handle",
+    "profile_notes": "Scoop designed to fit a ¾ PVC pipe handle (1.05 OD) Opening designed to friction fit a ¾ PVC pipe Scoop uses 0.2mm layer, 2 walls, 15% gyroid infill Bag clips use 0.2mm layer, 3 walls, 20% gyroid infill",
+    "creation_date": "2026-04-18",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "20%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 5035256,
+   "sha256": "ee2eea3812b1449db2fa0c7ba2a3fc01084cbd7a2101f5ba25ad72d20b25dd1c",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-42min.3mf.xz",
+   "instance_id": "3548322",
+   "thumbnail": "previews/profiles/3548322.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "X1 Carbon",
+    "H2S",
+    "P1P",
+    "P2S",
+    "A1",
+    "A1 mini",
+    "X1E",
+    "X1",
+    "X2D",
+    "P1S",
+    "H2C",
+    "H2D",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.07.01.62",
+    "profile_title": "Cap with hook for hanging",
+    "profile_notes": "I wanted a way to easily hang this from the handle side. Hope this helps others out.",
+    "creation_date": "2026-08-07",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 6168828,
+   "sha256": "adc1ffc4288ddcaadcfb8bf058683f6d5d3c284972019e0626b2ef340f117115",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-6h.3mf.xz",
+   "instance_id": "3677961",
+   "thumbnail": "previews/profiles/3677961.jpg",
+   "print_time_h": 6,
+   "plates": 1,
+   "rating": null,
+   "rating_count": 0,
+   "by_designer": false,
+   "printers": [
+    "H2C",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "H2S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.08.02.61",
+    "profile_title": "0.6mm nozzle, 0.3mm layer, 2 walls, 15% infill",
+    "profile_notes": "Standard Pooper scooper with bag clips, 3x8 (20.3cm) handle sections, and handle cap on a single plate Scooper uses 0.2mm layer, 15% gyroid infill and 2 walls Bag clips, handle sections and cap use 0.2mm layer, 15% gyroid infill and 3 walls Ignore warnings about floating cantilevers. The model includes designed supports",
+    "creation_date": "2026-08-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.3",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 7078576,
+   "sha256": "ec8e688622f69ba441bf8ff234a2ef4d5357d71414721333f93de8b6e30e0255",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-6h06.3mf.xz",
+   "instance_id": "2958070",
+   "thumbnail": "previews/profiles/2958070.jpg",
+   "print_time_h": 6.1,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 5,
+   "by_designer": true,
+   "printers": [
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "A1 mini - Pooper scooper w/ handle",
+    "profile_notes": "A1 mini compatible pooper scooper with standard 8 (20.3cm) handle sections Scooper uses 0.2mm layer, 15% gyroid infill and 2 walls Bag clips, handle sections and cap use 0.2mm layer, 15% gyroid infill and 3 walls Ignore warnings about floating cantilevers. The model includes designed supports",
+    "creation_date": "2026-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión mini",
+   "size": 7080940,
+   "sha256": "a07ead879c47fd0fb58322ec6edb8cc5c7f1d4893a0ee10160dd64f5ae9bfd6b",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/dog-pooper-9h12.3mf.xz",
+   "instance_id": "2971968",
+   "thumbnail": "previews/profiles/2971968.jpg",
+   "print_time_h": 9.2,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 6,
+   "by_designer": true,
+   "printers": [
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "H2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.00.51",
+    "profile_title": "H-series single plate option - Pooper scooper w/ handle",
+    "profile_notes": "Standard Pooper scooper with bag clips, 3x8 (20.3cm) handle sections, and handle cap on a single plate Scooper uses 0.2mm layer, 15% gyroid infill and 2 walls Bag clips, handle sections and cap use 0.2mm layer, 15% gyroid infill and 3 walls Ignore warnings about floating cantilevers. The model includes designed supports",
+    "creation_date": "2026-04-29",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab H2C",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Una sola placa",
+   "size": 6993652,
+   "sha256": "b05f656c2110a1f7884ca0e4005ae67a5f067fd32f36b0f448ee2cfa749c2d01",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "2672371",
+ "title": "Dog Pooper Scooper V2 (¡Totalmente imprimible en 3D!)",
+ "slug": "dog-pooper-scooper-v2-fully-3d-printable",
+ "url": "https://makerworld.com/en/models/2672371-dog-pooper-scooper-v2-fully-3d-printable",
+ "author": "makermatt3D",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Limpia los desechos de tu cachorro: más rápido, más fácil y con menos complicaciones. Este recogedor de excrementos V2 mejorado se basa en el diseño probado V1 con características más inteligentes, componentes más resistentes y una experiencia de usuario más refinada de arriba a abajo.\n\nLa actualización más destacada es un sistema modular de clip para bolsas completamente rediseñado: más resistente, más confiable y reemplazable. Junto con una geometría de pala mejorada y un mango refinado, esta versión está diseñada para uso diario y durabilidad a largo plazo. ¡Es rápido, simple y me atrevo a decir divertido!\n\n¿Qué hay de nuevo en V2?\nSistema modular de clip para bolsas\nLos clips rediseñados y más resistentes ahora se imprimen por separado y encajan en su lugar. Si un clip alguna vez se desgasta, simplemente imprima uno nuevo. Instálelo boca arriba o abajo según su preferencia.\nGeometría mejorada de los dientes de pala\nLos dientes más anchos y planos se deslizan por el césped con mayor suavidad, levantándose limpiamente sin engancharse.\nAgarre de TPU mejorado\nRefinado para una apariencia y sensación más premium con mejor ergonomía y comodidad durante el uso.\nCompatibilidad con versiones anteriores\nSi ya imprimiste la pala original, el mango V1 es compatible con la nueva pala V2.\n\nFunciones que ya te encantan\nMúltiples opciones de mango: imprima completamente en 3D o use un mango de escoba o un tubo de PVC.\nPastillas más limpias: el diseño de los dientes levanta los desechos del césped y los coloca en una bolsa biodegradable.\nDiseño duradero: construido para soportar el uso repetido en exteriores.\n\nImpulso Me¿Disfrutas de esta impresión?\nDar me gusta ayuda a otros a descubrir este modelo\nImpulsar es la mejor manera de apoyar mi trabajo\n¡Síganos para obtener más impresiones funcionales próximamente! Opciones de manejo\nTotalmente impreso en 3D: imprima el mango en secciones usando esta tabla de tallas: Secciones cortas de mango de 2 - 8,75\" Altura total* = 21,8\" (55,3 cm)\nSecciones de mango estándar de 3 a 8\" Altura total* = 28,3\" (72,4 cm)\nAlto 3 secciones de mango de 8,75\" Altura total* = 30,5\" (80,6 cm)* la altura total incluye la pala.\n\nImprima la tapa del mango o actualice a la empuñadura de TPU premium.\nConsulte la guía de montaje para obtener más detalles.\n\nUtilice un mango de escoba o un palo de extensión de pintura. Las roscas de la pala son Acme 3/4\" 5 TPI, que es común (en EE. UU.) para mangos de herramientas domésticas.\nHe incluido un perfil de impresión de prueba de hilo para que puedas comprobar la compatibilidad antes de imprimir.\nEjemplos que puede comprar: mango utilitario roscado True Temper de 60 pulgadas, mango de escoba de madera Rubbermaid.\n\nUtilice un tubo de PVC de ¾\" (1,05\" de diámetro exterior). El tubo de PVC de ¾\" es económico y comúnmente está disponible en cualquier ferretería. Hay disponible un perfil de impresión independiente para esta opción.\n\nInstrucciones de instalación de la bolsa\nBolsa envolvente ajustada alrededor de la base.\nGire la bolsa, deslícela en el clip y apriete\nDale un ligero tirón a la parte trasera de la bolsa para comprobar que esté segura.\n\nImprimir notas\nSe recomienda imprimir en PETG para mayor resistencia al calor y a la intemperie.\nIgnore las advertencias de Bambu Studio acerca de que la pala y el mango tienen un voladizo flotante. Los modelos incluyen soportes diseñados.\nSe recomienda utilizar alicates para quitar los soportes de las roscas del mango y la base del mango tipo pala. Están intencionalmente ajustados para una calidad óptima.\n\nModelos relacionados",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "caca de perro",
+  "recogedor de aguacates",
+  "bolsa para caca de perro",
+  "dispensador de bolsas para excrementos de perros",
+  "cachorro",
+  "caca",
+  "cucharada de caca",
+  "soporte para recogedor de aguacates",
+  "biodegradable",
+  "durable"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2026-04-17",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US10cb1f18aebcd4/design/c9ac70ab96683815.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.gif",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg",
+  "previews/09.jpg",
+  "previews/10.jpg",
+  "previews/11.jpg",
+  "previews/12.gif"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/04.jpg": [
+   1000,
+   751
+  ],
+  "previews/05.gif": [
+   600,
+   450
+  ],
+  "previews/06.jpg": [
+   1000,
+   750
+  ],
+  "previews/07.jpg": [
+   1000,
+   750
+  ],
+  "previews/08.jpg": [
+   1000,
+   1333
+  ],
+  "previews/09.jpg": [
+   1000,
+   750
+  ],
+  "previews/10.jpg": [
+   1000,
+   1333
+  ],
+  "previews/11.jpg": [
+   1000,
+   1333
+  ],
+  "previews/12.gif": [
+   1920,
+   1440
+  ],
+  "previews/profiles/2958061.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3072475.jpg": [
+   600,
+   437
+  ],
+  "previews/profiles/3115424.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2958092.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3304097.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/2958085.jpg": [
+   600,
+   449
+  ],
+  "previews/profiles/2958103.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/3548322.jpg": [
+   597,
+   375
+  ],
+  "previews/profiles/3677961.jpg": [
+   600,
+   799
+  ],
+  "previews/profiles/2958070.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/2971968.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

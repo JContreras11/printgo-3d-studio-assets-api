@@ -1,0 +1,149 @@
+{
+ "files": [
+  {
+   "path": "model/limpiador-patas-1h24.3mf.xz",
+   "instance_id": "875325",
+   "thumbnail": "previews/profiles/875325.jpg",
+   "print_time_h": 1.4,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 16,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1E",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "0.2mm layer, 4 walls, 15% infill",
+    "profile_notes": "0,2 Layerhöhe Support nur unter dem Gewinde 4 Wände 15% Infill",
+    "creation_date": "2025-03-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 5111,
+      "weight_g": 52.14,
+      "support_used": true,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#ADB1B2"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG",
+   "size": 4717108,
+   "sha256": "82226e3b43493293a41ca7a5d844a33237df96b29e417c55bcfbe3e28f6e8b98",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/limpiador-patas-1h42.3mf.xz",
+   "instance_id": "3091033",
+   "thumbnail": "previews/profiles/3091033.jpg",
+   "print_time_h": 1.7,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.06.01.55",
+    "profile_title": "A1 mini - 0.2mm layer, 4 walls, 15% infill",
+    "profile_notes": "Objects arranged to fit plate of A1 mini 0.2mm layer, 4 walls, 15% infill",
+    "creation_date": "2026-05-10",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión mini",
+   "size": 6005464,
+   "sha256": "cb0ca32ef4d977e5b1580d5f52e37c0ac4252fc4368900c531a315f7bc7e3319",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "912355",
+ "title": "Limpiador de patas para mascotas",
+ "slug": "pet-paw-cleaner",
+ "url": "https://makerworld.com/en/models/912355-pet-paw-cleaner",
+ "author": "raj3d",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Un sencillo accesorio para manguera de ducha con conexión roscada de ½ pulgada para una limpieza rápida y suave de las patas de perros o gatos. Este modelo tiene un diámetro de 50 mm, por lo que es más adecuado para animales más pequeños. Si necesitas uno más grande para animales más grandes, deja un comentario.\nImpúlsame. Si esto te resulta útil, ¡te agradecería un IMPULSO!",
+ "use_cases": [],
+ "tags": [
+  "agua",
+  "pata",
+  "limpiador",
+  "perro",
+  "gato"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-12-25",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USd710c631a7f9cf/design/2024-12-26_5af1cb2326dd1.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.png"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   1333
+  ],
+  "previews/02.jpg": [
+   1000,
+   1333
+  ],
+  "previews/03.jpg": [
+   1000,
+   975
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/profiles/875325.jpg": [
+   600,
+   800
+  ],
+  "previews/profiles/3091033.jpg": [
+   600,
+   522
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

@@ -1,0 +1,363 @@
+{
+ "files": [
+  {
+   "path": "model/rompecabezas-juguete-2h12.3mf.xz",
+   "instance_id": "2030623",
+   "thumbnail": "previews/profiles/2030623.jpg",
+   "print_time_h": 2.2,
+   "plates": 2,
+   "rating": 4.9,
+   "rating_count": 385,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P2S",
+    "H2S",
+    "H2C",
+    "X2D",
+    "H2D",
+    "A2L",
+    "X1 Carbon",
+    "H2D Pro",
+    "X1",
+    "A1",
+    "X1E",
+    "P1P"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "200mm Spool diameter like Bambulab & ball on a second plate",
+    "profile_notes": "This print profile has one ring and one ball. Feel free to scale ball and ring to what size you want. By default it is a 200mm size ring that fits standard Bambulab filament spool or cardboard spool I have added supports for the paws as for some people it seems overhangs are not printed well",
+    "creation_date": "2026-02-16",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión estándar",
+   "size": 2170404,
+   "sha256": "91864b9cf37d6b1ff7316e70f387c86c1d0d58a4ab383ad0eadd8d2f65659a23",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-juguete-18min.3mf.xz",
+   "instance_id": "2763924",
+   "thumbnail": "previews/profiles/2763924.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1",
+    "A1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "A1 mini",
+    "H2D",
+    "A2L",
+    "H2C",
+    "X1 Carbon",
+    "H2D Pro",
+    "H2S",
+    "P1P"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "Spool Hole Plug - 55mm diameter",
+    "creation_date": "2026-03-12",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1627972,
+   "sha256": "1dd9589262fe3a6f6777080b725c8fe1476d582ac1b8b55aace0d13a0bcecc75",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-juguete-1h30.3mf.xz",
+   "instance_id": "2034282",
+   "thumbnail": "previews/profiles/2034282.jpg",
+   "print_time_h": 1.5,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 58,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "H2S",
+    "X2D",
+    "X1",
+    "A1 mini",
+    "P2S",
+    "H2C",
+    "A1",
+    "H2D Pro",
+    "X1 Carbon",
+    "A2L",
+    "X1E",
+    "H2D"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.03.01.51",
+    "profile_title": "Plate with just the balls",
+    "profile_notes": "This plate contains just balls if you want the separatly",
+    "creation_date": "2025-11-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2103008,
+   "sha256": "aa43873d155c7762c75600995198393df3e9e1ff105ec0247d7db385fc7096d0",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-juguete-48min-2.3mf.xz",
+   "instance_id": "2384535",
+   "thumbnail": "previews/profiles/2384535.jpg",
+   "print_time_h": 0.8,
+   "plates": 2,
+   "rating": 4,
+   "rating_count": 8,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "H2C",
+    "H2S",
+    "H2D Pro",
+    "P2S",
+    "A1",
+    "X1E",
+    "X1 Carbon",
+    "P1P",
+    "A1 mini",
+    "H2D",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "Resized for small (139 mm) cardboard spools",
+    "profile_notes": "Resized to work on 250g spools of approx. 139mm width. Ball rolls freely but does not escape. Supports needed for the ball, but not the spool cover. Print 2 of the cover. Do measure your spool. It was a little loose on mine and I ended up using a bit of glue.",
+    "creation_date": "2026-01-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 2
+   },
+   "name": "Versión mini",
+   "size": 2188460,
+   "sha256": "8252b0bc44ceb02ba342e4ffa554c714983e202369fed13e50f8a947ac3e35ed",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-juguete-48min.3mf.xz",
+   "instance_id": "3155729",
+   "thumbnail": "previews/profiles/3155729.jpg",
+   "print_time_h": 0.8,
+   "plates": 1,
+   "rating": 4,
+   "rating_count": 2,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "X1 Carbon",
+    "P1P",
+    "H2D",
+    "X1E",
+    "A1 mini",
+    "A1",
+    "H2C",
+    "X2D",
+    "X1",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.05.00.66",
+    "profile_title": "140mm 2kg spool and a ball on 1 plate",
+    "creation_date": "2026-05-23",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.12",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 2381764,
+   "sha256": "1b577a474d8b1c765f47c53f6162efc7dc34039692712b6688e4661878996802",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/rompecabezas-juguete-7h24.3mf.xz",
+   "instance_id": "2034276",
+   "thumbnail": "previews/profiles/2034276.jpg",
+   "print_time_h": 7.4,
+   "plates": 4,
+   "rating": 4.3,
+   "rating_count": 12,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "X1 Carbon",
+    "X1",
+    "X2D",
+    "X1E",
+    "P2S",
+    "H2D",
+    "H2S",
+    "H2C",
+    "A1",
+    "P1P",
+    "A2L",
+    "H2D Pro"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.04.00.70",
+    "profile_title": "590 mm Hight - Single piece Spool Cover with Slots",
+    "profile_notes": "This Design is meant to to be just printed once and cover all the hight of the spool 590 mm. Update: Now has 3 plates with different number of slots if you prefer smaller slots and bigger walls so cat has more fun.",
+    "creation_date": "2025-11-28",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 2118736,
+   "sha256": "85deea61f753367dd94b15f4d2d780134e32ae4ae084d2917b732ca6fa43e6c5",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1895326",
+ "title": "Rompecabezas de juguete para perros y gatos con carrete de filamento",
+ "slug": "filament-spool-diy-cat-dog-toy-treat-puzzle",
+ "url": "https://makerworld.com/en/models/1895326-filament-spool-diy-cat-dog-toy-treat-puzzle",
+ "author": "Iamdjem",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Dale una segunda vida a tu carrete de cartón vacío de impresión 3D (o cualquier carrete similar) como juguete interactivo para gatos. Este proyecto de reciclaje agrega sonido, movimiento y juegos de rompecabezas con algunas piezas rápidas impresas en 3D, perfectas para sus propios gatos o para donar a un refugio.\nCompatibilidad: Diseñado para carretes de ~Ø200 mm y funciona muy bien con el carrete reutilizable Bambu Lab. Si su carrete es de un tamaño diferente, simplemente escale las piezas impresas para que encajen.\nRápido y sencillo: Imprime rápidamente, no se requieren configuraciones sofisticadas. Inserte las piezas, cargue algunas golosinas o una cápsula/pelota sonajero y deje que su gato persiga, golpee y ruede.\nDiversión ecológica: reutiliza los carretes una vez que terminas el filamento: más juego, menos desperdicio.\nA mis gatos les encanta: ¡esperen patas curiosas, persecuciones rodantes y rompecabezas a la hora de la merienda!\nSeguridad: supervise el juego, retire el juguete si el cartón se empapa o se daña y asegure las partes pequeñas del sonajero si su gato mastica mucho.",
+ "use_cases": [],
+ "tags": [
+  "juguete para gatos",
+  "juguete para gatos 3d",
+  "accesorio de juguete para gatos",
+  "pelota de juguete para gato",
+  "cesta de juguete para gatos",
+  "carrete de filamento",
+  "accesorios para bobinas de filamento",
+  "accesorio de carrete de filamento",
+  "adaptador de carrete de filamento",
+  "carrete",
+  "carrete 1kg",
+  "adaptador carrete 1kg"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-10-16",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US6b6ea53e58b578/design/2025-10-16_465a0e4dd84b08.png",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg",
+  "previews/04.jpg",
+  "previews/05.jpg",
+  "previews/06.jpg",
+  "previews/07.jpg",
+  "previews/08.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   752
+  ],
+  "previews/02.jpg": [
+   1000,
+   752
+  ],
+  "previews/03.jpg": [
+   1000,
+   1328
+  ],
+  "previews/04.jpg": [
+   1000,
+   1328
+  ],
+  "previews/05.jpg": [
+   1000,
+   1328
+  ],
+  "previews/06.jpg": [
+   1000,
+   752
+  ],
+  "previews/07.jpg": [
+   1000,
+   752
+  ],
+  "previews/08.jpg": [
+   1000,
+   752
+  ],
+  "previews/profiles/2030623.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/2763924.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2034282.jpg": [
+   600,
+   796
+  ],
+  "previews/profiles/2384535.jpg": [
+   600,
+   509
+  ],
+  "previews/profiles/3155729.jpg": [
+   600,
+   451
+  ],
+  "previews/profiles/2034276.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

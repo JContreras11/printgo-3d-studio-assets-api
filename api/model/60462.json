@@ -1,0 +1,292 @@
+{
+ "files": [
+  {
+   "path": "model/furfinder-accesorio-1h42.3mf.xz",
+   "instance_id": "170202",
+   "thumbnail": "previews/profiles/170202.jpg",
+   "print_time_h": 1.7,
+   "plates": 3,
+   "rating": 4.3,
+   "rating_count": 100,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "0.08mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1842,
+      "weight_g": 2.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#854CE4"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1993,
+      "weight_g": 3.58,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#854CE4"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2117,
+      "weight_g": 4.12,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#854CE4"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA",
+   "size": 2095060,
+   "sha256": "35d9611818ebc3094438c9b5806a44c3a60724aa917f13c93d700904ff07e2e8",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/furfinder-accesorio-1h36.3mf.xz",
+   "instance_id": "576723",
+   "thumbnail": "previews/profiles/576723.jpg",
+   "print_time_h": 1.6,
+   "plates": 3,
+   "rating": 4.4,
+   "rating_count": 54,
+   "by_designer": false,
+   "printers": [
+    "A1 mini",
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.02.73",
+    "profile_title": "Increase the thickness of the first layer to avoid failure",
+    "profile_notes": "Make the first layer ticker to avoid Stringing.",
+    "creation_date": "2025-03-03",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1 mini",
+    "layer_height": "0.08",
+    "infill": "15%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1752,
+      "weight_g": 2.77,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 1900,
+      "weight_g": 3.42,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     },
+     {
+      "printer_model_id": "N1",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2022,
+      "weight_g": 3.94,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 3
+   },
+   "name": "Impresión en PLA",
+   "size": 1839780,
+   "sha256": "976a0ea7251c5101b1e90d02d541fe5ec605a68f69d62e7a4dfac9373d895854",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "60462",
+ "title": "FurFinder - Accesorio para collar/correa Apple AirTag",
+ "slug": "furfinder-apple-airtag-collar-strap-attachment",
+ "url": "https://makerworld.com/en/models/60462-furfinder-apple-airtag-collar-strap-attachment",
+ "author": "Asphalt3D",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Rastree a su amigo peludo con facilidad usando este accesorio de collar/correa diseñado para sostener un Apple AirTag.\nLas esquinas ergonómicamente redondeadas garantizan que su mascota no experimente ninguna irritación y el perfil mínimo evita que el accesorio quede atrapado o enredado.\nEl diseño de la tapa de rosca también le permite mostrar su grabado AirTag personalizado, lo que facilita la identificación de la etiqueta de su mascota.\nEl accesorio se desliza sobre el collar de su mascota y está disponible en tres anchos de correa: 1 pulgada (25,4 mm), ¾ de pulgada (19,05 mm) y 3/8 de pulgada (9,525 mm).\n\nTodas las piezas del modelo se pueden imprimir en 3D sin soportes. Se recomienda imprimir a una altura de capa de 10 mm o menos para mantener la resolución de la rosca del tornillo.\nProbado con PLA y 15% de relleno.\n\nTenga en cuenta que el collar, las correas y las hebillas no están incluidos.\nCon este accesorio de collar/correa, puede rastrear fácilmente la ubicación de su mascota mientras la mantiene cómoda y segura.",
+ "use_cases": [],
+ "tags": [
+  "perro",
+  "mascota",
+  "cuello",
+  "etiqueta de perro",
+  "etiqueta",
+  "gato",
+  "correa",
+  "airtag"
+ ],
+ "license": "BY",
+ "release_date": "2023-11-09",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/DSM00000000060462/design/2023-11-09_hkbhrfhn2oi4.png",
+ "images": [
+  "previews/01.png",
+  "previews/02.png",
+  "previews/03.png",
+  "previews/04.png",
+  "previews/05.png",
+  "previews/06.png",
+  "previews/07.png",
+  "previews/08.png",
+  "previews/09.png",
+  "previews/10.png",
+  "previews/11.jpg",
+  "previews/12.jpg",
+  "previews/13.jpg",
+  "previews/14.jpg",
+  "previews/15.jpg",
+  "previews/16.jpg"
+ ],
+ "preview": "previews/01.png",
+ "image_sizes": {
+  "previews/01.png": [
+   1000,
+   750
+  ],
+  "previews/02.png": [
+   1000,
+   1000
+  ],
+  "previews/03.png": [
+   1000,
+   1000
+  ],
+  "previews/04.png": [
+   1000,
+   1000
+  ],
+  "previews/05.png": [
+   1000,
+   1000
+  ],
+  "previews/06.png": [
+   1000,
+   1000
+  ],
+  "previews/07.png": [
+   1000,
+   1000
+  ],
+  "previews/08.png": [
+   1000,
+   1000
+  ],
+  "previews/09.png": [
+   1000,
+   1000
+  ],
+  "previews/10.png": [
+   1000,
+   1000
+  ],
+  "previews/11.jpg": [
+   1000,
+   1000
+  ],
+  "previews/12.jpg": [
+   1000,
+   1000
+  ],
+  "previews/13.jpg": [
+   1000,
+   1000
+  ],
+  "previews/14.jpg": [
+   1000,
+   1000
+  ],
+  "previews/15.jpg": [
+   1000,
+   1000
+  ],
+  "previews/16.jpg": [
+   1000,
+   1000
+  ],
+  "previews/profiles/170202.jpg": [
+   512,
+   512
+  ],
+  "previews/profiles/576723.jpg": [
+   480,
+   640
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

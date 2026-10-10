@@ -1,0 +1,146 @@
+{
+ "files": [
+  {
+   "path": "model/perro-minecraft-1h48.3mf.xz",
+   "instance_id": "1318695",
+   "thumbnail": "previews/profiles/1318695.jpg",
+   "print_time_h": 1.8,
+   "plates": 4,
+   "rating": 4.8,
+   "rating_count": 66,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "P1P",
+    "X1",
+    "X1 Carbon",
+    "X1E",
+    "A1",
+    "H2D",
+    "A1 mini",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-02.00.01.50",
+    "profile_title": "0.2mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-05",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1058068,
+   "sha256": "f9b86465eba6a7541ca7cf5145093dc90f8982abdd3704725d7b0c5461cbee34",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/perro-minecraft-2h48.3mf.xz",
+   "instance_id": "1379070",
+   "thumbnail": "previews/profiles/1379070.jpg",
+   "print_time_h": 2.8,
+   "plates": 4,
+   "rating": 5,
+   "rating_count": 26,
+   "by_designer": true,
+   "printers": [
+    "P1S",
+    "H2D",
+    "P1P",
+    "X1 Carbon",
+    "A1 mini",
+    "X1E",
+    "A1",
+    "X1",
+    "H2D Pro",
+    "H2S",
+    "P2S",
+    "H2C",
+    "X2D",
+    "A2L"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.02.57",
+    "profile_title": "High Quality 0.16mm layer, 2 walls, 15% infill",
+    "creation_date": "2025-04-20",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.16",
+    "infill": "15%",
+    "support_type": "tree(auto)",
+    "photos": 4
+   },
+   "name": "Versión estándar",
+   "size": 1142164,
+   "sha256": "403ef4b3c10602cd5411fbd9d76eb05277ff9623b85a294e814de6bf59843c97",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "1288941",
+ "title": "Perro Minecraft",
+ "slug": "minecraft-dog",
+ "url": "https://makerworld.com/en/models/1288941-minecraft-dog",
+ "author": "Gavin_",
+ "category": "pets",
+ "source_category": "Miniaturas > Animales",
+ "description": "¡¡¡POR FAVOR UTILICE PEGAMENTO!!!!\nPara mayor precisión, es posible que desees utilizar pinzas para colocar con cuidado los ojos pequeños.\n¡No se necesita AMS!\n\nEste modelo de Minecraft impreso en 3D captura todo el encanto y los detalles del juego sin necesidad de AMS. Está listo para mostrarse tan pronto como lo saque de la impresora. Ya seas coleccionista o fanático de Minecraft, este modelo te ofrece calidad y comodidad.\n\nLongitud: 4 pulgadas\nAncho: 1 pulgada\nAltura: 2 pulgadas\n\nPuedes elegir tus propios esquemas de color.\nImpúlsame ¡Gracias! Impulsar me ayuda a motivarme a hacer más modelos.",
+ "use_cases": [],
+ "tags": [
+  "minecraft",
+  "modelo 3d minecraft",
+  "impresora 3d minecraft",
+  "animales minecraft",
+  "salvadera",
+  "juegos de caja de arena",
+  "bloquear",
+  "construir",
+  "perro",
+  "perro 3d"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2025-04-05",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/US37d2e78c1404b7/design/2025-04-05_79fb30cd6e723.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   750
+  ],
+  "previews/02.jpg": [
+   1000,
+   750
+  ],
+  "previews/03.jpg": [
+   1000,
+   750
+  ],
+  "previews/profiles/1318695.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1379070.jpg": [
+   600,
+   450
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}

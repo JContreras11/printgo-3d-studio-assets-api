@@ -1,0 +1,275 @@
+{
+ "files": [
+  {
+   "path": "model/bolsa-caca-36min.3mf.xz",
+   "instance_id": "523696",
+   "thumbnail": "previews/profiles/523696.jpg",
+   "print_time_h": 0.6,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 489,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "X1E",
+    "A2L",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "P2S",
+    "P1P",
+    "A1 mini",
+    "A1"
+   ],
+   "default": true,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Larger Size, 0.2mm layer, 3 walls, 25% infill",
+    "creation_date": "2025-01-24",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "BL-P001",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2042,
+      "weight_g": 15.23,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PLA",
+        "color": "#8000FF"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PLA",
+   "size": 1776036,
+   "sha256": "0bbd5a9aa13216203fb9652f0647a0cfa376832a00baad36de2296d383aedab4",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bolsa-caca-18min.3mf.xz",
+   "instance_id": "1646445",
+   "thumbnail": "previews/profiles/1646445.jpg",
+   "print_time_h": 0.3,
+   "plates": 1,
+   "rating": 5,
+   "rating_count": 61,
+   "by_designer": false,
+   "printers": [
+    "P1S",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "X1 Carbon"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.01.01.52",
+    "profile_title": "Scaled 80% on X/Y, Z reduced to 5.5mm | <6g filament <20min",
+    "profile_notes": "Used original settings except for X/Y and Z size. X&Y scaled to 80 % (~8,5cm long) and reduced Z from 6,5mm to 5,5mm. Print time ~10min and uses less than 5,5g filament.",
+    "creation_date": "2025-07-01",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab P1S",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión grande",
+   "size": 1478300,
+   "sha256": "9b8b9d301ee0dace983a354a66566bb0c554cf49c5af3b5e81c3495e906d1f0e",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bolsa-caca-24min.3mf.xz",
+   "instance_id": "970479",
+   "thumbnail": "previews/profiles/970479.jpg",
+   "print_time_h": 0.4,
+   "plates": 1,
+   "rating": 4.9,
+   "rating_count": 178,
+   "by_designer": true,
+   "printers": [
+    "X1 Carbon",
+    "P2S",
+    "X2D",
+    "H2S",
+    "H2C",
+    "A1 mini",
+    "A2L",
+    "H2D Pro",
+    "H2D",
+    "X1",
+    "X1E",
+    "P1P",
+    "A1",
+    "P1S"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-02.00.03.54",
+    "profile_title": "Smaller Size, 0.2mm layer, 3 walls, 25% infill",
+    "profile_notes": "Updated smaller size for those smaller puppies, just as easy to print and works well!",
+    "creation_date": "2025-06-25",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab X1 Carbon",
+    "layer_height": "0.2",
+    "infill": "25%",
+    "support_type": "tree(auto)",
+    "photos": 1
+   },
+   "name": "Versión estándar",
+   "size": 1454484,
+   "sha256": "be9b46d69ebd61343045541a87a8e412adddcc6c66ebb2ea6e6fb30a6675071d",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  },
+  {
+   "path": "model/bolsa-caca-42min.3mf.xz",
+   "instance_id": "969965",
+   "thumbnail": "previews/profiles/969965.jpg",
+   "print_time_h": 0.7,
+   "plates": 1,
+   "rating": 4.8,
+   "rating_count": 20,
+   "by_designer": false,
+   "printers": [
+    "A1",
+    "A2L",
+    "X1E",
+    "X1",
+    "X2D",
+    "H2C",
+    "H2D Pro",
+    "P1S",
+    "H2S",
+    "H2D",
+    "X1 Carbon",
+    "P2S",
+    "P1P",
+    "A1 mini"
+   ],
+   "default": false,
+   "meta": {
+    "application": "BambuStudio-01.10.01.50",
+    "profile_title": "Scaled 80%, same thickness",
+    "profile_notes": "Reduced infill density, adjusted ironing on top layer and scaled the model down by 80% on X/Y axis",
+    "creation_date": "2025-01-15",
+    "slicer": "Bambu Studio",
+    "printer": "Bambu Lab A1",
+    "layer_height": "0.2",
+    "infill": "15%",
+    "ironing": "top",
+    "support_type": "normal(auto)",
+    "plates": [
+     {
+      "printer_model_id": "N2S",
+      "nozzle_diameters": "0.4",
+      "prediction_ms": 2594,
+      "weight_g": 9.07,
+      "support_used": false,
+      "filaments": [
+       {
+        "type": "PETG",
+        "color": "#000000"
+       }
+      ]
+     }
+    ],
+    "photos": 1
+   },
+   "name": "Impresión en PETG versión grande",
+   "size": 2027196,
+   "sha256": "48de016a1e9e4ceab0ecf64c32979bc1615c541265144b6320240d057930f94a",
+   "compressed": true,
+   "decompress": "xz -d -k <filename>"
+  }
+ ],
+ "id": "601386",
+ "title": "Bolsa para caca de perro Poo-ch",
+ "slug": "poo-ch-pouch-dog-poop-bag-holder",
+ "url": "https://makerworld.com/en/models/601386-poo-ch-pouch-dog-poop-bag-holder",
+ "author": "Mikhail",
+ "category": "pets",
+ "source_category": "Hogar > Mascotas",
+ "description": "Presentamos nuestra innovadora bolsa Poo-ch impresa en 3D, el accesorio perfecto para los dueños de perros que desean que sus paseos sean más cómodos y con las manos libres. Di adiós a hacer malabares con bolsas de excrementos apestosas y disfruta de una experiencia sin complicaciones con tu amigo peludo.\n\n🏼 Comodidad de manos libres: se engancha fácilmente a la correa, cinturón o bolso de su perro, lo que le permite mantener las manos libres para jugar con su mascota o tomar un café.\n\n-\n\n🏼 ¡Ahora se incluye un tamaño más pequeño para esos perritos!",
+ "use_cases": [],
+ "tags": [
+  "mascotas",
+  "perro",
+  "caminar",
+  "caca",
+  "soporte para bolsa de caca",
+  "correa",
+  "accesorio de correa",
+  "titular",
+  "bolsa",
+  "emboscado",
+  "accesorios para perros"
+ ],
+ "license": "Standard Digital File License",
+ "release_date": "2024-08-22",
+ "source_preview_url": "https://makerworld.bblmw.com/makerworld/model/USab6583913d214d/design/a68b699bd96458db.jpg",
+ "images": [
+  "previews/01.jpg",
+  "previews/02.jpg",
+  "previews/03.jpg"
+ ],
+ "preview": "previews/01.jpg",
+ "image_sizes": {
+  "previews/01.jpg": [
+   1000,
+   800
+  ],
+  "previews/02.jpg": [
+   1000,
+   800
+  ],
+  "previews/03.jpg": [
+   975,
+   1440
+  ],
+  "previews/profiles/523696.jpg": [
+   600,
+   450
+  ],
+  "previews/profiles/1646445.jpg": [
+   450,
+   600
+  ],
+  "previews/profiles/970479.jpg": [
+   600,
+   606
+  ],
+  "previews/profiles/969965.jpg": [
+   600,
+   451
+  ]
+ },
+ "storage": {
+  "format": "xz",
+  "note": "Los 3MF se guardan como .3mf.xz para no superar el límite de 100 MB de GitHub. Descomprime con `xz -d -k <archivo>` antes de usarlo; el SHA-256 se calcula sobre el archivo comprimido."
+ }
+}
